@@ -1,0 +1,1601 @@
+@title: Disgaea 2: Cursed Memories
+@author: Buster Wolf
+@updated: 2025-04-01
+
+Disgaea 2: Cursed Memories is the second mainline game in the strategy RPG series Disgaea. The purpose of this guide is to list item locations for Main Story, Dark World, Bonus Worlds and Axel Mode in case you are looking for a particular item type to steal with a Thief for those playing Dark Hero Days (PSP) or PC (Steam) for completion of the Collection Record at the Record Shop. Unless noted any item they carry can potentially be of any rarity (Common, Rare or Legendary). If any unique enemies appear on a map they will be listed first followed by the normal enemies that appear, if a map has a different enemy from the first time it is done they will be listed separately. Endings will also be listed with a link to a YouTube video incase you want to see the ending again.
+
++ Main Story
+++ Episode 1 The Overlord's Daughter
+Town Fields
+**Tutorial 1**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Prinny (T1) || 3 || || || || ||
+
+**Tutorial 2**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Prinny (T1) || 3 || || || || ||
+
+**Tutorial 3**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Prinny (T1) || 3 || || || || ||
+
+**Tutorial 4**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Prinny (T1) || 3 || || || || ||
+
+**1-1 Beginner's Field**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Orc || Petite Orc (T1) || 3 || || || || ||
+|| Spirit || Ghost (T1) || 2 || || || || ||
+
+**1-2 Reflection Pond**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Prinny (T1) || 1 || Paw Glove || || || ||
+|| Prinny || Prinny (T1) || 4 || || || || ||
+
+**1-3 Psycho's Hideout**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Winged Warrior || Mothman (T1) || 1 || Paw Glove || || || ||
+|| Orc || Petite Orc (T1) || 4 || || || || ||
+
+**1-4 Dead Tree Field**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Axel || Dark Hero || 1 || Double Slap || || || ||
+|| Warrior || Fighter  (Fist) (T1) || 1 || Worn Gloves || || || ||
+|| Warrior || Fighter (Sword) (T1) || 2 || Lazy Sword || || || ||
+|| Valkyrie || Lady Fighter (T1) || 2 || Replica Spear || || || ||
+|| Cleric || Healer (T1) || 1 || Training Staff || Common Orb || || ||
+If you lose this battle you will see the [https://www.youtube.com/watch?v=CtsOlemwY-4 Axel Ending] which will lead to a new cycle.
+
+Repeated version removes Axel and replaces him with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Magician || Green Skull (T2) || 1 || Training Staff || Common Orb || || |
+
+++ Episode 2 Rozalin the Liar
+Zenon's Palace
+**2-1 Banquet Room**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Marionette || Marionette (T1) || 4 || || || || ||
+|| Spirit || Ghost (T1) || 2 || The Weak || Common Orb || || ||
+
+**2-2 Sanction Room**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Tink || Dirty Frog || 1 || Goblin Claw || Tunic || || ||
+
+Repeated version
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Marionette || Marionette (T1) || 3 || || Tunic || || ||
+|| Spirit || Ghost (T1) || 3 || The Rotten || Common Orb || || ||
+
+**2-3 Room of Despair**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Valkyrie || Lady Fighter (T1) || 3 || Iron Axe || || || ||
+|| Thief || Thief (Gun) (T1) || 4 || Handgun || || || ||
+|| Thief || Thief (Bow) (T1) || 3 || Wooden Bow || || || ||
+
+**2-4 Sealed Room**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Axel || Dark Hero || 1 || Knuckles || Imperial Seal || || ||
+|| Cleric || Healer (T1) || 1 || Training Staff || Common Orb || || ||
+|| Warrior || Warrior (T2) || 1 || Broadsword || Brawny Muscle || || ||
+|| Valkyrie || Lady Fighter (T1) || 2 || Broadsword || || || ||
+|| Magician || Red Skull (T1) || 2 || Wooden Staff || Common Orb || || ||
+|| Magician || Green Skull (T2) || 1 || Wooden Staff || Common Orb || || ||
+|| Magician || Blue Skull (T3) || 1 || Wooden Staff || Common Orb || || ||
+If you lose this battle you will see the [https://www.youtube.com/watch?v=CtsOlemwY-4 Axel Ending] which will lead to a new cycle.
+
+Repeated version removes Axel & the Cleric and replaces them with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Thief || Thief (T1) || 2 || Handgun || Glasses || || ||
+
+++ Episode 3 Rise of the Beauty Queen
+Murderer's vault
+**3-1 Poisonous Swamp**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Zombie || Zombie (T1) || 7 || || || || ||
+
+**3-2 Dangerous Refuge**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Winged Warrior || Messenger (T2) || 2 || || || || ||
+|| Winged Warrior || Messenger (T2) || 4 || Pointy Bone || || || ||
+|| Winged Warrior || Messenger (T2) || 2 || Goblin Claw || || || ||
+
+**3-3 Corpse Garden**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Aqua Demon || Voidanoi (T2) || 1 || The Dead || Common Orb || Dark Rosary || ||
+|| Aqua Demon || Warslug (T1) || 3 || The Rotten || || || ||
+|| Aqua Demon || Warslug (T1) || 3 || The Weak || || || ||
+
+**3-4 Tragedyland**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Etna || Beauty Queen || 1 || Elder Spear || Testament || Brigandine || Falcon Shoes ||
+|| Prinny || Prinny (T1) || 10 || Goblin Claw || || || ||
+If you win this battle you will see the [https://youtu.be/1ufLnqJ-m8Q?si=wFrIDVBVDR1LpYMu&t=35 Etna Ending] which will lead to a new cycle and mark Etna defeated in your Dark Records.
+
+Repeated version
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Winged Warrior || Watcher (T3) || 1 || Wolf Fang || Buckler || Common Orb || ||
+|| Winged Warrior || Messenger (T2) || 5 || Goblin Claw || Common Orb || || ||
+
+++ Episode 4 Axel's Scheme
+Dallos River
+**4-1 Bloody Valley**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Orc || Orc Captain (T2) || 2 || || || || ||
+|| Orc || Petite Orc (T1) || 4 || || || || ||
+|| Spirit || Ghost (T1) || 2 || || || || ||
+|| Alraune || Alraune (T1) || 2 || || || || ||
+
+**4-2 Life Exchange**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Beast Master || Beast Tamer (Sword) (T1) || 2 || Dragon Blade || Leather Jacket || || ||
+|| Beast Master || Beast Tamer (Bow) (T1) || 1 || Silver Bow || Leather Jacket || || ||
+|| Beast Master || Beast Tamer (Ax) (T1) || 1 || Primitive Axe || Leather Jacket || || ||
+|| Roc || Cockatrice (T1) || 4 || || || || ||
+|| Orc || Petite Orc (T1) || 5 || || || || ||
+
+**4-3 Red Waterfall**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Beast Master || Beast Tamer (T1) || 1 || Naginata || || || ||
+|| Felynn || Nekomata (T1) || 7 || Goblin Claw || || || ||
+
+**4-4 Dragon's Mouth**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Axel || Dark Hero || 1 || Beat Down || Imperial Seal || || ||
+|| Thief || Rogue (Bow) (T2) || 2 || Silver Bow || Glasses || || ||
+|| Thief || Rogue (Bow) (T2) || 2 || Long Bow || Glasses || || ||
+|| Thief || Thief (T1) || 2 || Rapier || || || ||
+|| Sinner || Togabito (T1) || 2 || Double Slap || || || ||
+|| Heavy Knight || Heavy Knight (T1) || 2 || Pike || || || ||
+If you lose this battle you will see the [https://www.youtube.com/watch?v=CtsOlemwY-4 Axel Ending] which will lead to a new cycle.
+
+Repeated version removes Axel & the Thieves with Silver Bows and replaces them with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Warrior || Warrior (T2) || 1 || Hammer || Glasses || Brawny Muscle || ||
+|| Sinner || Togabito (T1) || 2 || Knuckles || Leather Jacket || || ||
+
+++ Episode 5 The Promise
+Cavern of Evil
+**5-1 Glutton's Hideout**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Orc || Head Orc (T3) || 1 || Wolf's Fang || Brawny Muscle || Light Armor || ||
+|| Orc || Orc Captain (T2) || 2 || Goblin Claw || || || ||
+|| Orc || Petite Orc (T1) || 4 || || || || ||
+|| Spirit || Boggart (T2) || 4 || The Sacrifice || || || ||
+|| Flora Beast || Alraune (T1) || 2 || The Sacrifice || || || ||
+|| Succubus || Empusa (T1) || 3 || The Sacrifice || || || ||
+
+**5-2 Eternal Oblivion**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Orc || Orc Captain (T2) || 3 || Wolf's Fang || || || ||
+|| Orc || Orc Captain (T2) || 3 || Goblin Claw || || || ||
+|| Orc || Petite Orc (T1) || 3 || Pointy Bone || || || ||
+|| Orc || Petite Orc (T1) || 3 ||  Paw Glove || || || ||
+
+**5-3 Shriek of Death**
+Enemy
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Mystic Beast || Cu Sith (T1) || 4 || Slime Juice || || || ||
+
+Neutral
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Axel || Dark Hero || 1 || Playful Punch || Leather Jacket || Devil Ring || ||
+Repeated version removes Axel.
+
+**5-4 Dark Ruins**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Orc || Orc Captain (T2) || 1 || Wolf's Fang || || || ||
+|| Orc || Petite Orc (T1) || 2 || Goblin Claw || || || ||
+|| Orc || Petite Orc (T1) || 4 || || || || ||
+|| Flora Beast || Alraune (T1) || 4 || The Dead || || || ||
+|| Spirit || Boggart (T2) || 2 || The Dead || || || ||
+|| Mystic Beast || Cu Sith (T1) || 3 || Wolf's Fang || || || ||
+
+++ Episode 6 Colosseum
+Battle Arena
+**6-1 First Battle**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Undefeatable || Invincible Hero || 1 || !Supremacy || !Almighty Armor || !Maxi Sandals || ||
+|| Valkyrie || Lady Fighter (Gun) (T2) || 1 || .44 Magnum || Jijo Outfit || Psycho Orb || ||
+|| Valkyrie || Lady Fighter (Staff) (T2) || 1 || Cardinal Staff || Jijo Outfit || Psycho Orb || ||
+|| Thief || Rogue (Spear) (T2) || 1 || Naginata || Binoculars || Binoculars || Binoculars ||
+|| Thief || Rogue (Fist) (T2) || 1 || Playful Punch || Jijo Outfit || Binoculars || ||
+|| Magician || Red Skull (T1) || 1 || Elven Bow || Jijo Outfit || Psycho Orb || ||
+|| Witch || Blue Mage (T3) || 1 || Playful Punch || Jijo outfit || Psycho Orb || ||
+|| Cleric || Acolyte (T2) || 1 || Battle Axe || Kung-Fu Muscle || Kung-Fu Muscle || Kung-Fu Muscle ||
+! Unique items only available here.
+
+Repeated version replaces Undefeatable with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Warrior || Warrior (T2) || 1 || Shamshir || Traveler Mantle || || ||
+
+**6-2 Second Battle**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Old Man Geo || Geo Master || 1 || Cardinal Staff || Traveler Mantle || Psycho Orb || ||
+|| Marionette || Killer Puppet (T2) || 7 || Wolf's Fang || || || ||
+Repeated version replaces Old Man Geo with a Druid (T1 Geo Master), equipment stays the same.
+
+**6-3 Third Battle**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Elenor || Prophet || 1 || The Puppet || Jijo Outfit || Psycho Orb || Dark Rosary ||
+|| Feylnn || Cait Sith (T2) || 2 || || || || ||
+|| Succubus || Lilim (T2) || 3 || || || || ||
+|| Flora Beast || Nemophila (T2) || 2 || || || || ||
+
+Repeated version replaces Elenor with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Beast Master || Beast Tamer (T1) || 1 || Elven Bow || Jijo Outfit || || ||
+
+**6-4 Fourth Battle**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| 12-Pounder || Prinny (T1) || 1 || || || || ||
+|| Prinny || Prinny (T1) || 9 || || || || ||
+Repeated version removes 12-Pounder.
+
+++ Episode 7 Battle Tournament
+Yukimaru's Duel
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Yukimaru? || Kunoichi || 1 || Katana || Black Outfit || Cross-Trainers || ||
+
+**7-1 Fifth Battle**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prism Red || Super Hero || 1 || Crab Claw || Traveler Mantle || || ||
+|| Prism Green || Super Hero || 1 || The Slave || Binoculars || || ||
+|| Prism Purple || Super Hero || 1 || The Slave || Psycho Orb || || ||
+|| Prism Blue || Super Hero || 1 || Crab Claw || Slippers || || ||
+|| Prism Yellow || Super Hero || 1 || Crab Claw || Kung-Fu Muscle || || ||
+
+Repeated version
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Warrior || Warrior (T2) || 1 || Knight Sword || Traveler Mantle || || ||
+|| Magician || Green Skull (T2) || 1 || Magician Wand || Psycho Orb || || ||
+|| Witch || Red Mage (T1) || 1 || Pixie Wand || Psycho Orb || || ||
+|| Witch || Blue Mage (T3) || 1 || Witch's Wans || Psycho Orb || || ||
+|| Cleric || Healer (T1) || 1 || Cardinal Staff || Psycho Orb || || ||
+
+**7-2 Semi-Final**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Yukimaru || Kunoichi || 1 || Katana || Black Outfit || Cross-Trainers || ||
+|| Kunoichi || Hanakage (Sword) (T1) || 3 || Katana || || || ||
+|| Kunoichi || Hanakage (Staff) (T1) || 3 || Cardinal Staff || || || ||
+|| Ninja || Genin (Sword) (T1) || 3 || Katana || || || ||
+|| Ninja || Genin (Fist) (T1) || 3 || Playful Punch || || || ||
+
+Repeated version replaces Yukimaru with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Wiseman || Druid (T1) || 1 || Cardinal Staff || Traveler Mantle || || ||
+
+**7-3 Final Battle**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Axel || Dark Hero || 1 || Finger Snap || Light Armor || Devil Ring || ||
+|| Heavy Knight || Heavy Knight (T1) || 4 || Beckdograban || Light Amor || || ||
+|| Archer || Archer (T1) || 4 || Elven Bow || || || ||
+|| Gunner || Gunner (T1) || 4 || Steam Gun || || || ||
+|| Magic Knight || Magic Knight (T1) || 2 || Spatha || Jijo Outfit || || ||
+If you lose this battle you will see the [https://www.youtube.com/watch?v=CtsOlemwY-4 Axel Ending] which will lead to a new cycle.
+
+++ Episode 8 Zenon Appears!
+Colosseum Depths
+During the story you do these stages once, after completing this episode they are replayable in numbered order.
+**8-6 Sunken Altar**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Dragon || Dragon (T1) || 1 || Odd Mandible || Round Shield || Kung-Fu Muscle || ||
+|| Undead || Ghoul (T2) || 8 || Slime Juice || || || ||
+
+**8-1 Hades Corridor**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Beast Master || Beast Leader (T2) || 2 || Yggdrasil Bow || Round Shield || Exertion Belt || ||
+|| Dragon || Dragon (T1) || 4 || Odd Mandible || Round Shield || Kung-Fu Muscle || ||
+
+**8-2 Loser's Gallows**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Magician || Red Skull (T1) || 1 || Crystal Rod || || || ||
+|| Witch || Blue Mage (T3) || 1 || Crystal Rod || || || ||
+|| Magician || Green Skull (T2) || 1 || Crystal Rod || || || ||
+|| Witch || Star Mage (T4) || 1 || Crystal Rod || || || ||
+
+**8-3 Confession Room**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Sinner || Tobigato (T1) || 10 || Boxing Gloves || || || ||
+
+**8-4 Survivor's End**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Magician || Red Skull (T1) || 1 || Crystal Rod || Traveler Mantle || Psycho Orb || ||
+|| Dragon || Dragon (T2) || 2 || Odd Mandible || || || ||
+|| Spirit || Specter (T3) || 3 || The Demon || Psycho Orb || || ||
+|| Witch || Blue Mage (T3) || 1 || Crystal Rod || Jijo Outfit || Psycho Orb || ||
+
+**8-5 Putrid Courtroom**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Archer || Archer (T1) || 6 || Jeweled Bow || Binoculars || || ||
+|| Heavy Knight || Heavy Knight (T1) || 4 || Shogun Spear || || || ||
+|| Cleric || Acolyte (T2) || 2 || Crystal Rod || Psycho Orb || || ||
+
+++ Episode 9 Summoned Overlord
+Alche City
+**9-1 Dead Metropolis**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Kunoichi || Yukikage (T2) || 1 || Katana || Black Outfit || || ||
+|| Kunoichi || Hanakage (T1) || 1 || Katana || Protector || || ||
+|| Ninja || Genin (T1) || 4 || Boxing Gloves || || || ||
+|| Marionette || Killer Puppet (T2) || 7 || || || || ||
+
+**9-2 Grave of Alchemy**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Magic Knight || Magic Knight (T1) || 4 || Bastard Sword || || || ||
+|| Witch || Star Mage (T4) || 2 || Crystal Rod || || || ||
+|| Skull || star Skull (T4) || 2 || Crystal Rod || || || ||
+
+**9-3 Altered Town**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Undead || Ghoul (T2) || 4 || || || || ||
+|| Winged Warrior || Watcher (T3) || 3 || The Delusion || || || ||
+|| Wiseman || Mystic (T2) || 3 || Crystal Rod || Dark Orb || || ||
+|| Mystic Beast || Hell Hound (T2) || 2 || Viper Bite || Spirit Muscle || || ||
+
+**9-4 Snarling Capital**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Prinny (T1) || 12 || || || || ||
+
+Repeated version
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Mystic Beast || Hell Hound (T2) || 8 || Bear Claw || || || ||
+
+++ Episode 10 The Two Ninjas
+Carcassed Lands
+**10-1 Rotten Fields**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Roc || Basilicrow (T2) || 9 || || || || ||
+
+**10-2 Luring Nightmare**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Prinny (T1) || 12 || || || || ||
+
+Repeated version
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Archer || Hunter (T2) || 4 || Exorcise Bow || Protector || Nerd Glasses || ||
+|| Archer || Archer (T1) || 4 || Exorcise Bow || Protector || Nerd Glasses || ||
+
+**10-3 Rebelling Spirit**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Prinny (T1) || 10 || || || || ||
+
+Repeated version
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Archer || Hunter (Sword) (T2) || 2 || Heavy Sword || Magical Vest || Cross-Trainers || ||
+|| Archer || Hunter (Spear) (T2) || 1 || Trident || Magical Vest || Cross-Trainers || ||
+|| Thief || Rogue (Axe) (T2) || 1 || Masakari || Magical Vest || Cross-Trainers || ||
+|| Thief || Rogue (Spear) (T2) || 2 || Scorpion || Magical Vest || Cross-Trainers || ||
+|| Thief || Rogue (Fist) (T2) || 1 || Spiked Gloves || Magical Vest || Cross-Trainers || ||
+|| Thief || Rogue (Sword) (T2) || 2 || Bastard Sword || Magical Vest || Cross-Trainers || ||
+
+**10-4 Dead Breath**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Fubuki || Ninja Master || 1 || !Niflheim || Bushido Suit || Bloody Orb || ||
+|| Male Samurai || Ronin (T1) || 6 || Katana || || || ||
+! Special Rank 20 Axe, one of two time you can steal this.
+
+Repeated version replaces Fubuki with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Kunoichi || Yukikage || 1 || Prinny Staff || Black Outfit || || ||
+
+++ Episode 11 Awakening
+Shinra Tower
+**11-1 Geo Challenger**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Cleric || Priest (T3) || 1 || Sorcery Rod || Dark Rosary || Dark Orb || ||
+|| Mystic Beast || Black Dog (T3) || 2 || Bull Horn || || || ||
+|| Aqua Demon || Sea Monk (T3) || 2 || The Nightmare || || || ||
+|| Felynn || Werecat (T3) || 2 || Bull Horn || || || ||
+|| Roc || Peryton (T3) || 2 || Bull Horn || || || ||
+
+**11-2 Witty Contest**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Witch || Blue Mage (T3) || 1 || Fancy Rod || Magical Vest || || ||
+|| Magician || Blue Skull (T3) || 2 || Fancy Rod || || || ||
+|| Witch || Red Mage (T1) || 1 || Fancy Rod || Magical Vest || || ||
+|| Magician || Red Skull (T1) || 2 || Fancy Rod || || || ||
+|| Witch || Green Mage (T2) || 1 || Fancy Rod || Magical Vest || || ||
+|| Magician || Green Skull (T2) || 2 || Fancy Rod || || || ||
+
+**11-3 Death to Cowards**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Wiseman || Sage (T3) || 8 || Druid Staff || || || ||
+
+**11-4 Defiler Ambition**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Wiseman || Sage (T3) || 1 || Fancy Rod || Black Outfit || Dark Orb || ||
+|| Magician || Star Skull (T4) || 1 || Fancy Rod || Black Outfit || Dark Orb || ||
+|| Witch || Star Mage (T4) || 1 || Fancy Rod || Black Outfit || Dark Orb || ||
+|| Archer || Shooter (T3) || 7 || Golden Bow || || || ||
+
+**11-5 Evil Temptation**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Dragon || Dragon (T1) || 1 || Spikey Shell || || || ||
+|| Dragon || Fafnir (T2) || 1 || Spikey Shell || || || ||
+|| Dragon || Nidhogg (T3) || 1 || Spikey Shell || || || ||
+|| Dragon || Ahzi Dahaka (T4) || 1 || Spikey Shell || || || ||
+
+**11-6 Warped Knowledge**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Witch || Star Mage (T4) || 1 || Prinny Staff || Black Outfit || Dark Orb || ||
+|| Witch || Blue Mage (T3) || 1 || Prinny Staff || Black Outfit || Dark Orb || ||
+|| Witch || Green Mage (T2) || 1 || Prinny Staff || Black Outfit || Dark Orb || ||
+|| Witch || Red Mage (T1) || 1 || Prinny Staff || Black Outfit || Dark Orb || ||
+|| Mystic Beast || Black Dog (T3) || 1 || Bull Horn || Fur Jacket || Beastly Belt || Spirit Muscle ||
+|| Dragon || Fafnir (T2) || 1 || Bull Horn || Fur Jacket || Beastly Belt || Spirit Muscle ||
+|| Holy Dragon || White Dragon (T1) || 1 || The Nightmare || Fur Jacket || Bloody Orb || Spirit Muscle ||
+|| Aqua Demon || Sea Monk (T3) || 1 || The Nightmare || Fur Jacket || Bloody Orb || Spirit Muscle ||
+
+**11-7 Holy Tower**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Laharl || Overlord || 1 || Laser Blade || Majin Armor || Testament || Orion's Belt ||
+If you win the first battle you will see the [https://youtu.be/zLkE7MEFEH8?si=4vjRhrOM30hhTPsx&t=40 Laharl A ending] which will start a new cycle and mark Laharl A defeated in your Dark Records.
+
+Repeated version
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Wiseman || Sage (T3) || 1 || Fancy Rod || Black Outfit || Dark Orb || ||
+|| Marionette || Assassin Doll (T3) || 6 || || || || ||
+
+++ Episode 12 Castle Raid
+To Zenon's Castle
+**12-1 Overlord's Sign**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Warrior || Destroyer (Axe) (T3) || 1 || Heavy Axe || || || ||
+|| Warrior || Destroyer (Sword) (T3) || 2 || Bekatwa || || || ||
+|| Valkyrie || Valkyrie (T3) || 3 || Skeleton Bow || || || ||
+|| Heavy Knight || Iron Knight (T2) || 3 || Bone Spear || || || ||
+
+**12-2 Crystalline Maze**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Dragon Zombie || Skeletal Dragon (T1) || 1 || Poison Needle || Battle Vest || Fight Muscle || ||
+|| Holy Dragon || White Dragon (T1) || 2 || The Accursed || Bloody Orb || || ||
+|| Succubus || Succubus (T3) || 4 || The Accursed || || || ||
+
+**12-3 Mysterious Trap**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Winged Warrior || Watcher (T3) || 2 || || || || ||
+|| Undead || Corpse (T3) || 3 || || || || ||
+|| Marionette || Assassin Doll (T3) || 3 || || || || ||
+|| Orc || Head Orc (T3) || 3 || || || || ||
+|| Spirit || Specter (T3) || 2 || || || || ||
+
+**12-4 Dancing Fools**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Witch || Prism Mage (T5) || 1 || Druid staff || Fur Jacket || Ace Muscle || Ace Muscle ||
+|| Magic Knight || Rune Knight (T3) || 1 || Evil Buster || Bloody Orb || || ||
+|| Kunoichi || Hoshikage (T3) || 1 || Hoodlum Fist || Ninja Tabi || || ||
+|| Valkyrie || Valkyrie (T3) || 1 || Benkei's Glaive || Fur Jacket || || ||
+|| Thief || Scout (T3) || 1 || Sledgehammer || Opera Glasses || || ||
+|| Archer || Shooter (T3) || 1 || Crystal Bow || Opera Glasses || || ||
+|| Flora Beast || Pharbitis (T3) || 1 || The Accursed || Bloody Orb || || ||
+|| Succubus || Succubus (T3) || 2 || The Accursed || Magical Vest || || ||
+|| Beast Master || Beast Lord (T3) || 1 || Heavy Axe || Fur Jacket || || ||
+|| Felynn || Werecat (T3) || 2 || Bear Claw || Fur Jacket || || ||
+|| Cleric || Priest (T3) || 1 || Sorcery Rod || Magical Vest || || ||
+
+**12-5 Agito the Reaper**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Magician || Star Skull (T4) || 1 || Sorcery Rod || Fur Jacket || Bloody Orb || ||
+|| Magician || Blue Skull (T3) || 1 || Sorcery Rod || Fur Jacket || Bloody Orb || ||
+|| Magician || Green Skull (T2) || 1 || Sorcery Rod || Fur Jacket || Bloody Orb || ||
+|| Magician || Red Skull (T1) || 1 || Sorcery Rod || Fur Jacket || Bloody Orb || ||
+|| Gunner || Outlaw (T3) || 2 || Flamethrower || Chain Mail || Plastic Nose || ||
+|| Wiseman || Sage (T3) || 2 || Fancy Rod || Bloody Orb || || ||
+|| Warrior || Destroyer (T3) || 3 || Heavy Axe || || || ||
+|| Male Samurai || Bujin (T3) || 1 || Katzbalger || || || ||
+|| Sinner || Ashura (T3) || 1 || Iron Punch || || || ||
+|| Ninja || Jounin (T3) || 1 || Krishmald || || || ||
+
+**12-6 Crystal Gates**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Serion || Dark Priest || 1 || The Dismal || Wizard Robe || Bloody Orb || ||
+|| Shura || Demon General || 1 || Rose Whip || Scale Mail || Aura Belt || ||
+|| Cleric || Priest (T3) || 2 || Druid Staff || Magical Vest || Bloody Orb || ||
+|| Archer || Shooter (T3) || 2 || Skeleton Bow || Fur Jacket || || ||
+|| Holy Dragon || Dragon King (T2) || 1 || The Dream || || || ||
+|| Holy Dragon || White Dragon (T1) || 2 || The Dream || || || ||
+|| Dragon Zombie || Death Dragon (T2) || 1 || Poison Needle || || || ||
+|| Dragon Zombie || Skeletal Dragon (T1) || 2 || Poison Needle || || || ||
+
+Repeated version removes Serion and Shura and replaces them with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Valkyrie || Valkyrie (T3) || 1 || Bone Spear || Chain Mail || Beastly Belt || ||
+|| Warrior || Destroyer (T3) || 1 || Ninja Blade || Chain Mail || Beastly Belt || ||
+|| Cleric || Acolyte (T2) || 2 || Druid Staff || Magical Vest || Bloody Orb || ||
+
+++ Final Episode The Truth
+Zenon's Castle
+**13-1 The Lords' Party**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Male Samurai || Bujin (T3) || 1 || Nightmare || Bushido Suit || Dark Rosary || Fight Muscle ||
+|| Male Samurai || Samurai (T2) || 4 || Katzbalger || Chain Mail || || ||
+|| Ninja || Chunin (Fist) (T2) || 2 || Iron Nails || || || ||
+|| Ninja || Chunin (Sword) (T2) || 2 || Ninja Blade || || || ||
+|| Kunoichi || Yukikage (Fist) (T2) || 2 || Iron Nails || || || ||
+|| Kunoichi || Yukikage (Sword) (T2) || 2 || Kunoichi Blade || || || ||
+
+**13-2 Time of Trial**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Witch || Red Mage (T1) || 1 || Sorcery Rod || Plastic Nose || Bloody Orb || ||
+|| Witch || Green Mage (T2) || 1 || Sorcery Rod || Plastic Nose || Bloody Orb || ||
+|| Witch || Blue Mage (T3) || 1 || Sorcery Rod || Plastic Nose || Bloody Orb || ||
+|| Felynn || Cait Sith (T2) || 5 || Rose Whip || || || ||
+|| Wood Golem || Wood Giant (T1) || 1 || Golem Punch || Breastplate || || ||
+|| Flora Beast || Belladonna (T4) || 3 || Lust || || || ||
+
+**13-3 Killers' Hall**
+Enemy
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Wood Golem || Wood Giant (T1) || 1 || Golem Punch || Ace Muscle || || ||
+|| Beast Master || Beast Lord (T3) || 2 || Berserker || || || ||
+|| Wiseman || Sage (T3) || 2 || Sorcery Rod || Bloody Orb || || ||
+|| Archer || Shooter (T3) || 1 || Demon Bow || || || ||
+|| Thief || Scout (T3) || 2 || Sledgehammer || || || ||
+|| Male Samurai || Bujin (T3) || 1 || Katzbalger || || || ||
+|| Sinner || Ashura (T3) || 2 || Hoodlum Fist || || || ||
+|| Heavy Knight || Steel Knight (T3) || 1 || Benten || || || ||
+|| warrior || Destroyer (T3) || 2 || Giant Axe || || || ||
+|| Gunner || Outlaw (T3) || 2 || Sledgehammer || Plastic Nose || || ||
+
+Neutral
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Fubuki || Ninja Master || 1 || !Niflheim || Bushido Suit || Bloody Orb || Ninja Tabi ||
+! Special Rank 20 Axe, second and last chance you get to steal this.
+Repeated version removes Fubuki.
+
+**13-4 Final Decision**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Rifle Demon || Baciel (T1) || 1 || Organic Power || Large Shield || Victory Muscle || ||
+|| Wood Golem || Tree Folk (T2) || 2 || Golem Punch || || || ||
+|| Dragon || Nidhogg (T3) || 2 || Tiger Fang || || || ||
+|| Dragon Zombie || Death Dragon (T2) || 2 || Tiger Fang || || || ||
+|| Holy Dragon || Saint Dragon (T3) || 2 || Confusion || || || ||
+|| Mystic Beast || Garm (T4) || 2 || Mystic Horn || || || ||
+
+**13-5 Viewing Room**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Zenon || Overlord || 1 || Envy || Large Shield || World Muscle || Royal Ring ||
+Based on your playthrough will determine your ending, if you met no requirements below you will get the [https://www.youtube.com/watch?v=IJYhlcZc7OE Good Ending].
+
+If you beat Zenon with Tink by himself over level 1000 you will see the [https://www.youtube.com/watch?v=ySPqipUIeKk Tink Ending].
+
+If you have at least 10 felonies on Adell while having 50 ally kills you will get the [https://www.youtube.com/watch?v=tF1RwBQQChE Bad Ending].
+
+If you have at least 99 felonies on Adell while having over 99 ally kills, one being Rozalin, you will get an extra battle.
+
+The True Overlord Zenon
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Rozalin? || Zenon's Child || 1 || || || || ||
+You will see the [https://www.youtube.com/watch?v=02XfTf874YY Worst Ending] which will start a new cycle and mark Rozalin defeated in your Dark Records, having Japanese voice adds extra creepiness to the ending after the credits.
+
++ Cave of Ordeals
+**Ordeal 1**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Archer || Bow Master (T4) || 8 || Crystal Bow || || || ||
+
+**Ordeal 2**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Marionette || Assassin Doll (T3) || 3 || Mystic Horn || Battle Vest || || ||
+|| Spirit || Specter (T3) || 3 || The Dismal || Lunar Orb || || ||
+|| Felynn || Werecat (T3) || 2 || Golem Punch || Aura Belt || || ||
+|| Aqua Demon || Sea Monk (T3) || 2 || Gluttony || Lunar Orb || || ||
+|| Sinner || Ashura (T3) || 2 || Flick || Battle Vest || || ||
+|| Archer || Shooter (T3) || 2 || Sylphid || Nightvision || || ||
+|| Dragon Zombie || Curse Dragon (T3) || 1 || Poor Orphan || Ace Muscle || || ||
+|| Holy Dragon || Saint Dragon (T2) || 1 || Paranoia || Lunar Orb || || ||
+
+**Ordeal 3**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Roc || Foolfool (T5) || 1 || Death Wing || Feather Token || || ||
+|| Roc || Malphas (T4) || 9 || Demon Cry || || || ||
+
+**Ordeal 4**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Marionette || Mad Jester (T5) || 8 || || || || ||
+
+**Ordeal 5**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Undead || Zombie King (T6) || 1 || || !Arcadia || || ||
+|| Sinner || Aragami (T6) || 1 || Star Shatter || Orion's Belt || || ||
+|| Sinner || Bushin (T5) || 2 || 100 Fists || Ubermensch || || ||
+|| Sinner || Rasetsu (T4) || 8 || Macho Fist || Black Belt || || ||
+! Rank 40 item, always Legendary.
+Repeated version removes Zombie King.
+
++ Bonus Worlds
+These are extra worlds which with the exception of two are only done once per cycle and will award you with an item or a character you can suggest as a bill with senator Adell to make them join our party, these will mostly appear on Cycle 2 onward.
+++ Summer Greetings
+**Requirement:** Have 33+ Felonies and have not gone past Episode 8, pass the Fight a Hero of Another Game! bill.
+Ex 1 **Tragic Heroine**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Asagi || Main Character? || 1 || Tentacle || Spirit Mantle || Crosshair || Pravada Pendant ||
+|| Mystic Beast || cu Sith (T1) || 8 || Bull Horn || || || ||
+
+++ Hero Show Event
+**Requirement:** From Episode 12 onward pass Return of the Prism Rangers bill.
+EX 2 **Rangers' Return**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prism Red || Super Hero || 1 || Odd Mandible || Traveler Mantle || || ||
+|| Prism Blue || Super Hero || 1 || Odd Mandible || Slippers || || ||
+|| Prism Yellow || Super Hero || 1 || Odd Mandible || Kung-Fu Muscle || || ||
+|| Prism Green || Super Hero || 1 || The Heretic || Binoculars || || ||
+|| Prism Purple || Super Hero || 1 || The Slave || Dark Orb || || ||
+|| Prism Indigo || Super Hero || 1 || Odd Mandible || Feather Token || || ||
+|| Prism Orange || Super Hero || 1 || Odd Mandible || Energy Belt || || ||
+
+++ Defenders of Earth
+**Requirement:** Use 3 Defender of Earth Cell Phones, then as Senator Adell suggest Rescue the Defender!!(EDF)
+Ex 3 **Defend a Defender!**
+Enemy
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Kurtis || Fake Defender || 1 || Tentacle || Fur Jacket || Ace Muscle || Sophia's Mirror ||
+
+Neutral
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Kurtis || Defender || 1 || Rose Whip || Traveler Mantle || || ||
+
+++ Return of the Defender
+**Requirement:** After clearing Defend a Defender! use 3 more Defender of Earth Cell Phones, then as Senator Adell suggest Rescue Defender again!!(EDF)
+Ex 4 **Robots Attack!**
+Enemy
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prototype Kurtis || Fake Defender (Red hair) || 1 || Tiger Fang || Battle Vest || Victory Muscle || Pravada Pendant ||
+|| Prototype Kurtis || Fake Defender (Blue hair) || 4 || Mystic Horn || Fur Jacket || || ||
+|| Prototype Kurtis || Fake Defender (Green hair) || 8 || Poison Needle || || || ||
+
+Neutral
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Kurtis || Defender || 1 || Lionheart || Battle Vest || || ||
+|| Gordon || Defender || 1 || Lionheart || Fur Jacket || || ||
+
+++ See the Ending!
+**Requirement:** Over 20 hours of gameplay and have not gone past Episode 9, pass the I want to see the ending bill.
+Ex 5 **Darkly Adonic**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Mid-Boss || Dark Adonis || 1 || Mad Parasite || Battle Vest || || ||
+|| Cleric || Acolyte (T2) || 1 || Jewel Scepter || Wizard Robe || Bloody Orb || ||
+|| Flora Beast || Alraune (T1) || 6 || Sloth || Magical Vest || Bloody Orb || ||
+Winning will give you the Mid-Boss ending which starts a new cycle.
+
+++ Ruins of St.Paprika
+**Requirement:** Have 66+ Felonies and have not gone past Episode 9, pass the Unleash the Fallen Maiden! bill.
+Ex 6 **Fallen Maiden!**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Priere || Overlord || 1 || Death Wing || Chaos Orb || Royal Ring || ||
+|| Succubus || Lilith (T6) || 1 || The Convict || Holy Orb || || ||
+|| Felynn || Bastet (T6) || 1 || Titan Fist || Black Belt || || ||
+|| Flora Beast || Photinia (T5) || 1 || Twilight || Holy Orb || || ||
+
+++ Beauty Castle
+**Requirement:** Have 99+ Felonies, pass the Break the mysterious Seal! bill.
+Ex 7 **Worst Witch Ever**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Marjoly || Legendary Witch || 1 || The King || !Gao's Sprit || !Crowdia's Charm || !Kitty Ears ||
+|| Magician || Galaxy Skull (T6) || 1 || Prinny Stick || Angel's Sandals || Holy Orb || Destiny Lens ||
+|| Magician || Prism Skull (T5) || 1 || Prinny Stick || Angel's Sandals || Holy Orb || Destiny Lens ||
+|| Magician || Star Skull (T4) || 1 || Prinny Stick || Angel's Sandals || Holy Orb || Destiny Lens ||
+|| Magician || Blue Skull (T3) || 1 || Prinny Stick || Angel's Sandals || Holy Orb || Destiny Lens ||
+|| Magician || Green Skull (T2) || 1 || Prinny Stick || Angel's Sandals || Holy Orb || Destiny Lens ||
+|| Magician || Red Skull (T1) || 1 || Prinny Stick || Angel's Sandals || Holy Orb || Destiny Lens ||
+! Rank 40 item, always Legendary.
+
+++ Overlord's Descent
+**Requirement:** Available during Episodes 12 & 13, pass the I want to fight an Overlord! bill.
+Ex 8 **In Holt village**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Laharl || Overlord || 1 || Laser Blade || Majin Armor || Testament || Orion's Belt ||
+|| Flonne || Fallen Angel || 1 || Prinny Stick || Goddess Dress || Holy Orb || ||
+|| Dragon || Bahamut (T6) || 1 || Beastial Mark || Dragon Mail || || ||
+|| Undead || Zombie King (T6) || 1 || Insanity Eye || Battle Armor || || ||
+Winning this will mark Flonne and Laharl B defeated in your Dark Records.
+
+++ Summon Overlord Laharl!
+**Requirement:** After the above as Senator Adell suggest Summon Laharl!!(Flonne).
+Ex 9 **In Holt village**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Laharl || Overlord || 1 || Sunrise Sword || Majin Armor || Testament || Orion's Belt ||
+|| Cleric || Saint (T6) || 2 || Yggdrasil Stick || Spirit Mantle || Chaos Orb || ||
+|| Magic Knight || Space Knight (T6) || 2 || Laser Blade || Reflex || || ||
+|| Kunoichi || Master Kunoichi (T6) || 2 || Paradise Blow || Kamikaze Suit || || ||
+Winning this will mark Laharl C defeated in your Dark Records.
+
+++ Fight an Overlord!
+**Requirement:** On a new cycle and only during Episode 1, pass the Pick a fight with an Overlord! bill.
+Ex 10 **Tragedy at Holt**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Laharl || Overlord || 1 || Infernal Sword || Infernal Armor || Exodus || Orion's Belt ||
+|| Rifle Demon || Malchidel (T2) || 4 || Satan's Motor || Dragon Mail || || ||
+Winning this will give you the [https://www.youtube.com/watch?v=Z6T5O2C42B0 Laharl A ending] which starts a new cycle and mark Laharl D defeated in your Dark Records.
+
+++ Makai Kingdom
+**Requirement:** Clear 10 Dark World Stages, pass the Meet the strongest Overlord! bill.
+Ex 11 **Supreme Overlord**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Zetta || Badass Overlord || 1 || Satan's Motor || Infernal Armor || Cosmos Muscle || Exodus ||
+
+++ Baal Castle
+**Requirement:** Clear 25 Dark World Stages, pass the Meet Baal the Tyrant! bill.
+Ex 12 **Viewing Room**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Baal || Tyrant || 1 || Satan's Motor || Infernal Armor || Orion's Belt || Exodus ||
+
+Repeated version
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny Baal || Tyrant || 1 || Satan's Motor || !Prinny Suit || Orion's Belt || Exodus ||
+|| Baal || Tyrant || 4 || Satan's Motor || Infernal Armor || Orion's Belt || Exodus ||
+! Rank 40, always Legendary. Changes to Infernal Armor after being stolen in subsequent visits.
+
+++ Uber Lord
+**Requirement:** Defeat Prinny Baal/Lord of Uber Pirate in a Land of Carnage Rank 40 item from floor 91+ then pass the Face the Final Battle! bill. This is only available in the Land of Carnage.
+Ex 13 **Neo Final Showdown**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Pringer X Go! || Uber Lord || 1 || Satan's Motor || Infernal Armor || Orion's Belt || Exodus ||
+Repeated version has 8 Pringer X Go's with the same equipment, for the final enemy in the Dark Record you need a kill after passing the Unleash the Land of Carnage bill which will cap out their stats.
+
+++ Evil Academy Special Class!
+**Requirement:** Over 50 hours of gameplay with Axel Mode cleared at least once, pass Hardcore Inst.: Champloo. bill.
+EA1 **A Real Man Arrives**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Mr. Champloo || Home Ec Teacher || 1 || Gank || Battle Armor || Ninja Tabi || Feather Token ||
+|| Felynn || Cait Sith (T2) || 2 || Tentacle || Bushido Suit || Beastly Belt || ||
+|| Deathsaber || Caracal (T3) || 1 || Tentacle || Large Shield || Ninja Tabi || ||
+|| Roc || Basilicrow (T2) || 2 || Tentacle || Scale Mail || Fight Muscle || ||
+|| Valkyrie || Lady Warrior (T2) || 3 || Bloodlust || Battle Vest || Devil Ring || ||
+|| Sinner || Tobigato (T1) || 3 || Karate Chop || Battle Vest || Ninja Tabi || ||
+
+**Requirement:** Clear A Real Man Arrives and also clear 30 Dark World Stages, pass Hardcore Inst.: Raspberyl bill.
+EA2 **This is Taboo Love**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Raspberyl || No.1 Delinquent || 1 || The Awakening || Spirit Mantle || Astral Orb || Sophia's Mirror ||
+|| Orc || Head Orc (T3) || 1 || Viper Bite || Protector || Energy Belt || ||
+|| Felynn || Werecat (T3) || 1 || Viper Bite || Protector || Energy Belt || ||
+|| Succubus || Succubus (T3) || 1 || The Evil Eye || Protector || Dark Orb || ||
+|| Undead || Corpse (T3) || 1 || Viper Bite || Protector || Energy Belt || ||
+|| Spirit || Boggart (T2) || 1 || The Evil Eye || Protector || Dark Orb || ||
+|| Winged Warrior || Watcher (T3) || 1 || Spikey Shell || Magical Vest || Aura Belt || ||
+|| Aqua Demon || Sea Monk (T3) || 1 || The Accursed || Magical Vest || Bloody Orb || ||
+|| Flora Beast || Pharbitid (T3) || 1 || Spikey Shell || Magical Vest || Bloody Orb || ||
+|| Mystic Beast || Black Dog (T3) || 1 || Spikey Shell || Magical Vest || Cross-Trainers || ||
+|| Marionette || Assassin Doll (T3) || 1 || Spikey Shell || Magical Vest || Aura Belt || ||
+|| Holy Dragon || Saint Dragon (T3) || 1 || Poison Needle || Chain Mail || Spirit Belt || ||
+|| Felynn || Cait Sith (T2) || 2 || Tentacle || Bushido Suit || Beastly Belt || ||
+|| Dragon Zombie || Mystic Dragon (T4) || 1 || Poison Needle || Chain Mail || Spirit Belt || ||
+|| Rifle Demon || Verchiel (T4) || 1 || Poison Needle || Chain Mail || Spirit Belt || ||
+|| Wood Golem || Forest Guardian (T4) || 1 || Poison Needle || Chain Mail || Spirit Belt || ||
+|| Dragon || Nidhogg (T3) || 1 || Poison Needle || Chain Mail || Spirit Belt || ||
+|| Deathsaber || Ocelot (T4) || 1 || Mystic Horn || Battle Vest || Bravery Belt || ||
+|| Kunoichi || Master Kuniochi (T6) || 1 || Cross Counter || Battle Vest || Falcon Shoes || Feather Token ||
+|| Roc || Peryton (T3) || 1 || Mystic Horn || Battle Vest || Bravery Belt || ||
+|| Lady Samurai || Blade Master (T6) || Nine Blades || Battle Vest || Bravery Belt || Feather Token ||
+|| Entei || Famberg (T4) || 1 || Mystic Horn || Battle Vest || Bravery Belt || ||
+
+**Requirement:** Clear This is Taboo Love and unlock the Land of Carnage, pass Hardcore Inst.: Mao bill.
+EA3 Final Departure
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Mao || Principal || 1 || Star Shatter || Reflex || Astral Orb || Royal Ring ||
+|| Robot || Copy Robot (T1) || 1 || Furious Scale || Kamikaze Suit || Crosshair || Falcon Shoes ||
+|| Robot || Android (T2) || 1 || Devil Matrix || Kamikaze Suit || Crosshair || Falcon Shoes ||
+|| Robot || Cyborg (T3) || 1 || Insanity Eye || Kamikaze Suit || Spirit Belt || Falcon Shoes ||
+|| Robot || Homunculus (T4) || 1 || Beastial Mark || Kamikaze Suit || Spirit Belt || Falcon Shoes ||
+|| Robot || Bioroid (T5) || 1 || Immortal Body || Kamikaze Suit || Pravda Pendant || Falcon Shoes ||
+|| Robot || Gene Lich (T6) || 1 || Phoenix Feather || Kamikaze Suit || Pravda Pendant || Falcon Shoes ||
+
++ Dark World
+These can be looked as an alternate dimension to the main story as they have different monster load outs and challenges. These will list unlock conditions and if you can leave (O) or are forcefully pulled (X) into the Dark World after meeting it's requirement. To unlock the Dark Worlds you need to find 5 secret switches in the hub, after doing so a figure appears who looks like the dimension guide NPC, but shadowy. You can attempt to interact with her, but she won't say anything until you pass Episode 1. Note that I will also list the Dark Sun Difficulty (DSD for short) which doesn't determine the stage difficulty, but how much HP the Dark Sun has inside the stage, it may be different outside.
+
+[[include image-capa
+|page=guide:disgaea-2
+|image=adellbutton1.avif
+|title=Behind the house near the Undead.
+]]
+[[include image-capa
+|page=guide:disgaea-2
+|image=adellbutton2.avif
+|title=Corner of the house behind the Item World NPC.
+]]
+[[include image-capa
+|page=guide:disgaea-2
+|image=adellbutton3.avif
+|title=Middle of the grass in the South corner.
+]]
+[[include image-capa
+|page=guide:disgaea-2
+|image=adellbutton4.avif
+|title=Behind the fallen pillar.
+]]
+[[include image-capa
+|page=guide:disgaea-2
+|image=adellbutton5.avif
+|title=Broken section near the Marionette.
+]]
+
+Initiation Test
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Friday MKII || Dark Guide || 1 || Dark Bow || Cross-Trainers || Old Cloth || Jijo Outfit ||
+Any neutral NPC's that die during this can have their function removed after the battle so try to keep the losses at a minimum, otherwise save and reload to bring the NPC back.
+
+++ Town Fields
+**1-1 Beginner's Field**
+Unlock: Clear Initiation Test
+DSD: 3
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Winged Warrior || Observer (T4) || 3 || Poison Needle || || || ||
+
+**1-2 Reflection Pond**
+Unlock: Clear the stage with no damage dealt to you. O
+DSD: 2
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Orc || Orc Master (T4) || 5 || Poison Needle || Protector || || ||
+
+**1-3 Psycho's Hideout**
+Unlock: Take damage from an enemy. X
+DSD: 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Mystic Beast || Garm (T4) || 3 || Poison Needle || || || ||
+
+**1-4 Dead Tree Field**
+Unlock: Kill a Green Skull. X
+DSD: 10
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Witch || Red Mage (T1) || 4 || Jewel Scepter || Astral Orb || || ||
+|| Magician || Red Skull (T1) || 4 || Sorcery Rod || Astral Orb || || ||
+
+++ Zenon's Palace
+**2-1 Banquest Room**
+Unlock: Clear in 2 turns. O
+DSD: 4
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Marionette || Death Coppelia (T4) || 8 || || || || ||
+
+**2-2 Sanction Room**
+Unlock: Clear on first turn. O
+DSD: 10
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Spirit || Wraith (T4) || 6 || The Dismal || || || ||
+
+**2-3 Room of Despair**
+Unlock: Clear while moving 10 panels or less. O
+DSD: 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Archer || Bow Master (T4) || 12 || Crystal Bow || || || ||
+
+**2-4 Sealed Room**
+Unlock: Lift a character. X
+DSD: 3
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Majin || Chaos Soldier (T1) || 1 || Berserker || Ace Muscle || || ||
+|| Heavy Knight || Steel Knight (T3) || 5 || Shovsri || Ace Muscle || || ||
+
+++ Murderer's Vault
+**3-1 Poisonous Swamp**
+Unlock: Let the map be covered by Purple Geo Panels (Turn 12). X
+DSD: 4
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Undead || Ghast (T4) || 1 || || || || ||
+
+**3-2 Dangerous Refuge**
+Unlock: Destroy a Geo Symbol. X
+DSD: 10
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Thief || Bandit (T4) || 8 || Love Spankin || || || ||
+
+**3-3 Corpse Garden**
+Unlock: Make a tower of 5 characters. X
+DSD: 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Undead || Zombie King (T6) || 1 || Dark Aura || Falcon Shoes || Falcon Shoes || Falcon Shoes ||
+
+**3-4 Tragedyland**
+Unlock: Clear without lifting. O
+DSD: 3
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Aqua Demon || Dagon (T6) || 1 || Paranoia || Lunar Orb || || ||
+|| Aqua Demon || Charybdis (T5) || 3 || Confusion || Lunar Orb || || ||
+|| Aqua Demon || Aqua Fighter (T4) || 7 || Gluttony || || || ||
+
+++ Dallas River
+**4-1 Bloody Valley**
+Unlock: Destroy all Geo Panels. X
+DSD: 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Roc || Malphas (T4) || 12 || Lionheart || || || ||
+
+**4-2 Life Exchange**
+Unlock: Combine 5 enemies. O
+DSD: 30
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Felynn || Tailring (T4) || 9 || Golem Punch || || || ||
+
+**4-3 Red Waterfall**
+Unlock: Combine all enemies. X
+DSD: 2
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Wood Golem || Tree Folk (T2) || 2 || Golem Punch || Spirit Belt || || ||
+|| Flora Beast || Belladonna (T4) || 3 || Greed || Lunar Orb || || ||
+|| Flora Beast || Belladonna (T4) || 3 || Sloth || Royal Orb || || ||
+
+**4-4 Dragon's Mouth**
+Unlock: Reach Turn 31. X
+DSD: 10
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Majin || Chaos Soldier (T1) || 1 || Golem Punch || Spirit Belt || || ||
+|| Wiseman || Prophet (T5) || 8 || Moonlight Staff || Holy Dress || || ||
+
+++ Cavern of Evil
+**5-1 Glutton's Hideout**
+Unlock: Have one of your characters die. X
+DSD: 3
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Undead || Wight (T5) || 16 || Mystic Attack || || || ||
+
+**5-2 Eternal Oblivion**
+Unlock: Clear with less than 4 characters. O
+DSD: 3
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Succubus || Carmilla (T4) || 6 || || || || ||
+
+**5-3 Shriek of Death**
+Unlock: Make a tower of 8 characters. X
+DSD: 2
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Archer || Bow Master (T4) || 1 || Prinny Staff || Iron Dress || || ||
+|| Orc || Orc Master (T4) || 3 || Poor Orphan || Victory Muscle || || ||
+|| Spirit || Wraith (T4) || 3 || The Arcane || Lunar Orb || || ||
+|| Warrior || Gladiator (T4) || 3 || Demon Smasher || Victory Muscle || || ||
+|| Male Samurai || Kengou (T4) || 3 || Demon Spear || Bravery Belt || || ||
+
+**5-4 Dark Ruins**
+Unlock: Kill all enemies with only tower attacks. O
+DSD: 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Rifle Demon || Malchidael (T6) || 1 || Demon Fangs || Dream Muscle || || ||
+
+++ Battle Arena
+**6-1 First Battle**
+Unlock: Make a tower of 10 characters. X
+DSD: 50
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Majin || Death Avenger (T2) || 1 || || || || ||
+
+**6-2 Second Battle**
+Unlock: Clear with 6 or less characters. O
+DSD: 10
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Magician || Galaxy Mage (T6) || 1 || Lovely Rod || Holy Orb || Holy Orb || Holy Orb ||
+
+**6-3 Third Battle**
+Unlock: Combine almost all enemies into one. O
+DSD: 30
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Thief || Trickster (T5) || 1 || Peace Maker || Crosshair || || ||
+
+**6-4 Fourth Battle**
+Unlock: Throw a Prinny at the rest after removing the No Lifting panel. O
+DSD: 4
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Archer || Bow Master (T4) || 4 || Beast Killer || Nightvision || || ||
+|| Magician || Galaxy Skull (T6) || 4 || Chief's Staff || Lunar Orb || || ||
+|| Gunner || Hitman (T4) || 4 || Peace Maker || Nightvision || || ||
+
+**7-1 Fifth Battle**
+Unlock: Destroy all Geo Panels. X
+DSD: 1
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Wood Golem || Green Giant (T4) || 1 || || || || ||
+|| Prinny || Cpt. Prinny (T2) || 1 || || || || ||
+
+**7-2 Semi-Final**
+Unlock: Clear the stage with no damage dealt to you (Poison damage is fine). O
+DSD: 2
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Majin || Death Avenger (T4) || 1 || Rasetsu || Falcon Shoes || || ||
+
+**7-3 Final Battle**
+Unlock: Throw an enemy into an ally that's already lifting an enemy. X
+DSD: 4
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Majin || Violator (T3) || 1 || Cross Counter || Battle Armor || World Muscle || ||
+|| Heavy Knight || Adamant Knight (T5) || 2 || Bloody Cross || Tower Shield || || ||
+|| Heavy Knight || Adamant Knight (T5) || 2 || Bloody Cross || Round Shield || || ||
+|| Archer || Cupid (T5) || 4 || Heavenly Bow || Spirit Mantle || || ||
+|| Gunner || Bullseye (T5) || 4 || Ion Blaster || Battle Armor || || ||
+|| Witch || Galaxy Mage (T6) || 1 || Demon Staff || Holy Orb || || ||
+|| Magician || Galaxy Skull (T6) || 1 || Demon Staff || Holy Orb || || ||
+
+++ Colosseum Depths
+Because of the stage order being shuffled these only have the stage name to prevent confusion.
+**Hades Corridor**
+Unlock: Change Geo Panel colors three times in a single chain. X
+DSD: 10
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Aqua Demon || Charybdis (T5) || 2 || The Fallen || Royal Orb || || ||
+|| Roc || Foolfool (T5) || 2 || Chimera DNA || Nightvision || || ||
+|| Dragon || Tiamat (T5) || 2 || Dragon Anger || Fullplate || || ||
+
+**Loser's Gallows**
+Unlock: Destroy the No Entry Geo that moves (Tink Sonic Roll to it if it stays still). X
+DSD: 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Kunoichi || Tsukikage (T5) || 8 || Soul Eater || || || ||
+
+**Confession Room**
+Unlock: Clear the stage using only the Attack command. O
+DSD: 10
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Marionette || Mad Jester (T5) || 1 || || || || ||
+|| Dragon Zombie || Skeletal Dragon (T1) || 9 || || || || ||
+
+**Survivor's End**
+Unlock: Clear the stage with no damage dealt to you. O
+DSD: 2
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Rifle Demon || Adnachiel (T3) || 1 || Dark Aura || Aura Belt || || ||
+|| Beast Master || Beast Queen (T4) || 8 || Valkyrie Spear || || || ||
+
+**Putrid Courtroom**
+Unlock: Fill Bonus gauge to 4. O
+DSD: 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Winged Warrior || Spy (T5) || 10 || Chimera DNA || || || ||
+
+**Sunken Altar**
+Unlock: Throw an enemy into an ally that's already lifting an enemy. X
+DSD: 3
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Orc || Shadow Orc (T6) || 1 || Demon Cry || Fullplate || || ||
+|| Orc || Orc King (T5) || 2 || Dark Aura || Dandy Gown || || ||
+|| Orc || Orc Master (T4) || 6 || Mad Parasite || Knight Shield || || ||
+
+++ Alche City
+**9-1 Dead Metropolis**
+Unlock: Stand on the highest part of the stage (Top right house at 64dm). X
+DSD: 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Gunner || Bullseye (T5) || 7 || Crisis || Nightvision || || ||
+
+**9-2 Grave of Alchemy**
+Unlock: Clear while moving 11 panels or less. O
+DSD: 1
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Thief || Trickster (T5) || 2 || Poison Hand || || || ||
+
+**9-3 Altered Town**
+Unlock: Fill Bonus Gauge to 2. O
+DSD: 3
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Heavy Knight || Adamant Knight (T5) || 2 || Triton Lance || Fullplate || || ||
+
+**9-4 Snarling Capital**
+Unlock: Stand on the snake shaped pillar. X
+DSD: 50
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Prinny King (T5) || 1 || || || || ||
+|| Prinny || Gen. Prinny (T4) || 1 || || || || ||
+
+++ Carcassed Lands
+**10-1 Rotten Fields**
+Unlock: Combine 5 enemies into one. O
+DSD: 30
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Gunner || Bullseye (T5) || 8 || Noble Rose || Crosshair || || ||
+
+**10-2 Luring Nightmare**
+Unlock: Destroy all Geo Symbols. X
+DSD: 3
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Holy Dragon || Heaven Dragon (T4) || 3 || || Royal Orb || || ||
+|| Succubus || Hecate (T5) || 3 || || Royal Orb || || ||
+|| Flora Beast || Photinia (T5) || 2 || || Royal Orb || || ||
+
+**10-3 Rebelling Spirit**
+Unlock: Deal over 500 damage in a single attack. O
+DSD: 30
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Pvt. Prinny (T1) || 9 || || || || ||
+
+**10-4 Dead Breath**
+Unlock: Fill Bonus Gauge to 3. X
+DSD: 3
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Archer || Cupid (T5) || 4 || Illusion Bow || Iron Dress || || ||
+|| Orc || Orc King (T5) || 16 || Titan Fist || || || ||
+
+++ Shinra Tower
+**11-1 Geo Challenger**
+Unlock: Clear with no damage dealt to you (Poison damage is fine). O
+DSD: 10
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Majin || Death Avenger (T2) || 1 || Simurgh || Kamikaze Suit || World Muscle || ||
+
+**11-2 Witty Contest**
+Unlock: Clear without destroying any Geo Panels. O
+DSD: 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Archer || Cupid (T5) || 12 || Salamander || || || ||
+
+**11-3 Death to Cowards**
+Unlock: Deal over 1,000 damage in a single attack. O
+DSD: 4
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Cleric || Cardinal (T5) || 4 || Mystery Staff || || || ||
+|| Witch || Galaxy Mage (T6) || 3 || Spirit Staff || || || ||
+|| Archer || Cupid (T5) || 3 || Evil Hunter || || || ||
+|| Flora Beast || Photinia (T5) || 3 || The Conundrum || || || ||
+|| Succubus || Hecate (T5) || 3 || The Conundrum || || || ||
+
+**11-4 Defiler Ambition**
+Unlock: Clear with 4 or less characters. O
+DSD: 2
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Wood Giant || Gaia Titan (T5) || 2 || Asura Arm || Tower Shield || || ||
+
+**11-5 Evil Temptation**
+Unlock: Clear using only the Attack command. O
+DSD: 10
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Magician || Red Skull (T1) || 1 || Doom Wand || Spirit Mantle || Chaos Orb || ||
+|| Magician || Green Skull (T2) || 1 || Doom Wand || Spirit Mantle || Chaos Orb || ||
+|| Magician || Blue Skull (T3) || 1 || Doom Wand || Spirit Mantle || Chaos Orb || ||
+|| Magician || Star Skull (T4) || 1 || Doom Wand || Spirit Mantle || Chaos Orb || ||
+
+**11-6 Warped Knowledge**
+Unlock: Clear with no damage dealt to you (Poison damage is fine). O
+DSD: 3
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Prinny God (T6) || 4 || Furious Scale || Dream Muscle || Dream Muscle || ||
+
+**11-7 Holy Tower**
+Unlock: Kill all enemies with only tower attacks. O
+DSD: 30
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Wiseman || Geo Master (T6) || 1 || Sun Staff || Spirit Mantle || Chaos Orb || ||
+
+++ To Zenon's Castle
+**12-1 Overlord's Sign**
+Unlock: Combine all enemies. X
+DSD: 30
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Beast Master || Beast Savior (T6) || 4 || Raijin Bow || Spirit Mantle || || ||
+|| Roc || Abraxas (T6) || 4 || Death Wing || || || ||
+
+**12-2 Crystalline Maze**
+Unlock: Clear without destroying any Geo Panels. O
+DSD: 1
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Pvt. Prinny (T1) || 1 || || || || ||
+
+**12-3 Mysterious Trap**
+Unlock: Make a tower of 9 characters. X
+DSD: 3
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Dragon Zombie || Dark Dragon (T5) || 6 || Death Wing || || || ||
+
+**12-4 Dancing Fools**
+Unlock: Make a tower of 3 characters. X
+DSD: 2
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Wood Golem || Dreadnaught (T6) || 1 || Immortal Body || World Muscle || || ||
+|| Wood Golem || Gaia Titan (T5) || 4 || Insanity Eye || World Muscle || || ||
+
+**12-5 Agito the Reaper**
+Unlock: Clear using only 1 character. O
+DSD: 4
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Ninja || Touryou (T5) || 4 || Bushin Blade || Metal Suit || || ||
+
+**12-6 Castle Gates**
+Unlock: Deal over 2,000 damage in a single attack. X
+DSD: 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Majin || Death Army (T5) || 4 || Death Sickle || || || ||
+
+++ Zenon's Castle
+**13-1 The Lord's Party**
+Unlock: Clear with no damage dealt to you (Poison damage is fine). O
+DSD: 10
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Rifle Demon || Verchiel (T4) || 18 || Insanity Eye || || || ||
+
+**13-2 Time of Trial**
+Unlock: Deal over 2,500 damage in a single attack. X
+DSD: 30
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Witch || Red Mage (T1) || 2 || Universal Staff || Spirit Mantle || Chaos Orb || ||
+|| Witch || Green Mage (T2) || 2 || Universal Staff || Spirit Mantle || Chaos Orb || ||
+|| Witch || Blue Mage (T3) || 2 || Universal Staff || Spirit Mantle || Chaos Orb || ||
+
+**13-3 Killers' Hall**
+Unlock: Destroy all Geo Panels.  X
+DSD: 4
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Rifle Demon || Malchidael (T6) || 1 || Immortal Body || Shied of Aegis || || ||
+|| Wood Golem || Dreadnaught (T6) || 1 || Immortal Body || Metal Suit || || ||
+|| Dragon Zombie || Hell Dragon (T6) || 1 || Immortal Body || Metal Suit || || ||
+|| Holy Dragon || Divine Dragon (T6) || 1 || Dante's Inferno || Reflex || Chaos Orb || ||
+|| Roc || Abraxas (T6) || 1 || Beastial Mark || Reflex || || ||
+|| Mystic Beast || Fenrir (T6) || 1 || Beastial Mark || Hero Mantle || || ||
+|| Dragon || Tiamat (T5) || 1 || Insanity Eye || Metal Suit || || ||
+|| Aqua Demon || Dagon (T6) || 1 || Chaos || Reflex || Chaos Orb || ||
+|| Spirit || Phantom (T6) || 1 || Fortune || Hero Mantle || Chaos Orb || ||
+|| Undead || Zombie King (T6) || 1 || Insanity Eye || Reflex || || ||
+|| Winged Warrior || Unknown (T6) || 1 || Beastial Mark || Hero Mantle || || ||
+|| Marionette || Hells Crown (T6) || 1 || Insanity Eye || Hero Mantle || || ||
+|| Orc || Shadow Orc (T6) || 1 || Beastial Mark || Hero Mantle || || ||
+|| Felynn || Bastet (T6) || 1 || Beastial Mark || Goddess Dress || || ||
+|| Flora Beast || Parthenocissus (T6) || 1 || Chaos || Goddess Dress || Chaos Orb || ||
+|| Succubus || Lilith (T6) || 1 || Dante's Inferno || Goddess Dress || Chaos Orb || ||
+
+**13-4 Final Decision**
+Unlock: Deal over 3,000 damage in a single attack. O
+DSD: 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Majin  || Last Battalion (Bow) (T4) || 1 || Diabolic Bow || Majin Armor || || ||
+|| Majin  || Last Battalion (Gun) (T4) || 1 || Rolling Thunder || Majin Armor || || ||
+|| Majin  || Last Battalion (Fist) (T4) || 1 || 100 Fists || Majin Armor || || ||
+|| Majin  || Last Battalion (Spear) (T4) || 1 || Infernal Spear || Majin Armor || || ||
+|| Majin  || Last Battalion (Axe) (T4) || 1 || Diabolic Axe || Majin Armor || || ||
+|| Majin  || Last Battalion (Sword) (T4) || 1 || Muramasa || Majin Armor || || ||
+
++ Power Leveling
+Feel under powered and need a character to gain levels quickly? Certain maps can be done to gain levels quickly to help boost your characters that need an edge in levels. Unfortunately there aren't many dedicated maps to level grind progressively through the story, but these few will still be helpful when you reach them.
+
+**3-3 Corpse Garden (Adell Dark World)**
+This stage is mostly for farming via the bonus gauge using Beast Masters with Bows in safe spots while you have a Thief or Kunoichi Sleep and Poison the Zombie to finish the map.
+
+**9-2 Grave of Alchemy**
+The map is split between two groups of 2 Magic Knights & 2 Star Skull/Mages standing on EXP +50% panels, slowly passing 8 Strong Enemy bills (or 1 Even Stronger & 3 Strong for later ports) will make the Magic Knights be at level 99 which gives as much experience as a level 323 enemy when defeated, any higher and you will not gain as much.
+
+**3-4 Dissection Show (Axel Dark World)**
+This is best done during your trip into Axel Mode even from a new game using the code to start here, you will need a Thief at least at level 20 for Consciousness (Sleep) and Freedom (Paralysis) to be learned and 3 throwers with 3 Shoes equipped on them. Have your Thief Sleep the Archer and bring out 2 throwers and have one lift and throw the unit 3 tiles to the left with a glitch similar to diagonal throwing. The unit you threw start sending them up to the Death Blow Geo Symbol and end turn unless they can make it without ending turn. Get another unit to throw and after they make it through throw the first one closer to the Death Blow then lift and throw it on the Blue panel, have your Thief use Freedom to Paralyze the Archer and have your desired unit strike her to level up. Her original level is 2000, but if you pass the Strongest Enemy Bill she will be level 9999, the amount of EXP she'll give at 9999 is 12,199,642 without any felony exp modifier which is roughly 6 times more than normal Ordeal 4. This is only better if you aren't able to clear Land of Carnage Ordeal 4 yet as it is much faster.
+
+**Ordeal 4**
+This will basically be your home (specially on PS2) until you get the Land of Carnage version, this map is filled with Mad Jesters in a 2x4 formation on EXP+100 panels. Due to the formation this map will always take 2 attacks unless you have Zetta upgraded by Mao to Magichange 2 to use his Zetta Beeeam to level more at once.
+
++ Axel Mode
+A side story meant to take place before Adell's story, to access Adell mode you must finish from an ending after beating Zenon to be given the choice to do Axel mode. This will give you access to Magichange for Adell mode whenever you go through this short story. To play this first however on the main menu highlight New Game and press Triangle, Square, Circle, Triangle, Square, Circle, X. If you hear Axel's voice that should confirm that it worked.
+++ Chapter 1 The Evil Rangers
+Attraction Square
+**1-1 Rehearsal**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Red || Evil Ranger || 1 || Paw Glove || || || ||
+|| Blue || Evil Ranger || 1 || Paw Glove || || || ||
+|| Yellow || Evil Ranger || 1 || Paw Glove || || || ||
+|| Black || Evil Ranger || 1 || Paw Glove || || || ||
+|| Pink || Evil Ranger || 1 || Paw Glove || || || ||
+
+Repeated Version
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Aqua Demon || Warslug (T1) || 1 || Paw Glove || || || ||
+|| Spirit || Ghost (T1) || 1 || Paw Glove || || || ||
+|| Marionette || Marionette (T1) || 1 || Paw Glove || || || ||
+|| Dragon || Dragon (T1) || 1 || Paw Glove || || || ||
+|| Death Saber || Death Saber (T1) || 1 || Paw Glove || || || ||
+
+Practice Map
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Green || Evil Ranger || 1 || || || || ||
+
+**1-2 Meeting the Fans**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Spirit || Ghost (T1) || 1 || || || || ||
+|| Spirit || Boggart (T2) || 1 || || || || ||
+|| Spirit || Specter (T3) || 1 || || || || ||
+|| Spirit || Wraith (T4) || 1 || || || || ||
+|| Magician || Red Skull (T1) || 2 || Training Staff || || || ||
+|| Magician || Green Skull (T2) || 2 || Training Staff || || || ||
+|| Witch || Blue Mage (T3) || 2 || Training Staff || || || ||
+|| Witch || Star Mage (T4) || 2 || Training Staff || || || ||
+
+**1-3 Never-Starting Show**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Manager || Chief || 1 || Replica Spear || Tunic || || ||
+|| Dragon || Dragon (T1) || 1 || || || || ||
+|| Orc || Petite Orc (T1) || 2 || || || || ||
+|| Mystic Beast || Cu Sith (T1) || 2 || || || || ||
+|| Staff || Warrior (Axe) (T1) || 1 || Cheap Axe || || || ||
+|| Staff || Warrior (Axe) (T1) || 1 || Iron Axe || || || ||
+|| Staff || Warrior (Sword) (T1) || 1 || Broadsword || || || ||
+|| Staff || Warrior (Sword) (T1) || 1 || Lazy Sword || || || ||
+Each monster unit will Magichange with the Humanoid they are by, repeated version removes the humanoid units.
+
+**1-4 An Unwelcome Guest**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Mystic Beast || Garm (T4) || 1 || Wolf's Fang || || || ||
+|| Mystic Beast || Black Dog (T3) || 4 || Goblin Claw || || || ||
+
+++ Chapter 2 Makai Wars
+Makai Filming Location
+**2-1 Desert Ballad**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Undead || Corpse (T3) || 1 || Slime Juice || Buckler || || ||
+|| Undead || Ghoul (T2) || 4 || Wolf's Fang || Buckler || || ||
+
+**2-2 Two in Dire Rubicon**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| ????? || Rogue || 1 || Bear Claw || Leather Jacket || Imperial Seal || ||
+|| Aqua Demon || Vodianoi (T2) || 2 || The Dead || || || ||
+|| Flora Beast || Nemophila (T2) || 2 || Goblin Claw || || || ||
+|| Mystic Beast || Hell Hound (T2) || 2 || Wolf's Fang || || || ||
+Repeated version removes ?????
+
+**2-3 Dancing Sword**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Archer || Shooter (T3) || 1 || Wooden Bow || Tunic || Opera Glasses || ||
+|| Archer || Hunter (T2) || 3 || Long Bow || Plastic Nose || || ||
+|| Archer || Archer (T1) || 4 || Wooden Bow || Plastic Nose || || ||
+
+**2-4 A Hero Arrives**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Asagi || Main Character? || 1 || .44 Magnum || Light Armor || Ninja Tabi || ||
+|| Undead || Ghast (T4) || 1 || || || || ||
+|| Gunner || Sniper (T2) || 2 || Steam Gun || Leather Jacket || || ||
+|| Undead || Corpse (T3) || 3 || || || || ||
+|| Ninja || Jounin (T3) || 2 || Double Slap || Leather Jacket || || ||
+|| Wood Golem || Tree Folk (T2) || 1 || || || || ||
+|| Mystic Beast || Black Dog (T3) || 2 || Wolf's Fang || Cross-Trainers || || ||
+Each monster unit will Magichange with the Humanoid they are by, repeated version removes Asagi.
+
+++ Chapter 3 Dinner Theater
+Oriental Hotel
+**3-1 Live Meat Appetizer**
+Enemy
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Aqua Demon || Warslug (T1) || 2 || The Sacrifice || || || ||
+|| Succubus || Empusa (T1) || 2 || The Sacrifice || || || ||
+|| Orc || Petite orc (T1) || 2 || Wolf's Fang || || || ||
+|| Spirit || Specter (T3) || 2 || The Sacrifice || || || ||
+|| Marionette || Marionette (T1) || 2 || Wolf's Fang || || || ||
+|| Undead || Zombie (T1) || 2 || Wolf's Fang || || || ||
+
+Neutral
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Main Hero B || Angel Masochist || 1 || || || || ||
+|| Prinny || Prinny (T1) || 8 || || Power Weight || || ||
+
+Repeated version
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Felynn || Nekomata (T1) || 1 || Wolf's Fang || || || ||
+|| Orc || Petite orc (T1) || 1 || Wolf's Fang || || || ||
+|| Marionette || Marionette (T1) || 1 || Wolf's Fang || || || ||
+|| Undead || Zombie (T1) || 1 || Wolf's Fang || || || ||
+|| Spirit || Specter (T3) || 1 || The Sacrifice || || || ||
+|| Winged Warrior || Mothmaan (T1) || 1 || Wolf's Fang || || || ||
+|| Succubus || Empusa (T1) || 1 || The Sacrifice || || || ||
+|| Aqua Demon || Warslug (T1) || 1 || The Sacrifice || || || ||
+
+**3-2 Demon Sashimi**
+Enemy
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Male Samurai || Samurai (T1) || 1 || Shamshir || || || ||
+|| Warrior || Fighter (T1) || 3 || Dragon Blade || || || ||
+|| Valkyrie || Lady Fighter (T1) || 3 || Rapier || || || ||
+|| Prinny || Prinny (T1) || 4 || Goblin Claw || || || ||
+
+Neutral
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Main Hero B || Angel Masochist || 1 || || || || ||
+Repeated version removes Main Hero B
+
+**3-3 Mid-Meal Snack**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Magic Knight || Rune Knight (T3) || 1 || Viking Axe || || || ||
+|| Magic Knight || Dark Knight (T2) || 2 || Battle Axe || || || ||
+|| Magician || Red Skull (T1) || 1 || Pixie Wand || Psycho Orb || || ||
+|| Witch || Red Mage (T1) || 1 || Magician Wand || Psycho Orb || || ||
+|| Magician || Green Skull (T2) || 1 || Pixie Wand || Psycho Orb || || ||
+|| Witch || Green Mage (T3) || 1 || Magician Wand || Psycho Orb || || ||
+|| Magician || Blue Skull (T3) || 1 || Pixie Wand || Psycho Orb || || ||
+|| Witch || Blue Mage (T3) || 1 || Magician Wand || Psycho Orb || || ||
+|| Magician || Star Skull (T4) || 1 || Pixie Wand || Psycho Orb || || ||
+|| Witch || Star Mage (T4) || 1 || Magician Wand || Psycho Orb || || ||
+
+**3-4 Dissection Show**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Mike || MC || 1 || Steam Gun || Light Armor || Opera Glasses || ||
+|| Dragon Zombie || Dark Dragon (T5) || 1 || Slime Juice || Traveler Mantle || || ||
+|| Dragon || Tiamat (T5) || 1 || Slime Juice || Traveler Mantle || || ||
+|| Holy Dragon || Terra Dragon (T5) || 1 || Slime Juice || Traveler Mantle || || ||
+|| Rifle Demon || Ambriel (T5) || 1 || Slime Juice || Traveler Mantle || || ||
+Repeated version removes Mike.
+
+++ Chapter 4 The Dark Hero!
+Orphanage
+**4-1 Child's Play**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Wood Golem || Kid || 1 || Crab Claw || China Dress || || ||
+|| Aqua Demon || Kid || 1 || The Heretic || China Dress || || ||
+|| Rifle Demon || Baciel (T1) || 1 || Crab Claw || Round Shield || || ||
+|| Holy Dragon || White Dragon (T1) || 1 || Crab Claw || Round Shield || || ||
+|| Orc || Petite Orc (T1) || 1 || Crab Claw || Round Shield || || ||
+|| Dragon || Dragon (T1) || 1 || Crab Claw || Round Shield || || ||
+|| Roc || Cockatrice (T1) || 1 || Crab Claw || Round Shield || || ||
+|| Marionette || Marionette (T1) || 1 || Crab Claw || Round Shield || || ||
+Repeated version removes the two Kid units.
+
+**4-2 Principal Matters**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Felynn || Werecat (T3) || 1 || Crab Claw || Light Armor || || ||
+|| Marionette || Assassin Doll (T3) || 1 || Crab Claw || Light Armor || || ||
+|| Holy Dragon || Saint Dragon (T3) || 1 || Crab Claw || Light Armor || || ||
+|| Roc || Peryton (T3) || 1 || Crab Claw || Light Armor || || ||
+|| Spirit || Specter (T3) || 1 || The Heretic || Jijo Outfit || Dark Orb || ||
+|| Orc || Head Orc (T3) || 1 || Crab Claw || Light Armor || || ||
+|| Rifle Demon || Adnachiel (T3) || 1 || Crab Claw || Light Armor || || ||
+|| Flora Beast || Pharbitis (T3) || 1 || Crab Claw || Light Armor || || ||
+|| Succubus || Succubus (T3) || 1 || Crab Claw || Light Armor || || ||
+Repeated version removes the Specter.
+
+**4-3 Land Brokers Arrive**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Land Broker || Boss || 1 || Crab Claw || Protector || || ||
+|| Dragon || Goon || 2 || Slime Juice || Falcon Shoes || || ||
+|| Winged Warrior || Mothman (T1) || 6 || Slime Juice || Ninja Tabi || || ||
+|| Mystic Beast || Black Dog (T3) || 4 || Wolf's Fang || Falcon Shoes || || ||
+Repeated version removes the Boss & Goon units.
+
+**4-4 The Dark Hero!**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Land Broker || Boss || 1 || Viper Bite || Protector || Ninja Tabi || Devil Ring ||
+|| Mid-Boss || Dark Adonis || 1 || Bear Claw || Traveler Mantle || Energy Belt || Dark Rosary ||
+|| Marjoly || Legendary Witch || 1 || The Delusion || China Dress || Dark Orb || Dark Rosary ||
+|| Gordon || Defender || 1 || Bear Claw || Traveler Mantle || Energy Belt || Dark Rosary ||
+|| Prism Red || Super Hero || 1 || Bear Claw || Traveler Mantle || Energy Belt || Dark Rosary ||
+|| Laharl || Overlord || 1 || Heavy Sword || Black Outfit || Beastly Belt || Devil Ring ||
+|| Flonne || Fallen Angel || 1 || Exorcist Bow || Magical Vest || Plastic Nose || Devil Ring ||
+Finishing this map gives the [https://www.youtube.com/watch?v=HawWKf8B32k Axel Mode Ending] which leads into a new cycle.
+
++ Dark World
+Axel's main hub doesn't have any hidden buttons to press so the NPC for the Dark World stages will not be around if you didn't spawn her in Adell Mode. Unless you are playing Dark Hero Days (PSP version) which does have buttons. Nevertheless like in Adell Mode, Axel has Dark World stages as well.
+
+[[include image-capa
+|page=guide:disgaea-2
+|image=axelbutton1.avif
+|title=Broken door near Axel's mom.
+]]
+[[include image-capa
+|page=guide:disgaea-2
+|image=axelbutton2.avif
+|title=Antenna near the Yellow portion of the house roof.
+]]
+[[include image-capa
+|page=guide:disgaea-2
+|image=axelbutton3.avif
+|title=Flower pot in the back.
+]]
+[[include image-capa
+|page=guide:disgaea-2
+|image=axelbutton4.avif
+|title=Spot between the Director & Landlord.
+]]
+[[include image-capa
+|page=guide:disgaea-2
+|image=axelbutton5.avif
+|title=Wall near Axial.
+]]
+
+++ Attraction Square
+**1-1 Rehearsal**
+Unlock: Initially available.
+DSD: 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Aqua Demon || Dagon (T6) || 1 || Confusion || || || ||
+|| Spirit || Phantom (T6) || 1 || Confusion || || || ||
+|| Marionette || Assassin Doll (T3) || 1 || Lionheart || || || ||
+|| Dragon || Bahamut (T6) || 1 || Lionheart || || || ||
+|| Death Saber || Devon Rex (T6) || 1 || Lionheart || || || ||
+
+**1-2 Meeting the Fans**
+Unlock: Deal over 2,500 damage in a single attack. X
+DSD: 10
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Lady Samurai || Blade Master (T6) || 1 || Sesshomaru || Dandy Gown || Bravery Belt || Falcon Shoes ||
+|| Mystic Beast || Fenrir (T6) || 1 || || || || ||
+
+**1-3 Never-Starting Show**
+Unlock: Make a tower of 5 characters. X
+DSD: 4
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Wood Golem || Gaia Titan (T5) || 1 || Bear Claw || Fur Jacket || Devil Ring || ||
+|| Alraune || Alraune (T1) || 1 || || || || ||
+|| Winged Warrior || Mothman (T1) || 1 || || || || ||
+|| Aqua Demon || Warslug (T1) || 1 || || || || ||
+|| Orc || Petite Orc (T1) || 1 || || || || ||
+|| Prinny || Pvt. Prinny (T1) || 1 || || || || ||
+|| Dragon || Dragon (T1) || 1 || || || || ||
+|| Spirit || Ghost (T1) || 1 || || || || ||
+|| Undead || Zombie (T1) || 1 || || || || ||
+|| Succubus || Empusa (T1) || 1 || || || || ||
+|| Felynn || Nekomata (T1) || 1 || || || || ||
+
+**1-4 An Unwelcome Guest**
+Unlock: Combine all enemies. X
+DSD: 10
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Entei || Slust (T5) || 1 || Dragon Anger || Dragon Mail || Falcon Shoes || Sophia's Mirror ||
+|| Entei || Flamberg (T4) || 2 || Dragon Anger || Dragon Mail || Falcon Shoes || Sophia's Mirror ||
+
+++ Makai Filming Location
+**2-1 Desert Ballad**
+Unlock: Clear without destroying any Geo Symbols. O
+DSD: 4
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Wood Golem || Green Giant (T4) || 8 || Golem Punch || Magical Vest || || ||
+
+**2-2 Two in Dire Rubicon**
+Unlock: Combine all enemies and capture the resulting fusion. O
+DSD: 30
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Pvt. Prinny (T1) || 1 || || || || ||
+
+**2-3 Dancing Sword**
+Unlock: Reach Turn 21. X
+DSD: 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Majin || Omega Sentinel (T6) || 1 || Giant Axe || Falcon Shoes || Falcon Shoes || Falcon Shoes ||
+|| Alraune || Belladonna (T4) || 9 || Scorpion Tail || || || ||
+
+**2-4 A Hero Arrives**
+Unlock: Move to an elevation of 48dm (rock behind leftmost Gunner). X
+DSD: 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Rifle Demon || Malchidael (T6) || 4 || Dark Aura || Battle Vest || Falcon Shoes || ||
+
+++ Oriental Hotel
+**3-1 Live Meat Appetizer**
+Unlock: Kill all enemies with only tower attacks. O
+DSD: 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Gunner || Desperado (T6) || 1 || Ion Blaster || Halfplate || Nightvision || ||
+
+**3-2 Demon Sashimi**
+Unlock: Clear using only the Attack command. O
+DSD: 10
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Sinner || Tobigato (T1) || 1 || Berserker || Battle Vest || || ||
+|| Sinner || Yasha (T2) || 1 || Shovsri || Battle Vest || || ||
+|| Sinner || Ashura (T3) || 1 || Angel Bow || Battle Vest || || ||
+|| Sinner || Rasetsu (T4) || 1 || Godfather || Battle Vest || || ||
+|| Sinner || Bushin (T5) || 1 || Savage Axe || Battle Vest || || ||
+|| Sinner || Aragami (T6) || 1 || Pata || Battle Vest || || ||
+
+**3-3 Mid-Meal Snack**
+Unlock: Clear with less than 3 characters. O
+DSD: 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Spirit || Ghost (T1) || 1 || || Cross-Trainers || Cross-Trainers || Cross-Trainers ||
+|| Marionette || Killer Puppet (T2) || 1 || || Cross-Trainers || Cross-Trainers || Cross-Trainers ||
+|| Winged Warrior || Watcher (T3) || 1 || || Cross-Trainers || Cross-Trainers || Cross-Trainers ||
+|| Succubus || Lilim (T2) || 1 || || Cross-Trainers || Cross-Trainers || Cross-Trainers ||
+|| Rifle Demon || Malchidael (T6) || 1 || || Cross-Trainers || Cross-Trainers || Cross-Trainers ||
+
+**3-4 Dissection Show**
+Unlock: Have one of your characters die. X
+DSD: 10
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Archer || Freischutz (T6) || 1 || Evil Hunter || Spirit Mantle || Foresight || Royal Ring ||
+
+++ Orphanage
+**4-1 Child's Play**
+Unlock: Destroy a Geo Symbol. X
+DSD: 4
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Dragon Zombie || Hell Dragon (T6) || 1 || Pegasus Hoof || Pravda Pendant || || ||
+|| Dragon Zombie || Dark Dragon (T5) || 4 || Chimera DNA || Pravda Pendant || || ||
+
+**4-2 Principal Matters**
+Unlock: Clear in 1 turn. O
+DSD: 10
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Male Samurai || Kengou (T4) || 9 || Old Glory || Chain Mail || Ninja Tabi || Speed Weight 2 ||
+|| Rifle Demon || Verchiel (T4) || 9 || || || || ||
+
+**4-3 Land Brokers Arrive**
+Unlock: Clear without moving more than 10 panels. O
+DSD: 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Marionette || Mad Jester (T5) || 1 || || || || ||
+|| Marionette || Hell's Crown (T6) || 1 || || || || ||
+|| Undead || Corpse (T3) || 1 || || || || ||
+|| Undead || Wight (T4) || 1 || || || || ||
+|| Undead || Zombie King (T6) || 1 || || || || ||

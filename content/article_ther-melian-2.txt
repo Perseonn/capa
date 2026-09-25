@@ -1,0 +1,102 @@
+@title: Ther Melian RPG Progress (Chapter 2)
+@author: Perseonn Balthasaar
+@updated: 2016-06-11
+
+The VXAce development was halted on 'Solar Room' event; thus there will be no mention of VXAce version at all. Chapter 2 consists of a single dungeon, the 'Sea Cave'. Since the script mentioned a beach, I changed the beach to its own dungeon, prolonging the gameplay of Chapter 2. I changed the beach name to 'Atoll of Sorrows' and the 'Sea Cave' to 'Grotto of Storms'.
+
++ Atoll of Sorrows
+The atoll is darkened using an overlayed image and screen tint. The first system-esque update should be visible by the **different message border.** The second update is **game font**. The third is **item boxes**. These item box are created using a versatile method that is also usable for all other event that gives item to player. Retroactively, these boxes are added to Sanctum Dungeon.
+
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/Atoll-1.avif |title=Darkened atoll.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/Atoll-2.avif |title=The first item box, containing Force Carrot.]]
+
+
+To compensate the lack of item shop before 3rd chapter, a **dungeon item shop is added** via NPC Justin the Chemist. He sells an array of items, each at a common rate. This shop is essential if you want to abuse Ellanese's buffing power.
+
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/Atoll-4.avif |title=Justin the Chemist.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/Atoll-5.avif |title=Generic dungeon item shop, will be updated for each dungeon.]]
+
+
+Wildlife is also visible on the atoll, most prominently fishes (sharks), seagull, and crabs. The entrance of grotto lies at the end of atoll.
+
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/Atoll-3.avif |title=Wildlife on the Atoll, featuring sharks.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/Atoll-6.avif |title=Grotto of Storms entrance.]]
+
+
++ Grotto of Storms
+The grotto also employ the same overlayed image, making it very dark. The main point of this is to mask the grotto's layout, creating a maze-like structure. The script mentioned a tidal-controlling dungeon, but I have no idea on how to create a good layout of it, so I replaced it with 4 block puzzles and a riddle.
+
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/Grotto-1.avif |title=Grotto of Storms inside.]]
+
+
+The first highlight of this dungeon is its boulder block puzzle. Player must navigate the passageway by pushing the boulders around. In order to reduce possible conflicts, the boulder will be destroyed when player arrive on the other side.
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/Grotto-2.avif |title=The boulder puzzle.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/Grotto-3.avif |title=Destroyed boulder puzzle.]]
+
+
+Justin the Chemist can be found here, so players will not need to backtrack when they ran out of supplies. He sells the same item as before.
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/Grotto-4.avif |title=Justin the Chemist, part 2.]]
+
+
+The second highlight of this dungeon is its orb block puzzle. Player must put the orb to a specified darkened tile.
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/Grotto-5.avif |title=Stone plaque to access the orb puzzle.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/Grotto-6.avif |title=An example of orb puzzle.]]
+
+
+The third highlight of this dungeon is the Caribes. Different from the offensive Gullon, Caribes is very defensive and will wreak havoc on your party if you are not ready.
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/Grotto-7.avif |title=Caribes, the defensive boss.]]
+
+
+The final event on this chapter features the appearance of Voltress, whose speech pattern is way different than other characters.
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/Grotto-8.avif |title=Ellanese, with rainbow speech pattern.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/Grotto-9.avif |title=Voltress, with dignified speech pattern.]]
+
+
++ System Update
+Apart from message border, font, and item box, Weapon and Armor enhancements are introduced. This eliminates the need to make an extensive Weapon and Armor list.
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/System-1.avif |title=The orb, Assiah of Strength.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/System-2.avif |title=Orb attached to weapon, making Schalantir Assiah.]]
+
+
+Consumable item and armor list is completed. Since the system was changed to enhance armor rather than buying a new one, there are not many armors to add. This is manly added because it would be unrealistic if Valadin does not wear his Commander Armor, while he is still the Legion Commander.
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/System-5.avif |title=Item menu, displaying few items with its effect.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/System-6.avif |title=Armor list, featuring Eldynn-Commander Armor and the Shimmering Garb.]]
+
+
+Status menu have been made more informative. All things are displayed as percentage because it is really the percentage used in the game mechanics, as opposed to cryptic numbers.
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/System-3.avif |title=Status menu, showing general information.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-2/System-4.avif |title=Detailed attributes.]]
+
+
+++ Other system changes
+* Damage formula has been reworked completely, featuring percentage-based calculation instead of linear-based. 5% stat addition will really mean ~5% damage increase.
+* TP has been renamed AP, which stands for Arts Point.
+* Battle system has been changed to CTB.
+* Initiative have been introduced as the tick for CTB. Speed is now used for long range and speed-based attacks.
+* Stat calculation has been redone. The starting stat is much lower, making MP management crucial.
+* Enemy now have a scaling level, but have a maximum range.
+* Armors have different effects; for instance, Valadin's heavy armor draws enemy attention, while Ella's robes increases maximum MP.
+* Valadin's Spell Blades now properly cost AP in addition to MP. Their MP usage has been reduced.
+* Ellanese's Blossom Mantra now properly cost items as well as MP. While her spells are powerful, it also slowly eats money.
+* Pop up number during battle has been changed to a more fantasy font.
+* MP is regenerated per step.
+* All events have been moved to Common Event, allowing easier auditing.
+
+Further system-based tasks:
+* Complete Valadin's moveset.
+* Complete item loot list.
+* Adjust amount of regenerated MP per step.
+* Create a framework for enemy and its troop list.
+* Create player icon for CTB.

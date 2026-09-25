@@ -1,0 +1,79 @@
+@title: Soulcalibur IV
+@author: Perseonn Balthasaar
+@updated: 2014-05-29
+
+The fifth main installment of the Soul series comes with the worst battle system addition imaginable. The combat is mostly the same as in Soul Calibur III, except for the removal of Soul Charge and the addition of the Soul Gauge. You can perform a Critical Finish when your opponent's Soul Gauge is emptied, but during a match, this is nearly impossible to achieve. My personal record in 30 battles against an Edgemaster difficulty opponent, with two rounds per battle, resulted in just one Critical Finish. One.
+
+As this is a save data hack, you need to understand how to encrypt and decrypt your save data and manipulate it using a hex editor (XVI32 is preferred).
+
+If you're interested in showcasing your character, you can visit [http://asoh.wikidot.com Another Stage of History].
+
++ Custom Character Moveset Data
+[[include :fiction:common:alert |type=warning |icon=warning |text=You can play your modified custom character just fine, but **you can no longer edit any of your characters if you want to keep modified characters around**. If you try to select the modified character slot in the character editor, they will disappear. If you make any changes to a character in Character Creation mode, they will disappear. **Always make a clone of your character to experiment.**  
+]]
+
+Due to how the save data is structured, the easiest way is to use XVI32. Find your character's name and take note of the address. Example:  
+
+[[include image
+|image=http://capa.wikidot.com/local--files/game:soulcalibur4/xvi32search1.png
+|title=In this case, the address is **2B8C0**.
+|ratio=4x3
+]]
+
+Referring to the above image, the character name starts at **2B8C0**. The character digit address is 3872 addresses before this. To find it easily, open the XVI Script Editor and enter the following:  
+[[code]]
+ADR $2B8C0
+ADR- 3872
+[[/code]]
+
+You'll land on the character digit address. Take note of the three addresses before it, as they represent the slot digit. If your character has multiple costumes and you arrange them sequentially, this can help you identify them. 
+
+[[include image
+|image=http://capa.wikidot.com/local--files/game:soulcalibur4/xvi32search2.png
+|title=Remember, the slot digit starts at 0, so if this example shows 4, it is actually 5 in the game.  
+|ratio=4x3
+]]
+
+
+The following is the digit for the guest and bonus characters:
+||~ Digit ||~ Moveset||
+|| 15 || Ashlotte||
+|| 19 || Vader||
+|| 21 || Scheherazade||
+|| 18 || Algol||
+|| 1A || Yoda||
+|| 1B || Apprentice||
+|| 1D || Angol Fear||
+|| 1E || Kamikirimushi||
+|| 1F || Shura||
+
+
++ Finding the Custom Character Moveset Data
+The method of finding the data is similar to [[[game:soulcalibur5 | Soulcalibur V]]], but is simpler.
+
+The save data is oddly structured, with more recent characters appearing closer to the beginning of the file and older characters closer to the end. If your slots are crowded, it can get messy. Each character block also assigns its designated slot, so it is impossible to list the address per slot like [[[game:soulcalibur5 | Soulcalibur V]]].  
+
+In order to circumvent this, I created a new save and sequentially created Bohb1, Bohb2, Bohb3, Bohb4, Bohb5, Alice4, and Alice5, then made one custom Apprentice for reference. When I examined the structure, Bohb1 appeared near the end of the file, while The Apprentice appeared near the beginning.
+
+Oddly, there was no data after the string "Bohb1," so I assumed that names are stored near the end of the character block. After counting, it turned out that each character block is 3932 addresses long — far shorter than in Soulcalibur V. The range from the first letter of a character's name to the alleged beginning of the character data is 3880. Using this as the zero point, the character slot information was found at +5, while the moveset was at +8.
+
+Hacked custom characters can be played, but they cannot be edited.  
+
+
+[[include image
+|image=http://capa.wikidot.com/local--files/game:soulcalibur4/sauronspc1.avif
+|title=Sauron (Renn) with The Apprentice moveset
+]]
+
+
++ Algol's Alphecca I'klil Nath
+Algol's only unblockable move comes with a highly campy pose, which reminds me of a much older campy pose.
+
+[[include image
+|image=http://capa.wikidot.com/local--files/game:soulcalibur4/algol.avif
+|title=Algol
+]]
+[[include image
+|image=http://capa.wikidot.com/local--files/game:soulcalibur4/stroheim.avif
+|title=Rudol von Stroheim (Jojo's Bizarre Adventure)
+]]

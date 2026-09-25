@@ -1,0 +1,681 @@
+@title: Dynasty Warriors
+@author: Buster Wolf
+@updated: 2025-04-06
+
+Dynasty Warriors 3: Xtreme Legends is the first ever expansion to a Warriors title, as with all Xtreme Legends expansions it has its own content to separate itself from the [[link /guide:dynasty-warriors-3 | vanilla game]], but to have all the content from the vanilla game Mixjoy is needed.
+
+Three words of warning before beginning
+* First if you used Cheat Codes with the vanilla game your save cannot be transferred to Xtreme Legends due to anti cheating measures.
+* Second if you have Xtreme Legends and are wondering should you transfer/mixjoy with the vanilla game do so as early as possible, due to the item Musou Armor requirement rank points will get reset back to 0 if you transfer your save. Your stats will be kept though.
+* Third all 4th weapons and the old Unique items require the vanilla game via mixjoy which are all under Original Mode, this is also true for those on Complete Edition Remastered.
+
++ New Musou Modes
+7 of the 9 Others characters were given a Musou Mode as they lacked one in the vanilla game, this is their set of stages that they go through.
+||~ Character ||~ Stage 1 ||~ Stage 2 ||~ Stage 3 ||~ Stage 4 ||~ Stage 5 ||~ Stage 6 ||~ Stage 7 ||
+|| Lu Bu || The Battle at Hu Lao Gate || The Battle at Guan Du || The Battle at Wan Castle || The Battle of Chang Ban || The Siege of He Fei Castle || Diao Chan’s Escape || The Battle at Chi Bi ||
+|| Diao Chan || The Battle at Hu Lao Gate || The Battle at Guan Du || The Battle at He Fei || The Battle of Mt. Ding Jun || The Battle at Yi Ling || The Battle at Chi Bi || Diao Chan’s Escape ||
+|| Dong Zhuo || The Battle at Hu Lao Gate || The Battle of Guan Du || Raid on the Rogue Fortress || The Battle at He Fei || The Battle at Tong Gate || The Battle at Wu Zhang Plains || The Battle at Chi Bi ||
+|| Yuan Shao || The Battle at Hu Lao Gate || The Battle at Guan Du || The Battle of Chang Ban || The Battle at Fan Castle || The Battle at He Fei || The Battle of Jie Ting || The Battle at Wu Zhang Plains ||
+|| Zhang Jiao || Battle of Ru Nan || The Mountain Bandit Campaign || The Battle of Chang Ban || Surprise Attack on Liu Biao || The Battle at Chi Bi || The Battle at Yi Ling || The Nanman Campaign ||
+|| Meng Huo || The Nanman Campaign || Assault on Cheng Du || The Battle of Chang Ban || The Battle at Yi Ling || Assault on the Wu Territory || The Siege of He Fei Castle || Battle of Ru Nan ||
+|| Zhu Rong || The Nanman Campaign || Wu Navy Skirmish || The Battle at Chi Bi || The Battle at Hu Lao Gate || The Battle at You Ting || The Battle at He Fei || The Siege of He Fei Castle ||
+
++ 5th Weapons
+New to this expansion are 5th weapons for everyone, unlike the vanilla game all weapons are in a box this time with no Supply Captains to chase as it’s tough enough to do some of these requirements. These are some of the toughest weapons in the series to get and require the following
+* Difficulty must be set to Very Hard, Archers and Crossbowmen are very lethal as they have high damage output so watch your surroundings, playable generals will also be using 4th weapons which do include elemental attacks to be weary of.
+* 9 of the weapons require Xtreme Mode (this game) while the other 32 require Original Mode (the vanilla game), make sure you are playing the correct mode. These are written as (O) Original, (X) Xtreme in front of the stage name. This holds true if on Complete Edition Remastered where stages requiring Xtreme need the Xtreme tag in Free Mode.
+* In addition to the previous elements a new one was added to this game Wind, its effect is to increase juggle height in order to help keep your combo going.
+
+++ Shu
++++ Zhao Yun
+* **5th Weapon:** (O) The Nanman Campaign (Shu Forces) – Defeat all officers.
+ * Meng Huo only needs to be defeated once and sub officers don’t matter.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]] & [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** South of the Shu Main Camp on the right of the divider near the top of the center bridges.
+[[image 5th-weapons-zhaoyun-ex.avif title=War Dragon Location]]
+
++++ Guan Yu
+* **5th Weapon:** (O) The Battle at Fan Castle (Shu Forces) - Defeat Pang De, Lu Xun, Gan Ning & Lu Meng in order. 
+* **Precious Item:** Northeastern corner of the map.
+[[image 5th-weapons-guanyu-ex.avif title=Divine Dragon Location]]
+
++++ Zhang Fei
+* **5th Weapon:** (O) The Battle at Mt. Ding Jun (Shu Forces) – Mount a horse and charge down the trail on Huang Zhong’s side, go into the fork on the right path and make your way to the bridge then defeat Cao Hong.
+ * It’s okay to fall off the horse as you charge down, just get back on and continue. You can also take your time, though be careful going down the path by yourself. Cao Hong is at the Northwest side of Cao Cao’s main camp.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** At the end of the right path you charged down from.
+[[image 5th-weapons-zhangfei-ex.avif title=Serpent Blade Location]]
+
++++ Zhuge Liang
+* **5th Weapon:** (O) The Battle at Chi Bi (Liu Bei’s Forces) – Get 1,000 KO’s
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]] & [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Center of the Northwest landmass around Cao Pi’s starting position.
+[[image 5th-weapons-zhugeliang-ex.avif title=Griffin Feather Location]]
+
++++ Liu Bei
+* **5th Weapon:** (O) The Battle of Jie Ting (Shu Forces) – When Ma Su is surrounded defeat Xin Pi to save him.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** South of Sima Yi’s camp in the small section on the West half.
+[[image 5th-weapons-liubei-ex.avif title=Dragon Star Location]]
+
++++ Ma Chao
+* **5th Weapon:** (O) Assault on Cheng Du (Liu Bei’s Forces) – Defeat Liu Xun or Liu Han with Pang Tong alive.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Southwest corner of the map.
+[[image 5th-weapons-machao-ex.avif title=Lightning Spear Location]]
+
++++ Huang Zhong
+* **5th Weapon:** (O) The Battle at Yi Ling (Shu Forces) – Prevent Zhu Ran’s fire attack then defeat Lu Xun.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** In the center of the bottom right encampment.
+[[image 5th-weapons-huangzhong-ex.avif title=Mystic Blade Location]]
+
++++ Jiang Wei
+* **5th Weapon:** (O) The Battle at Yi Ling (Shu Forces) – After the Fire Attack wait for the enemy to trigger the Stone Warrior Formation ambush, then defeat Zhu Huan.
+ * Zhu Huan won’t move from his spot which is near the Gate Captain North of Sun Quan.
+* **Precious Item:** Of the Northwestern encampment East of the Easternmost rectangle.
+[[image 5th-weapons-jiangwei-ex.avif title=Starlight Pike Location]]
+
++++ Wei Yan
+* **5th Weapon:** (O) The Battle at Yi Ling (Shu Forces) – Defeat every general and gate captain.
+ * Sub officers are not required, you may want to let Zhu Ran’s fire attack go off so Liu Bei will be in a safer area.
+* **Precious Item:** West of the path before the bridges to the Wu main camp.
+[[image 5th-weapons-weiyan-ex.avif title=Twin Stars Location]]
+
++++ Pang Tong
+* **5th Weapon:** (O) The Battle of Chi Bi (Liu Bei’s Forces) – After the Fire Attack succeeds defeat Xiahou Dun.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Near the bottom right ally Gate Captain.
+[[image 5th-weapons-pangtong-ex.avif title=Lightning Staff Location]]
+
+++ Wei
++++ Xiahou Dun
+* **5th Weapon:** (O) The Battle of Jie Ting (Wei Forces) – After Ma Su is surrounded, but before he breaks through defeat Wei Yan, Jiang Wei & Ma Chao.
+ * Defeating Chen Shi will give you more time if you feel you need it, he is located behind Ma Su in the bend. Jiang Wei is Ma Chao’s sub officer who starts behind him.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Behind a house on the corner of the L shape bend in the center.
+[[image 5th-weapons-xiahoudun-ex.avif title=Tempest Sword Location]]
+
++++ Dian Wei
+* **5th Weapon:** (O) The Battle at He Fei (Wei Forces) – After Taishi Ci’s death event defeat Lu Xun, later when Gan Ning’s surprise attack happens defeat him.
+ * Let Taishi Ci be killed via event and that should set everything in motion.
+* **Precious Item:** South of Cao Cao’s main camp slightly North of where Gan Ning appears.
+[[image 5th-weapons-dianwei-ex.avif title=Beast Axe Location]]
+
++++ Xu Zhu
+* **5th Weapon:** (O) The Siege of He Fei Castle (Wei Forces) - Defeat Lu Xun, Lu Meng, Sun Shang Xiang & Gan Ning.
+ * There is no time limit unlike Sima Yi’s, if you want to use the danger Xu Zhu strategy you will want an Elixir with at least +16 to get your Musou back every True Musou use while you lay down.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Fenced area North from the Southern boat.
+[[image 5th-weapons-xuzhu-ex.avif title=Earthly Mace Location]]
+
++++ Cao Cao
+* **5th Weapon:** (O) The Battle of Mt. Ding Jun (Wei Forces) – Defeat Huang Zhong in 5 minutes.
+* **Precious Item:** At the corner Southwest of where Huang Zhong starts.
+[[image 5th-weapons-caocao-ex.avif title=Blue Steel Location]]
+
++++ Xiahou Yuan
+* **5th Weapon:** (O) The Battle at Tong Gate (Cao Cao’s Forces) - Make Han Shui defect.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]](*[[span class="controller"]]B[[/span]])(All hits) 
+* **Precious Item:** Northwest corner of Ma Chao's main camp.
+[[image 5th-weapons-xiahouyuan-ex.avif title=Mystic Fang Location]]
+
++++ Zhang Liao
+* **5th Weapon:** (X) The Battle at Guan Du (Dong Zhuo’s Forces) – Defeat every archer in Archer Towers before the Castle Wall falls.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Northeast corner inside the castle.
+[[image 5th-weapons-zhangliao-ex.avif title=Dragon God Location]]
+
++++ Sima Yi
+* **5th Weapon:** (O) The Siege of He Fei Castle (Wei Forces) – Defeat Lu Xun, Lu Meng, Sun Shang Xiang & Gan Ning in order before Sima Yi gives the full attack message.
+ * You have 9 minutes to defeat all these officers so don’t spend too much time on each one.
+* **Precious Item:** Middle hall after the Wind Trap room.
+[[image 5th-weapons-simayi-ex.avif title=Raven Feather Location]]
+
++++ Xu Huang
+* **5th Weapon:** (O) The Battle at Tong Gate (Cao Cao’s Forces) - Make Han Shui defect.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Under the top right Gate Captain.
+[[image 5th-weapons-xuhuang-ex.avif title=Tiger Fang Location]]
+
++++ Zhang He
+* **5th Weapon:** (X) The Battle of Jie Ting (Yuan Shao’s Forces) – Defeat in order Xu Zhu, Xiahou Yuan, Zhang Liao, Cao Zhen, Dian Wei & Xu Huang.
+ * Xu Zhu is Xiahou Yuan’s sub officer who starts North of him, Cao Zhen & Dian Wei are Xiahou Dun’s sub officers who start South from your starting position, Xu Huang comes from the ambush unit at the East making his way to Yuan Shao.
+* **Precious Item:** South of Yuan Shao in the small valley on the East.
+[[image 5th-weapons-zhanghe-ex.avif title=Phoenix Talon Location]]
+
++++ Zhen Ji
+* **5th Weapon:** (O) The Battle of Guan Du (Cao Cao’s Forces) – Find Wu Chao Supply depot on the 4th check then defeat Chun Yuqiong to burn the supplies.
+ * Save before entering Supply Depots so you don’t find the real one early.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Along the Eastern outer wall of the castle near an Archer Tower.
+[[image 5th-weapons-zhenji-ex.avif title=Half Moon Flute Location]]
+
+++ Wu
++++ Zhou Yu
+* **5th Weapon:** (O) Assault on the Wu Territory (Sun Ce's Forces) - Defeat Liu Yong before your forces divide, pops up after Taishi Ci defects.
+ * Zhang Ying and Chen Heng must be defeated in under 2 minutes to open the East Gate, otherwise you’ll have to take the longer Southern path in which case you’ll want to restart.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Southern section of the Northwestern encampment.
+[[image 5th-weapons-zhouyu-ex.avif title=Elder Moon Location]]
+
++++ Lu Xun
+* **5th Weapon:** (O) The Battle at You Ting (Wu Forces) – Zhou Fang’s infiltration is discovered with Cao Xiu and either Zhang Pu or Zhang He still alive.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Zhou Fang’s starting position.
+[[image 5th-weapons-luxun-ex.avif title=Flash Blade Location]]
+
++++ Taishi Ci
+* **5th Weapon:** (O) The Battle at He Fei (Wu Forces) – Defeat Zhang Liao after he ambushes the main camp.
+* **Precious Item:** Southwest of Cao Cao’s starting position.
+[[image 5th-weapons-taishici-ex.avif title=Tiger Wolf Location]]
+
++++ Sun Shang Xiang
+* **5th Weapon:** (O) The Battle at Fan Castle (Wu Forces) - Defeat Guan Ping before the flood attack.
+ * The flood attack occurs 5 minutes into the stage.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]](*[[span class="controller"]]B[[/span]]) 
+* **Precious Item:** Northwest corner of the platform protruding from the Southern castle wall, available after the flood.
+[[image 5th-weapons-sunshangxiang-ex.avif title=Dragon Chakram Location]]
+
++++ Sun Jian
+* **5th Weapon:** (O) The Siege of He Fei Castle (Wu Forces) – Lead the troops through the Arrow and Wind trap rooms, defeat  Zhang He & Xu Huang to open the gates, then defeat Man Chong and Cao Rui’s reinforcements and finally defeat Xu Zhu.
+ * This is easier in Sun Jian’s Musou Mode so you don’t have to worry about Sun Quan and they all aim to get to you, Sun Quan is deceptively sturdy in this stage if you do this in Free Mode.
+* **Precious Item:** Right side of Zhang He and Xu Huang’s area near the Eastern Wall.
+[[image 5th-weapons-sunjian-ex.avif title=Wolf Blade Location]]
+
++++ Sun Quan
+* **5th Weapon:** (O) The Battle at He Fei (Wu Forces) – Defeat Zhang Liao before he cutscene kills Taishi Ci, then defeat Xu Zhu.
+ * You can take as long as you want for Xu Zhu, but you must defeat Zhang Liao first and before the cutscene that would kill Taishi Ci. Xu Zhu starts near the West road leading to Cao Cao’s camp.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]] 
+* **Precious Item:** Northwest corner near the Southwestern Gate Captain.
+[[image 5th-weapons-sunquan-ex.avif title=Heavenly Wolf Location]]
+
++++ Lu Meng
+* **5th Weapon:** (O) The Siege of He Fei Castle (Wu Forces) – In order defeat Zhang He & Xu Huang, then trigger the Archer ambush in the center, then defeat Xu Zhu all before reinforcements arrive then defeat the reinforcements.
+* **Precious Item:** Southwest corner from Zhang He’s starting position.
+[[image 5th-weapons-lumeng-ex.avif title=Fighting Tiger Location]]
+
++++ Gan Ning
+* **5th Weapon:** (O) The Battle at Yi Ling (Wu Forces) – Successfully navigate the Stone Warrior Formation and defeat Zhuge Liang.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]] 
+* **Precious Item:** In between the houses near the start of Zhu Ran’s path for the fire attack.
+[[image 5th-weapons-ganning-ex.avif title=Seven Seas Blade Location]]
+
++++ Huang Gai
+* **5th Weapon:** (O) The Yellow Turban Rebellion (Han Forces) – Defeat He Yi then Zhang Bao in order before other enemy officers.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Bottom left corner between the bottom right Gate Captains.
+[[image 5th-weapons-huanggai-ex.avif title=Spiked Mace Location]]
+
++++ Sun Ce
+* **5th Weapon:** (O) Surprise Attack on Liu Biao (Sun Jian’s Forces) – After Sun Jian is killed defeat Cai Mao.
+* **Element:**[[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]](*[[span class="controller"]]B[[/span]]) (very last hit)
+* **Precious Item:** Encampment in front of Sun Ce’s ship.
+[[image 5th-weapons-sunce-ex.avif title=God of War Location]]
+
++++ Da Qiao
+* **5th Weapon:** (O) Surprise Attack on Liu Biao (Sun Jian’s Forces) – After Sun Jian dies defeat Kuai Liang.
+ * Kuai Liang is Liu Biao’s sub officer who is at the Eastern side of the castle.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]] 
+* **Precious Item:** Near the dead end by the Northwest Gate Captain.
+[[image 5th-weapons-daqiao-ex.avif title=Yellow Beauty Location]]
+
++++ Xiao Qiao
+* **5th Weapon:** (O) Assault on the Wu Territory (Sun Ce's Forces) - Defeat Yan Bai Hu & Wang Lang.
+ * Make sure neither are the last officer to complete the stage or you can’t get the weapon.
+* **Precious Item:** Near Liu Yong's starting position.
+[[image 5th-weapons-xiaoqiao-ex.avif title=Blue Grace Location]]
+
+++ Others
++++ Diao Chan
+* **5th Weapon:** (X) Diao Chan’s Escape (Diao Chan’s Forces) – Defeat Lu Bu.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Lu Bu.
+
++++ Lu Bu
+* **5th Weapon:** (X) The Battle at Chi Bi (Lu Bu's Forces) - Defeat Lu Meng, Huang Gai, Taishi Ci & Gan Ning.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]], [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]] & [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]](*[[span class="controller"]]B[[/span]])(very last hit)
+* **Precious Item:** Above the Wind Prayer shrine at the Southwestern corner of the map.
+[[image 5th-weapons-lubu-ex.avif title=Demon Slayer Location]]
+
++++ Dong Zhuo
+* **5th Weapon:** (X) The Battle at Wu Zhang Plains (Dong Zhuo’s Forces) – Prevent bombardment of ally headquarters and keep Fan Chou alive for ally reinforcements to arrive.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Northeast of the right Gate Captain where ally reinforcements arrive.
+[[image 5th-weapons-dongzhuo-ex.avif title=Black Steel Location]]
+
++++ Yuan Shao
+* **5th Weapon:** (X) The Battle at Hu Lao Gate (Allied Forces) – With Liu Bei, Cao Cao, Sun Jian & Lu Bu alive and before Dong Zhuo’s ambush defeat Diao Chan.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]  & [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Northwest corner of Yuan Shao’s camp.
+[[image 5th-weapons-yuanshao-ex.avif title=Imperial Saber Location]]
+
++++ Zhang Jiao
+* **5th Weapon:** (X) The Nanman Campaign (Yellow Turbans) – At least a good portion of Peasants escape through the Southern exit point.
+ * There is a potential glitch where some Peasants won’t move if the ones going through the Southeast make it to the escape point early so concentrate on the center so everyone will slowly move there, also you don’t need all 4 to make it, but it’s better to be safer.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]], [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]] (*[[span class="controller"]]B[[/span]]) & Musou
+* **Precious Item:** Short dead end East of the Western most bridge.
+[[image 5th-weapons-zhangjiao-ex.avif title=Thunder Staff Location]]
+
++++ Meng Huo
+* **5th Weapon:** (X) Assault on the Wu Territory (Nanman Forces) – Defeat in order Lu Xun, Taishi Ci, Gan Ning, Lu Meng.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** South of the ally Gate Captain.
+[[image 5th-weapons-menghuo-ex.avif title=Shadow Beast Location]]
+
++++ Zhu Rong 
+* **5th Weapon:** (X) The Siege of He Fei Castle (Zhu Rong’s Forces) – Defeat Xiao Qiao, Zhou Yu, Zhen Ji, Cao Pi & Diao Chan. A cutscene will play followed by the report.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Hall after the Wind Trap room.
+[[image 5th-weapons-zhurong-ex.avif title=Tri Blade Location]]
+
++++ Fu Xi 
+* **5th Weapon:** (O) The Battle of Wan Castle (Zhang Xiu’s Forces) – Defeat Dian Wei, Xu Zhu & Xu Huang.
+* **Precious Item:** Southeast near Zhang Xiu’s starting position.
+[[image 5th-weapons-fuxi-ex.avif title=Dragon Slayer Location]]
+
++++ Nu Wa
+* **5th Weapon:** (O) The Yellow Turban  Rebellion (Yellow Turban Forces) - Defeat Guan Yu, Zhang Fei & Liu Bei in under 5 minutes.
+* **Precious Item:** Southwestern area of the castle.
+[[image 5th-weapons-nuwa-ex.avif title=Dragon Rapier Location]]
+
++ Dim Sum & Musou Wine Locations
+All stages may have a Dim Sum which increases max Health by 10 and a Musou Wine which increases max Musou by 10 somewhere in the stage, they are found in pots. While they share the same maps as the original, Dim Sum & Musou Wine locations are different, unit placement based on force chosen doesn't matter.
+
+++ Battle of Ru Nan
+* **Dim Sum:** Middle ledge on the East castle wall.
+* **Musou Wine:** Middle ledge on the West castle wall.
+* **Weapons:** (Yellow Turbans) Cheng Pu, Han Dang, Zhu Jun, Cao Hong, Cao Ren. (Nanman) Ding Feng, Cao Zhen, Xu Sheng, Cao Xiu, Man Chong.
+* **Items:** (Yellow Turbans) Zhou Jing, Liu Yan, Zhang Chao, Huangfu Song, Lu Zhi. (Nanman) Ma Su, Zhang Yi, Xu Zhu, Zhu Huan, Jia Kui.
+[[image battle-1-rnmap.avif title=Ru Nan Map]]
+
+[[image battle-1-rnds.avif title=Ru Nan Dim Sum]]
+
+[[image battle-1-rnmw.avif title=Ru Nan Musou Wine]]
+
+++ The Battle at Hu Lao Gate
+* **Dim Sum:** Near the bottom Gate Captain in the lower right corner.
+* **Musou Wine:** Near the upper left Gate Captain in the left center.
+* **Weapons:** (Dong Zhuo) Cao Ren, Han Dang, Yan Liang. (Allied) Gao Shun, Hua Xiong, Li Jue. (Nanman) Hua Xiong, Jia Xu.
+* **Items:** (Dong Zhuo) Wen Chou, Cao Hong, Cheng Pu. (Allied) Li Ru, Li Meng, Xu Rong. (Nanman) Guo Si, Li Ru.
+[[image battle-2-hlgmap.avif title=Hu Lao Gate Map]]
+
+[[image battle-2-hlgds.avif title=Hu Lao Gate Dim Sum]]
+
+[[image battle-2-hlgmw.avif title=Hu Lao Gate Musou Wine]]
+
+++ Surprise Attack on Liu Biao
+* **Musou Wine:** Near the top left all Gate Captain.
+* **Items:** Da Qiao.
+[[image battle-3-lbmap.avif title=Surprise Attack on Liu Biao Map]]
+
+[[image battle-3-lbmw.avif title=Surprise Attack on Liu Biao Musou Wine]]
+
+++ The Battle at Wan Castle
+* **Dim Sum:** By the wall directly North of the center of the map.
+* **Musou Wine:** East of Diao Chan's starting position.
+* **Weapons:** Zhao Yun, Hu Che Er.
+* **Items:** Jia Xu.
+[[image battle-4-wcmap.avif title=Wan Castle Map]]
+
+[[image battle-4-wcds.avif title=Wan Castle Dim Sum]]
+
+[[image battle-4-wcmw.avif title=Wan Castle Musou Wine]]
+
+++ Assault on the Wu Territory
+* **Dim Sum:** Along the path to the Western enemy Gate Captain.
+* **Musou Wine:** East gate of the central outpost that cuts you off from Zhuge Liang.
+* **Weapons:** Gan Ning, Lu Meng, Taishi Ci.
+* **Items:** Zhuge Jin, Jiang Qin.
+[[image battle-5-wtmap.avif title=Assault on Wu Territory Map]]
+
+[[image battle-5-wtds.avif title=Assault on Wu Territory Dim Sum]]
+
+[[image battle-5-wtmw.avif title=Assault on Wu Territory Musou Wine]]
+
+++ The Battle at Guan Du
+* **Dim Sum:** Above the river below the upper left Gate Captain.
+* **Musou Wine:** Along the Southwest corner outside of the main camp in the castle.
+* **Weapons:** (Dong Zhuo) Shi Huan, Yue Jin, Cao Ren. (Yuan Shao) Yue Jin, Cao Ren, Wei Xu.
+* **Items:** (Dong Zhuo) Cao Hong, Liu Yan, Yu Jin. (Yuan Shao) Yu Jin, Cao Hong, Shi Huan.
+[[image battle-6-gdmap.avif title=Guan Du Map]]
+
+[[image battle-6-gdds.avif title=Guan Du Dim Sum]]
+
+[[image battle-6-gdmw.avif title=Guan Du Musou Wine]]
+
+++ Diao Chan's Escape
+* **Dim Sum:** Against the wall before leaving the fourth gate.
+* **Musou Wine:** Beside the second cabin before the first gate.
+* **Weapons:** (Lu Bu) Gao Shun, Gan Ning, Dian Wei. (Diao Chan) Zhang He, Lu Bu, Gao Shun.
+* **Items:** Wei Xu, Song Xian. 
+[[image battle-7-dcemap.avif title=Diao Chan's Escape Map]]
+
+[[image battle-7-dceds.avif title=Diao Chan's Escape Dim Sum]]
+
+[[image battle-7-dcemw.avif title=Diao Chan's Escape Musou Wine]]
+
+++ The Battle of Chang Ban
+* **Dim Sum:** Southwest of the small open area at the top center.
+* **Musou Wine:** Along the left thin path in the bottom center.
+* **Weapons:** (Dong Zhuo/Yuan Shao) Liao Hua, Zhou Cang, Chen Zhen. (Yellow Turbans) Yuan Xi, Yan Liang, Wen Chou. (Nanman) Wang Ping, Guan Ping, Li Yan, Guan Xing.
+* **Items:** (Dong Zhuo/Yuan Shao) Liu Feng, Sun Qian, Guan Ping. (Yellow Turbans) Yuan Tan, Yuan Shang, Chun Yuqiong, Lu Wei Kuang. (Nanman) Gao Xiang, Li Hui, Zhang Bao, Ma Dai, Meng Da.
+[[image battle-8-changbanmap.avif title=Chang Ban Map]]
+
+[[image battle-8-changbands.avif title=Chang Ban Dim Sum]]
+
+[[image battle-8-changbanmw.avif title=Chang Ban Musou Wine]]
+
+++ The Battle at Chi Bi
+* **Dim Sum:** From the bottom right Gate Captain in front of it, if there are two boats due to Fire Attack event it is the right of the double boats.
+* **Musou Wine:** Boat between the upper left Gate Captains.
+* **Weapons:** (Lu Bu) Xu Rong, Zhao Cen, Gan Ning. (Dong Zhuo) Zhang Liao, Zhang Fei. (Yellow) Sun Jian, Han Dang, Zhou Cang. (Nanman) Li Dian, Cao Ren, Xu Huang.
+* **Items:** (Lu Bu) Jia Xu, Zhang Chao, Niou Fu, Taishi Ci. (Dong Zhuo) Wei Xu, Dian Wei. (Yellow Turbans) Zhu Zhi, Liu Bei, Wu Lan, Yuan Shao. (Nanman) Man Chong, Cao Zhang, Cao Hong.
+[[image battle-9-chibimap.avif title=Chi Bi Map]]
+
+[[image battle-9-chibids.avif title=Chi Bi Dim Sum]]
+
+[[image battle-9-chibimw.avif title=Chi Bi Musou Wine]]
+
+++ Assault on Cheng Du
+* **Dim Sum:** On the upper path out of the forest it is on the middle of the lower portion.
+* **Musou Wine:** Near the forest exit of the center path.
+* **Weapons:** Wu Lan, Zhang Yi.
+* **Items:** Fa Zheng, Ma Su.
+[[image battle-10-cdmap.avif title=Cheng Du Map]]
+
+[[image battle-10-cdds.avif title=Cheng Du Dim Sum]]
+
+[[image battle-10-cdmw.avif title=Cheng Du Musou Wine]]
+
+++ The Battle at Tong Gate
+* **Dim Sum:** Indent on Tong Gate's Eastern side near the river.
+* **Musou Wine:** Northwest corner from the Western bridge.
+* **Weapons:** Ma Dai, Pang De, Cheng Yi, Hou Xuan.
+* **Items:** Yang Qiu.
+[[image battle-11-tgmap.avif title=Tong Gate Map]]
+
+[[image battle-11-tgds.avif title=Tong Gate Dim Sum]]
+
+[[image battle-11-tgmw.avif title=Tong Gate Musou Wine]]
+
+++ The Battle at He Fei
+* **Dim Sum:** South of the bridge in the bottom left forest.
+* **Musou Wine:** From the central area the Northeast path at the bend to the upper area.
+* **Weapons:** Ding Feng (Dong Zhuo), Gan Ning (Dong Zhuo), Zhu Ran, Xu Sheng, Han Dang (Yuan Shao), Taishi Ci (Yuan Shao), Cheng Pu (Nanman).
+* **Items:** Han Dang (Dong Zhuo/Nanman), Zhu Huan, Jiang Qin, Dong Xi (Yuan Shao), Lu Su (Nanman). 
+[[image battle-12-hfmap.avif title=He Fei Map]]
+
+[[image battle-12-hfds.avif title=He Fei Dim Sum]]
+
+[[image battle-12-hfmw.avif title=He Fei Musou Wine]]
+
+++ The Battle at Fan Castle
+* **Dim Sum:** Very bottom of the upper platform from where Guan Ping starts.
+* **Musou Wine:** Top left corner from Zhang He's starting position.
+* **Weapons:** Gan Ning.
+* **Items:** Jiang Qin.
+[[image battle-13-fcmap.avif title=Fan Castle Map]]
+
+[[image battle-13-fcds.avif title=Fan Castle Dim Sum]]
+
+[[image battle-13-fcmw.avif title=Fan Castle Musou Wine]]
+
+++ The Battle of Mt. Ding Jun
+* **Dim Sum:** West of Liu Bei's starting position.
+* **Musou Wine:** Near the top of the Western path.
+* **Weapons:** Liu Feng, Meng Da, Lei Tong, Li Yan.
+* **Items:** Guan Ping, Huang Zhong, Fa Zheng.
+[[image battle-14-djmap.avif title=Mt. Ding Jun Map]]
+
+[[image battle-14-djds.avif title=Mt. Ding Jun Dim Sum]]
+
+[[image battle-14-djmw.avif title=Mt. Ding Jun Musou Wine]]
+
+++ The Battle at Yi Ling
+* **Dim Sum:** Near the bottom right Gate Captain on the top right corner.
+* **Musou Wine:** Northwest section of the Stone Warrior Formation.
+* **Weapons:** Zhang Bao (Dong Zhuo/Yellow Turbans), Yan Yan (Dong Zhuo/Yellow Turban), Wei Yan (Dong Zhuo/Yellow Turbans), Xu Sheng (Nanman), Zhou Tai (Nanman), Sun Shao (Nanman).
+* **Items:** Guan Suo (Dong Zhuo/Yellow Turbans), Lei Tong (Dong Zhuo/Yellow Turbans), Huang Zhong (Dong Zhuo), Wu Lan (Yellow Turbans), Jiang Qin (Nanman), Ling Tong (Nanman), Pan Zhang (Nanman)
+[[image battle-15-ylmap.avif title=Yi Ling Map]]
+
+[[image battle-15-ylds.avif title=Yi Ling Dim Sum]]
+
+[[image battle-15-ylmw.avif title=Yi Ling Musou Wine]]
+
+++ The Nanman Campaign
+* **Dim Sum:** Near the upper Gate Captain on the middle left side.
+* **Musou Wine:** Near the Gate Captain in the center of the map on the right side.
+* **Weapons:** (Yellow Turbans) Yong Kai, Gao Ding, Zhu Bao. (Nanman) Guan Suo, Huang Quan, Zhang Bao, Ma Liang, Ma Dai.
+* **Items:** (Yellow Turbans) Ahui Nan, Dong Tu Ne, Ma Su. (Nanman) Guan Xing, Chen Shi, Liu Feng, Meng Da, Yan Yan.
+[[image battle-16-nanmanmap.avif title=Nanman Campaign Map]]
+
+[[image battle-16-nanmands.avif title=Nanman Campaign Dim Sum]]
+
+[[image battle-16-nanmanmw.avif title=Nanman Campaign Musou Wine]]
+
+++ The Battle of Jie Ting
+* **Musou Wine:** South of the top right ally Gate Captain.
+* **Weapons:** Xu Huang, Sun Li, Xu Zhu.
+* **Items:** Sima Zhao, Xin Pi, Cao Zhen.
+[[image battle-17-jtmap.avif title=Jie Ting Map]]
+
+[[image battle-17-jtmw.avif title=Jie Ting Musou Wine]]
+
+++ The Battle at You Ting
+* **Dim Sum:** West of Meng Huo's starting position in the center camp.
+* **Musou Wine:** Slightly Northwest of Da Qiao's Gate Captain.
+* **Weapons:** Gan Ning, Sun Shang Xiang.
+* **Items:** Sun Ce, Da Qiao, Lu Xun.
+[[image battle-18-ytmap.avif title=You Ting Map]]
+
+[[image battle-18-ytds.avif title=You Ting Dim Sum]]
+
+[[image battle-18-ytmw.avif title=You Ting Musou Wine]]
+
+++ The Siege of He Fei Castle
+* **Dim Sum:** Northern main camp in the top right corner.
+* **Musou Wine:** Along the Northern wall after the East Gate opens.
+* **Weapons:** (Dong Zhuo) Ling Tong, Sun Shao. (Meng Huo) Cao Hong.
+* **Items:** (Dong Zhuo) Zhu Ran, Zhuge Jin. (Zhu Rong) Cao Pi.
+[[image battle-19-hfcmap.avif title=He Fei Castle Map]]
+
+[[image battle-19-hfcds.avif title=He Fei Castle Dim Sum]]
+
+[[image battle-19-hfcmw.avif title=He Fei Castle Musou Wine]]
+
+++ The Battle at Wu Zhang Plains
+* **Dim Sum:** South of the Northern left Gate Captain on the other side of the river.
+* **Musou Wine:** North of the platform where the first catapults fire.
+* **Weapons:** (Dong Zhuo) Zhao Yun, Pang Tong, Zhang Yi. (Yuan Shao) Zhang Liao, Xu Huang, Cao Ren.
+* **Items:** (Dong Zhuo) Gao Xiang, Guan Xing, Ma Chao. (Yuan Shao) Yue Jin, Xiahou Yuan, Xu Zhu.
+[[image battle-20-wzpmap.avif title=Wu Zhang Plains Map]]
+
+[[image battle-20-wzpds.avif title=Wu Zhang Plains Dim Sum]]
+
+[[image battle-20-wzpmw.avif title=Wu Zhang Plains Musou Wine]]
+
+++ The Mountain Bandit Campaign
+* **Dim Sum:** Behind where you start.
+* **Musou Wine:** Slightly North of the center of the map.
+[[image battle-21-mbcmap.avif title=Mountain Bandit Campaign Map]]
+
+[[image battle-21-mbcds.avif title=Mountain Bandit Campaign Dim Sum]]
+
+[[image battle-21-mbcmw.avif title=Mountain Bandit Campaign Musou Wine]]
+
+++ Raid on the Rogue Fortress
+* **Dim Sum & Musou Wine:** Together in the top left corner of the center area of the map.
+[[image battle-22-rfmap.avif title=Rogue Fortress Map]]
+
+[[image battle-22-rfdm.avif title=Rogue Fortress Dim Sum & Musou Wine]]
+
+++ Wu Navy Skirmish
+* **Dim Sum:** From the starting ship two ships East on it's Northern platform.
+* **Musou Wine:** From the starting ship two ships West on it's Southern platform.
+* **Weapons:** Xu Sheng, Han Dang.
+* **Items:** Zhou Yu, Xiao Qiao, Cheng Pu.
+[[image battle-23-wnsmap.avif title=Wu Navy Skirmish Map]]
+
+[[image battle-23-wnsds.avif title=Wu Navy Skirmish Dim Sum]]
+
+[[image battle-23-wnsmw.avif title=Wu Navy Skirmish Musou Wine]]
+
++ New Items
+++ Normal
+These are new normal items that boost a specific value when equipped, like other Blue colored items they have differing maximum values.
+||~ Item (Effect) ||~ Maximum ||
+|| Mountain Quiver (+Arrows) || 32 ||
+|| Mountain Pouch (+Health Recovery) || 20 ||
+|| Bronze Flask (+Charge Attack) || 12 ||
+
+++ Rare
+These are items with specific effects that only need to be obtained once, their border is Red. The items are listed in order of how they appear when selecting items to use for battle, you can’t get these items to appear if you are playing on Novice difficulty. These are all only obtained in Xtreme Mode, if you are wanting the old items you can only get them in the [[[guide:dynasty-warriors-3#toc72 | vanilla game]]] with mixjoy.
+
++++ Divine Helmet
+* **Effect:** Prevent dizziness after strong attacks. (can’t be stunned)
+* **Stage:** The Battle at Chi Bi (Lu Bu's Forces)
+* **Requirement:** Personally defeat everyone, including sub officers leaving only Dong Zhuo alive.
+ * The map provided shows where I found the unlisted sub officers.
+* **Precious Item:** Near the bottom right Gate Captain.
+[[image item-u1-dhso.avif title=Sub Officer Locations]]
+
+
+[[image item-u1-dhmap.avif title=Divine Helmet Location]]
+
++++ Scroll of Accuracy
+* **Effect:** Attack x2 but defense drops after getting knocked down (Double attack with reduced defense for 10 seconds after getting back up)
+* **Stage:** The Battle of Mt. Ding Jun (Dong Zhuo’s Forces)
+* **Requirement:** Defeat Huang Zhong.
+
++++ Imperial Harness
+* **Effect:** Run over all enemies with any horse (horse won’t buck to stronger officers)
+* **Stage:** The Battle at You Ting (Nanman Forces)
+* **Requirement:** Defeat Gan Ning & Sun Shang Xiang before the East & West Forts fall.
+* **Precious Item:** Top portion of the map on the Western dead end.
+[[image item-u3-ihmap.avif title=Imperial Harness Location]]
+
++++ Seven Stars Blade
+* **Effect:** Makes it easier to receive high scores on your combos (combo timer stays up longer)
+* **Stage:** Combo Mania
+* **Requirement:** Get 1,000 combo points in 3 minutes.
+
++++ Lightning Bow
+* **Effect:** Can shoot lightning arrows (Lightning elemental arrows)
+* **Stage:** The Battle at Yi Ling (Yellow Turbans)
+* **Requirement:** Keep Huang Zhong alive for 10 minutes.
+* **Supply Unit:** Northeast camp that makes its way South.
+[[image item-u5-lbmap.avif title=Lightning Bow Location]]
+
++++ Seal of Darkness
+* **Effect:** Imperial Seal has twice the effect (infinite Musou for 20 seconds)
+* **Stage:** The Battle at Guan Du (Yuan Shao’s Forces)
+* **Requirement:** Enter Cao Cao’s area.
+* **Precious Item:** East of the Northern Fort.
+[[image item-u6-sodmap.avif title=Seal of Darkness Location]]
+
++++ Beast Harness
+* **Effect:** Shows position of the last horse you rode (shows last mounted position)
+* **Stage:** Speed Demon
+* **Requirement:** Get to the goal in under 1 minute 30 seconds.
+
++++ Marching Drum
+* **Effect:** Increase the rate at which your unit’s morale increases (more morale raising chances)
+* **Stage:** The Nanman Campaign (Yellow Turbans)
+* **Requirement:** Defeat Zhuge Liang.
+* **Precious Item:** On the slope after the bridge from the center.
+[[image item-u8-mdmap.avif title=Marching Drum Location]]
+
++++ Divine Gauntlet
+* **Effect:** Get the Attack x2 item and even guarding enemies take damage. (small chip damage against guarding enemies with Attack x2 active)
+* **Stage:** The Battle at Wu Zhang Plains (Dong Zhuo’s Forces)
+* **Requirement:** Defeat Wei Yan, Jiang Wei, Zhao Yun, Ma Chao, Guan Yu & Zhang Fei.
+ * Guan Yu is the only one who doesn’t naturally appear and will only arrive if Fan Chou is defeated before the 7 minute mark, so keep your kill count low to not increase his chance of living. This may take several attempts to get Fan Chou defeated to allow Guan Yu to appear.
+* **Supply Unit:** East of Zhuge Liang’s starting position that makes its way to the Southwest Gate Captain.
+[[image item-u9-dgmap.avif title=Divine Gauntlet Location]]
+
++++ Master’s Cloak
+* **Effect:** Automatically perform the mid-air evade (auto flip recovery)
+* **Stage:** Balancing Act Challenge
+* **Requirement:** Knock over 100 enemies off in 10 minutes.
+
++++ Legendary Scroll
+* **Effect:** Even guarding enemies take damage during you Musou attack (Musou attack causes guard break, but drains faster)
+* **Stage:** The Siege of He Fei Castle (Meng Huo’s Forces)
+* **Requirement:** Defeat Zhuge Liang before the East and West gates open and before the South gate closes.
+ * Defeating Zhang He, Xiahou En or Cao Ren will open their respective gate while charging through the South gate to get to Zhuge Liang directly will close it. You need to go through either the East or West side to get to him and deal with the archer trap from the center where he is located.
+* **Precious Item:** The boat Zhu Rong starts by.
+[[image item-u11-lsmap.avif title=Legendary Scroll Location]]
+
++++ Musou Armor
+* **Effect:** Prevents getting knocked back when hit by an arrow (unfazed by arrows)
+* **Requirement:** Overall combo count of 12,000 Combo Bonus Point or 99,999 points on one character.
+ * If not going for the character points the last slot will change color depending on your Combo Bonus Point progress.
+ * 3000 Combo Bonus Points = Blue slot
+ * 6000 Combo Bonus Points = Yellow slot
+ * 9000 Combo Bonus Points = Red slot
+
+++ Bodyguard Items
+Like the regular cast bodyguards have their own set of items which can pop up in Item Bags drops, the ones meant for them have BG in front of the item name. There is one Red item for Bodyguards though.
+||~ Item (Effect) ||~ Maximum ||~ Break Limit ||
+|| Peacock Urn (+HP) || 32 || 40 ||
+|| Dragon Amulet (+Musou) || 32 || 40 ||
+|| Tiger Amulet (+Attack) || 20 || 25 ||
+|| Tortoise Amulet (+Defense) || 20 || 25 ||
+|| Huang’s Bow (+Bow Attack) || 12 || 15 ||
+|| Shell Armor (+Bow Defense) || 12 || 15 ||
+|| Speed Scroll (+Speed) || 12 || 15 ||
+|| Wind Scroll (+Reach) || 12 || 15 ||
+|| Elixir (+Musou Fill) || 12 || 15 ||
+
++++ BG Healing Scroll
+* **Effect:** Bodyguard will heal self only once (Heal 100 Life once when at low health)
+* **Stage:** Ironman Challenge
+* **Requirement:** Get over 350 points
+
+++ Break Limit Items
+New to this version is that Blue items have a higher limit they are able to reach, how do we get items to this new cap?
+First you will need to be playing on Very Hard, you can do it on Hard, but the requirement is higher at 1,500 combo point. You need to get a combo point score of 1,000 on Very Hard before collecting item bags. So what constitutes a Perfect combo? You need to have a string of unique finishers together within a short time frame. An example of one is
+
+[[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]] ~ [[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]] ~ [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]] ~ Short jump attack ([[span class="controller"]]C[[/span]][[span class="controller"]]A[[/span]]) ~ [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]](*[[span class="controller"]]B[[/span]]) ~ [[span class="controller"]]D[[/span]]
+Note that your attack needs to hit someone to continue being counted as a combo point as long as it was a different part of the string. The amount of points you get is not based on the visible number, but what the combo text says counted as followed.
+
+||~ Text Rank ||~ Combo Points given ||
+|| Good || 15-25 ||
+|| Great || 30-35 ||
+|| Perfect || 110-135 ||
+So you may score a Great at 90 combo points before it fades, but it will only contribute 30-35 (raises as you get more) to the total score visible at the end of the stage. So you want to aim for Perfects for the most value with your preferred character practicing in Combo Mania. If you aren’t able to score Perfects 4 Greats will roughly equal a Perfect.
+
+The Break Limit cap for Bodyguard items were detailed its section, the caps for items your officer can equip are as follows
+||~ Item (Effect) ||~ Normal Limit ||~ Break Limit ||
+|| Peacock Urn (+HP) || 60 || 75 ||
+|| Dragon Amulet (+Musou) || 60 || 75 ||
+|| Tiger Amulet (+Attack) || 20 ||25 ||
+|| Tortoise Amulet (+Defense) || 40 || 50 ||
+|| Huang's Bow (+Bow Attack) || 40 || 50 ||
+|| Shell Armor (+Bow Defense) || 40 || 50 ||
+|| Horned Helm (+Mounted Attack) || 40 || 50 ||
+|| Cavalry Armor (+Mounted Defense) || 40 || 50 ||
+|| Speed Scroll (+Speed) || 16 || 20 ||
+|| Wing Boots (+Jump) || 16 || 20 ||
+|| Seven Star Orb (+Luck) || 20 || 25 ||
+|| Wind Scroll (+Reach) || 20 || 25 ||
+|| Elixir (+Musou Charge) || 20 || 25 ||
+|| Mountain Quiver (+Arrows) || 32 || 40 ||
+|| Mountain Pouch (+Health Recovery) || 20 || 25 ||
+|| Bronze Flask (+Charge Attack) || 12 || 15 ||
+
+[[include :asoh:component:video-youtube |video-id=OBhHUUUi-tY]]
++ Special Third costumes
+In addition to everyone getting second colors there are 2 special outfits that can be unlocked as well, those being for Lu Bu & Sun Shang Xiang. These are picked by pressing [[span class="controller"]]$[[/span]] or [[span class="controller"]]^[[/span]] when on their second color.
+
+++ Lu Bu
+To unlock this outfit you first need to complete all Xtreme Musou modes, afterward you must have the difficulty set to Very Hard and go to Free Mode > Xtreme > Normal Bodyguards and pick The Battle at Chi Bi under Dong Zhuo’s Forces, you must not pick Lu Bu as your character. If you did this Lu Bu’s portrait will change to have him with Silver armor, all you have to is beat this stage to unlock it, this also unlocks the unique song that plays for the stage Cham-Ba-Ra.
+[[image costume-ex-lubu.avif title=Dynasty Tactics Lu Bu]]
+
+++ Sun Shang Xiang
+To unlock this outfit you need all characters rank points to be maxed out at 99,999 and have every weapon in the game, every, single, one.
+[[image costume-ex-sunshangxiang.avif title=Dynasty Tactics Sun Shang Xiang]]
+
++ 5th Weapons Showcase
+[[include :asoh:component:video-youtube |video-id=E0SoQ0NNlTE]]

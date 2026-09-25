@@ -1,0 +1,1208 @@
+@title: Breath of Fire III
+@author: Perseonn Balthasaar
+@updated: 2025-04-06
+
+Breath of Fire III is an RPG made by Capcom for PlayStation. This is the second RPG I've ever played and have the least modification during my playthrough. Of all the Breath of Fire I've played (being III, IV and V), I like this one most due to the custom dragon system and the storyline.
+
++ Miscellaneous Codes
+||~ Description ||~ Gameshark ||~ Type ||~ Remark ||
+||Money || 90144F50 || 4 byte || ||
+||Form Party Flag || 30143F02 || 1 byte || Setting this to 01 will allow changing party member via the submenu. Setting this to 00 will disallow changing party member ||
+||Encounter || 80143F22 || 2 byte || Increases on every step you take. The higher the value, the more likely an encounter happen. Freeze this at 0 to completely disable encounter. ||
+||Text Speed || 80144950 || 2 byte ||  ||
+||Battle Counter || 8014502C || 2 byte ||  ||
+||Fishing Cast Power || 801440BC || 2 byte ||  ||
+||Ship Engine || 80145E9A || 2 byte ||  ||
+
++ Item Codes
+Use the in-game Sort to manage items, weapons, armors, and options without excessive data inputs.
+||~ Description ||~ Gameshark ||~ Type ||~ Remark ||
+||Item Slot Type 1 || 3014504C || 1 byte ||  ||
+||Item Slot Type 2 || 3014504D || 1 byte ||  ||
+||Item Slot Type 3 || 3014504E || 1 byte ||  ||
+||Item Slot Type 4 || 3014504F || 1 byte ||  ||
+||Item Slot Amount 1 || 3014524C || 1 byte ||  ||
+||Item Slot Amount 2 || 3014524D || 1 byte ||  ||
+||Item Slot Amount 3 || 3014524E || 1 byte ||  ||
+||Item Slot Amount 4 || 3014524F || 1 byte ||  ||
+||Weapon Type 1 || 301450CC || 1 byte ||  ||
+||Weapon Type 2 || 301450CD || 1 byte ||  ||
+||Weapon Type 3 || 301450CE || 1 byte ||  ||
+||Weapon Type 4 || 301450CF || 1 byte ||  ||
+||Weapon Amount 1 || 301452CC || 1 byte ||  ||
+||Weapon Amount 2 || 301452CD || 1 byte ||  ||
+||Weapon Amount 3 || 301452CE || 1 byte ||  ||
+||Weapon Amount 4 || 301452CF || 1 byte ||  ||
+||Armor Type 1 || 3014514C || 1 byte ||  ||
+||Armor Type 2 || 3014514D || 1 byte ||  ||
+||Armor Type 3 || 3014514E || 1 byte ||  ||
+||Armor Type 4 || 3014514F || 1 byte ||  ||
+||Armor Amount 1 || 3014534C || 1 byte ||  ||
+||Armor Amount 2 || 3014534D || 1 byte ||  ||
+||Armor Amount 3 || 3014534E || 1 byte ||  ||
+||Armor Amount 4 || 3014534F || 1 byte ||  ||
+||Option Type 1 || 301451CC || 1 byte ||  ||
+||Option Type 2 || 301451CD || 1 byte ||  ||
+||Option Type 3 || 301451CE || 1 byte ||  ||
+||Option Type 4 || 301451CF || 1 byte ||  ||
+||Option Amount 1 || 301453CC || 1 byte ||  ||
+||Option Amount 2 || 301453CD || 1 byte ||  ||
+||Option Amount 3 || 301453CE || 1 byte ||  ||
+||Option Amount 4 || 301453CF || 1 byte ||  ||
+
+
+++ Item Digits
+||~ Decimal ||~ Hexadecimal ||~ Item ||
+|| 0 || 0 || (Nothing) ||
+|| 1 || 1 || Green Apple ||
+|| 2 || 2 || Bread ||
+|| 3 || 3 || Healing Herb ||
+|| 4 || 4 || Vitamin ||
+|| 5 || 5 || Multivitamin ||
+|| 6 || 6 || Vitamins ||
+|| 7 || 7 || Wisdom Seed ||
+|| 8 || 8 || Wisdom Fruit ||
+|| 9 || 9 || Croc Tear ||
+|| 10 || A || Antidote ||
+|| 11 || B || Eye Drops ||
+|| 12 || C || The Mochi ||
+|| 13 || D || Panacea ||
+|| 14 || E || Ammonia ||
+|| 15 || F || Moon Tears ||
+|| 16 || 10 || Dynamite ||
+|| 17 || 11 || Weather Vane ||
+|| 18 || 12 || Taser ||
+|| 19 || 13 || Belladonna ||
+|| 20 || 14 || Vodka Shot ||
+|| 21 || 15 || Firecracker ||
+|| 22 || 16 || Icicle ||
+|| 23 || 17 || Napalm ||
+|| 24 || 18 || Molotov ||
+|| 25 || 19 || Life Shard ||
+|| 26 || 1A || Magic Shard ||
+|| 27 || 1B || Power Food ||
+|| 28 || 1C || Protein ||
+|| 29 || 1D || Swallow Eye ||
+|| 30 || 1E || Fish-Head ||
+|| 31 || 1F || Moxa ||
+|| 32 || 20 || Hourglass ||
+|| 33 || 21 || Ivory Dice ||
+|| 34 || 22 || Plate ||
+|| 35 || 23 || Shaly Seed ||
+|| 36 || 24 || Vinegar ||
+|| 37 || 25 || Rusted Metal ||
+|| 38 || 26 || Gems ||
+|| 39 || 27 || Beef Jerky ||
+|| 40 || 28 || Cheese ||
+|| 41 || 29 || Berries ||
+|| 42 || 2A || Mandrake ||
+|| 43 || 2B || Clay Vase ||
+|| 44 || 2C || Marbles ||
+|| 45 || 2D || Moldy Vase ||
+|| 46 || 2E || Dirty Rags ||
+|| 47 || 2F || Tea Cup ||
+|| 48 || 30 || Beads ||
+|| 49 || 31 || Rare Book ||
+|| 50 || 32 || Old Painting ||
+|| 51 || 33 || Myria Icon ||
+|| 52 || 34 || Ladon Icon ||
+|| 53 || 35 || Lithograph ||
+|| 54 || 36 || Dragon Tear ||
+|| 55 || 37 || Rice Ball ||
+|| 56 || 38 || Jelly Fish ||
+|| 57 || 39 || Pirana ||
+|| 58 || 3A || Puffer ||
+|| 59 || 3B || Trout ||
+|| 60 || 3C || Rainbow Trout ||
+|| 61 || 3D || Red Catfish ||
+|| 62 || 3E || Bass ||
+|| 63 || 3F || Martian Squid ||
+|| 64 || 40 || Black Bass ||
+|| 65 || 41 || Barandy ||
+|| 66 || 42 || Man-O'-War ||
+|| 67 || 43 || Flying Fish ||
+|| 68 || 44 || Blowfish ||
+|| 69 || 45 || Sea Bream ||
+|| 70 || 46 || Sea Bass ||
+|| 71 || 47 || Black Porgy ||
+|| 72 || 48 || Octopus ||
+|| 73 || 49 || Angler ||
+|| 74 || 4A || Devil Fish ||
+|| 75 || 4B || Spear Fish ||
+|| 76 || 4C || Whale ||
+|| 77 || 4D || Mackerel ||
+|| 78 || 4E || Part A ||
+|| 79 || 4F || Part B ||
+|| 80 || 50 || Part C ||
+|| 81 || 51 || Part D ||
+|| 82 || 52 || Part E ||
+|| 83 || 53 || Part F ||
+|| 84 || 54 || Part G ||
+|| 85 || 55 || Part H ||
+|| 86 || 56 || Horseradish ||
+|| 87 || 57 || Faerie Tiara ||
+|| 88 || 58 || Skill Ink ||
+|| 89 || 59 || Flower Jewel ||
+|| 90 || 5A || Rakda Meat ||
+|| 91 || 5B || Water Jug ||
+
+++ Weapon Digits
+||~ Decimal ||~ Hexadecimal ||~ Weapon ||
+|| 0 || 0 || (Nothing) ||
+|| 1 || 1 || Dagger ||
+|| 2 || 2 || Ballockknife ||
+|| 3 || 3 || Bronze Sword ||
+|| 4 || 4 || Broad Sword ||
+|| 5 || 5 || Silver Knife ||
+|| 6 || 6 || Scramasax ||
+|| 7 || 7 || Moon Sword ||
+|| 8 || 8 || Claymore ||
+|| 9 || 9 || Flare Sword ||
+|| 10 || A || Feather Sword ||
+|| 11 || B || Royal Dagger ||
+|| 12 || C || Baselard ||
+|| 13 || D || Deadly Blade ||
+|| 14 || E || Heavy Dagger ||
+|| 15 || F || Ascension ||
+|| 16 || 10 || Heat Shotel ||
+|| 17 || 11 || Barbarossa ||
+|| 18 || 12 || Piercing Edge ||
+|| 19 || 13 || Demonsbane ||
+|| 20 || 14 || Damascus Sword ||
+|| 21 || 15 || Seeking Sword ||
+|| 22 || 16 || Dragon Blade ||
+|| 23 || 17 || Holy Avenger ||
+|| 24 || 18 || Royal Sword ||
+|| 25 || 19 || Gooking Sword ||
+|| 26 || 1A || Ashuras Sword ||
+|| 27 || 1B || Hidden Dagger ||
+|| 28 || 1C || Bent Sword ||
+|| 29 || 1D || Pointed Stick ||
+|| 30 || 1E || Oaken Stick ||
+|| 31 || 1F || Mace ||
+|| 32 || 20 || Magician Rod ||
+|| 33 || 21 || Quarter Staff ||
+|| 34 || 22 || Windcutter ||
+|| 35 || 23 || Ruby Scepter ||
+|| 36 || 24 || Lacquer Staff ||
+|| 37 || 25 || Beryl Rod ||
+|| 38 || 26 || Thunder Rod ||
+|| 39 || 27 || Blessed Staff ||
+|| 40 || 28 || Ouroboros ||
+|| 41 || 29 || Spear ||
+|| 42 || 2A || Long Spear ||
+|| 43 || 2B || Halberd ||
+|| 44 || 2C || Rood Spear ||
+|| 45 || 2D || Flame Spear ||
+|| 46 || 2E || Flying Spear ||
+|| 47 || 2F || Piercing Pike ||
+|| 48 || 30 || Gigantess ||
+|| 49 || 31 || Gale Javelin ||
+|| 50 || 32 || Ice Halberd ||
+|| 51 || 33 || Aries Spear ||
+|| 52 || 34 || Gunginir ||
+|| 53 || 35 || Dragon Spear ||
+|| 54 || 36 || Rufad's Spear ||
+|| 55 || 37 || Claws ||
+|| 56 || 38 || Rippers ||
+|| 57 || 39 || Spiked Claws ||
+|| 58 || 3A || Flame Talons ||
+|| 59 || 3B || Tiger Claws ||
+|| 60 || 3C || Raptor Claws ||
+|| 61 || 3D || Rock Breaker ||
+|| 62 || 3E || Brass Claws ||
+|| 63 || 3F || Death Claws ||
+|| 64 || 40 || Dragonfang ||
+|| 65 || 41 || Thieves Knife ||
+|| 66 || 42 || Katzbalger ||
+|| 67 || 43 || Slicer ||
+|| 68 || 44 || Life Stealer ||
+|| 69 || 45 || Melted Blade ||
+|| 70 || 46 || Ammo ||
+|| 71 || 47 || Flame Chrysm ||
+|| 72 || 48 || Ice Chrysm ||
+|| 73 || 49 || Shotgun Shell ||
+|| 74 || 4A || Sleep Shells ||
+|| 75 || 4B || He Shells ||
+|| 76 || 4C || Flash Shells ||
+|| 77 || 4D || Homing Bomb ||
+|| 78 || 4E || Ap Shells ||
+|| 79 || 4F || Gas Shells ||
+|| 80 || 50 || Atomic Bomb ||
+|| 81 || 51 || Ghostbuster ||
+|| 82 || 52 || Beast Spear ||
+
+
+++ Armor Digits
+||~ Decimal ||~ Hexadecimal ||~ Armor ||
+|| 0 || 0 || (Nothing) ||
+|| 1 || 1 || Clothing ||
+|| 2 || 2 || Leather Armor ||
+|| 3 || 3 || Waist Cloth ||
+|| 4 || 4 || Ranger Garb ||
+|| 5 || 5 || Leather Apron ||
+|| 6 || 6 || Mage's Robes ||
+|| 7 || 7 || Cuirass ||
+|| 8 || 8 || Breast Plate ||
+|| 9 || 9 || Chain Cap ||
+|| 10 || A || Scale Mail ||
+|| 11 || B || Crepe Cape ||
+|| 12 || C || Asbestos Armor ||
+|| 13 || D || Mithril Armor ||
+|| 14 || E || Lgt. Clothing ||
+|| 15 || F || Magma Armor ||
+|| 16 || 10 || Silver Mail ||
+|| 17 || 11 || Robe Of Wind ||
+|| 18 || 12 || Amber Bplate ||
+|| 19 || 13 || Phantom Dress ||
+|| 20 || 14 || Blizzard Mail ||
+|| 21 || 15 || Lacquer Armor ||
+|| 22 || 16 || Sage's Frock ||
+|| 23 || 17 || Damascus Mail ||
+|| 24 || 18 || Holy Robe ||
+|| 25 || 19 || Burglar Garb ||
+|| 26 || 1A || Royal Armor ||
+|| 27 || 1B || Force Armor ||
+|| 28 || 1C || Gideon's Garb ||
+|| 29 || 1D || Diana's Dress ||
+|| 30 || 1E || Dragon Armor ||
+|| 31 || 1F || Life Armor ||
+|| 32 || 20 || Mist Armor ||
+|| 33 || 21 || Bandana ||
+|| 34 || 22 || Hairband ||
+|| 35 || 23 || Brass Helm ||
+|| 36 || 24 || Iron Helm ||
+|| 37 || 25 || Knight's Helm ||
+|| 38 || 26 || Glass Domino ||
+|| 39 || 27 || Mithril Helm ||
+|| 40 || 28 || Laurel ||
+|| 41 || 29 || Gold Hairpin ||
+|| 42 || 2A || Platinum Helm ||
+|| 43 || 2B || Uv Glasses ||
+|| 44 || 2C || Tiger's Cap ||
+|| 45 || 2D || Sun Mask ||
+|| 46 || 2E || Lacquer Helm ||
+|| 47 || 2F || Silver Tiara ||
+|| 48 || 30 || Divine Helm ||
+|| 49 || 31 || Dragon Helm ||
+|| 50 || 32 || Bracers ||
+|| 51 || 33 || Cloth Shield ||
+|| 52 || 34 || Gauntlet ||
+|| 53 || 35 || Bronze Shield ||
+|| 54 || 36 || Buckler ||
+|| 55 || 37 || Mithril Shield ||
+|| 56 || 38 || Steel Gauntlets ||
+|| 57 || 39 || Flame Shield ||
+|| 58 || 3A || Kite Shield ||
+|| 59 || 3B || Ice Shield ||
+|| 60 || 3C || Spiked Gauntlets ||
+|| 61 || 3D || Lacquer Shield ||
+|| 62 || 3E || Protectors ||
+|| 63 || 3F || Giant Shield ||
+|| 64 || 40 || Mind Shield ||
+|| 65 || 41 || Dragon Shield ||
+|| 66 || 42 || Aries Gloves ||
+|| 67 || 43 || Manly Clothes ||
+
+
+++ Option Digits
+||~ Decimal ||~ Hexadecimal ||~ Option ||
+|| 0 || 0 || (Nothing) ||
+|| 1 || 1 || Titan Belt ||
+|| 2 || 2 || High Boots ||
+|| 3 || 3 || Speed Boots ||
+|| 4 || 4 || Wisdom Ring ||
+|| 5 || 5 || Lion's Belt ||
+|| 6 || 6 || Dream Ring ||
+|| 7 || 7 || Midas Stone ||
+|| 8 || 8 || Balance Ring ||
+|| 9 || 9 || Bat Amulet ||
+|| 10 || A || Ring Of Ice ||
+|| 11 || B || Ring Of Fire ||
+|| 12 || C || Thunder Ring ||
+|| 13 || D || Talisman ||
+|| 14 || E || Diamond Ring ||
+|| 15 || F || Life Sandals ||
+|| 16 || 10 || Light Bangle ||
+|| 17 || 11 || Barrier Ring ||
+|| 18 || 12 || Hawk's Ring ||
+|| 19 || 13 || Artemis' Cap ||
+|| 20 || 14 || Bell Collar ||
+|| 21 || 15 || Holy Mantle ||
+|| 22 || 16 || Cupid's Lyre ||
+|| 23 || 17 || Ivory Charm ||
+|| 24 || 18 || Soul Gem ||
+|| 25 || 19 || Shaman's Ring ||
+|| 26 || 1A || Spirit Ring ||
+|| 27 || 1B || Coupons ||
+|| 28 || 1C || Worm ||
+|| 29 || 1D || Spirit ||
+|| 30 || 1E || Caro ||
+|| 31 || 1F || Heavy Caro ||
+|| 32 || 20 || Toad ||
+|| 33 || 21 || Baby Frog ||
+|| 34 || 22 || Frog ||
+|| 35 || 23 || Fat Frog ||
+|| 36 || 24 || Old Popper ||
+|| 37 || 25 || Popper ||
+|| 38 || 26 || Top ||
+|| 39 || 27 || Dogwalker ||
+|| 40 || 28 || Sinker ||
+|| 41 || 29 || Float ||
+|| 42 || 2A || Hanger ||
+|| 43 || 2B || Deep Diver ||
+|| 44 || 2C || Coin ||
+|| 45 || 2D || Ding Frog ||
+|| 46 || 2E || Wooden Rod ||
+|| 47 || 2F || Bamboo Rod ||
+|| 48 || 30 || Deluxe Rod ||
+|| 49 || 31 || Angling Rod ||
+|| 50 || 32 || Spanner ||
+|| 51 || 33 || Master's Rod ||
+
+
+
+
++ Ability Codes
+||~ Description ||~ Gameshark ||~ Type ||~ Remark ||
+||Super Combo Hits || 301EC862 || 1 byte ||  ||
+||Boost Counter || 301FD288 || 1 byte ||  ||
+||Celerity Hour || 30145554 || 1 byte || Celerity's hour delay. Using Celerity, the hour, minute, second, and milicecond will be filled with 4, 59, 59, 59, respectively. Bonebreak works the same way ||
+||Celerity Minutes || 30145555 || 1 byte || Celerity's minute delay ||
+||Celerity Second || 30145556 || 1 byte || Celerity's second delay ||
+||Celerity Milisecond || 30145557 || 1 byte || Celerity's milisecond delay ||
+||Bonebreak Hour || 30145558 || 1 byte || Bonebreak's hour delay ||
+||Bonebreak Minutes || 30145559 || 1 byte || Bonebreak's minute delay ||
+||Bonebreak Second || 3014555A || 1 byte || Bonebreak's second delay ||
+||Bonebreak Milisecond || 3014555B || 1 byte || Bonebreak's milisecond delay ||
+||Accession MP Cost || 301463B8 || 1 byte || Changing this value will also affect the MP cost per turn, which is 0.5*[MP Cost] ||
+
+++ Ability Digits
+||~ Decimal ||~ Hexadecimal ||~ Spell ||
+|| 0 || 0 || (Nothing) ||
+|| 1 || 1 || Nue Stomp ||
+|| 2 || 2 || Gambit ||
+|| 3 || 3 || Super Combo ||
+|| 4 || 4 || Thunder Strike ||
+|| 5 || 5 || Flame Strike ||
+|| 6 || 6 || Mind Sword ||
+|| 7 || 7 || Mind Flay ||
+|| 8 || 8 || Blind ||
+|| 9 || 9 || Chlorine ||
+|| 10 || A || Unmotivate ||
+|| 11 || B || Multistrike ||
+|| 12 || C || Blitz ||
+|| 13 || D || Snap ||
+|| 14 || E || Flying Kick ||
+|| 15 || F || Charge ||
+|| 16 || 10 || Air Raid ||
+|| 17 || 11 || Astral Warp ||
+|| 18 || 12 || Giant Growth ||
+|| 19 || 13 || Aura ||
+|| 20 || 14 || Disembowel ||
+|| 21 || 15 || Bone Break ||
+|| 22 || 16 || Spirit Blast ||
+|| 23 || 17 || Bad Back ||
+|| 24 || 18 || Watch Enemy ||
+|| 25 || 19 || Noting (raises resistance?) ||
+|| 26 || 1A || Counter ||
+|| 27 || 1B || Hypnotize ||
+|| 28 || 1C || Devour ||
+|| 29 || 1D || Wind Strike ||
+|| 30 || 1E || Molasses ||
+|| 31 || 1F || Tarbaby ||
+|| 32 || 20 || Absorb ||
+|| 33 || 21 || Healing Herb ||
+|| 34 || 22 || Steroids ||
+|| 35 || 23 || Magic Belt ||
+|| 36 || 24 || Recall ||
+|| 37 || 25 || Magic Shuffle ||
+|| 38 || 26 || War Scout ||
+|| 39 || 27 || Focus ||
+|| 40 || 28 || Enlighten ||
+|| 41 || 29 || Berserk ||
+|| 42 || 2A || Mind's Eye ||
+|| 43 || 2B || Ward Of Light ||
+|| 44 || 2C || Evil Eye ||
+|| 45 || 2D || Bone Dart ||
+|| 46 || 2E || Fire Breath ||
+|| 47 || 2F || Ice Breath ||
+|| 48 || 30 || Dream Breath ||
+|| 49 || 31 || Frost Strike ||
+|| 50 || 32 || Pollen ||
+|| 51 || 33 || Venom Breath ||
+|| 52 || 34 || Ovum ||
+|| 53 || 35 || Lavaburst ||
+|| 54 || 36 || Howling ||
+|| 55 || 37 || Ebonfire ||
+|| 56 || 38 || Sacrifice ||
+|| 57 || 39 || Bone Dance ||
+|| 58 || 3A || Sanctuary ||
+|| 59 || 3B || Tornado ||
+|| 60 || 3C || Identify ||
+|| 61 || 3D || Target ||
+|| 62 || 3E || Celerity ||
+|| 63 || 3F || Sudden Death ||
+|| 64 || 40 || Weretiger ||
+|| 65 || 41 || Pilfer ||
+|| 66 || 42 || Tsunami ||
+|| 67 || 43 || Chill ||
+|| 68 || 44 || Foretell ||
+|| 69 || 45 || Influence ||
+|| 70 || 46 || Heal ||
+|| 71 || 47 || Rejuvenate ||
+|| 72 || 48 || Restore ||
+|| 73 || 49 || Vitalize ||
+|| 74 || 4A || Vigor ||
+|| 75 || 4B || Purify ||
+|| 76 || 4C || Raise Dead ||
+|| 77 || 4D || Resurrect ||
+|| 78 || 4E || Leech Power ||
+|| 79 || 4F || Drain ||
+|| 80 || 50 || Noting (reduces encounter?) ||
+|| 81 || 51 || Rottenbreath ||
+|| 82 || 52 || Protect ||
+|| 83 || 53 || Shield ||
+|| 84 || 54 || Speed ||
+|| 85 || 55 || Might ||
+|| 86 || 56 || Barrier ||
+|| 87 || 57 || Silence ||
+|| 88 || 58 || Slow ||
+|| 89 || 59 || Blunt ||
+|| 90 || 5A || Weaken ||
+|| 91 || 5B || Flare ||
+|| 92 || 5C || Fireblast ||
+|| 93 || 5D || Inferno ||
+|| 94 || 5E || Frost ||
+|| 95 || 5F || Iceblast ||
+|| 96 || 60 || Blizzard ||
+|| 97 || 61 || Jolt ||
+|| 98 || 62 || Lightning ||
+|| 99 || 63 || Myollnir ||
+|| 100 || 64 || Cyclone ||
+|| 101 || 65 || Typhoon ||
+|| 102 || 66 || Quake ||
+|| 103 || 67 || Simoon ||
+|| 104 || 68 || Sirocco ||
+|| 105 || 69 || Kyrie ||
+|| 106 || 6A || Death ||
+|| 107 || 6B || Sleep ||
+|| 108 || 6C || Confuse ||
+|| 109 || 6D || Depress ||
+|| 110 || 6E || Ragnarok ||
+|| 111 || 6F || Noting (stops time) ||
+|| 112 || 70 || Noting (jump attack) ||
+|| 113 || 71 || Noting (holy fire?) ||
+|| 114 || 72 || Fire Whip ||
+|| 115 || 73 || Remedy ||
+|| 116 || 74 || Utmost Attack ||
+|| 117 || 75 || Rest ||
+|| 118 || 76 || Burn ||
+|| 119 || 77 || Double Blow ||
+|| 120 || 78 || Whelp Breath ||
+|| 121 || 79 || Dragon Breath ||
+|| 122 || 7A || Flame Breath ||
+|| 123 || 7B || Frost Breath ||
+|| 124 || 7C || Thunder Breath ||
+|| 125 || 7D || Divine Breath ||
+|| 126 || 7E || Shadow Breath ||
+|| 127 || 7F || N/A ||
+|| 128 || 80 || Head Cracker ||
+|| 129 || 81 || Holocaust ||
+|| 130 || 82 || Venom ||
+|| 131 || 83 || Kaiser Breath ||
+|| 132 || 84 || Doom Breath ||
+|| 133 || 85 || Flame Claw ||
+|| 134 || 86 || Frost Claw ||
+|| 135 || 87 || Thunder Claw ||
+|| 136 || 88 || Shining Claw ||
+|| 137 || 89 || Corona ||
+|| 138 || 8A || Main Cannon ||
+|| 139 || 8B || Paralyzer ||
+|| 140 || 8C || Trump ||
+|| 141 || 8D || Triple Blow ||
+|| 142 || 8E || Syphon ||
+|| 143 || 8F || Thunder Clap ||
+|| 144 || 90 || Wall Of Fire ||
+|| 145 || 91 || Noting (pick and answer to do damage) ||
+|| 146 || 92 || N/A ||
+|| 147 || 93 || Noting (reduces flame resistance?) ||
+|| 148 || 94 || N/A ||
+|| 149 || 95 || Douse ||
+|| 150 || 96 || Eye Beam ||
+|| 151 || 97 || Accession ||
+|| 152 || 98 || Snooze ||
+|| 153 || 99 || Resist ||
+|| 154 || 9A || Mighty Chop ||
+|| 155 || 9B || Pyrokinesis ||
+|| 156 || 9C || Holy Strike ||
+|| 157 || 9D || Demonbane ||
+|| 158 || 9E || Charm ||
+|| 159 || 9F || Gloom ||
+|| 160 || A0 || Jump ||
+|| 161 || A1 || Timed Blow ||
+|| 162 || A2 || Transfer ||
+|| 163 || A3 || Meditation ||
+|| 164 || A4 || Feign Swing ||
+|| 165 || A5 || Backhand ||
+|| 166 || A6 || Monopolize ||
+|| 167 || A7 || Last Resort ||
+|| 168 || A8 || Cure ||
+|| 169 || A9 || Benediction ||
+|| 170 || AA || Risky Blow ||
+|| 171 || AB || Shadow Walk ||
+|| 172 || AC || Magic Ball ||
+|| 173 || AD || Intimidate ||
+|| 174 || AE || Heal ||
+|| 175 || AF || Rejuvenate ||
+|| 176 || B0 || Restore ||
+|| 177 || B1 || Vitalize ||
+|| 178 || B2 || Vigor ||
+|| 179 || B3 || Purify ||
+|| 180 || B4 || Raise Dead ||
+|| 181 || B5 || Resurrect ||
+|| 182 || B6 || Leech Power ||
+|| 183 || B7 || Drain ||
+|| 184 || B8 || Protect ||
+|| 185 || B9 || Shield ||
+|| 186 || BA || Speed ||
+|| 187 || BB || Might ||
+|| 188 || BC || Barrier ||
+|| 189 || BD || Silence ||
+|| 190 || BE || Slow ||
+|| 191 || BF || Blunt ||
+|| 192 || C0 || Weaken ||
+|| 193 || C1 || Flare ||
+|| 194 || C2 || Fireblast ||
+|| 195 || C3 || Inferno ||
+|| 196 || C4 || Frost ||
+|| 197 || C5 || Iceblast ||
+|| 198 || C6 || Blizzard ||
+|| 199 || C7 || Jolt ||
+|| 200 || C8 || Lightning ||
+|| 201 || C9 || Myollnir ||
+|| 202 || CA || Cyclone ||
+|| 203 || CB || Typhoon ||
+|| 204 || CC || Quake ||
+|| 205 || CD || Simoon ||
+|| 206 || CE || Sirocco ||
+|| 207 || CF || Kyrie ||
+|| 208 || D0 || Death ||
+|| 209 || D1 || Sleep ||
+|| 210 || D2 || Confuse ||
+|| 211 || D3 || Depress ||
+|| 212 || D4 || Ragnarok ||
+|| 213 || D5 || Noting (stops time) ||
+|| 214 || D6 || Noting (jump attack) ||
+|| 215 || D7 || Remedy ||
+|| 216 || D8 || Steal ||
+|| 217 || D9 || Restore Form ||
+|| 218 || DA || Aura Breath ||
+|| 219 || DB || Magma Breath ||
+|| 220 || DC || Geo Breath ||
+|| 221 || DD || Gaea's Breath ||
+|| 222 || DE || Combustion ||
+|| 223 || DF || Tempest ||
+|| 224 || E0 || Hurricane ||
+|| 225 || E1 || Temptation ||
+|| 226 || E2 || Meteor Strike ||
+
++ Faerie Village Codes
+These codes, seems to be for informative use only. They don't change anything.
+||~ Description ||~ Gameshark ||~ Type ||~ Remark ||
+|| Faerie Food || 301455C2 || Int 1 ||  ||
+|| Faerie Job Lv || 301455C3 || Int 1 ||  ||
+|| Faerie Culture Lv || 301455C4 || Int 1 ||  ||
+
++ Character Codes
+++ Ryu
+||~ Description ||~ Gameshark ||~ Type ||~ Remark ||
+||Name || 30144968 || 1 byte || Exceeding 5 characters will corrupt the data. ||
+||Level || 3014496E || 1 byte || Normal cap at 99 ||
+||Experience || 90144970 || 4 byte || Character's base address. Need experience increase/decrease event to trigger level up. ||
+||Fatigue || 30144982 || 1 byte || Fatigue is a counter that adds when you use skills that temporarily drops Max HP, or when you ran out of water at desert. Changing this value only labels your HP to yellow, but does not directly affect max HP. ||
+||Temp Max HP || 80144984 || 2 byte || This is a temporary max HP changer. Usually the same value as max HP, but on events that increases fatigue, this value also changes. Manually increasing fatigue will not directly affect this value. ||
+||MHP || 801449A4 || 2 byte || Caps at 999 ||
+||MAP || 801449A6 || 2 byte || Caps at 999 ||
+||Pow || 801449A8 || 2 byte || Caps at 999 ||
+||Def || 801449AA || 2 byte || Caps at 999 ||
+||Agi || 801449AC || 2 byte || Caps at 999 ||
+||Int || 801449AE || 2 byte || Caps at 999 ||
+||Will || 301449B2 || 1 byte || Caps at only 99. Value is not shown in-game ||
+||Flame Resist || 301449B3 || 1 byte || For all resists that follows, 2 is the default level. Below 2 is weakness, above 2 is resistance. ||
+||Frost Resist || 301449B4 || 1 byte ||  ||
+||Elec Resist || 301449B5 || 1 byte ||  ||
+||Earth Resist || 301449B6 || 1 byte ||  ||
+||Wind Resist || 301449B7 || 1 byte ||  ||
+||Holy Resist || 301449B8 || 1 byte || Holy governs both attack and recovery. Base level is 5. ||
+||Psionic Resist || 301449B9 || 1 byte ||  ||
+||Status Resist || 301449BA || 1 byte ||  ||
+||Death Resist || 301449BB || 1 byte ||  ||
+||Surprise || 301449BC || 1 byte ||  ||
+||Reprisal || 301449BD || 1 byte ||  ||
+||Critical || 301449BE || 1 byte ||  ||
+||Dodge || 301449BF || 1 byte ||  ||
+||Accuracy || 301449C0 || 1 byte ||  ||
+||Heal 1 || 301449C4 || 1 byte || Refer to the Ability ID number ||
+||Heal 2 || 301449C5 || 1 byte || Refer to the Ability ID number ||
+||Heal 3 || 301449C6 || 1 byte || Refer to the Ability ID number ||
+||Heal 4 || 301449C7 || 1 byte || Refer to the Ability ID number ||
+||Heal 5 || 301449C8 || 1 byte || Refer to the Ability ID number ||
+||Heal 6 || 301449C9 || 1 byte || Refer to the Ability ID number ||
+||Heal 7 || 301449CA || 1 byte || Refer to the Ability ID number ||
+||Heal 8 || 301449CB || 1 byte || Refer to the Ability ID number ||
+||Heal 9 || 301449CC || 1 byte || Refer to the Ability ID number ||
+||Heal 10 || 301449CD || 1 byte || Refer to the Ability ID number ||
+||Assist 1 || 301449CE || 1 byte || Refer to the Ability ID number ||
+||Assist 2 || 301449CF || 1 byte || Refer to the Ability ID number ||
+||Assist 3 || 301449D0 || 1 byte || Refer to the Ability ID number ||
+||Assist 4 || 301449D1 || 1 byte || Refer to the Ability ID number ||
+||Assist 5 || 301449D2 || 1 byte || Refer to the Ability ID number ||
+||Assist 6 || 301449D3 || 1 byte || Refer to the Ability ID number ||
+||Assist 7 || 301449D4 || 1 byte || Refer to the Ability ID number ||
+||Assist 8 || 301449D5 || 1 byte || Refer to the Ability ID number ||
+||Assist 9 || 301449D6 || 1 byte || Refer to the Ability ID number ||
+||Assist 10 || 301449D7 || 1 byte || Refer to the Ability ID number ||
+||Attack 1 || 301449D8 || 1 byte || Refer to the Ability ID number ||
+||Attack 2 || 301449D9 || 1 byte || Refer to the Ability ID number ||
+||Attack 3 || 301449DA || 1 byte || Refer to the Ability ID number ||
+||Attack 4 || 301449DB || 1 byte || Refer to the Ability ID number ||
+||Attack 5 || 301449DC || 1 byte || Refer to the Ability ID number ||
+||Attack 6 || 301449DD || 1 byte || Refer to the Ability ID number ||
+||Attack 7 || 301449DE || 1 byte || Refer to the Ability ID number ||
+||Attack 8 || 301449DF || 1 byte || Refer to the Ability ID number ||
+||Attack 9 || 301449E0 || 1 byte || Refer to the Ability ID number ||
+||Attack 10 || 301449E1 || 1 byte || Refer to the Ability ID number ||
+||Skill 1 || 301449E2 || 1 byte || Refer to the Ability ID number ||
+||Skill 2 || 301449E3 || 1 byte || Refer to the Ability ID number ||
+||Skill 3 || 301449E4 || 1 byte || Refer to the Ability ID number ||
+||Skill 4 || 301449E5 || 1 byte || Refer to the Ability ID number ||
+||Skill 5 || 301449E6 || 1 byte || Refer to the Ability ID number ||
+||Skill 6 || 301449E7 || 1 byte || Refer to the Ability ID number ||
+||Skill 7 || 301449E8 || 1 byte || Refer to the Ability ID number ||
+||Skill 8 || 301449E9 || 1 byte || Refer to the Ability ID number ||
+||Skill 9 || 301449EA || 1 byte || Refer to the Ability ID number ||
+||Skill 10 || 301449EB || 1 byte || Refer to the Ability ID number ||
+||Apprentice Lv. || 301449EC || 1 byte || Indicates progress of leveling the character have under a master. E.g. 1 means 1 level increase, 2 means 2 level increase, and so on ||
+
+++ Nina
+||~ Description ||~ Gameshark ||~ Type ||~ Remark ||
+||Name || 30144A0C || 1 byte || Exceeding 5 characters will corrupt the data. ||
+||Level || 30144A12 || 1 byte || Normal cap at 99 ||
+||Experience || 90144A14 || 4 byte || Character's base address. Need experience increase/decrease event to trigger level up. ||
+||Fatigue || 30144A26 || 1 byte || Fatigue is a counter that adds when you use skills that temporarily drops Max HP, or when you ran out of water at desert. Changing this value only labels your HP to yellow, but does not directly affect max HP. ||
+||Temp Max HP || 80144A28 || 2 byte || This is a temporary max HP changer. Usually the same value as max HP, but on events that increases fatigue, this value also changes. Manually increasing fatigue will not directly affect this value. ||
+||MHP || 80144A48 || 2 byte || Caps at 999 ||
+||MAP || 80144A4A || 2 byte || Caps at 999 ||
+||Pow || 80144A4C || 2 byte || Caps at 999 ||
+||Def || 80144A4E || 2 byte || Caps at 999 ||
+||Agi || 80144A50 || 2 byte || Caps at 999 ||
+||Int || 80144A52 || 2 byte || Caps at 999 ||
+||Will || 30144A56 || 1 byte || Caps at only 99. Value is not shown in-game ||
+||Flame Resist || 30144A57 || 1 byte || For all resists that follows, 2 is the default level. Below 2 is weakness, above 2 is resistance. ||
+||Frost Resist || 30144A58 || 1 byte ||  ||
+||Elec Resist || 30144A59 || 1 byte ||  ||
+||Earth Resist || 30144A5A || 1 byte ||  ||
+||Wind Resist || 30144A5B || 1 byte ||  ||
+||Holy Resist || 30144A5C || 1 byte || Holy governs both attack and recovery. Base level is 5. ||
+||Psionic Resist || 30144A5D || 1 byte ||  ||
+||Status Resist || 30144A5E || 1 byte ||  ||
+||Death Resist || 30144A5F || 1 byte ||  ||
+||Surprise || 30144A60 || 1 byte ||  ||
+||Reprisal || 30144A61 || 1 byte ||  ||
+||Critical || 30144A62 || 1 byte ||  ||
+||Dodge || 30144A63 || 1 byte ||  ||
+||Accuracy || 30144A64 || 1 byte ||  ||
+||Heal 1 || 30144A68 || 1 byte || Refer to the Ability ID number ||
+||Heal 2 || 30144A69 || 1 byte || Refer to the Ability ID number ||
+||Heal 3 || 30144A6A || 1 byte || Refer to the Ability ID number ||
+||Heal 4 || 30144A6B || 1 byte || Refer to the Ability ID number ||
+||Heal 5 || 30144A6C || 1 byte || Refer to the Ability ID number ||
+||Heal 6 || 30144A6D || 1 byte || Refer to the Ability ID number ||
+||Heal 7 || 30144A6E || 1 byte || Refer to the Ability ID number ||
+||Heal 8 || 30144A6F || 1 byte || Refer to the Ability ID number ||
+||Heal 9 || 30144A70 || 1 byte || Refer to the Ability ID number ||
+||Heal 10 || 30144A71 || 1 byte || Refer to the Ability ID number ||
+||Assist 1 || 30144A72 || 1 byte || Refer to the Ability ID number ||
+||Assist 2 || 30144A73 || 1 byte || Refer to the Ability ID number ||
+||Assist 3 || 30144A74 || 1 byte || Refer to the Ability ID number ||
+||Assist 4 || 30144A75 || 1 byte || Refer to the Ability ID number ||
+||Assist 5 || 30144A76 || 1 byte || Refer to the Ability ID number ||
+||Assist 6 || 30144A77 || 1 byte || Refer to the Ability ID number ||
+||Assist 7 || 30144A78 || 1 byte || Refer to the Ability ID number ||
+||Assist 8 || 30144A79 || 1 byte || Refer to the Ability ID number ||
+||Assist 9 || 30144A7A || 1 byte || Refer to the Ability ID number ||
+||Assist 10 || 30144A7B || 1 byte || Refer to the Ability ID number ||
+||Attack 1 || 30144A7C || 1 byte || Refer to the Ability ID number ||
+||Attack 2 || 30144A7D || 1 byte || Refer to the Ability ID number ||
+||Attack 3 || 30144A7E || 1 byte || Refer to the Ability ID number ||
+||Attack 4 || 30144A7F || 1 byte || Refer to the Ability ID number ||
+||Attack 5 || 30144A80 || 1 byte || Refer to the Ability ID number ||
+||Attack 6 || 30144A81 || 1 byte || Refer to the Ability ID number ||
+||Attack 7 || 30144A82 || 1 byte || Refer to the Ability ID number ||
+||Attack 8 || 30144A83 || 1 byte || Refer to the Ability ID number ||
+||Attack 9 || 30144A84 || 1 byte || Refer to the Ability ID number ||
+||Attack 10 || 30144A85 || 1 byte || Refer to the Ability ID number ||
+||Skill 1 || 30144A86 || 1 byte || Refer to the Ability ID number ||
+||Skill 2 || 30144A87 || 1 byte || Refer to the Ability ID number ||
+||Skill 3 || 30144A88 || 1 byte || Refer to the Ability ID number ||
+||Skill 4 || 30144A89 || 1 byte || Refer to the Ability ID number ||
+||Skill 5 || 30144A8A || 1 byte || Refer to the Ability ID number ||
+||Skill 6 || 30144A8B || 1 byte || Refer to the Ability ID number ||
+||Skill 7 || 30144A8C || 1 byte || Refer to the Ability ID number ||
+||Skill 8 || 30144A8D || 1 byte || Refer to the Ability ID number ||
+||Skill 9 || 30144A8E || 1 byte || Refer to the Ability ID number ||
+||Skill 10 || 30144A8F || 1 byte || Refer to the Ability ID number ||
+||Apprentice Lv. || 30144A90 || 1 byte || Indicates progress of leveling the character have under a master. E.g. 1 means 1 level increase, 2 means 2 level increase, and so on ||
+
+++ Garr
+||~ Description ||~ Gameshark ||~ Type ||~ Remark ||
+||Name || 30144AB0 || 1 byte || Exceeding 5 characters will corrupt the data. ||
+||Level || 30144AB6 || 1 byte || Normal cap at 99 ||
+||Experience || 90144AB8 || 4 byte || Character's base address. Need experience increase/decrease event to trigger level up. ||
+||Fatigue || 30144ACA || 1 byte || Fatigue is a counter that adds when you use skills that temporarily drops Max HP, or when you ran out of water at desert. Changing this value only labels your HP to yellow, but does not directly affect max HP. ||
+||Temp Max HP || 80144ACC || 2 byte || This is a temporary max HP changer. Usually the same value as max HP, but on events that increases fatigue, this value also changes. Manually increasing fatigue will not directly affect this value. ||
+||MHP || 80144AEC || 2 byte || Caps at 999 ||
+||MAP || 80144AEE || 2 byte || Caps at 999 ||
+||Pow || 80144AF0 || 2 byte || Caps at 999 ||
+||Def || 80144AF2 || 2 byte || Caps at 999 ||
+||Agi || 80144AF4 || 2 byte || Caps at 999 ||
+||Int || 80144AF6 || 2 byte || Caps at 999 ||
+||Will || 30144AFA || 1 byte || Caps at only 99. Value is not shown in-game ||
+||Flame Resist || 30144AFB || 1 byte || For all resists that follows, 2 is the default level. Below 2 is weakness, above 2 is resistance. ||
+||Frost Resist || 30144AFC || 1 byte ||  ||
+||Elec Resist || 30144AFD || 1 byte ||  ||
+||Earth Resist || 30144AFE || 1 byte ||  ||
+||Wind Resist || 30144AFF || 1 byte ||  ||
+||Holy Resist || 30144B00 || 1 byte || Holy governs both attack and recovery. Base level is 5. ||
+||Psionic Resist || 30144B01 || 1 byte ||  ||
+||Status Resist || 30144B02 || 1 byte ||  ||
+||Death Resist || 30144B03 || 1 byte ||  ||
+||Surprise || 30144B04 || 1 byte ||  ||
+||Reprisal || 30144B05 || 1 byte ||  ||
+||Critical || 30144B06 || 1 byte ||  ||
+||Dodge || 30144B07 || 1 byte ||  ||
+||Accuracy || 30144B08 || 1 byte ||  ||
+||Heal 1 || 30144B0C || 1 byte || Refer to the Ability ID number ||
+||Heal 2 || 30144B0D || 1 byte || Refer to the Ability ID number ||
+||Heal 3 || 30144B0E || 1 byte || Refer to the Ability ID number ||
+||Heal 4 || 30144B0F || 1 byte || Refer to the Ability ID number ||
+||Heal 5 || 30144B10 || 1 byte || Refer to the Ability ID number ||
+||Heal 6 || 30144B11 || 1 byte || Refer to the Ability ID number ||
+||Heal 7 || 30144B12 || 1 byte || Refer to the Ability ID number ||
+||Heal 8 || 30144B13 || 1 byte || Refer to the Ability ID number ||
+||Heal 9 || 30144B14 || 1 byte || Refer to the Ability ID number ||
+||Heal 10 || 30144B15 || 1 byte || Refer to the Ability ID number ||
+||Assist 1 || 30144B16 || 1 byte || Refer to the Ability ID number ||
+||Assist 2 || 30144B17 || 1 byte || Refer to the Ability ID number ||
+||Assist 3 || 30144B18 || 1 byte || Refer to the Ability ID number ||
+||Assist 4 || 30144B19 || 1 byte || Refer to the Ability ID number ||
+||Assist 5 || 30144B1A || 1 byte || Refer to the Ability ID number ||
+||Assist 6 || 30144B1B || 1 byte || Refer to the Ability ID number ||
+||Assist 7 || 30144B1C || 1 byte || Refer to the Ability ID number ||
+||Assist 8 || 30144B1D || 1 byte || Refer to the Ability ID number ||
+||Assist 9 || 30144B1E || 1 byte || Refer to the Ability ID number ||
+||Assist 10 || 30144B1F || 1 byte || Refer to the Ability ID number ||
+||Attack 1 || 30144B20 || 1 byte || Refer to the Ability ID number ||
+||Attack 2 || 30144B21 || 1 byte || Refer to the Ability ID number ||
+||Attack 3 || 30144B22 || 1 byte || Refer to the Ability ID number ||
+||Attack 4 || 30144B23 || 1 byte || Refer to the Ability ID number ||
+||Attack 5 || 30144B24 || 1 byte || Refer to the Ability ID number ||
+||Attack 6 || 30144B25 || 1 byte || Refer to the Ability ID number ||
+||Attack 7 || 30144B26 || 1 byte || Refer to the Ability ID number ||
+||Attack 8 || 30144B27 || 1 byte || Refer to the Ability ID number ||
+||Attack 9 || 30144B28 || 1 byte || Refer to the Ability ID number ||
+||Attack 10 || 30144B29 || 1 byte || Refer to the Ability ID number ||
+||Skill 1 || 30144B2A || 1 byte || Refer to the Ability ID number ||
+||Skill 2 || 30144B2B || 1 byte || Refer to the Ability ID number ||
+||Skill 3 || 30144B2C || 1 byte || Refer to the Ability ID number ||
+||Skill 4 || 30144B2D || 1 byte || Refer to the Ability ID number ||
+||Skill 5 || 30144B2E || 1 byte || Refer to the Ability ID number ||
+||Skill 6 || 30144B2F || 1 byte || Refer to the Ability ID number ||
+||Skill 7 || 30144B30 || 1 byte || Refer to the Ability ID number ||
+||Skill 8 || 30144B31 || 1 byte || Refer to the Ability ID number ||
+||Skill 9 || 30144B32 || 1 byte || Refer to the Ability ID number ||
+||Skill 10 || 30144B33 || 1 byte || Refer to the Ability ID number ||
+||Apprentice Lv. || 30144B34 || 1 byte || Indicates progress of leveling the character have under a master. E.g. 1 means 1 level increase, 2 means 2 level increase, and so on ||
+
+
+++ Teepo
+||~ Description ||~ Gameshark ||~ Type ||~ Remark ||
+||Name || 30144B54 || 1 byte || Exceeding 5 characters will corrupt the data. ||
+||Level || 30144B5A || 1 byte || Normal cap at 99 ||
+||Experience || 90144B5C || 4 byte || Character's base address. Need experience increase/decrease event to trigger level up. ||
+||Fatigue || 30144B6E || 1 byte || Fatigue is a counter that adds when you use skills that temporarily drops Max HP, or when you ran out of water at desert. Changing this value only labels your HP to yellow, but does not directly affect max HP. ||
+||Temp Max HP || 80144B70 || 2 byte || This is a temporary max HP changer. Usually the same value as max HP, but on events that increases fatigue, this value also changes. Manually increasing fatigue will not directly affect this value. ||
+||MHP || 80144B90 || 2 byte || Caps at 999 ||
+||MAP || 80144B92 || 2 byte || Caps at 999 ||
+||Pow || 80144B94 || 2 byte || Caps at 999 ||
+||Def || 80144B96 || 2 byte || Caps at 999 ||
+||Agi || 80144B98 || 2 byte || Caps at 999 ||
+||Int || 80144B9A || 2 byte || Caps at 999 ||
+||Will || 30144B9E || 1 byte || Caps at only 99. Value is not shown in-game ||
+||Flame Resist || 30144B9F || 1 byte || For all resists that follows, 2 is the default level. Below 2 is weakness, above 2 is resistance. ||
+||Frost Resist || 30144BA0 || 1 byte ||  ||
+||Elec Resist || 30144BA1 || 1 byte ||  ||
+||Earth Resist || 30144BA2 || 1 byte ||  ||
+||Wind Resist || 30144BA3 || 1 byte ||  ||
+||Holy Resist || 30144BA4 || 1 byte || Holy governs both attack and recovery. Base level is 5. ||
+||Psionic Resist || 30144BA5 || 1 byte ||  ||
+||Status Resist || 30144BA6 || 1 byte ||  ||
+||Death Resist || 30144BA7 || 1 byte ||  ||
+||Surprise || 30144BA8 || 1 byte ||  ||
+||Reprisal || 30144BA9 || 1 byte ||  ||
+||Critical || 30144BAA || 1 byte ||  ||
+||Dodge || 30144BAB || 1 byte ||  ||
+||Accuracy || 30144BAC || 1 byte ||  ||
+||Heal 1 || 30144BB0 || 1 byte || Refer to the Ability ID number ||
+||Heal 2 || 30144BB1 || 1 byte || Refer to the Ability ID number ||
+||Heal 3 || 30144BB2 || 1 byte || Refer to the Ability ID number ||
+||Heal 4 || 30144BB3 || 1 byte || Refer to the Ability ID number ||
+||Heal 5 || 30144BB4 || 1 byte || Refer to the Ability ID number ||
+||Heal 6 || 30144BB5 || 1 byte || Refer to the Ability ID number ||
+||Heal 7 || 30144BB6 || 1 byte || Refer to the Ability ID number ||
+||Heal 8 || 30144BB7 || 1 byte || Refer to the Ability ID number ||
+||Heal 9 || 30144BB8 || 1 byte || Refer to the Ability ID number ||
+||Heal 10 || 30144BB9 || 1 byte || Refer to the Ability ID number ||
+||Assist 1 || 30144BBA || 1 byte || Refer to the Ability ID number ||
+||Assist 2 || 30144BBB || 1 byte || Refer to the Ability ID number ||
+||Assist 3 || 30144BBC || 1 byte || Refer to the Ability ID number ||
+||Assist 4 || 30144BBD || 1 byte || Refer to the Ability ID number ||
+||Assist 5 || 30144BBE || 1 byte || Refer to the Ability ID number ||
+||Assist 6 || 30144BBF || 1 byte || Refer to the Ability ID number ||
+||Assist 7 || 30144BC0 || 1 byte || Refer to the Ability ID number ||
+||Assist 8 || 30144BC1 || 1 byte || Refer to the Ability ID number ||
+||Assist 9 || 30144BC2 || 1 byte || Refer to the Ability ID number ||
+||Assist 10 || 30144BC3 || 1 byte || Refer to the Ability ID number ||
+||Attack 1 || 30144BC4 || 1 byte || Refer to the Ability ID number ||
+||Attack 2 || 30144BC5 || 1 byte || Refer to the Ability ID number ||
+||Attack 3 || 30144BC6 || 1 byte || Refer to the Ability ID number ||
+||Attack 4 || 30144BC7 || 1 byte || Refer to the Ability ID number ||
+||Attack 5 || 30144BC8 || 1 byte || Refer to the Ability ID number ||
+||Attack 6 || 30144BC9 || 1 byte || Refer to the Ability ID number ||
+||Attack 7 || 30144BCA || 1 byte || Refer to the Ability ID number ||
+||Attack 8 || 30144BCB || 1 byte || Refer to the Ability ID number ||
+||Attack 9 || 30144BCC || 1 byte || Refer to the Ability ID number ||
+||Attack 10 || 30144BCD || 1 byte || Refer to the Ability ID number ||
+||Skill 1 || 30144BCE || 1 byte || Refer to the Ability ID number ||
+||Skill 2 || 30144BCF || 1 byte || Refer to the Ability ID number ||
+||Skill 3 || 30144BD0 || 1 byte || Refer to the Ability ID number ||
+||Skill 4 || 30144BD1 || 1 byte || Refer to the Ability ID number ||
+||Skill 5 || 30144BD2 || 1 byte || Refer to the Ability ID number ||
+||Skill 6 || 30144BD3 || 1 byte || Refer to the Ability ID number ||
+||Skill 7 || 30144BD4 || 1 byte || Refer to the Ability ID number ||
+||Skill 8 || 30144BD5 || 1 byte || Refer to the Ability ID number ||
+||Skill 9 || 30144BD6 || 1 byte || Refer to the Ability ID number ||
+||Skill 10 || 30144BD7 || 1 byte || Refer to the Ability ID number ||
+||Apprentice Lv. || 30144BD8 || 1 byte || Indicates progress of leveling the character have under a master. E.g. 1 means 1 level increase, 2 means 2 level increase, and so on ||
+
+
+++ Rei
+||~ Description ||~ Gameshark ||~ Type ||~ Remark ||
+||Name || 30144BF8 || 1 byte || Exceeding 5 characters will corrupt the data. ||
+||Level || 30144BFE || 1 byte || Normal cap at 99 ||
+||Experience || 90144C00 || 4 byte || Character's base address. Need experience increase/decrease event to trigger level up. ||
+||Fatigue || 30144C12 || 1 byte || Fatigue is a counter that adds when you use skills that temporarily drops Max HP, or when you ran out of water at desert. Changing this value only labels your HP to yellow, but does not directly affect max HP. ||
+||Temp Max HP || 80144C14 || 2 byte || This is a temporary max HP changer. Usually the same value as max HP, but on events that increases fatigue, this value also changes. Manually increasing fatigue will not directly affect this value. ||
+||MHP || 80144C34 || 2 byte || Caps at 999 ||
+||MAP || 80144C36 || 2 byte || Caps at 999 ||
+||Pow || 80144C38 || 2 byte || Caps at 999 ||
+||Def || 80144C3A || 2 byte || Caps at 999 ||
+||Agi || 80144C3C || 2 byte || Caps at 999 ||
+||Int || 80144C3E || 2 byte || Caps at 999 ||
+||Will || 30144C42 || 1 byte || Caps at only 99. Value is not shown in-game ||
+||Flame Resist || 30144C43 || 1 byte || For all resists that follows, 2 is the default level. Below 2 is weakness, above 2 is resistance. ||
+||Frost Resist || 30144C44 || 1 byte ||  ||
+||Elec Resist || 30144C45 || 1 byte ||  ||
+||Earth Resist || 30144C46 || 1 byte ||  ||
+||Wind Resist || 30144C47 || 1 byte ||  ||
+||Holy Resist || 30144C48 || 1 byte || Holy governs both attack and recovery. Base level is 5. ||
+||Psionic Resist || 30144C49 || 1 byte ||  ||
+||Status Resist || 30144C4A || 1 byte ||  ||
+||Death Resist || 30144C4B || 1 byte ||  ||
+||Surprise || 30144C4C || 1 byte ||  ||
+||Reprisal || 30144C4D || 1 byte ||  ||
+||Critical || 30144C4E || 1 byte ||  ||
+||Dodge || 30144C4F || 1 byte ||  ||
+||Accuracy || 30144C50 || 1 byte ||  ||
+||Heal 1 || 30144C54 || 1 byte || Refer to the Ability ID number ||
+||Heal 2 || 30144C55 || 1 byte || Refer to the Ability ID number ||
+||Heal 3 || 30144C56 || 1 byte || Refer to the Ability ID number ||
+||Heal 4 || 30144C57 || 1 byte || Refer to the Ability ID number ||
+||Heal 5 || 30144C58 || 1 byte || Refer to the Ability ID number ||
+||Heal 6 || 30144C59 || 1 byte || Refer to the Ability ID number ||
+||Heal 7 || 30144C5A || 1 byte || Refer to the Ability ID number ||
+||Heal 8 || 30144C5B || 1 byte || Refer to the Ability ID number ||
+||Heal 9 || 30144C5C || 1 byte || Refer to the Ability ID number ||
+||Heal 10 || 30144C5D || 1 byte || Refer to the Ability ID number ||
+||Assist 1 || 30144C5E || 1 byte || Refer to the Ability ID number ||
+||Assist 2 || 30144C5F || 1 byte || Refer to the Ability ID number ||
+||Assist 3 || 30144C60 || 1 byte || Refer to the Ability ID number ||
+||Assist 4 || 30144C61 || 1 byte || Refer to the Ability ID number ||
+||Assist 5 || 30144C62 || 1 byte || Refer to the Ability ID number ||
+||Assist 6 || 30144C63 || 1 byte || Refer to the Ability ID number ||
+||Assist 7 || 30144C64 || 1 byte || Refer to the Ability ID number ||
+||Assist 8 || 30144C65 || 1 byte || Refer to the Ability ID number ||
+||Assist 9 || 30144C66 || 1 byte || Refer to the Ability ID number ||
+||Assist 10 || 30144C67 || 1 byte || Refer to the Ability ID number ||
+||Attack 1 || 30144C68 || 1 byte || Refer to the Ability ID number ||
+||Attack 2 || 30144C69 || 1 byte || Refer to the Ability ID number ||
+||Attack 3 || 30144C6A || 1 byte || Refer to the Ability ID number ||
+||Attack 4 || 30144C6B || 1 byte || Refer to the Ability ID number ||
+||Attack 5 || 30144C6C || 1 byte || Refer to the Ability ID number ||
+||Attack 6 || 30144C6D || 1 byte || Refer to the Ability ID number ||
+||Attack 7 || 30144C6E || 1 byte || Refer to the Ability ID number ||
+||Attack 8 || 30144C6F || 1 byte || Refer to the Ability ID number ||
+||Attack 9 || 30144C70 || 1 byte || Refer to the Ability ID number ||
+||Attack 10 || 30144C71 || 1 byte || Refer to the Ability ID number ||
+||Skill 1 || 30144C72 || 1 byte || Refer to the Ability ID number ||
+||Skill 2 || 30144C73 || 1 byte || Refer to the Ability ID number ||
+||Skill 3 || 30144C74 || 1 byte || Refer to the Ability ID number ||
+||Skill 4 || 30144C75 || 1 byte || Refer to the Ability ID number ||
+||Skill 5 || 30144C76 || 1 byte || Refer to the Ability ID number ||
+||Skill 6 || 30144C77 || 1 byte || Refer to the Ability ID number ||
+||Skill 7 || 30144C78 || 1 byte || Refer to the Ability ID number ||
+||Skill 8 || 30144C79 || 1 byte || Refer to the Ability ID number ||
+||Skill 9 || 30144C7A || 1 byte || Refer to the Ability ID number ||
+||Skill 10 || 30144C7B || 1 byte || Refer to the Ability ID number ||
+||Apprentice Lv. || 30144C7C || 1 byte || Indicates progress of leveling the character have under a master. E.g. 1 means 1 level increase, 2 means 2 level increase, and so on ||
+
+++ Momo
+||~ Description ||~ Gameshark ||~ Type ||~ Remark ||
+||Name || 30144C9C || 1 byte || Exceeding 5 characters will corrupt the data. ||
+||Level || 30144CA2 || 1 byte || Normal cap at 99 ||
+||Experience || 90144CA4 || 4 byte || Character's base address. Need experience increase/decrease event to trigger level up. ||
+||Fatigue || 30144CB6 || 1 byte || Fatigue is a counter that adds when you use skills that temporarily drops Max HP, or when you ran out of water at desert. Changing this value only labels your HP to yellow, but does not directly affect max HP. ||
+||Temp Max HP || 80144CB8 || 2 byte || This is a temporary max HP changer. Usually the same value as max HP, but on events that increases fatigue, this value also changes. Manually increasing fatigue will not directly affect this value. ||
+||MHP || 80144CD8 || 2 byte || Caps at 999 ||
+||MAP || 80144CDA || 2 byte || Caps at 999 ||
+||Pow || 80144CDC || 2 byte || Caps at 999 ||
+||Def || 80144CDE || 2 byte || Caps at 999 ||
+||Agi || 80144CE0 || 2 byte || Caps at 999 ||
+||Int || 80144CE2 || 2 byte || Caps at 999 ||
+||Will || 30144CE6 || 1 byte || Caps at only 99. Value is not shown in-game ||
+||Flame Resist || 30144CE7 || 1 byte || For all resists that follows, 2 is the default level. Below 2 is weakness, above 2 is resistance. ||
+||Frost Resist || 30144CE8 || 1 byte ||  ||
+||Elec Resist || 30144CE9 || 1 byte ||  ||
+||Earth Resist || 30144CEA || 1 byte ||  ||
+||Wind Resist || 30144CEB || 1 byte ||  ||
+||Holy Resist || 30144CEC || 1 byte || Holy governs both attack and recovery. Base level is 5. ||
+||Psionic Resist || 30144CED || 1 byte ||  ||
+||Status Resist || 30144CEE || 1 byte ||  ||
+||Death Resist || 30144CEF || 1 byte ||  ||
+||Surprise || 30144CF0 || 1 byte ||  ||
+||Reprisal || 30144CF1 || 1 byte ||  ||
+||Critical || 30144CF2 || 1 byte ||  ||
+||Dodge || 30144CF3 || 1 byte ||  ||
+||Accuracy || 30144CF4 || 1 byte ||  ||
+||Heal 1 || 30144CF8 || 1 byte || Refer to the Ability ID number ||
+||Heal 2 || 30144CF9 || 1 byte || Refer to the Ability ID number ||
+||Heal 3 || 30144CFA || 1 byte || Refer to the Ability ID number ||
+||Heal 4 || 30144CFB || 1 byte || Refer to the Ability ID number ||
+||Heal 5 || 30144CFC || 1 byte || Refer to the Ability ID number ||
+||Heal 6 || 30144CFD || 1 byte || Refer to the Ability ID number ||
+||Heal 7 || 30144CFE || 1 byte || Refer to the Ability ID number ||
+||Heal 8 || 30144CFF || 1 byte || Refer to the Ability ID number ||
+||Heal 9 || 30144D00 || 1 byte || Refer to the Ability ID number ||
+||Heal 10 || 30144D01 || 1 byte || Refer to the Ability ID number ||
+||Assist 1 || 30144D02 || 1 byte || Refer to the Ability ID number ||
+||Assist 2 || 30144D03 || 1 byte || Refer to the Ability ID number ||
+||Assist 3 || 30144D04 || 1 byte || Refer to the Ability ID number ||
+||Assist 4 || 30144D05 || 1 byte || Refer to the Ability ID number ||
+||Assist 5 || 30144D06 || 1 byte || Refer to the Ability ID number ||
+||Assist 6 || 30144D07 || 1 byte || Refer to the Ability ID number ||
+||Assist 7 || 30144D08 || 1 byte || Refer to the Ability ID number ||
+||Assist 8 || 30144D09 || 1 byte || Refer to the Ability ID number ||
+||Assist 9 || 30144D0A || 1 byte || Refer to the Ability ID number ||
+||Assist 10 || 30144D0B || 1 byte || Refer to the Ability ID number ||
+||Attack 1 || 30144D0C || 1 byte || Refer to the Ability ID number ||
+||Attack 2 || 30144D0D || 1 byte || Refer to the Ability ID number ||
+||Attack 3 || 30144D0E || 1 byte || Refer to the Ability ID number ||
+||Attack 4 || 30144D0F || 1 byte || Refer to the Ability ID number ||
+||Attack 5 || 30144D10 || 1 byte || Refer to the Ability ID number ||
+||Attack 6 || 30144D11 || 1 byte || Refer to the Ability ID number ||
+||Attack 7 || 30144D12 || 1 byte || Refer to the Ability ID number ||
+||Attack 8 || 30144D13 || 1 byte || Refer to the Ability ID number ||
+||Attack 9 || 30144D14 || 1 byte || Refer to the Ability ID number ||
+||Attack 10 || 30144D15 || 1 byte || Refer to the Ability ID number ||
+||Skill 1 || 30144D16 || 1 byte || Refer to the Ability ID number ||
+||Skill 2 || 30144D17 || 1 byte || Refer to the Ability ID number ||
+||Skill 3 || 30144D18 || 1 byte || Refer to the Ability ID number ||
+||Skill 4 || 30144D19 || 1 byte || Refer to the Ability ID number ||
+||Skill 5 || 30144D1A || 1 byte || Refer to the Ability ID number ||
+||Skill 6 || 30144D1B || 1 byte || Refer to the Ability ID number ||
+||Skill 7 || 30144D1C || 1 byte || Refer to the Ability ID number ||
+||Skill 8 || 30144D1D || 1 byte || Refer to the Ability ID number ||
+||Skill 9 || 30144D1E || 1 byte || Refer to the Ability ID number ||
+||Skill 10 || 30144D1F || 1 byte || Refer to the Ability ID number ||
+||Apprentice Lv. || 30144D20 || 1 byte || Indicates progress of leveling the character have under a master. E.g. 1 means 1 level increase, 2 means 2 level increase, and so on ||
+
+
+++ Peco
+||~ Description ||~ Gameshark ||~ Type ||~ Remark ||
+||Name || 30144D40 || 1 byte || Exceeding 5 characters will corrupt the data. ||
+||Level || 30144D46 || 1 byte || Normal cap at 99 ||
+||Experience || 90144D48 || 4 byte || Character's base address. Need experience increase/decrease event to trigger level up. ||
+||Fatigue || 30144D5A || 1 byte || Fatigue is a counter that adds when you use skills that temporarily drops Max HP, or when you ran out of water at desert. Changing this value only labels your HP to yellow, but does not directly affect max HP. ||
+||Temp Max HP || 80144D5C || 2 byte || This is a temporary max HP changer. Usually the same value as max HP, but on events that increases fatigue, this value also changes. Manually increasing fatigue will not directly affect this value. ||
+||MHP || 80144D7C || 2 byte || Caps at 999 ||
+||MAP || 80144D7E || 2 byte || Caps at 999 ||
+||Pow || 80144D80 || 2 byte || Caps at 999 ||
+||Def || 80144D82 || 2 byte || Caps at 999 ||
+||Agi || 80144D84 || 2 byte || Caps at 999 ||
+||Int || 80144D86 || 2 byte || Caps at 999 ||
+||Will || 30144D8A || 1 byte || Caps at only 99. Value is not shown in-game ||
+||Flame Resist || 30144D8B || 1 byte || For all resists that follows, 2 is the default level. Below 2 is weakness, above 2 is resistance. ||
+||Frost Resist || 30144D8C || 1 byte ||  ||
+||Elec Resist || 30144D8D || 1 byte ||  ||
+||Earth Resist || 30144D8E || 1 byte ||  ||
+||Wind Resist || 30144D8F || 1 byte ||  ||
+||Holy Resist || 30144D90 || 1 byte || Holy governs both attack and recovery. Base level is 5. ||
+||Psionic Resist || 30144D91 || 1 byte ||  ||
+||Status Resist || 30144D92 || 1 byte ||  ||
+||Death Resist || 30144D93 || 1 byte ||  ||
+||Surprise || 30144D94 || 1 byte ||  ||
+||Reprisal || 30144D95 || 1 byte ||  ||
+||Critical || 30144D96 || 1 byte ||  ||
+||Dodge || 30144D97 || 1 byte ||  ||
+||Accuracy || 30144D98 || 1 byte ||  ||
+||Heal 1 || 30144D9C || 1 byte || Refer to the Ability ID number ||
+||Heal 2 || 30144D9D || 1 byte || Refer to the Ability ID number ||
+||Heal 3 || 30144D9E || 1 byte || Refer to the Ability ID number ||
+||Heal 4 || 30144D9F || 1 byte || Refer to the Ability ID number ||
+||Heal 5 || 30144DA0 || 1 byte || Refer to the Ability ID number ||
+||Heal 6 || 30144DA1 || 1 byte || Refer to the Ability ID number ||
+||Heal 7 || 30144DA2 || 1 byte || Refer to the Ability ID number ||
+||Heal 8 || 30144DA3 || 1 byte || Refer to the Ability ID number ||
+||Heal 9 || 30144DA4 || 1 byte || Refer to the Ability ID number ||
+||Heal 10 || 30144DA5 || 1 byte || Refer to the Ability ID number ||
+||Assist 1 || 30144DA6 || 1 byte || Refer to the Ability ID number ||
+||Assist 2 || 30144DA7 || 1 byte || Refer to the Ability ID number ||
+||Assist 3 || 30144DA8 || 1 byte || Refer to the Ability ID number ||
+||Assist 4 || 30144DA9 || 1 byte || Refer to the Ability ID number ||
+||Assist 5 || 30144DAA || 1 byte || Refer to the Ability ID number ||
+||Assist 6 || 30144DAB || 1 byte || Refer to the Ability ID number ||
+||Assist 7 || 30144DAC || 1 byte || Refer to the Ability ID number ||
+||Assist 8 || 30144DAD || 1 byte || Refer to the Ability ID number ||
+||Assist 9 || 30144DAE || 1 byte || Refer to the Ability ID number ||
+||Assist 10 || 30144DAF || 1 byte || Refer to the Ability ID number ||
+||Attack 1 || 30144DB0 || 1 byte || Refer to the Ability ID number ||
+||Attack 2 || 30144DB1 || 1 byte || Refer to the Ability ID number ||
+||Attack 3 || 30144DB2 || 1 byte || Refer to the Ability ID number ||
+||Attack 4 || 30144DB3 || 1 byte || Refer to the Ability ID number ||
+||Attack 5 || 30144DB4 || 1 byte || Refer to the Ability ID number ||
+||Attack 6 || 30144DB5 || 1 byte || Refer to the Ability ID number ||
+||Attack 7 || 30144DB6 || 1 byte || Refer to the Ability ID number ||
+||Attack 8 || 30144DB7 || 1 byte || Refer to the Ability ID number ||
+||Attack 9 || 30144DB8 || 1 byte || Refer to the Ability ID number ||
+||Attack 10 || 30144DB9 || 1 byte || Refer to the Ability ID number ||
+||Skill 1 || 30144DBA || 1 byte || Refer to the Ability ID number ||
+||Skill 2 || 30144DBB || 1 byte || Refer to the Ability ID number ||
+||Skill 3 || 30144DBC || 1 byte || Refer to the Ability ID number ||
+||Skill 4 || 30144DBD || 1 byte || Refer to the Ability ID number ||
+||Skill 5 || 30144DBE || 1 byte || Refer to the Ability ID number ||
+||Skill 6 || 30144DBF || 1 byte || Refer to the Ability ID number ||
+||Skill 7 || 30144DC0 || 1 byte || Refer to the Ability ID number ||
+||Skill 8 || 30144DC1 || 1 byte || Refer to the Ability ID number ||
+||Skill 9 || 30144DC2 || 1 byte || Refer to the Ability ID number ||
+||Skill 10 || 30144DC3 || 1 byte || Refer to the Ability ID number ||
+||Apprentice Lv. || 30144DC4 || 1 byte || Indicates progress of leveling the character have under a master. E.g. 1 means 1 level increase, 2 means 2 level increase, and so on ||
+
+
++ In-Battle Codes
+++ Enemy 1
+||~ Description ||~ Gameshark ||~ Type ||~ Remark ||
+||Name || 301EB6A4 || 1 byte ||  ||
+||HP || 801EB6C4 || 2 byte || Enemy's current HP. Utilizing this, you can kill enemy that you're not supposed to kill, like Sunder, Balio, and Garr. Also, in their cases, the number get replenished on every damage they take, so it seems that they have unlimited HP. ||
+||AP || 801EB6C6 || 2 byte ||  ||
+||Steal Item || 801EB6C8 || 2 byte || Refer to Item ID. ||
+||Drop Item || 801EB6CC || 2 byte || Refer to Item ID. ||
+||MHP || 801EB6D0 || 2 byte ||  ||
+||MAP || 801EB6D2 || 2 byte ||  ||
+||Pow || 801EB6D4 || 2 byte ||  ||
+||Def || 801EB6D6 || 2 byte ||  ||
+||Agi || 801EB6D8 || 2 byte ||  ||
+||Int || 801EB6DA || 2 byte ||  ||
+||Flame Resist || 301EB6DF || 1 byte ||  ||
+||Frost Resist || 301EB6E0 || 1 byte ||  ||
+||Elec Resist || 301EB6E1 || 1 byte ||  ||
+||Earth Resist || 301EB6E2 || 1 byte ||  ||
+||Wind Resist || 301EB6E3 || 1 byte ||  ||
+||Holy Resist || 301EB6E4 || 1 byte ||  ||
+||Psionic Resist || 301EB6E5 || 1 byte ||  ||
+||Status Resist || 301EB6E6 || 1 byte ||  ||
+||Death Resist || 301EB6E7 || 1 byte ||  ||
+||Attack || 301EB702 || 1 byte || Seems to be enemy's attack, but changing this affects nothing. ||
+
+++ Enemy 2
+||~ Description ||~ Gameshark ||~ Type ||~ Remark ||
+||Name || 301EB7BC || 1 byte ||  ||
+||HP || 801EB7DC || 2 byte || Enemy's current HP. Utilizing this, you can kill enemy that you're not supposed to kill, like Sunder, Balio, and Garr. Also, in their cases, the number get replenished on every damage they take, so it seems that they have unlimited HP. ||
+||AP || 801EB7DE || 2 byte ||  ||
+||Steal Item || 801EB7E0 || 2 byte || Refer to Item ID. ||
+||Drop Item || 801EB7E4 || 2 byte || Refer to Item ID. ||
+||MHP || 801EB7E8 || 2 byte ||  ||
+||MAP || 801EB7EA || 2 byte ||  ||
+||Pow || 801EB7EC || 2 byte ||  ||
+||Def || 801EB7EE || 2 byte ||  ||
+||Agi || 801EB7F0 || 2 byte ||  ||
+||Int || 801EB7F2 || 2 byte ||  ||
+||Flame Resist || 301EB7F7 || 1 byte ||  ||
+||Frost Resist || 301EB7F8 || 1 byte ||  ||
+||Elec Resist || 301EB7F9 || 1 byte ||  ||
+||Earth Resist || 301EB7FA || 1 byte ||  ||
+||Wind Resist || 301EB7FB || 1 byte ||  ||
+||Holy Resist || 301EB7FC || 1 byte ||  ||
+||Psionic Resist || 301EB7FD || 1 byte ||  ||
+||Status Resist || 301EB7FE || 1 byte ||  ||
+||Death Resist || 301EB7FF || 1 byte ||  ||
+||Attack || 301EB81A || 1 byte || Seems to be enemy's attack, but changing this affects nothing. ||
+
+
+++ Enemy 3
+||~ Description ||~ Gameshark ||~ Type ||~ Remark ||
+||Name || 301EB8D4 || 1 byte ||  ||
+||HP || 801EB8F4 || 2 byte || Enemy's current HP. Utilizing this, you can kill enemy that you're not supposed to kill, like Sunder, Balio, and Garr. Also, in their cases, the number get replenished on every damage they take, so it seems that they have unlimited HP. ||
+||AP || 801EB8F6 || 2 byte ||  ||
+||Steal Item || 801EB8F8 || 2 byte || Refer to Item ID. ||
+||Drop Item || 801EB8FC || 2 byte || Refer to Item ID. ||
+||MHP || 801EB900 || 2 byte ||  ||
+||MAP || 801EB902 || 2 byte ||  ||
+||Pow || 801EB904 || 2 byte ||  ||
+||Def || 801EB906 || 2 byte ||  ||
+||Agi || 801EB908 || 2 byte ||  ||
+||Int || 801EB90A || 2 byte ||  ||
+||Flame Resist || 301EB90F || 1 byte ||  ||
+||Frost Resist || 301EB910 || 1 byte ||  ||
+||Elec Resist || 301EB911 || 1 byte ||  ||
+||Earth Resist || 301EB912 || 1 byte ||  ||
+||Wind Resist || 301EB913 || 1 byte ||  ||
+||Holy Resist || 301EB914 || 1 byte ||  ||
+||Psionic Resist || 301EB915 || 1 byte ||  ||
+||Status Resist || 301EB916 || 1 byte ||  ||
+||Death Resist || 301EB917 || 1 byte ||  ||
+||Attack || 301EB932 || 1 byte || Seems to be enemy's attack, but changing this affects nothing. ||
+
++ Minigames
+||~ Description ||~ Gameshark ||~ Type ||~ Remark ||
+||Log Count || 30146867 || 1 byte || This is the log count of the log minigame with Bunyan and Teepo ||
+||Number Guess 1 || 301DB080 || 1 byte || For the number guessing game with the faeries. This is the first number that you must guess ||
+||Number Guess 2 || 301DB081 || 1 byte || The second number you must guess ||
+||Number Guess 3 || 301DB082 || 1 byte || The third number you must guess ||
+||High and Low Number 4 || 301DB083 || 1 byte || For the high and low guessing game with the faeries. This is the fourth number of the card ||
+||High and Low Number 5 || 301DB084 || 1 byte || This is the fifth number of the card ||
+||High and Low Number 6 || 301DB085 || 1 byte || This is the sixth number of the card ||
+||High and Low Number 7 || 301DB086 || 1 byte || This is the seventh number of the card ||
+||High and Low Number 8 || 301DB087 || 1 byte || This is the eighth number of the card ||
+||High and Low Number 9 || 301DB088 || 1 byte || This is the ninth number of the card ||
+
+
+
++ Doraemon
+[[[http://en.wikipedia.org/wiki/Doraemon | Doraemon]]] is a robotic cat featured in a Manga created by Fujiko Fujio. The cat made an appearance in the game anytime you use an Accession skill.
+
+[[include common:image-css
+|image=http://capa.wikidot.com/local--files/game:breathoffire3/doraemon4.png
+|title=Although there are many sprite rippers for PlayStation game, none of which mentioned the robotic cat's appearance.
+|ratio=4x3
+]]

@@ -1,0 +1,588 @@
+@title: Lightning Warrior Raidy 2
+@author: Buster Wolf
+@updated: 2018-10-09
+
+Lightning Warrior Raidy II is the sequel to [http://capa.wikidot.com/guide:lightningwarriorraidy2 the first game].
+
+Very few changes have been made from the first game notably there are no maps to collect, now as you walk through the area your mini map will fill in parts you have stepped on. Raidy can now have a Sword and Shield, 2 Swords or 2 Shields as her weapon choices, some swords are two handed though. Raidys Thunder Slash has been tweaked to now charge up to increase its damage in battle at the cost of 10 MP per charge, the damage being calculated as **Level x 3 per charge** for damage when unleashed. For example charging three times at level 10 then unleashing a Thunder Slash will deal 90 damage (10x3x3). Gold has been added to buy items from the shops though enemies will not always drop them.
+
+This guide will be going for all scenes & graphics, I will attempt to minimize backtracking as much as possible since it is very easy to over level if you are going for all of them. The material in this game is not meant players who are underage. The amount of EXP monsters will give is **EXP - Raidys level** for example Mercenary will give you 20 EXP when you beat one at Level 1 (21-1) so you will get less EXP as you level up. Suggested level is mainly for a balanced playthrough not too high and not too low for safety or if you want an easier time feel free to be one level higher than the suggested level.
+
++ Stats
+**HP:** Your health. If it runs out, it's Game Over.
+Whenever you gain a level, max HP increases by a random number ranging from 10 to 21.
+
+**MP:** Your mana. Used to charge up and deliver a powerful fixed damage attack, can charge up to 18 times.
+Whenever you gain a level, max MP increases by a random number ranging from 10 to 21.
+
+**AP R/L:** Your accuracy stat for Raidys hand with a weapon equipped, her Left hand will always have 4 less AP than her right. It determines how often your attacks actually hit.
+Whenever you gain a level, AP increases by 1 point.
+
+**DMG R/L:** Your damage stat for Raidys hand with a weapon equipped. It determines the amount of damage your attacks do.
+Whenever you gain a level, DMG increases by 4 points.
+
+**DEF:** Your defense stat. It determines the amount of damage you receive from enemy normal attacks.
+Whenever you gain a level, DEF increases by 3 points.
+
+**PP:** Your evasion stat. It determines how often you evade enemy normal attacks.
+Whenever you gain a level, PP increases by 1 point.
+
++ Start
+When you gain control of where to choose pick the Inn. After waking up and saving Setia choose to go to the Tavern, **Talk with Levi** then **Talk with a customer**. This will open up the **Mansion** the first dungeon of the game.
+
++ Mansion Floor 1
+As you would expect from a mansion a rather large area, but not too large. There are many empty rooms mainly there for map completion if you want.
+**Enemies**
+||~ Name ||~ HP ||~ EXP ||~ Gold ||
+|| Mercenary || 25 || 21 || 11 ||
+|| Wererat || 30 || 27 || 12 ||
+|| Rover || 35 || 38 || 13 ||
+**Mercenary** - Has nothing special about her.
+**Wererat** - Returns from the first game with a slight tweak, her normal attack has a chance to Poison you like the previous game, but she can steal 15 Gold from you while running away.
+**Rover** - Can be a threat at early levels since she will tend to dodge often.
+
+**Suggested event sequence**
+1. Find the Long Sword (AP+0, DMG+10) from the fake wall.
+2. Go see Junk, although nothing will happen yet.
+3. Grind to Level 5.
+
+**Map**
+
+[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2mf1.png |title=Mansion Floor 1 Map]]
+
+C1 = 5 Remove Poison
+C2 = 100 Gold
+C3 = Empty
+C4 = 200 Gold
+C5 = 5 Light Heal Potion
+
++ Basement
+Suggested Level: 5
+A small maze with a lot of items to pick up, one required for a boss later so don't miss it.
+**Enemies**
+||~ Name ||~ HP ||~ EXP ||~ Gold ||
+|| Phantom Thief || 50 || 44 || 24 ||
+|| Monk || 50 || 50 || 25 ||
+|| Killer Bee || 60 || 61 || 26 ||
+**Phantom Thief** - Can be a bit hard to hit early levels and it doesn't help that she can occasionally steal 32 Gold while running away.
+**Monk** - Can hit pretty hard early, but otherwise nothing special.
+**Killer Bee** - Can be a threat at early levels since she will tend to dodge often and she has a chance to Poison you.
+
+**Suggested event sequence**
+1. Collect Large Shield (PP-1, DEF+4).
+2. Find the Barrier Breaking Charm.
+3. Bump into the door to the boss to find it is locked.
+4. Talk to the Prisoners.
+5. Find Magical Disk 1.
+
+**Map**
+
+[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2mb.png |title=Mansion Basement Map]]
+
+C1 = Empty
+C2 = 3 Middle Heal Potion
+C3 = 300 Gold
+
+When you finish and have walked into the boss room to see that it is locked go back up to Floor 1 and talk with Junk. Do what he says for him to fork over the **Key to the Torture Chamber** then walk back downstairs. Save before fighting Sudia as due to the game going off of sex if you win and sex if you lose you will want to lose to bosses on purpose if you are going for all scenes (which this guide is leading you towards), specially since Sudia is rather easy to defeat and hard to lose to.
+
+**Boss**
+||~ Name ||~ HP ||~ EXP ||
+|| Sudia || 120 || 157 ||
+Suggested Level: 5
+
+Her damage output roughly depends on you level as she will do around 18 damage at Level 5 with the Large Shield equipped reduced by 3 per level, her attack has a chance to Poison though she's not too accurate. Heal with a Middle Heal Potion at around 35 HP.
+
+**One Thunder Slash Strat** (afterwards called OTS Strat)
+The majority of boss fights can be finished with one Thunder Slash provided you charge enough and unleash at a certain point, trying to whittle them down with physical attacks becomes pointless unless you go in with a large supply of potions from the Item Shop.
+Level 5: Charge 8 times then unleash. (Don't attempt if level ups didn't give enough MP)
+Level 6: Charge 7 times then unleash.
+Level 7: Charge 6 times then unleash.
+Level 8 & 9: Charge 5 times then unleash.
+
+After defeating her you will get **Shura's Key** which is located directly in front of the stairs to the basement.
+
+**Boss**
+||~ Name ||~ HP ||~ EXP ||
+|| Shura || 150 || 208 ||
+Suggested Level: 6
+
+Shura will hit a lot harder compared to Sudia at around 38 damage at Level 6, like Sudia she isn't very accurate, but if she gets a crit it will hurt majorly, coming in at full health is recommended. Use a Middle Heal Potion when around 50 HP.
+
+**OTS Strat**
+Level 6: Charge 9 times then unleash.
+Level 7: Charge 8 times then unleash.
+Level 8: Charge 7 times then unleash.
+Level 9: Charge 6 times then unleash.
+
++ Mansion Floor 2
+Suggested Level: 8
+A rather large collection of rooms here. Many of the rooms will fill up the map portion instantly while some will have you tread the room. Encounters can be a bit dangerous if you don't go for the Breastplate First.
+**Enemies**
+||~ Name ||~ HP ||~ EXP ||~ Gold ||
+|| Grappler || 90 || 68 || 38 ||
+|| Rouge || 90 || 79 || 39 ||
+|| Orc || 100 || 90 || 40 ||
+**Grappler** - Returns from the first game with as much treat as she was back then (not much at the level you get there at), she has nothing special about her.
+**Rouge** - While having the same HP as Grappler will hit slightly harder.
+**Orc** - Can be really dangerous if you fight her before getting the Breastplate as she deals as much damage as Sudia did if not slightly more.
+
+**Suggested event sequence**
+1. Find the Breastplate (PP-4, DEF+25).
+2. Find the Earplug.
+3. Bump into the door to the boss to find it is locked.
+
+**Map**
+
+[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2mf2.png |title=Mansion Floor 2 Map]]
+
+C1 = Empty
+C2 = 5 Middle Heal Potion
+C3 = Empty
+C4 = Empty
+C5 = 500 Gold
+C6 = Empty
+
+When you finish and have walked into the boss room to see that it is locked go back up to Floor 1 and talk with Junk. Do what he says for him to fork over the **Pretty Key**, however instead of going straight back to the boss room leave the mansion to go to Lake Blue.
+
+**Scenes**
+Go to the Inn, if you got Magical Disk 1 (The Witch's Problem) choose **Do something else**, **Look in the Magic Mirror**, and **Look**. After it finishes choose **Masturbate**.
+
+Go to the Item Shop and buy a Return Stone if you are going for all scenes and graphics, otherwise buy at least 5 Heavy Heal Potions & 5 Mental Recovery Potions any leftover money towards Middle Heal Potions. Afterward go back Mansion Floor 2 and to the door that was locked.
+
+**Boss**
+||~ Name ||~ HP ||~ EXP ||
+|| Jami || 300 || 372 ||
+Suggested Level: 10
+
+Due to the Breastplate Jami is actually weaker than Shura hitting for around 27 at level 10, she has nothing special, but is much more accurate than Sudia and Shura. Use a Middle or Heavy Heal Potion at around 55 HP.
+
+**OTS Strat**
+Level 10 & 11: Charge 10 times then unleash.
+Level 12: Charge 9 times then unleash.
+
+After the battle you will be hiding to hear Jami and her conversion with a cloaked man. Afterward you will now have access to a new area **Dungeon**. Head back to town for now and go into every building. In the Tavern you can choose **Talk to a customer** which will have Junk appear instead of Amura. If you didn't already go to the Weapon Shop to meet Clay go ahead, most equipment she sells aren't worth it seeing as you will get better ones while in dungeons. Before going into Dungeon you may want to stock up on a couple of Remove Poison potions from the Item Shop, if you have enough Gold buy up to 10 of them.
+
+**Scenes**
+Go to the Inn and take a nap, Setia will knock on your door and want to show her gratitude, if you try to resist you will miss a later scene due to needing this one done (since you decline this one), so choose **surrender** and accept her offer.
+
++ Dungeon Floor 1
+Suggested Level: 11
+A mazey area with a couple of fake walls. This floor is the introduction of enemies with fixed damage skills.
+**Enemies**
+||~ Name ||~ HP ||~ EXP ||~ Gold ||
+|| Imp || 110 || 101 || 21 ||
+|| Evil Shaman || 110 || 102 || 22 ||
+|| Dark Priest || 120 || 113 || 23 ||
+**Imp** - Her attack has a chance to Poison you and her Curse will hit for 33 damage.
+**Evil Shaman** - Has Curse which will hit for 36 damage.
+**Dark Priest** - Has Curse which will drain 13 MP from you.
+
+**Suggested event sequence**
+1. Bump into the door where the Tired Girl is located to find out it's locked.
+2. Find Amura and talk to her till she gives you the Room Key.
+3. Unlock the door to talk to the Tired Girl until she warns you of the bosses barrier.
+4. Find the Mysterious Pillow.
+
+**Map**
+
+[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df1.png |title=Dungeon Floor 1 Map]]
+
+C1 = 600 Gold
+C2 = 5 Remove Poison
+C3 = 5 Middle Heal Potion
+C4 = 800 Gold
+C5 = 5 Mental Heal Potion
+
+**Boss**
+||~ Name ||~ HP ||~ EXP ||
+|| Morpha || 400 || 414 ||
+Suggested Level: 13
+Auto-Defeat
+1. Didn't talk to the Tired Girl enough to be warned of Morphas Barrier.
+2. Didn't collect the Barrier Breaking Charm from the Mansion Basement.
+
+Her normal attack will hit for around 25 damage while her Curse does 42 damage. Use a Middle or Heavy Heal Potion at around 55 HP. 
+
+**OTS Strat**
+Level 13: Charge 11 times then unleash.
+Level 14: Charge 10 times then unleash.
+Level 15: Charge 9 times then unleash.
+
++ Dungeon Floor 2
+Suggested Level: 14
+Can be rather annoying to navigate due to how often you need to turn to move one space in the center of the area. Has quite a lot of fake walls mostly leading to a treasure chest.
+**Enemies**
+||~ Name ||~ HP ||~ EXP ||~ Gold ||
+|| Undine || 120 || 113 || 33 ||
+|| Bloody Crab || 130 || 114 || 34 ||
+|| Pirate || 140 || 125 || 35 ||
+**Undine** - Returns from the first game though not as much of a treat as she was back then, she has nothing special.
+**Bloody Crab** - Her attack has a chance to Poison you.
+**Pirate** - Has nothing special about her.
+
+**Suggested event sequence**
+1. Find the Shield +1 (PP+0, DEF+5).
+
+**Map**
+
+[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df2.png |title=Dungeon Floor 2 Map]]
+
+C1 = 1000 Gold
+C2 = 5 Middle Heal Potion
+C3 = 1200 Gold
+C4 = Empty
+
+**Boss**
+||~ Name ||~ HP ||~ EXP ||
+|| Shai || 420 || 436 ||
+Suggested Level: 16
+Auto-Defeat: Didn't collect the Earplugs from the Mansion Floor 2 and equipped it (Magic Items tab in equipment).
+
+Her normal attack will hit for around 24 damage while her Curse does 48 damage. Use a Middle or Heavy Heal Potion at around 60 HP. 
+
+**OTS Strat**
+Level 16 & 17: Charge 9 times then unleash.
+
++ Dungeon Floor 3
+Suggested Level: 16
+Not too big of a room with a small teleport maze that's manageable.
+**Enemies**
+||~ Name ||~ HP ||~ EXP ||~ Gold ||
+|| Cockatrice || 140 || 125 || 45 ||
+|| Gorgon || 150 || 126 || 46 ||
+|| Lizard Man || 160 || 137 || 47 ||
+All enemies will only do physical attacks, Lizard Man will tend to dodge attacks a lot.
+
+**Suggested event sequence**
+1. Find the Rusty Key then go back to the locked room with Amura in it on Floor 2 to get the Thief's Lockpick.
+2. Go back down to Floor 3 to look at the frozen men until Amura tells you about a Medusa.
+3. Use the Thief's Lockpick to gain access to the room with the Mirror Shield (PP+0, DEF+3) and collect it.
+
+**Map**
+
+[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df3.png |title=Dungeon Floor 3 Map]]
+
+
+**Boss**
+||~ Name ||~ HP ||~ EXP ||
+|| Adiram || 450 || 468 ||
+Suggested Level: 19
+Auto-Defeat: 
+1. Didn't look at the frozen men long enough for Amura on this floor to tell you about a Medusa.
+2. Didn't collect the Mirror Shield and equip it for this fight.
+
+Her normal attack will hit for around 28 damage. Use a Middle or Heavy Heal Potion at around 55 HP. 
+
+**OTS Strat**
+Level 19 - 21: Charge 8 times then unleash.
+
++ Dungeon Floor 4
+Suggested Level: 20
+A linear floor, the only obstacle is the 180 turn tiles which will make you turn around when you step on it.
+**Enemies**
+||~ Name ||~ HP ||~ EXP ||~ Gold ||
+|| Shadow || 170 || 117 || 57 ||
+|| Werebat || 180 || 128 || 58 ||
+|| Mummy || 190 || 139 || 59 ||
+**Shadow** - Has Chilling Touch which will drain 17 MP.
+**Werebat** - Returns from the first game with much more bulk than before, her attack has a chance to Poison now which she didn't have in the previous game.
+**Mummy** - Has Chilling Touch which will drain 19 MP.
+
+**Suggested event sequence**
+1. Find the Plate Mail +1 (PP-6, DEF+35 called, Plate +1).
+2. Find the Great Sword (AP-4, DMG+30, two handed sword).
+3. Find Gav and talk to him until he tells you the boss is a Vampire.
+4. Find Amura and keep talking to her until she reveals the Cross Sword (AP-5, ATK+25) and lets you keep it.
+5. Find Magical Disk 2.
+
+**Map**
+
+[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df4.png |title=Dungeon Floor 4 Map]]
+
+C1 = 5 Middle Heal Potion
+C2 = 1200 Gold
+
+**Boss**
+||~ Name ||~ HP ||~ EXP ||
+|| Camille || 500 || 520 ||
+Suggested Level: 21
+Auto-Defeat: 
+1. Didn't talk with Gav revealing she is a Vampire.
+2. Didn't collect the Cross Sword and equipped it for this fight.
+
+Her normal attack will hit for around 23 damage while her Glare will drain 20 MP. Use a Middle or Heavy Heal Potion at around 50 HP. 
+
+**OTS Strat**
+Level 21 - 23: Charge 8 times then unleash.
+
+**HOLD IT!** If you are going for all scenes create a save (don't save again after) then use the Return Stone I said to buy earlier and do the following below, if you are not going for all scenes make sure you are not Poisoned and go down the stairs and go into the door to a plot driven loss.
+
+**Scenes**
+Go to the Inn, if you got Magical Disk 2 (Fairy) choose **Do something else**, **Look in the Magic Mirror**, **Choose another** and **Look**. After it finishes choose **Masturbate** if you didn't already do it with the first Disk.
+While still at the Inn if you have the Mysterious Pillow pick **Take a nap**, and when prompted choose **Use it**, you can do this 3 times for different scenes before it starts looping.
+
+After all that has been seen reload your save and go down the stairs to Floor 5, go into the door to a plot driven loss.
+
++ Dungeon Floor 8
+Suggested Level: 22
+Raidy has gotten herself captured and all of her items have been removed from her...except the Thief's Lockpick which she will use to open her cell. If you were Poisoned prior to being caught you will still be Poisoned so hopefully you didn't leave yourself with too little health as no free heal was provided. While you are equipment less you will not run into any battles, you can try to go to the boss, but you won't be able to fight due to needing equipment.
+**Enemies**
+||~ Name ||~ HP ||~ EXP ||~ Gold ||
+|| Man Eater || 200 || 420 || 0 ||
+|| Genie || 200 || 139 || 179 ||
+|| Marionette || 210 || 140 || 180 ||
+|| Automaton || 220 || 151 || 181 ||
+**Man Eater** - A special encounter found in a chest, it is a really weak monster (will never hit you while equipment less, but you will only do 1 damage), its attack has a chance to Poison.
+**Genie** - Has Curse which will deal 57 damage.
+**Marionette** - Has nothing special about her.
+**Automaton** - Has nothing special about her.
+
+**Suggested event sequence**
+1. Head to the Healing Room.
+2. Head to the Potion Shop (gives 10 Light Heal Potions, 5 Medium Heal Potions, 5 Heavy Heal Potions, 10 Mental Heal Potions, 5 Mental Recovery Potions, 5 Mental Charge Potions & 10 Remove Poisons).
+3. Head to the Equipment Shop, monsters can be encountered once you have equipment so make sure to put your equipment on.
+4. Head to the Door with a Soul and do as it tells you to get the Magic Mask.
+
+**Scenes**
+Return to the Equipment Shop and choose **Have her do it**.
+Return to the Potion Shop and choose **Have her do it**.
+Return to the Healing Room and choose **Receive Treatment**, return again and choose **Receive Sex**, return once more and choose **Receive Sex** again (different text).
+
+**Map**
+
+[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df8.png |title=Dungeon Floor 8 Map]]
+
+C1 = Empty
+C2 = Empty
+
+**Boss**
+||~ Name ||~ HP ||~ EXP ||
+|| Golem || 520 || 542 ||
+Suggested Level: 24
+
+Its normal attack will hit for around 30 damage. Use a Middle or Heavy Heal Potion at around 70 HP. 
+
+**OTS Strat**
+Level 24: Charge 8 times then unleash.
+Level 25 & 26: Charge 7 times then unleash.
+
+After this battle Raidy will now have access to Thunder Blast, which will be your main source of damage (provided you buy a lot of Mental Recovery Potions). It follows the same damage formula as Thunder Slash with the added benefit of taking your weapons DMG (Right hand if you are using two Swords) into effect aka **Level x 3 per charge + DMG**, thus due to this you never want to charge more than once and unleash as you will do more damage that way and will mostly defeat bosses with 3 or 4 blasts. If you are equipped with two Shields you will not be able to use this yet still able to do Thunder Slash. Boss strategies will not have an OTS strat at the end from here on other than mentioning their damage output.
+
++ Dungeon Floor 7
+Suggested Level: 25
+Wanted a room full of fake walls? No? Well too bad, more than half of the floor is made of fake walls which can (and will for a certain scene) make it a headache to trudge through.
+**Enemies**
+||~ Name ||~ HP ||~ EXP ||~ Gold ||
+|| Man Eater || 200 || 420 || 0 ||
+|| Centaur || 230 || 151 || 201 ||
+|| Minotaur || 240 || 152 || 202 ||
+|| Harpy || 250 || 163 || 203 ||
+**Man Eater** - A special encounter found in a chest, it is a really weak monster, its attack has a chance to Poison.
+**Centaur** - Has nothing special about her.
+**Minotaur** - Returns from the first game with much more bulk than before, not as threatening as she was back in the previous game.
+**Harpy** - Has Glare which will drain 23 MP.
+
+**Suggested event sequence**
+1. Find the Mythril Sword (AP+3 ,DMG+30).
+2. Find Horn and save her.
+3. Find the Resist Ring (PP+2, called Ring of Speed).
+4. Find the Ice Shield (PP-3, DEF+6).
+5. Head to the Door with a Soul and do as it tells you to get the Sexcalibur (AP+1, DMG+40).
+
+**Map**
+
+[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df7.png |title=Dungeon Floor 7 Map]]
+
+C1 = 5 Heavy Heal Potion
+
+**Boss**
+||~ Name ||~ HP ||~ EXP ||
+|| Leele || 550 || 574 ||
+Suggested Level: 26
+
+Her normal attack will hit for around 34 damage. Use a Middle or Heavy Heal Potion at around 75 HP.
+
+**Scene**
+The weapon Sexcalibur has a unique attack attached to it called Ecstasy Slash, however in order to use it the Sword needs to be charged up. Which in this case to charge it up you will need to go back to Raidys Cell on Floor 8 and choose **Something else** and **Insert Sexcalibur**. This will charge up Sexcalibur and grant Raidy one use of Ecstasy Slash.
+
++ Dungeon Floor 6
+Suggested Level: 25
+Time for the obligatory teleporter maze, each room has a teleport pad located in the further corner of where you entered.
+**Enemies**
+||~ Name ||~ HP ||~ EXP ||~ Gold ||
+|| Man Eater || 200 || 420 || 0 ||
+|| Woman Eater || 300 || 626 || 0 ||
+|| Ninja || 260 || 163 || 223 ||
+|| Nekomata || 270 || 164 || 224 ||
+|| Nine-Tailed Fox || 280 || 175 || 225 ||
+**Man Eater** - A special encounter found in a chest, it is a really weak monster, its attack has a chance to Poison.
+**Woman Eater** - Another special encounter found in a chest, unlike Man Eater it is quite strong while still having the chance to Poison. However if you lose to this one (while not Poisoned) you will get a scene so make sure to save in front of the chest with it (as you'll have 1HP after the loss).
+**Ninja** - Her attack has a chance to Poison.
+**Nekomata** - Has nothing special about her.
+**Nine-Tailed Fox** - Has Curse which will do 75 damage.
+
+**Suggested event sequence**
+1. Find the Woman Eater and lose for an event (save beforehand).
+2. Find Magical Disk 3.
+3. Free the Girls from their cell.
+
+**Map**
+
+[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df6.png |title=Dungeon Floor 6 Map]]
+
+
+**Boss**
+||~ Name ||~ HP ||~ EXP ||
+|| Shizuku || 580 || 606 ||
+Suggested Level: 27
+
+Her normal attack will hit for around 44 damage. Use a Heavy Heal Potion at around 95 HP.
+
++ Dungeon Floor 5
+Suggested Level: 28
+A lot of winding paths on this floor, all chests here are trapped so if you want to save on Remove Poison potions you can stay Poisoned while traversing the floor provided you have a good stock of Heal Potions.
+**Enemies**
+||~ Name ||~ HP ||~ EXP ||~ Gold ||
+|| Lesser Demon || 290 || 175 || 245 ||
+|| Cursed Warrior || 300 || 176 || 246 ||
+|| Nightmare || 310 || 187 || 247 ||
+**Lesser Demon** - Her attack has a chance to Poison and her Curse will do 75 damage.
+**Cursed Warrior** - Has Glare which will drain 26 MP.
+**Nightmare** - Has Glare which will drain 27 MP.
+
+**Suggested event sequence**
+1. Find the Protect Ring (DEF+5, called Ring of Protection)
+2. Save Jami.
+3. Find the Mythril Plate Mail (PP-5, DEF+40, called Mythril Plate)
+4. Find the Ice Shield (PP+0, DEF+8).
+5. Find the Spirit Slayer (AP-2, DMG+45, two handed Sword).
+
+**Map**
+
+[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df5.png |title=Dungeon Floor 5 Map]]
+
+C1 = 5 Mental Charge Potions
+C2 = 5 Remove Poisons
+
+**Boss**
+||~ Name ||~ HP ||~ EXP ||
+|| Lecille || 720 || 668 ||
+Suggested Level: 30
+Auto-defeat: Didn't collect Magic Mask from Floor 8 (doesn't have to be equipped)
+
+Her normal attack will hit for around 39 damage while her Curse does 84 damage. Use a Heavy Heal Potion at around 120 HP. Note that this is a two phase fight as she will get up like nothing happened after the first time you drain her HP, if you happened to have enough EXP remaining that you would level you will gain a level in between. If you didn't collect Sexcalibur from Floor 7 and equipped it you will infinitely fight her until you eventually lose.
+
+After the battle you will be taken out of the Dungeon and will be standing in front of the final area the **Temple**, but let's not go there yet. Magical Disk 1 & 2 as well as the Mysterious Pillow are back where they were originally found though if you were following this guide you will not need to get them again for the scenes. Any equipment however have been lost never to be retrieved again. Go to the Item Shop and spend all of you money on Potions while buying 1 Return Stone if going for all scenes, then rest up at the Inn and get ready for the final area.
+
+**Scenes**
+Go to the Inn, go back to the Inn, if you refused Setias love after completing the Mansion you will not be forced to sleep in the basement for a scene. Go to the Item Shop afterwards, return to the Item Stop and choose **...............**.
+Go to the Inn, if you collected Magical Disk 3 (Training Dairy) **Do something else**, **Look in the Magic Mirror**, and **Look**. After it finishes choose **Masturbate** then choose **Use a tool...**.
+Go to the Weapon Shop (if it doesn't pop up enter again).
+Go to the Tavern.
+
++ Temple Floor 1
+Suggested Level: 30
+A straightforward path with some fake walls here and there. 
+**Enemies**
+||~ Name ||~ HP ||~ EXP ||~ Gold ||
+|| Jester || 300 || 325 || 135 ||
+|| Illusionist || 310 || 336 || 136 ||
+|| Wisp || 320 || 347 || 137 ||
+**Jester** - Has Curse which will do 75 damage (50 with Magical Bandanna).
+**Illusionist** - Has Curse which will do 78 damage (52 with Magical Bandanna).
+**Wisp** - Has Flash which will drain 27 MP.
+
+**Suggested event sequence**
+1. Find the Magical Bandanna (Reduced fixed damage skill attacks by 30%).
+2. Find the Dragon Scale Shield (PP-4, DEF+10).
+3. Talk the Scared Prisoners.
+4. Talk to the Scared Girl.
+
+**Map**
+
+[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2tf1.png |title=Temple Floor 1 Map]]
+
+C1 = 5 Heavy Heal Potion
+C2 = Empty
+
+**Boss**
+||~ Name ||~ HP ||~ EXP ||
+|| Replicant || 600 || 628 ||
+Suggested Level: 32
+
+Her normal attack will hit for around 38 damage while her Curse does 84 damage (56 with Magical Bandanna). Use a Heavy Heal Potion at around 130 HP (80 if Magical Bandanna is equipped).
+
++ Temple Floor 2
+Suggested Level: 33
+There are two ways you can go that will converge in the center so you can pick the path you want.
+**Enemies**
+||~ Name ||~ HP ||~ EXP ||~ Gold ||
+|| Unicorn || 330 || 357 || 147 ||
+|| Cupid || 340 || 349 || 148 ||
+|| Gargoyle || 350 || 359 || 149 ||
+**Unicorn** - Has nothing special about her.
+**Cupid** - Has Curse which will do 84 damage (52 with Magical Bandanna).
+**Gargoyle** - Has nothing special about her.
+
+**Suggested event sequence**
+1. Find the Giant's Bracelet (PP-4, DEF+8).
+2. Find Magical Disk 4.
+3. Find the Bloodsucker (AP-6, DMG+60, two handed Sword).
+4. Talk to the Prisoners.
+
+**Map**
+
+[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2tf2.png |title=Temple Floor 2 Map]]
+
+C1 = 5 Heavy Heal Potion
+C2 = 5 Mental Charge Potion
+
+**Boss**
+||~ Name ||~ HP ||~ EXP ||
+|| Mariel || 600 || 630 ||
+Suggested Level: 34
+
+Her normal attack will hit for around 42 damage while her Curse does 90 damage (60 with Magical Bandanna). Use a Heavy Heal Potion at around 140 HP (90 if Magical Bandanna is equipped).
+
+**Scenes**
+Make a save and use the Return Stone.
+Go to the Inn, if you collected Magical Disk 4 (The Sacrifice) **Do something else**, **Look in the Magic Mirror**, and **Look**.
+Go to the Tavern.
+
++ Temple Floor 3
+Suggested Level: 35
+Final area of the game (also the smallest), if you didn't hit the level cap (35) you are sure to hit it here. To fight Gav you will need to get two statues from doors with a soul in order to open his room.
+**Enemies**
+||~ Name ||~ HP ||~ EXP ||~ Gold ||
+|| Dragon Knight || 330 || 357 || 147 ||
+|| Manticore || 340 || 349 || 148 ||
+|| Burghest || 350 || 359 || 149 ||
+**Dragon Knight** - Has Bless which will do 87 damage (58 with Magical Bandanna).
+**Manticore** - Has Curse which will do 90 damage (60 with Magical Bandanna).
+**Burghest** - Has Bless which will do 90 damage (60 with Magical Bandanna).
+
+**Suggested event sequence**
+1. Find the Invincible Armor (PP-7, DEF+50).
+2. Find the Desriot Figurine.
+3. Find the Kutibe Figurine.
+
+**Map**
+
+[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2tf3.png |title=Temple Floor 3 Map]]
+
+C1 = 5 Mental Charge Potion
+C2 = 5 Remove Poison
+C3 = 5 Heavy Heal Potion
+
+**Final Boss**
+Priest Gav
+HP: 750
+
+His normal attack will hit for around 45 damage while his Curse does 96 damage (64 with Magical Bandanna). Use a Heavy Heal Potion at around 100 HP. After defeating him he will transform and begin the second phase of the battle.
+
+Gav
+HP: 1300
+
+His normal attack will hit for around 68 damage while his Bless does 105 damage (70 with Magical Bandanna). Use a Heavy Heal Potion at around 150 HP.
+
+Regardless which phase of Gav you lose to you will get the same lose scene. Enjoy the ending.

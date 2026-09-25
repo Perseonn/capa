@@ -1,0 +1,1020 @@
+@title: Samurai Warriors 5
+@author: Buster Wolf
+@updated: 2026-01-24
+
+Samurai Warriors 5 is the fifth mainline Samurai Warriors game and the first time where the series has had a major overhaul to its visual style as well as being the only entry in this era, this guide will go over character unlocking, stage objectives and where to go for the Rare Weapons.
++ Character Unlocking
+This will list how to unlock all 39 (technically 37) characters.
+||~ Character ||~ Requirement ||
+|| Nobunaga Oda || Initially available.||
+|| Nobunaga Oda (Mature) || Start Chapter 5.||
+|| Mitsuhide Akechi || Clear Nobunaga 1-5 Battle of Nagara River. ||
+|| Mitsuhide Akechi (Mature) || Start Chapter 5.||
+|| Hideyoshi Hashiba || Clear Nobunaga 2-^1 Battle of Inō. ||
+|| Ieyasu Tokugawa || Clear Nobunaga 1-4 Battle of Muraki Garrison. ||
+|| Yoshimoto Imagawa || Clear Reverie ^1 Annihilation at Okehazama. ||
+|| Shingen Takeda || Clear Nobunaga 3-v Invasion of Suruga. ||
+|| Kenshin Uesugi || Clear Mitsuhide 2-3 Joint Struggle with the Uesugi. ||
+|| Motonari Mōri || Clear Mitsuhide 5-v3 Battle of Kōzuki Castle Mōri Army. ||
+|| Nagamasa Azai || Clear Nobunaga 3-^2 Battle of Kannonji Castle. ||
+|| Hisahide Matsunaga || Clear 4-^1 Battle of Kanegasaki. ||
+|| Nō || Clear Nobunaga 1-4 Battle of Muraki Garrison. ||
+|| Mitsuki || Clear Nobunaga 4-^2 Battle of Anegawa River. ||
+|| Toshiie Maeda || Clear Nobunaga 1-4 Battle of Muraki Garrison. ||
+|| Katsuie Shibata || Clear Nobunaga 2-^3 Battle of Inabayama Castle. ||
+|| Oichi || Clear Nobunaga 2-^3 Battle of Inabayama Castle. ||
+|| Toshimitsu Saitō || Clear Nobunaga 3-^2 Battle of Kannonji Castle. ||
+|| Shikanosuke Yamanaka || Clear Nobunaga 3-^2 Battle of Kannonji Castle. ||
+|| Hanbei Takenaka || Clear Nobunaga 3-^2 Battle of Kannonji Castle. ||
+|| Kanbei Kuroda || Clear Nobunaga 5-^2 Battle of Shigisan Castle. ||
+|| Kazuuji Nakamura || Clear Nobunaga 4-^2 Battle of Anegawa River. ||
+|| Sena || Clear Nobunaga 3-v Invasion of Suruga. ||
+|| Tadakatsu Honda || Clear Nobunaga 2-v1 Mayhem in Mikawa. ||
+|| Hanzō Hattori || Clear Nobunaga 2-v1 Mayhem in Mikawa. ||
+|| Sandayū Momochi || Clear Nobunaga 2-v2 Battle to Build Sunomata Castle. ||
+|| Takakage Kobayakawa || Clear Mitsuhide 5-v3 Battle of Kōzuki Castle Mōri Army. ||
+|| Magoichi Saika || Clear Reverie ^2 Match in Eiroku. ||
+|| Yasuke || Clear Nobunaga 6-^1 Battle of Takatenjin Castle. ||
+|| Nobuyuki Oda || Clear Nobunaga 2-^1 Battle of Inō. ||
+|| Motonobu Okabe || Clear Nobunaga 4-v2 Battle of Mikatagahara Takeda Army. ||
+|| Katsuyori Takeda || Clear Nobunaga 3-v Invasion of Suruga. ||
+|| Motoharu Kikkawa || Clear Mitsuhide 5-v3 Battle of Kōzuki Castle Mōri Army. ||
+|| Terumoto Mōri || Clear Mitsuhide 5-v3 Battle of Kōzuki Castle Mōri Army. ||
+|| Dōsan Saitō || Clear Nobunaga 1-5 Battle of Nagara River. ||
+|| Yoshitatsu Saitō || Clear Nobunaga 2-^3 Battle of Inabayama Castle. ||
+|| Yoshikage Asakura || Clear Mitsuhide 4-4 Battle of Tonezaka. ||
+|| Yoshiaki Ashikaga || Clear Mitsuhide 4-3 Battle of Makishima Castle. ||
+|| Fujihide Mitsubuchi || Clear Mitsuhide 4-3 Battle of Makishima Castle. ||
++ Musou Mode
+This will list the stages and which characters you are able to choose for those battles and any who may come in mid battle to be a partner, characters with their name **in bold** have an objective they are needed for.
+++ Nobunaga’s Path
++++ Chapter 1 Before the Dawn
+++++ 1-1 Raid on the Imagawa
+Playable: Nobunaga Oda
+# **The Battle Begins** - Defeat the enemy troops (100).
+# **Heihachirō’s Brave Fight** - Defeat Tadakatsu Honda.
+# **Imagawa Reinforcements** - Defeat Motonobu Okabe and Yasuyoshi Asahina.
+# **The Ninja and the Noblewoman** – Defeat Sena and Hanzō Hattori to prevent Nobuyuki Oda and Katsuie Shibata from being taken out.
+# **Mikawa Wavers (Special)** – Defeat Hirotada Matsudaira and Masanori Naitō.
+++++ 1-2 Assault on Mino
+Playable: Nobunaga Oda
+# **Gaining a Foothold** - Defeat Michikatsu Inoue to capture the Central Garrison.
+# **The Foolish and the Stubborn** - Defeat Mitsuhide Akechi.
+# **The Viper’s Trap** - Defeat Toshimitsu Saitō to protect the Oda Main Camp.
+# **We Three of Mino** - Defeat Ittetsu Inaba, Morinari Andō, and Bokuzen Ujiie.
+# **The Young Strategist** - Defeat Hanbei Takenaka.
+# **Echoes on the Battlefield** - Defeat Mitsuharu Fuwa and the drum corps.
+# **Rematch** - Defeat Mitsuhide Akechi.
+# **Nobuyuki’s Struggle (Bonus)** - Defeat Michitoshi Nagai and the spear captains.
+# **Yoshitatsu the Opportunist (Special)** - Prevent Yoshitatsu Saitō from infiltrating the Oda Main Camp.
+++++ 1-3 Turmoil on Mt. Inaba
+Playable: Nobunaga Oda
+# **Breaking through the Siege** - Defeat the enemy troops to break through their siege (50).
+# **Caged Butterfly** - Defeat Dōchin Takegoshi to assist Nō’s advance.
+# **The Spider’s Thread** - Defeat Michitoshi Nagai and Morinari Andō.
+# **Toshimitsu’s Resolve** - Defeat Toshimitsu Saitō.
+# **In the Depth of-Darkness** - Defeat Ittetsu Inaba and Bokuzen Ujiie to open the Wooden-floored Room.
+# **Taking Precautions (Bonus)** – Prevent Mataichi Sengoku from approaching Nō. [During **Caged Butterfly** enter the side room from the top, will not trigger if you or your partner goes past the bridge.]
+# **The Strategist behind the Pincer (Bonus)** – Defeat Horinari Hineno. [Instead of going North after **In the Depth of-Darkness** head in the room right after to trigger.]
+# **A Genius General Lurks Beneath (Special)** – Defeat Hanbei Takenaka. [Defeat the Gate Captain on the Right in the center area to trigger.]
+++++ 1-4 Battle of Muraki Garrison
+Playable: **Ieyasu Tokugawa**, Nō, Toshiie Maeda
+# **Breaking through the Western Garrison** - Defeat Yasutomo Asahina and Chikanori Niino to break through the Western Garrison.
+# **Breaching the Imagawa Main Camp** - Defeat Sena to break through the Imagawa Main Camp.
+# **Nobunaga Must Be Saved** - Escort Nobunaga Oda to the retreat point.
+# **Rescuing Mitsuyasu (Bonus)** – Defeat Sadamura Suganuma and Kagataka Yamada before Mitsuyasu Akechi is taken out.
+# **Oda Army Rescue Mission (Bonus)** – Defeat Nobutada Fuji and Chikanaga Sekiguchi to prevent Nobumori Sakuma and Nobumitu Oda from being taken out.
+# **Burn Your Boats (Ieyasu Tokugawa Bonus)** – Ieyasu Tokugawa must defeat the enemy troops surrounding the retreat point in order to assist the allies’ retreat. (100)
+# **The Supreme Ruler of Tōkai (Special)** – Defeat Yoshimoto Imagawa.
+++++ 1-5 Battle of Nagara River
+Playable: Nobunaga Oda | Mitsuhide Akechi (mid battle)
+# **Father and Mitsuhide** - Rendezvous with Mitsuhide Akechi to Rescue Dōsan Saitō.
+# **The Oda’s Crossing** - Defeat the shield soldiers on the opposite bank.
+# **Yoshitatsu in the Way** - Defeat Ittetsu Inaba and Moninari Andō.
+# **On the Edge of Despair** - Defeat Michikatsu Inoue and Michitoshi Nagai to open the gates around Sagiyama Castle.
+# **A Diversion** - Defeat the enemy troops at the Central Garrison. (100)
+# **The Lady and the Hostage** - Defeat Sena and Ieyasu Tokugawa to reach the retreat point.
+# **So That We May Retreat (Bonus)** - Defeat Bokuzen Ujiie and Mataichi Sengoku to open up a path to the retreat point.
+# **Father’s Ruin (Bonus)** – Defeat Yoshitatsu Saitō.
+# **The Strategist’s Betrayal (Bonus)** – Defeat Hanbei Takenaka.
+# **What He Left Behind (Bonus)** – Defeat Motonobu Okabe and Yasutomo Asahina to prevent Nō from being taken out.
+# **The Supreme Ruler of Tōkai (Special)** – Defeat Yoshimoto Imagawa. (2 minutes)
++++ Chapter 2 The Vow
+++++ 2-^1 Battle of Inō
+Playable: Nobunaga Oda, **Hideyoshi Hashiba**, Nō, **Toshiie Maeda**
+This stage has 10 objectives, but the most that can be counted at once is 9. **Breaking through the Center** requires Toshiie Maeda while **Toshiie’s Assault** requires him to not be chosen.
+# **Destroying the Front Line** - Defeat the enemy troops to advance the Nobunaga army’s front line. (150)
+# **Blazing a Trail** - Defeat Torazō Ōwaki and Heishirō Kanbe to clear the back road.
+# **Striking at the Enemy’s Morale** - Defeat the commanding officer, Hidesada Hayashi.
+# **A Sister’s Wish** - Defeat Oichi to clear a path to Suemori Castle.
+# **A Demon of a Dead-End** - Defeat Katsuie Shibata.
+# **A Foothold for Victory (Bonus)** – Defeat Shingo Tsunoda and Sukenojō Kamata to capture the Central Western Garrison and Northeastern Garrison.
+# **Where, Oh Where Is the Back Road? (Hideyoshi Hashiba Bonus)** - Hideyoshi Hashiba must reach the back road.
+# **Breaking through the Center (Toshiie Maeda Bonus)** – Toshiie Maeda must defeat the enemy troops in the Central Garrison to break through the center of their formation. (100)
+# **Toshiie’s Assault (Bonus)** – Defeat Mimasakanokami Hayashi to clear the central path.
+# **Mighty Spear Mataza (Special)** – Defeat Jūzō Hashimoto and Sakyōnoshin Tomino. [Approach after Kurando Tsuzuki and Matajirō Yamaguchi are defeated opening the Central Garrison, Toshiie must not be a chosen character.]
+++++ 2-^2 Battle of Okehazama
+Playable: **Nobunaga Oda** | Toshiie Maeda (mid stage)
+# **Ambush on Dengakuhazama** - Defeat Tadatsugu Sakai, Ienari Ishikawa, and Tadazane Honda to ambush Dengakuhazama.
+# **The Anticipated Ambush** - Defeat Hanzō Hattori and his allies.
+# **The Leader of the Tokugawa Clan** - Defeat Ieyasu Tokugawa. 
+# **The Comeback** - Defeat Sena and her allies to prevent Katsuie Shibata, Hideyoshi Hashiba, and Oichi from being taken out.
+# **Fools Don’t Know When to Quit** - Attack enemy troops until the preparations are complete. (150)
+# **The Tokugawa Clan’s Path** - Defeat Sena.
+# **Reclaiming the Garrison (Bonus)** – Defeat Naomori Ii and Yasutomo Asahina to recapture Washizu Garrison and Marune garrison.
+# **The Tokugawa Army Supply Soldiers (Bonus)** - Defeat all the Supply Captains to cut off the Imagawa Army’s supply lines.
+# **The Successor to Samonji (Nobunaga Oda Bonus)** - Nobunaga Oda must defeat Yoshimoto Imagawa with a Musou Attack.
+# **To Command the Imagawa (Special)** –Defeat Motonobu Okabe.
+++++ 2-^3 Battle of Inabayama Castle
+Playable: Nobunaga Oda, **Nō**, Toshiie Maeda, Katsuie Shibata, Oichi
+# **Forward March to Sunomata Castle** - Defeat Yoshitaka Endō and Masanari Nonomura to advance toward Sunomata Castle.
+# **Sunomata Castle Must Not Fall** - Prevent Sandayū Momochi from being defeated until the allied officers arrive. (2 minutes)
+# **Yoshitatsu Struggles** - Defeat Mitsuharu Fuwa and his allies.
+# **The Tactician Attacks** - Defeat Michitoshi Nagai and Sekian Takei to prevent Hideyoshi Hashiba from being taken out.
+# **Join Us, My Friend!** - Defeat Hanbei Takenaka.
+# **Stopping the Saitō  Army Reinforcements (Bonus)** – Defeat Hironari Hineno to prevent the arrival of enemy reinforcements.
+# **To Strike from Behind (Bonus)** - Defeat Yorimoto Toki and Naomitsu Takegoshi to prevent Nobumori Sakuma from being taken out.
+# **Farewell to the Past (Nō Bonus)** – Nō must defeat Yoshitatsu Saitō with a Musou Attack.
+# **A Wavering Heart (Special)** - Defeat the surrounding enemy troops except for Ittetsu Inaba. (100) [Approach him near the start of the battle to hear him doubting Yoshitatsu to trigger.]
+++++ 2-v1 Mayhem in Mikawa
+Playable: (Main only) **Ieyasu Tokugawa** | (Partner only) Tadakatsu Honda, Hanzō Hattori.
+# **To Crush a Rebellion** - Defeat Nobumoto Mizuno, and his allies, and prevent Tadayo Ōkubo and his allies from being taken out.
+# **The Pride of the Men of Mikawa** - Defeat Sadayoshi Okudaira and Jinjirō Matsudira without taking out the peasant leaders.
+# **Recurring Rebellion** - Defeat Sadakatsu Okudaira and Chikanori Matsudaira to crush the rebellion.
+# **Lady Sena’s Rescue** - Defeat Hideyoshi Hashiba, Yoshinari Mori and Nobushige Suzuki, and prevent Sena from being taken out.
+# **Budding Romance** - Work with Sena to defeat Katsuie Shibata.
+# **Attack of the Wanderers (Bonus)** - Prevent any wanderers from infiltrating Okazaki Castle.
+# **The Wanderers Return (Bonus)** - Defeat all wanderers to clear a path to the Southern Garrison.
+# **The Demon Shibata and the Mighty Men of Mikawa (Ieyasu Tokugawa Bonus)** - Ieyasu Tokugawa must defeat Katsuie Shibata with a Musou Attack.
+# **Okazaki Castle under Threat (Special)** - Prevent Sadatomo Okudaira and Takakiyo Miyake from infiltrating Okazaki Castle.
+++++ 2-v2 Battle to Build Sunomata Castle
+Playable: (Main only) **Hideyoshi Hashiba** | (Partner only) **Sandayū Momochi**
+# **The Battle to Erect Sunomata Castle – 1** - Secure your supplies by escorting the supply captains to Sunomata.
+# **The Battle to Erect Sunomata Castle – 2** - Secure your personnel by escorting the engineer captains to Sunomata.
+# **Pelting Down** - Defeat Yorimoto Toki and his allies to complete Sunomata Castle.
+# **One Thing after Another** - Defeat Michitoshi Nagai and his allies to defend Sunomata Castle.
+# **Getting Ahead (Hideyoshi Hashiba Bonus)** – Hideyoshi Hashiba must defeat the enemy troops. (500)
+# **The Joy of Castle Construction (Bonus)** – Defeat the enemy troops north of the Oda Main camp to advance the front lines. (100, 2 minutes) [During **The Battle to Erect Sunomata Castle** head North of the main camp to trigger.]
+# **Defend It with your Life (Sandayū Momochi Bonus)** - Sandayū Momochi must defeat the enemy troops surrounding Sunomata castle to deploy the shield soldiers. (150, 2 minutes)
+# **When No One’s Home (Special)** – Defeat Ittetsu Inaba, Bokzen Ujiie, and Morinari Andō to defend the Oda Main Camp.
++++ Chapter 3 Soaring
+++++ 3-^1 Battle of Northern Ōmi
+Playable: **Nobunaga Oda**
+# **Thwarting the Azai Army Ambush** - Defeat Kiyosada Amenomori and Naotsune Endō to stop the Azai Army’s ambush preparations. (2 minutes)
+# **Hanbei Considers** - Defeat all the spear captains to capture the Eastern Garrison.
+# **Breaching Yamazakimaru** - Defeat Tsunachika Kaihō and Naoyori Shinjō to open the Yamazakimaru gate.
+# **Take Out the Azai Officers** - Defeat Sadayuki Atsuji and Ujinao Imamura. 
+# **Deer Hunter** - Defeat Shikanosuke Yamanaka to advance toward the Odani Castle Main Ward.
+# **Reunion** - Defeat Mitsuhide Akechi.
+# **Make the First Move (Bonus)** - Defeat all the siege captains to prevent their attack.
+# **The Azai Army’s Lifeline (Bonus)** - Defeat Kiyotsuna Akao to capture the Western Garrison.
+# **Shortcut to the Commander (Bonus)** – Defeat the enemy troops on the south side of Kyōgokumaru. [Head through the center Western road to trigger, must be done before **Deer Hunter** triggers.]
+# **A Head-On Battle (Nobunaga Oda Bonus)** - Nobunaga Oda must defeat Nagamasa Azai with a Musou Attack.
+# **A False Start (Special)** - Defeat Kazumasa Isono and Ujitane An’yōji.
+++++ 3-^2 Battle of Kannonji Castle
+Playable: **Nobunaga Oda**, Mitsuhide Akechi, Hideyoshi Hashiba, Ieyasu Tokugawa, Nagamasa Azai, Nō, Toshiie Maeda, Katsuie Shibata, **Oichi**, Toshimoto Saitō, Shikanosuke Yamanaka, Hanbei Takenaka.
+This stage has 14 objectives, but the most that can be counted at once is 12. **For His Protection** & **A Show of skill** are Oichi exclusive while **The Skilled Men of Rokkaku** & **What Must Be Protected** require her not to be chosen.
+# **A Stepping Stone to Kannonji Castle** - Defeat Katamori Shindō, Shigemochi Mikumo, and Kimio Fuse to capture the Kannonji Castle fort.
+# **Seizing Mitsukuri Castle** - Defeat Tomomichi Iwanari and Shigemasa Yoshida to capture Mitsukuri Castle.
+# **Attack of the Ninja** - Defeat Mitsuki, and prevent Yoshiaki Ashikaga from being taken out.
+# **The Mysterious Assassin** - Defeat Kazuuji Nakamura to dispel the Oda Army’s confusion.
+# **Seizing Wadayama Castle** - Defeat Nagayasu Miyoshi and Jibunotifu Tanaka to capture Wadayama Castle.
+# **Elimination** - Defeat all of Kazuuji Nakamura’s doubles to advance toward Kannonji Castle.
+# **By Your Side Once More (Nobunaga Oda Bonus)** – Nobunaga Oda must work with Mitsuhide Akechi to defeat the enemy troops.
+# **What Must Be Protected (Bonus)** – Defeat the enemy troops to rescue Yoshiaki Ashikaga. [Stay near Yoshiaki, after Kenshin appears and **A Stepping Stone to Kannonji Castle** is cleared wait for him to mention Yoshiaki is the rightful heir to the Shogunate. Oichi must not be a chosen character.]
+# **Enemy Attack from the North (Bonus)** – Defeat Sadahime Gamō and Katahide Gamō.
+# **Enemy Attack from the Center (Bonus)** – Defeat Masakatsu Miyoshi and Nagafusa Shinohara.
+# **A Desperate Defense at Mitsukuri Castle (Bonus)** – Defeat Yoshiharu Rokkaku, Sadatake Hirai, and Sanefusa Ogura to prevent Mitsukuri castle from being recaptured.
+# **The Skilled Men of Rokkaku (Bonus)** – Defeat Yoshisada Rokkaku, Sadakage Namazue, and Takaharu Gotō to assist your allies’ advance.
+# **For His Protection (Oichi Bonus)** – Oichi must defeat Yoshisada Rokkaku and his allies, and prevent Nagamasa Azai from being taken out.
+# **A Show of Skill (Oichi Special)** – Oichi must defeat the enemy troops, and prevent Yoshiaki Ashikaga from being taken out. (100, 3 minutes) [As Oichi have her near Yoshiaki as early as possible.]
+++++ 3-^3 Battle of Rokujō
+Playable: Nobunaga Oda, Nagamasa Azai, Nō, Katsuie Shibata, Oichi.
+# **Unexpected Reinforcements** - Defeat Yoshikata Rokkaku and his allies.
+# **A Saitō Never Quits** - Prevent Tatsuoki Saitō and his allies from approaching Yoshiaki Ashikaga.
+# **Making Use of Lord Saitō** - Defeat Masayasu Sogō and his allies, and prevent the Captains of the Guard from being taken out!
+# **A Cleansing Fire** - Escort all the engineer captains to each target point to prepare a fire attack.
+# **Flashy Attacks!** - Defeat the enemy troops in the Honkokuji Western Garrison to throw the enemy into disarray.
+# **Suspicious Movements (Bonus)** – Prevent Sadakage Namazue from reaching the escape point. [Don’t fully complete **Unexpected Reinforcements** and have someone near Sadakage Namazue’s position and approach him to trigger.]
+# **The Vulnerable Garrison (Bonus)** – Defeat the Enemy troops in the Honkokuji Southwestern Garrison while the enemy’s defenses are weak. (100, 1 minute)
+# **Rescuing Murashige Araki (Bonus)** - Defeat Yasunaga Miyoshi and Akimoto Hosokawa, and prevent Murashiga Araki from being taken out.
+# **Destroy Everything (Special)** – Defeat all enemy officers. [Must have completed every objective to trigger.]
+++++ 3-v Invasion of Suruga
+Playable: Ieyasu Tokugawa, **Shingen Takeda**, **Sena**, Tadakatsu Honda, Hanzō Hattori, Katsuyori Takeda.
+This stage has 10 objectives, but the most that can be counted at once is 9. **Thinking of Imagawa** requires Sena while **Sandayū’s Scheme** requires her to not be chosen.
+# **Advancing on the Imagawa** - Capture the garrisons in the east and west to surround the Imagawa Army.
+# **The Loyal Officer Remains** - Defeat Motonobu Okabe and capture the Southern Garrison.
+# **One Fell Swoop** - Defeat the nearby enemy troops to surround the Imagawa Main Camp. (150)
+# **The Tokugawa’s Looming Crisis** - Defeat Kagetsuna Naoe, Tomonobu Saitō, and Shigeie Shibata before they infiltrate the Tokugawa Main Camp.
+# **The Takeda’s Looming Crisis** - Defeat Kagemochi Amakasu and Saneyori Honjō before they infiltrate the Takeda Main Camp.
+# **Sandayū’s Scheme (Bonus)** – Defeat Tadahisa Suganuma, Ujimoto Katsurayama, and Nobuteru Sena, and make them defect from the Imagawa Army. (3 minutes)
+# **Thinking of Imagawa (Sena Bonus)** – Sena must defeat Tadahisa Suganuma and his allies, and make them defect from the Imagawa Army. (2 minutes)
+# **Dismal End (Bonus)** – Defeat Ujizane Imagawa, and prevent his rendezvous with Kenshin Uesugi.
+# **A Righteous Man (Shingen Takeda Bonus)** – Shingen Takeda must defeat Kenshin Uesugi before his health drops below 50 percent.
+# **Buried Threats (Special)** – Defeat Yotarō Onikojima, and Nagahide Yasuda, and prevent Nobutada Anayama from being taken out.
++++ Chapter 4 In Flux
+++++ 4-^1 Battle of Kanegasaki
+Playable: Nobunaga Oda, Hisahide Matsunaga, Nō, Toshiie Maeda.
+# **The Asakura’s Garrison** - Defeat Kagamasa Maeba and Yoshitsugu Maeba to push forward the front line.
+# **Controlling Kanegasaki Castle** - Defeat Kagetsuna Asakura, Kagetake Asakura, and Kageatsu Togano to capture Kanegasaki Castle.
+# **The Moving Battlefield** - Naoyori Shinjō and his allies are after Nobunaga Oda. Defeat them.
+# **A Blocked Retreat** - Defeat Kageakira Asakua and Naotsune Endō to capture the Northern Garrison.
+# **A Parting of Siblings** - Defeat Oichi and Katsuie Shibata.
+# **Conquering the Fort (Bonus)** – Defeat Kagekata Uozumi and Yoshiie Yamazaki to capture Tezutsuyama Caste (2 mins.)
+# **A Broken Pact (Bonus)** – Defeat Yoshikaga Asakura.
+# **Friends in Need (Bonus)** – Defeat Tsunachika Kaihō and his allies, and prevent Nagahide Niwa and his allies from being taken out.
+# **The Kindness of Acquaintances (Bonus)** – Convince Mototsuna Kutsuki to defect to the Oda Army by defeating him.
+# **Nagamasa’s Decision (Special)** – Defeat Nagamasa Azai.
+++++ 4-^2 Battle of Anegawa River
+Playable: Nobunaga Oda, Mitsuhide Akechi, Hideyoshi Hashiba, Ieyasu Tokugawa, Hisahide Matsunaga, Mitsuki, Toshiie Maeda, Toshimitsu Saitō, Hanbei Takenaka, Kazuuji Nakamura, Sena, Tadakatsu Honda, Hanzō Hattori, Sandayū Momochi.
+This stage has 11 objectives, but the most that can be counted at once is 10. **A Mercenary’s Job** requires Nobunaga Oda while **A Mercenary’s Clutches** requires him to not be chosen.
+# **Demon Shibata’s Pride** - Defeat Katsuie Shibata and his allies.
+# **Clash at Anegawa River** - Defeat the enemy troops to secure the front line. (100)
+# **Quickly and Carefully** - Defeat Kagenori Asakura, Naotaka Magara, and Naozumi Magara before the Asakura Army notices you. (3 minutes)
+# **Cornering Yoshikage** - Defeat Kagetake Asakura and his allies to advance toward the Asakura Main Camp.
+# **The Azai’s Raid** - Prevent Naotsune Endō and Naoyori Shinjō from infiltrating the Oda Main Camp.
+# **For Reinforcements (Bonus)** – Defeat Naotaka Nomura and Hidetoshi Ōnogi.
+# **The Mercenary’s Shadow (Bonus)** – Defeat all the Saika Mercenaries to minimize ally losses.
+# **Azai-Asakura Army Reinforcements (Bonus)** – Defeat the enemy troops in the Central Battlefield to secure the front line.
+# **A Mercenary’s Job (Bonus)** – Defeat Magoichi Saika.
+# **A Mercenary’s Clutches (Bonus)** – Defeat Magoichi Saika before he approaches Nobunaga Oda. [Nobunaga must not be a chosen character.]
+# **A Wife’s Feelings (Special)** – Defeat Oichi.
+++++ 4-^3 The Scorching of Mt. Hiei
+Playable: Nobunaga Oda, Mitsuhide Akechi, Hideyoshi Hashiba, Hisahide Matsunaga, Mitsuki, Toshiie Maeda, Toshimitsu Saitō, Hanbei Takenaka, Kazuuji Nakamura, Sandayū Momochi
+# **Northwestern Temple** - Defeat Yoshimasa Oka and Genzō Matsuda to execute a fire attack.
+# **Northeastern Temple** - Defeat the enemy troops surrounding the Northeastern Temple to execute a fire attack.
+# **Konponchudo Hall** - Defeat Shigetaka Tsuchibashi and Shigeharu Tsuchibashi to execute a fire attack.
+# **A Fierce Pursuit** - Defeat the enemy troops. (200)
+# **The Uesugi Army Attacks** - Defeat the Uesugi Army officers.
+# **The Man Who Shot Kichō** - Defeat Magoichi Saika.
+# **Enemy in the Training Hall (Bonus)** – Defeat the enemy troops in the Training Hall. (100, 2 mins)
+# **The Inner Hall and the Bell Tower (Bonus)** – Defeat all rifle captains in the Inner Hall and the Bell Tower.
+# **Relentless (Bonus)** – Prevent all the peasant leaders from reaching the retreat point.
+# **Smoking Out the Enemy (Bonus)** – Defeat Kagemochi Amakasu, Harutsuna Kaji, and Shigenaga Honjō.
+# **Dealing with the Dragon of Echigo (Special)** – Defeat Kenshin Uesugi.
+++++ 4-^4 Battle of Makishima Castle
+Playable: Nobunaga Oda, Mitsuhide Akechi, Mitsuki, Toshimitsu Saitō, Hanbei Takenaka, Kazuuji Nakamura.
+# **The Path to Makishima Castle** - Defeat Tomomichi Iwanari and Fujikata Hosokawa to open the gate to Makishima Castle.
+# **Breaching the Outer Gates** - Defeat the enemy troops surrounding Makishima Castle to open the Makishima Castle gate.
+# **Mitubuchi’s Resolve** - Defeat Fujihide Mitsubuchi.
+# **Tracking down Magoichi** - Find and defeat Magoichi Saika.
+# **Crushing the Saika Mercenary Base** - Defeat all the Captains of the Guard to prevent the appearance of the Saika Mercenary Officers.
+# **The Castle Stained Crimson** - Escort Sandayū Momochi to Makishima Caste, and get ready for a fire attack.
+# **The Threat Lurks Behind (Bonus)** – Defeat Terusuke Hino. [Approach the area under the second Red X as the partner to trigger.]
+# **Bringing down the Enemy’s Defense (Bonus)** – Defeat the archer captains.
+# **Guns without Bullets (Bonus)** – Defeat the supply soldiers carrying ammunition to the Northern Garrison.
+# **Momochi’s Escort (Special)** – Hurry and defeat the Saika Mercenaries while they’re still far away! Don’t let them get near Sandayū Momochi.
+++++ 4-^5 Battle of Tonezaka
+Playable: Nobunaga Oda, **Mitsuhide Akechi**, Hideyoshi Hashiba, Hisahide Matsunaga, **Mitsuki**, Toshimitsu Saitō, Hanbei Takenaka, Kazuuji Nakamura, Sandayū Momochi.
+This stage has 11 objectives, but the most that can be counted at once is 10 while the least is 8. **Mitsuki Fights** requires Mitsuki while **For the Ninja** requires her to not be chosen.
+# **Clash at Tonezaka** - Defeat Michikage Asakura and his allies.
+# **A Steel Defense** - Defeat the enemy troops surrounding Ichijyōdani Castle. (200)
+# **The Uesugi’s Raid** - Prevent Kagemochi Amakasu and his allies from infiltrating the Oda Main Camp
+# **No Asakura Shall Survive** - Defeat Kageyuki Asakura and Kageakira Takahashi.
+# **The God of War’s Stratagem** - Defeat Tomonobu Saitō, Nagahide Yasuda, and Kagetsugu Amakasu, and prevent Kazumasu Takigawa and Nobumori Sakuma from being taken out.
+# **For the Ninja (Bonus)** – Defeat Tatsuoki Saitō and Michitoshi Nagai, and prevent Mitsuki from being taken out. [Mitsuki must not be a chosen character.]
+# **Mitsuki Fights (Mitsuki Bonus)** – Mitsuki must defeat Tatsuoki Saitō and Michitoshi Nagai with Musou Attacks.
+# **A Necessary Farewell (Mitsuhide Bonus)** – Mitsuhide Akechi must defeat Yoshikage Asakura with a Musou Attack.
+# **Where the Attack Starts (Bonus)** – Defeat the enemy troops to capture the Northwestern Garrison. (200)
+# **Not Even Gods Are Scared (Bonus)** – Defeat Nagaatsu  Shibata and Nagachika Kawada to advance the riflemen.
+# **With a Traitor by Your Side (Special)** – Escort Kageakira Asakura to the Uesugi Main Camp.
+++++ 4-^6 Battle of Odani Castle
+Playable: Nobunaga Oda, Hideyoshi Hashiba, Hisahide Matsunaga, Mitsuki, Toshimoto Saitō, Hanbei Takenaka, Kazuuji Nakamura, Sandayū Momochi.
+# **Blood-Stained Yamazakimaru** - Defeat the enemy troops to set fire to Yamazakimaru. (100)
+# **Capturing the Southern Garrison** - Defeat Kunisada Mitamura to capture the Southern Garrison.
+# **Breaking through the Southern Lines** - Defeat Ujitane An’yōji and Hidetoshi Ōnogi to clear a path.
+# **Momochi’s Plan** - Defeat Naoyori Nakajima and Naochika Nakajima while protecting the fireball captains.
+# **He Who Stands in the Way** - Defeat Oichi and her allies to capture Ōzuku Garrison.
+# **The Guardians of Kingomaru** - Defeat Katsuie Shibata and the shield soldiers to capture Kingomaru.
+# **Mitsuhide in Peril** - Defeat Kazumasa Isono and his allies before they approach Mitsuhide Akechi.
+# **The Massacre at Kyōgokumaru** - Defeat Tsunachika Kaihō and his allies to set fire to Kyōgokumaru.
+# **Unwavering Resolve** - Defeat Oichi and Katsuie Shibata.
+# **Hidden in the Garrison (Bonus)** – Defeat the spy captains hiding in the garrison. [Approach the garrison North of the Partner’s starting position from the Left to trigger.]
+# **Allied reinforcements arrive (Bonus)** – Defeat the enemy troops in the External Ward so the allied reinforcements can be brought in. (100, 2 mins.)
+# **Rendezvous with Nobunaga (Bonus)** – Defeat Katsumoyo Katagiri and the spear captains to rendezvous earlier than planned. (2 mins.) [Approach the Garrison West of where Mitsuhide stops to trigger, doesn’t trigger if **The Swift Arrows of the Azai Army** is completed before it.]
+# **The Swift Arrows of the Azai Army (Bonus)** – Defeat the archer captains to capture Nakamaru. [Approach the small indent at the top before Odani Main Ward to trigger.]
+# **Mitsuki’s Progress (Special)** – Defeat Masamoto Azai and Kiyotsuna Akao while protecting the spy captains.
+++++ 4-v1 Battle of Mikatagahara
+Playable: (Main only) Ieyasu Tokugawa | (Partner only) Sena, Tadakatsu Honda
+# **Counterattack** - Defeat Nobutoyo Takeda and his allies, and prevent Yasumasa Sakakibara and his allies from being taken out.
+# **Protecting the Fierce** - Defeat Motonobu Okabe and Nobutada Anayama to capture the Central Garrison.
+# **The Tiger’s Venomous Fangs** - Defeat the ambush troops in the Central Battlefield. (200)
+# **Westward Advance** - Defeat Morinobu Nishima and Nobusada Obata to advance toward the Western Mountain Path.
+# **Rodent-Proof** - Defeat Nobufusa Baba, Masateru Sanada, and Masatane Hara.
+# **Shirō Honor** - Defeat Katsuyori Takeda and the entire cavalry.
+# **A Good Retainer’s Dilemma (Bonus)** – Defeat Masatoyo Naitō and Nobuzane Kawakubo, and prevent Tadatsugu Sakai from being taken out.
+# **Prepare for a Fight (Bonus)** – Defeat Masatsugu Tsuchiya and Masazumi Kōsaka to steal the enemy’s supplies.
+# **The Two Ieyasu (Bonus)** – Defeat the enemy troops to the Northeast of the battlefield, and prevent Ieyasu Tokugawa’s Kagemusha from being taken out. (200)
+# **Shadow Commander (Special)** – Don’t let Masakage Yamagata and Shigetsugu Yonekura approach Ieyasu Tokugawa’s Kagemusha.
+++++ 4-v2 Battle of Mikatagahara Takeda Army
+Playable: (Main only) Shingen Takeda | (Partner only) Motonobu Okabe, **Katsuyori Takeda**.
+# **The Takeda Cavalry Advances** - Defeat Tadatsugu Sakai, Tadasuke Ōkubo, and Tadatsugu Matsui to make the cavalry advance.
+# **Heihachirō and the Takeda Cavalry** - Work with the cavalry to defeat Tadakatsu Honda.
+# **Protection** - Defeat Sena to open Hamamatsu Castle.
+# **Hanzō’s Special Attack** - Put an end to Hanzō Hattori’s mysterious attack by defeating all the Hanzō Hattori’s.
+# **The Men of Mikawa’s Siege** - Defeat Tadazane Honda and his allies to break through the enemy’s siege.
+# **The Pride of the Men of Mikawa** - Defeat the ambush troops in the Central Battlefield. (200)
+# **Shadows on the Mountain Path (Bonus)** – Defeat Masanobu Honda and Katsushige Itakura, and stop the enemy’s retreat.
+# **The Tokugawa’s Foothold (Bonus)** – Defeat Yasumasa Sakakibara and Kazumasa Ishikawa to capture the garrison.
+# **Shirō‘s Desperate Fight (Katsuyori Takeda Bonus)** – Katsuyori Takeda must defeat the enemy troops with a Musou Attack. (100)
+# **Wrath from on High (Bonus)** – Defeat all the archers so your allies can advance. [Approach the down arrow in the top right to trigger this.]
+# **Mikawa’s Show of Force (Special)** – Defeat Tadayo Ōkubo and Yasukage Amano to protect the Takeda Main Camp.
++++ Chapter 5 The Demon
+++++ 5-^1 Battle of Nagashino
+Playable: (Main only) Nobunaga Oda | (Partner only) Mitsuhide Akechi, Hideyoshi Hashiba, Ieyasu Tokugawa, Mitsuki, Toshiie Maeda, Katsuie Shibata, Sena, Tadakatsu Honda, Hanzō Hattori.
+This stage has 12 objectives, but the most that can be counted at once is 11. **To Save Face** requires Katsuie Shibata to not be chosen while **The Cavalry Moves Out** requires him to be chosen.
+# **Holding the Front Line** - Defeat Motonobu Okabe and his allies to prevent Nagahide Niwa and his allies from being taken out.
+# **The Back Road** - Defeat Masateru Sanada, Nobuchika Komiyama, and Morimitsu Saegusa to capture the Nakayama Garrison.
+# **To Save Face** – Work with Katsuie Shibata to defeat all the Takeda Cavalry Captains. [Katsuie Shibata must not be a chosen character.]
+# **The Cavalry Moves Out** - Defeat all the Takeda Cavalry Captains, and prevent the rifle captains from being taken out.
+# **To Nagashino Caste** - Defeat Nobutada Anayama and Masasada Saegusa to capture Tobigasu Garrison.
+# **The Cavalry Strikes** - Defeat Masakage Yamagata and his allies, and the Takeda Cavalry.
+# **Red-Clad Warriors** - Defeat Katsuyori Takeda.
+# **Saving Nagashino Castle** - Defeat Masazumi Kōsaka, Monukado Takeda, and Nobuzane Kawakubo to prevent Nobumasa Okudaira from being taken out.
+# **Procuring Provisions (Bonus)** – Defeat Masatsune Tsuchiya and Katsusuke Atobe to steal the Takeda Army’s provisions.
+# **A Cry for Help (Bonus)** – Defeat Nobuyasu Amari, and prevent Sune’emon Torii from being taken out.
+# **An Unwanted Rendezvous (Bonus)** – Prevent Shingen Takeda and Masanobu Kōsaka from rendezvousing. 
+# **The Palisade Threatened (Special)** - Prevent the engineer captains from reaching the Palisade.
+++++ 5-^2 Battle of Shigisan Castle
+Playable: Nobunaga Oda, Mitsuhide Akechi, Hideyoshi Hashiba, Mitsuki, Toshimoto Saitō, Shikanosuke Yamanaka, Hanbei Takenaka, Kanbei Kuroda.
+# **Hisahide’s Invitation** - Defeat Hisahide Matsunaga.
+# **Path to the Southern Gate** - Advance toward the South Gate to infiltrate Shigisan Castle.
+# **Silencing the Matsunaga Army** - Infiltrate the Northern Garrison, and draw attention by defeating the enemy troops. (200)
+# **Nobutada in Trouble** - Defeat Ieyasu Shidei, Kunimitsu Shiokawa, and Hidekatsu Yamaguchi to rescue Nobutada Oda.
+# **A Storehouse under Fire** - Prevent the fireball captains from reaching the storehouse to protect your allies’ provisions.
+# **The Guards at the Castle Gates** - Defeat Masanobu Honda and Hisamichi Matsunaga to advance into Shigisan Castle.
+# **A Rapid Rescue (Bonus)** – Defeat Ieyasu Shidei and his allies with at least 50 percent of Nobutada Oda’s health remaining.
+# **A Message Interrupted (Bonus)** – Defeat Yoshihisa Mori to stop the message from reaching the Southwestern Garrison.
+# **Fake Messenger Knocking at the Southern Gate (Bonus)** – Now that he has defected, escort Yoshihisa Mori to the South Gate. [The Bonus Objectives don’t trigger if you didn’t do the objective below.]
+# **The Same Beat (Special)** – Defeat Tadamasa Yūki and Tadataka Okuda. (2 mins) [During **Path to the Southern Gate** approach these officers from the Gate Captain near the Yellow X on the right.]
+++++ 5-^3 The Subjugation of Harima
+Playable: Nobunaga Oda, Mitsuhide Akechi.
+# **An Ambush Out of Nowhere** - Defeat Masakore Kushihashi and Motosuke Hiraga to rescue Nobutada Oda.
+# **Reinforcements Flooding In** - Defeat Tomoyuki Bessho and Hyōbu Kihara to ready your forces.
+# **The Devoted Oda Army** - Defeat Motoyasu Shiji and Yasuaki Miki to prevent Tamezumi Reizei from being taken out.
+# **In Hot Pursuit** - Defeat Yoriharu Uozumi, Ichisuke Tsumura, and Fujikane Masuda to assist Hideyoshi Hashiba.
+# **A Strategic Capture** - Defeat Sadanori Ōgo and Harusada Bessho to capture Ōgo Castle.
+# **Miki’s Lifeline** - Defeat Yorisada Kanki and the supply unit to prevent transport of supplies to Miki Castle.
+# **Mōri’s Rescue** - Prevent Motosugu Shishido, Hajime Watanabe, and Hiroshige Katsura from reaching Miki Castle.
+# **The Shorthanded Camp (Bonus)** – Prevent Kageyuki Kajiwara from infiltrating the Oda Mina Camp.
+# **Swarming Shadows (Bonus)** – Defeat the spy captains slowing down Kazuuji Nakamura.
+# **The Impossible Infiltration (Special)** – Defeat Motoharu Kikkawa and Terumoto Mōri.
+++++ 5-v1 Battle of Tetorigawa
+Playable: **Toshiie Maeda**, Katsuie Shibata, Kazuuji Nakamura, Mitsuki.
+# **Gonroku’s Marches North** - Defeat the enemy troops at the Northern Garrison to capture the garrison. (200)
+# **The God of War’s Commandments** - Defeat Kunikiyo Yamaura, Chikanori Suibara, and Yoshitsuna Takenomata, and prevent Hideyoshi Hashiba from being taken out.
+# **Onikojima Strikes** - Defeat Yatarō Onikojima and Yoshihide Shida to capture the Northern Garrison.
+# **In Pursuit of Righteousness** - Defeat Kagehiri Kitajō and Shigeie Shibata to protect the Oda Main Camp.
+# **Hold the Northern Garrison** - Defeat Tomonobu Saitō and Nagazane Irobe from reaching the Northern Garrison.
+# **Onwards to the Uesugi Main Camp** - Defeat Shigenaga Honjō, Nagaatsu Shibata, and Takahiro Kitajō to advance toward Mattō Castle.
+# **To Bring down a God (Bonus)** – Defeat Nagahide Yasuda and Hidetsuna Honjō, and prevent Hidemasa Hori from being taken out.
+# **The Ikki Brotherhood’s Desperate Fight (Bonus)** – Defeat Raijun Shimotsuma and all the warrior monks.
+# **Ladies First (Bonus)** – Defeat Kagemochi Amakasu and Nagachika Kawada, and prevent Oichi from being taken out.
+# **Beauty and the Gonroku (Bonus)** – Hurry and defeat Shigenaga Honjō, Nagaatsu Shibata, and Takahiro Kitajō. (3 minutes)
+# **For Lord Nobunaga (Toshiie Maeda Bonus)** – Toshiie Maeda must defeat Kenshin Uesugi with a Musou Frenzy Attack.
+# **Attack on Mattō Castle Western Garrison (Special)** – Defeat Kaganaga Sanponji and Nobuyoshi Iwai to open the Mattō Castle Western Garrison Gate.
+++++ 5-v2 Battle of Kizugawaguchi
+Playable: Hideyoshi Hashiba, **Hanbei Takenaka**, Kazuuji Nakamura.
+This stage has 10 objectives, but the most that can be counted at once is 9, additionally this is the rare time an objective has to fail to unlock another one. **For My Friends** requires Hanbei Takenaka while **With Hanbei** requires him to not be chosen.
+# **Guarding the Main Camp** - Defeat Nobunao Kumagai and Munekatsu Nomi, and defend the Oda Main Camp.
+# **Have Hope** - Defend the Oda Main Camp until the iron warship arrives. (3 mins)
+# **The Time to Strike Back** - Defeat the enemy troops on the Central Battlefield to weaken the Mōri Army. (200)
+# **Saika’s Victim** - Defeat Magoichi Saika, and prevent Yoshitaka Yuki from being taken out.
+# **Another Attack** - Defeat Terumoto Mōri and his allies to protect the Oda Main Camp.
+# **Extinction (Bonus)** – Prevent the transport unit from reaching the Southeastern Garrison. [Approach the Southern portion of the map to see a Supply Captain to trigger.]
+# **For My Friends (Hanbei Takenaka Bonus)** – Hanbei Takenaka must defeat one of the enemies closing in on the Oda Main Camp with a Musou Attack.
+# **With Hanbei (Bonus)** – Defeat Terumoto Mōri and his allies before Hanbei Takenaka’s health drops below 50 percent. [Triggers with **Another Attack** if Hanbei is not a chosen character and you are near him.]
+# **Looming Menace (Bonus)** – Defeat Rairen Shimotsuma and Raijun Shimotsuma, and prevent a pincer attack. [Fail **Extinction (Bonus)**/let the provisions heading to the Southeastern Garrison go for this to be able to trigger when Terumoto Mōri arrives later in the battle.]
+# **Where There’s Smoke (Special)** – Defeat the arson squadron, and prevent them from infiltrating the Oda Main Camp. [Approach the Fireball Captain to the West of the Oda Main Camp.]
+++++ 5-v3 Battle of Arioka Castle
+Playable: Hideyoshi Hashiba, **Hanbei Takenaka**, Kazuuji Nakamura.
+This stage has 12 objectives, but the most that can be counted at once is 11. My Final Duty requires Hanbei Takenaka while Rescuing Kanbei requires him to not be chosen.
+# **Laying Siege** - Defeat Yorimichi Nose and Murauji Suita to capture the garrison.
+# **Bait** - To serve as bait, defeat the enemy troops in the east before the Mōri Army arrives. (200)
+# **Hanbei’s Strategy** - Defeat Muratsugu Araki and Shigekata Kinoshita to spread false information.
+# **Rescuing Kanbei** – Defeat Motokiyo Araki, Niemon Anbe, and Tomomasa Ikeda to rescue Kanbei Kuroda. [Hanbei must not be a chosen character.]
+# **Murashige Araki Escapes** - Prevent Murashige Araki and Michiyoshi Kuchiba from rendezvousing.
+# **Fighting the Mōri** - Defeat Takaie Shishido and his allies to stop the planned siege.
+# **Hanbei’s Preparations (Bonus)** – Defeat Masamoto Kodera and Kunimitsu Shiokawa to prepare for the Mōri Army’s appearance.
+# **Setting an Example (Bonus)** – Defeat Motokiyo Araki, Niemon Anbe, and Tomomasa Ikeda to rescue Kanbei Kuroda. (3 mins)
+# **The Soldiers of Arioka Castle (Bonus)** – Convince Ukon Takayama and Kiyohide Nakagawa to defect to the Oda Army by defeating them.
+# **The Rear Guard (Bonus)** – Defeat Hajime Watanabe and Nobunao Kumagai to prevent the appearance of the Mōri Army’s rear guard.
+# **My Final Duty (Hanbei Takenaka Bonus)** – Hanbei Takenaka must defeat the enemy troops on the east bridge. (70, 2 mins.)
+# **Impregnable (Special)** – Defeat Motoharu Kikkawa.
+++++ 5-v4 The Nobuyasu Affair
+Unlocked: In Nobunaga Chapter 6 complete The Incident at Honnōji.
+Playable: (Main only) Ieyasu Tokugawa | (Partner only) Tadakatsu Honda, Hanzō Hattori.
+# **The Strongest Cavalry** - Defeat the entire Takeda Cavalry so the Ieyasu Army can advance.
+# **The Path to Discord** - Defeat Nobusada Obata and his allies, and capture the garrison.
+# **Seed of Doubt** - Defeat Tsuneharu Yonekizu and Yasutada Matsudaira, and drive a wedge between the Nobuyasu Army and the Takeda Army. (2 mins.)
+# **The Moment of Truth** - Defeat Motonobu Okabe and his allies to weaken the Takeda Army.
+# **Katsuyori Flees** - Defeat Katsuyori Takeda, and prevent him from reaching the escape point.
+# **The Heart That Wavers (Bonus)** – Defeat Kazumasa Ishikawa before Tadayo Ōkubo’s health drops below 50 percent. [Approach Tadayo Ōkubo as early as possible to trigger this.]
+# **Returning Home (Bonus)** – Defeat Shigetsugu Honda and Chikayoshi Hiraiwa, and make them defect.
+# **The Takeda’s Pride (Bonus)** – Defeat Tomoharu Komiyama and his allies, and wipe out the Takeda Army.
+# **The Iga in Shadow (Special)** – Defeat Masayasu Fujibayashi, Yazemon Kido, and Mitsutsugu Ueda, and prevent the supply of weapons. (1 min.) [Before **The Moment of Truth** have a character at the upper Eastern Garrison from where Tadayo Ōkubo started to trigger this.]
++++ Chapter 6 Dawn’s First Light
+++++ 6-^1 Battle of Takatenjin Castle
+Playable: Nobunaga Oda, Ieyasu Tokugawa, Tadakatsu Honda, Hanzō Hattori, Yasuke.
+# **A Threat to the Main Camp** - Prevent Mitsumasa Muroga and Motoyasu Haramiishi from infiltrating the main camp.
+# **Capturing the Nogasaka Garrison** - Defeat the enemy troops to capture the Nogaska Garrison. (200)
+# **The Enemy Closes in on Higamine Garrison** - Defeat Mitsukata Nagasaka and Tomohide Ōkuma, and stop them from reaching the Higamine Garrison.
+# **For Okabe** - Defeat Nobukado Takeda and his allies before Motonobu Okabe readies his forces.
+# **The Cavalry at Taketenjin Castle** - Defeat all the Takeda Cavalry Captains at Takatenjin Castle.
+# **Archers on the Cliff (Bonus)** – Defeat all the archer captains on the cliff so your allies can advance.
+# **Whoever is Running the Show (Bonus)** – Defeat Nobumori Ema.
+# **The Enemy with the Upper Hand (Bonus)** – Defeat Masatoshi Hoshina and Mitsutsuna Akiyama to defend the main camp.
+# **Tokugawa and Nobutada’s United Front (Bonus)** – Enemy troops are attacking the main camp. Work with Nobutada Oda to defeat them. (200, 2 mins.)
+# **Settling the Score with Okabe (Special)** – Defeat Motonobu Okabe with a Musou Attack.
+++++ 6-^2 Conquest of Kai
+Playable: Nobunaga Oda, Ieyasu Tokugawa, Tadakatsu Honda, **Hanzō Hattori**, Yasuke.
+# **The Beginnings of Betrayal** - Defeat the enemy troops to send the enemy into a state of panic. (200)
+# **The Last of the Takeda Calvary** - Defeat the Takeda Calvary.
+# **To Shinpu Castle!** - Defeat Masasada Oyamada and Masyuki Oyamada to open the Shinpu Castle gate.
+# **Castle Ruins** - Defeat Morinobu Nishina and Masanao Hoshima to capture Shinpu Castle.
+# **The Takeda Struggle** - Defeat Tomoharu Komiya and Sadamitsu Kanemaruu to advance toward Mt. Tenmoku.
+# **The Takeda’s Foothold (Bonus)** – Defeat Nobukado Takeda and Yoritoyo Suwa in order to capture the garrisons near Shinpu Castle.
+# **The Takeda Buy Some Time (Bonus)** – Defend the Oda Main Camp by defeating the enemy troops surrounding the main camp. (200)
+# **For My Lord (Bonus)** – Defeat the enemy troops at Mt. Tenmoku. (200) [Hanzō Hattori must be a chosen character to trigger this, he does not need to get the kills.]
+# **A Guide to Treachery (Bonus)** – Escort Nobutada Anayama to the Mt. Tenmoku Summit.
+# **Almost at the Summit (Bonus)** – Defeat Nobutoyo Takeda, Mitsuka Nagasaka, and Tomohide Ōkuma to open a path to the Mt. Tenmoku Summit.
+# **The General Who Killed a Thousand Men (Special)** – Defeat Masatsune Tsuchiya.
+++++ 6-^3 The Incident at Honnōji
+Playable: **Nobunaga Oda**, **Yasuke.**
+# **The Last Battle** - Defeat Katsusada Shibata, Masachika Matsuda, and Yoshikiyo Kimura to defend Honnōji.
+# **The Iga’s Resentment** - Defeat the spy captains who infiltrated Honnōji.
+# **Nobutada’s Haste** - Work with Nobutada Oda to defeat Dengo Fujita and Kunitsugu Yasuda.
+# **Nobunaga and Sandayū** - Defeat all the Sandayū Momochis to force the Iga Army to withdraw.
+# **Time to Settle the Score** - Defeat Mitsuhide Akechi.
+# **Mitsuhide’s Subjects** - Defeat Toshimitsu Saitō and his allies.
+# **The Riflemen in the Corridor (Bonus)** – Defeat all the rifle captains to recapture the corridor.
+# **I Won’t Let You Stop Me (Bonus)** – Capture the barracks outside of Honnōji to stop the arrival of enemy reinforcements.
+# **An Insurmountable Difference in Power (Bonus)** – Defeat all the spear captains. (2 mins.
+# **The Demon King’s Pride (Nobunaga Oda Bonus)** – Nobunaga Oda must achieve victory with at least 50 percent of his health remaining.
+# **Repaying Lord Nobunaga (Yasuke Bonus)** – Yasuke must defeat the enemy troops with a Musou Attack. (100, 3 mins.)
+# **Taking Advantage of the Confusion (Special)** – Toshimitsu Saitō, Hidemitsu Akechi, and Sadaoki Ise have stormed Honnōji. Defeat them. (2 mins.)
+++++ 6-v1 Battle of Takamatsu Castle
+Playable: Hideyoshi Hashiba, Kanbei Kuroda, Kazuuji Nakamura.
+[Before the water attack]
+# **Seizing the High Ground** - Defeat the enemy troops to take the high ground. (100)
+# **Damming Ashimorigawa River** - Defeat Nobuyoshi Sechika and Ekei Ankokuji so the river can be dammed.
+# **Levee under Construction** - Defeat Munetada Nanba, Narikata Kodama, and Kagechika Hibata so the levee can be built.
+# **Eliminating Obstacles (Bonus)** – Defeat Mototake Kinishi and Magobei Oda to stop the reinforcements.
+# **Nuisance Will Not Be Forgiven (Bonus)** – Defeat Motoyuki Nakashima to prevent the enemy from gathering.
+[After the water attack]
+# **Reinforcements Arrive** - Defeat Kagenobu Katsura and his allies to prevent the Mōri Army’s invasion.
+# **The Lord’s Grudge (Bonus)** – Muneharu Shimizu and Munetomo Shimizu are set on retaliating against the Oda Army. Defeat them.
+# **A Clever Pincer (Bonus)** – Defeat Motosuje Hiraga and Hyōbo Kihara to prevent a pincer attack.
+# **Seizing the Garrison (Special)** – Defeat Motoharu Kikkawa and Munekatsu Nomi to capture the garrison.
+++++ 6-v2 Journey Through Iga
+Playable: Ieyasu Tokugawa, Tadakatsu Honda, **Hanzō Hattori**
+# **Hanroku of Otowa** - Defeat Hanroku Otowa and all rifle captains to prevent Nobutoshi Honda from being taken out.
+# **After Ieyasu!** - Defeat Hachiemon Yamada and all the spy captains to stop their pursuit.
+# **A New Retreat Point** - Defeat Magodayū Nomura and Dōjun Iganozaki to break through Nunobikiguchi Garrison.
+# **Maruyama Castle’s Reinforcements** - Work with Yasumasa Sakaki ara to defeat Tarōjirō Kōyama and Tarōzaemon Kōyama.
+# **Ambushing Hijiyama Castle (Bonus)** - Defeat Sakyō Koizumi and Chūbei Tomioka to break through Hijiyama Castle.
+# **The Wanderers of Hioki Shrine (Bonus)** – Defeat the enemy troops inside Hioki Shrine to stop their pursuit. (100) [Approach the Shrine in the top right after Nobutada Anayma dies to trigger.]
+# **The Demon Hanzō ‘s Keen Senses (Hanzō Hattori Bonus)** - Hanzō Hattori must defeat all of the spy captains. (2 mins.)
+# **Rescuing Tadatsugu Sakai (Bonus)** – Defeat all the peasant leaders to prevent Tadatsugu Sakai from being taken out.
+# **The Allied Officers of the Western Garrison (Bonus)** – Defeat Ukon Ieki, Daizen Funō, and Masayasu Fujibayashi to prevent Kazumasa Ishikawa and Yasumichi Ishikawa from being taken out.
+# **Kido of Otowa (Special)** – Defeat Yazaemon Kido and all the rifle captains to prevent the ambush.
+++ Mitsuhide’s Path
++++ Chapter 1 Promising Beginnings
+++++ 1-1 Defense of Mino
+Playable: **Mitsuhide Akechi**.
+# **Oda Forces Closing In** - Defeat Nagahide Niwa to recapture the Northwestern Garrison.
+# **A Concentration of Hostilities** - Defeat the enemy troops at the Central Square. (100, 5 mins)
+# **Turning the Tides of Battle** - Defeat Toshiie Maeda and Tsuneoki Ikeda.
+# **Nobunaga’s Younger Brother?** - Defeat Ieyasu Tokugawa and Hanzō Hattori to invade the Oda Main Camp.
+# **General-Less Main Camp** - Defeat Nobuyuki Oda and Oichi to capture the Oda Main Camp.
+# **The Master Strategist’s Ordeal (Bonus)** – Work with Hanbei Takenaka to defeat Nagachika Kanamori.
+# **You Won’t Take the Garrison! (Bonus)** – Defeat Tadakatsu Honda to prevent the enemy reinforcements from appearing.
+# **A Fierce Charge (Bonus)** – Prevent Narimasa Sassa from approaching Yoshitatsu Saitō
+# **Removing All Obstacles (Bonus)** – Defeat Masahide Hirate to seize the Southeastern Garrison.
+# **Don’t Underestimate a Fool (Mitsuhide Akechi Bonus)** – Mitsuhide Akechi must defeat Nobunaga Oda with a Musou Attack.
+# **On Your Guard (Special)** – Prevent Katsuie Shibata from infiltrating the Saitō Main Camp.
+++++ 1-2 Turmoil on Mt. Inaba
+Playable: **Mitsuhide Akechi**.
+# **Breaking through the Siege** – Defeat the enemy troops to break through the siege. (50)
+# **Caged Butterfly** – Defeat Dōchin Takegoshi to assist Nō’s advance.
+# **The Spider’s Thread** – Defeat Michitoshi Nagai and Morinari Andō.
+# **Toshimitsu’s Resolve** – Defeat Toshimitsu Saitō.
+# **In the Depths of-Darkness** – Defeat Ittetsu Inaba and Bokuzen Ujiie to open the Wooden-floored Room.
+# **The Earnest Mitsuhide (Mitsuhide Akechi Bonus)** – Mitsuhide Akechi must defeat the enemy troops with a Musou Attack. (30)
+# **The Strategist behind the Pincer (Bonus)** – Defeat Hironari Hineno. [Approach the Southern room, after clearing **In the Depths of-Darkness**.]
+# **A Genius General Lurks Beneath (Special)** – Defeat Hanbei Takenaka. [When you get to the courtyard defeat the unit by the Yellow X on the right to reveal Hanbei’s room.]
+++++ 1-3 Battle of Nagara River
+Playable: Mitsuhide Akechi | Nobunaga Oda (mid battle)
+# **Unexpected Reinforcements** - Rendezvous with Nobunaga Oda.
+# **The Nagara River Guards** - Defeat Dōchin Takegoshi and Hironari Hineno.
+# **The Meddling Three of Mino** - Defeat Ittetsu Inaba, Morinari Andō, and Bokuzen Ujiie.
+# **A Tribute to Our Lord** - Defeat Hanbei Takenaka and Yoshitatsu Saitō.
+# **To Create a Diversion** - Defeat the enemy troops at the Central Garrison. (100)
+# **The Noblewoman and Mighty Men of Mikawa** - Defeat Sena and Ieyasu Tokugawa to reach the retreat point.
+# **Obstruction on the Cliff (Bonus)** - Defeat the archers.
+# **Continuing on the Mountain Path (Bonus)** - Defeat the enemy troops at the Northwestern Garrison. (100)
+# **The Path to Kiyosu (Bonus)** – Defeat Mataichi Sengoku and Mondo Hayashi to open a path to the retreat point.
+# **My Lord’s Memento (Bonus)** – Defeat Motonobu Okabe and Yasutomo Asahinato prevent Nō from being taken out.
+# **Arrows in Tōkai (Special)** – Defeat Yoshimoto Imagawa. (2 mins)
+++++ 1-4 Battle of Akechi Castle
+Playable: Mitsuhide Akechi, Toshimitsu Saitō.
+# **Yoshitatsu’s Influence** - Michikatsu Inoue and his allies are after Akechi Castle! Defeat them.
+# **The Counterattack Begins** - Defeat Mataichi Sengoku, Shigenori Takenaka, and Masahide Ōsawa to capture the garrison.
+# **Former Friends** - Defeat Hanbei Takenaka to advance toward the Yoshitatsu Main Camp.
+# **Premonition** - Mitsuhide Akechi must reach Akechi Castle.
+# **A Long Way** - Defeat Ittetsu Inaba and his allies to open a path to Akechi Castle.
+# **For Uncle** - Defeat Nobuchika Kishi and Tadayoshi Saitō to open the Akechi Gate.
+# **The Sad Strategist** - Defeat Hanbei Takenaka to reach the retreat point.
+# **Surprising Supplies (Bonus)** – Don’t allow any of the supply soldiers to reach the Eastern Barracks. [After **Yoshitatsu’s Influence** set a character to watch the low road before heading East for **The Counterattack Begins**.]
+# **The Obstruction (Bonus)** – Defeat all the shield soldiers to advance.
+# **Yoshitatsu’s Troubles (Bonus)** – Defeat Hironari Hineno and Michitoshi Nagai.
+# **Yoshitatsu’s Reinforcements (Special)** - Defeat Yorimoto Toki and Mondo Hayashi.
++++ Chapter 2 The Quest for Truth
+++++ 2-1 Defense of Echizen
+Playable: Mitsuhide Akechi | Nagamasa Azai (mid battle)
+# **Battle Support** - Defeat Yoshitada Ōshio before the peasants are taken out.
+# **Surprising Reinforcements** - Defeat Masatsune Henmi and Yoshishige Sawamura before the peasants are taken out.
+# **Yoshikage’s Rescue** - Defeat Katsuhisa Awaya and Kojirō Awaya, and prevent Yoshikage Asakura from being taken out.
+# **The Wall in the Way** - Defeat Yoritsugu Toki and Hidemitsu Mori to drive back the shield soldiers.
+# **True Form** - Defeat Nagayori Matsunaga.
+# **Stopping the Engineers (Bonus)** – Defeat all the engineer captains.
+# **A Secret Advance (Bonus)** – Defeat Katsuie Awaya to stop the advance.
+# **Trust Your Gut (Bonus)** – Defeat Tadamasa Yūki.
+# **For the People (Special)** – Defeat Mitsuwaka Awaya, Handayū Tanabe, and Yashirō Awaya, and prevent the peasants from being taken out.
+++++ 2-2 Battle of Gassantoda Castle
+Playable: Mitsuhide Akechi, **Shikanosuke Yamanaka**.
+# **The Defecting Scout**- Prevent Hisasuke Mitoya, Morikiyo Akana, and Tamekiyo Misawa’s Infiltration of the Tertiary Ward.
+# **Mōri’s Arrow** - Defeat all Archers.
+# **A Recommendation to Surrender** - Prevent Tsunahiro Yonebara from approaching Hisanobu Ushio.
+# **Mōri’s Scheme** - Prevent Takakage Kobayakawa, Sadatoshi Fukuhara, ad Nobuao Kumagai from reaching the retreat point.
+# **The Amago Unite** - Don’t allow the allied army officers to be defeated. (3 mins.)
+# **Critical Provisions** - Escort Hisakane Uyama to the Tertiary Ward to procure provisions.
+# **The Center of Attention (Shikanosuke Yamanaka Bonus)** – Shikanosuke Yamanaka must defeat the enemy troops to draw the enemy’s attention. (100)
+# **The Wolf of Iwami (Shikanosuke Yamanaka Bonus)** – Shikanosuke Yamanaka must defeat Masakazu Shingawa.
+# **Rescuing Hidehisa (Bonus)** – Defeat Motosuke Kunishi and Motozumi Katsura, and prevent Hidehisa Amago from being defeated.
+# **Targeting the Commander (Bonus)** – Defeat Takasuke Miyoshi and Michiyoshi Kuchiba.
+# **The Mōri’s Valor (Special)** – Defeat Motoharu Kikkawa.
+++++ 2-3 Joint Struggle with the Uesugi
+Playable: Mitsuhide Akechi, Kenshin Uesugi, Toshimitsu Saitō, Shikanosuke Yamanaka.
+# **A Firm Foothold** - Defeat the enemy troops. (100)
+# **Shingen Smiles** - Defeat Shingen Takeda.
+# **Threats from Both Sides** - Defeat Kansuke Yamamoto and Nobufusa Baba to prevent the enemy’s pincer attack.
+# **The Cavalry’s Ambush** - Protect the Uesugi Main Camp by defeating Masakage Yamagata and Toramitsu Oyamada.
+# **Advance the Front Line** - Defeat Masatoshi Hoshina, Katsusuka Atobe, and Nobutane  Asari to advance the Uesugi Army’s front line.
+# **The Takeda Army Strikes** - Defeat Nobkado Takeda and Torasada Morozumi.
+# **Gate to the Tiger of Kai** - Defeat Nobutada Anayama and Masatomo Aiki to open the Takeda Main Camp gate.
+# **Provisions Go Unprovided (Bonus)** – Hurry and defeat Masatoyo Naitō to prevent the enemy from transporting their provisions. (2 mins.)
+# **The Sounds of Warhorses (Bonus)** – Defeat all the cavalry captains. [Defeat the Gatekeeper Captain by the Yellow X on the map leading to the Northwestern area before they move on their own, if the lower left Red X is gone this bonus objective and the later ones will no longer appear. Additionally when this objective gets triggered via dialogue don’t complete it before it pops up.]
+# **The Schemer (Bonus)** – Defeat Masanobu Kōsaka and Nobuari Oyamada.
+# **Nobushige’s Plan (Special)** – Defeat Nobushige Takeda to stop the ambush.
++++ Chapter 3 The Morning Star
+++++ 3-1 Battle of Northern Ōmi
+Playable: **Mitsuhide Akechi**
+# **The Oda’s First Kill** – Defeat Toshiie Maeda, Nobumori Sakuma and Yoshinari Mori, and prevent Kiyosada Amenomori and Naotsune Endō from being taken out.
+# **Intelligence Operations** - Defeat all spy captains to prevent their advance. (1 min)
+# **Buying Time** – Defeat Hideyoshi Hashiba to advance toward the Oda Main Camp.
+# **You’ll Be Facing Me!** – Defeat Oichi and Hidekatsu Fukuzumi to capture the Oda Main Camp.
+# **Plans for a Vacant Castle** – Defeat Hanbei Takenaka and the captains o the guard to advance.
+# **Two Who Stand Once More** – Defeat Toshiie Maeda and Hideyoshi Hashiba.
+# **The Oda Army Wiped Out (Bonus)** – Defeat the enemy troops in the Western Garrison. (200, 2 mins)
+# **The People of Mino (Bonus)** – Defeat Nō, Ittetsu Inaba, and Bokuzen Ujiie, and prevent Toshimitsu Saitō from being taken out.
+# **The Results of Training (Mitsuhide Akechi Bonus)** – Mitsuhide Akechi must defeat Nobunaga Oda with a Musou Attack.
+# **The Devil Shibata Marches (Special)** – Defeat Katsuie Shibata to prevent the calvary’s attack. (2 mins)
+++++ 3-2 Battle of Kannonji Castle
+Playable: Nobunaga Oda, **Mitsuhide Akechi**, Hideyoshi Hashiba, Ieyasu Tokugawa, Nagamasa Azai, Nō, Toshiie Maeda, Katsuie Shibata, **Oichi**, Toshimitsu Saitō, Shikanosuke Yamanaka, Hanbei Takenaka
+This stage has 14 objectives, but the most that can be counted at once is 12. **For His Protection** & **A Show of skill** are Oichi exclusive while **The Skilled Men of Rokkaku** & **What Must Be Protected** require her not to be chosen.
+# **A Stepping Stone to Kannonji Castle** - Defeat Katamori Shindō, Shigemochi Mikumo, and Kimio Fuse to capture the Kannonji Castle.
+# **Seizing Mitsukuri Castle** - Defeat Tomomichi Iwanari and Shigemasa Yoshida to capture Mitsukuri Castle.
+# **Attack of the Ninja** - Defeat Mitsuki, and prevent Yoshiaki Ashikage from being taken out.
+# **The Mysterious Assassin** - Defeat Kazuuji Nakamura to dispel the Oda Army’s confusion.
+# **Seizing Wadayama Castle** - Defeat Nagayasu Myoshi, and Jibunotaifu Tanaka to capture Wadayama Castle.
+# **Elimination** – Defeat all of Kazuuji Nakamura’s doubles to advance toward Kannonji Castle.
+# **The Fruits of Labor (Mitsuhide Akechi Bonus)** – Mitsuhide Akechi must work with Nobunaga Oda to defeat the enemy troops. (100)
+# **What Must Be Protected (Bonus)** – Defeat the enemy troops to rescue Yoshiaki Ashikaga. (100) [Stay near Yoshiaki, after Kenshin appears and **A Stepping Stone to Kannonji Castle** are cleared wait for him to mention Yoshiaki is the rightful heir to the Shogunate. Must not have Oichi as a chosen character.]
+# **Enemy Attack from the North (Bonus)** – Defeat Sadahide Gamō and Katahide Gamō.
+# **Enemy Attack from the Center (Bonus)** – Defeat Masakatsu Miyoshi and Nagafusa Shinohara.
+# **A Desperate defense at Mitsukuri Castle (Bonus)** – Defeat Yoshiharu Rokkaku, Sadatake Hirai, and Sanefusa Ogura to prevent Mitsukuri Castle from being recaptured.
+# **The Skilled Men of Rokkaku** - Defeat Yoshisada Rokkaku, Sadakage Namazue, and Takaharu Gotō to assist your allies’ advance.
+# **For His Protection (Oichi Bonus)** – Oichi must defeat Yoshisada Rokkaku and his allies, and prevent Nagamasa Azai from being taken out.
+# **A Show of Skill (Oichi Special)** – Oichi must defeat the enemy troops, and prevent Yoshiaki Ashikage from being taken out. (100, 3 mins)
+++++ 3-3 Revival of the Amago Clan
+Playable: (Main only) Shikanosuke Yamanaka | (Partner only) Mitsuhide Akechi, Toshimitsu Saitō
+# **To Hananodan** - Defeat Hiroshige Katsura and Motosuke Kunishi to capture Hananodan.
+# **Katsuhisa in Peril** - Don’t let Takashige Amano and the spearmen approach Katsuhisa Amago.
+# **Clearing Out the Back Road** - Escort the engineers to the Main Ward.
+# **A Blade That Won’t Hit True** - Defeat Motoharu Kikkawa and his allies.
+# **Aiding a Retreat** - Defeat Hajime Watanabe and Hirohide Asonuma, and prevent Hidetsuna Yokomichi and Takamitsu Yokomichi from being taken out.
+# **A Rain of Arrows** - Defeat Takakage Kobayakawa and his allies to lower the drawbridge.
+# **Striking from the Rear (Bonus)** – Defeat the enemy troops in the Okomoriguchi Garrison. (100)
+# **Ambush - (Bonus)** – Defeat all the spy captains. (3, 2 mins)
+# **Those Who Long for the Amago (Special)** – Defeat Narihide Kodama, Narikata Kodama, and Morishige Sugihara, and prevent the peasants from being taken out.
+++++ 3-4 Battle of Rokujō
+Playable: Mitsuhide Akechi, Hideyoshi Hashiba, **Hisahide Matsunaga**, **Mitsuki**, Toshimitsu Saitō, Hanbei Takenaka, Kazuuji Nakamura.
+# **Defending Honkokuji** - Defeat the enemy troops attacking Honkokuji. (200)
+# **Messenger Dispatch** - Escort the messengers to the target point.
+# **Covert Aggression** - Defeat Yoshiharu Rokkaku and his allies, and prevent Yoshiaki Ashikaga from being defeated.
+# **The Shōgun’s Assault** - Prevent Tatsuoki Saitō and his allies from approaching Yoshiaki Ashikaga.
+# **Prepare the Fire Attack** - Defeat the Captains of the Guard in the shopping district to prepare a fire attack.
+# **The Spirited Kunoichi (Mitsuki Bonus)** – Mitsuki must defeat the enemy troops with a Musou Attack. (100, 2 mins)
+# **The Shōgun’s Bodyguard (Bonus)** – Defeat Kagetaka Yamaoka and Sadakaga Namazue, and prevent Fujihide Mitsubuchi from being taken out.
+# **Vengeance for my Father (Bonus)** – Defeat Tatsuoki Saitō.
+# **Purging the Impure (Hisahide Matsunaga Bonus)** – Hisahide Matsunaga must defeat the enemy troops. (200)
+# **Inverted Attack (Special)** – Defeat Nagaharu Miyoshi and his allies so that Nobunaga Oda and his allies can advance.
++++ Chapter 4 Resolve
+++++ 4-1 Battle of Kanegasaki
+Playable: Mitsuhide Akechi, Hideyoshi Hashiba, Mitsuki, Toshimitsu Saitō, Hanbei Takenaka
+# **Making a Way Out** - Defeat the enemy troops so that Nobunaga Oda and Nō can retreat. (200)
+# **Clear a Path to Safety** - Defeat Kageakira Asakura and Kagetada Asakura so that Nobunaga Oda and Nō can retreat.
+# **A Sister’s Decision** - Defeat Oichi and Katsuie Shibata so that Nobunaga Oda and Nō can retreat.
+# **Yoshikage Marches Forth** - Defeat Yoshikage Asakura.
+# **The Asakura’s Ambush** - Defeat Kageyoshi Asakura, Kagechika Torii, and Nagashige Toda.
+# **The Azai’s Attack** - Defeat Masamoto Azai and his allies to open the Azai Main Camp gate. (5, 5 mins)
+# **Those Hiding in the Shadows (Bonus)** – Defeat the spy captains.
+# **Securing the Defensive Garrison (Bonus)** - Defeat Kunisada Mitamura to capture the Western Garrison.
+# **Though Not Yet United (Bonus)** – Convince Hidemura Hori and Naofusa Higuchi to defect to the Oda Army by defeating them.
+# **Leave No One Behind (Special)** – Defeat Yoshiie Yamazaki and his allies, and prevent Kazumasu Takigawa from being taken out.
+++++ 4-2 The Scorching of Mt. Hiei
+Playable: **Nobunaga Oda**, **Mitsuhide Akechi**, Hideyoshi Hashiba, Mitsuki, Toshiie Maeda, Toshimitsu Saitō, Hanbei Takenaka, Kazuuji Nakamura.
+This stage has 9 objectives, but the most that can be counted at once is 8. Sworn Foe is Nobunaga Oda exclusive while Incoming Bullet requires him not to be chosen.
+# **The Path to the Blaze** - Defeat Morishige Tsuchibashi, Genzō Matsuda, and Yoshitsugu Kitsunejima to execute a fire attack.
+# **The Fire Attack Preparations** - Defeat the enemy troops surrounding the Northwestern Temple to execute a fire attack. (200)
+# **The Saika Mercenaries’ Blockade** - Defeat Yoshimasa Oka, Shigetaka Tsuchibashi, and Shigeharu Tsuchibashi to execute a fire attack.
+# **The Uesugi’s Vanguard** - Defeat Kagemochi Amakasu and his allies to execute a fire attack.
+# **Looming Danger** - Defeat Akinaga Irobe and Nagazane Irobe to protect the Oda Main Camp.
+# **Try Harder! (Bonus)** – Defeat the enemy troops surrounding the Northeastern Temple to weaken the Sanmon Mercenaries. (200)
+# **Suspicious Movements (Bonus)** – Defeat the fireball soldier squadron and prevent an ambush. [After completing The Fire Attack Preparations keep that character near the Northwest corner.]
+# **Sworn Foe (Nobunaga Oda Bonus)** – Nobunaga Oda must defeat Magoichi Saika before his health drops below 50 percent. 
+# **The Saika Mercenaries’ Pride (Bonus)** – Defeat Saburō Kurimura and Yosaburō Sakai, and prevent an attack on the Oda Army.
+# **Proof of Conviction (Mitsuhide Akechi Bonus)** – Mitsuhide Akechi must defeat Kenshin Uesugi with a Musou Attack.
+# **Incoming Bullet (Special)** – Don’t let Magoichi Saika approach Nobunaga Oda. [Must not have Nobunaga Oda as a chosen character.]
+++++ 4-3 Battle of Makishima Castle
+Playable: Nobunaga Oda, Mitsuhide Akechi, Mitsuki, Toshimitsu Saitō, Hanbei Takenaka, Kazuuji Nakamura.
+# **The Path to Makishima Castle** - Defeat Tomomichi Iwanari and Fujikata Hosokawa to open the gate to Makishima Castle.
+# **Breaching the Outer Gates** - Defeat the enemy troops surrounding Makishima Castle to open the Makishima Castle gate. (200)
+# **Mitsubuchi’s Resolve** - Defeat Fujihide Mitsubuchi.
+# **Tracking down Magoichi** - Find and defeat Magoichi Saika.
+# **Crushing the Saika Mercenary Base** - Defeat all the Captains of the Guard to prevent the appearance of the Saika Mercenary Officers.
+# **The Castle Stained Crimson** - Escort Sandayū Momochi to Makishima Castle, and get ready for a fire attack.
+# **The Threat Lurks Behind (Bonus)** – Defeat Terusuke Hino. [Approach the Northern area instead of going for Fujikata Hosokawa with the partner character.]
+# **Truth Shrouded in Gunsmoke (Bonus)** – Defeat the Saika Mercenary Rifle Captains.
+# **Momochi’s Escort (Special)** – Hurry and defeat the Saika Mercenaries while they’re still far away! Don’t let them get near Sandayū Momochi.
+++++ 4-4 Battle of Tonezaka
+Playable: Nobunaga Oda, **Mitsuhide Akechi**, Hideyoshi Hashiba, Hisahide Matsunaga, **Mitsuki**, Toshimitsu Saitō, Hanbei Takenaka, Kazuuji Nakamura, Sandayū Momochi.
+This stage has 11 objectives, but the most that can be counted at once is 10. **Mitsuki Fights** is Mitsuki exclusive while **For the Ninja** requires her not to be chosen.
+# **Prepare to Defect** - Make Yoshitsugu Maeba defect by defeating Yoshinobu Kanemaki and Naganori Yamazaki.
+# **A Steel Defense** - Defeat the enemy troops surrounding Ichijyōdani Castle. (200)
+# **The Uesugi’s Raid** - Prevent Kagmochi Amakasu and his allies from infiltrating the Oda Main Camp.
+# **No Asakura Shall Survive** - Defeat Kageyuki Asakura and Kageakira Takahashi.
+# **The God of War’s Stratagem** - Defeat Tomonubu Saitō, Nagahide Yasuda, and Kagetsugu Amakasu, and prevent Kazumasu Takigawa and Nobumori Sakuma from being taken out.
+# **For the Ninja (Bonus)** – Defeat Tatsuoki Saitō and Michitoshi Nagai, and prevent Mitsuki from being taken out.
+# **Mitsuki Fights (Mitsuki Bonus)** – Mitsuki must defeat Tatsuoki Saitō and Michitoshi Nagai with Musou Attacks.
+# **A Necessary Farewell (Mitsuhide Akechi Bonus)** – Mitsuhide Akechi must defeat Yoshikage Asaukura with a Musou Attack.
+# **Where the Attack Starts (Bonus)** – Defeat the enemy troops to capture the Northwestern Garrison. (200)
+# **Not Even Gods Are Sacred (Bonus)** – Defeat Nagaatsu Shibata and Nagachika Kawada to advance the riflemen.
+# **With a Traitor by Your Side (Special)** – Escort Kageakira Asakura to the Uesugi Main Camp.
+++++ 4-4 Battle of Odani Castle
+Playable: Mitsuhide Akechi, Hideyoshi Hashiba, Hisahide Matsunaga, Mitsuki, Toshimitsu Saitō, Hanbei Takenaka, Kazuuji Nakamura, Sandayū Momochi.
+# **Blood-Stained Yamazakimaru** - Defeat the enemy troops to set fire to Yamazakimaru. (100)
+# **Capturing the Southern Garrison** - Defeat Kunisada Mitamura to capture the Southern Garrison.
+# **Breaking through the Southern Lines** - Defeat Ujitane An’yōji and Hidetoshi Ōnogi to clear a path.
+# **Momochi’s Plan** - Defeat Naoyori Nakajima and Naochika Nakajima while protecting the fireball captains.
+# **He Who Stands in the Way** - Defeat Oichi and her allies to capture Ōzuku Garrison.
+# **The Guardians of Kingomaru** - Defeat Katsuie Shibata and the shield soldiers to capture Kingomaru.
+# **Nobunaga in Danger** - Defeat Kazumasa Isono and his allies before they approach Nobunaga Odai.
+# **The Massacre at Kyōgokumaru** - Defeat Tsunachika Kaihō and his allies to set fire to Kyōgokumaru.
+# **Breaking through the Guard Post** – Defeat the enemy troops at the guard post in order to mount a swift attack. (100)
+# **Unwavering Resolve** - Defeat Oichi and Katsuie Shibata.
+# **Hidden in the Garrison (Bonus)** – Defeat the spy captains hiding in the garrison. [Approach the garrison North of the Partner’s starting position from the Left to trigger.]
+# **Allied Reinforcements Arrive (Bonus)** – Defeat the enemy troops in the External Ward so the allied reinforcements can be brought in. (100, 2 mins.)
+# **Rendezvous with Nobunaga (Bonus)** – Defeat Katsumoyo Katagiri and the spear captains to rendezvous earlier than planned. (2 mins.)
+# **Mitsuki’s Progress (Special)** – Defeat Masamoto Azai and Kiyotsuna Akao while protecting the spy captains. [Despite being listed last this can be triggered at the same time as Momochi’s Plan when you approach these officers.]
++++ Chapter 5 A Crescent Moon
+++++ 5-^1 Invasion of Tanba
+Playable: Mitsuhide Akechi | Shikanosuke Yamanaka (Mid stage)
+# **Capturing the Southeast** - Defeat Masatsuna Shige and Mitsuyoshi Hōkabe.
+# **Guardians of the Garrison** - Defeat Hideharu Hatano.
+# **A Call for Reinforcements** - Defeat the guard captains to capture the garrison.
+# **Hatano’s Trap** - Defeat Hideharu Hatano and his allies to rescue Mitsuki.
+# **Final Battle with the Blue Demon of Tanba** - Defeat Norinari Momii.
+# **Capturing the Center** - Defeat Mitsunaga Adachi and his allies. (4, 2 mins.)
+# **A Quiet Determination** - Defeat Tadaie Akai and Yukiie Akai.
+# **Scouts Detected (Bonus)** – Prevent the messenger from reaching the escape point.
+# **Those without Power (Bonus)** – Defeat the peasants to prevent the enemy from transporting their provisions.
+# **The Akai Army’s Strategy (Bonus)** – Defeat Tokiie Akai to prevent the arrival of enemy reinforcements.
+# **A Shining Spear in the Back (Special)** – Defeat Nobumasa Sakai and Suruganokami Kimura.
+++++ 5-^2 Battle of Shigisan Castle
+Playable: Nobunaga Oda, Mitsuhide Akechi, Hideyoshi Hashiba, Mitsuki, Toshimitsu Saitō, Shikanosuke Yamanaka, Hanbei Takenaka, Kanbei Kuroda
+# **Path to the Southern Gate** - Advance toward the South Gate to infiltrate Shigisan Castle.
+# **Silencing the Matsunaga Army** - Infiltrate the Northern Garrison, and draw attention by defeating the enemy troops. (200)
+# **Nobutada in Trouble** - Defeat Ieyasu Shidei, Kunimitsu Shiokawa, and HIdekatsu Yamaguchi to rescue Nobutada Oda.
+# **A Storehouse under Fire** - Prevent the fireball captains from reaching the storehouse to protect your allies’ provisions.
+# **The Guards at the Castle Gates** - Defeat Muneyoshi Yagyū, Tomokiyo Ebina, Hideshige Kawarabayashi, and Kunitaka Oka.
+# **The Matsunaga Army Gets Serious** - Defeat Masanobu Honda and Hisamichi Matsunaga to advance into Shigisan Castle.
+# **Stopping the Matsunaga Army Reinforcements (Bonus)** – Defeat Hidemitsu Mori. (1 min)
+# **A Message Interrupted (Bonus)** – Defeat Yoshihisa Mori to stop the message from reaching the Southwestern Garrison.
+# **Fake Messenger Knocking at the Southern Gate (Bonus)** – Now that he has defected, escort Yoshihisa Mori to the South Gate.
+# **The Same Beat (Special)** – Defeat Tadamasa Yūki and Tadataka Okuda. (2 mins) [During **Path to the Southern Gate** approach these officers from the Gate Captain near the Yellow X on the right.]
+++++ 5-^3 Battle of Kōzuki Castle
+Playable: (Main only) Mitsuhide Akechi | (Partner only) Hideyoshi Hashiba, Mitsuki, Toshimitsu Saitō, Hanbei Takenaka, Kazuuji Nakamura.
+# **The Main Camp as Bait** - Defeat Michiyoshi Kuchiba, Motosuke Kunishi, and Motosuke Hiraga. (2 mins)
+# **While the Officers Are Away...** - Defeat the enemy troops to capture the Northeastern Garrison. (100)
+# **Prepare Yourself, Amago Deer!** - Defeat Hiroie Kikkawa and Tadaie Ukita to prevent Shikanosuke Yamanaka from being taken out.
+# **Enemy Reinforcements Storming In** - Defeat Morishige Sugihara and his allies to prevent Kazumasu Takigawa and Nagahide Niwa from being taken out.
+# **Motoharu Interferes** - Defeat Motoharu Kikkawa, Narinaga Hayashi, and Mototada Kamiyama.
+# **To Be Called a Rifleman (Bonus)** – Prevent Naoie Ukita from reaching the target point.
+# **Shikanosuke Serves His Lord (Bonus)** – Work with Shikanosuke Yamanaka to defeat the enemy troops. (200, 2 mins)
+# **The Unrelenting Mōri Army (Special)** – Prevent Hajime Watanabe and Motonaga Masuda from approaching Kazumasu Takigawa and Nagahide Niwa.
+[If you defeat them before this triggers the objective will not pop up.]
+++++ 5-^4 The Subjugation of Harima
+Playable: Mitsuhide Akechi, **Toshimitsu Saitō**
+# **An Ambush Out of Nowhere** - Defeat Masakore Kushihashi and Motosuke Hiraga to rescue Nobutada Oda.
+# **A Diverted Diversion** - Defeat Nagashige Nagai and Harutada Miyake to prevent them from infiltrating.
+# **The Devoted Oda Army** - Defeat Motoyasu Shiji and Yasuaki Miki to prevent Tamezumi Reizei from being taken out.
+# **In Hot Pursuit** - Defeat Yoriharu Uozumi, Ichisuke Tsumura, and Fujikane Masuda to assist Hideyoshi Hashiba.
+# **A Strategic Capture** - Defeat Sadanori Ōgo and Harusada Bessho to capture Ōgo Castle.
+# **Miki’s Lifeline** - Defeat Yorisada Kanki and the supply uniy to prevent the transport of supplies to Miki Castle.
+# **Mōri’s Rescue** - Prevent Motosugu Shishido, Hajime Watanabe, and Hiroshige Katsura from reaching Miki Castle.
+# **The Shorthanded Main Camp (Bonus)** – Prevent Kageyuki Kajiwara from infiltrating the Oda Main Camp.
+# **A Swift Slice (Toshimitsu Saitō Bonus)** – Toshimitsu Saitō must defeat Norikage Kinusaga and Michiaki Miki.
+# **The Impossible Infiltration (Special)** – Defeat Motoharu Kikkawa and Terumoto Mōri.
+++++ 5-^5 The Iga’s Revolt
+Playable: Mitsuhide Akechi, Toshimitsu Saitō
+# **Breaching Amagoiyama Castle** - Defeat Seibei Machii, Daizen Funō, and Masayasu Fujibayashi.
+# **The Spreading Flames** - Defeat Sakyō Koizumi and Mitsutsugu Ueda are commanding the flame archer squadron. Hurry and defeat them. (2 mins)
+# **Breaching Hijiyama Castle** - Shōgen Fukukita and Tōbei Momota are commanding the flame archer squadron. Hurry and defeat them.
+# **The Iga Army’s Trap** - Defeat all the fireball captains to minimize ally losses.
+# **Mitsuki Turns Her Back** - Work with Kazuuji Nakamura to defeat Mitsuki.
+# **Visions of a Comrade** - Defeat the phantoms of Shikanosuke Yamanaka and Nagamasa Azai.
+# **Stopping the Spy Captain Attack (Bonus)** – Defeat all the spy captains to prevent an attack. (3, 2 mins.)
+# **Capturing the Western Garrison (Bonus)** – Defeat Sukezaemon Nakabayashi and Chūbei Tomioka to capture the Western Garrison.
+# **The Ninja’s Secret Maneuvers (Bonus)** – Defeat all the Spy Captains.
+# **Targeting Ieyasu (Special)** – Kamonnosuke Taya and the siege captains are after Ieyasu Tokugawa. Defeat them.
+++++ 5-v1 Escape from Odaka Castle
+Playable: Shikanosuke Yamanaka
+# **Meet Motomichi Jinzai** - Defeat Haruyoshi Kuchiba and Munekatsu Nomi before Motomichi Jinzai is taken out.
+# **Courtyard Diversion** - Defeat Hirohide Asonuma, Nobubao Kumagai, and Motohide Akagawa to split up the enemy forces in the courtyard.
+# **Bringing down the Defense** - Defeat Takakage Kobayakawa and the surrounding officers to break through the courtyard.
+# **Bursting through the Corridor** - Defeat the archer captains to break through the corridor.
+# **The Genius’s Gambit** - Defeat the fake Hisanori Moriwaki, Michiyoshi Kuchiba, and Sadatoshi Fukuhara.
+# **Breaking the Three Arrows** – Defeat Takakage Kobayakawa, Motoharu Kikkawa, and Terumoto Mōri.
+# **Hunted Deer (Bonus)** – Defeat Fujikane Masuda and Motosuke Hiraga to escape from your imprisonment.
+# **Rendezvous with Tsunahiro Yonebara (Bonus)** – Defeat Naoyuki Koi and Narikata Kodama to rescue Tsunahiro Yonebara.
+# **Rendezvous with Munenobu Akikage (Bonus)** – Defeat Takanao Kumagi to rescue Munenobu Akikage.
+# **Watch Your Back (Bonus)** – Defeat Kunaishōyu Niizato to stop the ambush.
+# **The Amago United (Special)** – Reach the escape point with all your comrades.
+++++ 5-v2 Battle of Shigisan Castle Matsunaga Army
+Playable: Hisahide Matsunaga
+# **Sweeping the Front Line** - Shikanosuke Yamanaka and his allies have taken up their position on the front line. Defeat them.
+# **Fire Is My Forte** - Escort the fireball soldiers to the Eastern Garrison.
+# **A Golden Opportunity** - Defeat Nobutada Oda before the drawbridge is lowered. (1 min)
+# **Till the Castle Gates Open** - Defeat the enemy troops surrounding Kataoka Castle. (300)
+# **Impenetrable Gates** – Defeat Hideyoshi Hashiba and his allies.
+# **Shigiyama Castle Sealed Tight** - Defeat Toshimitsu Saitō, Nagachika Kanamori, and Yoritaka Hachiya.
+# **The Concealed Oda Ninja (Bonus)** – Defeat Kazuuji Nakamura before he can advance. (2 mins)
+# **Boosting Morale (Bonus)** – Defeat Hanbei Takenaka to stop the reinfocements. (1 mins)
+# **Punishment Most Foul (Bonus)** – Defeat Yoshihisa Mori and Shigenobu Matsukura.
+# **Elevated Spectacle (Special)** – Defeat Sandayū Momochi.
+++++ 5-v3 Battle of Kōzuki Castle Mōri Army
+Playable: (Main only) **Motonari Mōri** | (Partner only) Takakage Kobayakawa, Motoharu Kikkawa
+# **Invasion of Kōzuki Castle** - Defeat Ujijisa Amago and his allies protecting Kōzuki Castle.
+# **Conserving Strength** - Defeat the surrounding enemy troops to rescue Motosuke Hiraga and Michiyoshi Kuchiba. (200)
+# **Crushing Antlers** - Defeat Shikanosuke Yamanaka.
+# **Like a Moth to the Flame** - Defeat Nobumori Sakuma and his allies.
+# **How the Oda Abandoned the Amago** - Don’t let the Oda Army officers reach the escape point.
+# **A Rude Awakening** - Defeat Katsuhisa Amago before Shikanosuke Yamanaka arrives.
+# **Without Supplies (Bonus)** – Prevent the supply captains from reaching the Northeastern Garrison. [During Crushing Antlers stay by the garrison Shikanosuke came from to catch the supply captains.]
+# **The Enemy from the South (Bonus)** – Defeat Fujitaka Hosokawa before he can advance. (1 min) [Don’t complete Like a Moth to the Flame before he starts advancing or he’ll leave losing this objective.]
+# **A Fated End (Motonari Mōri Bonus)** – Motonari Mōri muse defeat Shikanosuke Yamanaka with a Musou Attack.
+# **Do or Die (Special)** – Defeat Mitsuhide Akechi and Hideyoshi Hashiba before they can retreat. (3 mins)
++++ Chapter 6 Eternal Rain
+++++ 6-^1 The Incident at Honnōji
+Playable: Mitsuhide Akechi, Toshimitsu Saitō
+# **The Siege at Honnōji** - Defeat the enemy troops to lay siege to Honnōji. (300)
+# **The One to slay Nobunaga Will Be...** - Defeat Sandayū Momochi.
+# **Holding the Line** - Defeat Shinsuke Mōri and his allies to prevent Hidemitsu Akechi and Kunitsugu Yasuda from being taken out.
+# **Enduring Boldness** - Defeat Nobunaga Oda.
+# **Striking with All One’s Might** - Defeat Yasuke and his allies.
+# **Fight until the Very Last** - Defeat Mitsuki.
+# **Explosive Gunpowder (Bonus)** – Defeat all the spy captains.
+# **The Enemy of My Enemy Is also My Enemy (Bonus)** – Defeat all the cannon captains.
+# **No One Can Stop Me (Bonus)** – Defeat Nobutada Oda and his allies.
+# **A Sharpened Blade (Bonus)** – Defeat Nobunaga Oda. (1 min.) [As Mitsuhide deplete 1 health bar from Nobunaga and wait for this objective to appear, depleting his second bar before this will complete the stage losing the objective.]
+# **Preparing for a New Era (Special)** – Conserve your military strength by claiming victory without allowing your allied officers to be defeated.
+++++ 6-^2 Battle of Yamazaki
+Playable: **Mitsuhide Akechi**, **Mitsuki**
+# **Striking Back** - Defeat Hidenaga Hashiba, Kiyohide Nakagawa, and Shigekore Kimura to push forward the front line.
+# **Advancing the Line** - Work with Sadaoki Ise and his allies to defeat Kazuuji Nakamura and his allies.
+# **Traversing the River** - Stop Kanbei Kuroda and his allies from crossing the Enmyoji River.
+# **Head to the Main Camp** - Defeat the enemy troops near the Hashiba Main Camp. (300, 5 mins.)
+# **Kanbei’s Strategy** - Defeat Nagahide Niwa and his allies protecting the Hashiba Main Camp.
+# **Kazuuji’s Resolve** - Defeat Kazuuji Nakamura nad Hidetsugu Hashiba to advance toward the Mt. Tennō Summit.
+# **Thwarting the Raid (Bonus)** – Defeat all the spear captains.
+# **Challenge from Mt. Tennō (Bonus)** – Defeat Tsuneoki Ikeda and Ukon Takayama.
+# **Mitsuki’s Resolve (Mitsuki Bonus)** – Mitsuki must defeat Kazuuji Nakamura.
+# **Breaking the Trigger (Bonus)** – Defeat all the rifle captains.
+# **The One Who Rules over the Land (Mitsuhide Akechi Bonus)** – Mitsuhide Akechi must defeat Hideyoshi Hashiba with a Musou Frenzy Attack.
+# **Revenge (Special)** – Defeat Kanbei Kuroda.
+++++ 6-v Battle of Yamazaki Hashiba Army
+Playable: **Hideyoshi Hashiba**, **Kanbei Kuroda**, **Kazuuji Nakamura**
+This stage has to be played twice as each character has their own unique Bonus objective.
+# **Crossing the River** - Defeat the enemy troops surrounding the Southern Garrison so you can cross the river. (200)
+# **Capturing Mt. Tennō** - Defeat Sadayuki Atsuji and Masachika Matsuda to capture the garrison at the foot of Mt. Tennō.
+# **The Akechi Army Strikes** - Defeat Toshimitsu Saitō, Katsusada Shibata, and Kaneaki Mimaki.
+# **A Loyal Retainer’s Resolve** - Defeat Toshimitsu Saitō to escape from Shōryōji Castle.
+# **Inferior Numbers** - Prevent Hirotada Tsumaki and his allies from infiltrating the Hashiba Main Camp.
+# **Turning the Tables** - Defeat Toshimune Saitō and Sadaoki Ise to call in the drum corps.
+# **The Last Barrier** - Defeat Dengo Fujita, Mitsutada Akechi, and Mitsuki.
+# **Hiding in the Shadows (Bonus)** – Defeat Shigetomo Mizoo and Sadatsura Shiji. [They are located in the Yellow X’s on the map, there are Gatekeeper # **Captains on the outside you must defeat to open their garrison, this is lost if not done before **The Akechi Army Strikes**.]
+# **Precautionary Measures (Kanbei Kuroda Bonus)** – Kanbei Kuroda must defeat Yasuie Namikawa and Morinao Suwa to capture the garrison. (2 mins.)
+# **Raining Lead (Bonus)** – Defeat all the rifle captains.
+# **Traitor (Bonus)** – Defeat Kiyohide Nakagawa and Ukon Takayama.
+# **Division (Kazuuji Nakamura Bonus)** – Kazuuji Nakamura muse defeat Mitsuki.
+# **Courage (Hideyoshi Hashiba Special)** – Hideyoshi Hashiba must defeat Mitsuhide Akechi with a Musou Frenzy Attack.
+++ Reverie
++++ ^1 Annihilation at Okehazama
+Unlock: Clear Nobunaga’s Path
+Playable: (Main only) **Yoshimoto Imagawa** | (Partner only) Sena, Motonobu Okabe
+# **Preparing to Counter** - Defeat Hidetoshi Oda and Moroshige Sakuma to capture the Washizu Garrison and Marune Garrison.
+# **At the Top of the Okehazama Mountain**s - Defeat Katsuie Shibata and his allies, and prevent the ambush on Dengakuhazama.
+# **Oda or Imagawa?** - Defeat Toshiie Maeda and his allies, and prevent Ieyasu Tokugawa and his allies from being taken out.
+# **Onwards to Kutsukake Castle** - Defeat Kyōsuke Hasegawa and Tōhachi Sawaki to open the Southern Checkpoint.
+# **A Fool’s Errand** - Defeat Hideyoshi Hashiba and his allies to prevent a pincer attack.
+# **Readying the Defense (Bonus)** – Escort the supply soldiers to Dengakuhazama.
+# **Who’s in Charge (Bonus)** – Defeat Narimasa Sassa and Tsuneoki Ikeda to throw the enemy into disorder.
+# **To Die as a Fool (Yoshimoto Imagawa Bonus)** – Yoshimoto Imagawa must defeat Nobunaga Oda with a Musou Frenzy Attack.
+# **The Oda’s Ambush (Special)** – Defeat the enemy troops at Zenshōji Garrison, and prevent Naomori Ii from being taken out. (200)
++++ ^2 Match in Eiroku
+Unlock: Clear Annihilation at Okehazama
+Playable: (Main only) Yoshimoto Imagawa, Shingen Takeda, Kenshin Uesugi, Motonari Mōri | (Partner only) Magoichi Saika
+This stage has to be played twice for all objectives as each main character has 1 objective they will not trigger.
+# **A Little Test** - To win the first match, defeat the Ashikaga Army Troops. (300, 3 mins.)
+# **Caught Up** - To win the second match, defeat Nagamasa Azai and his allies.
+# **Find That Ninja!** - To win the third match, find and defeat Mitsuki and Kazuuji Nakamura. (7 mins.)
+# **Uninvited Guests** - Strike down Hisahide Matsunaga and Hisamichi Matsunaga for their sudden intrusion.
+# **Introducing the Vice-Shōgun** - Terumoto Mōri and Motoharu Kikkawa are acting under Motonari Mōri’s orders. Defeat them. [Doesn’t trigger if playing as Motonari Mōri.]
+# **Taking Care of the Vice-Shōgun** - Defeat Katsuyori Takeda, Masakage Yamagata, and Masanobu Kōsaka are acting under Shingen Takeda’s Orders. Defeat them.[Doesn’t trigger if playing as Shingen Takeda.]
+# **An Audience with the Vice-Shōgun** - Ieyasu Tokugawa, Hanzō Hattori, and Tadakatsu Honda are acting under Yoshimoto Imagawa’s orders. Defeat them. [Doesn’t trigger if playing as Yoshimoto Imagawa.]
+# **To the Vice-Shōgun** - Tomonobu Saitō and his allies are acting under Kenshin Uesugi’s orders. Defeat them. [Doesn’t trigger if playing as Kenshin Uesugi.]
+# **Battle Flow (Bonus)** – Defeat Mitsuhide Akechi, Nagamasa Azai, and Yoshikage Asakura consecutively. (2 mins.)
+# **An Offering for the Shōgun (Bonus)** - Defeat the thieves, and prevent the supply unit from being taken out. [Have the partner meet with the Yellow units that appear during Caught Up and switch to them to trigger it.]
+# **Self-Preservation (Bonus)** – Defeat Hisahide Matsunaga without allowing Yoshiaki Ashikaga’s health to drop below 50 percent.
+# **In the Heat of the Moment (Bonus)** – Defeat the Miyoshi Triumvirate, and prevent Yoshiaki Ashikaga from being taken out.
+# **Unparalleled Power (Special)** – Put those enemy officers in their place by defeating them with a Musou Attack. (5)
++++ ^3 The Iga’s Great Uprising
+Unlock: Clear Mitsuhide’s Path
+Playable: Sandayū Momochi
+# **Capturing Maruyama Castle** -Defeat Toshimitsu Saitō and Hidemitsu Akechi to capture Maruyama Castle.
+# **Capturing Hijiyama Castle** - Defeat Nagahide Niwa and Kazumasa Takigawa to capture Hijiyama Castle.
+# **Unmasking the Illusion** - Defeat Mitsuki to stop Hisahide Matsunaga’s phantom from disappearing. (3 mins)
+# **Kazuuji’s Ambush** - Defeat Kazuuji Nakamura and his allies, and prevent Hisahide Matsunaga from being taken out.
+# **Defeat Mitsuhide!** - Defeat Mitsuhide Akechi.
+# **Opening the Maruyama Castle Gates (Bonus)** – Escort the fireball squadron to the construction point without defeating the Murayama Castle Gatekeeper Captain.
+# **Opening the Hijiyama Castle Gates (Bonus)** – Defeat the surrounding enemy troops without defeating the Hijayama Castle Gatekeeper Captain. (200, 2 mins)
+# **A Ninja Provokes (Bonus)** – Defeat Tsuneoki Ikeda, Yoritaka Hachiya, and Nagamasa Asano. (2 mins)
+# **Hometown Showdown (Bonus)** – Defeat Hanzō Hattori.
+# **Nemesis (Special)** – Defeat Nobunaga Oda. [Clear every objective leaving **Capturing Maruyama Castle** as late as possible then proceed as normal after it to trigger this.]
++++ v1 Final Battle for Kanegasaki
+Unlock: Clear Mitsuhide’s Path
+Playable: (Main only) **Nō** | (Partner only) Nobunaga Oda.
+# **Getting Out of Trouble** - Create a diversion by defeating Kageakira Takahashi, Naozumi Magara, and Yoshinobu Yamazaki.
+# **Raid Preparations** - Defeat Katsuie Shibata and Oichi to assist Mitsuhide Akechi.
+# **All Eyes on Me** - Draw the enemy’s attention by defeating Kageakira Asakura and Nagashige Toda.
+# **Showdown with Yoshikage** - Defeat Yoshikage Asakura.
+# **Slaying Demon Shibata** - Defeat Katsuie Shibata and the Azai Army officers to attack the enemy main camp.
+# **Fleeing the Battlefield** - Prevent Oichi and Nagamasa Azai from rendezvousing.
+# **Rebellion at Odani Castle (Bonus)** – Defeat Kagetsune Asakura and Kagetake Asakura to rescue Hideyoshi Hashiba.
+# **Taking Advantage (Bonus)** – Defeat the enemy troops in the Central Garrison to lower the enemy morale. (100)
+# **From a Chrysalis (Nō Bonus)** – Nō must defeat Hidemura Hori and Masamoto Azai to advance the front line.
+# **Toshiie in Trouble (Bonus)** – Defeat Naotsune Endō to aid Toshiie Maeda.
+# **The Butterfly Soars (Nō Bonus)** – Nō must defeat Magoichi Saika with a Cooperative Musou.
+# **Hanbei’s Brilliant Scheme (Special)** - Protect the messengers to execute a plan. (2 mins.)
++++ v2 Final Battle for Odani Castle
+Unlock: Clear Mitsuhide’s Path
+Playable: **Nagamasa Azai**, **Katsuie Shibata**, **Oichi**, **Yoshikage Asakura**
+Every character has a bonus objective, thus stage will need to be played at minimum twice.
+# **Raid on Kyōgokumaru** - Defeat Hideyoshi Hashiba & Hanbei Takenaka to prevent Hisamasa Azai from being taken out.
+# **The Oda’s Arsonist** - Defeat Sandayū Momochi to stop him from setting fire to Fukujimaru. (2 mins)
+# **Mitsuhide’s Defeat** - Defeat Mitsuhide Akechi.
+# **Asakura Army Reinforcements** - Defeat Hisahide Matsunaga and his allies, and prevent the Asakura Army reinforcements from being taken out.
+# **Toshimitsu’s Ambush** - Toshimitsu Saitō and Ittetsu Inaba are plotting to attack your allies. Defeat them.
+# **The Kōga Ninja’s Ambush** - Defeat Mitsuki and Kazuuji Nakamura to prevent Odani castle Main Ward from falling.
+# **Fighting with Fire (Bonus)** – Defeat the fireball captains to prevent Kunisada Mitamura from being taken out.
+# **Spirit Rally (Oichi Bonus)** – Oichi must defeat the enemy troops to rally your allies. (200)
+# **What Is Strength? (Yoshikage Asakura Bonus)** – Yoshikage Asakura must defeat Mitsuhide Akechi.
+# **Against Toshiie (Katsuie Shibata Bonus)** – Katsuie Shibata must defeat Toshiie Maeda.
+# **Just outside the Oda Main Camp (Special)** – Defeat all the spear captains protecting the Oda Army Main Camp.
+# **A Foe to Vanquish (Nagamasa Azai Bonus)** – Nagamasa Azai must defeat Nobunaga Oda with a Musou Attack.
+# **Azai Army Reinforcements (Special)** – Defeat Narimasa Sassa and Morinari Andō, and prevent Hidetoshi Ōnogi from being taken out.
++++ v3 Final Battle for Kōzuki Castle
+Unlock: Clear Mitsuhide’s Path
+Playable: (Main only) **Shikanosuke Yamanaka** | (Partner only) Hideyoshi Hashiba, Toshimitsu Saitō, Kazuuji Nakamura.
+# **To the Castle** - Defeat Motosuke Kunishi and Takakage Kobayakawa to capture the Northern Garrison and Southern Garrison.
+# **Dominance** - Defeat the enemy troops to advance. (200)
+# **To Save a Friend** - Defeat the rifle captains, and prevent Mitsuhide Akechi from being taken out.
+# **Eyewitness** - Defeat Hajime Watanabe and Narinaga Hayashi, and prevent the peasants from being defeated.
+# **Trap** - Defeat Terumoto Mōri and his allies to assist Mitsuhide Akechi’s advance.
+# **Two Arrows** - Defeat Motoharu Kikkawa and Takakage Kobayakawa.
+# **The Amago’s Bond (Bonus)** – Defeat Michiyoshi Kuchiba, and prevent Michihisa Amago from being defeated.
+# **Death from Above (Bonus)** – Defeat all the archer captains on the cliff to assist your allies’ advance.
+# **Vows Made under the Moon (Shikanosuke Yamanaka Bonus)** – Shikanosuke Yamanaka must defeat Motonari Mōri before Mitsuhide Akechi’s health drops below 50 percent.
+# **Indomitable Spirit (Special)** – Prevent Naoie Ukita and Tadaie Ukita from invading Kōzuki Castle.
++++ v4 Nobuyasu’s Rebellion
+Unlock: Clear Mitsuhide’s Path
+Playable: (Main only) Ieyasu Tokugawa | (Partner only) **Tadakatsu Honda**
+This stage has 11 objectives, but you’re only able to get 10 in Musou Mode, you are required to play in Free Mode for 1 objective.
+# **Buying Time** - Defeat the Takeda Army soldiers. (200)
+# **Bringing Momentum to the Takeda** - Defeat Motonobu Pkabe, Tomokiyo Imafuku, and Yoshimasa Kiso.
+# **Boiling Point** - Prevent Katsuyori Takeda from approaching Nobuyasu Tokugawa.
+# **Non-lethal Blow** - Defeat Nobuyasu Tokugawa.
+# **Get Serious!** - Defeat Sena.
+# **Sena’s Wounds** - Defeat Seibei Machii and his allies, and prevent Sena from being taken out.
+# **I Will Stop the Reinforcements! (Tadakatsu Honda Bonus)** – Tadakatsu Honda muse defeat Mitsukata Nagasaka to stop the Takeda Army reinforcements.
+# **Reinforcements from the Cliffs (Free Mode Bonus)** – Work with Tadakatsu Honda to stop the Takeda Army reinforcements by defeating Mitsukata Nagasaka. [You must not have Tadakatsu Honda as a chosen character in Free Mode to get this objective.]
+# **I’ll Protect Her! (Bonus)** – Achieve victory while keeping Sena’s health above 50 percent. [While not saying it's an Ieyasu objective he needs to be a chosen character to trigger this.]
+# **A Tokugawa Retainer (Bonus)** – Defeat Chūbei Tomioka, and prevent Yasutada Matsudaira from being taken out.
+# **Reluctant Conquest (Special)** – Defeat Kazumasa Ishikawa and Tadatsugu Ina to capture the Nobuyasu Army Garrison. (1 min) [Approach either of the two Neutral generals as early as possible, this can be missed if you take too long to activate it.]
++++ v5 The Truth of Honnōji
+Unlock: Clear every other Reverie stage
+Playable: Nobunaga Oda, Nō or Yasuke (only main choice) | Mitsuhide Akechi (mid battle)
+# **Clash of the Three Titans** - Defeat Yoshimoto Imagawa, Kenshin Uesugi, and Shingen Takeda.
+# **Defending the Central Bridge** - Stop Motonobu Okabe and his allies from breaking through the central bridge.
+# **Alliances** - Rendezvous with Mitsuhide Akechi.
+# **Gathering at Honnōji** - Defeat Tomonobu Saitō and his allies, and prevent Nobutada Oda and his allies from being taken out.
+# **Escaping Certain Death** - Defeat the enemy troops. (300, 3 mins.)
+# **The Three Titans Do Battle** - Defeat Yoshimoto Imagawa, Kenshin Uesugi, and Shingen Takeda.
+# **Chasing Shadows** - Find and defeat the spy captains controlling the illusions.
+# **Battle of Bonds (Bonus)** – Defeat Shigenaga Honjō and his allies, and prevent Sadakatsu Murai and his allies from being taken out.
+# **Escaping the Rain (Bonus)** – Defeat all the archer captains. [Stay around the center of the temple when Yoshimoto calls for archers, make sure not to defeat all of the captains before this objective pops.]
+# **A Demon’s Efforts (Bonus)** – Defeat the enemy troops with a Musou Attack. (100, 1 min.)
+# **The Takeda Cavalry Charge Forth (Special)** – Defeat the Takeda Calvary, Katsuyori Takeda and his allies.
++++ v6 The Great Unifier
+Unlock: Clear The Truth of Honnōji
+Playable: **Nobunaga Oda**, Mitsuhide Akechi, Nō, Mitsuki, Yasuke
+# **Hideyoshi in Peril** - Defeat Motoyasu Mōri and his allies, and prevent Hideyoshi Hashiba from being taken out.
+# **The Shōgun’s Shield** - Defeat Fujihide Mitsubuchi and his allies to invade the Ashikaga Main Camp.
+# **The Battle Begins** - Defeat Motoharu Kikkawa and his allies to break through the siege.
+# **An Unexpected Development** - Defeat Hanroku Otowa, Shōgen Fukukita, and Daizen Funō to escape from the Mountain Path Eastern Garrison.
+# **The Mōri’s Aggression** - Survive the Mōri Army’s onslaught by defeating the enemy troops. (500)
+# **No Mercy for Imposters** - Defeat the fake Ieyasu Tokugawa and his allies, and prevent the real Ieyasu Tokugawa and Sena from being taken out.
+# **Oda’s Greatest Weapon** - Defeat Magoichi Saika and his allies, and prevent Toshiie Maeda and Katsuie Shibata from being taken out.
+# **Recapturing Shōryūji Castle** - Defeat Hajime Watanabe and his allies.
+# **The Iga’s Shadow (Bonus)** – Prevent Chūbei Tomioka and Masayasu Fujibayashi from approaching Hideyoshi Hashiba.  [Clear this first before Hideyoshi in Peril.]
+# **The Saika Mercenaries’ Target (Bonus)** – Defeat the Saika Mercenaries’ leader, Magoichi Saika.
+# **The Riflemen’s Garrison (Bonus)** – Defeat Magoroku Saika and Yosaburō Sakai to capture the Mountain Path Western Garrison.
+# **A Key Location (Bonus)** – Defeat Terumoto Mōri, Takaie Shishido, and Nobunao Kumagai to capture the Central Garrison.
+# **Time to Settle the Score (Bonus)** – Defeat Takakage Kobayakawa and Sandayū Momochi with Musou Attacks.
+# **The Ghosts of Aki (Special)** – Defeat Motonari Mōri (2 mins.)
++ Rare Weapons
+This will detail how to get the Rare Weapons of each weapon type, unlike usual games things are done differently here. 
+* The difficulty must be Hard or higher.
+* You need to get an S rank in all four fields of Time, KO’s, Officer KO’s and Combo Count while also getting the S rank overall reward with the character mentioned, they can be the main character or partner and don’t even need to be used. This can be done in multiple runs and not just one as long as an S was scored at least once in each field.
+* It may seem like you have to pick one of the two stages to get a Rare Weapon, but no you have to do both stages with their required characters to get the weapon.
+* Whichever difficulty you choose you must get the S rank reward for it throughout your runs if it takes multiple, getting ASSS on Hard then SASS on Nightmare will not count.
+* A trick to keep your combo count in stages that have extremely high requirements or very long down times is to switch to your partner as it is fading out to reset the timer when you go back to your character.
+++ Ōdachi – The Great Serpent Slayer
+Nobunaga 6-^3 The Incident at Honnōji – Nobunaga Oda
+Mitsuhide 2-3 Joint Struggle with the Uesugi – Kenshin Uesugi
+++ Blade and Matchlock – Heaven’s Dread Star
+Mitsuhide 6-^2 Battle of Yamazaki – Mitsuhide Akechi
+Reverie v6 The Great Unifier – Oda Nobunaga
+++ Katana – Evil’s Demise
+Mitsuhide 5-v3 Battle of Kōzuki Castle Mōri Army – Takakage Kobayakawa
+Reverie v2 Final Battle for Odani Castle – Nagamasa Azai
+++ Twin Blade – Heavenly Twin Blade
+Nobunaga 5-v4 The Nobuyasu Affair – Ieyasu Tokugawa
+Reverie v3 Final Battle for Kōzuki Castle – Shikanosuke Yamanaka
+++ Spear – Demon’s Revolt
+Nobunaga 5-v1 Battle of Tetorigawa – Katsuie Shibata
+Mitsuhide 1-4 Battle of Akechi Castle - Toshimitsu Saitō
+++ Great Spear - Virtuous Wrath
+Nobunaga 2-^1 Battle of Inō - Toshiie Maeda
+Nobunaga 4-v2 Battle of Mikatagahara Takeda Army – Shingen Takeda
+++ Naginata – Sun Goddess
+Nobunaga 3-v Invasion of Suruga - Sena
+Mitsuhide 6-v Battle of Yamazaki Hashiba Army – Hideyoshi Hashiba
+++ Sledge – Daikokuten’s Mallet
+Nobunaga 2-v1 Mayhem in Mikawa - Ieyasu Tokugawa
+Reverie ^1 Annihilation at Okehazama – Yoshimoto Imagawa
+++ Gloves – Divine Thunder
+Nobunaga 4-^2 Battle of Anegawa River – Mitsuki
+Nobunaga 6-^2 Conquest of Kai - Yasuke
+++ Bow - Amenohajiyumi
+Mitsuhide 5-v3 Battle of Kōzuki Castle Mōri Army – Motonari Mōri
+Reverie v1 Final Battle for Kanegasaki - Nō
+++ Cannon – Sacred Flame Mortar
+Nobunaga 5-v2 Battle of Kizugawaguchi – Kazuuji Nakamura
+Reverie ^2 Match in Eiroku – Magoichi Saika
+++ Kusarigama – Harbinger of Disaster
+Mitsuhide 5-v2 Battle of Shigisan Castle Matsunaga Army – Hisahide Matsunaga
+Reverie ^3 The Iga’s Great Uprising – Sandayū Momochi
+++ Ninja Blade – Gale Slicer
+Nobunaga 4-v1 Battle of Mikatagahara – Tadakatsu Honda
+Nobunaga 6-v2 Journey Through Iga - Hanzō Hattori
+++ Drum – Sakura Princess
+Nobunaga 2-v2 Battle to Build Sunomata Castle - Hideyoshi Hashiba
+Nobunaga 5-v3 Battle of Arioka Castle – Hanbei Takenaka
+++ Talisman – The Moon’s Divine Providence
+Nobunaga 3-^2 Battle of Kannonji Castle – Oichi
+Nobunaga 6-v1 Battle of Takamatsu Castle – Kanbei Kuroda
+++ Showcase
+[[include :asoh:component:video-youtube |video-id=LVvtLj9LAxQ]]

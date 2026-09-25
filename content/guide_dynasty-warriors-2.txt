@@ -1,0 +1,137 @@
+@title: Dynasty Warriors 2
+@author: Buster Wolf
+@updated: 2025-31-01
+
+Unlike [[[guide:dynastywarriors | Dynasty Warriors]]] which was a fighting game Dynasty Warriors 2 was the start of the 1 vs 100 Musou style of game play you are familiar with nowadays. There is not much to unlock or cover with Dynasty Warriors 2 so this guide encompasses all you can do in it.
+
++ Character Unlocking
+This will detail how to unlock all 28 characters for use in Free Mode.
+++ Shu
+||~ Character ||~ Requirement ||
+|| Zhuge Liang || Clear Zhang Fei, Zhao Yun & Guan Yu's Musou Modes. ||
+|| Huang Zhong || Clear 1 Shu Musou Mode. ||
+|| Zhang Fei || Initial unlock. ||
+|| Zhao Yun || Initial unlock. ||
+|| Guan Yu || Initial unlock. ||
+|| Ma Chao || Clear 1 Shu Musou Mode. ||
+|| Jiang Wei || Clear 1 Shu Musou Mode. ||
+|| Liu Bei || Clear all Shu Musou Modes. ||
+
+++ Wei
+||~ Character ||~ Requirement ||
+|| Xiahou Dun || Initial unlock. ||
+|| Dian Wei || Initial unlock. ||
+|| Xu Zhu || Initial unlock. ||
+|| Cao Cao || Clear all Wei Musou Modes. ||
+|| Xiahou Yuan || Clear 1 Wei Musou Mode. ||
+|| Zhang Liao || Clear 1 Wei Musou Mode. ||
+|| Sima Yi || Clear Xiahou Dun, Dian Wei & Xu Zhu's Musou Modes. ||
+
+++ Wu
+||~ Character ||~ Requirement ||
+|| Zhou Yu || Initial unlock. ||
+|| Lu Xun || Initial unlock. ||
+|| Taishi Ci || Clear 1 Wu Musou Mode ||
+|| Sun Jian || Clear all Wu Musou Modes. ||
+|| Sun Quan || Clear all Wu Musou Modes. ||
+|| Sun Shang Xiang || Initial unlock. ||
+|| Lu Meng || Clear 1 Wu Musou Mode ||
+|| Gan Ning || Clear 1 Wu Musou Mode. ||
+
+++ Other
+||~ Character ||~ Requirement ||
+|| Diao Chan || Clear 1 Shu, Wei and Wu Musou Mode. ||
+|| Lu Bu || The Battle at Hu Lao Gate: Get 1,000 KO's. ||
+|| Dong Zhuo || Clear 1 Shu, Wei and Wu Musou Mode. ||
+|| Yuan Shao || Clear 1 Shu, Wei and Wu Musou Mode. ||
+|| Zhang Jiao || Clear 1 Shu, Wei and Wu Musou Mode. ||
+
++ Musou Mode
+All characters go through the same 5 stages in Musou Mode regardless of who you pick, they all share the same first two stages that being Yellow Turban Rebellion & The Battle at Hu Lao Gate, the remaining three are based on which kingdom they belong to. Characters counted as Others have no Musou Mode and can only be used in Free Mode.
+
+||~ Kingdom ||~ Stage 3 ||~ Stage 4 ||~ Stage 5 ||
+|| Shu || The Battle of Chang Ban || The Battle at Yi Ling || The Battle at Wu Zhang Plains ||
+|| Wei || The Battle at Guan Du || The Battle at Chi Bi || The Battle at Wu Zhang Plains ||
+|| Wu || The Battle at Chi Bi || The Battle at He Fei || The Battle at Yi Ling ||
+
++ Dim Sum
+All stages have a Dim Sum which increases max Life & Musou by 10, certain sides also have additional Dim Sum drops by defeating certain generals for even more increases. These are located in pots outside of the general drops.
+
+++ Yellow Turban Rebellion
+After Cheng Yuanzi is defeated go through the gate and head North until you can climb the wall, it is located at the Northern end of the wall.
+Yellow Turbans: Liu Bei, Sun Jian, Cao Cao.
+[[include common:img-2
+|image-1=DW2YTRMap.webp
+|image-2=DW2YTRField.webp
+|title= Yellow Turban Rebellion Map
+]]
+
+++ The Battle at Hu Lao Gate
+On Fan Shui Gate's East side.
+Dong Zhuo's Forces: Cao Cao, Liu Bei, Gongsun Zan, Sun Jian.
+[[include common:img-2
+|image-1=DW2HLGMap.webp
+|image-2=DW2HLGField.webp
+|title= Hu Lao Gate Map
+]]
+
+++ The Battle at Guan Du
+Before the bend leading to Chun Yuqiong it is near a set of houses by the river.
+[[include common:img-2
+|image-1=DW2GDMap.webp
+|image-2=DW2GDField.webp
+|title= Guan Du Map
+]]
+
+++ The Battle of Chang Ban
+Southeastern portion of the village near Liu Bei's Gate Captain.
+Liu Bei's Forces: Cao Pi (Cao Cao's sub general, appears after Cao Cao arrives Northeast of him heading through the village in the center of the map)
+[[include common:img-2
+|image-1=DW2ChangBanMap.webp
+|image-2=DW2ChangBanField.webp
+|title= Chang Ban Map
+]]
+
+++ The Battle at Chi Bi
+Northeast corner of the map.
+Sun Quan's Forces: Cao Pi (Appears after Fire Attack succeeds)
+[[include common:img-2
+|image-1=DW2ChiBiMap.webp
+|image-2=DW2ChiBField.webp
+|title= Chi Bi Map
+]]
+
+++ The Battle at He Fei
+Island between Lu Xun & Xiahou Dun's starting positions.
+Sun Quan's Forces: Cao Pi (Cao Cao's sub general covering the West gate to his inner castle)
+Cao Cao's Forces: Sun Shang Xiang (Zhou Yu's sub general, starts near Dian Wei)
+[[include common:img-2
+|image-1=DW2HFMap.webp
+|image-2=DW2HFField.webp
+|title= He Fei Map
+]]
+
+++ The Battle at Yi Ling
+Near the center of the Stone Sentinel Maze.
+Liu Bei's Forces: Sun Shang Xiang (Sun Quan's sub general, starts near the Northwest entrance to the Main Camp)
+[[include common:img-2
+|image-1=DW2YLMap.webp
+|image-2=DW2YLField.webp
+|title= Yi Ling Map
+]]
+
+++ The Battle at Wu Zhang Plains
+The village near Dian Wei & Ma Chao's starting position in the East, between a small set of houses near the Eastern wall.
+Liu Bei's Forces: Cao Pi (Cao Cao's sub general to his West in the Main Camp) 
+[[include common:img-2
+|image-1=DW2WZPMap.webp
+|image-2=DW2WZPField.webp
+|title= Wu Zhang Plains Map
+]]
+
++ Luminous Sword
+This is a special sword drop which gives a higher than normal Attack increase at +10 regardless of the difficulty while others would go as high as +8, this sword is found in three instances.
+
+The Battle of Chang Ban (Liu Bei's Forces): Xiahou En.
+The Battle of Chang Ban (Cao Cao's Forces): Zhao Yun.
+The Battle at He Fei (Sun Quan's Forces): Zhang Liao.

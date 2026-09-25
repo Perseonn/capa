@@ -1,0 +1,196 @@
+@title: Cookie Run Kingdom
+@author: Perseonn Balthasaar
+@updated: 2025-04-06
+
+This guide is intended for newbies and returnee alike. If you have questions such as "What cookie to use", "Please help make my team", "Is this cookie good", "Which is the best legendary", then this is the one stop for all your questions!
+
+[[div class="alert alert-danger"]]
+[[span class="fa fa-warning"]]@<&nbsp;>@[[/span]] **Obsolesce warning**
+This guide is no longer maintained after March 2025. Only general information will be kept.
+[[/div]]
+
++ [[# important]] The Most Important Thing
+* Go to the Option Menu
+* Go to the Notifications tab
+* Turn off Global Messages
+* No more random people getting cookies messages!
+
+[[include image |image=/local--files/guide:cookie-run-kingdom/crk-global-notification.webp
+|title=For your piece of mind, turn this option off!
+]]
+
++ [[# first-thing]]I'm new / I just returned after months, what cookies should I get?
+* Most Story Content, at least to Crispia 18, can be cleared with 3 cookies: [[span class="icon cine"]]Cine (Fettuccine)[[/span]], [[span class="icon creme-brulee"]]Creme Brulee[[/span]], and [[span class="icon star-coral"]]Star Coral[[/span]].
+ * The other 2 cookies are flexible.
+ * Raise only 5 cookies to max level
+ * Arena is out of reach for you team as you don't have max leveled cookies, you should use your Story mode team for Arena
+* Treasures are important; use [[span class="icon trsr scroll"]]Scroll[[/span]], [[span class="icon trsr watch"]]Watch[[/span]], [[span class="icon trsr whistle"]]Whistle[[/span]].
+ * If you have [[span class="icon creme-brulee"]]Creme Brulee[[/span]] in party, use [[span class="icon trsr robes"]]Robe[[/span]] instead
+ * Use [[span class="icon trsr rare-scroll"]]Rare Scroll[[/span]], and [[span class="icon trsr common-watch"]]Common Watch[[/span]] if these treasure's levels are higher.
+
+[[include common:image-css
+|image=http://capa.wikidot.com/local--files/guide:cookie-run-kingdom/crk-mileage-point.webp
+|title=Use your Mileage points to get the Epic cookies you don't have.
+]]
+
++ [[# toppings]] What Toppings?
+* In general, Cookies's topping can be grouped by:
+ * [[span class="icon top almond"]]Almonds[[/span]]: Defense
+ * [[span class="icon top choco"]]Chocolates[[/span]]: Support, Healer
+ * [[span class="icon top rasp"]]Raspberries[[/span]]: Everyone else
+* **Exceptions exist!** Guild Battle, Arena and certain tough bosses will require more specific setups.
+
+++ Topping Grinding Strategy
+* Find Epic (M-sized) toppings (priority on [[span class="icon top almond"]]Almonds[[/span]] and [[span class="icon top choco"]]Chocolates[[/span]]) from Story mode.
+* Upgrade Epic (M-sized) topping to +6 and check the substat you get.
+* [[span class="icon top rasp"]]Raspberries[[/span]] ideally have at least 4% damage resist substat, but you can ignore this if you don't have the resource.
+* [[span class="icon top almond"]]Almonds[[/span]] should have at least 4% damage resist substat.
+* [[span class="icon top choco"]]Chocolates[[/span]] should have at least 1% cooldown substat
+* Once you get the good substat, grind the topping to +12.
+* If your first substat is undesired like Amplify Buff, Critical Resist, Debuff Resist, break the topping down for a little refund. Others like HP, Attack, or Def might still be useful for Alliance, or stock toppings should the need arise.
+
++ [[# beascuits]] I keep failing attuning Beascuits!
+* Always Attune with moderation.
+* If after 4 attunes, the beascuit doesn't have 2 slots, break it.
+* If after 8 attunes, the beascuit doesn't have 3 slots, break it.
+* If after 12 attunes, the beascuit doesn't have 4 slots, break it.
+
+
++ [[# mota]] Who should I get from Might of the Ancients?
+* Get one you currently don't have, or wait until you get most of them and then pick one you don't have.
+* Newbies usually have much higher luck, so it won't be long until you have all 5 ancients.
+
+
++ [[# best-legendary]] Who is the best Legendary?
+* Assuming you are asking about the Legendary Cookie Choice Chest.
+* It's always good to pick the newest Legendary from the box (usually the leftmost one).
+* You also can keep the box and see which Legendary becomes much more useful for Guild Battle.
+ * Example, as of writing, Frost Queen is used against Living Abyss, and Wind Archer is used on Arena.
+
++ [[# coins]] Where do I get coins?
+Tree of Wishes, there's no better way than this, but take these notes:
+* On weekends, there's Burning Time event that increases the coins by 20%; this is the best time to go overboard with the Tree
+* Unless you are swimming in materials, never give out your Smithy items, except axes and pickaxes
+* Unless featured in Golden Wish or give you a generous amount (50k+ coins), don't give out lower tier materials, e.g. don't give cotton candy when you have access to Pom Jelly, and don't give Pom Jelly if you have the Colourful Bowl.
+* Refresh wishes if you don't have enough materials.
+* Almost every aspect in cookie development requires coins. You gain nothing by skipping the tree!
+* Please do not use the Coin Bounties as this will create a bad dependency.
+ * Bounties should be used only for Powders, Sugar Crystals, and Cake Pieces.
+
+[[include image |image=/local--files/guide:cookie-run-kingdom/crk-tree-of-wishes.webp
+|title=Tree of Wishes is your main source of coins. Please don't try to find alternatives.
+]]
+
+
++ [[# moolah]] What should I spend real money on?
+* Should you want to spend money, Passes like Kingdom Pass are well worth the price.
+* Event Passes are less worth, but go for it if you like the featured cookie.
+* There could be a newbie Starter Pack that's cheap and also useful.
+* Other than that, is to spend for 4th sugar gnome.
+
+
++ [[# get-stronger]] How do I get stronger?
+You can get stronger by maximizing these things:
+* Cookie Level
+* Cookie Skill Level
+* Treasures
+* Toppings
+* Beascuit
+* [#landmark Landmarks]
+* Research
+* Statue of Radiance
+* Bonds
+* Costume Sets
+* Guild Relic
+
+++ [[# exp]] How do I get more EXP?
+* Cookie Mansion is THE best way to obtain EXP, as well as the most tedious
+* At Castle L12, with 18 Cookie Mansion L10, you get 560714 EXP per day
+* At Castle L13, with 20 Cookie Mansion L11, you get 653240 EXP per day
+* Special Episodes gives 400 EXP per Quill used, or 14400 EXP per day without ads
+* Each fully upgraded landmark from kingdom pass gives 9600 EXP per day
+* Bounties can give over 100K EXP on a 100% boost day per Level 15 run
+ * Do note that bounties are not a recommended way to get EXP, due to the much more valuable Skill Powders, Sugar Crystals, and Cake Pieces.
+
+++ [[# treasure]] Which treasure should I get?
+* Convert your Mileage Point to Treasure Tickets, focusing on:
+ * [[span class="icon trsr scroll"]]Old Pilgrim Scroll[[/span]]
+ * [[span class="icon trsr whistle"]]Dream Conductor's Whistle[[/span]]
+ * [[span class="icon trsr robes"]]Librarian's Enchanted Robes[[/span]]
+* While waiting there to be maxed, you can use the [[span class="icon trsr rare-scroll"]]Disciple's Magic Scroll (Rare)[[/span]], [[span class="icon trsr common-watch"]]Squishy Jelly Watch (Common)[[/span]], and [[span class="icon trsr scythe"]]Grim Looking Scythe (Rare)[[/span]].
+* [[span class="icon trsr watch"]] Sleepyhead's Jelly Watch[[/span]] at Level 12 only adds 5% Attack over the [[span class="icon trsr common-watch"]]Squishy Jelly Watch (Common)[[/span]], so you can put it on lower priority since Beascuits can easily fill that 5% Attack earlier.
+
+++ [[# landmark]] Which landmark is the best?
+* Stat-based landmarks needs to be maxed as soon as possible
+ * Dreaming Lion Statue (Atk) from Sculpture Park
+ * Dark Lord Castle (Damage Resist) from Crimson Badlands
+ * Eerie Haunted House (Crit%) from Withces & Ghosts
+ * Everwinter Snow Globe (Def) from Kingdom of Snow & Ice
+ * Chocolate Altar of the Fallen (Crit DMG) from Kingdom of the Unwavering
+ * Morning Dew Garden (HP) from Flower Garden
+ * Ominous Cake Tower (HP) from St. Pastry Order
+ * Eternal Hero Memorial (HP for Ancients) from Might of the Ancients
+* Supporting landmarks that helps Stamina Jelly regenerations will help you in the long run with progress, EXP, Soulstones, and Soulcores
+ * Tick Tock Clock Tower (Production Speed) from Crispy Cookie Town
+ * Grand Dessert Tower (Stamina Jellies) from Garden of Delights
+ * Skull Island Resort (Stamina Jellies) from Tropical Island
+ * Ferris Wheel (Random Soulstones) from Bustling Amusement Park
+ * Gumball Arcade Machine (Random Soulstones) from Pew-Pew Arcade
+
+++ [[# research]] Which Research should I do?
+* Prioritize All Cookies ATK Bonus, All Cookies DEF Bonus, and All Cookies HP Bonus. These should be Level 10
+* After that, you can go for per-type bonus, starting from ATK Bonus I and II, DEF Bonus I and II, then HP Bonus I and 2. These should be at least Level 5.
+
+++ [[# statue]] What is the statue of Statue of Radiance?
+* Statue of Radiance is an upgradable thing that resides in Hall of Ancient Heroes.
+* You need Radiant Shards to upgrade the statue.
+* You gain small stats per level, but these stats stacks quickly.
+* Try to have L50 statue as soon as possible, you can slow down after, but never forget to gather Radiant Shards.
+
+++ [[# bonds]] What are Bonds?
+* Check your bonds by going to the Cookies screen and tap on the bottom-left "Bonds" button! 
+* Getting certain cookies to @<&#11088;>@5 will maximize your bond level and in turn, increase your stats.
+* Madelaine cookie is notable for having 3 bonds at once, 2 of which is with rare and common cookies.
+
+++ [[# relics]] What are Guild Relics?
+* Guild relics are Guild properties that gives certain stat boost to each member.
+* Typically you will want to join Guild with high level relic.
+ * However, you need to be strong in the first place to be able to join one.
+ * Thus you might want to start by joining casual guild who can reach **at least Master 1** in Guild Battle.
+  * A Grandmaster 3 guild is more preferable.
+* Gathering Guild relic is cumbersome, you cannot do it with just 1-2 friends, especially since people will look for guild with complete relic, so better just join an existing guild. 
+
++ [[# resonant]] What's a Mysterious Toppings or Resonant Toppings?
+* A Mysterious Toppings contains several Resonant Toppings
+* Resonant Toppings are Epic Toppings with better minimum substat amount and less useless substats. It only has attack, attack speed, critical%, cooldown, damage resist, and critical resist as substats.
+* Resonant Toppings can only be equipped by certain cookies.
+
+
++ Where to look for Guild Battles, Arena, and certain stages?
+* For general newbie and problem solving, I recommend [https://www.youtube.com/@AEKCookieRunKingdom AEK CH's channel on YouTube🔗]
+ * AEK CH's Guild Relic is not particularly high, so almost all guides are easily replicated.
+* For Arena insight, there's [https://www.youtube.com/@dreaktcrk Dreakt's channel on YouTube🔗]
+ * Dreakt has a high guild relic, so there's a chance that what works for Dreakt, will not work for you.
+* For Guild Battle: 
+ * Google the boss name, e.g. {{crk red velvet dragon}}
+ * Use the {{Tools}} button to filter search by past month or so.
+ * Look for the most recent Video
+
++ Closing
+If you need further assistance, you can go to contact me on Discord at Perseonn#7731. Have fun!
+
+++ Changelog
+[[div class="alert alert-info"]]
+|| 2025/03/15 || Make the guide to be much more general and added obsolete warning.||
+|| 2024/05/06 || General update on Cookie List and removal of alternatives on Red Velvet Dragon.||
+|| 2024/03/23 || Streamlined Avatar of Destiny Battle ||
+|| 2024/02/27 || Removed Macaron and Rockstar from Avatar of Destiny battle. Collapsed Abyss guide due to inefficiency.||
+|| 2024/02/25 || Separated Avatar of Destiny battle to Auto and Manual. ||
+|| 2024/02/23 || Shuffled piority of damagers due to Creme being mileagable. ||
+|| 2024/02/17 || Shifter Blackberry use to the lineup of Avatar of Destiny. ||
+|| 2024/01/28 || Added Rebel to the lineup of Avatar of Destiny. ||
+|| 2024/01/21 || Updated with anchors and revisions considering the addition of Beascuits. ||
+|| 2024/01/15 || Updated Red Velvet Dragon with Rebel Cookie. ||
+|| 2023/12/23 || Added images and expanded landmark explanations. ||
+|| 2023/12/23 || Initial version, contains all information from the Reddit Discord. ||
+[[/div]]

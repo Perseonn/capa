@@ -1,0 +1,130 @@
+@title: Kyoukotsu no Yume Review
+@author: Perseonn Balthasaar
+@updated: 2026-09-09
+
+After the rather icky Mouryou no Hako, I continued reading the third book of Natsuhiko Kyougoku's Hyakki Yakkou / Kyougokudou series, Kyoukotsu no Yume. I read the manga version of which is the version I recommend. Main reason is that, after reading a review of the novel by Seven Nights Translations, apparently Chuuzenzi Monologue™ goes for allegedly //three hundred pages.// [((bibcite 1))].
+
+Anyway, incoming spoilers!
+
++ Chuuzenji Monologue™ Dance My Puppets
+While less powerful and even more restrained, as it appears in late Book 3, the highly choreographed nature of Book 5, earn this speechcraft another mode: Chuuzenji Monologue™ Dance My Puppets. It was less egregious than Chuuzenji Monologue™ Assault Mode on Mouryou as Kyoukotsu's story has actually accumulated enough evidence by Book 5 that his reconstruction is legitimate.
+
+But the staging becomes almost theatrical. The sequence effectively goes:
+> "So this is what happened."
+> True!Akemi enters.
+> "And this person was involved."
+> Kamota Shuuzou enters.
+> "Then this happened."
+> Tamie!Akemi enters with Ichiyanagi Shirou (True!Akemi's husband)
+> "And this person..."
+> Munakata Kenzou, Tamie's brother, appears exactly when narratively required.
+This mode allows Chuuzenji to run a 1950s murder-mystery stage production with cue cards.
+
+One might say that Kenzou doesn't appear on cue, but his timing was so perfect that Chuuzenji might as well summoned him by using his Yu-Gi-Oh Card.
+
++ The Rehash of Ubume
+Like Ubume, Natsuhiko Kyougoku has once again built the mystery around an unusual mental/neurological condition, and then constructed a very specific chain of circumstances around that condition.
+
+++ Tamie's face blindness
+Tamie cannot recognize human face, which I understand as I cannot remember human name well (I can remember pet name quickly, but not human, freaking ironic!). However, it was weaponized in a contrived way for her to kill her current husband, Udagawa Takashi:
+> Somehow Kenzou see Udagawa dropping off after Kubo's funereal. That's some dedicated stakeout.
+> Somehow he can keep Udagawa unconscious for one day.
+> Somehow Udagawa just resumes going to his home after being knocked out, without checking his belongings and realizing he has the wrong outfit.
+> Somehow Tamie!Akemi doesn't recognize her husband's voice.
+> Somehow Udagawa doesn't greet Akemi like she's his wife, instead saying "Were you waiting for me, Akemi? Why are you looking at me like that" AFTER seeing his wife on the floor near entrance.
+Each individual event is possible, but the problem is the joint probability. While it's in much, much smaller scale, it's the same problem with Mouryou no Hako where the narrative machinery underneath is still:
+> "And then, fortunately for the mystery, everybody behaved in precisely the required manner."
+
+++ Wrong Identity Plot
+The story draws too much attention to
+> "This is the real Akemi, here's proof!"
+Which, to an inexperienced reader, creates uncertainty. However, a savvy reader will conclude that there will be a wrong identity plot. This is a forgone conclusion once amnesia is introduced.
+
+Amnesia element in itself can be good, but once the story introduce:
+* Amnesia
+* Contradictory memories
+* Two similar-looking women
+* Repeated insistence on "this is the real Akemi"
+the question shifts from whether there will be an identity reversal to how the author intends to shuffle the cards. It's basically a giant flashing neon sign with loud techno music which read:
+> "WRONG IDENTITY PLOT! COME! COME! COME!"
+
++ Bad Character Economy
+Interesting characters is not the same thing as being //necessary characters//. Kyoukotsu already has an unusually large cast:
+* Chuuzenji Akihiko
+* Chuuzenji Atsuko
+* Kiba Shuutarou
+* Isama Kazunari
+* Sekiguchi Kazunari
+* Enokizu Reijirou
+* Nagato, the old detective and buddy partner of Kiba
+* Ishi'i Kenji, the Kanagawa Inspector whop got demoted in Mouryou no Hako
+* True!Akemi a.k.a Sata Akemi a.k.a Ichiyanagi Akemi, since her current husband is Ichiyanagi
+* Tamie!Akemi a.k.a Udagawa Akemi a.k.a Munakata Tamie
+* Udagawa Takashi, the novelist, Tamie!Akemi's current husband
+* Ichiyanagi Shirou, True!Akemi's current husband
+* Munakata Kenzou, Tamie's brother
+* Kamota Shuuzou, a.k.a Saginomiya Shuuzou, the Kamota Liquor store owner, and the last direct descendant of Emperor Go-Daigo and heir to the Saginomiya clan.
+* Shiraoka Ryouichi, the priest
+* Furuhata Hiromu, the former psychiatrist
+* Sata Nobuyoshi, Sata Akemi's first husband
+* Saginomiya Kunitaka, Tamie's fiancee, Tamie's rapist
+* Yazawa Shunroku, a worker taking part in Kenzou's scheme to torment Tamie!Akemi
+* Takano Tadatsugu and Nakako, the old couple whose child, Takano Yae, ran away
+* Yamada Haruo a.k.a Shunshin, the monk that most likely involved with Takano Yae
+At some point the novel starts behaving like it has NPC spawning enabled. Allow me to pick the worst of it.
+
+++ The priest and the psychiatrist
+Shiraoka Ryouichi (the priest) and Furuhata Hiromu (the former psychiatrist), who took a lot of pages to show the second retelling of Tamie!Akemi's backstory, can be excised and nothing of important is lost. Their main function is to deliver the Takeminakata bones, which can be done by anyone, preferably the mainstay characters.
+
+++ Sekiguchi
+Sekiguchi gets the short end of the stick does jackshit in this work as what he does is just padding by doing unnecessary tsukkomi or weird objection. Most of his lines is essentially:
+> "But wait, isn't that strange?"
+then someone else explains why it isn't.
+
+Now for the most egregiously. Sekiguchi felt that he need to defend Akemi, but he hasn't met Akemi at all. It felt like Sekiguchi have author's revelation that Akemi is pretty and must speak on her behalf at all cost. Imagine if the following exchange occur.
+> "Akemi is innocent!"
+> "Why would you think that?"
+> "Because she's hot"
+> "You never met her, how do you know that"
+> "HAAMITTO PAAPURU!!" //smashes Atsuko's camera//
+
+++ Enokizu
+Enokizu, thank god, stops his enabler streak at 2 and serves as a more traditional, albeit eccentric detective. A much healthier chance for the narrative. His ability provides information, but he still has to participate in the investigation rather than simply obliterate the epistemic rules. Or facilitate murder.
+
+++ Atsuko and Kiba
+Atsuko and Kiba are ones that do the legwork, which is nice. Atsuko is much less shown than Kiba, but it's good to see her not going:
+> Hello! I'm a character. Bye!
+I remember that Atsuko and Kiba's interrogation overlaps, but thanks to Enokizu, Atsuko can catch a different detail than Kiba.
+
++ Underutilized settings
+Kyoukotsu no Yume have few settings that it introduced, but not used fully so that it felt like a red herring.
+
+++ Kyoukotsu
+Kyoukotsu itself is just attached to the story with no deep meaning. Title promises Kyoukotsu (狂骨 ~ mad skull) and yet the level is that "everyone went mad because skulls". That's akin to have Utaigaikotsu mentioned and everyone sings because of skulls. The skull is causally important, but the youkai Kyoukotsu itself isn't conceptually important enough to justify being the work's central symbolic identity.
+
+++ The Brain House
+The introduction of two houses that have the same layout usually signifies that someone is taken from house A to house B to create alibi as seen on Detective Conan's "The Historical Actor Murder Case" and Kindaichi Shounen no Jikenbo's' "The Gokumon Academy Murder Case". None of it happened here.
+
+The brain house is just there without significant meaning apart from Isama guessing which Akemi he met. This felt like an aborted idea for some reason. And I hope the reason isn't to facilitate Chuuzenji's 300 pages of "on stage" exposition.
+
++ Sexual Violence Pattern
+Natsuhiko Kyougoku have a recurring story line that is absolutely conspicuous. In Ubume, Mouryou, and Kyoukotsu, at least one pretty women must be have unsettling sexual encounter. This is horror/mystery fiction, obviously bad things happen. However, sexual violence against an attractive woman repeatedly functions as part of the horror machinery, while the woman herself can become an object around which male characters construct their mysteries, obsessions, fantasies, diagnoses, or salvation narratives.
+
+If any readers haven't catch it, here's a reminder:
+||~ Story ||~ Ubume ||~ Mouryou ||~ Kyoukotsu ||
+|| Character || Ryouko || Youko || Tamie!Akemi ||
+|| Fate || Raped || Father/Daughter Incest || Raped ||
+|| Perpetrator || Dr. Sugano || Dr. Mimasaka || Kunitaka ||
+
+Thus all of them has the a recurring aesthetic of:
+> Pretty woman + Sexual violation = Psychological damage + Mysterious identity
+
++ Conclusion
+Natsuhiko Kyougoku's youkai theme seems to be tacked-on this time, which is unfortunate because the tie to youkai is why I read his works in the first place. Kyoukotsu overall a better mystery than Ubume and has less contrivance than Mouryou, but Natsuhiko Kyougoku still hasn't learned that not every interesting idea needs to become part of the same book.
+
+On the writing of this review, the manga translation of Jorougumo no Kotowari is not yet available. I'll get to it when it's available, but in the meantime, I'll have my reward of watching "The Mononoke Lecture Logs of Chuzenji-sensei".
+
+++ References
+[[bibliography title=""]]
+: 1 : https://7nightstranslations.wordpress.com/2024/05/22/kyoukotsu-no-yume/
+[[/bibliography]]

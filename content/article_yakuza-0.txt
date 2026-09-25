@@ -1,0 +1,47 @@
+@title: Yakuza 0 Review
+@author: Perseonn Balthasaar
+@updated: 2025-04-04
+
+Yakuza 0 is set in 1988, during Japan's legendary bubble era! Money flows like water—people casually wave JPY 10K (around USD 100) to call a taxi, Tokyo employees travel to Hokkaido just for lunch, and nightclub expenses are fully covered by their offices!
+
+[[include image |image=/local--files/article:yakuza-0/bubble-era.avif |title=The golden colour correction really fits the cutscene.]]
+
++ The Story is a Bit Lacking
+This game takes us back to Kiryu and Majima's past. The first half is solid, but the latter half falls short. How does a blind girl vanish right next to Kiryu without being chased? Was she using teleportation? The bubble era truly was extraordinary!
+
+[[include image |image=/local--files/article:yakuza-0/majima-gasp.avif |title=Majima should be worried about a girl who can instantly beam away.]]
+
++ Minimal Plot Twists—For the Better
+After experiencing the wild storylines of Yakuza 1 through 6, Yakuza 0 stands out as more refined and grounded, making it a great entry point for newcomers. There are no absurd plot twists like rubber bullets, CIA twins, or sudden incompetence!
+
+[[include image |image=/local--files/article:yakuza-0/uncolored-tattoo.avif |title=Once the koi gets its colour, incompetence seeps in.]]
+
++ The Gameplay Feels Dated
+Perhaps to stay true to tradition, Yakuza 0's combat feels stiff and sluggish—almost like playing Fighting Force on the PlayStation! Fortunately, it makes up for it with some incredible cinematic takedowns, like the awesome bicycle attack!
+
+[[include image |image=/local--files/article:yakuza-0/bicycle-disaster.avif |title=Finishing Strike: Bicycle Disaster!]]
+
++ My Favourite Minigame
+I often lost track of time completely, sidetracked by helping Majima's cabaret club candidates! Not only does this minigame fit perfectly with the bubble era setting, but it also challenges your reaction speed and micromanagement skills!
+
+[[include image |image=/local--files/article:yakuza-0/cabaret-welcome.avif |title=This welcome cutscene never ceases to amaze me!]]
+
++ Grab If It's on Sale
+If you see Yakuza 0 on sale (which happens often), I highly recommend picking it up! Even if you already own it, there's plenty of replay value—especially with the weird and wonderful mods available on PC. Someone even made Gandhara videos look more... "serious"!
+
+[[include image |image=/local--files/article:yakuza-0/gandhara-inside.avif |title=I'm pretty sure those adult video covers are legit.]]
+
++ Summary
+
+[[div class="review hippo"]]
+
+||~ Pros ||~ Cons ||
+|| Cabaret club minigame. || Other minigames aren't great, especially Pocket Circuit, which is too RNG-heavy. ||
+|| Bicycle Disaster! || Primitive combat design. The developers should take notes from Devil May Cry 4 for smoother, more satisfying combat. ||
+|| The bubble era setting is unique and provides insight into this infamous period. || Cutscenes are really long. ||
+|| Serious Gandhara mod 😏 || Levelling up Dragon/Mad Dog style takes forever. ||
+|| The diabolus ex machina is pretty tame compared to other entries. || Substories aren't as engaging as those in Yakuza: Like a Dragon. ||
+
+[[/div]]
+
+This article has been or will be posted on my workplace's Instagram, @@@p**********e.@@

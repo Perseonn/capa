@@ -1,0 +1,87 @@
+@title: Recettear Review
+@author: Perseonn Balthasaar
+@updated: 2014-05-13
+
+Recettear - An Item Shop's Tale is a combination of simulation and action RPG. You remember those RPGS where you take role of the hero, trying to save the world in a way or another? Not this time. In Recettear, you play as Recette, an Item Shop owner who sells item to heroes.
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:recettear/rcttitle.jpg |title=Title screen.]]
+
+
++ Story
+Did that sound intriguing? For me yes. There were many times when I play RPGs that I walk to item shop and buy things, but never in my experience, I got to be that item shop owner. Recettear follows the story of Recette who opens an item shop to pay her father's debt. She is assisted / bugged by the loan shark fairy, Tear, who schedules a deadline payment every week.
+The game has 2 separate ending. Each ending tells different side of the story.
+
++ Graphics
+Recettear is presented in 3D, but all characters are 2D sprites.
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:recettear/rctnewgame.jpg |title=In addition, there are many big illustration of character to make a lively event. Overall it's simple, but do the job nicely.]]
+
+
++ Sound
+The music of the game is preserved in WAV format, ensuring top quality. Be warned though, the music is kinda catchy. The game does not feature a full voice over, just a partial one, but still great. There will be times where a little elven girl come to your store, wanting an item by saying "Kudasai!". Your heart will melt.
+
++ Control
+Recettear does not require gamepad, but using gamepad will enhance the gameplay by lot. If you're adept at controlling character using arrow keys, then you'll have no problem with it.
+
++ Gameplay
+The game is divided to 2 major mode: the simulation style item shop and the dungeon crawl action RPG.
+Item shop simulation is the major thing in the game. You need to pay Tear each week with your money to pay back your father's debt.
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:recettear/rctsubmenu.jpg |title=Sub menu, showing payment due]]
+
+At first, the deadline payment is small, but it will be multiplied to an outstanding amount each week.
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:recettear/rctsell.jpg |title=Recette greeting a potential seller.]]
+
+Of course, running an item shop is a matter of how you buy things at lower price and sell at higher price. However, if you sell price too high, your shop will be devoid of costumer.
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:recettear/rctsdvsell.jpg |title=Selling screen, you can mark stuff up as high as you like.]]
+
+Each customer have a different pocket size. You won't be able to sell expensive stuff to an old man who live off from his pension, or sell a super duper big cake to a little girl who is running an errand.
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:recettear/rctpwn.jpg |title=Arranging displayed item.]]
+
+Customer will pick items when you put them on a display table. You can put anything on your display table from Swords to Books. This will also create weird lines like a man trying to buy a LANCE by the reason "my wife needs this". I think he's gonna get impaled.
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:recettear/rctitemshop.jpg |title=Item shop view, during with full size upgrade.]]
+
+Your item shop started as a small one, but can get large if you upgrade it. the larger the item shop, the more items you can put on them. You can also redecorate your shop to attract customer. Different decoration attracts different customer. If you set your shop to be dark, of course those good looking people won't come, but you'll attract the demon instead (yes, that's literal).
+
+In Dungeon mode, you hire an adventurer and go in a dungeon.
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:recettear/rctadv.jpg |title=Choosing adventurer.]]
+
+There are several adventurers and each is unique. Take an example of Louie here. He is a defensive type, able to guard any projectile thrown to him. However, he's not quite on offensive side and can't run. Few other adventurers can run, but even they run in a different style.
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:recettear/rctdngn.jpg |title=Inside a dungeon.]]
+
+Dungeon can be a good source of income since you sell at 100% profit. be warned though, dungeons at later levels can get hard if you're not ready on your items. Travelling a dungeon is not a chore. You can leave after you climb 5 floors and return to the next floor later at no negative impact. Most of time, you will meet boss at end of every 5 floor.
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:recettear/rctboss.jpg |title=Vs. The Crowned Slime]]
+
+Early bosses won't be hard, but later bosses can be pain. This slime you met at second dungeon is easy, but the lime you will met at final dungeon will be far harder.
+
+Since Recettear has hundreds of items, there is an encyclopedia to keep track of items you already have.
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:recettear/rctencyclo.jpg |title=Some items are a shout out to other games or films. In this example, the 200 Warriors book, which by description, a clear shout out to 300. There's even that green-gold Valkyrie armor from Namco Games!]]
+
+
++ Closing
+Recettear has quite a longevity. You can try the survival mode, where Tear keep making deadline payment until it reaches impossible amount. The purpose of the mode? To stress you out (they mention it at the start of survival mode).
+
+If you like a fresh new view of an RPG, you should definitely try this one.
+
+++ Pros
+* No load times.
+* A unique gameplay.
+* Decorate the item shop.
+* Cute anime-style presentation.
+* Hundreds of original items, each with its own description.
+* Small game written efficiently. There are no memory leaks on this game!
+
+++ Cons
+* Still on 4:3 resolution
+* Gathering rare items can be a pain.
+* Menu style map. I would like to be able to explore the town on foot.
+* The game does not interrupt PC idle timer. If you're playing with gamepad, your PC's idle time will still run, resulting in your PC's monitor power off or sleep/hibernate, depending on how you set your PC.

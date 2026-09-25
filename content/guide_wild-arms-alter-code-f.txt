@@ -1,0 +1,124 @@
+@title: Wild Arms
+@author: Perseonn Balthasaar
+@updated: 2025-03-10
+
+Wild Arms Alter Code F (ACF, from now on) is a wild west fantasy JRPG and a remake of the 1996 classic, Wild Arms. It was developed by Media Vision and released on 2003 (Japan release). The  NA version was released much later on 2005 by Agetec, and to anyone surprise, contains an unpolished translation, despite severe delays.
+
++ Closure
+I wish that translation was the only problem with the NA release. The NA version also removed, for unknown reason, all voices and all vocal tracks. I personally felt that this is the biggest blunder. Other stuff removed includes: All voice galleries EX Files (replaced with image gallery. Nothing new, the NA version just spread the Ja version gallery), and HDD support.
+
+++ Comparison with the Original
+Comparing ACF to the original game felt mixed. While ACF is good, it does not have the polish and charm of the original.
+
++++ What They did Right
+I believe to give credit where credit is due, so here's what they did right:
+
+||~ Wild Arms ||~ Alter Code F ||
+|| Graphic is 100% sprite || Graphic is a gorgeous 3D ||
+|| Story is delivered via text only || Story is given more detail on certain spots, events zooms in and shows the character's animation. ||
+|| Battle is a mere exchange of skills || Battles (mostly) show characters that move around while executing commands ||
+|| Music is great || Music is even better with each distinct theme for the Quarter Knights ||
+|| Misnamed terms, e.g. Holmcross, Rayline, Belselk || Fixed to Homonculus, Ley Lines, Berserk ||
+|| Hanpan only goes forward || You can control Hanpan while he is out ||
+|| You can only donate to Adlehyde after certain event has passed || You can donate all at once ||
+|| There are only 3 characters || There are 5 extra characters, 3 of which can be a permanent addition ||
+|| You get Raftina, Justin, and Zephyr || You also get Luceid ||
+|| You cannot cancel encounter || You can cancel encounter like Wild Arms 3 ||
+|| Ship music is heroic || Ship music is more mellow ||
+|| World map is small-sized image instead of full screen || World map is full screen with location marker and minimap. ||
+|| Rudy's weapon is a sword. || Rudy's weapon is a hand cannon and is upgradable. ||
+|| Accelerator makes Jack acts first. || Accelerator now also increase the damage of Fast Draws. ||
+|| Lucky Shot has the description "...?" || Lucky shot has proper description. ||
+|| Ambrosia heals all Character || Ambrosia heals one character. This is a good balance. ||
+|| Defending reduces damage. || Defending reduces damage by 25% and more if you have more FP. The formula is: 25 + 100 / (100 + FP) ||
+|| Boomerang is a Hattori Hanzou knockoff || Boomerang looks more coherent, complete with Badass Longcoat ||
+|| Luceid is powerful || Luceid is severely nerfed that Boosted Shell / Accelerator Axle Smash / Spectre can one shot him. ||
+
++++ What They did Wrong
+However, the new presentation can only help as much. Here's a grand list of what they did wrong:
+
+||~ Wild Arms ||~ Alter Code F ||
+|| You can buy most healing items || You cannot buy any healing items. Healing items must be grown in Mariel's garden. ||
+|| There are bullet and MP-restoring item || There are no regular MP or cartridge restoring item. Thankfully, Rudy can reload his normal bullet by defending. MP can be restored with the super rare Ambrosia. ||
+|| Upgrading ARMs skills yields more attack || Upgrading ARMs skills (cartridges) only adds bullet.||
+|| Teardrop is a tool || Teardrop is now a key item, considering how few field uses it has, it's a good itea, but I wish they kept it as a tool and expand its field use more. ||
+|| There are underused tools like the Vase || There are more underused tools like Grenade (Rudy), Jump Boots (Jack), and Wind Staff (Cecilia) ||
+|| Each character has 4 force || Each character has only 1 force ||
+|| Defeating optional bosses gives best equipments || Defeating optional bosses gives PS Skills, Luceid, and EX Key ||
+|| Ancient Arena gives fabulous prize || Devil's Playground gives so-so prizes ||
+|| Doing sub quests allows you to cheese the story battles || Doing subquest is a must to increase your survival change against REGULAR encounters. ||
+|| There are no search system || Search System is here, but unlike Wild Arms 2, only locations are available on the map, not items ||
+|| Location are found by exploring || Locations are found by talking to people and use the Search System, some location are have Guide Dang It prerequisite, such as Fallen Sanctuary (Talk to Garmin in Baskar with Rudy). ||
+|| Towns felt big || Towns felt smaller. ||
+|| Maze of Death is present. || Maze of Death is gone and you just find the Crystal Bud with a random-encounter boss. ||
+|| Pleasing Garden || Gento Soen (lit. Phantom Light Manor), the translator does not even bother translating the dungeon name to "Illusion Manor" or something. ||
+|| World map is completed ||  World map is BLANK and you have to fill it by walking around. There are no indications of mountains or water or forest whatsoever, until you walked to it. At least it shows the land lines.||
+|| Suspicious location in worldmap is filled with surprising bonus. || Can be item, or most likely, Puzzle Box. ||
+|| Optional dungeon only includes Heaven Corridor. || There are three optional dungeon, but at the cost of Pleasing Garden, Heaven Corridor, and Tripillar. ||
+|| Lucky Card affects all allies. || Lucky card affects only 1 ally, and only increase XP, not Gella. ||
+|| 255 Item Trick || Gimel coin can be exploited to restore your character's HP, MP, and VIT by purposely losing a battle and use the coin.||
+|| JRPG status syndrome is present || JRPG status syndrome is still present. There are more bad status than good one. Good status can expire, while bad statuses hardly expire.||
+||Magic effect are simple, but comes with a memorable gritty SFX || Magic effects are recycled from Wild Arms 3. Thankfully, you can make it animate faster. ||
+
+Let's take a break from system-based wrongs, below I present you character-based wrongs:
+
+||~ Wild Arms ||~ Alter Code F ||
+|| Rudy has highest HP and defense. || Jack has highest HP, Rudy has most defense (and possibly attack), however, Jack lacks skill to draw enemy attention to him, making his high HP underutilized. PS Defend, can  mitigate this, by luck.||
+|| Rudy's ARMs damage is based on a constant and his Attack || Rudy's ARMs are based on his attack, which can get to ludicrous level. If you sell the MP repair (Rosetta, after Mariel's event) that you get to upgrade his arms, L30-ish Rudy can do 6000+ damage (8 attack, 7 bullet ratio) on a single attack using Gatling Raid (Ship Graveyard, after Ghost Ship). Even at Level 100, no one is even close to inflict that much damage, save Cecilia (while Rudy's damage keep going up). For comparison on how powerful that is, it can one shot Boomerang at Cage Tower, and two shots Mother.||
+|| Jack Van Burace || Will it freeze the hell over if they just correct his name to Zack Vambrace? ||
+|| Jack has highest attack || Rudy and Zed has most attack. Jack is severely weakened, with only 600 ATT at level 100, compared to Rudy that can reach 1000 and Zed that can reach 990. ||
+|| Jack has highest reaction || Jane has highest reaction, and she can utilize it to make all members immediately acts after her ||
+|| Jack has good amount of MP: 250 at Level 99 || Jack has measly amount of MP: 72 at Level 100. || 
+|| Jack is your key member for item usage || You'll be ditching Jack for Jane at higher level, mainly because Jane outspeed all the bosses, can make all your member moves as fast as her and she has Mystic. ||
+|| Fast Draw skills are practical and have clear description. || Fast draw skills description are convoluted and all of them are too weak compared to Rudy, Cecilia, or Zed. ||
+|| Fast Draw uses fair amount of MP and can be reduced with Secret Sign. || Fast Draw uses ridiculous amount of MP unless mastered by using them over and over. Start the game to see a 10 MP speed fang vs. Jack's 30-ish MP.||
+|| Fast Draw at later level is either Soul Divider, Magnum Fang, Phazer Zapp, Trump Card, offering diversity || Fast Draw at later level is only Laser Silhouette; other Fast Draws are not very important. ||
+|| Cecilia can heal members outside battle. || Nope. You are automatically healed with VIT gauge, but the VIT gauge cannot be restored with any item, except Nectar. ||
+|| Cecilia has Mystic, which helps saving items || Cecilia no longer has Mystic, Jane has it, and you cannot use her in most crucial battles. ||
+|| Cecilia has massive amount of MP: 500 at Level 99 || Cecilia has less amount of MP: 294 at Level 100. ||
+|| Analyze costs 1 MP || Analyze costs 2 MP ||
+|| Group spells require Crest Graph || Group spells requires a 25-FP Material. Material. Unless you have the key item to turn off movie, be prepared to watch a movie everytime you cast it. ||
+|| Fury Shot, Double Move, Dual Cast || Does not exist. At least Rudy's Lock-On can be upgraded. Double move can be enabled for all characters with Command Replay. ||
+|| McDullen || Misnamed "Magdalen". Can't the translators see that the character is a butler? What the hell? ||
+|| Emma's role is limited as an NPC || Emma is now playable and one of the prmanent party member. However she suffers the same problem as Marivel in Wild Arms 2. You obtain her way to late and she has a huge amount of skills to fill. Emma might be useful as she possesses Great Booster, but if you swap a character for just one skill and swap his/her out, that's a sign of balance issues.||
+|| Mariel's role is limited as an NPC || Mariel's role with the party are made bigger now that she is playable for certain time, however, she starts at level 1 instead of party level, for whatever reason. ||
+|| Once you get to outer ocean, spell damage are powerful || Spells are weaker than physical attacks, according to Battle Formulae by Split Infinity, base physical modifier is 2, while magic is only 1.5. Compare this: with correct ratio (8 attack, 7 bullet), Rudy can dish out 6000 damage+ with Gatling Raid, while Cecilia stays at 3000 with Necronomicon PS (that's weakness hit). Cecilia can do more damage with Material, luckily. ||
+|| Equipments matters to a degree || There are no equipments. PS Skills matters to life and death, in fact, if you don't have any good PS skills, or don't steal that MP Repair from Rat Monkey, you'll have a very hard time even in Photosphere. PS Skills are mostly defensive, which means there are no ways to mitigate Jack's low attack. ||
+|| Character is balanced. || Character balance is a huge issue. Jack is severely weak, Emma is weakest (unless you are willing to grind excessively), Rudy is overpowered, Zed has limited use, Cecilia can be useless without any MP restoring means (unless you have Raftina or willing to sacrifice Ambrosia). The only character I have no complain about is Jane and McDullen (which is what Jack should be) ||
+|| Berserk || Berserk becomes very powerful, but it's ludicrous that he likes to 1 hit Cecilia. You also fight him 5 times. Moreover, where did his tail go? ||
+|| Alhazad || Should be "Alhazred", but I can live with it ||
+|| Lady Harken || Why on earth that she look like a knock off Tri-Ace Valkyrie? Her original design with cape is much better and not to mention, more unique. ||
+|| Zeikfried and Zeik Tuvai || Their names should be Siegfied and Sieg Zwei. I accept that S becomes Z, but they should've fix Tuvai to Zwei. ||
+
+Wild Arms have this weird pattern. Series that have precise member with battle slot tend to have good balance (Wild Arms, Wild Arms 3, Wild Arms 4), while series that have more party member than the battle slots tend to have huge balance issue (Wild Arms 2, Wild Arms ACF Wild Arms XF, Wild Arms 5).
+
+++ Tediums
+
+A note to all budding developers out there, this is how not to make a game better. Alas, this article will be nothing but complains if it does not contain fixes, so I also made this list of tediums, and how to fix them:
+
+||~ Tediums ||~ Fix ||
+|| The need to fill 4096 tiles of World Map || Replace this with a normal-functioning world map, like one on Wild Arms 2 ||
+|| Items not visible at all in map || Give player the ability to see items on minimap or a radar like Wild Arms 2 ||
+|| 30 Puzzle Boxes to be finished || Remove this and put the reward in dungeons ||
+|| Ludicrous encounter rate ||  Reduce the encounter rate so that player wants it rather than avoid it. It's completely ludicrous to have 3 encounter notice on regular-sized rooms, especially if it is a puzzle room. I have a save data that has 1200 cancelled encounter and 300 fought encounter. ||
+|| Jack's Fast Draw mastery requires you to be in close proximity to MP-restoring method. || While mastery can be sped up with fighting high-leveled enemy, it's just better if the overall usage is toned down. Keep adding 1 level per usage, but lower the need to maximum of 50 usage (see: Legend of Dragoon addition system). ||
+|| Secret Garden seed improvement || Seed improvement requires 1 of the item to improve and it will add 1 value to the maximum value of 100. Each item starts differently, e.g. Heal Berry starts at 30, so you need 70 heal berries. This fixed to remove the improvement mechanism, make all item shop sell basic berries, while Mariel can still grow berries. Berries growth time should depend on both elapsed time and any fought battles (including event battles), not just fought random encounter. ||
+|| Monster bestiary || The game is merciful enough to give you EX File Key after 50% completion. You should be able to carry the bestiary and the bestiary should highlight which monster is available in the area. Alternatively, you can make a different-colored encounter exclamation mark, like Wild Arms 2 ||
+|| EX File Key || This mechanism needs to be completely removed. EX File Key functions the same as Trophies in PS3: it is a reward for completing an extra hard bonus boss or a reaching a certain point in the game, it does not offer any in-game advantages, and no one cares if you have them all or not. Some of its requirements are tedium: Buy for 99 Gimel Coin, buy for 9999999 gella, open all 382 chests in the game, get 100% map completion, improve all seed to 100, and clear all 30 puzzle boxes.  ||
+
+If you think of using cheat codes to mitigate these, tough luck, they barely exist. CMGSCCC once list the mastery codes for Jack's Fast Draw which is a complete relief, but that's just one tedium. I suspect that people, while giving this game rave reviews, get bored quickly at that few hacking attempts are made.
+
+Until now. Here's a list of modifications I made that will mitigate most things listed:
+* Complete world map code. The Ugly Cat will give you the EX Key.
+* All Puzzle Box revealed on world map (there are side effects!)
+* All Puzzle Box solved. Yes. You get in, claim the treasure box and bail out. Do not pass Start, go directly to treasure chest. Jocelyn will also give you the Ex Key.
+* Secret garden seed improvement code. Instantly get 100 value on all seeds, if you like gardening (or just use an item modifier). Mariel will give you the Ex Key.
+* Party Item digits. You can just put EX Keys in your party items instead of collecting them. They do nothing anyway, so no game-breaking effects will appear.
+* Complete monster bestiary. You won't need to hang around one place or waiting a Doppelganger to imitate a certain party member.
+
+You can found these on [/game:wildarmsacf Wild Arms ACF's CAPA]. These codes marks my victory over this game, as I have personal vendetta against it.
+
+++ Final Words
+ACF has the graphics, but Wild Arms still has all the fun. Looking at the tediums, I felt that this game is rushed and not properly tested. If anyone makes an undubbed version, clean out the translation error, and apply few tweaks to reduce the tedium, it'll be a great game.
+
+PS: The saving grace of this game is when Berserk accidentally refers Alhazad as "she", which will make him a Psycho Lesbian, on top of a calculating villain.

@@ -1,0 +1,117 @@
+@title: Ther Melian RPG Progress (Chapter 4)
+@author: Perseonn Balthasaar
+@updated: 2016-07-11
+
+Chapter 4 is a lot more demanding than Chapter 3, due to it having 2 dungeons and 1 big town. Due to the size of the town, it is only about 40% completed, focusing more on story events.
+
++ Timetable
+This is the estimate time table, based on the worst possible scenario that each cycle lasts 2 weeks.
+||~ Date ||~ Story Milestone ||~ Script Progress ||~ Version ||~ Maps ||~ PC ||
+|| ##ccc|29 May '16## || Chapter 1 || 09/84 || 0.1a || Tellsier Forest (Prologue), Sanctum, Sanctum Dungeon || Valadin, Ellanese, Haldara || 
+|| ##ccc|12 June '16## || Chapter 2 || 13/84 || 0.2a || Atoll of Sorrows (Beach), Grotto of Storms (Sea Cave) || Voltress || 
+|| ##ccc|26 June '16## || Chapter 3 || 20/84 || 0.3a || Falthemnar || Vylar, Lianna || 
+|| ##blue|**10 July '16**## || Chapter 4 || 28/84 || 0.4a || Tellsier Forest, Tellsier Citadel, Mildryd Forest || Laruen, Meara || 
+|| 24 July '16 || Chapter 5 || 39/84 || 0.5a || Northern Forest, Dark Forest || Karth, Izahra, Eizen || 
+|| 07 August '16 || Chapter 6 || 45/84 || 0.6a || Sanctum Dungeon (Catacombs), Sanctum Meeting Hall ||  || 
+|| 21 August '16 || Chapter 7 || 54/84 || 0.7a ||  ||  || 
+|| 04 September '16 || Chapter 8 || 68/84 || 0.8a || Abandoned Watch Tower, Old Mining Pit ||  || 
+|| 18 September '16 || Chapter 9 || 79/84 || 0.9a || Dark Forest (Expansion), Izhrote ||  || 
+|| 02 October '16 || Last Chapter || 84/84 || 1.0b || Dark Forest (Last Expansion),  ||  || 
+
++ Tellsier Forest
+This is the same forest as the prologue of the game. It has been expanded, while keeping the familiar portion intact. The enemies will appear in either single or double. Players must be cautious in case a double occurs, as they can wreck Valadin pretty easy.
+
+There is a (not so) secret encounter in the forest, but players are not expected to finish it at Valadin's current level.
+
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/tell-forest-1.avif |title=Wildlife of Tellsier Forest.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/tell-forest-2.avif |title=New area in Tellsier Forest.]]
+
+
++ Tellsier
+While Falthemnar is quite the size at 102x88, Tellsier bring it to another level at 182x140. This town has 4 districts: the northern district with the mayor's house, hotel, and the gentleman's club; eastern district with the marketplace and town square; southern district with the restaurant and dense residential; and western district with the church, funeral home, and light residential. The exterior of Tellsier is completed, but only the story-related interiors are completed. The current interior player can visit is Meara's house and the gentleman's club (in which Vylar will scoff Valadin, should player decide to enter the club).
+
+There is a secret event on Tellsier that will grant player the best healing item in the game.
+
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/tellsier-1.avif |title=Tellsier title band.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/tellsier-2.avif |title=Restaurant.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/tellsier-3.avif |title=Town square.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/tellsier-4.avif |title=Marketplace.]]
+
+
+Meara can be found at the light residential zone. Her dialogue was cleaned so she does not over-exposition.
+
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/meara-1.avif |title=Meara's house]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/meara-2.avif |title=Meara's introduction.]]
+
+
++ Mildryd Forest
+This is the second out of four forest-themed dungeon. Differing from Tellsier Forest, Mildryd forest is more barren due to it previously used as a pathway to mining facility. The mountain path theme are also used to meld with its mining history. Almost immediately after entering, player can found Lauren and begin her small quest.
+
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/mild-forest-1.avif |title=Mildryd Forest title band.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/mild-forest-2.avif |title=Laruen's introduction.]]
+
+
+Laruen's stat distribution allows her to have more damage output than Valadin since she uses speed for her attacks. However, she should be used more to cripple her enemies rather than being the damage dealer. Laruen also cannot take physical damage well due to her low defense.
+
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/stat-1.avif |title=Valadin's stat, emphasizing all-rounder.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/stat-2.avif |title=Laruen's stat, emphasizing speed.]]
+
+
+After sometime into the forest, you will meet Justin the chemist and he will have a categorized list of items. Since player cannot backtrack to Tellsier and there is a boss battle imminent, players are expected to restock at this point.
+
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/mild-forest-3.avif |title=Justin the chemist's item categories.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/mild-forest-4.avif |title=The imminent boss battle.]]
+
+
+The boss battle is against three regular gullons, in which is quite tough on their own, unless Valadin has his water-based attacks. Once the three gullons fell, the gullon alpha will emerge. It has the same resistance, but different moveset than a regular gullon. One of his attacks is Valadin's weakpoint. Unprepared players will not make it through this boss.
+
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/gullon-1.avif |title=The gullon pack.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/gullon-2.avif |title=The gullon alpha.]]
+
+
+At this point, players will have to search the vicinity manually (the script was to watch a cut scene). The event that follows this is an event where Valadin informs Laruen about her ability. Laruen's dialogue was shortened and any interjection she has was removed.
+
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/mild-forest-5.avif |title=Peregrine's introduction.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/mild-forest-6.avif |title=Valadin, not interjected.]]
+
+
+If player go to a new path instead of backtracking, they will found the very first wind point, which will teleport player near the entrance. Player will be blocked should they try to head further into the forest.
+
+Upon exiting, Valadin will ask Laruen about the name for the eaglet. This is the last major event in the 4th chapter. Player will be send immediately to Falthemnar afterward.
+
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/mild-forest-7.avif |title=The first wind point.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/mild-forest-8.avif |title=Valadin telling the story of Peregrine.]]
+
+
+The Falthemnar clerk has been reworked so he no longer have a linear dialogue. Instead he has a modular choices to ease the programming of his involvement in a secret subquest.
+
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/falthemnar-clerk-1.avif |title=The first set of choices.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/falthemnar-clerk-2.avif |title=The second set of choices, which will end Chapter 4 should player decided to enlist Valadin.]]
+
+
+++ Other system changes
+* Ther Melian's elemental advantage has been implemented.
+* Equipments icon quality has been improved.
+* Characters will now move on the battle screen instead of being almost stationary.
+* Valadin's skillset has been reworked so that he now causes more damage.
+* A single-event framework for location changes has been implemented.
+* A single-event framework for NPCs has been improved.
+
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-4/system-1.avif |title=Characters now move on the battle screen.]]
+
+
+Further system-based tasks:
+* Implement Eizen's moveset
+ * Complete weapon-based skill addition (requires Eizen's moveset to be completed)
+* Complete accessory list.

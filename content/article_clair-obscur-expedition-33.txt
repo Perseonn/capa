@@ -1,0 +1,123 @@
+@title: Clair Obscur - Expedition 33 Review
+@author: Perseonn Balthasaar
+@updated: 2025-05-24
+
+The first time I heard about this game was from a coworker who recommended it as a good RPG. Since this is the same coworker who thinks Xenoblade Chronicles 3's gameplay is exciting, I had my doubts. However, Clair Obscur: Expedition 33 turned out to be commercially successful, with over 2 million copies sold. So, after the mediocrity of Yumia, I decided to give Clair Obscur a go. Sadly, the streak of underwhelming 2025 RPGs continues.
+
+Clair Obscur: Expedition 33 is what a turn-based RPG should be at the bare minimum. I don't understand why it is hailed as a revolutionary turn-based RPG, as it doesn't do anything new: it features QTEs during attacks like in Super Mario RPG, characters can take advantage of buffs or chain abilities (for example, if an enemy has a status ailment, a skill changes behaviour to include an additional effect), and each character is completely unique with their own mechanics. The last two elements I've already seen in Dissidia Final Fantasy Opera Omnia.
+
+[[image instant-painting.avif |Wife asked why Nicolas sounds weird, and I said "Well, he's French," she went "Oh, okay!"]]
+
++ The Good: Gommage Scene and Music
+There is a powerful scene early in the game involving Sophie. I think most people were blown away by this moment, but Sophie isn't really likeable to me (Gustav carries the emotional weight of the scene so much, he should be ripped), and the rest of the game is nothing spectacular. Consider this the best part of the entire game.
+
+[[image the-most-powerful-scene.avif |This scene would be better if she dissolves into red and white (and blue maybe) petals instead of grey dust. Grey dust is Thanos' wanking material.]]
+
+The music is great, and there are leitmotifs — something that's missing in most modern story-driven games. But almost the entire soundtrack consists of one woman wailing. While the vocals are good, they're also fairly forgettable. I had to play "Our Painted Family" at the camp to remember what the actual leitmotif of the game was. This also led to a big let-down when I got to Sirene's area, which is said to have a song so enchanting it drives people to leap off cliffs. The song in question? One woman wailing.
+
+
++ The Bad: Characterisation and Story
+
+++ Gustav
+Gustav is portrayed as a weak white male, while his two party members are presented as STRONG INDEPENDENT WOMAN™ who constantly downplay his trauma. Furthermore, any idea proposed by the women is treated as unquestionably correct — even in unfamiliar environments. I hoped for some character development, but there was none. It's unfortunate, as Gustav is by far the most interesting character in the story. He has lost his love and embarks on Expedition 33 with only one year left to live, accompanied by his adopted daughter, Maelle.
+
+[[image reroll-friends.avif |Gustav wishes he could reroll his friends.]]
+
+++ Lune
+Lune stands out primarily in a scene where Gustav contemplates suicide. Instead of offering meaningful support, she intervenes with, “You do that, we both die.” It comes across as self-centred rather than empathetic. She witnesses Gustav's clear need for help but offers none, prioritising the Lumina Converter over its clearly distressed creator. Typical of STRONG INDEPENDENT WOMAN™ archetype. 
+
+Fortunately, she doesn't get worse as the story progresses — but she doesn't improve either. There's a personal subquest involving her parents, but it doesn't do much to redeem her or develop her character. Her last jarring moment is when she shouts, "OMG VERSO, Y U DUN TELL MOA U R HIS SON? TRATOR!" — a reaction that feels melodramatic and unearned. Lune does share a nice moment with Sirene, but even that scene is puzzling, despite the reveal that Lune can play a musical instrument.
+
+[[image we-both-die-lune.avif |If you off yourself, you'll ruin my hair. Nerd.]]
+
+++ Maelle
+Maelle appears to be who the writers really intended as the main character. As the game progresses, the focus drifts from "saving everyone" to "MUH PAINTED FAMILEH." I think the writers expected players to sympathise with her, but I didn't. Her personality is unpleasant — condescending and insensitive.
+
+Exhibit A: Upon entering Gestral Village for the first time, she declares that intelligence isn't needed to survive — right next to Gustav, a scholar and her legal guardian.
+
+[[image intelligence-is-not-important.avif |You don't need to be intelligent to survive! Isn't that right, my scholarly guardian?]]
+
+Exhibit B: When Esquie, arguably the best character in the game, joins your party, Maelle jokes that he and Gustav could be soulmates — mere moments after Gustav's tragic loss. That kind of remark would be entirely inappropriate in real life and feels tone-deaf here too.
+
+[[image soulmates.avif |Your ex just died, go hug Esquie.]]
+
+She also embodies a frustrating double standard of STRONG INDEPENDENT WOMAN™. When Gustav leaves the party, Maelle is comforted and given space to grieve. Yet no one does the same for Gustav, or for Verso when he loses Alicia. The unspoken rule seems to be: "You a dude, stahp crying."
+
+[[image sorry-i-killed-your-sister.avif |Sorry, you didn't get to say goodbye when I offed your sister. It's what she wants.]]
+
+Thankfully, you can turn the tables on her with Verso's ending. It's bittersweet, but satisfying to finally give some pushback to this spoiled character.
+
+[[image the-duel.avif |No more drugs, kid. No more drugs.]]
+
+++ Sciel
+Sciel is easily the best female character in the game. She's a motherly, supportive figure with a solid backstory, revealed in a personal event. Unfortunately, she doesn't get as much narrative focus as the others. One strange scene involves her saying, “Your mask doesn't work because I am me,” to the Mask Keeper on Visage — a line that makes little sense and adds nothing to her arc.
+
+[[image sciel-mask.avif |Cool, but doesn't tie in to character or story.]]
+
+++ Verso
+Verso's introduction is clumsy. He shows up at the end of Act 1 and suddenly takes centre stage in Act 2, without any in-world interrogation or explanation (unless you initiate it). Initially, I thought he was a younger version of Gustav and that time travel was involved, but no — they're completely separate characters.
+
+With Verso's arrival, the story shifts dramatically. Gustav and the City of Lumiere are pushed aside in favour of Maelle's Nightmares and Verso's backstory. The game treats Verso's identity as a huge twist, but it serves no purpose other than padding the runtime.
+
+That said, Verso does have a few standout moments. His "Verso magic that involves a lot of pain" is compelling, and his best moment is when he pulls that Uno Reverse thing on Maelle. Sadly, most of his emotional depth is locked behind relationship events. At least he gets to bang Sciel. Respect.
+
+[[image swimsuit.avif |He's officially part of Team Kakyouin.]]
+
+++ ...and the Rest!
+Other characters mostly serve as background decoration. Esquie is lovable and amusing, especially in his rivalry with Francois (a hilariously common name). Still, for someone dubbed "the most powerful being," he barely contributes to the main plot.
+
+Monoco is charming with his faux-stoic attitude. He acts tough but is clearly nervous at times, like during the Golgra encounter at the sacred river. Sadly, his role is limited to a party split in Old Lumiere and saying cryptic things when the plot demands it.
+
+Crea only appears once and comes across as rude and immature. Who calls their parents by their first names?  I'd be slapped silly if I try to do that when I was at her age. Well, maybe her intentions are good but poorly expressed? With just one scene, it's hard to say.
+
+[[image esquie-wine.avif |Esquie is also full of wine.]]
+
+
+++ The Mediocre Story
+The overall story is, frankly, mediocre. The aforementioned theme shift—from the people of Lumiere to Maelle and Verso's family—felt awkward. It downplays Gustav's sacrifice (poor guy) and brushes aside the rights and plights of the people of Lumiere. There's little to no foreshadowing, and Maelle's Nightmares (or any scene forced into that cursed 4:3 aspect ratio) amount to nothing but padding.
+
+Most journals are just variations of the "Life sucks" speech — though I did like the one where a woman decided to just spend her final days playing at the beach in Gestral. The world has so much explorable potential, yet the story does nothing with it.
+
+For example, when you encounter a super boss, Verso casually says, "He's Simon, an old friend of mine." Uh... who the heck is Simon? At no point in the game are you given any meaningful information about Verso's Expedition Zero crew outside of his dad. Suddenly, this beefy swordsman named Simon — who's also obsessed with Crea — shows up like he's supposed to matter. Peak Panman writing.
+
+[[image simon.avif |Instead of Simon, he should be called Emiya. Would be a good reference at least.]]
+
+As for the ending, I went with Verso's stance because, honestly, I didn't care about Maelle. There's a ton of hypocrisy in her whole “My life, my choice!” motto. And her enabler Lune? She drops this gem of a line:
+
+[[image bullshit.avif |I'm sorry, there's drugs, extremisms, and since the developers are French, rats.]]
+
+Here's the thing: parents should ALWAYS set boundaries for their children. Maelle's age is exactly when young people are vulnerable to radical ideas under the guise of rebellion. If "going into painting" is the game's metaphor for drug use or self-destructive behavior, then Maelle's choice veers into some sinister territory (this reminds me of the "Daughter" chapter from Petshop of Horrors). And in her ending? She can't keep her promise to her father and ends up broken like her mother.
+
+Verso's ending is the more responsible one—he breaks the cycle of addiction.
+
+That said, both endings gloss over the lives of the people of Lumiere. They're either being puppeteered or erased. But then again, the game barely highlights them at all. One journal even states how they sent dissenters to die on Expeditions. Wow wow wow. Wow.
+
+Sidenote: Near the end of Chapter 2, my wife and I joked about the possibility of an evil organization controlling the Paintress. We guessed it was called—no joke—The Writers. What a coincidence, huh? Can't wait for Clair Obscur: Writers vs Painters!
+
+[[image green-hay-head.avif |Dude, don't give them ideas.]]
+
+++ The Gameplay
+This is something a lot of Steam reviews already complain about, and I have to agree — at least partly. Why are there **FOUR BUTTONS** to mitigate damage in a turn-based battle? Thankfully, the game does throw you a bone: all starter weapons scale with Vitality. So if you just pump Vitality, you get both durability and damage.
+
+But dodging becomes irrelevant as you grow stronger. By late game, you can oneshot even the super bosses before they get a turn — without putting a single point into Might. I maxed Vitality, Defense, and Speed, and picked weapons that match those stats. Luck becomes irrelevant once you reach 75% Crit since you can let Critical Burn take care of the rest.
+
+The nice part? Each character has their own gimmick. There seems to be an intent for synergy, but at endgame, it barely matters. Everyone becomes self-sufficient with the right Lumina setup. Maelle's Virtuoso stance? Just Burn Shot then Swift Stride. Monoco's mask? Stack Energizing Start, equip Joyaro, and unleash Sakapatate Fire on turn 1.
+
+[[image what-is-damage.avif |What is first turn?]]
+
++ The Ugly: Lack of Quality of Life
+The worst offender here is the complete lack of a map or minimap in field areas. The maps themselves aren't terrible, but the visual clutter is real and eye-straining. The devs apparently said something like "lack of map will make discovery much more satisfying." No — it's satisfying with good level design, which this game does not have. I live with two people who are bad with directions: my sister and my wife, so I know this hurdle is a real thing. Getting stuck on random ledges doesn't help either. I'll chalk it up to the devs being either lazy or overly idealistic.
+
+The game also throws a bunch of terms at you without explaining them. There's no glossary, few contextual events, and not enough helpful NPCs. For example: how the heck do the Expeditioners know what they're dealing with? Did past Expeditions come back to report? Gustav has this device that absorbs enemy husks and it works immediately — but how? Where did he get the sample? Did someone bring back a bag of Nevron parts?
+
+[[image jazz-hands.avif |Or why does the Paintress doing jazz hands.]]
+
++ Summary
+[[div class="review hippo"]]
+||~ Pros ||~ Cons ||
+|| Unique gameplay styles among party members. || Unlikable main cast. ||
+|| Music is good. || Music is not particularly memorable. ||
+|| World exploration has some charm. || No map or minimap makes field exploration frustrating. ||
+|| Character builds can be hilariously broken. || Challenge is low, tied too much to parry/dodge mechanics. ||
+|| Weird and unique landscapes, especially Visage. || Story is mediocre at best — and worse than Forspoken. ||
+[[/div]]

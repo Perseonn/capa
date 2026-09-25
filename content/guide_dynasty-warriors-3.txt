@@ -1,0 +1,1208 @@
+@title: Dynasty Warriors 3
+@author: Buster Wolf
+@updated: 2026-09-25
+
+Dynasty Warriors 3 is the third mainline Dynasty Warriors game while being the second with the 1 vs 100 formula, unlike [[[guide:dynastywarriors2 | Dynasty Warriors 2]]] there is a lot unlock this time around.
+
+Two words of warning before beginning
+* First if you used Cheat Codes with the this game your save cannot be transferred to [[[guide:dynasty-warriors-3-xtreme-legends | Xtreme Legends]]] due to anti cheating measures.
+* Second if you have Xtreme Legends and are wondering when should you transfer/mixjoy with the vanilla game do so as early as possible, due to the item Musou Armor requirement rank points will get reset back to 0 if you transfer your save. Your stats will be kept though.
+* Third for those playing Complete Edition Remastered the names of battlefields are using the old translation (Hu Lao Gate) not the up to date translation like in-game (Hulao Gate), all of these are in the Original Mode for that version.
+
++ Character Unlocking/Musou Mode/4th Weapons
+This will detail how to unlock all 41 characters for use in Free Mode, while also detailing the Musou Mode for characters of the Shu, Wei & Wu kingdoms and how to get all characters 4th weapon. For 4th weapons the following apply.
+* The difficulty must be set to Hard.
+* In cases where sub officers are involved if you defeat the main officer, but still manage to defeat the sub officer who is nearby before they retreat it will still meet the requirement.
+* If using 2 players as long as one player meets the requirements the weapon will appear.
+* The weapon can have either no element or one of the following below.
+* Unlike later games only specific attacks with the 4th weapon will have elemental activation.
+4th weapons can come with one of the following three elements attached to them
+* Fire - Gradually burn the target's life.
+* Lightning - Impact with the ground causes a shock wave hitting nearby enemies, can potentially cause another shock wave.
+* Steel (Death) - One shot normal peons, deal percentage damage to officers.
+++ Shu
++++ Zhao Yun
+* **Unlock:** Initial unlock.
+* **Musou:** The Battle of Chang Ban, The Battle at Chi Bi, Assault on Cheng Du, The Battle of Mt. Ding Jun, The Battle at Yi Ling, The Nanman Campaign, The Battle at Wu Zhang Plains.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]] & [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]](*[[span class="controller"]]B[[/span]]) (very last hit)
+* **Supply Unit:** Western Gate Captain by Zhang He's starting location that makes its way to the Northeast before leaving, they will double back when Liu Qi appears.
+* **4th Weapon:** The Battle of Chang Ban (Liu Bei's Forces) - Defeat Xiahou Dun, Zhang Liao & Zhang He and active the Defend Liu Bei event.
+ * The Defend Liu Bei event has a limited time frame in which it can be activated, it starts from when Cao Cao's main forces arrive up until Liu Bei meets with Liu Qi at the shore. You simply need to be riding a horse in Liu Bei's vicinity (mounting one near him counts) for the event. Due to where the Supply Unit appears it is recommend to defeat Zhang He after the event not before.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-zhaoyunmap-ex.avif
+|title=Fierce Dragon Location
+]]
+
++++ Guan Yu
+* **Unlock:** Initial unlock.
+* **Musou:** The Yellow Turban Rebellion, The Battle at Hu Lao Gate, Guan Yu's Escape, The Battle of Chang Ban, The Battle at Fan Castle, The Battle at Yi Ling, The Battle at Wu Zhang Plains.
+* **4th Weapon:** Guan Yu's Escape (Guan Yu's Forces) - Clear the 4th gate.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]]
+* **Supply Unit:** By the 5th gate that makes its way to the South to the 4th gate before leaving.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-guanyumap-ex.avif
+|title=Blue Moon Dragon Location
+]]
+
++++ Zhang Fei
+* **Unlock:** Initial unlock.
+* **Musou:** The Battle at Hu Lao Gate, The Battle of Chang Ban, The Battle at Chi Bi, Assault on Cheng Du, The Battle at Yi Ling, Raid on the Rouge Fortress, The Nanman Campaign.
+* **4th Weapon:** The Battle of Chang Ban (Liu Bei's Forces) - Defeat Xiahou Dun & Xiahou Yuan and activate Zhang Fei's Bridge Yell event.
+ * The Bridge Yell event is really the only tough part for this 4th weapon as you will need to be on the bridge on the East side of the map to activate the event. At the start defeat Zhang Liao and Xiahou Dun to give the center some breathing space, then take one of their horses and ride up to Xiahou Yuan and defeat him, if you were quick enough Cao Cao's main force should arrive after you beat Yuan which would happen 5 minutes into the stage. Make your way back to the bridge on the East and wait for Zhang Fei's Bridge Yell event. Do not kill the Gate Captains in the Northeast area otherwise it will be very hard to get the Bridge Yell event to occur.
+* **Supply Unit:** Left Gate captain near Xu Zhu's starting position that will make its way North before leaving.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-zhangfeimap-ex.avif
+|title=Viper Blade Location
+]]
+
++++ Zhuge Liang
+* **Unlock:** Complete Musou Mode with any Shu or Wei officer except Zhang Fei, Pang Tong, Dian Wei, Zhang Liao & Zhen Ji who do not have Wu Zhang Plains in their Musou Mode.
+* **Musou:** The Mountain Bandit Campaign, The Battle of Chang Ban, The Battle at Chi Bi, The Battle at Yi Ling, The Nanman Campaign, The Battle of Jie Ting, The Battle at Wu Zhang Plains.
+* **4th Weapon:** The Battle at Wu Zhang Plains (Shu Forces) - Defeat Cao Xiu.
+ * Cao Xiu appears as reinforcements after Sun Li has been defeated or 13 minutes have passed.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** East of Shu's Main Camp.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-zhugeliangmap-ex.avif
+|title=Peacock Feather  Location
+]]
+
++++ Liu Bei
+* **Unlock:** Complete 2 Shu Musou Modes.
+* **Musou:** The Yellow Turban Rebellion, The Battle at Hu Lao Gate, The Battle of Chang Ban, The Battle at Chi Bi, Assault on Cheng Du, The Battle of Mt. Ding Jun, The Battle at Yi Ling, The Nanman Campaign, The Battle at Jie Ting, The Battle at Wu Zhang Plains.
+* **4th Weapon:** The Battle at Yi Ling (Shu Forces) - Defeat Sun Shang Xiang.
+ * This is one of the hardest weapons to get solo since things can go bad very fast in Shu's version of Yi Ling. If you can defeat Lu Meng before Lu Xun orders Zhu Ran to burn the Shu camp and prevent the fire attack you will not have to worry about facing the entire Wu army by yourself.
+* **Precious Item:** West of the lower Gate Captain by Sun Quan.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-liubeimap-ex.avif
+|title=Gold Moon Dragon Location
+]]
+
++++ Ma Chao
+* **Unlock:** Complete 1 Shu Musou Mode, alternatively have a Dynasty Warriors 2 save.
+* **Musou:** The Battle of Chang Ban, The Battle at Chi Bi, The Mountain Bandit Campaign, The Battle at Tong Gate, The Battle at Yi Ling, The Nanman Campaign, The Battle at Wu Zhang Plains.
+* **4th Weapon:** The Battle at Tong Gate (Allied Forces) - Have Han Sui defect to Cao Cao's side.
+ * Make your way to Cao Cao when you get the chance to trigger an event which should cause Cao Cao to travel West to the Northwestern section of the map after Xu Huang's unit arrives. Ma Chao will ask Han Sui, Yang Qiu & Li Kan to help which will cause them to go North, stay by Han Sui until he meets Cao Cao. Afterward an event should trigger of a soldier telling Ma Chao about Han Sui meeting Cao Cao, then wait for Han Sui to defect. Do not defeat all 3 officers in front of Tong Gate (Xiahou Yuan, Cao Ren & Cao Hong) because if Pang De or Ma Dai attack Cao Cao he won't move to the West, also the Supply Unit will not appear immediately so you will have to wait for it.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Supply Unit:** South of the Northern Bridge that makes its way to the Northeast before leaving.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-machaomap-ex.avif
+|title=Steel Dragon Location
+]]
+
++++ Huang Zhong
+* **Unlock:** Complete 2 Shu Musou Modes.
+* **Musou:** The Yellow Turban Rebellion, The Battle at Hu Lao Gate, The Battle of Chang Ban, Assault on Cheng Du, The Battle of Mt. Ding Jun, The Battle at Yi Ling, The Battle at Wu Zhang Plains.
+* **4th Weapon:** The Battle of Mt. Ding Jun (Shu Forces) - Defeat Xiahou Shang.
+* **Precious Item:** West of the Northern Gate Captain.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-huangzhongmap-ex.avif
+|title=Oracle Sword Location
+]]
+
++++ Jiang Wei
+* **Unlock** Complete Musou Mode with Zhuge Liang.
+* **Musou:** The Battle of Chang Ban, The Battle of Chi Bi, The Battle at Yi Ling, Raid on the Rogue Fortress, The Nanman Campaign, The Battle of Jie Ting, The Battle at Wu Zhang Plains.
+* **4th Weapon:** The Battle of Jie Ting (Shu Forces) - Defeat Zhen Ji & Cao Zhen in 5 minutes.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Supply Unit:** Right Gate Captain near Sima Yi that makes its way to the Northwestern Gate Captain before leaving.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-jiangweimap-ex.avif
+|title=Blink Location
+]]
+
++++ Wei Yan
+* **Unlock:** Complete 1 Shu Musou Mode, alternatively have a Dynasty Warriors 2 save.
+* **Musou:** The Yellow Turban Rebellion, Raid on the Rogue Fortress, The Battle at Hu Lao Gate, The Battle of Chang Ban, The Battle at Yi Ling, The Battle of Jie Ting, The Battle at Wu Zhang Plains.
+* **4th Weapon:** The Battle of Jie Ting (Shu Forces) - Save Ma Su, defeat all officers and enter Sima Yi's camp.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]] & [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]](*[[span class="controller"]]B[[/span]]) (very last hit of the full chain)
+* **Precious Item:** Eastern wall of the area where Ma Su gets ambushed.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-weiyanmap-ex.avif
+|title=Double Comet Location
+]]
+
++++ Pang Tong
+* **Unlock:** Stage: Assault on Cheng Du (Liu Bei's Forces) - Finish the stage with Pang Tong alive.
+Defeating Zhang Ren before Pang Tong moves gives him plenty of time to stay alive.
+* **Musou:** The Battle at Hu Lao Gate, The Battle of Chang Ban, The Battle at Chi Bi, Assault on Cheng Du, The Battle at Yi Ling, The Mountain Bandit Campaign, The Nanman Campaign.
+* **4th Weapon:** Assault on Cheng Du (Liu Bei's Forces) - Defeat Zhang Ren.
+* **Precious Item:** Northwest corner of the map.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-pangtongmap-ex.avif
+|title=Tornado Staff Location
+]]
+
+++ Wei
++++ Xiahou Dun
+* **Unlock:** Initial unlock.
+* **Musou:** The Yellow Turban Rebellion, The Battle at Hu Lao Gate, The Battle at Guan Du, Guan Yu's Escape, The Battle at He Fei, The Battle at Jie Ting, The Battle at Wu Zhang Plains.
+* **4th Weapon:** Guan Yu's Escape (Cao Cao's Forces) - Defeat Zhou Cang, Chen Zhen, and Guan Ping.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Northeast corner of Guan Ping's area.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-xiahoudunmap-ex.avif
+|title=Kirin Fang Location
+]]
+
++++ Dian Wei
+* **Unlock:** Initial unlock.
+* **Musou:** The Battle at Hu Lao Gate, The Battle at Wan Castle, The Battle of Chang Ban, The Battle at Chi Bi, The Battle at He Fei, The Battle at You Ting, The Siege of He Fei Castle.
+* **4th Weapon:** The Battle of Wan Castle (Cao Cao's Forces) - Defeat Hu Che Er.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]] & [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Supply Unit:** East of Hu Che Er's starting location that makes its way to the Gate Captain West of Hu Che Er before leaving.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-dianweimap-ex.avif
+|title=Mad Bull Location
+]]
+
++++ Xu Zhu
+* **Unlock:** Complete 1 Wei Musou Mode, alternatively have a Dynasty Warriors 2 save.
+* **Musou:** The Mountain Bandit Campaign, The Battle at Guan Du, The Battle of Chang Ban, The Battle at Chi Bi, The Battle at Tong Gate, The Siege of He Fei Castle, The Battle at Wu Zhang Plains.
+* **4th Weapon:** The Battle at Tong Gate (Cao Cao's Forces) - Defeat Pang De & Ma Dai then pass through Tong Gate.
+ * If doing this with 2 players it doesn't matter who defeats Pang De or Ma Dai, but the one using Xu Zhu must pass through Tong Gate.
+* **Precious Item:** Southeast section of the fort on Ma Chao's side.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-xuzhumap-ex.avif
+|title=Stone Crusher Location
+]]
+
++++ Cao Cao
+* **Unlock:** Complete 2 Wei Musou Modes.
+* **Musou:** The Yellow Turban Rebellion, The Battle at Hu Lao Gate, The Battle at Wan Castle, The Battle at Guan Du, The Battle at Chi Bi, The Battle at Tong Gate, The Battle at He Fei, The Battle at Mt. Ding Jun, The Siege of He Fei Castle, The Battle at Wu Zhang Plains.
+* **4th Weapon:** The Yellow Turban Rebellion (Han Forces)- Defeat Zhang Bao & Zhang Liang without any Gate Captains lost on both sides.
+ * It is recommended to defeat Zhang Liang last since the Supply Unit appears closer to his side.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]] (all hits)
+* **Supply Unit:** Northwest Gate Captain that makes its way to the center Gate Captain in the North before leaving.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-caocaomap-ex.avif
+|title=Wrath of Heaven Location
+]]
+
++++ Xiahou Yuan
+* **Unlock:** Stage: The Battle of Mt. Ding Jun (Shu Forces) - Defeat him.
+* **Musou:** The Yellow Turban Rebellion, Raid on the Rouge Fortress, The Battle at Hu Lao Gate, The Battle at Guan Du, The Battle at He Fei, The Battle of Mt. Ding Jun, The Battle at Wu Zhang Plains.
+* **4th Weapon:** The Battle of Mt. Ding Jun (Wei Forces) - Defeat Huang Zhong after his charging event.
+ * Huang Zhong has 2 events that need to happen for you to get this weapon, the first being when he shoots an arrow and the second being him charging forward on horseback. If you are playing with events off wait until his morale increases twice.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Northwest corner from where Huang Zhong starts.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-xiahouyuanmap-ex.avif
+|title=Demon Fang Location
+]]
+
++++ Zhang Liao
+* **Unlock:** Stage: The Battle at He Fei (Wu Forces) - Defeat him. Must be done in Musou Mode.
+* **Musou:** The Battle at Hu Lao Gate, The Battle of Chang Ban, The Battle at Chi Bi, The Mountain Bandit Campaign, The Battle at Tong Gate, The Battle at He Fei, The Siege of He Fei Castle.
+* **4th Weapon:** The Battle at He Fei (Wei Forces) - Defeat Zhou Tai.
+* **Precious Item:** North of the Broken Bridge.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-zhangliaomap-ex.avif
+|title=Dragon Breath Location
+]]
+
++++ Sima Yi
+* **Unlock:** Complete Musou Mode with any Shu or Wei officer except Zhang Fei, Pang Tong, Dian Wei, Zhang Liao & Zhen Ji who do not have Wu Zhang Plains in their Musou Mode.
+* **Musou:** The Battle at Guan Du, The Battle at Chang Ban, The Battle at Chi Bi, The Battle at Fan Castle, The Battle at Jie Ting, The Siege of He Fei Castle, The Battle at Wu Zhang Plains.
+* **4th Weapon:** The Battle at Wu Zhang Plains (Wei Forces) - Defeat Zhang Bao within 20 minutes, a supply unit will appear near the enemy Gate Captains on the bottom right when 20 minutes have passed, defeat it.
+ * You can spend extra time killing off enemy officers while you wait for the supply unit to appear, they don't have the weapon, but will trigger the message for it.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Corner near the enemy Gate Captains on the bottom right.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-simayimap-ex.avif
+|title=Dark Feather Location
+]]
+
++++ Xu Huang
+* **Unlock:** Complete 2 Wei Musou Modes.
+* **Musou:** The Yellow Turban Rebellion, The Battle at Hu Lao Gate, The Battle at Wan Castle, The Battle at Guan Du, The Battle at Tong Gate, The Battle at He Fei, The Battle at Wu Zhang Plains.
+* **4th Weapon:** The Battle at Fan Castle (Wei Forces) - Defeat Guan Ping before the flood attack.
+ * The flood attack occurs 5 minutes into the stage.
+* **Precious Item:** Close to the Northeast corner on the ground level, missable when the flood occurs.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-xuhuangmap-ex.avif
+|title=Marauder Location
+]]
+
++++ Zhang He
+* **Unlock:** Initial unlock.
+* **Musou:** The Battle at Guan Du, The Battle of Chang Ban, The Battle at Chi Bi, The Battle at Mt. Ding Jun, The Battle of Jie Ting, The Siege of He Fei Castle, The Battle at Wu Zhang Plains.
+* **4th Weapon:** The Battle at Guan Du (Cao Cao's Forces) - Find and burn Wu Chao supply depot with Yan Liang & Wen Chou still alive.
+ * The location is random between the 4 forts.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Northwest from the bridge near the Northwestern outer wall of Cao Cao's castle.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-zhanghemap-ex.avif
+|title=Peacock Talon Location
+]]
+
++++ Zhen Ji
+* **Unlock:** Complete 1 Wei Musou Mode, alternatively have a Dynasty Warriors 2 save.
+* **Musou:** Raid on the Rouge Fortress, The Battle at Hu Lao Gate, The Battle of Chang Ban, The Battle at Chi Bi, The Battle at He Fei, The Battle at You Ting, The Siege of He Fei Castle.
+* **4th Weapon:** The Battle of Jie Ting (Wei Forces) - Defeat Jiang Wei.
+ * He is a sub officer to Ma Chao starting slightly behind him.
+* **Precious Item:** Near the right Gate Captain by Zhuge Liang.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-zhenjimap-ex.avif
+|title=Dark Moon Flute Location
+]]
+
+++ Wu
++++ Zhou Yu
+* **Unlock:** Initial unlock.
+* **Musou:** The Mountain Bandit Campaign, The Battle at Hu Lao Gate, Assault on the Wu Territory, The Battle at Chi Bi, The Battle at He Fei, The Battle at Yi Ling, The Nanman Campaign.
+* **4th Weapon:** The Battle at Chi Bi (Sun Quan's Forces) - Defeat Xiahou Dun & Xu Huang or Zhang He.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]] & [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** South of Cao Cao's starting location.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-zhouyumap-ex.avif
+|title=Ancients Sword Location
+]]
+
++++ Lu Xun
+* **Unlock:** Complete 1 Wu Musou Mode, alternatively have a Dynasty Warriors 2 save.
+* **Musou:** The Battle at Chi Bi, The Battle at He Fei, The Battle at Fan Castle, The Battle at Yi Ling, The Nanman Campaign, The Battle at You Ting, The Siege of He Fei Castle.
+* **4th Weapon:** The Battle at Yi Ling (Wu Forces) - With Lu Meng or Gan Ning alive clear the Stone Warrior Formation and defeat Zhuge Liang.
+ * Defeat Wei Yan to keep Lu Meng alive and you shouldn't need to worry afterward, though if you help Zhu Ran get his Fire Attack off this becomes a cake walk to get. You can cheat clearing the Stone Warrior Formation by entering the Northern portion and going around to the Western portion.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Upper right portion of the Stone Warrior Formation.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-luxunmap-ex.avif
+|title=Falcon Location
+]]
+
++++ Taishi Ci
+* **Unlock:** Stage: Assault on Wu Territory (Sun Ce's Forces) - Defeat Liu Yong before Yan Bai Hu & Wang Lang to make Taishi Ci surrender and join you. Must be done in Musou Mode.
+* **Musou:** The Battle at Hu Lao Gate, Surprise Attack on Liu Biao, The Battle at Chi Bi, The Battle at He Fei, Raid on the Rogue Fortress, The Battle at Yi Ling, The  Nanman Campaign.
+* **4th Weapon:** Assault on the Wu Territory (Allied Forces) - Defeat all officers except Sun Ce, this includes the sub officers under Zhou Yu before him.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]] & [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** By the top center Gate Captain.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-taishicimap-ex.avif
+|title=Tiger Slayer Location
+]]
+
++++ Sun Shang Xiang
+* **Unlock:** Initial unlock.
+* **Musou:** The Mountain Bandit Campaign, The Battle at Chi Bi, The Battle at He Fei, The Battle at Yi Ling, The Nanman Campaign, Raid on the Rogue Fortress, The Siege of He Fei Castle.
+* **4th Weapon:** The Battle at You Ting (Wu Forces) - Defeat Cao Xiu.
+* **Precious Item:** South of Cao Xiu's starting location.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-sunshangxiangmap-ex.avif
+|title=Sol Chakram Location
+]]
+
++++ Sun Jian
+* **Unlock:** Complete 2 Wu Musou Modes.
+* **Musou:** The Yellow Turban Rebellion, The Battle at Hu Lao Gate, Surprise Attack on Liu Biao, Assault on the Wu Territory, The Battle at Chi Bi, The Battle at He Fei, The Battle at Yi Ling, The Nanman Campaign, The Battle at You Ting, The Siege of He Fei Castle.
+* **4th Weapon:** Surprise Attack on Liu Biao (Sun Jian's Forces) - Defeat Lu Gong.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** East of the path that leads to Lu Gong.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-sunjianmap-ex.avif
+|title=Savage Wolf Location
+]]
+
++++ Sun Quan
+* **Unlock:** The Battle at He Fei (Wu Forces) - Cause Cao Cao to retreat by having Sun Quan/Jian enter his camp. Must be done in Musou Mode.
+ * Wait for Taishi Ci's death event which will cause Sun Quan/Jian to fall back to the broken bridge. Meet with him to have him jump over then wait for Zhang Liao to leave the battlefield and reappear near him and save him. Afterward Quan/Jian will declare a counterattack, make sure he makes Cao Cao retreat by entering his camp to unlock Sun Quan.
+* **Musou:** The Battle at Chi Bi, Raid on the Rogue Fortress, The Battle at He Fei, The Battle at Yi Ling, The Battle at You Ting, The Nanman Campaign, The Siege of He Fei Castle.
+* **4th Weapon:** The Siege of He Fei Castle (Wu Forces) - Defeat Zhang He.
+* **Precious Item:** East of the pond in the center of the castle.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-sunquanmap-ex.avif
+|title=Master Wolf Location
+]]
+
++++ Lu Meng
+* **Unlock:** Stage: The Battle of Fan Castle (Wu Forces) - Finish the stage with Lu Meng alive.
+ * He doesn't have to show up during the battle.
+* **Musou:** Pirate Attack on the High Seas, The Yellow Turban Rebellion, The Battle at Hu Lao Gate, The Battle at Chi Bi, The Battle at Fan Castle, The Battle at Yi Ling, The Siege of He Fei Castle.
+* **4th Weapon:** The Battle at Fan Castle (Wu Forces) - Defeat Guan Ping.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Southeast of Sima Yi on the higher ground.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-lumengmap-ex.avif
+|title=White Tiger Location
+]]
+
++++ Gan Ning
+* **Unlock:** Stage: The Battle at He Fei (Wei Forces) - Trigger his surprise attack event then defeat him.
+* **Musou:** Pirate Attack on the High Seas, The Battle at Chi Bi, The Battle at He Fei, The Battle at Fan Castle, The Battle at Yi Ling, The Nanman Campaign, The Siege of He Fei Castle.
+* **4th Weapon:** The Battle at He Fei (Wu Forces) - Wait for Taishi Ci's death event.
+ * It is recommended to go to Lu Meng's area in the Southwest and help him since the Supply Unit will go down to that area after Taishi Ci is killed.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Supply Unit:** Northwest Gate Captain that makes its way to the Southwest Gate Captain before leaving.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-ganningmap-ex.avif
+|title=Sea Master Location
+]]
+
++++ Huang Gai
+* **Unlock:** Initial unlock.
+* **Musou:** The Yellow Turban Rebellion, The Battle at Hu Lao Gate, Surprise Attack on Liu Biao, The Battle at Chi Bi, The Battle at Yi Ling, The Battle at You Ting, The Siege of He Fei Castle
+* **4th Weapon:** The Battle at Chi Bi (Sun Quan's Forces) - Defeat Zhang Liao.
+* **Precious Item:** Northern edge of Zhuge Liang's prayer shrine.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-huanggaimap-ex.avif
+|title=Black Shadow Location
+]]
+
++++ Sun Ce
+* **Unlock:** Complete 2 Wu Musou Modes.
+* **Musou:** The Battle at Hu Lao Gate, Assault on the Wu Territory, The Battle at Chi Bi, The Battle at He Fei, The Battle at Fan Castle, The Battle at Yi Ling, The Nanman Campaign.
+* **4th Weapon:** Assault on the Wu Territory (Sun Ce's Forces) - Defeat Liu Yong to cause Taishi Ci to surrender to your side.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]] & [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]](*[[span class="controller"]]B[[/span]]) (very last hit)
+* **Precious Item:** Southeast from Taishi Ci's starting location.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-suncemap-ex.avif
+|title=Overlord Location
+]]
+
++++ Da Qiao
+* **Unlock:** Complete 1 Wu Musou Mode, alternatively have a Dynasty Warriors 2 save.
+* **Musou:** The Yellow Turban Rebellion, The Battle at Hu Lao Gate, Surprise Attack on Liu Biao, Assault on the Wu Territory, The Battle at Chi Bi, The Battle at Yi Ling, The Siege of He Fei Castle.
+* **4th Weapon:** The Battle at You Ting (Wu Forces) - Defeat Zhang He.
+* **Precious Item:** Near the dead end by the Northwest Gate Captain.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-daqiaomap-ex.avif
+|title=True Beauty Location
+]]
+
++++ Xiao Qiao
+* **Unlock:** Clear Musou Mode with Zhou Yu or Da Qiao.
+* **Musou:** Pirate Attack on the High Seas, The Battle at Hu Lao Gate, The Battle at Chi Bi, The Mountain Bandit Campaign, The Battle at He Fei, The Battle at Yi Ling, The Nanman Campaign.
+* **4th Weapon:** The Nanman Campaign (Wu Forces) - Defeat Zhu Rong.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]] (all hits)
+* **Precious Item:** Short dead end East of Gan Ning's starting location.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-xiaoqiaomap-ex.avif
+|title=True Grace Location
+]]
+
+++ Others
++++ Diao Chan
+* **Unlock:** The Battle at Hu Lao Gate (Allied Forces) - Defeat her.
+* **4th Weapon:** The Battle at Hu Lao Gate (Dong Zhuo's Forces) - Defeat Yuan Shu.
+* **Precious Item:** Southern portion of Fan Shui Gate on the West side.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-diaochanmap-ex.avif
+|title=Gold Globe Location
+]]
+
++++ Lu Bu
+* **Unlock:** The Battle of Hu Lao Gate (Allied Forces) - Get 1000 KOs.
+* **4th Weapon:** The Battle at Hu Lao Gate (Dong Zhuo's Forces) - Defeat Guan Yu, Zhang Fei & Liu Bei.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]], [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]] & [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]](*[[span class="controller"]]B[[/span]])(very last hit)
+* **Supply Unit:** Northeast Gate Captain that makes its way to the center Western Gate Captain.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-lubumap-ex.avif
+|title=Sky Scorcher Location
+]]
+
++++ Dong Zhuo
+* **Unlock:** The Battle at Hu Lao Gate (Allied Forces) - Defeat Diao Chan & Lu Bu.
+* **4th Weapon:** The Battle at Hu Lao Gate (Dong Zhuo's Forces) - Wait for Diao Chan to defect to the Allied side and defeat her.
+ * For Diao Chan to defect the only officers that must be alive are her and Lu Bu, stay by her until every other officer is defeated then defeat her when she defects.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Gate Captain North of Hua Xiong's starting location.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-dongzhuomap-ex.avif
+|title=Grand Star Location
+]]
+
++++ Yuan Shao
+* **Unlock:** Battle at Guan Du (Cao Cao's Forces) - Defeat Yan Liang and Wen Chou before Guan Yu does.
+* **4th Weapon:** The Battle at Guan Du (Yuan Shao's Forces) - Keep Wen Chou alive for 10 minutes.
+ * Keeping Wen Chou alive is pretty easy, you will want to defeat Guan Yu first as if he meets Wen Chou he will instantly kill him. Afterward if you defeat Xiahou Dun & Xu Huang he should have no trouble staying alive.
+* **Supply Unit:** North of the Southern fort that makes its way to the Southeast Gate Captain before leaving.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-yuanshaomap-ex.avif
+|title=Grand Master Location
+]]
+
++++ Zhang Jiao
+* **Unlock:** The Yellow Turban Rebellion (Han Forces) - Defeat Zhang Bao, Zhang Liang & Zhang Jiao.
+* **4th Weapon:** The Yellow Turban Rebellion (Yellow Turbans) - Defeat Liu Bei, Sun Jian or Cao Cao including all of their sub officers.
+ * You simply need to choose between the three officers and defeat all of their sub officers before them.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Right of the river leaving the North of the Castle.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-zhangjiaomap-ex.avif
+|title=Volcano Staff Location
+]]
+
++++ Meng Huo
+* **Unlock:** The Nanman Campaign (Wu or Shu Forces) - Defeat him at all 7 of his locations. Must be done in Musou Mode.
+* **4th Weapon:** The Nanman Campaign (Nanman Forces) - Defeat Ma Chao, Zhang Yi and Ma Dai or defeat Zhang Fei, Zhang Bao, and Guan Xing.
+ * You simply need to choose between either the left or right side of the map to defend.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Near the Gate Captain on the left in the center of the map.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-menghuomap-ex.avif
+|title=King of Beasts Location
+]]
+
++++ Zhu Rong 
+* **Unlock:** The Nanman Campaign (Wu or Shu Forces) - Defeat her.
+* **4th Weapon:** The Nanman Campaign (Nanman Forces) - Keep Dong Tu Ne & Ahui Nan alive for 15 minutes.
+ * You won't have to worry about Dong Tu Ne as no one will likely go for him, you will want to rush to help Ahui Nan though.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]] & [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]]
+* **Precious Item:** Near the Southern bridge.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-zhurongmap-ex.avif
+|title=Magma Wheel Location
+]]
+
++++ Fu Xi 
+* **Unlock:** Clear Musou Mode with Liu Bei, Cao Cao & Sun Jian.
+* **4th Weapon:** Surprise Attack on Liu Biao (Liu Biao's Forces) - Defeat Huang Gai.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]] & [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]](*[[span class="controller"]]B[[/span]]) (very last hit)
+* **Precious Item:** Dead end at the Northwest of the Beach.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-fuximap-ex.avif
+|title=Fu Xi's Sword Location
+]]
+
++++ Nu Wa
+* **Unlock:** Clear Musou Mode with all 4 female characters (Sun Shang Xiang, Da Qiao, Xiao Qiao & Zhen Ji).
+* **4th Weapon:** The Battle at Wan Castle (Zhang Xiu's Forces) - Defeat Dian Wei.
+* **Element:** [[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]A[[/span]][[span class="controller"]]B[[/span]](*[[span class="controller"]]B[[/span]]) (very last hit)
+* **Precious Item:** North of Dian Wei's starting location.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=4th-weapon-nuwamap-ex.avif
+|title=Nu Wa's Rapier Location
+]]
+
++ Dim Sum & Musou Wine Locations
+All stages have a Dim Sum which increases max Health by 10 and a Musou Wine which increases max Musou by 10 somewhere in the stage, the only exception is Yellow Turban Rebellion which has 2 of each in the stage. They are found in pots.
+++ The Yellow Turban Rebellion
+* **Dim Sum:** 1. Right of the river leaving the North of the Castle. 2. Middle ledge on the East castle wall.
+* **Musou Wine:** 1. South of the Middle left Gate Captain. 2. Middle ledge on the West castle wall.
+* **Weapon:** (Han) Zhao Hong, He Yi, Deng Mao. (Yellow Turbans) Zou Jing, Sun Jian, Cao Cao.
+* **Item:** (Han) Zhang Liang, Zhang Bao, Bo Zhang. (Yellow Turbans) Lu Zhi, Liu Bei, Cao Hong.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-1-ytrmap.avif
+|title=Yellow Turban Rebellion Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-1-ytrds1.avif
+|title=Yellow Turban Rebellion Dim Sum 1
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-1-ytrds2.avif
+|title=Yellow Turban Rebellion Dim Sum 2
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-1-ytrmw1.avif
+|title=Yellow Turban Rebellion Musou Wine 1
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-1-ytrmw2.avif
+|title=Yellow Turban Rebellion Musou Wine 2
+]]
+
+++ The Battle at Hu Lao Gate
+* **Dim Sum:** Northern wall of Hu Lao Gate.
+* **Musou Wine:** Southern wall of Fan Shui Gate.
+* **Weapon:** (Allied) Zhao Cen, Li Jue, Zhang Liao. (Dong Zhuo) Huang Gai, Cao Ren, Wen Chou.
+* **Item:** (Allied) Fan Chou, Guo Si, Li Meng. (Dong Zhuo) Yuan Shu, Gongsun Zan, Han Dang.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-2-hlgmap.avif
+|title=Hu Lao Gate Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-2-hlgds.avif
+|title=Hu Lao Gate Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-2-hlgmw.avif
+|title=Hu Lao Gate Musou Wine
+]]
+
+++ Surprise Attack on Liu Biao
+* **Dim Sum:** West of the Gate Captain South of the Castle.
+* **Musou Wine:** Encampment in front of the Western boat.
+* **Item:** (Liu Biao) Han Dang.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-3-lbmap.avif
+|title=Surprise Attack on Liu Biao Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-3-lbds.avif
+|title=Surprise Attack on Liu Biao Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-3-lbmw.avif
+|title=Surprise Attack on Liu Biao Musou Wine
+]]
+
+++ The Battle at Wan Castle
+* **Dim Sum:** Southern side of the house by the South center Gate Captain.
+* **Musou Wine:** Northwest of the Southeast Gate Captain.
+* **Weapon:** (Cao Cao) Zhao Cen. (Zhang Xiu) Xu Huang, Zhang He, Zhang Liao.
+* **Item:** (Cao Cao) Fan Chou. (Zhang Xiu) Cao Ang, Cao An Min.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-4-wcmap.avif
+|title=Wan Castle Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-4-wcds.avif
+|title=Wan Castle Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-4-wcmw.avif
+|title=Wan Castle Musou Wine
+]]
+
+++ Assault on the Wu Territory
+* **Dim Sum:** West corner by the top center Gate Captain.
+* **Musou Wine:** Northern exit from the Southwest Encampment.
+* **Weapon:** (Sun Ce) Zhang Ying, Chen Heng, Yan Yu. (Allies) Zhu Zhi.
+* **Items:** (Sun Ce) Yu Mi, Zhou Xin. (Allies) Da Qiao, Xiao Qiao.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-5-wtmap.avif
+|title=Assault on Wu Territory Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-5-wtds.avif
+|title=Assault on Wu Territory Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-5-wtmw.avif
+|title=Assault on Wu Territory Musou Wine
+]]
+
+++ The Battle at Guan Du
+* **Dim Sum:** Protrusion South of the top middle encampment.
+* **Musou Wine:** Protrusion Northeast from Cao Cao's main camp.
+* **Weapon:** (Cao Cao) Chun Yuqiong, Lu Wei Kuang, Han Meng. (Yuan Shao) Yu Jin, Wei Xu, Guan Yu.
+* **Item:** (Cao Cao) Yuan Tan, Yuan Xi, Xun Chen. (Yuan Shao) Liu Yan, Li Dian, Song Xian.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-6-gdmap.avif
+|title=Guan Du Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-6-gdds.avif
+|title=Guan Du Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-6-gdmw.avif
+|title=Guan Du Musou Wine
+]]
+
+++ Guan Yu's Escape
+* **Dim Sum:** Between the houses by the first gate.
+* **Musou Wine:** After the second gate near the right wall of the gate.
+* **Weapon:** (Guan Yu) Xiahou En, Yue Jin, Xu Zhu.
+* **Item:** (Guan Yu) Zhu Ling, Li Dian.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-7-gyemap.avif
+|title=Guan Yu's Escape Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-7-gyeds.avif
+|title=Guan Yu's Escape Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-7-gyemw.avif
+|title=Guan Yu's Escape Musou Wine
+]]
+
+++ The Battle of Chang Ban
+* **Dim Sum:** Southwestern corner of the large Western area.
+* **Musou Wine:** Along the shore near the Gate Captains.
+* **Weapon:** (Liu Bei) Cao Zhang, Cao Hong. (Cao Cao) Mi Fang, Liu Feng, Liao Hua.
+* **Item:** (Liu Bei) Xiahou En, Zhang He, Li Dian. (Cao Cao) Mi Zhu, Chen Zhen, Liu Qi.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-8-changbanmap.avif
+|title=Chang Ban Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-8-changbands.avif
+|title=Chang Ban Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-8-changbanmw.avif
+|title=Chang Ban Musou Wine
+]]
+
+++ The Battle at Chi Bi
+* **Dim Sum:** Boat near second top left Gate Captain.
+* **Musou Wine:** Boat near the Southeastern Gate Captain on land.
+* **Weapon:** (Sun Quan/Liu Bei) Cao Ren, Cao Zhang, Xiahou Dun. (Cao Cao) Huang Gai, Cheng Pu, Zhu Huan.
+* **Item:** (Sun Quan/Liu Bei) Cao Hong, Cao Pi, Xun Yu. (Cao Cao) Xu Sheng, Xu Ran, Taishi Ci.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-9-chibimap.avif
+|title=Chi Bi Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-9-chibids.avif
+|title=Chi Bi Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-9-chibimw.avif
+|title=Chi Bi Musou Wine
+]]
+
+++ Assault on Cheng Du
+* **Dim Sum:** Dead end on the second path from the top in the forest.
+* **Musou Wine:** Dead end in the Southern path from Liu Bei's Gate Captain.
+* **Weapon:** (Liu Bei) Leng Bao.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-10-acdmap.avif
+|title=Cheng Du Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-10-acdds.avif
+|title=Cheng Du Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-10-acdmw.avif
+|title=Cheng Du Musou Wine
+]]
+
+++ The Battle at Tong Gate
+* **Dim Sum:** Northwest Corner.
+* **Musou Wine:** Southwest corner by the Northeast Gate Captain.
+* **Weapon:** (Allies) Xu Huang. (Cao Cao) Cheng Yin.
+* **Item:** (Allies) Zhu Ling, Han Shui (defect). (Cao Cao) Han Shui.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-11-tgmap.avif
+|title=Tong Gate Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-11-tgds.avif
+|title=Tong Gate Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-11-tgmw.avif
+|title=Tong Gate Musou Wine
+]]
+
+++ The Battle at He Fei
+* **Dim Sum:** Northwest corner near left Gate Captain.
+* **Musou Wine:** Northeast corner.
+* **Weapon:** (Wei) Xu Sheng, Zhu Ran, Ding Feng. (Wu) Cao Pi, Cao Hong, Cao Zhang.
+* **Item:** (Wei) Han Dang, Zhu Huan, Jiang Qin. (Wu) Li Dian, Yu Jin.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-12-hfmap.avif
+|title=He Fei Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-12-hfds.avif
+|title=He Fei Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-12-hfmw.avif
+|title=He Fei Musou Wine
+]]
+
+++ The Battle at Fan Castle
+* **Dim Sum:** Southern section from Sima Yi's position.
+* **Musou Wine:** Northwest corner.
+* **Weapon:** (Shu) Lu Meng.
+* **Item:** (Shu) Lu Xun.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-13-fcmap.avif
+|title=Fan Castle Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-13-fcds.avif
+|title=Fan Castle Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-13-fcmw.avif
+|title=Fan Castle Musou Wine
+]]
+
+++ The Battle of Mt. Ding Jun
+* **Dim Sum:** Southwestern corner of Wei's main camp.
+* **Musou Wine:** Top of the hill to the central Eastern area of the map.
+* **Weapon:** (Shu) Xiahou De, Cao Hong. (Wei) Meng Da, Yan Yan.
+* **Item:** (Shu) Han Hao. (Wei) Chen Shi.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-14-djmap.avif
+|title=Mt. Ding Jun Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-14-djds.avif
+|title=Mt. Ding Jun Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-14-djmw.avif
+|title=Mt. Ding Jun Musou Wine
+]]
+
+++ The Battle at Yi Ling
+* **Dim Sum:** Center Eastern section of the Stone Warrior Formation.
+* **Musou Wine:** Lower Western section of the Stone Warrior Formation.
+* **Weapon:** (Shu) Zhou Tai, Jiang Qin, Xu Sheng. (Wu) Huang Zhong, Wei Yan, Huang Quan.
+* **Item:** (Shu) Pan Zhang, Ling Tong, Zhu Ran. (Wu) Shamoke, Lei Tong, Wu Lan.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-15-ylmap.avif
+|title=Yi Ling Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-15-ylds.avif
+|title=Yi Ling Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-15-ylmw.avif
+|title=Yi Ling Musou Wine
+]]
+
+++ The Nanman Campaign
+* **Dim Sum:** Around Meng Huo's 2nd & 5th locations (needs an Elephant from the North side).
+* **Musou Wine:** River West of the Shu/Wu main camp.
+* **Weapon:** (Shu/Wu) Meng Huo 1, Dailai Dongzhu, Meng You. (Nanman) Zhang Bao, Zhang Yi, Ma Dai.
+* **Item:** (Shu/Wu) Meng Huo 5, Yong Kai, Dong Tu Ne. (Nanman) Li Hui, Liao Hua.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-16-nanmanmap.avif
+|title=Nanman Campaign Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-16-nanmands.avif
+|title=Nanman Campaign Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-16-nanmanmw.avif
+|title=Nanman Campaign Musou Wine
+]]
+
+++ The Battle of Jie Ting
+* **Dim Sum:** Northwest corner of the Western path.
+* **Musou Wine:** Along the East wall in the center path.
+* **Weapon:** (Shu) Huang Quan, Sun Li, Cao Hong. (Wei) Wang Ping, Wei Yan, Gao Xiang.
+* **Item:** (Shu) Deng Ai, Du Xi, Xin Pi. (Wei) Li Hui, Li Yan, Zhang Yi.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-17-jtmap.avif
+|title=Jie Ting Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-17-jtds.avif
+|title=Jie Ting Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-17-jtmw.avif
+|title=Jie Ting Musou Wine
+]]
+
+++ The Battle at You Ting
+* **Dim Sum:** Northeast corner of the small bend on the center path.
+* **Musou Wine:** Northeast corner of the center fort.
+* **Weapon:** (Wu) Zhen Ji, Zhang Pu, Zhou Fang. (Wei) Xiao Qiao, Zhou Fang (defect).
+* **Item:** (Wu) Hu Zhi, Cao Xiu, Man Chong. (Wei) Da Qiao, Quan Zhong.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-18-ytmap.avif
+|title=You Ting Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-18-ytds.avif
+|title=You Ting Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-18-ytmw.avif
+|title=You Ting Musou Wine
+]]
+
+++ The Siege of He Fei Castle
+* **Dim Sum:** Before the Wind Trap on the Western side.
+* **Musou Wine:** Northeastern corner, room filled with Crossbowmen.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-19-hfcmap.avif
+|title=He Fei Castle Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-19-hfcds.avif
+|title=He Fei Castle Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-19-hfcmw.avif
+|title=He Fei Castle Musou Wine
+]]
+
+++ The Battle at Wu Zhang Plains
+* **Dim Sum:** Near the Southern Gate Captain of Wei's main camp.
+* **Musou Wine:** West of Shu's main camp.
+* **Weapon:** (Shu) Sun Li, Deng Ai, Xin Pi. (Wei) Huang Zhong, Liao Hua, Zhang Bao, Zhang Yi.
+* **Item:** (Shu) Cao Hong, Man Chong, Cao Xiu. (Wei) Wang Ping, Guan Xing.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-20-wzpmap.avif
+|title=Wu Zhang Plains Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-20-wzpds.avif
+|title=Wu Zhang Plains Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-20-wzpmw.avif
+|title=Wu Zhang Plains Musou Wine
+]]
+
+++ The Mountain Bandit Campaign
+* **Dim Sum:** Southeast of the enemy Gate Captain.
+* **Musou Wine:** House near Peasant #1.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-21-mbcmap.avif
+|title=Mountain Bandit Campaign Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-21-mbcds.avif
+|title=Mountain Bandit Campaign Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-21-mbcmw.avif
+|title=Mountain Bandit Campaign Musou Wine
+]]
+
+++ Raid on the Rogue Fortress
+* **Dim Sum:** Top left corner of the top right area (reachable only from the fort wall).
+* **Musou Wine:** East of the very center of the fort.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-22-rfmap.avif
+|title=Rogue Fortress Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-22-rfds.avif
+|title=Rogue Fortress Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-22-rfmw.avif
+|title=Rogue Fortress Musou Wine
+]]
+
+++ Pirate Attack on the High Seas
+* **Dim Sum:** Southwest corner of the Southwestern most ship.
+* **Musou Wine:** Center West side of the Eastern most vertical ship.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-23-pamap.avif
+|title=Pirate Attack Map
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-23-pads.avif
+|title=Pirate Attack Dim Sum
+]]
+
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=battle-23-pamw.avif
+|title=Pirate Attack Musou Wine
+]]
+
++ Items
+++ Normal
+Normal items are ones that boost your characters stats, however due to them all not having the same maximum they will be listed here so you know how close you are to maximizing them.
+||~ Item (Effect) ||~ Maximum ||
+|| Peacock Urn (+HP) || 60 ||
+|| Dragon Amulet (+Musou) || 60 ||
+|| Tiger Amulet (+Attack) || 20 ||
+|| Tortoise Amulet (+Defense) || 40 ||
+|| Huang's Bow (+Bow Attack) || 40 ||
+|| Shell Armor (+Bow Defense) || 40 ||
+|| Horned Helm (+Mounted Attack) || 40 ||
+|| Cavalry Armor (+Mounted Defense) || 40 ||
+|| Speed Scroll (+Speed) || 16 ||
+|| Wing Boots (+Jump) || 16 ||
+|| Seven Star Orb (+Luck) || 20 ||
+|| Wind Scroll (+Reach) || 20 ||
+|| Elixir (+Musou Charge) || 20 ||
+
+++ Unique
+These are items with specific effects that only need to be obtained once, their border is Red compared to the Blue of the above items. The items are listed in order of how they appear when selecting items to use for battle. For those playing Xtreme Legends with mixjoy you can't get these items if you play on Novice difficulty.
++++ Red Hare Saddle
+* **Effect:** Begin stage mounted on Red Hare (fastest horse)
+* **Stage:** The Battle at Hu Lao Gate (Allied Forces)
+* **Requirement:** Defeat Lu Bu.
+* **Supply Unit:** Northwest of Fan Shui Gate that makes its way to the Gate Captain at the North, will wait awhile when it reaches before leaving.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=item-u1-rhsmap.avif
+|title=Red Hare Saddle Location
+]]
+
++++ Hex Mark Saddle
+* **Effect:** Begin stage mounted on Hex Mark (second fastest horse)
+* **Stage:** Assault on Cheng Du (Liu Bei's Forces)
+* **Requirement:** Defeat all officers except Liu Zhang.
+* **Precious Item:** Southwest corner of the map.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=item-u2-hmsmap.avif
+|title=Hex Mark Saddle Location
+]]
+
++++ Imperial Saddle
+* **Effect:** Can mount all horses (will no longer be bucked off a horse at low ranks)
+* **Stage:** The Battle at Yi Ling (Shu Forces)
+* **Requirement:** Prevent Zhu Ran's fire attack and defeat all generals except Sun Quan/Jian. It is recommended to defeat Lu Xun last as he is closest to the Supply Units appearance.
+* **Supply Unit:** Gate Captain North of Sun Quan/Jian's location that circles clockwise from Gate Captain on the East side before leaving when it reaches the East again.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=item-u3-ismap.avif
+|title=Imperial Saddle Location
+]]
+
++++ The Art of War
+* **Effect:** Imperial Seal, War God's Axe & Armor have longer effect (Attack/Defense x2 will be 60 seconds, Musou Full for 20 seconds)
+* **Stage:** The Siege of He Fei Castle (Wei Forces)
+* **Requirement:** Defeat all officers except Sun Quan/Jian, then wait awhile for the item pop up.
+* **Precious Item:** North of Sun Quan/Jian's starting location on the horizontal boat.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=item-u4-aowmap.avif
+|title=Art of War Location
+]]
+
++++ Bodyguard Manual
+* **Effect:** Bodyguards become stronger (makes them more aggressive)
+* **Stage:** The Siege of He Fei Castle (Wu Forces)
+* **Requirement:** Defeat Xu Zhu.
+* **Precious Item:** From where Xu Zhu is continue North then go West and take the Northern path to find the crate.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=item-u5-bmmap.avif
+|title=Bodyguard Manual Location
+]]
+
++++ The Way of Musou
+* **Effect:** Can use True Musou Attack regardless of health (Musou will deal fire damage with an extended finisher)
+* **Stage:** Guan Yu's Escape (Guan Yu's Forces)
+* **Requirement:** Defeat Xiahou Dun to get the item.
+
++++ Survival Guide
+* **Effect:** Attack x2 when near death (standing up when health bar is red gives Attack x2 for 30 seconds)
+* **Stage:** The Battle of Wu Zhang Plains (Shu Forces)
+* **Requirement:** Wait for 2 of the Tiger generals (Guan Yu, Huang Zhong, Ma Chao, Zhang Fei and Zhao Yun) to die to trigger the falling star event.
+* **Precious Item:** North of the entrance to Shu's main camp.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=item-u7-sgmap.avif
+|title=Survival Guide Location
+]]
+
++++ Defender
+* **Effect:** Defense x2 when near death (standing up when health bar is red gives Defense x2 for 30 seconds)
+* **Stage:** The Battle at Wu Zhang Plains (Wei Forces)
+* **Requirement:** Wait for 2 playable officers (Xu Huang, Xu Zhu, Zhang He and Zhen Ji) to die to trigger the falling star event.
+* **Precious Item:** Northeast corner of the map.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=item-u8-dmap.avif
+|title=Defender Location
+]]
+
++++ Fire Arrows
+* **Effect:** Can shoot fire arrows (burn targets dealing slightly more damage) 
+* **Stage:** The Battle at Chi Bi (Cao Cao's Forces)
+* **Requirement:** Defeat Zhou Yu before the fire attack.
+* **Precious Item:** Center most boat, Huang Gai goes here for the Fire attack.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=item-u9-famap.avif
+|title=Fire Arrows Location
+]]
+
++++ Buckler
+* **Effect:** Prevents stumbling after guarding (will never be Guard Broken)
+* **Stage:** The Battle at He Fei (Wu Forces)
+* **Requirement:** Wait for Taishi Ci's death event which will cause Sun Quan/Jian to fall back to the broken bridge, meet them there and they will jump over. Zhang Liao will eventually leave the battlefield and return by Quan/Jian's spot, defeat Zhang Liao to get the item.
+
++++ Power Scroll
+* **Effect:** Never lose weapon deadlocks (loss changes to draw)
+* **Stage:** The Battle of He Fei (Wei Forces)
+* **Requirement:** Trigger Gan Ning's surprise attack event and defeat him to get the item.
+
++++ Gold Harness
+* **Effect:** Prevents dismounting when hit by arrows (stay on mount when hit by arrows, damage not reduced)
+* **Stage:** The Battle at Tong Gate (Cao Cao's Forces)
+* **Requirement:** Defeat Pang De & Ma Dai, then defeat everyone except Ma Chao & Han Sui so that Cao Cao can meet with Han Sui. When Han Sui defects wait for Ma Chao to retreat back to Tong Gate and follow him, it is recommended to play on Normal or higher so Han Sui doesn't get defeated by your forces too quickly.
+* **Supply Unit:** Gate Captains of the Southwest that makes its way to the Northwest corner of the map and leaves.
+[[include image-capa
+|page=guide:dynasty-warriors-3
+|image=item-u12-ghmap.avif
+|title=Gold Harness Location
+]]
+
+++ Item Farming
+The best stage to play to get the most items is **The Battle at You Ting - Wu Forces** on Hard. This version gives you 6 item bags to collect compared to Wei's version giving only 4 in different spots. For Wu's version the 6 items bags are.
+
+# Crate at the Southwest corner of the left center path.
+# Hu Zhi (East path by Da Qiao)
+# Crate South of the center fort
+# Man Chong (Southeast of the center fort)
+# Cao Xiu
+# Crate near Gate Captain behind Sima Yi
+
+If you are wanting to max out all items you will want a general you are good with provided they have Luck on their 4th weapon (Gan Ning is a good candidate for quick clearing) with Seven Star Orb as one of their items. Quit and save **before** you start picking up items as bags picked up before saving will already have the contents determined when you beat the stage. If you don't get an upgrade to your items press Start+Select, reload the save and try again, this will require patience specially for Wind Scroll & Elixir as they are pretty rare.
+
+[[include :asoh:component:video-youtube |video-id=3-s4smq-ils]]
++ Cheat Codes
+Dynasty Warriors 3 is one of few warriors titles to have cheat codes, all of these codes must be entered at the main menu and if successful you will hear a crowd cheering.
+
+**All Shu Officers:** [[span class="controller"]][[[/span]], [[span class="controller"]]A[[/span]], [[span class="controller"]]B[[/span]], [[span class="controller"]]}[[/span]], [[span class="controller"]][[[/span]], [[span class="controller"]]{[[/span]], [[span class="controller"]]{[[/span]], [[span class="controller"]]][[/span]], [[span class="controller"]]A[[/span]], [[span class="controller"]][[[/span]].
+**All Wei Officers:** [[span class="controller"]]{[[/span]], [[span class="controller"]][[[/span]], [[span class="controller"]]A[[/span]], [[span class="controller"]]B[[/span]], [[span class="controller"]][[[/span]], [[span class="controller"]]{[[/span]], [[span class="controller"]]][[/span]], [[span class="controller"]]}[[/span]], [[span class="controller"]][[[/span]], [[span class="controller"]]{[[/span]].
+**All Wu Officers:** [[span class="controller"]]B[[/span]], [[span class="controller"]]B[[/span]], [[span class="controller"]][[[/span]], [[span class="controller"]]A[[/span]], [[span class="controller"]]][[/span]], [[span class="controller"]]}[[/span]], [[span class="controller"]][[[/span]], [[span class="controller"]]{[[/span]], [[span class="controller"]]{[[/span]], [[span class="controller"]]{[[/span]].
+**All Playable Officers:** [[span class="controller"]]}[[/span]], [[span class="controller"]]}[[/span]], [[span class="controller"]]}[[/span]], [[span class="controller"]][[[/span]], [[span class="controller"]]B[[/span]], [[span class="controller"]]{[[/span]], [[span class="controller"]]{[[/span]], [[span class="controller"]]{[[/span]], [[span class="controller"]]][[/span]], [[span class="controller"]]A[[/span]].
+**All Stages:** [[span class="controller"]]][[/span]], [[span class="controller"]]}[[/span]], [[span class="controller"]]{[[/span]], [[span class="controller"]][[[/span]], [[span class="controller"]]A[[/span]], [[span class="controller"]][[[/span]], [[span class="controller"]]{[[/span]], [[span class="controller"]]}[[/span]], [[span class="controller"]]][[/span]], [[span class="controller"]]B[[/span]]. This also unlocks the side forces as well, but will not unlock the 3 Musou mode specific stages The Mountain Bandit Campaign, Raid on the Rogue Fortress & Pirate Attack on the High Seas.
+**All BGMs:** [[span class="controller"]][[[/span]], [[span class="controller"]][[[/span]], [[span class="controller"]]][[/span]], [[span class="controller"]]][[/span]], [[span class="controller"]]{[[/span]], [[span class="controller"]]{[[/span]], [[span class="controller"]]}[[/span]], [[span class="controller"]]}[[/span]], [[span class="controller"]]A[[/span]], [[span class="controller"]]B[[/span]].
+**All Movies:** [[span class="controller"]]B[[/span]], [[span class="controller"]][[[/span]], [[span class="controller"]]B[[/span]], [[span class="controller"]]][[/span]], [[span class="controller"]]B[[/span]], [[span class="controller"]]A[[/span]], [[span class="controller"]]{[[/span]], [[span class="controller"]]A[[/span]], [[span class="controller"]]}[[/span]], [[span class="controller"]]A[[/span]].
+**Opening Edit:** [[span class="controller"]]][[/span]], [[span class="controller"]]A[[/span]], [[span class="controller"]]][[/span]], [[span class="controller"]]B[[/span]], [[span class="controller"]]][[/span]], [[span class="controller"]][[[/span]], [[span class="controller"]]A[[/span]], [[span class="controller"]][[[/span]], [[span class="controller"]]B[[/span]], [[span class="controller"]][[[/span]].

@@ -1,0 +1,154 @@
+@title: Shin Megami Tensei Nocturne Review
+@author: Perseonn Balthasaar
+@updated: 2014-05-14
+
+Shin Megami Tensei Nocturne, also known as Shin Megami Tensei Nocturne Maniacs in Japan, is a dungeon crawling, post-apocalyptic, fantasy kitchen sink JRPG. Developed by ATLUS for Playstation 2 on 2004, this game is the direct sequel of the Shin Megami Tensei II that only appears on NES.
+
++ Story
+Nocturne follows the story of a nameless protagonist. He started out as a hapless high school student who has just arrived to Central Tokyo after being called by his favorite teacher. Along with best 2 friends, they head for Shinjuku Medical Center to meet the said teacher. 
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/title.jpg |title=Title splash.]]
+
+
+However, this turned out to be an irregular teacher-student meet as the world come to an end and only the people inside the hospital can survive the Cataclysm. A new temporary world emerged, along with armies of demons. Unfortunately, our protagonist did not fully survive the Cataclysm and was turned into a demon. This was the beginning of a journey to reshape the world with a Reason. Nocturne has six different endings, however only 2 endings are worth seeing, the best ending and the worst ending.
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/protagonist.jpg |title=Protagonist just arrived in Yoyogi Station.]]
+
+
+
++ Graphics
+Nocturne uses a nice cell shaded graphic that fits its anime style characters. It was quite an impressive graphic back then on 2004, and in my opinion, still good for a dated game.
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/ginza.jpg |title=Protagonist in Ginza.]]
+
+
+Being one of the rare RPG that have a world map, Nocturne uses simple 3D worldmap, but the presentation is nice and detailed.
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/worldmap.jpg |title=Tokyo before Cataclysm (left) and after Cataclysm (right).]]
+
+
+Speaking of graphics, the characters and demons on the game are designed by Kazuma Kaneko. The designs can be quite inconsistent since this game mixes old Kaneko and new Kaneko style.
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/titaniaclotho.jpg |title=Titania (left) is an old Kaneko style, Clotho (right) is a new Kaneko style.]]
+
+
+
++ Sound
+Nocturne's music was composed by Shoji Meguro, who also directed the game. The music ranges from new age (fields, towns), to a techno rock (battles). While it may feel weird, I can guarantee the music for this game is great. There are no voiceovers for dialogues, but there are battle voices that do not fall to Orgasmic Battle category (well, except for seductive demons). This makes each and every battle an adrenaline pumping experience.
+
+
++ Control
+Nocturne controls like standard RPG with 8-way-run. The protagonist moves fast for a dungeon crawling game, making you able to zip through dungeons quickly. There are no confirmation dialogues in battle, so think first before giving command.
+
+
++ Gameplay
+As a dungeon crawling game (like all Shin Megami Tensei series), the game spams dungeon to you in form of long corridor and small rooms. Luckily, there is a map function so you won't get lost. The dungeons can contain teleporters, traps, even a dark version to guarantee that you will take the longest path to the exit. On the downside, the game's dungeons does not have a very challenging puzzle other than finding the exit.
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/kagutsuchitower.jpg |title=No, that floor count is not a bug.]]
+
+
+Different form other Shin Megami Tensei games, you have only one (and optional two others on a certain ending path) story-driven recruitable party member. Know that "party member" means fellow demons that you fight along your way. Nocturne offers variety of demons taken from popular mythology and culture. Each has their own strength and weakness.
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/wukong.jpg |title=Fury Wu Kong from "Saiyuki".]]
+
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/oberon.jpg |title=Fairy Obreon from "A Midsummer Night's Dream".]]
+
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/throne.jpg |title=Divine Throne from Judeo-Christian mythology.]]
+
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/ganesha.jpg |title=Wargod Ganesha from Hindu mythology.]]
+
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/barong.jpg |title=Avatar Barong from Balinese mythology.]]
+
+
+There are two ways to get additional member for your team. First one is to negotiate with a demon during a regular battle. Each demon have a different personality and they always will ask for money and items before finally agreeing to join your cause.
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/negotiate.jpg |title=Protagonist negotiating with a childish Jack Frost.]]
+
+
+Second one is to fuse your demons to form a more powerful demon. Since demons are hard to level up, the only sensible way to maintain a strong party is by doing this.
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/jakyou.jpg |title=Cathedral of Shadows allows you to fuse your demons.]]
+
+
+By fusing, the new demon will inherit its parent's skillset, enabling you to build your very own skillset. However, demons's resistance cannot be changed.]]
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/fuse.jpg |title=A fusion plan for Matador. Green text on the skill list indicates inherited skills. Matador's resistances aren't changed.]]
+
+
+Battle is the best aspect in the game; it is one of the very fast battle engine available for an RPG.  This is the very first of Atlus's RPG that uses a Press Turn System. Basically, Press Turns indicates how commands you can carry out before enemy's turn. Press Turns number depends on your party member count (max of 4 on normal condition). 
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/battle.jpg |title=A battle against Vile Mada, Tyrant Mot, and Femme Rangda (left to right). Press turn is indicated by the purple icons on top-right side of the screen.]]
+
+
+A Press Turn can be extended by hitting weakness or critical hits on enemy. This consumes 1/2 Press Turn instead of 1, making you able to carry 8 commands if hitting weakness and criticals 4 times. 
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/raphael.jpg |title=Seraph Raphael hits weakness on a Foul Shadow. Notice the glowing Press Turn icon that indicates only a half turn is used.]]
+
+
+However, if your attack misses, reflected, voideded, or absorbed, your Press Turn will be reduced by 2. This adds a certain degree of tactics to otherwise a regular turn-based battle.
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/lilith.jpg |title=Night Lilith attacks protagonist, hitting void and penalized 2 Press Turns.]]
+
+
+Buffs play an important role in Nocturne. Most boss battles that you fight will involve buff wars. Since boss can move up to 4 times, this miakes them able to fully buff themselve before they unleash their fury at you. If you come unprepared, it's game over.
+
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/uriel.jpg |title=Seraph Uriel deals high physical damage to physical resistant Wilder Hresvelgr.]]
+
+
+Ironically, battles also become the greatest obstacle in Nocturne as they are very often and almost everywhere (even in towns). It is also common that high leveled enemies gets first turn and use instant kills on your party, ending the battle in one turn before you can act.
+
+Nocturne provides you bonus demons that can be recruited as your allies. These demons ranges from the Judeo-Christian Metatron to guest character Dante from Devil May Cry 2.
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/bonus.jpg |title=A totally unorthodox party of the protagonist, Tyrant Beelzebub, Fiend Dante, and Seraph Metatron (right to left). Each of them comes with their very damaging boss-level attack.]]
+
+[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:smtnocturne/dante.jpg |title=Dante performing helmet breaker and "Showtime!!" appears on screen like Devil May Cry 2.]]
+
+
+
++ Closing
+The story of Nocturne and its library of demons is more than enough to make story writers want to keep playing in order to explore the world further. If you are looking for a different RPG with high difficulty level and chellenging boss, this game is for you.
+
+++ Pros:
+* Music is the win.
+* Savepoints are plentiful.
+* Tactical turn-based battle.
+* Best and worst ending are very satisfying.
+* Dante comes with his skillsets from Devil May Cry 2.
+* Runs perfectly on PS2 emulator (see emulation below for more details).
+* Demons are taken from various mythology and rendered by Kazuma Kaneko, with near-accurate symbolism.
+
+++ Cons:
+* High random encounter.
+* Money management is hard.
+* You are no longer able to find the game on shelves.
+* The other 4 endings are not as satisfying as the best and worst ending.
+* Random encounter can easily wipe you out. You can even die at tutorial battle.
+* Dante is not very practical considering the point you get him and what is coming next.
+
+Emulation
+This game is very rare so a way to play it easily today is by using emulation or a modded PS2. I will cover the minimum option needed to run the game smoothly from beginning to end.
+* Emulator: PCSX2 0.9.8 or above.
+* Emulation Settings: EE/IOP Round Mode: **Nearest**
+* Video Plug: GSdx Direct3D 10, Interlacing Blend bff

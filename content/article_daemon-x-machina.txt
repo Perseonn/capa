@@ -1,0 +1,59 @@
+@title: Daemon X Machina Review
+@author: Perseonn Balthasaar
+@updated: 2025-04-06
+
+Daemon X Machina is a spiritual fork of Armored Core, developed by former staff from the series too! Not only is the mecha customisation deep—from body parts to weapons—you can also customise your pilot's appearance and even their mechanical implants!
+
+[[include image |image=/local--files/article:daemon-x-machina/custom-character.avif |title=It's a basic customisation, but very serviceable. Can't change body size, though.]]
+
++ There Could Be a Lot More Story
+The backstory of the apocalypse—moon fragments falling to Earth—is unfortunately barely mentioned in the game. Several plot points and character development moments feel rushed, even though they could have been expanded into a fuller narrative. It's a real shame, as the lore is genuinely interesting!
+
+[[include image |image=/local--files/article:daemon-x-machina/abyss-is-one-of-my-favorite.avif |title=The dialogue and cutscenes are fine, but more of them would be better.]]
+
++ Gundam Veterans!
+The game features many veteran Gundam voice actors—some even play obvious expys, such as the rivalry between Toru Furuya (piloting a black mecha) and Shuichi Ikeda (piloting a red one)! Other notable VAs include Ayako Kawasumi, Ayumi Tsunematsu, and Yosuke Akimoto.
+
+[[include image |image=/local--files/article:daemon-x-machina/thus-spoke-char.avif |title=Totally not Amuro and Char.]]
+
++ Fast and Awesome Gameplay
+After playing Armored Core 6, it's hard not to compare. Honestly though, Daemon X Machina feels superior in many ways. The combat is faster, you feel genuinely powerful in your mech, the HUD is customisable, it's more beginner-friendly, and it's just more fun overall. While Armored Core 6 feels like a step back from Armored Core 5, Daemon X Machina feels like its natural evolution. The only thing missing is a ramming attack.
+
+[[include image |image=/local--files/article:daemon-x-machina/mecha-goodness.avif |title=You can wield anything that makes sense—there's even a weapon hangar!]]
+
++ Mecha-less Adventure
+A unique feature in Daemon X Machina is the ability to dismount from your mecha, which makes co-op sessions more dynamic as you can swap machines. I even went a step further and replayed all the story missions using only the pilot—including the final boss!
+
+[[include image |image=/local--files/article:daemon-x-machina/on-foot-vs-dominator.avif |title=This took a while, but yes—you can defeat the final boss with a fully-augmented pilot!]]
+
++ Waiting for a Sequel
+What will the sequel, Titanic Scion, bring? Since the Dominator (the final boss) is only the head of a gigantic mecha, will the story pick up from there? Will the customisation system be even better? Here's hoping!
+
+[[include image |image=/local--files/article:daemon-x-machina/waiting-for-sequel.avif |title=Can I look sexier in the future, please?]]
+
++ You Can Get It Cheap
+Psst—for those who missed the free Epic Games version, Daemon X Machina is often on sale on Steam. For around USD 10, you can enjoy hours of mecha customisation, intense battles, raids, and dual-wielding swords—or even shields!
+
+[[include image |image=/local--files/article:daemon-x-machina/vierge-stat.avif |title=You can challenge me to a spar, but I wouldn't recommend it.]]
+
++ Summary
+
+[[div class="review hippo"]]
+
+||~ Pros ||~ Cons ||
+|| Customisable pilot. || Customisation does not include body size. ||
+|| Several veteran voice actors. || Needs more cutscenes for character development. ||
+|| You can dual-wield any weapon or shield. || No weapon arms. ||
+|| Fully rebindable controls—even modifier buttons! || Blink command cannot be rebound. ||
+|| Very beginner-friendly, apart from a few tough missions (like Moonfall). || Exploration mode lacks variety. ||
+|| Raids are soloable with NPC allies. || Exploration relies on RNG drops. These are needed to stand a chance in raids. ||
+|| Fun, experimental weapons (though not always practical). || Machine guns are generally weak—but at least usable as sub-weapons. ||
+|| Full-mecha skins available! || Most full-mecha skins are paid DLC. ||
+|| You can explore and fight on foot. || Mecha legs lack variety. ||
+|| You can pilot other players' mechs! || ||
+|| High-speed combat. || ||
+|| Melee weapons home in on enemies. || ||
+
+[[/div]]
+
+This article has been or will be posted on my workplace's Instagram, @@@p**********e.@@

@@ -1,0 +1,108 @@
+@title: Ther Melian RPG Progress (Chapter 3)
+@author: Perseonn Balthasaar
+@updated: 2016-06-26
+
+Chapter 3 is one of the shortest chapter, only consisting of 1 town. Despite that, this chapter took considerable amount of time to create due to the town layout, mechanics, and NPCs.
+
++ Timetable
+This is the estimate time table, based on the worst possible scenario that each cycle lasts 2 weeks.
+
+||~ Date ||~ Story Milestone ||~ Script Progress ||~ Version ||~ Maps ||~ PC ||
+|| ##ccc|29 May '16## || Chapter 1 || 09/84 || 0.1a || Tellsier Forest (Prologue), Sanctum, Sanctum Dungeon || Valadin, Ellanese, Haldara || 
+|| ##ccc|12 June '16## || Chapter 2 || 13/84 || 0.2a || Atoll of Sorrows (Beach), Grotto of Storms (Sea Cave) || Voltress || 
+|| ##blue|**26 June '16**## || Chapter 3 || 20/84 || 0.3a || Falthemnar || Vylar, Lianna || 
+|| 10 July '16 || Chapter 4 || 28/84 || 0.4a || Tellsier Forest, Tellsier Citadel, Mildryd Forest || Laruen, Meara || 
+|| 24 July '16 || Chapter 5 || 39/84 || 0.5a || Northern Forest, Dark Forest || Karth, Izahra, Eizen || 
+|| 07 August '16 || Chapter 6 || 45/84 || 0.6a || Sanctum Dungeon (Catacombs), Sanctum Meeting Hall ||  || 
+|| 21 August '16 || Chapter 7 || 54/84 || 0.7a ||  ||  || 
+|| 04 September '16 || Chapter 8 || 68/84 || 0.8a || Abandoned Watch Tower, Old Mining Pit ||  || 
+|| 18 September '16 || Chapter 9 || 79/84 || 0.9a || Dark Forest (Expansion), Izhrote ||  || 
+|| 02 October '16 || Last Chapter || 84/84 || 1.0b || Dark Forest (Last Expansion),  ||  || 
+
++ Falthemnar
+Falthemnar is illustrated as a tree-top town, which is highly impossible to make good in currently available assets. I ended up making a raised-garden city with wooden tile. Falthemnar was entered at night automatically after the events at Grotto of Storms.
+
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-1.avif |title=Night time Falthemnar.]]
+
+
+Come the next day, players are introduced to  Valadin's mother, Lianna; and Valadin's father, Vylar. I took my own liberty to rewrite their dialogue to show their personality more. Lianna is introduced as a caring mother, she speaks in 3rd person. Vylar is introduced as a distant father. Valadin refers to him in a very formal "Lourd Father".
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-2.avif |title=Lianna introduction.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-3.avif |title=Vylar introduction.]]
+
+
+Speaking of distant, I tried my best to make Vylar as a snob. This is one of his best moment, and certainly wont be the last.
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-4.avif |title=The best of Vylar.]]
+
+
+After the event, player will be greeted by the Falthemnar title band. This title band also have been applied to past areas as well.
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-5.avif |title=Falthemnar title band.]]
+
+
+Being a hanging garden type of a city, Falthemnar boast a huge tree, visible in the center of the town. There are also a pair of tree houses to add some accent.
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-6.avif |title=The great tree.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-8.avif |title=One of the two tree houses.]]
+
+
+North of the great tree is the Falthemnar Legion Headquarters. Players may speak to clerk who is swamped with requests. West of the great tree is the hotel. I went by the standards of Persona 2 and put a steep price at a hotel.
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-7.avif |title=Falthemnar Legion headquarters.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-A.avif |title=Grandis Luxus Hotel.]]
+
+
+Near the north-western exit is the item shop and equipment shop. I personally want to move the equipment shop to the Legion HQ and make this shop solely sell Orbs and Accessories.
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-B.avif |title=Item shop.]]
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-C.avif |title=Equipment shop.]]
+
+
+The north-western exit leads to Dark Forest, but it is blocked for the time being.
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-9.avif |title=North-western exit, to Dark Forest.]]
+
+
++ System Update
+Characters now has an icon based on their sprite during battle. The enemy formation also have been randomized. Also depicted in the screenshot below is the 'food' items. Foods work like curative items, except they are random, cheaper, and can only stack at 8 each. Speaking of stack, regular items have been given a stack limit too.
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/System-1.avif |title=Foods have been implemented, among other things.]]
+
+
+Enemies now drop salable loots. This is the main economy source for players as all item prices and inns have been increased significantly.
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/System-2.avif |title=Enemy loot have been implemented.]]
+
+
+Valadin now has a complete moveset based on MP and AP. His healing skill now has a reraise effect (prevent death once).
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/System-3.avif |title=Valadin with most of his skills visible.]]
+
+
+The game will show weakness, resistance, and critical hits.
+
+[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/System-4.avif |title=An example of a weakness hit.]]
+
+
+++ Other system changes
+* All enemies images have been replaced to artworks done by [http://akashics.moe Aekashics].
+ * This includes the hound-based Gullon.
+*  Battle voice has been implemented (limited to damage and death sound).
+* Random encounters have been implemented in dungeon maps. The encounter rate is low, because the enemies are rather hard. However, if players dare to abuse Ella's buffs, they should be OK.
+* There's a hidden boss at Falthemnar. Defeating it will start a subquest.
+* An NPC in Falthemnar will also start a subquest.
+* A single-event framework for common NPCs has been implemented.
+* A single-event framework for Shop NPCs has been implemented.
+* A single-event framework for Battle BGM has been implemented.
+* A single-event framework for BGM playback has been implemented.
+* A single-event framework for location title band has been implemented.
+* An item called Windstone can now be purchased from Justin.
+
+Further system-based tasks:
+* Implement Eizen's moveset
+ * Complete weapon-based skill addition (requires Eizen's moveset to be completed)
+* Complete accessory list.
+* Implement Ther Melian's elemental advantage.
+* Fix the icon quality for equipments.

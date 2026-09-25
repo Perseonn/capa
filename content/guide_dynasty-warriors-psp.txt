@@ -1,0 +1,187 @@
+@title: Dynasty Warriors (PSP)
+@author: Buster Wolf
+@updated: 2025-03-15
+
+If you meant to look for [[[guide:dynastywarriors | Dynasty Warriors]]] the fighting game this is the wrong guide. Dynasty Warriors (PSP) is KOEI's first game that was made for the Playstation Portable, unlike Dynasty Warriors 4 which most of the assets are pulled from you go through a grid based map in attempts to eventually make it to the enemy main camp and take it over. Battles always start you at Lv.1 with 4 basic attacks, as you increase in level your moveset will upgrade at Lv.4 and again at Lv.7 which also has an updated weapon design for the next area you go into after reaching Lv.7, at Lv.10 your Musou Attack will always be a True Musou regardless how much health you have. There is quite a bit to cover, but it should be nice and neat with little clutter for the information you may want.
+
++ Playable Officers
+This will list how to unlock the 42 playable officers and their base stats. For their capped stats it is their base stat doubled.
+++ Shu
+||~ Character ||~ Birthplace ||~ Weapon Type ||~ Control ||~ Life ||~ Attack ||~ Defense ||~ Growth ||~ Requirement ||
+|| Zhao Yun || Ji || Pole || 25 || 85 || 95 || 90 || 90 || Initial unlock. ||
+|| Guan Yu || Si || Pole || 26 || 90 || 96 || 82 || 88 || Initial unlock. ||
+|| Zhang Fei || You || Pole || 25 || 98 || 98 || 80 || 84 || Initial unlock. ||
+|| Zhuge Liang || Xu || Blunt || 29 || 82 || 75 || 100 || 87 || Clear Shu Musou Mode once. ||
+|| Liu Bei || You || Blade || 29 || 84 || 76 || 85 || 99 || Clear Shu Musou Mode once. ||
+|| Ma Chao || Si || Pole || 25 || 88 || 97 || 85 || 90 || Initial unlock. ||
+|| Huang Zhong || || || || || || || || ||
+|| Jiang Wei || || Pole || || || || || || ||
+|| Wei Yan || || Pole || || || || || || ||
+|| Pang Tong || Jing || Blunt || 27 || 93 || 77 || 95 || 87 || Clear Shu Musou Mode once. ||
+|| Yue Ying || Jing || Pole || 26 || 85 || 83 || 93 || 95 || Initial unlock. ||
+++ Wei
+||~ Character ||~ Birthplace ||~ Weapon Type ||~ Control ||~ Life ||~ Attack ||~ Defense ||~ Growth ||~ Requirement ||
+|| Xiahou Dun || Yu || Blade || 25 || 88 || 94 || 91 || 87 || Initial unlock. ||
+|| Dian Wei || Yan || Blade || 24 || 99 || 96 || 75 || 94 || Initial unlock. ||
+|| Xu Zhu || Yu || Blunt || 24 || 98 || 97 || 82 || 87 || Initial unlock. ||
+|| Cao Cao || Yu || Blade || 30 || 84 || 89 || 91 || 96 || Clear Wei Musou Mode once. ||
+|| Xiahou Yuan || Yu || Blunt || 25 || 87 || 93 || 93 || 87 || Initial unlock. ||
+|| Zhang Liao || || Pole || || || || || || ||
+|| Sima Yi || Si || Blunt || 29 || 80 || 80 || 98 || 86 || Clear Wei Musou Mode once. ||
+|| Xu Huang || || Pole || || || || || || ||
+|| Zhang He || ||  || || || || || || ||
+|| Zhen Ji || Ji || Blunt || 25 || 91 || 80 || 91 || 98 || Initial unlock. ||
+|| Cao Ren || Yu || Blade || 25 || 95 || 87 || 93 || 85 || Clear Wei Musou Mode once. ||
+++ Wu
+||~ Character ||~ Birthplace ||~ Weapon Type ||~ Control ||~ Life ||~ Attack ||~ Defense ||~ Growth ||~ Requirement ||
+|| Zhou Yu || Yang || Blade || 28 || 77 || 78 || 95 || 98 || Initial unlock. ||
+|| Lu Xun || Yang || Blade || 27 || 86 || 81 || 96 || 89 || Initial unlock. ||
+|| Taishi Ci || Qing || Blunt || 25 || 96 || 95 || 81 || 88 || Initial unlock. ||
+|| Sun Shang Xiang || Yang || Blade || 24 || 88 || 89 || 92 || 95 || Initial unlock. ||
+|| Sun Jian || Yang || Blade || 29 || 87 || 92 || 80 || 85 || Clear Wu Musou Mode once. ||
+|| Sun Quan || Yang || Blade || 27 || 87 || 89 || 89 || 87 || Clear Wu Musou Mode once. ||
+|| Lu Meng || || || || || || || || ||
+|| Gan Ning || Yi || Blade || 25 || 90 || 93 || 85 || 92 || Initial unlock. ||
+|| Huang Gai || ||  || || || || || || ||
+|| Sun Ce || Yang || Blunt || 28 || 75 || 94 || 84 || 95 || Clear Wu Musou Mode once. ||
+|| Da Qiao || || || || || || || || ||
+|| Xiao Qiao || || || || || || || || ||
+|| Zhou Tai || ||  || || || || || || ||
+++ Others
+||~ Character ||~ Birthplace ||~ Weapon Type ||~ Control ||~ Life ||~ Attack ||~ Defense ||~ Growth ||~ Requirement ||
+|| Diao Chan || Bing || Blunt || 24 || 90 || 80 || 94 || 100 || Clear an Others Musou Mode. ||
+|| Lu Bu || Bing || Pole || 24 || 100 || 100 || 100 || 75 || Clear an Others Musou Mode. ||
+|| Dong Zhuo || Liang || Blade || 27 || 94 || 95 || 85 || 78 || Clear 1 Shu, Wei & Wu Musou Mode. ||
+|| Yuan Shao || Yu || Blade || 26 || 89 || 88 || 90 || 89 || Clear 1 Shu, Wei & Wu Musou Mode. ||
+|| Zhang Jiao || Ji || Blunt || 28 || 95 || 79 || 80 || 94 || Clear 1 Shu, Wei & Wu Musou Mode. ||
+|| Meng Huo || Nan Zhong || Blunt || 26 || 95 || 95 || 88 || 78 || Clear 1 Shu, Wei & Wu Musou Mode. ||
+|| Zhu Rong || Nan Zhong || Blade || 24 || 91 || 93 || 86 || 94 || Clear an Others Musou Mode. ||
++ Stages
+++ Musou Mode
+Similar to the main game this is based off of, Dynasty Warriors 4, Musou Mode is kingdom based so all characters of their respective kingdom go through the same 5 stages. 
+||~ Kingdom ||~ Stage 1 ||~ Stage 2 ||~ Stage 3 ||~ Stage 4||~ Stage 5||
+|| Shu || The Yellow Turban Rebellion || Battle of Hu Lao Gate || Battle of Chang Ban || Battle of Yi Ling || Battle of Wu Zhang Plains ||
+|| Wei || The Yellow Turban Rebellion || Battle of Hu Lao Gate || Battle of Guan Du || Battle of He Fei || Battle of Wu Zhang Plains ||
+|| Wu || The Yellow Turban Rebellion || Battle of Hu Lao Gate || Battle of Chi Bi || Battle of He Fei || Battle of Yi Ling ||
+The Others Kingdom have their own set of stages to go through based on which character you pick for Musou Mode.
+||~ Kingdom ||~ Stage 1 ||~ Stage 2 ||~ Stage 3 ||~ Stage 4||~ Stage 5||
+|| Dong Zhuo (Diao Chan, Lu Bu, Dong Zhuo) || || || || || ||
+|| Yuan Shao || || || || || ||
+|| Nanman (Meng Huo, Zhu Rong) || Battle for Nan Zhong || Battle of Chang Ban || Battle of Yi Ling || Battle of He Fei || Battle of Xu Chang ||
+|| Yellow Turbans (Zhang Jiao) || || || || || ||
+++ Maps
+This will show the maps for each side for each battle, the screenshot will show the Supply time for Chaos difficulty while the rest will be listed above the maps.
++ Deployable Officers
+There are in total 200 officers you can choose to bring with you along the battlefield, for a list of all the officers refer to [[[https://1drv.ms/x/s!AsI63GpqhuzqibUZ4DxB4mcnxbL2gQ | this Excel sheet]]]. They are listed in order of
+* The playable 42 officers in index order (2-43)
+* The regular generics by level in alphabetical order (44-178)
+* The special 4 generic ladies (179-182)
+* The Samurai Warriors cast in index order (183-201)
+Each officer has a unit type they will bring to battle as well as possibly having an element that they do for their charge attacks. The letter grade for Deployable Officers translate into ability points which are given for every level they and you gain at the end of a stage with every 100 points combined giving your character +1 to that base stat permanently. The amount given is translated as such
+* D = Lv x 10
+* C = Lv x 12
+* B = Lv x 14
+* A = Lv x 16
+* S = Lv x 18
+* SS = Lv x 20
+The character you control will always count as having SS in all 4 stats, if you end up with #98 it will not give your character an extra base stat it must be over #00.
+
+If your birthplace or weapon type match with the Deployable Officer their level will be reduced by 1, if both match it will be reduced by 2. The lowest possible level is 1. Officers can come with up to 3 additional effects to aid during battle which come in the form of Ability, Boost & Skill.
+++ Ability
+These are effects that activate as you're traversing the grids on the map.
+||~ Name ||~ Effect ||
+|| Ferryman || No morale loss when traversing rivers (Blue lines). ||
+|| Ranger || No morale or life loss when traversing mountains (Red lines with Yellow arrows outside). ||
+|| Antidote || No life loss when traversing swamps. ||
+|| Sunny Boy/Lady || Reduce the chance of rain. ||
+|| Ordinance || More supplies taken from supply depots. ||
+|| Steward || No supplies will be used to heal in bases or supply depots. ||
+|| Field Medic || Restore 20 Life to all units after an area is liberated. ||
+|| Iron Man || Officer with this effect will be fully healed after an area is liberated. ||
+|| Instructor || Gain more experience to develop officers. ||
+++ Boost
+These are passive (or negative) effects that are active while you are on the field battling, these range from 4 different types of benefits.
++++ Stats
+||~ Name ||~ Effect ||
+|| Life - || Life and Musou stats are decreased by 30. ||
+|| Life + || Life and Musou stats are increased by 30. ||
+|| Life ++ || Life and Musou stats are increased by 50. ||
+|| Attack - || Attack stat is decreased by 5. ||
+|| Attack + || Attack stat is increased by 5. ||
+|| Attack ++ || Attack stat is increased by 10. ||
+|| Defense - || Defense stat is decreased by 5. ||
+|| Defense + || Defense stat is increased by 5. ||
+|| Defense ++ || Defense stat is increased by 10. ||
+|| Growth - || Development is decreased by 5. ||
+|| Growth + || Development is increased by 5. ||
+|| Growth ++ || Development is increased by 10. ||
++++ Restorative
+||~ Name ||~ Effect ||
+|| Healing || Very slowly recover Life overtime. ||
+|| Healing + || Slowly recover Life overtime. ||
+|| Fill Musou || Slowly recover Musou overtime. ||
++++ Mount
+||~ Name ||~ Effect ||
+|| Horse || Begin each area on a normal horse. ||
+|| Storm Claw || Begin each area on Storm Runner (Mount attack up). ||
+|| Hex Mark || Begin each area on Hex Mark (Luck up). ||
+|| Shadow || Begin each area on Shadow Runner (Can't be knocked off). ||
+|| Red Hare || Begin each area on Red Hare (Fastest horse). ||
+|| Elephant || Begin each area on an Elephant. ||
++++ Weapon
+The elemental attacks are similar to how they are in the main games where Lv 1-9 will need a full Musou bar to activate
+||~ Name ||~ Effect ||
+|| Enlarge || Weapons reach is increased by 150%. ||
+|| Fire Atk || Charge attacks will very slowly burn an enemies Life. ||
+|| Fire Atk+ || Charge attacks will slowly burn an enemies Life. ||
+|| Elec Atk || Charge attacks will have a bolt of lightning that hits the enemy and surrounding troops. Can potentially steal kills including officers. ||
+|| Elec Atk+ || Charge attacks will have larger bolt of lightning that hits the enemy and surrounding troops. Can potentially steal kills including officers. ||
+|| Vorpal Atk || Charge attacks can potentially one shot normal peons, does fixed percentage damage to officers. ||
+|| Vorpal Atk+ || Charge attacks will one shot normal peons, does more fixed percentage damage to officers. ||
+|| Ice Atk || Charge attacks can freeze enemies in place for a brief period. ||
+|| Ice Atk+ || Charge attacks can freeze enemies in place for a longer period of time. ||
+|| Blast Atk || Charge attacks will deal small damage to guarding enemies. ||
+|| Blast Atk+ || Charge attacks will deal small damage to guarding enemies. ||
+|| Poison Atk || Charge attacks will lower enemies defense for a very brief period. ||
+|| Poison Atk+ || Charge attacks will lower enemies defense for a brief period. ||
+++ Skill
+These are effects that are activated manually, this is done by pressing [[span class="controller"]]**@@*@@**[[/span]] and [[span class="controller"]]**@**[[/span]] on the d-pad to cycle between your officers and press [[span class="controller"]]**^**[[/span]] to activate their skill.
+||~ Name ||~ Effect ||
+|| Recovery || Restore 20 Life to all allies in the area. ||
+|| Recovery + || Restore 50 Life to all allies in the area. ||
+|| Recovery ++ || Restore 100 Life to all allies in the area. ||
+|| Strike || All allies in the area have their attack increased for 20 seconds. ||
+|| Strike + || All allies in the area have their attack increased for 30 seconds. ||
+|| Strike ++ || All allies in the area have their attack increased for 30 seconds, Musou gauge is also filled up. ||
+|| Shield || All allies in the area have their defense increased for 20 seconds. ||
+|| Shield + || All allies in the area have their defense increased for 30 seconds. ||
+|| Shield ++ || All allies in the area have their defense increased for 30 seconds, Musou gauge is also filled up. ||
+|| Speed || Speed is increased for 30 seconds. ||
+|| Speed + || Speed is increased for 60 seconds. ||
+|| Speed ++ || Speed is increased for 90 seconds. ||
+|| Slow || All enemies in the area are slowed down for 20 seconds. ||
+|| Slow + || All enemies in the area are slowed down for 30 seconds. ||
+|| Rally || Restores half a bar of fighting spirit for your side in the area. ||
+|| Rally + || Restores 1 bar of fighting spirit for your side in the area. ||
+|| Rally ++ || Restores 2 bars of fighting spirit for your side in the area. ||
+|| Roar || Remove 1 bar of fighting spirit for your enemies side in the area. ||
+|| Roar + || Remove 2 bars of fighting spirit for your enemies side in the area. ||
+|| Ice Crystal || Freezes enemies in a short range around the officer with this skill. ||
+|| Ice Crystal + || Freezes enemies in a wider range around the officer with this skill. ||
+|| Firearrow || For 30 seconds all arrows will be fire elemental, canceled by rain. ||
+|| Firearrow + || For 60 seconds all arrows will be fire elemental, canceled by rain. ||
+|| Fire Attack || All units slowly get burned overtime, canceled by rain||
+|| Rain Dance || Makes the field rain negating all Fire effects. ||
+|| Dispel || Removes positive benefits from the enemy side. ||
+|| Dispel + || Removes positive benefits from the enemy side, has a shorter cooldown. ||
+|| Dispel ++ || Removes positive benefits from the enemy side, has an even shorter cooldown. ||
+|| Sacrifice || Gives Life of officer with this skill to your character, up to 20 Life. ||
+|| Sacrifice + || Gives Life of officer with this skill to your character, up to 250 Life. ||
+|| Berserk || Fighting efficiency increases for 60 seconds. ||
+|| Berserk + || Fighting efficiency increases for 120 seconds. ||
+|| Fire Spell || All attacks will have Fire element, for 15 seconds burning enemy Life. ||
+|| Elec Spell || All attacks will have Lightning element, for 15 seconds striking bolts of lightning enemy and surrounding troops. ||
+|| Vorpal Spell || All attacks will have Vorpal element, for 15 seconds can one shot peons and deal fixed percentage damage to officers. ||
+|| Ice Spell || All attacks will have Ice element, for 15 seconds can potentially freeze enemies. ||
+|| Blast Spell || All attacks will have Blast element, for 15 seconds deal damage to guarding enemies. ||
+|| Poison Spell || All attacks will have Poison element, for 15 seconds lower enemies defense for a brief period. ||

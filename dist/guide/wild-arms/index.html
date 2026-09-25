@@ -1,0 +1,6749 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Wild Arms</title>
+
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://capa.asoh.xyz/assets/guide/wild-arms/wild-arms-splash.jpg">
+    <meta property="og:title" content="Wild Arms">
+    <meta property="og:description" content="The first RPG I&#39;ve every played. It is plagued with incorrect translations and few inconsistencies, ...">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://capa.asoh.xyz/assets/guide/wild-arms/wild-arms-splash.jpg">
+    <meta name="twitter:title" content="Wild Arms">
+    <meta name="twitter:description" content="The first RPG I&#39;ve every played. It is plagued with incorrect translations and few inconsistencies, ...">
+    
+    
+</head>
+<body>
+    
+<div class="article-page">
+
+    <section
+        class="splash-container"
+        style="background-image: url('/asset/guide/wild-arms/wild-arms.avif')"
+    >
+        <div class="title-container">
+
+            <div class="page-extra">
+                <span class="page-extra-icon"></span>
+                2015-03-27
+            </div>
+
+            <div class="page-sub-title">
+                Perseonn Balthasaar
+            </div>
+
+            <h1 class="page-title">
+                Wild Arms
+            </h1>
+
+        </div>
+    </section>
+
+    <nav class="table-of-contents-small">
+        <a href="#heading-1">Miscellaneous Codes</a>
+<a href="#heading-2">Item Codes</a>
+<a href="#heading-3">Item Type</a>
+<a href="#heading-4">Item Amount</a>
+<a href="#heading-5">Item Digits</a>
+<a href="#heading-6">Rudy Codes</a>
+<a href="#heading-7">Arms Digits</a>
+<a href="#heading-8">Jack Codes</a>
+<a href="#heading-9">Fast Draw Digits</a>
+<a href="#heading-10">Cecilia Codes</a>
+<a href="#heading-11">Crest Magic Digits</a>
+<a href="#heading-12">The Heal Berry 255 Item Trick</a>
+    </nav>
+
+    <main class="article-content">
+        <p>The first RPG I&#39;ve every played. It is plagued with incorrect translations and few inconsistencies, but the story is very good, game play was simple and engaging, challenging bonus boss, thoughtful dungeon, and overall great gaming experience.</p>
+<p>It was remade later as &quot;Alter Code: F&quot;, which still has flawed translation (albeit the long translation time) and the voice over was butchered by its publisher, Agetec. The game also went badly with its new character and engine, rendering both Cecilia and Jack a burden the whole game, and become close to useless after you obtain the extra characters.</p>
+<p>The original PSX Wild Arms is available on PSN for a mere $5.99. On PSN Flash Sale event, the price can be as low as $0.96.</p>
+<p>Wild Arms&#39; randomizer is peculiar that your action will always have same outcome (e.g. hit/miss, damage, critical, Fast Draw leaned) during a turn unless you change a parameter. Example, if you order Jack to do an attack and save the state, then the attack does critical hit, no matter how many times you load the state, that attack will always be a critical. The same goes for enemy: if on the turn they use an attack on Jack for 60 damage, it will always do that to the same target, for the same damage.</p>
+<p>While it sounds annoying, it&#39;s still better than Devil Survivor&#39;s (every battle will have same outcome, downright to damage dealt, if you do the same action).</p>
+<h1 id="heading-1">Miscellaneous Codes</h1>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Gameshark</th>
+        <th>Size</th>
+        <th>Remark</th>
+    </tr>
+    <tr>
+        <td>Money</td>
+        <td>901341DC</td>
+        <td>4 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Encounter</td>
+        <td>800E1100</td>
+        <td>2 byte</td>
+        <td>Set these values to 0 to avoid encounters. This just govern half of the encounter system as setting it to a very high number does not guarantee instant encounter.</td>
+    </tr>
+    <tr>
+        <td>Damage Limit</td>
+        <td>80070FBC</td>
+        <td>2 byte</td>
+        <td>This is a signed integer. Normal max value is 9999. Maximum damage possible can be set to 32767, setting more than that will recover enemies. On damage more than 4 numbers, first digit will always display incorrect number.</td>
+    </tr>
+</table>
+<h1 id="heading-2">Item Codes</h1>
+<h2 id="heading-3">Item Type</h2>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Gameshark</th>
+        <th>Size</th>
+        <th>Remark</th>
+    </tr>
+    <tr>
+        <td>Item Type 001</td>
+        <td>30133F4C</td>
+        <td>1 byte</td>
+        <td>The first slot of item type. Each slot differ by +1. Refer to Item IDs.</td>
+    </tr>
+    <tr>
+        <td>Item Type 002</td>
+        <td>30133F4D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 003</td>
+        <td>30133F4E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 004</td>
+        <td>30133F4F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 005</td>
+        <td>30133F50</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 006</td>
+        <td>30133F51</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 007</td>
+        <td>30133F52</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 008</td>
+        <td>30133F53</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 009</td>
+        <td>30133F54</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 010</td>
+        <td>30133F55</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 011</td>
+        <td>30133F56</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 012</td>
+        <td>30133F57</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 013</td>
+        <td>30133F58</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 014</td>
+        <td>30133F59</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 015</td>
+        <td>30133F5A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 016</td>
+        <td>30133F5B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 017</td>
+        <td>30133F5C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 018</td>
+        <td>30133F5D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 019</td>
+        <td>30133F5E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 020</td>
+        <td>30133F5F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 021</td>
+        <td>30133F60</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 022</td>
+        <td>30133F61</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 023</td>
+        <td>30133F62</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 024</td>
+        <td>30133F63</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 025</td>
+        <td>30133F64</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 026</td>
+        <td>30133F65</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 027</td>
+        <td>30133F66</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 028</td>
+        <td>30133F67</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 029</td>
+        <td>30133F68</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 030</td>
+        <td>30133F69</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 031</td>
+        <td>30133F6A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 032</td>
+        <td>30133F6B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 033</td>
+        <td>30133F6C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 034</td>
+        <td>30133F6D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 035</td>
+        <td>30133F6E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 036</td>
+        <td>30133F6F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 037</td>
+        <td>30133F70</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 038</td>
+        <td>30133F71</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 039</td>
+        <td>30133F72</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 040</td>
+        <td>30133F73</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 041</td>
+        <td>30133F74</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 042</td>
+        <td>30133F75</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 043</td>
+        <td>30133F76</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 044</td>
+        <td>30133F77</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 045</td>
+        <td>30133F78</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 046</td>
+        <td>30133F79</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 047</td>
+        <td>30133F7A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 048</td>
+        <td>30133F7B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 049</td>
+        <td>30133F7C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 050</td>
+        <td>30133F7D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 051</td>
+        <td>30133F7E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 052</td>
+        <td>30133F7F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 053</td>
+        <td>30133F80</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 054</td>
+        <td>30133F81</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 055</td>
+        <td>30133F82</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 056</td>
+        <td>30133F83</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 057</td>
+        <td>30133F84</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 058</td>
+        <td>30133F85</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 059</td>
+        <td>30133F86</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 060</td>
+        <td>30133F87</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 061</td>
+        <td>30133F88</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 062</td>
+        <td>30133F89</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 063</td>
+        <td>30133F8A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 064</td>
+        <td>30133F8B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 065</td>
+        <td>30133F8C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 066</td>
+        <td>30133F8D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 067</td>
+        <td>30133F8E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 068</td>
+        <td>30133F8F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 069</td>
+        <td>30133F90</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 070</td>
+        <td>30133F91</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 071</td>
+        <td>30133F92</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 072</td>
+        <td>30133F93</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 073</td>
+        <td>30133F94</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 074</td>
+        <td>30133F95</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 075</td>
+        <td>30133F96</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 076</td>
+        <td>30133F97</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 077</td>
+        <td>30133F98</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 078</td>
+        <td>30133F99</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 079</td>
+        <td>30133F9A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 080</td>
+        <td>30133F9B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 081</td>
+        <td>30133F9C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 082</td>
+        <td>30133F9D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 083</td>
+        <td>30133F9E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 084</td>
+        <td>30133F9F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 085</td>
+        <td>30133FA0</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 086</td>
+        <td>30133FA1</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 087</td>
+        <td>30133FA2</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 088</td>
+        <td>30133FA3</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 089</td>
+        <td>30133FA4</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 090</td>
+        <td>30133FA5</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 091</td>
+        <td>30133FA6</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 092</td>
+        <td>30133FA7</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 093</td>
+        <td>30133FA8</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 094</td>
+        <td>30133FA9</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 095</td>
+        <td>30133FAA</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 096</td>
+        <td>30133FAB</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 097</td>
+        <td>30133FAC</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 098</td>
+        <td>30133FAD</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 099</td>
+        <td>30133FAE</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 100</td>
+        <td>30133FAF</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 101</td>
+        <td>30133FB0</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 102</td>
+        <td>30133FB1</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 103</td>
+        <td>30133FB2</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 104</td>
+        <td>30133FB3</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 105</td>
+        <td>30133FB4</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 106</td>
+        <td>30133FB5</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 107</td>
+        <td>30133FB6</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 108</td>
+        <td>30133FB7</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 109</td>
+        <td>30133FB8</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 110</td>
+        <td>30133FB9</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 111</td>
+        <td>30133FBA</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 112</td>
+        <td>30133FBB</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 113</td>
+        <td>30133FBC</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 114</td>
+        <td>30133FBD</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 115</td>
+        <td>30133FBE</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 116</td>
+        <td>30133FBF</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 117</td>
+        <td>30133FC0</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 118</td>
+        <td>30133FC1</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 119</td>
+        <td>30133FC2</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 120</td>
+        <td>30133FC3</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 121</td>
+        <td>30133FC4</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 122</td>
+        <td>30133FC5</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 123</td>
+        <td>30133FC6</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 124</td>
+        <td>30133FC7</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 125</td>
+        <td>30133FC8</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 126</td>
+        <td>30133FC9</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 127</td>
+        <td>30133FCA</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 128</td>
+        <td>30133FCB</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 129</td>
+        <td>30133FCC</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 130</td>
+        <td>30133FCD</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 131</td>
+        <td>30133FCE</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 132</td>
+        <td>30133FCF</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 133</td>
+        <td>30133FD0</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 134</td>
+        <td>30133FD1</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 135</td>
+        <td>30133FD2</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 136</td>
+        <td>30133FD3</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 137</td>
+        <td>30133FD4</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 138</td>
+        <td>30133FD5</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 139</td>
+        <td>30133FD6</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 140</td>
+        <td>30133FD7</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 141</td>
+        <td>30133FD8</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 142</td>
+        <td>30133FD9</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 143</td>
+        <td>30133FDA</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 144</td>
+        <td>30133FDB</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 145</td>
+        <td>30133FDC</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 146</td>
+        <td>30133FDD</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 147</td>
+        <td>30133FDE</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 148</td>
+        <td>30133FDF</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 149</td>
+        <td>30133FE0</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 150</td>
+        <td>30133FE1</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 151</td>
+        <td>30133FE2</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 152</td>
+        <td>30133FE3</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 153</td>
+        <td>30133FE4</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 154</td>
+        <td>30133FE5</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 155</td>
+        <td>30133FE6</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 156</td>
+        <td>30133FE7</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 157</td>
+        <td>30133FE8</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 158</td>
+        <td>30133FE9</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 159</td>
+        <td>30133FEA</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 160</td>
+        <td>30133FEB</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 161</td>
+        <td>30133FEC</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 162</td>
+        <td>30133FED</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 163</td>
+        <td>30133FEE</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 164</td>
+        <td>30133FEF</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 165</td>
+        <td>30133FF0</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 166</td>
+        <td>30133FF1</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 167</td>
+        <td>30133FF2</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 168</td>
+        <td>30133FF3</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 169</td>
+        <td>30133FF4</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 170</td>
+        <td>30133FF5</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 171</td>
+        <td>30133FF6</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 172</td>
+        <td>30133FF7</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 173</td>
+        <td>30133FF8</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 174</td>
+        <td>30133FF9</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 175</td>
+        <td>30133FFA</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 176</td>
+        <td>30133FFB</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 177</td>
+        <td>30133FFC</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 178</td>
+        <td>30133FFD</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 179</td>
+        <td>30133FFE</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 180</td>
+        <td>30133FFF</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 181</td>
+        <td>30134000</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 182</td>
+        <td>30134001</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 183</td>
+        <td>30134002</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 184</td>
+        <td>30134003</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 185</td>
+        <td>30134004</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 186</td>
+        <td>30134005</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 187</td>
+        <td>30134006</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 188</td>
+        <td>30134007</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 189</td>
+        <td>30134008</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 190</td>
+        <td>30134009</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 191</td>
+        <td>3013400A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 192</td>
+        <td>3013400B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 193</td>
+        <td>3013400C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 194</td>
+        <td>3013400D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 195</td>
+        <td>3013400E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 196</td>
+        <td>3013400F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 197</td>
+        <td>30134010</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 198</td>
+        <td>30134011</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 199</td>
+        <td>30134012</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 200</td>
+        <td>30134013</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 201</td>
+        <td>30134014</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 202</td>
+        <td>30134015</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 203</td>
+        <td>30134016</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 204</td>
+        <td>30134017</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 205</td>
+        <td>30134018</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 206</td>
+        <td>30134019</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 207</td>
+        <td>3013401A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 208</td>
+        <td>3013401B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 209</td>
+        <td>3013401C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 210</td>
+        <td>3013401D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 211</td>
+        <td>3013401E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 212</td>
+        <td>3013401F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 213</td>
+        <td>30134020</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 214</td>
+        <td>30134021</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 215</td>
+        <td>30134022</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 216</td>
+        <td>30134023</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 217</td>
+        <td>30134024</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 218</td>
+        <td>30134025</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 219</td>
+        <td>30134026</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 220</td>
+        <td>30134027</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 221</td>
+        <td>30134028</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 222</td>
+        <td>30134029</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 223</td>
+        <td>3013402A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 224</td>
+        <td>3013402B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 225</td>
+        <td>3013402C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 226</td>
+        <td>3013402D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 227</td>
+        <td>3013402E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 228</td>
+        <td>3013402F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 229</td>
+        <td>30134030</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 230</td>
+        <td>30134031</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 231</td>
+        <td>30134032</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 232</td>
+        <td>30134033</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 233</td>
+        <td>30134034</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 234</td>
+        <td>30134035</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 235</td>
+        <td>30134036</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 236</td>
+        <td>30134037</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 237</td>
+        <td>30134038</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 238</td>
+        <td>30134039</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 239</td>
+        <td>3013403A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 240</td>
+        <td>3013403B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 241</td>
+        <td>3013403C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 242</td>
+        <td>3013403D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 243</td>
+        <td>3013403E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 244</td>
+        <td>3013403F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 245</td>
+        <td>30134040</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 246</td>
+        <td>30134041</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 247</td>
+        <td>30134042</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 248</td>
+        <td>30134043</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 249</td>
+        <td>30134044</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 250</td>
+        <td>30134045</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 251</td>
+        <td>30134046</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 252</td>
+        <td>30134047</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 253</td>
+        <td>30134048</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 254</td>
+        <td>30134049</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 255</td>
+        <td>3013404A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Type 256</td>
+        <td>3013404B</td>
+        <td>1 byte</td>
+        <td>The last slot of item type. There are actually less than 256 item.</td>
+    </tr>
+</table>
+<h2 id="heading-4">Item Amount</h2>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Gameshark</th>
+        <th>Size</th>
+        <th>Remark</th>
+    </tr>
+    <tr>
+        <td>Item Amount 001</td>
+        <td>3013404C</td>
+        <td>1 byte</td>
+        <td>The first slot of item amount. Each slot differ by +1.</td>
+    </tr>
+    <tr>
+        <td>Item Amount 002</td>
+        <td>3013404B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 003</td>
+        <td>3013404C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 004</td>
+        <td>3013404D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 005</td>
+        <td>3013404E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 006</td>
+        <td>3013404F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 007</td>
+        <td>30134050</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 008</td>
+        <td>30134051</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 009</td>
+        <td>30134052</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 010</td>
+        <td>30134053</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 011</td>
+        <td>30134054</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 012</td>
+        <td>30134055</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 013</td>
+        <td>30134056</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 014</td>
+        <td>30134057</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 015</td>
+        <td>30134058</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 016</td>
+        <td>30134059</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 017</td>
+        <td>3013405A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 018</td>
+        <td>3013405B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 019</td>
+        <td>3013405C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 020</td>
+        <td>3013405D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 021</td>
+        <td>3013405E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 022</td>
+        <td>3013405F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 023</td>
+        <td>30134060</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 024</td>
+        <td>30134061</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 025</td>
+        <td>30134062</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 026</td>
+        <td>30134063</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 027</td>
+        <td>30134064</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 028</td>
+        <td>30134065</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 029</td>
+        <td>30134066</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 030</td>
+        <td>30134067</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 031</td>
+        <td>30134068</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 032</td>
+        <td>30134069</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 033</td>
+        <td>3013406A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 034</td>
+        <td>3013406B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 035</td>
+        <td>3013406C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 036</td>
+        <td>3013406D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 037</td>
+        <td>3013406E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 038</td>
+        <td>3013406F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 039</td>
+        <td>30134070</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 040</td>
+        <td>30134071</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 041</td>
+        <td>30134072</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 042</td>
+        <td>30134073</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 043</td>
+        <td>30134074</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 044</td>
+        <td>30134075</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 045</td>
+        <td>30134076</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 046</td>
+        <td>30134077</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 047</td>
+        <td>30134078</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 048</td>
+        <td>30134079</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 049</td>
+        <td>3013407A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 050</td>
+        <td>3013407B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 051</td>
+        <td>3013407C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 052</td>
+        <td>3013407D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 053</td>
+        <td>3013407E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 054</td>
+        <td>3013407F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 055</td>
+        <td>30134080</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 056</td>
+        <td>30134081</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 057</td>
+        <td>30134082</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 058</td>
+        <td>30134083</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 059</td>
+        <td>30134084</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 060</td>
+        <td>30134085</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 061</td>
+        <td>30134086</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 062</td>
+        <td>30134087</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 063</td>
+        <td>30134088</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 064</td>
+        <td>30134089</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 065</td>
+        <td>3013408A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 066</td>
+        <td>3013408B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 067</td>
+        <td>3013408C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 068</td>
+        <td>3013408D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 069</td>
+        <td>3013408E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 070</td>
+        <td>3013408F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 071</td>
+        <td>30134090</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 072</td>
+        <td>30134091</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 073</td>
+        <td>30134092</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 074</td>
+        <td>30134093</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 075</td>
+        <td>30134094</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 076</td>
+        <td>30134095</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 077</td>
+        <td>30134096</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 078</td>
+        <td>30134097</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 079</td>
+        <td>30134098</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 080</td>
+        <td>30134099</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 081</td>
+        <td>3013409A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 082</td>
+        <td>3013409B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 083</td>
+        <td>3013409C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 084</td>
+        <td>3013409D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 085</td>
+        <td>3013409E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 086</td>
+        <td>3013409F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 087</td>
+        <td>301340A0</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 088</td>
+        <td>301340A1</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 089</td>
+        <td>301340A2</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 090</td>
+        <td>301340A3</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 091</td>
+        <td>301340A4</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 092</td>
+        <td>301340A5</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 093</td>
+        <td>301340A6</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 094</td>
+        <td>301340A7</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 095</td>
+        <td>301340A8</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 096</td>
+        <td>301340A9</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 097</td>
+        <td>301340AA</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 098</td>
+        <td>301340AB</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 099</td>
+        <td>301340AC</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 100</td>
+        <td>301340AD</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 101</td>
+        <td>301340AE</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 102</td>
+        <td>301340AF</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 103</td>
+        <td>301340B0</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 104</td>
+        <td>301340B1</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 105</td>
+        <td>301340B2</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 106</td>
+        <td>301340B3</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 107</td>
+        <td>301340B4</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 108</td>
+        <td>301340B5</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 109</td>
+        <td>301340B6</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 110</td>
+        <td>301340B7</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 111</td>
+        <td>301340B8</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 112</td>
+        <td>301340B9</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 113</td>
+        <td>301340BA</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 114</td>
+        <td>301340BB</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 115</td>
+        <td>301340BC</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 116</td>
+        <td>301340BD</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 117</td>
+        <td>301340BE</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 118</td>
+        <td>301340BF</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 119</td>
+        <td>301340C0</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 120</td>
+        <td>301340C1</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 121</td>
+        <td>301340C2</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 122</td>
+        <td>301340C3</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 123</td>
+        <td>301340C4</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 124</td>
+        <td>301340C5</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 125</td>
+        <td>301340C6</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 126</td>
+        <td>301340C7</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 127</td>
+        <td>301340C8</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 128</td>
+        <td>301340C9</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 129</td>
+        <td>301340CA</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 130</td>
+        <td>301340CB</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 131</td>
+        <td>301340CC</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 132</td>
+        <td>301340CD</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 133</td>
+        <td>301340CE</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 134</td>
+        <td>301340CF</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 135</td>
+        <td>301340D0</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 136</td>
+        <td>301340D1</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 137</td>
+        <td>301340D2</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 138</td>
+        <td>301340D3</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 139</td>
+        <td>301340D4</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 140</td>
+        <td>301340D5</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 141</td>
+        <td>301340D6</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 142</td>
+        <td>301340D7</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 143</td>
+        <td>301340D8</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 144</td>
+        <td>301340D9</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 145</td>
+        <td>301340DA</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 146</td>
+        <td>301340DB</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 147</td>
+        <td>301340DC</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 148</td>
+        <td>301340DD</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 149</td>
+        <td>301340DE</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 150</td>
+        <td>301340DF</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 151</td>
+        <td>301340E0</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 152</td>
+        <td>301340E1</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 153</td>
+        <td>301340E2</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 154</td>
+        <td>301340E3</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 155</td>
+        <td>301340E4</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 156</td>
+        <td>301340E5</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 157</td>
+        <td>301340E6</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 158</td>
+        <td>301340E7</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 159</td>
+        <td>301340E8</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 160</td>
+        <td>301340E9</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 161</td>
+        <td>301340EA</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 162</td>
+        <td>301340EB</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 163</td>
+        <td>301340EC</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 164</td>
+        <td>301340ED</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 165</td>
+        <td>301340EE</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 166</td>
+        <td>301340EF</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 167</td>
+        <td>301340F0</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 168</td>
+        <td>301340F1</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 169</td>
+        <td>301340F2</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 170</td>
+        <td>301340F3</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 171</td>
+        <td>301340F4</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 172</td>
+        <td>301340F5</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 173</td>
+        <td>301340F6</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 174</td>
+        <td>301340F7</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 175</td>
+        <td>301340F8</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 176</td>
+        <td>301340F9</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 177</td>
+        <td>301340FA</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 178</td>
+        <td>301340FB</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 179</td>
+        <td>301340FC</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 180</td>
+        <td>301340FD</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 181</td>
+        <td>301340FE</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 182</td>
+        <td>301340FF</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 183</td>
+        <td>30134100</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 184</td>
+        <td>30134101</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 185</td>
+        <td>30134102</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 186</td>
+        <td>30134103</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 187</td>
+        <td>30134104</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 188</td>
+        <td>30134105</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 189</td>
+        <td>30134106</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 190</td>
+        <td>30134107</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 191</td>
+        <td>30134108</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 192</td>
+        <td>30134109</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 193</td>
+        <td>3013410A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 194</td>
+        <td>3013410B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 195</td>
+        <td>3013410C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 196</td>
+        <td>3013410D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 197</td>
+        <td>3013410E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 198</td>
+        <td>3013410F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 199</td>
+        <td>30134110</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 200</td>
+        <td>30134111</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 201</td>
+        <td>30134112</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 202</td>
+        <td>30134113</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 203</td>
+        <td>30134114</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 204</td>
+        <td>30134115</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 205</td>
+        <td>30134116</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 206</td>
+        <td>30134117</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 207</td>
+        <td>30134118</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 208</td>
+        <td>30134119</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 209</td>
+        <td>3013411A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 210</td>
+        <td>3013411B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 211</td>
+        <td>3013411C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 212</td>
+        <td>3013411D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 213</td>
+        <td>3013411E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 214</td>
+        <td>3013411F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 215</td>
+        <td>30134120</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 216</td>
+        <td>30134121</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 217</td>
+        <td>30134122</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 218</td>
+        <td>30134123</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 219</td>
+        <td>30134124</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 220</td>
+        <td>30134125</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 221</td>
+        <td>30134126</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 222</td>
+        <td>30134127</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 223</td>
+        <td>30134128</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 224</td>
+        <td>30134129</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 225</td>
+        <td>3013412A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 226</td>
+        <td>3013412B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 227</td>
+        <td>3013412C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 228</td>
+        <td>3013412D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 229</td>
+        <td>3013412E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 230</td>
+        <td>3013412F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 231</td>
+        <td>30134130</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 232</td>
+        <td>30134131</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 233</td>
+        <td>30134132</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 234</td>
+        <td>30134133</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 235</td>
+        <td>30134134</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 236</td>
+        <td>30134135</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 237</td>
+        <td>30134136</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 238</td>
+        <td>30134137</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 239</td>
+        <td>30134138</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 240</td>
+        <td>30134139</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 241</td>
+        <td>3013413A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 242</td>
+        <td>3013413B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 243</td>
+        <td>3013413C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 244</td>
+        <td>3013413D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 245</td>
+        <td>3013413E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 246</td>
+        <td>3013413F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 247</td>
+        <td>30134140</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 248</td>
+        <td>30134141</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 249</td>
+        <td>30134142</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 250</td>
+        <td>30134143</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 251</td>
+        <td>30134144</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 252</td>
+        <td>30134145</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 253</td>
+        <td>30134146</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 254</td>
+        <td>30134147</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 255</td>
+        <td>30134148</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Item Amount 256</td>
+        <td>3013414B</td>
+        <td>1 byte</td>
+        <td>The last slot of item amount.</td>
+    </tr>
+</table>
+<h2 id="heading-5">Item Digits</h2>
+<table>
+    <tr>
+        <th>Dec</th>
+        <th>Hex</th>
+        <th>Item Name</th>
+        <th>Remark</th>
+    </tr>
+    <tr>
+        <td>0</td>
+        <td>0</td>
+        <td>Heal Berry</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>1</td>
+        <td>Potion Berry</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>2</td>
+        <td>Mega Berry</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>3</td>
+        <td>Magic Carrot</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>4</td>
+        <td>Revive Fruit</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>5</td>
+        <td>Full Revive</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>6</td>
+        <td>Antidote</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>7</td>
+        <td>Medicine</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>8</td>
+        <td>Violet Rose</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>9</td>
+        <td>Heat Salve</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>A</td>
+        <td>Pin Wheel</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>B</td>
+        <td>Toy Hammer</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>C</td>
+        <td>Holy Symbol</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>D</td>
+        <td>Light Shroom</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>E</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>F</td>
+        <td>Nectar</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>10</td>
+        <td>Ambrosia</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>11</td>
+        <td>Diary</td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>12</td>
+        <td>Sheriff Whop</td>
+        <td>Does nothing. It says &quot;Arrest outlaws&quot;, probably a leftover of a removed mechanism.</td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>13</td>
+        <td>Black Pass</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>14</td>
+        <td>Magic Map</td>
+        <td>Shows world map with all known town. Same effect if you push Select on World Map.</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>15</td>
+        <td>1 Gella Coin</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>16</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>17</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td>18</td>
+        <td>Bone</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>19</td>
+        <td>Bullent Clip</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>1A</td>
+        <td>Secret Sign</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>27</td>
+        <td>1B</td>
+        <td>Crest Graph</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>28</td>
+        <td>1C</td>
+        <td>Power Apple</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>1D</td>
+        <td>Hardy Apple</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>1E</td>
+        <td>Mystic Apple</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>1F</td>
+        <td>Agile Apple</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>20</td>
+        <td>Duplicator</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>21</td>
+        <td>Lucky Card</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>34</td>
+        <td>22</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>23</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>24</td>
+        <td>Long Knife</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>37</td>
+        <td>25</td>
+        <td>Long Sword</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>26</td>
+        <td>Bastard Sword</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>39</td>
+        <td>27</td>
+        <td>Claymore</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>40</td>
+        <td>28</td>
+        <td>Bronze Sword</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>41</td>
+        <td>29</td>
+        <td>Cross Saber</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>42</td>
+        <td>2A</td>
+        <td>Night Fencer</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>43</td>
+        <td>2B</td>
+        <td>Hybrid Sword</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>44</td>
+        <td>2C</td>
+        <td>Energy Saber</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>45</td>
+        <td>2D</td>
+        <td>Sword Radius</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>46</td>
+        <td>2E</td>
+        <td>Silver Blade</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>47</td>
+        <td>2F</td>
+        <td>Divine Blade</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>48</td>
+        <td>30</td>
+        <td>Arctic Blade</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>49</td>
+        <td>31</td>
+        <td>Chrome Blade</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>50</td>
+        <td>32</td>
+        <td>Might Blade</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>51</td>
+        <td>33</td>
+        <td>Vopal Razor</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>52</td>
+        <td>34</td>
+        <td>Crystal Edge</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>53</td>
+        <td>35</td>
+        <td>Spirit Blade</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>54</td>
+        <td>36</td>
+        <td>Extinction</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>55</td>
+        <td>37</td>
+        <td>Eradicator</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>56</td>
+        <td>38</td>
+        <td>Black Feral</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>57</td>
+        <td>39</td>
+        <td>Doom Bringer</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>58</td>
+        <td>3A</td>
+        <td>Violator</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>59</td>
+        <td>3B</td>
+        <td>Juggernaut</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>60</td>
+        <td>3C</td>
+        <td>Mage Staff</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>61</td>
+        <td>3D</td>
+        <td>Magical Rod</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>62</td>
+        <td>3E</td>
+        <td>Dream Hand</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>63</td>
+        <td>3F</td>
+        <td>Prism Stick</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>64</td>
+        <td>40</td>
+        <td>Rune Staff</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>65</td>
+        <td>41</td>
+        <td>Sorcery Wand</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>66</td>
+        <td>42</td>
+        <td>Rainbow Wand</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>67</td>
+        <td>43</td>
+        <td>Crest Wand</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>68</td>
+        <td>44</td>
+        <td>Lunar Wand</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>69</td>
+        <td>45</td>
+        <td>Lunatic Wand</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>70</td>
+        <td>46</td>
+        <td>Princess Wand</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>71</td>
+        <td>47</td>
+        <td>Dist Dims</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>72</td>
+        <td>48</td>
+        <td>Moon Stone</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>73</td>
+        <td>49</td>
+        <td>Olive Branch</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>74</td>
+        <td>4A</td>
+        <td>Silver Harp</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>75</td>
+        <td>4B</td>
+        <td>Blue Circlet</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>76</td>
+        <td>4C</td>
+        <td>Clear Chime</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>77</td>
+        <td>4D</td>
+        <td>Memoirs Pen</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>78</td>
+        <td>4E</td>
+        <td>Angel Quill</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>79</td>
+        <td>4F</td>
+        <td>Sunglasses</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>80</td>
+        <td>50</td>
+        <td>Full Libra</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>81</td>
+        <td>51</td>
+        <td>Geo Ring</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>82</td>
+        <td>52</td>
+        <td>Aqua Ring</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>83</td>
+        <td>53</td>
+        <td>Flame Ring</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>84</td>
+        <td>54</td>
+        <td>Wind Ring</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>85</td>
+        <td>55</td>
+        <td>Thunder Ring</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>86</td>
+        <td>56</td>
+        <td>Spirit Ring</td>
+        <td>It says &quot;Power of Soul&quot;, probably a leftover elemental.</td>
+    </tr>
+    <tr>
+        <td>87</td>
+        <td>57</td>
+        <td>Holy Ring</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>88</td>
+        <td>58</td>
+        <td>Demon Ring</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>89</td>
+        <td>59</td>
+        <td>Goat Doll</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>90</td>
+        <td>5A</td>
+        <td>Talisman</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>91</td>
+        <td>5B</td>
+        <td>Mind Gem</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>92</td>
+        <td>5C</td>
+        <td>Force Unit</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>93</td>
+        <td>5D</td>
+        <td>Holy Grail</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>94</td>
+        <td>5E</td>
+        <td>Pouch</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>95</td>
+        <td>5F</td>
+        <td>Wind Vase</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>96</td>
+        <td>60</td>
+        <td>Orb Of Power</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>97</td>
+        <td>61</td>
+        <td>Orb Of Life</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>98</td>
+        <td>62</td>
+        <td>Wise Slate</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>99</td>
+        <td>63</td>
+        <td>Mystic Slate</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>100</td>
+        <td>64</td>
+        <td>Missanga</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>101</td>
+        <td>65</td>
+        <td>Amulet</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>102</td>
+        <td>66</td>
+        <td>Sheriff Star</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>103</td>
+        <td>67</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>104</td>
+        <td>68</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>105</td>
+        <td>69</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>106</td>
+        <td>6A</td>
+        <td>Buckler</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>107</td>
+        <td>6B</td>
+        <td>Round Shield</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>108</td>
+        <td>6C</td>
+        <td>Reflex</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>109</td>
+        <td>6D</td>
+        <td>Metal Shield</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>110</td>
+        <td>6E</td>
+        <td>Power Boost</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>111</td>
+        <td>6F</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>112</td>
+        <td>70</td>
+        <td>Hide Glove</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>113</td>
+        <td>71</td>
+        <td>Hand Guard</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>114</td>
+        <td>72</td>
+        <td>Gauntlet</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>115</td>
+        <td>73</td>
+        <td>Boom Getter</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>116</td>
+        <td>74</td>
+        <td>Side Blade</td>
+        <td>Unused Jack&#39;s left hand item. Increases ATP.</td>
+    </tr>
+    <tr>
+        <td>117</td>
+        <td>75</td>
+        <td>Chris Knife</td>
+        <td>Unused Jack&#39;s left hand item. Increases ATP.</td>
+    </tr>
+    <tr>
+        <td>118</td>
+        <td>76</td>
+        <td>Blade Crash</td>
+        <td>Unused Jack&#39;s left hand item. Increases ATP.</td>
+    </tr>
+    <tr>
+        <td>119</td>
+        <td>77</td>
+        <td>Reverse Edge</td>
+        <td>Unused Jack&#39;s left hand item. Increases ATP.</td>
+    </tr>
+    <tr>
+        <td>120</td>
+        <td>78</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>121</td>
+        <td>79</td>
+        <td>Mystic Word</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>122</td>
+        <td>7A</td>
+        <td>Secret Book</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>123</td>
+        <td>7B</td>
+        <td>Elder Scroll</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>124</td>
+        <td>7C</td>
+        <td>Necronomicon</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>125</td>
+        <td>7D</td>
+        <td>Holy Parasol</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>126</td>
+        <td>7E</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>127</td>
+        <td>7F</td>
+        <td>Travel Vest</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>128</td>
+        <td>80</td>
+        <td>Hand Cloak</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>129</td>
+        <td>81</td>
+        <td>Armor Vest</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>130</td>
+        <td>82</td>
+        <td>Guard Jacket</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>131</td>
+        <td>83</td>
+        <td>Chain Cloak</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>132</td>
+        <td>84</td>
+        <td>Metal Jacket</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>133</td>
+        <td>85</td>
+        <td>Cross Cloak</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>134</td>
+        <td>86</td>
+        <td>Red Jacket</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>135</td>
+        <td>87</td>
+        <td>Warrior Vest</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>136</td>
+        <td>88</td>
+        <td>Battle Cloak</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>137</td>
+        <td>89</td>
+        <td>Assault Coat</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>138</td>
+        <td>8A</td>
+        <td>Braver Vest</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>139</td>
+        <td>8B</td>
+        <td>Old Cape</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>140</td>
+        <td>8C</td>
+        <td>War Coat</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>141</td>
+        <td>8D</td>
+        <td>Sun Poncho</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>142</td>
+        <td>8E</td>
+        <td>Journey Coat</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>143</td>
+        <td>8F</td>
+        <td>Survive Cape</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>144</td>
+        <td>90</td>
+        <td>Dusk Poncho</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>145</td>
+        <td>91</td>
+        <td>Blue Wind</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>146</td>
+        <td>92</td>
+        <td>Sioux Poncho</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>147</td>
+        <td>93</td>
+        <td>Prairie Coat</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>148</td>
+        <td>94</td>
+        <td>Dawn Poncho</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>149</td>
+        <td>95</td>
+        <td>Jolla Poncho</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>150</td>
+        <td>96</td>
+        <td>Jade Wilder</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>151</td>
+        <td>97</td>
+        <td>Breeze Cape</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>152</td>
+        <td>98</td>
+        <td>White Robe</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>153</td>
+        <td>99</td>
+        <td>Mist Blazer</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>154</td>
+        <td>9A</td>
+        <td>Magus Robe</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>155</td>
+        <td>9B</td>
+        <td>Protect Cape</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>156</td>
+        <td>9C</td>
+        <td>Chic Bolero</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>157</td>
+        <td>9D</td>
+        <td>Ruby Bische</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>158</td>
+        <td>9E</td>
+        <td>Shining Cape</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>159</td>
+        <td>9F</td>
+        <td>Mirage Coat</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>160</td>
+        <td>A0</td>
+        <td>Garnet Coat</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>161</td>
+        <td>A1</td>
+        <td>Filgaia Robe</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>162</td>
+        <td>A2</td>
+        <td>Pret-a-Porte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>163</td>
+        <td>A3</td>
+        <td>Bnadanna</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>164</td>
+        <td>A4</td>
+        <td>Metal Band</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>165</td>
+        <td>A5</td>
+        <td>Head Gear</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>166</td>
+        <td>A6</td>
+        <td>Brass Band</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>167</td>
+        <td>A7</td>
+        <td>Hyper Gear</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>168</td>
+        <td>A8</td>
+        <td>Dead Heat</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>169</td>
+        <td>A9</td>
+        <td>Cowboy Hat</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>170</td>
+        <td>AA</td>
+        <td>10 Gal Hat</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>171</td>
+        <td>AB</td>
+        <td>My Grand Hat</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>172</td>
+        <td>AC</td>
+        <td>Lone Wolf</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>173</td>
+        <td>AD</td>
+        <td>Sunbird Hat</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>174</td>
+        <td>AE</td>
+        <td>Texas Number</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>175</td>
+        <td>AF</td>
+        <td>Capuche</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>176</td>
+        <td>B0</td>
+        <td>Cute Ribbon</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>177</td>
+        <td>B1</td>
+        <td>Serenade</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>178</td>
+        <td>B2</td>
+        <td>Silver Band</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>179</td>
+        <td>B3</td>
+        <td>Blue Ribbon</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>180</td>
+        <td>B4</td>
+        <td>Ruby Tiara</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>181</td>
+        <td>B5</td>
+        <td>Earth Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>182</td>
+        <td>B6</td>
+        <td>Water Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>183</td>
+        <td>B7</td>
+        <td>Fire Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>184</td>
+        <td>B8</td>
+        <td>Wind Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>185</td>
+        <td>B9</td>
+        <td>Thunder Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>186</td>
+        <td>BA</td>
+        <td>Summit Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>187</td>
+        <td>BB</td>
+        <td>Flash Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>188</td>
+        <td>BC</td>
+        <td>Death Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>189</td>
+        <td>BD</td>
+        <td>Triton Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>190</td>
+        <td>BE</td>
+        <td>Saint Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>191</td>
+        <td>BF</td>
+        <td>Heavens Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>192</td>
+        <td>C0</td>
+        <td>Ice Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>193</td>
+        <td>C1</td>
+        <td>Chrono Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>194</td>
+        <td>C2</td>
+        <td>Star Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>195</td>
+        <td>C3</td>
+        <td>Sword Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>196</td>
+        <td>C4</td>
+        <td>Castle Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>197</td>
+        <td>C5</td>
+        <td>Life Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>198</td>
+        <td>C6</td>
+        <td>Hades Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>199</td>
+        <td>C7</td>
+        <td>Love Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>200</td>
+        <td>C8</td>
+        <td>Courage Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>201</td>
+        <td>C9</td>
+        <td>Hope Rune</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>202</td>
+        <td>CA</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>203</td>
+        <td>CB</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>204</td>
+        <td>CC</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>205</td>
+        <td>CD</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>206</td>
+        <td>CE</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>207</td>
+        <td>CF</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>208</td>
+        <td>D0</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>209</td>
+        <td>D1</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>210</td>
+        <td>D2</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>211</td>
+        <td>D3</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>212</td>
+        <td>D4</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>213</td>
+        <td>D5</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>214</td>
+        <td>D6</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>215</td>
+        <td>D7</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>216</td>
+        <td>D8</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>217</td>
+        <td>D9</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>218</td>
+        <td>DA</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>219</td>
+        <td>DB</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>220</td>
+        <td>DC</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>221</td>
+        <td>DD</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>222</td>
+        <td>DE</td>
+        <td>Holy Berry</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>223</td>
+        <td>DF</td>
+        <td>Kizim Fire</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>224</td>
+        <td>E0</td>
+        <td>Crystal Blade</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>225</td>
+        <td>E1</td>
+        <td>Bracelet</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>226</td>
+        <td>E2</td>
+        <td>Blue Virtue</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>227</td>
+        <td>E3</td>
+        <td>Red Malice</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>228</td>
+        <td>E4</td>
+        <td>Herb Arnica</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>229</td>
+        <td>E5</td>
+        <td>Rune Drive</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>230</td>
+        <td>E6</td>
+        <td>Dragon Idol</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>231</td>
+        <td>E7</td>
+        <td>Lion Idol</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>232</td>
+        <td>E8</td>
+        <td>Goddess Idol</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>233</td>
+        <td>E9</td>
+        <td>Metal Bird</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>234</td>
+        <td>EA</td>
+        <td>Frog Badge</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>235</td>
+        <td>EB</td>
+        <td>Fish Badge</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>236</td>
+        <td>EC</td>
+        <td>Key Plate</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>237</td>
+        <td>ED</td>
+        <td>Holy Medal</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>238</td>
+        <td>EE</td>
+        <td>Gemini Circuit</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>239</td>
+        <td>EF</td>
+        <td>Gemini Circuit</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>240</td>
+        <td>F0</td>
+        <td>Small FLower</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>241</td>
+        <td>F1</td>
+        <td>Jewel</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>242</td>
+        <td>F2</td>
+        <td>Ocarina</td>
+        <td>This summons Asgard regardless of your state, which can lead to sequence breaking.</td>
+    </tr>
+    <tr>
+        <td>243</td>
+        <td>F3</td>
+        <td>Wind-Up Key</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>244</td>
+        <td>F4</td>
+        <td>Spirit Key</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>245</td>
+        <td>F5</td>
+        <td>Eye</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>246</td>
+        <td>F6</td>
+        <td>Wings</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>247</td>
+        <td>F7</td>
+        <td>Arms</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>248</td>
+        <td>F8</td>
+        <td>Eye</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>249</td>
+        <td>F9</td>
+        <td>Saber Fang</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>250</td>
+        <td>FA</td>
+        <td>Secret Tool</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>251</td>
+        <td>FB</td>
+        <td>Dispellado</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>252</td>
+        <td>FC</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>253</td>
+        <td>FD</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>254</td>
+        <td>FE</td>
+        <td></td>
+        <td>Does nothing.</td>
+    </tr>
+    <tr>
+        <td>255</td>
+        <td>FF</td>
+        <td>(Nothing)</td>
+        <td></td>
+    </tr>
+</table>
+<h1 id="heading-6">Rudy Codes</h1>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Gameshark</th>
+        <th>Size</th>
+        <th>Remark</th>
+    </tr>
+    <tr>
+        <td>Rudy EXP</td>
+        <td>90133E0C</td>
+        <td>4 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 01 Type</td>
+        <td>3013414C</td>
+        <td>1 byte</td>
+        <td>Arm modifier. Refer to the Arms IDs.</td>
+    </tr>
+    <tr>
+        <td>Arm 01 ATP</td>
+        <td>3013414D</td>
+        <td>1 byte</td>
+        <td>Normal max value is 7. The ATP value follows a cycle that correspond to other arm type (e.g. 8 is Prism Ray attack at 0 value). Any multiplications by 8, then reduced by 1 (e.g. 7, 15, 23, 31, etc) are guaranteed to have highest ATP number of the cycle.</td>
+    </tr>
+    <tr>
+        <td>Arm 01 HIT</td>
+        <td>3013414E</td>
+        <td>1 byte</td>
+        <td>Normal max value is 7. Each value increases accuracy by 2%.</td>
+    </tr>
+    <tr>
+        <td>Arm 01 Max Bullet</td>
+        <td>3013414F</td>
+        <td>1 byte</td>
+        <td>Normal max value is 7. Each value increases maximum bullet by 1.</td>
+    </tr>
+    <tr>
+        <td>Arm 01 Bullet</td>
+        <td>30134150</td>
+        <td>1 byte</td>
+        <td>The remaining bullet of the arm. The Arm Type #2 starts +2 from here.</td>
+    </tr>
+    <tr>
+        <td>Arm 01 Unknown</td>
+        <td>30134151</td>
+        <td>1 byte</td>
+        <td>An unknown value. It&#39;s always 0</td>
+    </tr>
+    <tr>
+        <td>Arm 02 Type</td>
+        <td>30134152</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 02 ATP</td>
+        <td>30134153</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 02 HIT</td>
+        <td>30134154</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 02 Max Bullet</td>
+        <td>30134155</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 02 Bullet</td>
+        <td>30134156</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 02 Unknown</td>
+        <td>30134157</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 03 Type</td>
+        <td>30134158</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 03 ATP</td>
+        <td>30134159</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 03 HIT</td>
+        <td>3013415A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 03 Max Bullet</td>
+        <td>3013415B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 03 Bullet</td>
+        <td>3013415C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 03 Unknown</td>
+        <td>3013415D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 04 Type</td>
+        <td>3013415E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 04 ATP</td>
+        <td>3013415F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 04 HIT</td>
+        <td>30134160</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 04 Max Bullet</td>
+        <td>30134161</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 04 Bullet</td>
+        <td>30134162</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 04 Unknown</td>
+        <td>30134163</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 05 Type</td>
+        <td>30134164</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 05 ATP</td>
+        <td>30134165</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 05 HIT</td>
+        <td>30134166</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 05 Max Bullet</td>
+        <td>30134167</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 05 Bullet</td>
+        <td>30134168</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 05 Unknown</td>
+        <td>30134169</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 06 Type</td>
+        <td>3013416A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 06 ATP</td>
+        <td>3013416B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 06 HIT</td>
+        <td>3013416C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 06 Max Bullet</td>
+        <td>3013416D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 06 Bullet</td>
+        <td>3013416E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 06 Unknown</td>
+        <td>3013416F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 07 Type</td>
+        <td>30134170</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 07 ATP</td>
+        <td>30134171</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 07 HIT</td>
+        <td>30134172</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 07 Max Bullet</td>
+        <td>30134173</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 07 Bullet</td>
+        <td>30134174</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 07 Unknown</td>
+        <td>30134175</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 08 Type</td>
+        <td>30134176</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 08 ATP</td>
+        <td>30134177</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 08 HIT</td>
+        <td>30134178</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 08 Max Bullet</td>
+        <td>30134179</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 08 Bullet</td>
+        <td>3013417A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Arm 08 Unknown</td>
+        <td>3013417B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+</table>
+<h2 id="heading-7">Arms Digits</h2>
+<table>
+    <tr>
+        <th>Dec</th>
+        <th>Hex</th>
+        <th>Arm Name</th>
+        <th>Remark</th>
+    </tr>
+    <tr>
+        <td>0</td>
+        <td>0</td>
+        <td>Hand Cannon</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>1</td>
+        <td>Prism Ray</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>2</td>
+        <td>Rocket Launcher</td>
+        <td>This skill spreads damage over multiple target. On a single target, it&#39;s powerful.</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>3</td>
+        <td>Twin Orbs</td>
+        <td>Damage depends on number of hits, which likely depends on luck.</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>4</td>
+        <td>Bazooka</td>
+        <td>Worth to note that this attack does fire damage. With maxed power, it&#39;s very effective against Riversider.</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>5</td>
+        <td>Phaser</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>6</td>
+        <td>Wild Bunch</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>7</td>
+        <td>Arch Smash</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>255</td>
+        <td>FF</td>
+        <td>Nothing</td>
+        <td></td>
+    </tr>
+</table>
+<h1 id="heading-8">Jack Codes</h1>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Gameshark</th>
+        <th>Size</th>
+        <th>Remark</th>
+    </tr>
+    <tr>
+        <td>Jack EXP</td>
+        <td>90133E40</td>
+        <td>4 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 01 Type</td>
+        <td>3013417C</td>
+        <td>1 byte</td>
+        <td>Fast draw modifier. You can use this to replace every &quot;????&quot; skill with the Fast Draw.</td>
+    </tr>
+    <tr>
+        <td>Fast Draw 01 MP</td>
+        <td>3013417D</td>
+        <td>1 byte</td>
+        <td>This is the required MP of the Fast Draw. Minimum normal amount is 1.</td>
+    </tr>
+    <tr>
+        <td>Fast Draw 02 Type</td>
+        <td>3013417E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 02 MP</td>
+        <td>3013417F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 03 Type</td>
+        <td>30134180</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 03 MP</td>
+        <td>30134181</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 04 Type</td>
+        <td>30134182</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 04 MP</td>
+        <td>30134183</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 05 Type</td>
+        <td>30134184</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 05 MP</td>
+        <td>30134185</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 06 Type</td>
+        <td>30134186</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 06 MP</td>
+        <td>30134187</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 07 Type</td>
+        <td>30134188</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 07 MP</td>
+        <td>30134189</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 08 Type</td>
+        <td>3013418A</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 08 MP</td>
+        <td>3013418B</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 09 Type</td>
+        <td>3013418C</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 09 MP</td>
+        <td>3013418D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 10 Type</td>
+        <td>3013418E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 10 MP</td>
+        <td>3013418F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 11 Type</td>
+        <td>30134190</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 11 MP</td>
+        <td>30134191</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 02 Type</td>
+        <td>30134192</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 02 MP</td>
+        <td>30134193</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 13 Type</td>
+        <td>30134194</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 13 MP</td>
+        <td>30134195</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 14 Type</td>
+        <td>30134196</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 14 MP</td>
+        <td>30134197</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 15 Type</td>
+        <td>30134198</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 15 MP</td>
+        <td>30134199</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Fast Draw 16 Type</td>
+        <td>3013419A</td>
+        <td>1 byte</td>
+        <td>The last slot for Fast Draw modifier.</td>
+    </tr>
+    <tr>
+        <td>Fast Draw 16 MP</td>
+        <td>3013419B</td>
+        <td>1 byte</td>
+        <td>The last slot for Fast Draw MP.</td>
+    </tr>
+</table>
+<h2 id="heading-9">Fast Draw Digits</h2>
+<table>
+    <tr>
+        <th>Dec</th>
+        <th>Hex</th>
+        <th>Fast Draw Name</th>
+        <th>ATP</th>
+        <th>Remark</th>
+    </tr>
+    <tr>
+        <td>0</td>
+        <td>0</td>
+        <td>Psycho Crack</td>
+        <td>110</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>1</td>
+        <td>Sonic Buster</td>
+        <td>60</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>2</td>
+        <td>Meteor Dive</td>
+        <td>190</td>
+        <td>Does best damage until Magnum Fang, or if you want to gamble with Slash Rave.</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>3</td>
+        <td>Trickster</td>
+        <td>50</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>4</td>
+        <td>Heal Blade</td>
+        <td></td>
+        <td>Recovers 50% of Max HP and cures all status effect.</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>5</td>
+        <td>Divide Shot</td>
+        <td></td>
+        <td>This attack cuts enemy HP by half, and surprisingly effective on Arena enemies. Use with damage limit code for greater effect.</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>6</td>
+        <td>Blast Charge</td>
+        <td>180</td>
+        <td>This is a bit weaker than Meteor Dive, but comes with an AoE effect, roughly 20% of physical attack.</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>7</td>
+        <td>Slash Rave</td>
+        <td>250</td>
+        <td>The damage changes every time, which depends on your luck.</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>8</td>
+        <td>Soul Breaker</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>9</td>
+        <td>Guilty Blade</td>
+        <td>180</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>A</td>
+        <td>Magnum Fang</td>
+        <td>320</td>
+        <td>Compared to regular attack, this skill has the best damage.</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>B</td>
+        <td>Shadow Bind</td>
+        <td>480</td>
+        <td>Use Shadow Bind on paralyzed enemy to properly use Dark Sweep. Dark Sweep is more powerful than Magnum Fang, but the requirement it needs diminish its potential.</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>C</td>
+        <td>Phazer Zapp</td>
+        <td>240</td>
+        <td>This attack changes element based on the equipped elemental ring. With weakness taken account, this can be more effective than Magnum Fang.</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>D</td>
+        <td>Cosmic Nova</td>
+        <td>200</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>E</td>
+        <td>Void</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>F</td>
+        <td>Trump Card</td>
+        <td></td>
+        <td>Damage depends on your current HP, roughly 1.2 times.</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>10</td>
+        <td>????</td>
+        <td></td>
+        <td>Psycho Crack hint</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>11</td>
+        <td>????</td>
+        <td></td>
+        <td>Sonic Buster hint</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>12</td>
+        <td>????</td>
+        <td></td>
+        <td>Meteor Dive hint</td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>13</td>
+        <td>????</td>
+        <td></td>
+        <td>Trickster hint</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>14</td>
+        <td>????</td>
+        <td></td>
+        <td>Heal Blade hint</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>15</td>
+        <td>????</td>
+        <td></td>
+        <td>Divide Shot hint</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>16</td>
+        <td>????</td>
+        <td></td>
+        <td>Blast Charge hint</td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>17</td>
+        <td>????</td>
+        <td></td>
+        <td>Slash Rave hint</td>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td>18</td>
+        <td>????</td>
+        <td></td>
+        <td>Soul Breaker hint</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>19</td>
+        <td>????</td>
+        <td></td>
+        <td>Guilty Blade hint</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>1A</td>
+        <td>????</td>
+        <td></td>
+        <td>Magnum Fang hint</td>
+    </tr>
+    <tr>
+        <td>27</td>
+        <td>1B</td>
+        <td>????</td>
+        <td></td>
+        <td>Shadow Bind hint</td>
+    </tr>
+    <tr>
+        <td>28</td>
+        <td>1C</td>
+        <td>????</td>
+        <td></td>
+        <td>Phazer Zapp hint</td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>1D</td>
+        <td>????</td>
+        <td></td>
+        <td>Cosmic Nova hint</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>1E</td>
+        <td>????</td>
+        <td></td>
+        <td>Void hint</td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>1F</td>
+        <td>????</td>
+        <td></td>
+        <td>Trump Card hint</td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>20</td>
+        <td>Dark Sweep</td>
+        <td></td>
+        <td>Not the real Dark Sweep. This is a placeholder skill when you mastered Psycho Crack, which does not happen in the game. Starting from this digit, all skills behave like &quot;????&quot; skills cycle from Psycho Crack, to Trump Card.</td>
+    </tr>
+    <tr>
+        <td>255</td>
+        <td>FF</td>
+        <td>Nothing</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+<p>[[include :fiction:common:alert |text=Digit 32 / 20h is a placeholder skill when you mastered Psycho Crack, which does not happen in the game. Starting from this digit, all skills behave like &quot;????&quot; skills cycle from Psycho Crack, to Trump Card.]] [[include :fiction:common:alert |text=ATP are just estimation, and might not be completely accurate, but it gives an estimation on how strong the skill is. ATPs are estimated using full force Jack doing the skill 10 times and averaged, then compared to his normal attack on same condition. All tested on the same enemy.]]</p>
+<h1 id="heading-10">Cecilia Codes</h1>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Gameshark</th>
+        <th>Size</th>
+        <th>Remark</th>
+    </tr>
+    <tr>
+        <td>Cecilia EXP</td>
+        <td>90133E74</td>
+        <td>4 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 01</td>
+        <td>3013419C</td>
+        <td>1 byte</td>
+        <td>The first slot of Cecilia&#39;s Crest Magic. Each slot differ by +1.</td>
+    </tr>
+    <tr>
+        <td>Crest Magic 02</td>
+        <td>3013419D</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 03</td>
+        <td>3013419E</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 04</td>
+        <td>3013419F</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 05</td>
+        <td>301341A0</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 06</td>
+        <td>301341A1</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 07</td>
+        <td>301341A2</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 08</td>
+        <td>301341A3</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 09</td>
+        <td>301341A4</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 10</td>
+        <td>301341A5</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 11</td>
+        <td>301341A6</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 12</td>
+        <td>301341A7</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 13</td>
+        <td>301341A8</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 14</td>
+        <td>301341A9</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 15</td>
+        <td>301341AA</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 16</td>
+        <td>301341AB</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 17</td>
+        <td>301341AC</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 18</td>
+        <td>301341AD</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 19</td>
+        <td>301341AE</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 20</td>
+        <td>301341AF</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 21</td>
+        <td>301341B0</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 22</td>
+        <td>301341B1</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 23</td>
+        <td>301341B2</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 24</td>
+        <td>301341B3</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 25</td>
+        <td>301341B4</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 26</td>
+        <td>301341B5</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 27</td>
+        <td>301341B6</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 28</td>
+        <td>301341B7</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 29</td>
+        <td>301341B8</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 30</td>
+        <td>301341B9</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 31</td>
+        <td>301341BA</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 32</td>
+        <td>301341BB</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 33</td>
+        <td>301341BC</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 34</td>
+        <td>301341BD</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 35</td>
+        <td>301341BE</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 36</td>
+        <td>301341BF</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 37</td>
+        <td>301341C0</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 38</td>
+        <td>301341C1</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 39</td>
+        <td>301341C2</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 40</td>
+        <td>301341C3</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 41</td>
+        <td>301341C4</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 42</td>
+        <td>301341C5</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 43</td>
+        <td>301341C6</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 44</td>
+        <td>301341C7</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 45</td>
+        <td>301341C8</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 46</td>
+        <td>301341C9</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 47</td>
+        <td>301341CA</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 48</td>
+        <td>301341CB</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 49</td>
+        <td>301341CC</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 50</td>
+        <td>301341CD</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 51</td>
+        <td>301341CE</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 52</td>
+        <td>301341CF</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 53</td>
+        <td>301341D0</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 54</td>
+        <td>301341D1</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 55</td>
+        <td>301341D2</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 56</td>
+        <td>301341D3</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 57</td>
+        <td>301341D4</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 58</td>
+        <td>301341D5</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 59</td>
+        <td>301341D6</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 60</td>
+        <td>301341D7</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 61</td>
+        <td>301341D8</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 62</td>
+        <td>301341D9</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 63</td>
+        <td>301341DA</td>
+        <td>1 byte</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crest Magic 64</td>
+        <td>301341DB</td>
+        <td>1 byte</td>
+        <td>The last slot of Cecilia&#39;s Crest Magic.</td>
+    </tr>
+</table>
+<h2 id="heading-11">Crest Magic Digits</h2>
+<table>
+    <tr>
+        <th>Dec</th>
+        <th>Hex</th>
+        <th>Crest Name</th>
+        <th>ATP</th>
+        <th>Remark</th>
+    </tr>
+    <tr>
+        <td>0</td>
+        <td>0</td>
+        <td>Shield</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>1</td>
+        <td>Protect</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>2</td>
+        <td>Suction</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>3</td>
+        <td>Hide</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>4</td>
+        <td>Revive</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>5</td>
+        <td>Heal</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>6</td>
+        <td>Awaken</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>7</td>
+        <td>Field</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>8</td>
+        <td>Curse</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>9</td>
+        <td>Dark Blow</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>A</td>
+        <td>Light Blow</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>B</td>
+        <td>Rage</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>C</td>
+        <td>Reflect</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>D</td>
+        <td>Air Screen</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>E</td>
+        <td>Escape</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>F</td>
+        <td>Quick</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>10</td>
+        <td>Break</td>
+        <td>310</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>11</td>
+        <td>Armor Down</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>12</td>
+        <td>Slow Down</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>13</td>
+        <td>Sleep</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>14</td>
+        <td>Analyze</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>15</td>
+        <td>Freeze</td>
+        <td>310</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>16</td>
+        <td>Dispell</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>17</td>
+        <td>Prison</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td>18</td>
+        <td>Flash</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>19</td>
+        <td>Blast</td>
+        <td>210</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>1A</td>
+        <td>Flame</td>
+        <td>310</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>27</td>
+        <td>1B</td>
+        <td>Confusion</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>28</td>
+        <td>1C</td>
+        <td>Valkyrie</td>
+        <td>690</td>
+        <td>This skill spreads damage over multiple target. On a single target, it&#39;s quite powerful.</td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>1D</td>
+        <td>Spark</td>
+        <td>210</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>1E</td>
+        <td>Silence</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>1F</td>
+        <td>Vortex</td>
+        <td>310</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>20</td>
+        <td>Hi-Shield</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>21</td>
+        <td>Life Guard</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>34</td>
+        <td>22</td>
+        <td>Hyper</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>23</td>
+        <td>Invisible</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>24</td>
+        <td>Hi-Revive</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>37</td>
+        <td>25</td>
+        <td>Hi-Heal</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>26</td>
+        <td>Remedy</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>39</td>
+        <td>27</td>
+        <td>Restore</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>40</td>
+        <td>28</td>
+        <td>Counter Up</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>41</td>
+        <td>29</td>
+        <td>Anti Magic</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>42</td>
+        <td>2A</td>
+        <td>Bomb</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>43</td>
+        <td>2B</td>
+        <td>Soul Guard</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>44</td>
+        <td>2C</td>
+        <td>Hi-Reflect</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>45</td>
+        <td>2D</td>
+        <td>Lock State</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>46</td>
+        <td>2E</td>
+        <td>Dummy Doll</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>47</td>
+        <td>2F</td>
+        <td>Teleport</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>48</td>
+        <td>30</td>
+        <td>Hi-Break</td>
+        <td>710</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>49</td>
+        <td>31</td>
+        <td>Saint</td>
+        <td>1240</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>50</td>
+        <td>32</td>
+        <td>Eraser</td>
+        <td></td>
+        <td>Removes enemy&#39;s elemental resistance and reduce their weakness.</td>
+    </tr>
+    <tr>
+        <td>51</td>
+        <td>33</td>
+        <td>Life Drain</td>
+        <td></td>
+        <td>Damage depends on the lost HP of caster.</td>
+    </tr>
+    <tr>
+        <td>52</td>
+        <td>34</td>
+        <td>Banish</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>53</td>
+        <td>35</td>
+        <td>Hi-Freeze</td>
+        <td>710</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>54</td>
+        <td>36</td>
+        <td>Randomizer</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>55</td>
+        <td>37</td>
+        <td>Hi-Prison</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>56</td>
+        <td>38</td>
+        <td>Rainbow</td>
+        <td>1070</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>57</td>
+        <td>39</td>
+        <td>Hi-Blast</td>
+        <td>610</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>58</td>
+        <td>3A</td>
+        <td>Hi-Flame</td>
+        <td>710</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>59</td>
+        <td>3B</td>
+        <td>Darkness</td>
+        <td>1240</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>60</td>
+        <td>3C</td>
+        <td>MP Drain</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>61</td>
+        <td>3D</td>
+        <td>Hi-Spark</td>
+        <td>610</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>62</td>
+        <td>3E</td>
+        <td>Lucky Shot</td>
+        <td>100</td>
+        <td>Killing enemy with this will raise their drop rate significantly.</td>
+    </tr>
+    <tr>
+        <td>63</td>
+        <td>3F</td>
+        <td>Hi-Vortex</td>
+        <td>710</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>64</td>
+        <td>40</td>
+        <td>Gaia Crash</td>
+        <td>2740</td>
+        <td>Massive earth to all</td>
+    </tr>
+    <tr>
+        <td>65</td>
+        <td>41</td>
+        <td>Inferno</td>
+        <td>2740</td>
+        <td>Massive fire to all</td>
+    </tr>
+    <tr>
+        <td>66</td>
+        <td>42</td>
+        <td>Keen Silf</td>
+        <td>2740</td>
+        <td>Massive wind to all</td>
+    </tr>
+    <tr>
+        <td>67</td>
+        <td>43</td>
+        <td>Ice Needle</td>
+        <td>2740</td>
+        <td>Massive ice to all</td>
+    </tr>
+    <tr>
+        <td>68</td>
+        <td>44</td>
+        <td>Plasma</td>
+        <td>2740</td>
+        <td>Massive lightning to all</td>
+    </tr>
+    <tr>
+        <td>69</td>
+        <td>45</td>
+        <td>Glow Blast</td>
+        <td>2740</td>
+        <td>Massive light to all</td>
+    </tr>
+    <tr>
+        <td>70</td>
+        <td>46</td>
+        <td>Dark Ray</td>
+        <td>2740</td>
+        <td>Massive darkness to all</td>
+    </tr>
+    <tr>
+        <td>71</td>
+        <td>47</td>
+        <td>Regenerate</td>
+        <td></td>
+        <td>Full HP + Revive to all</td>
+    </tr>
+    <tr>
+        <td>72</td>
+        <td>48</td>
+        <td>Grand Bomb</td>
+        <td></td>
+        <td>Does nothing</td>
+    </tr>
+    <tr>
+        <td>73</td>
+        <td>49</td>
+        <td>Grand Sol</td>
+        <td></td>
+        <td>Does nothing</td>
+    </tr>
+    <tr>
+        <td>74</td>
+        <td>4A</td>
+        <td>Blade Gale</td>
+        <td></td>
+        <td>Does nothing</td>
+    </tr>
+    <tr>
+        <td>75</td>
+        <td>4B</td>
+        <td>Genocide</td>
+        <td></td>
+        <td>Does nothing</td>
+    </tr>
+    <tr>
+        <td>76</td>
+        <td>4C</td>
+        <td>Bolt Break</td>
+        <td></td>
+        <td>Does nothing</td>
+    </tr>
+    <tr>
+        <td>77</td>
+        <td>4D</td>
+        <td>The End</td>
+        <td></td>
+        <td>Does nothing</td>
+    </tr>
+    <tr>
+        <td>78</td>
+        <td>4E</td>
+        <td>Cold Task</td>
+        <td></td>
+        <td>Does nothing</td>
+    </tr>
+    <tr>
+        <td>79</td>
+        <td>4F</td>
+        <td>Super Hero</td>
+        <td></td>
+        <td>Does nothing</td>
+    </tr>
+    <tr>
+        <td>80</td>
+        <td>50</td>
+        <td></td>
+        <td></td>
+        <td>Shot-like special effect (used by some enemies). Regular damage</td>
+    </tr>
+    <tr>
+        <td>81</td>
+        <td>51</td>
+        <td>Anger</td>
+        <td></td>
+        <td>All ability +10% to all</td>
+    </tr>
+    <tr>
+        <td>82</td>
+        <td>52</td>
+        <td>Hi-Screen</td>
+        <td></td>
+        <td>Parry rate +25% to all</td>
+    </tr>
+    <tr>
+        <td>83</td>
+        <td>53</td>
+        <td>Hi-Dispell</td>
+        <td></td>
+        <td>Dispell to all</td>
+    </tr>
+    <tr>
+        <td>84</td>
+        <td>54</td>
+        <td>Chaos</td>
+        <td></td>
+        <td>Confustion to all</td>
+    </tr>
+    <tr>
+        <td>85</td>
+        <td>55</td>
+        <td>Mute</td>
+        <td></td>
+        <td>Silence to all</td>
+    </tr>
+    <tr>
+        <td>86</td>
+        <td>56</td>
+        <td>Hyper Plus</td>
+        <td></td>
+        <td>Attack +100% to all</td>
+    </tr>
+    <tr>
+        <td>87</td>
+        <td>57</td>
+        <td>Hi-Remedy</td>
+        <td></td>
+        <td>Moderate HP restore to all</td>
+    </tr>
+    <tr>
+        <td>88</td>
+        <td>58</td>
+        <td>Hi-Restore</td>
+        <td></td>
+        <td>Restore status to all</td>
+    </tr>
+    <tr>
+        <td>89</td>
+        <td>59</td>
+        <td>Hi-Counter Up</td>
+        <td></td>
+        <td>Counter +25% to all</td>
+    </tr>
+    <tr>
+        <td>90</td>
+        <td>5A</td>
+        <td>Soul Shield</td>
+        <td></td>
+        <td>Needs extensive testing, probably a high level Life Guard</td>
+    </tr>
+    <tr>
+        <td>91</td>
+        <td>5B</td>
+        <td>Hi-Saint</td>
+        <td>10340</td>
+        <td>Ludicrous light damage to all</td>
+    </tr>
+    <tr>
+        <td>92</td>
+        <td>5C</td>
+        <td>Hi-Dark</td>
+        <td>10340</td>
+        <td>Ludicrous dark damage to all</td>
+    </tr>
+    <tr>
+        <td>93</td>
+        <td>5D</td>
+        <td>Hi-Rainbow</td>
+        <td>1870</td>
+        <td>Massive elemental damage to all</td>
+    </tr>
+    <tr>
+        <td>94</td>
+        <td>5E</td>
+        <td>Hi-Vanish</td>
+        <td></td>
+        <td>Banish to all. Seems there&#39;s an inconsistent translation</td>
+    </tr>
+    <tr>
+        <td>95</td>
+        <td>5F</td>
+        <td>Best Shot</td>
+        <td>1240</td>
+        <td>Greater damage lucky shot to all. When enemies are killed with this, items are guaranteed to drop.</td>
+    </tr>
+    <tr>
+        <td>96</td>
+        <td>60</td>
+        <td>Mega Break</td>
+        <td>7470</td>
+        <td>Ludicrous earth damage to all</td>
+    </tr>
+    <tr>
+        <td>97</td>
+        <td>61</td>
+        <td>Blizard</td>
+        <td>7470</td>
+        <td>Ludicrous ice damage to all</td>
+    </tr>
+    <tr>
+        <td>98</td>
+        <td>62</td>
+        <td>Mega Flame</td>
+        <td>7470</td>
+        <td>Ludicrous fire damage to all</td>
+    </tr>
+    <tr>
+        <td>99</td>
+        <td>63</td>
+        <td>Twister</td>
+        <td>7470</td>
+        <td>Ludicrous wind damage to all</td>
+    </tr>
+    <tr>
+        <td>100</td>
+        <td>64</td>
+        <td>Poison</td>
+        <td></td>
+        <td>Unusable in battle, unknown effect</td>
+    </tr>
+    <tr>
+        <td>101</td>
+        <td>65</td>
+        <td>Nullify</td>
+        <td></td>
+        <td>Unusable in battle, unknown effect</td>
+    </tr>
+    <tr>
+        <td>102</td>
+        <td>66</td>
+        <td>Sleep</td>
+        <td></td>
+        <td>Unusable in battle, unknown effect</td>
+    </tr>
+    <tr>
+        <td>103</td>
+        <td>67</td>
+        <td>Confusion</td>
+        <td></td>
+        <td>Unusable in battle, unknown effect</td>
+    </tr>
+    <tr>
+        <td>104</td>
+        <td>68</td>
+        <td>Amnesia</td>
+        <td></td>
+        <td>Unusable in battle, unknown effect</td>
+    </tr>
+    <tr>
+        <td>105</td>
+        <td>69</td>
+        <td>Disease</td>
+        <td></td>
+        <td>Unusable in battle, unknown effect</td>
+    </tr>
+    <tr>
+        <td>106</td>
+        <td>6A</td>
+        <td>Silence</td>
+        <td></td>
+        <td>Unusable in battle, unknown effect</td>
+    </tr>
+    <tr>
+        <td>107</td>
+        <td>6B</td>
+        <td>Bad Omen</td>
+        <td></td>
+        <td>Unusable in battle, unknown effect</td>
+    </tr>
+    <tr>
+        <td>108</td>
+        <td>6C</td>
+        <td>Heavy</td>
+        <td></td>
+        <td>Unusable in battle, unknown effect</td>
+    </tr>
+    <tr>
+        <td>109</td>
+        <td>6D</td>
+        <td>Senseless</td>
+        <td></td>
+        <td>Unusable in battle, unknown effect</td>
+    </tr>
+    <tr>
+        <td>255</td>
+        <td>FF</td>
+        <td>Nothing</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+<p>[[include :fiction:common:alert |text=ATP are just estimation, and might not be completely accurate, but it gives an estimation on how strong the skill is. ATPs are estimated using full force Cecilia doing the skill 10 times and averaged, then compared to her SOR, which at the time, was 39. Lucky Shot, for example, do average of 39 damage, which is same as Cecilia&#39;s SOR (thus, 100)]] [[include :fiction:common:alert |type=danger |icon=warning |text= Digits other than listed have no name, many have massive MP usage (&gt;100), and crashes the game.]]</p>
+<h1 id="heading-12">The Heal Berry 255 Item Trick</h1>
+<p>You probably already know how this trick is performed. If you wonder how does it work, I&#39;ll explain it here.</p>
+<p>: Requirements : You need to have 3 party members. _ You only have 1 item that you want to duplicate. _ You have 2 or more consumable item (Heal Berry preferred due to its abundance). _</p>
+<p>: Steps : Order first character use Heal Berry. _ Order second character use Heal Berry _ Order third character to swap heal berry with the item you want to duplicate, and then Defend. _ Let the battle commence. _ The item swapped with Heal Berry will now be 255.</p>
+<p>Let&#39;s say that the Heal Berry is in slot 1, and the item to be duplicated, Ambrosia, is in slot 2. Due to requirement, there&#39;s only 1 Ambrosia. : Order first character to use Heal Berry (Slot 1) : This orders the game to use Heal Berry and reduce Item in slot 1 by 1. Take note of how I write this. The game was not ordered to use Item 1, the game was ordered to use the Heal Berry instead. : Order second character to use Heal Berry (Slot 1) : This orders the game to use Heal Berry and reduce Item in slot 1 by 1. : Third character swap Heal Berry (Slot 1) With Ambrosia (Slot 2) and Defend : Different from previous two, this actually sort the item, not ordering just order the game to do it. Now Ambrosia is in Slot 1 and Heal Berry is in Slot 2. : Turn commence - Third Character : Third character defend (defend being a high priority move s/he goes first. Nothing changed. : Turn commence - First Character : First character uses Heal Berry as ordered, but reduces the item in slot 1, which is Ambrosia. Ambrosia is now 0. However, the game only reduce the amount, not clearing the Item Type itself, hence at this state, item slot 1 is occupied with 0 Ambrosia. : Turn commence - Second Character : Second character uses Heal Berry as ordered, but again reduces the item in slot 1, Since item slot 1 is occupied by 0 Ambrosia and the game only know how to reduce the amount using this mechanism, the item become -1 Ambrosia. This causes overflow, and since item amount is Integer 1 byte, it converts the signed value (-1) to its unsigned value (255). Hence you get the 255 Ambrosias.</p>
+<p>: What if the target duplicated item is more than 1? : Let&#39;s say you have 2 Ambrosias, at the end of battle, it will become 0 Ambrosia.  You can redo the trick by swapping Heal Berry with the empty slot and end with 254 item.</p>
+    </main>
+
+</div>
+
+</body>
+</html>

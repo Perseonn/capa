@@ -1,0 +1,175 @@
+@title: Soulcalibur V
+@author: Perseonn Balthasaar
+@updated: 2014-05-21
+
+The sixth main installment of the Soul series, which came with a rather good battle system, but poor movelist pool. The character creation aspect, which is the main reason I bought this game, is lacking in item variation. I can go on and on, but that's not the point of this page.
+
+As this is a save data hack, you're required to understand how to encrypt/decrypt your save data and manipulate it using hex editor (XVI32 preferred as hex editor).
+
+If you're interested in showcasing your character, you can visit [http://asoh.wikidot.com Another Stage of History].
+
++ Custom Character Data
+So far I have found moveset, voice, weapon, and character strength. For less --drama-- issue in online battle, the strength digit will not be disclosed. It's easy to find anyway.
+
+[[div class="alert alert-danger"]]
+[[span class="fa fa-warning"]]@<&nbsp;>@[[/span]] Before changing the moveset/style, **ensure the character are using FIRST weapon.** The game may crash after editing if you have assigned them a weapon they don't have, most likely happen with Dampierre and Ezio. If you messed up, **the weapon digit is located on +2 address after Moveset 2**.
+[[/div]]
+
+Each slot has two name address, the second address is not listed here due to their adjacent location. You can utilize the name address to break the limit of 12 letter. **For safety, use same name for both address**. The longest name I've tried is "Cliche Incarnate Richter" which is 24 characters and he is editable, usable in all modes, without breaking the name. The name will be truncated to 12 if I re-input his name during creation.
+
+Voice data is pretty-self explanatory.
+
+||~ Position ||~ Name ||~ Voice ||~ Moveset 1||~ Moveset 2||~ Weapon||
+|| Slot 1 || 85AD || 51FA || 5200 || 6251 || 6253 ||
+|| Slot 2 || FA35 || C682 || C688 || D6D9 || D6DB ||
+|| Slot 3 || 16EBD || 13B0A || 13B10 || 14B61 || 14B63 ||
+|| Slot 4 || 1E345 || 1AF92 || 1AF98 || 1BFE9 || 1BFEB ||
+|| Slot 5 || 257CD || 2241A || 22420 || 23471 || 23473 ||
+|| Slot 6 || 2CC55 || 298A2 || 298A8 || 2A8F9 || 2A8FB ||
+|| Slot 7 || 340DD || 30D2A || 30D30 || 31D81 || 31D83 ||
+|| Slot 8 || 3B565 || 381B2 || 381B8 || 39209 || 3920B ||
+|| Slot 9 || 429ED || 3F63A || 3F640 || 40691 || 40693 ||
+|| Slot 10 || 49E75 || 46AC2 || 46AC8 || 47B19 || 47B1B ||
+|| Slot 11 || 512FD || 4DF4A || 4DF50 || 4EFA1 || 4EFA3 ||
+|| Slot 12 || 58785 || 553D2 || 553D8 || 56429 || 5642B ||
+|| Slot 13 || 5FC0D || 5C85A || 5C860 || 5D8B1 || 5D8B3 ||
+|| Slot 14 || 67095 || 63CE2 || 63CE8 || 64D39 || 64D3B ||
+|| Slot 15 || 6E51D || 6B16A || 6B170 || 6C1C1 || 6C1C3 ||
+|| Slot 16 || 759A5 || 725F2 || 725F8 || 73649 || 7364B ||
+|| Slot 17 || 7CE2D || 79A7A || 79A80 || 7AAD1 || 7AAD3 ||
+|| Slot 18 || 842B5 || 80F02 || 80F08 || 81F59 || 81F5B ||
+|| Slot 19 || 8B73D || 8838A || 88390 || 893E1 || 893E3 ||
+|| Slot 20 || 92BC5 || 8F812 || 8F818 || 90869 || 9086B ||
+|| Slot 21 || 9A04D || 96C9A || 96CA0 || 97CF1 || 97CF3 ||
+|| Slot 22 || A14D5 || 9E122 || 9E128 || 9F179 || 9F17B ||
+|| Slot 23 || A895D || A55AA || A55B0 || A6601 || A6603 ||
+|| Slot 24 || AFDE5 || ACA32 || ACA38 || ADA89 || ADA8B ||
+|| Slot 25 || B726D || B3EBA || B3EC0 || B4F11 || B4F13 ||
+|| Slot 26 || BE6F5 || BB342 || BB348 || BC399 || BC39B ||
+|| Slot 27 || C5B7D || C27CA || C27D0 || C3821 || C3823 ||
+|| Slot 28 || CD005 || C9C52 || C9C58 || CACA9 || CACAB ||
+|| Slot 29 || D448D || D10DA || D10E0 || D2131 || D2133 ||
+|| Slot 30 || DB915 || D8562 || D8568 || D95B9 || D95BB ||
+|| Slot 31 || E2D9D || DF9EA || DF9F0 || E0A41 || E0A43 ||
+|| Slot 32 || EA225 || E6E72 || E6E78 || E7EC9 || E7ECB ||
+|| Slot 33 || F16AD || EE2FA || EE300 || EF351 || EF353 ||
+|| Slot 34 || F8B35 || F5782 || F5788 || F67D9 || F67DB ||
+|| Slot 35 || FFFBD || FCC0A || FCC10 || FDC61 || FDC63 ||
+|| Slot 36 || 107445 || 104092 || 104098 || 1050E9 || 1050EB ||
+|| Slot 37 || 10E8CD || 10B51A || 10B520 || 10C571 || 10C573 ||
+|| Slot 38 || 115D55 || 1129A2 || 1129A8 || 1139F9 || 1139FB ||
+|| Slot 39 || 11D1DD || 119E2A || 119E30 || 11AE81 || 11AE83 ||
+|| Slot 40 || 124665 || 1212B2 || 1212B8 || 122309 || 12230B ||
+|| Slot 41 || 12BAED || 12873A || 128740 || 129791 || 129793 ||
+|| Slot 42 || 132F75 || 12FBC2 || 12FBC8 || 130C19 || 130C1B ||
+|| Slot 43 || 13A3FD || 13704A || 137050 || 1380A1 || 1380A3 ||
+|| Slot 44 || 141885 || 13E4D2 || 13E4D8 || 13F529 || 13F52B ||
+|| Slot 45 || 148D0D || 14595A || 145960 || 1469B1 || 1469B3 ||
+|| Slot 46 || 150195 || 14CDE2 || 14CDE8 || 14DE39 || 14DE3B ||
+|| Slot 47 || 15761D || 15426A || 154270 || 1552C1 || 1552C3 ||
+|| Slot 48 || 15EAA5 || 15B6F2 || 15B6F8 || 15C749 || 15C74B ||
+|| Slot 49 || 165F2D || 162B7A || 162B80 || 163BD1 || 163BD3 ||
+|| Slot 50 || 16D3B5 || 16A002 || 16A008 || 16B059 || 16B05B ||
+
+Each slot has two moveset address, each using same digit. They have different function:
+: Moveset 1 : Character's pose during creation (including photo), menu weapon name, sometimes entry pose, sometimes win pose, and character's identity. This also governs the mimic character behavior. If you set this to mimic character's identity, they will ignore the second moveset data and weapon.
+: Moveset 2 : Character's moveset, weapon set, and roster slot (standard edit). This affects taunt if used with either Kilik with Xiba's move or Elysium with Pyrrha Omega's move, but neither will gain special moveset nor special Critical Edge.
+: Example : If you make a Siegfried custom, set Move 1 to "01" and Move 2 to "02, the game will recognize the character as Maxi, will call "Maxi" upon selection, will have maxi's weapon name on creation mode, but will appear under Voldo's roster slot, have Voldo's moveset and weapon, while have Maxi's pose during creation.
+
+[[include :fiction:common:alert |text=Using Ezio style, apart from missing announcer voice, has no problem in all modes.]]
+
+[[include :fiction:common:alert |text=Voice digit is different from moveset digit, but somehow follows old numbering.]]
+
+[[include :fiction:common:alert |text=With weapon code, it is possible to assign 9th weapon for all characters. They are either SoulCalibur (female characters, Siegfried), or a more detailed version of their default weapon.]]
+
+||~ Move 1 ||~ Move 2 ||~ Voice ||~ Character ||~ English VA||~ Japanese VA||
+|| 00 || 00 || 01 || Mitsurugi || Ed Cunningham || Toshiyuki Morikawa || 
+|| 01 || 01 || 04 || Maxi || Steve Van Wormer || Shigeo Kiyama || 
+|| 02 || 02 || 05 || Voldo ||  ||  || 
+|| 03 || 03 || 07 || Siegfried || Roger Craig Smith || Nobuyuki Hiyama || 
+|| 04 || 04 || 0B || Ivy || Lani Minella || Miyuki Sawashiro || 
+|| 05 || 08 || 10 || Edge Master || TJ Storm || Koji Ishii || 
+|| 06 || 06 || 11 || Nightmare || Charles Klausmeyer || Yasunori Masutani || 
+|| 07 || 07 || 12 || Astaroth || Michael McConnohie || Ryuzaburo Otomo || 
+|| 08 || 08 || 14 || Cervantes || Patrick Seitz || Jin Urayama || 
+|| 09 || 09 || 15 || Raphael || Charles Klausmeyer || Yasunori Masutani || 
+|| 0A || 0A || 23 || Tira ||  || Masumi Asano || 
+|| 0B || 0B || 28 || Hilde || Julie Ann Taylor || Yuko Kaida || 
+|| 0C || 0C || 29 || Algol || Jamieson Price || Joji Nakata || 
+|| 0D || 0D || 2F || Dampierre || Anthony Jenkins || Shigeru Chiba || 
+|| 0E || 0E || 31 || Z.W.E.I || Matthew Mercer || Kenta Miyake || 
+|| 0F || 0F || 32 || Viola || Heather Hogan || Hitomi Nabatame || 
+|| 10 || 10 || 33 || Pyrrha || Laura Bailey || Nozomi Sasaki || 
+|| 11 || 11 || 34 || Pyrrha-Z || Laura Bailey || Nozomi Sasaki || 
+|| 12 || 12 || 35 || Patroklos || Yuri Lowenthal || Kenn || 
+|| 13 || 13 || 36 || A-Patroklos || Yuri Lowenthal || Kenn || 
+|| 14 || 14 || 37 || Natsu || Kate Higgins || Fuyuka Oura || 
+|| 15 || 15 || 38 || Xiba || Johnny Yong Bosch || Toshiyuki Toyonaga || 
+|| 16 || 16 || 39 || Leixia || Lauren Landa || Yoshino Nanjo || 
+|| 17 || 17 || 3A || Aeon ||  ||  || 
+|| 18 || 18 || 3B || Yoshimitsu || Mitch Urban || Norio Wakamoto || 
+|| 19 || 04 || 3C || Elysium ||  || Chie Nakamura || 
+|| 1A || 01 || 3D || Kilik || Grant George || Soichiro Hoshi || 
+|| 1E || 1E ||  || Devil Jin ||  ||  || 
+|| 1F || 1F || 42 || Ezio Auditore || Roger Craig Smith || Tomokazu Seki || 
+||  ||  || 60 || Young Villager ||  ||  || 
+||  ||  || 61 || Young Knight ||  ||  || 
+||  ||  || 62 || Scroundrel ||  ||  || 
+||  ||  || 63 || Cold Assassin ||  ||  || 
+||  ||  || 64 || Reliable Leader ||  ||  || 
+||  ||  || 65 || Main Bad Guy ||  ||  || 
+||  ||  || 66 || Super Human ||  || Takehito Koyasu || 
+||  ||  || 67 || Veteran Knight ||  ||  || 
+||  ||  || 68 || Upbeat Girl ||  ||  || 
+||  ||  || 69 || Young Lady ||  ||  || 
+||  ||  || 6A || Cynical ||  ||  || 
+||  ||  || 6B || Serious ||  ||  || 
+||  ||  || 6C || Reliable Leader ||  ||  || 
+||  ||  || 6D || Veteran Knight ||  ||  || 
+||  ||  || 6E || Femme Fatale ||  ||  || 
+||  ||  || 6F || Super Human ||  ||  || 
+
+
++ Finding the Custom Character Moveset Data
+I found the data myself using an algorithm I built in Microsoft Office Excel. First I created 7 custom characters named Bohb1, Bohb2, Bohb3, Bohb4, Bohb5, Alice4, and Alice5. They are all just a copy of each other, no parameter changed, and their card blanked i.e. black background, maximum frame zoom, corner image). Blanking the card is essential to make the image as similar as possible, thus will not pollute the algorithm.
+
+The moveset was configured as follows:
+||~ Slot ||~ Character||~ Moveset||
+|| 20|| (Blank slot) || N/A ||
+|| 21 || Bohb1 || Mitsurugi||
+|| 22 || Bohb2 || Maxi	||
+|| 23 || Bohb3 || Voldo||
+|| 24 || Bohb4 || Yoshimitsu||
+|| 25 || Bohb5 || Cervantes||
+|| 26 || Alice4 || Yoshimitsu||
+|| 27 || Alice5 || Cervantes||
+|| 28 || Ezio || Ezio||
+|| 29 || Algol || Algol||
+
+Mitsurugi was chosen due to the digit pattern of previous Soul series that Mitsurugi always come first, followed by Maxi, then Voldo, then Yoshimitsu, then Cervantes.
+
+This pattern allows the logic of **Bohb1 to Bohb5 always have different digit, but Bohb4 and Bohb5 have same digit with Alice4 and Alice5, respectively.** Let's state this as {{Logic 1}}.
+
+From my previous attempted search for the digit (which failed), each character slot have 29832 address. Trying to cover that without any help is suicide. On this search, I also open to **the chance that the character slot address does not begin at name address.** I have to think of the **possibility that part of Bohb2's address will be on the 29832 address that I designate as Bohb1's address.** Thus I also list 29832  address before Bohb1, even though the slot was empty. Let's state this as {{Logic 2}}.
+
+Using only half of {{Logic 1}}, I put the following code on Excel:
+[[code]]
+=IF(OR([@Bohb1]=[@Bohb2],[@Bohb2]=[@Bohb3],[@Bohb3]=[@Bohb4]),"Same Value!","")
+[[/code]]
+
+Notice that Bohb 5 is not used on the algorithm because of {{Logic 2}}, thus Bohb5's moveset address //could be// in Bohb4's. This code compares Bohb1 to Bohb2, Bohb2 to Bohb3 and Bohb3 to Bohb4. If either of them are same, then the address are considered same, since by first moveset logic, neither Bohb can have save address.
+
+From the initial 29832, the algorithm allowed me to filter the table to a much manageable 63 addresses. After just a bit of looking, I found that address 16603 and 20780 possibly contain the character digit since they correspond to {{Logic 1}}. But here's the catch. The digit for Mitsurugi (00) appears on the blank slot before Bohb1.
+
+[[include image
+|image=/local--files/game:soulcalibur5/hackprocess.png
+|title=Note the vertical arrangement due to the limitation of Excel's horizontal cells. Apparently on Soulcalibur V, Cervantes (08) comes before Yoshimitsu (18).
+|ratio=4x3
+]]
+
+Which means my speculation of {{Logic 2}} is proven. After editing both number, I succeeded in making my first Ezio Custom Character.
+
+[[include image
+|image=/local--files/game:soulcalibur5/sleipial-c3special.avif
+|title=Sleipial with Ezio's moveset.
+]]

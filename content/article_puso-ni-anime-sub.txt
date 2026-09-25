@@ -1,0 +1,160 @@
+@title: Anime PuSo Ni Comi + Okawari English Subs (Completed)
+@author: Perseonn Balthasaar
+@updated: 2019-02-12
+
+Starting 2019, Phantasy Star Online 2 started a short anime series based on its own webcomic called "PuSo Ni Comi" (ぷそ煮コミ PuSo Stew) by Pekeko (ぺけこ), which debuts in 2018. The anime is available on YouTube and Niconico. On April 2020, the anime begins airing it's second season, named "PuSo Ni Comi Okawari" (ぷそ煮コミおかわり More PuSo Stew).
+
+On 8 September 2020 PSO2 Station Plus stream, Sega announced their plan to remove all episode of Puso Ni Comi from both YouTube and Niconico.
+
+[[include component:pso2-nav]]
+
++ Downloads
+Without further ado, the button below will link to Dropbox where you can download the subbed anime in MKV format, under the banner of Manaka Sub. The source was the YouTube video, so please excuse the quality. The link was previously Google Drive, but I now use Drive solely for working, so I moved this to a more private Dropbox.
+
+[[include :asoh:common:button-base
+|link=https://www.dropbox.com/sh/akkb2ge7cs0r4bk/AADU3KbaCHWuQtMe1Jm49vova?dl=0
+|icon-class=fa fa-cloud
+|style=font-size: calc(var(--base-font-size) * 1 + .4vw);
+|label=Download PuSo Ni Comi + Okawari with English Subtitles]]
+
+++ Keywords
+At the end of each episode, there's a keyword to be typed in PSO2's chat box. Doing so will yield a PuSo Ni Comi Memory (PuSo Ni Comi Memory 3 for the Okawari), redeemable from the Visiphone. The translation provided is contextual on how the keyword is used on the short anime.
+
++++ First Season Keywords (Expired)
+[[collapsible show="Show 1st Season keywords" hide="Hide keywords"]]
+||~ Week ||~ Keyword ||~ Translation ||
+|| 1 || アニメぷそ煮コミ配信中 || PuSo Ni Comi Anime is on air! ||
+|| 2 || 年齢はファンタジー || Age is a fantasy! || 
+|| 3 || 中の人ちゃんといた || The person over there is okay! ||
+|| 4 || ハンス最高 || Hans is the best! ||
+|| 5 || 個人情報には気を付けよう || Be careful of your personal data! ||
+|| 6 || めっちゃ重要 || That sounds really really good! ||
+|| 7 || 踏まれたい || Trample on me ||
+|| 8 || 自キャラ最高 || My character is the best! ||
+|| 9 || メカアニメによくあるやつ || Like those in Mecha Animes! ||
+|| 10 || おっさんじゃないけど || I'm not anyone's daddy ||
+|| 11 || 感謝祭で会った？ || Did we met at the Festa? ||
+|| 12 || リアルで近い人？ || She's close by in real life? ||
+|| 13 || PSO2の日サイコー || PSO2 Day is the best! ||
+|| 14 || リアルよりバーチャル || Real and virtual. ||
+|| 15 || 温泉回 || Hot spring episode. ||
+|| 16 || ガチ拒否じゃん || Kicked to the long grass. ||
+|| 17 || ６年前何してた？ || What were you doing 6 years ago? ||
+|| 18 || 夜食テロ || Terror of the midnight snack. ||
+|| 19 || ぷそ煮オリジナル回 || PuSo Ni Original Episode. ||
+|| 20 || 煮コミュニケーション || Stewed Communication. ||
+[[/collapsible]]
+
++++ Second Season Keywords (Expired)
+[[collapsible show="Show 2nd Season keywords" hide="Hide keywords"]]
+||~ Week ||~ Keyword ||~ Translation ||
+|| 1 || アニメぷそ煮コミおかわり || More PuSo Ni Comi Anime ||
+|| 2 || キャラクリデータはとっておこう || Save your Character Creation data! ||
+|| 3 || キャストはえっちだ || Casts are Erotic ||
+|| 4 || 男の子だ！！！ || IT'S A BOOOY!!! ||
+|| 5 || ドルチェと牧野の中の人公開中 || The real Dolce and Makino revealed! ||
+|| 6 || スリスリぺちぺち || Cuddle-cuddle and pat-pat ||
+|| 7 || 初めてしてみたいです || Do it for the first time. ||
+|| 8 || 銃座はどんどん強くなってるぞ || The turrets are getting stronger and stronger! ||
+|| 9 || 朝までクエストガン回し || Do all the quests till morning! ||
+||10 || レッツゴー野良緊急！ || Let's for a PUG! ||
+||11 || マグの中身って何かな？ || What's inside a Mag? ||
+||12 || 女の子がカジキに丸のみ？|| A girl gulped by a Marlin? ||
+||13 || チャット発言先に気を付けよう || Ensure your chat's destination! ||
+||14 || あなたもお試し済み？ || Have you tried? ||
+||15 || 物欲センサーってあると思う？ || Do you think the universe make it like that? ||
+||16 || これは乙じゃなくてポニーテールなんだからね! || After a while crocodile! ||
+||17 || 女の子とラッピーとカジキ || A girl, a rappy, and a marlin. ||
+||18 || 倉庫パンパンになってない？ || Is your storage holding too many items? ||
+||19 || 汚されたいんだ || I want to get tainted. ||
+||20 || いつから見てたの？ || Since when did you come in? ||
+||21 || 新しい扉、開かない？||Do you want to open a new door?||
+||22 || 触手警察だー！ ||Tentacle nazis!||
+||23 || 等身大ゼクト降臨 || Advent of 1:1 Zect! ||
+||24 || 大川さんってＪＫなの？ || Is Clerk Ookawa a Schoolgirl?||
+||25 || みたらしさん卒業するってよ || Mitarashi said she's going to graduate! ||
+||26 || ぷそ煮コミおかわり最終回みた？ || Have you watched the last episode?||
+[[/collapsible]]
+
+++ Related Links
+[[div_ class="row"]]
+[[div_ class="col-sm-6"]]
+[[include :asoh:common:button-base
+|link=https://www.youtube.com/playlist?list=PLjx5erVEp9GGdEaujGRW2xDJuY_ru19PH
+|icon-class=fa-brands fa-youtube
+|label=PuSo Ni Comi on YouTube]]
+[[/div]]
+
+
+[[div_ class="col-sm-6"]]
+[[include :asoh:common:button-base
+|link=https://www.youtube.com/playlist?list=PLjx5erVEp9GFyxo9l0otfzsi3nShElXeA
+|icon-class=fa-brands fa-youtube
+|label=PuSo Ni Comi Okawari on YouTube]]
+[[/div]]
+
+[[div_ class="col-sm-6"]]
+[[include :asoh:common:button-base
+|link=http://pso2.jp/players/community/comic/pso2comi/01/
+|icon-class=fa fa-link
+|label=Puso Ni Comi Webcomic]]
+[[/div]]
+
+[[div_ class="col-sm-6"]]
+[[include :asoh:common:button-base
+|link=https://www.pixiv.net/member.php?id=967677
+|icon-class=fa fa-link
+|label=Pekeko on Pixiv]]
+[[/div]]
+
+[[/div]]
+
++ About PuSo Ni Comi
+PuSo tells the story about a character named Mitarashi and her daily interactions in the PSO2 game. She has a close friend named Tetra, and both of them has a friend named Ichika. It's full of in-game jokes that is surprisingly relatable. If you are a player of PSO2, I think you'll find PuSo to be quite funny, and frankly, better than the whole mess of PSO2 story mode.
+
+[[include common:image-css
+|image=http://capa.wikidot.com/local--files/article:puso-ni-anime-sub/puso-ni-screenshot.jpg
+|title=Tetra and Mitarashi about to start a Featured Quest.
+]]
+
++ Subbing History
+After four episodes, I noted that no one is English-subbing the series. Furthermore, no subtitles may be submitted to the YouTube video. Feeling that the series worth subbing, and it only take a rather short amount of time to do so, my wife and I took it to sub the series. This would be our first time releasing a fansub, and probably the only time to do so.
+
+[[include common:image-css
+|image=http://capa.wikidot.com/local--files/article:puso-ni-anime-sub/puso-ni-subbing.jpg
+|title=Subbing using Aegisub is surprisingly fast and easy.
+]]
+
+++ Translator notes
+* The sub aimed to be more contextual rather than line-by-line translation. There will be instances when you hear the character directly address others by name, but the sub simply uses "you" since it is more common in English conversation. Other instances are made to be more accurate to the game, like when Mitarashi and Tetra explains that EQs appear suddenly, the sub explains that EQ firstly appears in a consistent schedule, although can also be random.
+* "Zect" is chosen over Zekt or Zekuto, due to how close Zect (ゼクト //Zekuto//) sounds to the word Zecter (ゼクター (//Zekutaa//), as in Kamen Rider Kabuto Zecter. I felt it as appropriate since Zect is most likely a tokusatsu fan.
+* Mitarashi speaks in mostly Gifu accent, but she also throws some Kansai, Yokohama, and Touhoku on her speech. The sub tries to reflect her oddity by using Valleyspeak.
+* Zect and Tetra speaks formal. Both doesn't swear.
+* Makino is polite. Instead of telling his (yes, he is a male character) views directly, he phrases in a form of indirect question.
+* Ichika overacts if it is possible, or if you ask about his character.
+* In Season 1 Episode 16, Tetra declined Mitarashi's offer and Mitarashi actually said, "Wow, you vehemently rejected it, hahaha", and grasses appears. This is a visual pun of a Japanese net slang:
+ * Grass (草 kusa) is often drawn like the letter "w".
+ * In net slang, "w" or is a shorthand for "Wara" (笑), which means laugh, and is used the same as we use "LOL". You can note if a Japanese person typed this at the end of their sentence.
+ * So, slang-wise, "草" (kusa), "w", "www", or "草www" (kusa www) is the same as "LOL". Yes, it is simply because grass can be drawn as "w"!
+ * In other words:
+  * "Wow, you vehemently rejected it, hahaha"
+  * "Wow, you vehemently rejected it, LOL"
+  * "Wow, you vehemently rejected it, (www)"
+  * "Wow, you vehemently rejected it, (grass)"
+ * And thus we have a grass grow because grass = laughing out loud.
+ * While this works in Japanese language, putting a "LOL" doesn't work very well to the visual pun, although it is the correct translation. After searching for idioms, I found the sentence "kicked <something> to the long grass" means to cancel a thing completely, and also fulfill the visual pun.
+* In Season 2 Episode 8, the original audio doesn't include Luther's voice clips. The sub adds the voice clips in and set it as the default audio. The original audio is available as the other audio track on the file.
+* In Season 2 Episode 8, Luther's lines, are meant to invoke confusion on the audience, as we were confused to //why// he speaks that way. As my wife said "He's either chuuni or crazy", so I made his line as confusing to our English audience as it's confusing to someone fluent in Japanese. If you are curious, here's a more sensible translation of his lines:
+ * "Foregathering for the fragarach are naught but vainglorious!" = "Trying to gather for an answer is useless!"
+ * "I necessitate neither schemes nor machination!" = "I don't need any plan!"
+ * "These abyss and ruins yonder the path to omniscience reposes!" = "The path to knowledge lies beyond the abyss and destruction!"
+ * "Impossible! Where... where have fallacies subsumed me...!" = "Impossible! Where have I been wrong?"
+* In Season 2 Episode 14, Mitarashi said "(・ω・`)乙 これは乙じゃなくてポニーテールなんだからね" (Kore wa "otsu" janakute, Ponytail nandakarane) while making Zect shape her hair like the 乙 (otsu) kanji.
+ * This roughly translates "This is not "otsu", but ponytail", referring to her ponytail shape and an old Japanese net culture.
+ * There was an old culture in the Japanese net to shorten "otsukare" (what Tetra was saying earlier) to just the kanji otsu (乙).
+ * Combined with the emoji "(・ω・`)乙" which shows ponytail, not a person saying "otsu", Mitarashi wants to pun-reply what Tetra's "otsukare"
+ * This being said, shortening otsukare to the kanji otsu is purely informal.
+
+
++ Contact and Credits
+If you need help regarding the sub, or feedback, please do not hesitate to contact my discord on Perseonn#7731. Thanks to Aida Enna for initial quality assurance!

@@ -1,0 +1,156 @@
+@title: Mouryou no Hako Review
+@author: Perseonn Balthasaar
+@updated: 2026-09-08
+
+Following The Summer of Ubume, I continued reading the second book of Natsuhiko Kyougoku's Hyakki Yakkou / Kyougokudou series, Mouryou no Hako. According to Wikipedia, this book can be translated as "Box of Spirits and Goblins", but I digress since mouryou is very detached from western concept of goblins. Same with Ubume, spoiler alert before reading!
+
+I read the manga version of Mouryou no Hako, which has a rather dodgy translation, but servicable. I don't quite recommend the book because the book wants to be **a mystery about ideas more than a mystery about events.**
+
+Anyway, incoming spoilers!
+
++ Chuuzenji Monologue™ Assault Mode
+Chuuzenji Monologue™ is now used in much more moderation. This speechcraft pops on Book 2 and focused on the theme of Mouryou instead of meandering to unrelated topics like it did in Ubume.
+
+However, it's still treated as super craft that reduces Hyouei Terada and Mimasaka into parrot exposition during **Chuuzenji Monologue™ Assault Mode**. They just repeat the last word of Chuuzenji's otherwise non-stop sentences:
+> Chuuzenji: "Your belief in X derives from Y, which is actually Z, because..."
+> Terada: "Z..."
+> Chuuzenji: "And therefore Z means A..."
+> Terada: "A..."
+> Chuuzenji: "Which proves B."
+> Terada: "B..."
+
+At that point, Hyouei Terada isn't a participant in the revelation anymore. He's basically subtitles for Chuuzenji Monologue™.
+
+This is particularly unfortunate when confronting Mimasaka since he is potentially a fascinating ideological opponent. Mimasaka has a genuinely radical premise: What constitutes a human being? Chuuzenji, meanwhile, basically has the same worldview as an ordinary person.
+
+This is exactly the sort of question that should produce a confrontation between two incompatible worldviews. But instead, Chuuzenji eventually gets to unpack the box, unpack Mimasaka, unpack Youko, unpack Kanako, unpack everybody's psychology, and then close the lid.
+
+While Chuuzenji Monologue™ is thematically better integrated here, dramatically it felt like Chuuzenji has activated a 200CP S-Craft that renders the boss' HP bar irrelevant.
+
++ Contrived Tragedy Conga Line
+The tragedy felt like a checklist that the perpetrators have to complete in order to justify their behavior, and it felt forced. A mystery work does need contrivance, but not to the degree that Mouryou no Hako exhibits.
+
+The following text dump is my mental note when reading:
+> Mimasaka has a sick wife that somehow has enough energy to cause trauma to Youko Yuzuki.
+> Somehow this trauma causes Youko to fell in love with her father and gave birth to Kanako.
+> Somehow --Igor-- Suzaki, know about this and blackmails Youko.
+> And somehow this info reaches to Kanao, which is saddened, tries to go to lake with Yoriko.
+> Somehow, because Kanako is alone and stand really close to the yellow line, Yoriko pushed her toward incoming train with somehow no witness (Chuuzenzi tried to pass this on as "If you have a chance to murder someone without getting caught, you'll do it" fallacy because that still hinges on goodwill).
+> Somehow Kanako survives.
+> Somehow Kanako is involved in another family's inheritance due to her mother being close to a patron during her acting years.
+> Somehow Mimasaka's research is related to keep people alive, so Youko went to Mimasaka for help.
+> Somehow money is insufficient to run the facility.
+> Somehow the life-prolonging mechanism doesn't require limbs. Aren't the main upkeep for a human body the brain and nervous system?
+> Somehow Suzaki is also working for Mimasaka and proposes to do a kidnapping scheme utilizing the cut limbs.
+> Somehow Yoriko visit the box building, moved Kiba from his post near the incinerator to the ward where Kanako is, thus Yoriko and Kiba become witness to the vanishing body act.
+> During the confusion of the vanishing Kanako, Suzaki, carrying the box where he hid Kanako's torso, goes to incinerator where he somehow kept the living limb after all this time
+> Somehow Amemiya is here and because apparently nobody will witness him doing it, murders Suzaki, much like Yoriko with Kanako.
+> Turned out, Amemiya has been somehow obsessed with Kanako for no apparent reason. Even Chuuzenji is unsure!
+> Amemiya took the box and went away, somehow meeting Kubo in a train, somehow think it's fine to show a cut-up person inside a box.
+> Kubo, seeing this, somehow become envious, thus starting the serial murder.
+> Kubo then somehow ended up at Cafe with Enokizu.
+> Enokizu, due to his ability, see the image of girl in a box from Kubo, approached him and somehow think it is fine to show picture of Kanako with Yoriko in it
+> This causes Kubo to kill Yoriko
+> 2 for 2 for Enokizu being an enabler for murderer!
+
+Now where to begin?
+
+The story has an enormous number of causal hinges, and nearly every hinge requires another exceptional circumstance: 
+> Thing A happened because Thing B happened because Thing C happened because Thing D happened because etc.
+For me it felt like the tragedy become procedural and the characters has to perform these required inputs.
+
+Among those contrivances, Yoriko pushing Kanako is especially problematic. The box building is another major offender, but we'll get there later.
+
+Chuuzenji's explanation that people can murder when circumstances provide an opportunity is psychologically plausible, but //in isolation//. The story treated it as:
+> "A human can behave this way"
+but that is different from:
+> "How likely that a human behave this way?"
+Putting aside the extraordinary circumstance that there's no witness at all, goodwill seems to be treated as non-existent. I could defend Yoriko by saying that she has pathological attachment to perfection, buy that itself stems from the much more extraordinary chain of events preceding it.
+
+++ The 2 for 2 for Enokizu
+I still don't get why the author doesn't downplay Enokizu or put him on a bus to go somewhere else, because his involvement is even more baffling than in Ubume.
+
+As a reminder, he has a supernatural-ish ability to see into people's memory, which is supposed to be a detective advantage. But as in Ubume and so with Mouryou, his ability repeatedly becomes: 
+> "Congratulations, Enokizu! You have performed the exact action required to make the murderer commit another murder."
+
+His encounter with Kubo felt particularly uncomfortable because the Enokizu effectively feeds the killer the image he needs, then Yoriko dies. Thus Enokizu becomes an accidental causal agent in the murder.
+
+To be fair, this could be a fantastic narrative twist, one could absolutely write a story around the moral implications of:
+> "Our supernatural detective's investigative technique directly enabled a murder."
+
+But Mouryou doesn't seem sufficiently interested in that implication. Enokizu is just another link in the contrived causal chain.
+
++ Shock Value
+As a mystery work that has horror element, it is understandable to utilize shocking situation to make readers uneasy.
+
+The entire mutilation storyline is thematically justified, but I felt that the presentation is ineffective. It might had to do with Yoriko's murder since the cause was so contrived and Enokizu is an enabler.
+
+Tragedy requires the reader to emotionally understand the person before the narrative destroys them. In this case, Yoriko has already been pushed through: isolation, obsession, guilt,
+psychological collapse, murder, then mutilation.
+
+At some point "This poor girl" has become "This is the next horror exhibit". Boxed Yuriko felt like evidence for the theme, rather than the culmination of Yoriko's tragedy. The murder itself is already dependent on so many coincidences, the gruesomeness can feel like the author is saying:
+> "LOOK THIS IS HORRIBLE! KUBO IS HORRIBLE,"
+rather than allowing the circumstances to make it horrible //organically//.
+
++ Obfuscating the Timeline
+The story is told in such extreme back and forth, it felt narratively cheating to confuse reader on the timeline. A non-linear mystery can be excellent when the chronology itself is part of the evidence.
+
+For example:
+> "You thought A happened before B. Now here's information proving B actually preceded A."
+This is a good confusion as shown on Kindaichi Shounen no Jikenbo's "The Hanging School Murder Case" where the perpetrator created false timeline using test sheets.
+
+Compare to what happen to Mouryou no Hako:
+> "Here's another piece of the story from over here,"
+> "Now let's jump over there,"
+> "Here's something that happened before that,"
+> "Now return to the present. Prepare for Chuuzenji Monologue™"
+
+It's very tiring to mentally construct a temporal spreadsheet just to know what everyone was doing. And the worse part is, it doesn't necessarily help identify the murderer.
+
+There's a difference between:
+> "I don't know what happened,"
+vs
+> "I know what happened, but I don't know when the author wants me to know it."
+The latter can produce the illusion of complexity without actually increasing deductive complexity. In other words, it's obfuscating rather than mystery-building.
+
++ I Smell Magic in the Air
+The box building that functions as a human life support system felt like it was veering into Yukito Ayatsuji's style of magic setting.
+
+Now, the box building itself isn't necessarily supernatural, but the problem is that the story asks the reader to accept a technology whose practical limitations are almost completely subservient to its thematic purpose.
+
+That said, a mystery can absolutely have one impossible premise. It's perfectly reasonable for a story to say:
+> "Accept this bizarre condition. Suspend your disbelief,"
+I've seen this in on works like the aforementioned Kindaichi Shounen no Jikenbo, QED, CMB, or even Kindaichi Kousuke stories.
+
+However, Mouryou no Hako, keeps asking me to accept things one after another:
+> "Accept this bizarre medical technology..." 
+> "...and this bizarre psychological circumstance..."
+> "...and this bizarre family situation..."
+> "...and this bizarre coincidence..."
+> "...and this bizarre preservation mechanism..."
+And somewhere my suspension of disbelief snapped and I started asking:
+> "How does this facility's logistics work?".
+
+The moment Mimasaka has built a gigantic specialized medical complex, maintained sophisticated life-support equipment, employs assistants, conducts research, keeps patients alive for extended periods, etc., the story have introduced an entire logistical ecosystem:
+> Where is the money coming from?
+> Who manufactures the equipment?
+> Who supplies it?
+> Who maintains it?
+> What powers it? The translation mentioned fuel, but unclear what kind of fuel.
+> How does nobody notice this enormous facility?
+I felt the story isn't interested in those questions because the box isn't really technology, it's a magic proposition wearing a lab coat.
+
++ Conclusion
+I really like mystery with a touch of supernatural, but not when the author scatters all possible themes all over his workroom, goes:
+> Pick all these themes up, put it in the box. Bump Bump.
+then end up with:
+* A serial murder mystery
+* A medical horror story
+* A family tragedy
+* A religious mystery
+* A psychological study
+* A philosophical argument about human identity
+* An exploration of the concept of mouryou
+And nobody can tie this many themes well into a story without a serious cost. For Mouryou no Hako, the cost is making the plot increasingly artificial.
+
+Anyway, I have 1 more translated work to read before going to Chuuzenji-sensei anime. Next up: Kyoukotsu no Yume!

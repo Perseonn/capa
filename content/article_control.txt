@@ -1,0 +1,41 @@
+@title: Control Review
+@author: Perseonn Balthasaar
+@updated: 2025-04-03
+
+After claiming it for free on Epic Games a long, long time ago and being curious about how the game implements cosmic horror, I finally finished Control, starring Aunt Jesse. This five-year-old game has left me both amazed and frustrated. Not in a rapid eye-rolling horror way, mind you.
+
+[[include image |image=/local--files/article:control/red-room.avif |title=I like how they can make red colours really creepy.]]
+
++ The Great Idea
+Control manages to make a black inverted pyramid look incredibly imposing—enough to make the hair on the back of your neck stand up! Every call from The Board feels urgent, every echo of Trench is haunting, every Darling video is intriguing, and every case file is gripping!
+
+[[include image |image=/local--files/article:control/reverse-black-pyramid.avif |title=I am freaked out internally, yet I can't stop looking at it.]]
+
++ The Bad Gameplay
+At its core, it's just an average third-person shooter. Aunt Jesse's gun is supposedly //the// Excalibur, yet this so-called shapeshifting weapon only has four basic modes: handgun, shotgun, rifle, and grenade launcher. These are weapons I've seen in countless other games.
+
+Where's the gun that sends enemies to another dimension? Where's the weapon that induces rapture? Where's the gun that attacks enemies with //colours//? Compared to Saints Row 4, Control feels disappointingly uncreative.
+
+[[include image |image=/local--files/article:control/generic-shooter.avif |title=Why the heck does a cosmic artefact gun need to reload?]]
+
++ The Serviceable, but Ugly Story
+The main villain here is, of course, **Generic White Dude™**, and almost all the supporting characters are **Strong Diverse Female™**. In addition to mostly uninteresting characters, the game also has no real ending—after the final stage (which doesn't even have a boss), Aunt Jesse simply monologues about the disappearance of the source of horror, but the problem isn't actually solved!
+
+[[include image |image=/local--files/article:control/generic-white-dude.avif |title=This is the main villain, nuff said.]]
+
++ Wasted Potential
+I can't help but feel sorry for all the wasted potential in Control. The game barely explores the rituals, the ever-changing layouts, the Foundation, the Founders, and the Former. I was expecting to see more of the Former, but nope—it's just the same boss fight twice. This makes me hesitant to try other games from this developer, like the Alan Wake series.
+
+[[include image |image=/local--files/article:control/versus-former.avif |title=Why is this part never explored further?]]
+
++ Summary
+[[div class="review hippo"]]
+||~ Pros ||~ Cons ||
+|| The creepy atmosphere works. || Average gameplay, nothing stands out. ||
+|| I always enjoy the transmissions from The Founders. || No real ending. ||
+|| Darling's videos get increasingly disturbing. || No memorable music, apart from the cringey theme song at Ashtray Maze. ||
+|| You can see a bit of environmental destruction. || Lacks creativity in level design, apart from Ashtray Maze. ||
+|| Navigating using in-game signs is possible. || No map for the easily disoriented. ||
+[[/div]]
+
+This article has been or will be posted on my workplace's Instagram, @@@p**********e.@@

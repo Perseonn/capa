@@ -1,0 +1,294 @@
+@title: Dynasty Warriors
+@author: Buster Wolf
+@updated: 2025-04-06
+
+The Dynasty Warriors series originally started as a fighting game which the rest of the series did not follow through with, this guide is meant to help with the move list of each playable character so you know what button combinations to press to get your desired attacks. This guide is meant for the US version, but note that if you are playing on the Japanese version [[span class="controller"]]C[[/span]] & [[span class="controller"]]D[[/span]] have their commands swapped, this is included for codes.
+
++ Basic Commands
+||~ Command ||~ Description ||
+|| [[span class="controller"]]A[[/span]] || A horizontal swipe. ||
+|| [[span class="controller"]]B[[/span]] || A vertical attack or a thrust. ||
+|| [[span class="controller"]]C[[/span]] || Defends against [[span class="controller"]]A[[/span]] swipes. ||
+|| [[span class="controller"]]D[[/span]] || Defends against [[span class="controller"]]B[[/span]] swipes. ||
+|| [[span class="controller"]]C+D[[/span]] || Side step. ||
+|| [[span class="controller"]]A+B[[/span]] || Will do a throw from the front only. ||
+|| [[span class="controller"]]**&**[[/span]]/[[span class="controller"]]**@@*@@**[[/span]]/[[span class="controller"]]**(**[[/span]][[span class="controller "]]+A[[/span]]/[[span class="controller "]]B[[/span]] || A lunging attack that can also be used to pursuit a downed enemy. ||
+|| [[span class="controller qcf"]]+A+C[[/span]] or [[span class="controller qcf"]]+B+D[[/span]] || On the bottom of the screen a bar will fill up, when it is full you are able to perform your characters musou attack. If your health is Red and the bar is full it will be a longer combo. ||
+
++ Base Characters
+These characters have an ending which you get by going through the 1P Battle mode.
+++ Zhao Yun
+||~ Command ||~ Description ||~ Use in later games||
+|| [[span class="controller"]]ABBA[[/span]] || High inward swing followed by a high thrust followed a mid thrust ending with an overhead chop. || ||
+|| [[span class="controller"]]BBA[[/span]] || High thrust followed a mid thrust ending with an overhead chop. || ||
+|| [[span class="controller"]]BB, **@**+AAB[[/span]] || High thrust followed a mid thrust followed by low spinning swing followed a downward swing ending with a pushing thrust. || ||
+|| [[span class="controller"]]**@@^^@@**+AA[[/span]] || Inward mid swing followed by an outward pushing mid swing. || ||
+|| [[span class="controller"]]**@@^^@@**+ABB[[/span]] || Inward mid swing followed by a poke with the butt end of the Spear ending with a mid pushing thrust. || ||
+|| [[span class="controller"]]**@@^^@@**+AB,[[/span]][[span class="controller qcf"]]+B[[/span]] || Inward mid swing followed by a poke with the butt end of the Spear ending with a three quick mid thrusts. || ||
+|| [[span class="controller"]]**@@^^@@**+BB[[/span]] || Mid poke with the butt end of the Spear ending with a mid pushing thrust. || ||
+|| [[span class="controller"]]**@@^^@@**+B,[[/span]][[span class="controller qcf"]]+B[[/span]] || Mid poke with the butt end of the Spear ending with a three quick mid thrusts. || ||
+|| While Standing [[span class="controller"]]A[[/span]] || Lifting upward swing. ||  ||
+|| While Standing [[span class="controller"]]BA[[/span]] || Mid thrust followed by a pushing overhead chop. || Used for his Normal 2 and Charge 3 in Dynasty Warriors 2 & 3. ||
+|| [[span class="controller"]]**@**+BA[[/span]] || Low thrust followed a lifting upward swing with the butt of the Spear. || ||
+|| [[span class="controller"]]1+AAB[[/span]] || Low swing followed by a pushing downward chop ending with a mid poke. || ||
+|| [[span class="controller"]]3+BAAB[[/span]] || Mid thrust followed by low spinning swing followed a downward swing ending with a pushing thrust. || ||
+|| [[span class="controller qcb"]]+AA[[/span]] || Tripping low inward swing followed by a lifting upward swing. ||  ||
+|| [[span class="controller dpf"]]+A[[/span]] || Lifting upward swing with the butt of the Spear. || Used for his Charge 2 in Dynasty Warriors 2 through 5. ||
+|| [[span class="controller hcf"]]+AAAAB[[/span]] || 5 Spinning upward swings ending with a pushing thrust. || Used for his Musou Attack in Dynasty Warriors 2 through 5. ||
+|| [[span class="controller qcf"]]+B+D,[[/span]][[span class="controller qcf"]]+B[[/span]] || True Musou extension after the poke with the butt end of the Spear, does three quick mid thrusts. || ||
+
+++ Guan Yu
+||~ Command ||~ Description ||~ Use in later games||
+|| [[span class="controller"]]AA[[/span]] || Inward swing followed by an outward swing. || Used for his Normal 1 & 2 in Dynasty Warriors 2 through 5. ||
+|| [[span class="controller"]]A, **$**+A[[/span]] || Inward swing followed by an outward swing leading into High Held Stance. || ||
+|| [[span class="controller"]]A, **@**+AAA[[/span]] || Inward swing followed by an upward swing then an inward swing and an outward swing leading into High Held Stance very shortly. || ||
+|| [[span class="controller"]]A, **@**+AA, 4+A[[/span]] || Inward swing followed by an upward swing then an inward swing and an outward swing leading into High Held Stance. || ||
+|| [[span class="controller"]]BA[[/span]] || High thrust followed a spinning pushing overhead chop. || ||
+|| [[span class="controller"]]**^**+AA[[/span]] || Outward swing followed by a quick inward. || ||
+|| While Standing [[span class="controller"]]A[[/span]] || Lifting upward swing. ||  ||
+|| While Standing [[span class="controller"]]B[[/span]] || Mid thrust. ||  ||
+|| [[span class="controller qcf"]]+A[[/span]] || Slow powerful pushing downward chop. ||  ||
+|| [[span class="controller qcb"]]+A[[/span]] || Slow spinning tripping low swing. ||  ||
+|| [[span class="controller dpf"]]+B[[/span]] || Uppercut with the butt of the Dragon Blade. ||  ||
+
+High Held Stance (Command: [[span class="controller"]]4+A[[/span]])
+||~ Command ||~ Description ||~ Use in later games||
+|| [[span class="controller"]]AABA[[/span]] || Upward swing followed by an inward swing followed by a mid thrust ending with an outward swing. || ||
+|| [[span class="controller"]]1+AAAAAA[[/span]] || Inward low swing followed by spinning the blade above followed by two more inward swings to spin the blade again for an outward swing then hitting with the butt of the blade ending with a downward chop. || ||
+
+++ Zhang Fei
+||~ Command ||~ Description ||~ Use in later games||
+|| [[span class="controller"]]AAA[[/span]] || Bonk with the butt of the spear followed by a chop with the spearhead ending with a low tripping swing. || ||
+|| [[span class="controller"]]AAB[[/span]] || Bonk with the butt of the spear followed by a chop with the spearhead ending with a pushing thrust with the butt of the spear. || ||
+|| [[span class="controller"]]**@@^^@@**+AAAA, B[[/span]] || High swing followed by a low and two high swings leading to a stance, then do a pushing thrust forward. || ||
+|| [[span class="controller"]]**@@^^@@**+B[[/span]] || Shoulder thrust. || Used as his Dash attack in Dynasty Warriors 2 through 5. ||
+|| While Standing [[span class="controller"]]AAB[[/span]] || Lifting swing with the butt of the spear followed by a quick chop downward ending with a pushing thrust. || ||
+|| While Standing [[span class="controller"]]B[[/span]] || Mid thrust. || ||
+|| [[span class="controller qcf"]]+A[[/span]] || Downward pushing swing with the butt of the spear. ||  ||
+|| [[span class="controller qcf"]]+B[[/span]] || Powerful pushing mid thrust. ||  ||
+|| [[span class="controller qcb"]]+B[[/span]] || Spin to powerfully thrust spear upward lifting enemy. ||  ||
+|| [[span class="controller qcb"]]+AA[[/span]] || Spinning pushing chop followed by a downward swing with the butt of the spear. ||  ||
+|| [[span class="controller dpf"]]+B[[/span]] || Yell causing enemy to trip. || Used as his damaging Announce Yourself in Dynasty Warriors 4. ||
+|| [[span class="controller hcb"]]+A[[/span]] || (Throw) Strangle enemy with the spear to spin around to toss them. || ||
+
+++ Xiahou Dun
+||~ Command ||~ Description ||~ Use in later games||
+|| [[span class="controller"]]AB[[/span]] || Inward swing followed by a stab. || ||
+|| [[span class="controller"]]AAAA[[/span]] || Two inward and outward swings. || ||
+|| [[span class="controller"]]BAA[[/span]] || Stab followed by lifting upward swings. || ||
+|| [[span class="controller"]]**@@^^@@**+A[[/span]] || Quick pushing chop forward. || ||
+|| [[span class="controller"]]**@@^^@@**+BA[[/span]] || Weapon handle hit followed by a quick pushing chop forward. || ||
+|| [[span class="controller"]]**@@^^@@**+BBA[[/span]]|| Weapon handle hit followed by a low stab and lifting outward swing. || ||
+|| [[span class="controller"]]6+AA[[/span]] || Two inward swings. || ||
+|| While Standing [[span class="controller"]]AA[[/span]] || Two lifting upward swings. || ||
+|| While Standing [[span class="controller"]]B[[/span]] || Mid stab. || ||
+|| [[span class="controller"]]**!**A[[/span]] || Spinning tripping swing. || ||
+|| [[span class="controller"]]1+BA[[/span]] || Delayed low stab followed by a lifting outward swing. || ||
+|| [[span class="controller qcf"]]+B, A+B, **@@*@@**+A[[/span]]|| Deep stab followed by tossing the enemy up and chasing to spike them down. || The spike down is similar to his Charge 5-2 used in Dynasty Warriors 3 & 4. ||
+|| [[span class="controller qcf"]]+AAA[[/span]] || Three rising swings. || Somewhat similar to his Charge 3 in Dynasty Warriors 4 & 5. ||
+|| [[span class="controller qcb"]]+A[[/span]] || Step back then fiercely swing in front. || ||
+|| [[span class="controller qcf"]]+B+D, A+B, **@@*@@**+A[[/span]] || True Musou extension after deep stab, tosses the enemy up and chases to spike them down. || ||
+
+++ Dian Wei
+||~ Command ||~ Description ||~ Use in later games||
+|| [[span class="controller"]]AAA[[/span]] || Inward swing followed by an outward swing ending with a pushing downward chop. || ||
+|| [[span class="controller"]]ABA[[/span]] || Inward swing followed by a left hook ending with a downward chop. || ||
+|| [[span class="controller"]]AA, **@**+AB[[/span]] || Inward swing followed by an outward swing followed by a tripping spinning low swing ending with a punch. || ||
+|| [[span class="controller"]]BA[[/span]] || Left hook followed by a downward chop. || ||
+|| [[span class="controller"]]**^**+BB[[/span]] || Mid elbow followed by a downward pushing arm chop. || ||
+|| [[span class="controller"]]**$**BA[[/span]] || Shielded mid stab followed by an outward pushing mid swing. || ||
+|| While Standing [[span class="controller"]]A[[/span]] || Inward pushing mid swing. || ||
+|| While Standing [[span class="controller"]]BA[[/span]] || Gut punch followed by an inward pushing mid swing. || ||
+|| [[span class="controller"]]2+B, A[[/span]] || Low punch followed by an inward pushing mid swing. || ||
+|| [[span class="controller"]]2+BA[[/span]] || Low punch followed by an inward low swing. || ||
+|| [[span class="controller qcf"]]+BB[[/span]] || Headbutt followed by a second one. || Used as his Dash Attack in Dynasty Warriors 2 through 5. ||
+|| [[span class="controller qcb"]]+B[[/span]] || Slow powerful pushing punching. || ||
+|| [[span class="controller dpf"]]+A[[/span]] || Mid lifting spinning uppercut swing. || ||
+|| [[span class="controller dpf"]]+B[[/span]] || Lifting headbutt. || ||
+|| [[span class="controller hcb"]]+AAAAAAAA[[/span]] || Upward swing followed by Six rotating mid swings ending with a lifting upward swing. || ||
+|| [[span class="controller hcb"]]+AAAAAAAB[[/span]] || Upward swing followed by Six rotating mid swings ending with a pushing mid stab. || ||
+
+++ Xu Zhu
+||~ Command ||~ Description ||~ Use in later games||
+|| [[span class="controller"]]AA[[/span]] || Inward swing followed by a pushing downward swing. || ||
+|| [[span class="controller"]]ABBB[[/span]] || Inward swing followed by a high thrust followed by a mid thrust ending with a low thrust. || ||
+|| [[span class="controller"]]BBB[[/span]] || High thrust followed by a mid thrust ending with a low thrust. || ||
+|| [[span class="controller"]]BAA[[/span]] || High thrust followed by an outward swing ending with a pushing downward swing. || ||
+|| [[span class="controller"]]**^**+A[[/span]] || Downward swing. || ||
+|| [[span class="controller"]]**$**+A, **^**+A, **$**+A[[/span]] || Inward swing followed by an outward swing ending with a pushing inward baseball swing. || ||
+|| While Standing [[span class="controller"]]A[[/span]] || Lifting upward swing. || ||
+|| While Standing [[span class="controller"]]BB[[/span]] || Mid thrust followed by a low thrust. || ||
+|| [[span class="controller"]]2+AB[[/span]] || Low inward swing followed by a low thrust. || ||
+|| [[span class="controller qcf"]]+A, **@@*@@**+A[[/span]] || Hopping downward swing followed by an upward thrust. || ||
+|| [[span class="controller qcb"]]+A[[/span]] || Pushing baseball swing. || Used for his Charge 4 in Dynasty Warriors 2 through 5. ||
+|| [[span class="controller hcf"]]+AAA[[/span]] || Three high spinning inward swings. || ||
+|| [[span class="controller hcf"]]+A, **@**+AAA[[/span]] || High spinning inward swing followed by three spinning mid swings. || ||
+|| [[span class="controller hcf"]]+A, 2+AA[[/span]] || High spinning inward swing followed by a spinning mid swing ending with a low sweeping swing collapsing afterward. || Used for his Musou Attack in Dynasty Warriors 2 through 5. ||
+|| [[span class="controller"]]**@@^^@@**+A, A+B[[/span]]  [[span class="controller qcb"]]+A[[/span]] || Shove Club handle forward stunning enemy followed by a bear hug ending with a baseball swing. || ||
+
+++ Zhou Yu
+||~ Command ||~ Description ||~ Use in later games||
+|| [[span class="controller"]]AAA[[/span]] || Two swipes with a lifting upward swing. || ||
+|| [[span class="controller"]]AA, 4+A[[/span]] || Two swipes with a lifting upward swing then go into Sword Stance. || ||
+|| [[span class="controller"]]BAB[[/span]] || Thrust followed by a swing ending with a pushing Thrust. || ||
+|| [[span class="controller"]]B, **@**+A[[/span]] || Thrust then a tripping low swing. || ||
+|| [[span class="controller"]]**^**+B, A[[/span]] || Weapon handle hit followed by a pushing mid swing. || ||
+|| [[span class="controller"]]**^**+B, **@**+A[[/span]] || Weapon handle hit followed by a low tripping swing. || Low swing is used in Dynasty Warriors 4 & 5 as the ender to his Charge 3. ||
+|| While standing [[span class="controller"]]A[[/span]] || Lifting upward swing. || ||
+|| While standing [[span class="controller"]]B[[/span]] || Mid thrust. || ||
+|| [[span class="controller"]]2+AA[[/span]] || Low swing followed by a lifting upward swing. || ||
+|| [[span class="controller"]]2+A, 4+A[[/span]] || Outward low swing followed by a lifting upward swing then go into Sword Stance. || ||
+|| [[span class="controller"]]3+AA[[/span]] || Inward low swing followed by another. || ||
+|| [[span class="controller qcf"]]+A[[/span]] || Pushing mid swing. || ||
+|| [[span class="controller dpf"]]+B[[/span]] || High lifting uppercut swing. || ||
+|| [[span class="controller dpf"]]+B, 4+A[[/span]] || High lifting uppercut swing then go into Sword Stance. || ||
+|| [[span class="controller"]]**(**+AA[[/span]] || Double aerial swings. || Used as the extender for his Charge 4 in Dynasty Warriors 2 through 5. ||
+
+Sword Stance (Command: [[span class="controller"]]4+A[[/span]])
+||~ Command ||~ Description ||~ Use in later games||
+|| [[span class="controller"]]AAA[[/span]] || Two swipes with a tripping low swing. || ||
+|| [[span class="controller"]]AAB[[/span]] || Two swipes with a pushing thrust. || ||
+|| [[span class="controller"]]1+AA[[/span]] || Low tripping swipe followed by an upward swing leading back into Sword Stance. || ||
+
+++ Lu Xun
+||~ Command ||~ Description ||~ Use in later games||
+|| [[span class="controller"]]AA[[/span]] || Inward swing followed by another inward swing and downward swing after. || ||
+|| [[span class="controller"]]**@@^^@@**+ABA[[/span]] || Inward swing followed by a stab ending with a double inward pushing swing. || ||
+|| [[span class="controller"]]**@@^^@@**+AB, **@**+A[[/span]] || Inward swing followed by a stab ending with a double inward tripping low swing. || ||
+|| [[span class="controller"]]**@@^^@@**+B[[/span]] || Slow mid stab. || ||
+|| [[span class="controller"]]**$**A[[/span]] || Lifting back flip swing. || ||
+|| While Standing[[span class="controller"]]A[[/span]] || Outward mid swing. || ||
+|| While Standing[[span class="controller"]]B[[/span]] || Mid stab. || ||
+|| [[span class="controller"]]3+A[[/span]] || Lifting upward swing. || ||
+|| [[span class="controller qcf"]]+AAA[[/span]] || Double upward swing followed by another ending with a double inward pushing swing. || ||
+|| [[span class="controller qcb"]]+AA[[/span]] || Double inward swing followed by a lifting upward swing. || ||
+|| [[span class="controller dpf"]]+A[[/span]] || Lifting upward swing. || ||
+|| [[span class="controller hcb"]]+AA, **^**+A[[/span]] || Low inward swing followed by a high inward swing ending with a double downward pushing swing. || ||
+|| [[span class="controller hcb"]]+AAAA[[/span]] || Low inward swing followed by a high inward swing followed by a double outward swing ending with a double inward swing. || ||
+|| [[span class="controller"]]**(**+AA[[/span]] || Double overhead downward swings. || ||
+
+++ Taishi Ci
+||~ Command ||~ Description ||~ Use in later games||
+|| [[span class="controller"]]AAA[[/span]] || Outward swing followed by an inward swing ending with a lifting upward swing. || ||
+|| [[span class="controller"]]**$**+B[[/span]] || Delayed pushing mid thrust. || ||
+|| [[span class="controller"]]**@@^^@@**+BA[[/span]] || Shove both Rods in front then spread to push enemy away. || ||
+|| [[span class="controller"]]**@@^^@@**+B, **$**+A,[[/span]] [[span class="controller qcf"]]+B[[/span]] || Shove both Rods in front then opens enemies guard ending with a pushing double thrust. || Used for his Musou Attack finisher in Dynasty Warriors 2 through 5. ||
+|| While Standing [[span class="controller"]]A[[/span]] || Lifting upward swing. || ||
+|| While Standing [[span class="controller"]]B[[/span]] || Elbow to the gut. || ||
+|| [[span class="controller"]]2+AB[[/span]] || Low outward swing followed by a pushing mid thrust. || ||
+|| [[span class="controller"]]**!**AA[[/span]] || Spinning low inward swing followed by a lifting upward swing. || ||
+|| [[span class="controller qcf"]]+B[[/span]] || Pushing mid thrust. || Used for his Charge 4 in Dynasty Warriors 2 through 5. ||
+|| [[span class="controller qcf"]]+A[[/span]] || Downward pushing swing. || ||
+|| [[span class="controller qcb"]]+BBBBB[[/span]] || Alternating mid thrusts, fifth one pushes. || Used for his Musou Attack in Dynasty Warriors 2 through 5. ||
+|| [[span class="controller qcb"]]+BBB, **^**+BA[[/span]] || Alternating mid thrusts, fourth hit shoves both Rods in front and ends by spreading out pushing enemy. || ||
+|| [[span class="controller qcb"]]+BBB, **^**+B, **$**+A,[[/span]] [[span class="controller qcf"]]+B[[/span]] || Alternating mid thrusts, fourth hit shoves both Rods in front then opens enemies guard ending with a pushing double thrust. || ||
+|| [[span class="controller qcb"]]+A[[/span]] || Spinning upward lifting swing. || ||
+|| [[span class="controller dpf"]]+A[[/span]] || Double upward lifting swing. || ||
+|| [[span class="controller"]]**^**+A+C[[/span]] || Opens enemies guard. || ||
+
+++ Diao Chan
+||~ Command ||~ Description ||~ Use in later games||
+|| [[span class="controller"]]AAA[[/span]] || Backhanded swing followed by a spinning swing ending with a lifting upward swing. || The first two hits are similar to her Normal 1 & Normal 2 used in Dynasty Warriors 2 through 5. ||
+|| [[span class="controller"]]AA, **@**+A[[/span]] || Backhanded swing followed by a spinning swing ending with a spinning tripping swing. || ||
+|| [[span class="controller"]]BAA[[/span]] || High thrust followed by a backward swing ending with a scooping upward swing.  || ||
+|| [[span class="controller"]]B, **$**+A[[/span]] || High thrust followed by an upward swing, back turns.  || ||
+|| [[span class="controller"]]B, **$**+AA[[/span]] || High thrust followed by an upward swing ending with a lifting kick.  || ||
+|| [[span class="controller"]]**^**+BA[[/span]] || Elbow followed by a pushing inward swing. || ||
+|| [[span class="controller"]]**^**+B, **@**+A[[/span]] || Elbow followed by a low inward swing. || ||
+|| [[span class="controller"]]**@@^^@@**+A[[/span]] || Cartwheel. || Somewhat used as her dash attack in Dynasty Warriors 2 through 5. ||
+|| [[span class="controller"]]**@@^^@@**+BA[[/span]] || Lifting upward swing followed by a quick chop. || ||
+|| While Standing [[span class="controller"]]AA[[/span]] || Backhanded swing followed by an upward swing. || ||
+|| While Standing [[span class="controller"]]BA[[/span]] || Ducking mid thrust followed by an outward tripping swing with both clubs.  || ||
+|| [[span class="controller qcf"]]+BA[[/span]] || High poke followed by a high kick. || ||
+|| [[span class="controller qcb"]]+A[[/span]] || Outward tripping swing with both clubs. || ||
+|| [[span class="controller dpf"]]+A[[/span]] || Upward swing, back turns. || ||
+|| [[span class="controller dpf"]]+B[[/span]] || High lifting uppercut swing. || ||
+|| [[span class="controller dpf"]]+AA[[/span]] || Upward swing ending with a lifting kick. || ||
+|| [[span class="controller"]]**(**+A[[/span]] || Rebounding aerial swing. || ||
+|| [[span class="controller"]]**^****$**[[/span]] || Back flip. || ||
+|| [[span class="controller"]]**^****$**+A[[/span]] || Back flip then an inward low swing. || ||
+|| [[span class="controller"]]**^****$**+BA[[/span]] || Back flip then high poke followed by a high kick. || ||
+
+While back turned
+||~ Command ||~ Description ||~ Use in later games||
+|| [[span class="controller"]]AAA[[/span]] || Lifting mid swing followed by an upward swing ending with a lifting kick. || ||
+|| [[span class="controller"]]BAA[[/span]] || Lifting mid swing followed by an upward swing ending with a lifting kick. || ||
+
++ Unlockable characters
+These are characters you gain clearing 1P Battle with specific characters, if Selection type is set to Normal Type they are located off screen, if Selection type is set to Quick Type they have their own icon.
+++ Zhuge Liang
+Unlock requirement: Complete 1P Battle with Zhao Yun, Guan Yu & Zhang Fei.
+||~ Command ||~ Description ||~ Use in later games||
+|| [[span class="controller"]]AA[[/span]] || Inward swing followed by an outward swing. || ||
+|| [[span class="controller"]]AAB[[/span]] || Inward swing followed by an outward swing ending with a mid poke. || ||
+|| [[span class="controller"]]A, **^**+A[[/span]] || Inward swing followed by a pushing mid swing. || ||
+|| [[span class="controller"]]BB[[/span]] || High poke followed by a mid poke. || ||
+|| [[span class="controller"]]**^**+AB[[/span]] || Outward swing followed by a mid poke. || ||
+|| [[span class="controller"]]**^**+AAA[[/span]] || Inward swing followed by an outward swing ending with inward swing. || |
+|| [[span class="controller"]]6+AAAA[[/span]] || Slow high inward swings ending with a pushing swing. || ||
+|| While Standing [[span class="controller"]]AA[[/span]] || Lifting upward swing followed by a pushing mid outward swing. || ||
+|| [[span class="controller"]]3+B[[/span]] || Lifting upward swing. || ||
+|| [[span class="controller qcf"]]+B[[/span]] || High unblockable magic laser. || ||
+|| [[span class="controller qcb"]]+B[[/span]] || Low unblockable magic laser. || ||
+|| [[span class="controller dpf"]]+B[[/span]] || Lifting upward swing. || ||
+|| [[span class="controller dpf"]]+AA[[/span]] || Lifting outward swing followed by a pushing upward swing. || ||
+|| [[span class="controller hcf"]]+A[[/span]] || Fan spins inward at high, mid then low levels. || ||
+|| [[span class="controller hcb"]]+A[[/span]] || Fan spins inward at low, mid then high levels. || Somewhat similar to his Musou Attack in Dynasty Warriors 2. ||
+|| [[span class="controller"]]**$**+A+B+C[[/span]] || (Throw) Telekinetic spinning throw. || ||
+|| [[span class="controller"]]C+D[[/span]] || (After blocking) Teleport behind enemy. ||
+
+Strategic Fanning Stance (Command: [[span class="controller"]]4+A[[/span]])
+||~ Command ||~ Description ||~ Use in later games||
+|| [[span class="controller"]]A[[/span]] || Delayed lifting upward swing. || ||
+|| [[span class="controller"]]B[[/span]] || Crumpling quick high poke. || ||
+
+++ Cao Cao
+Unlock requirement: Clear 1P Battle with Xiahou Dun, Dian Wei & Xu Zhu.
+||~ Command ||~ Description ||~ Use in later games||
+|| [[span class="controller"]]A, **@**+A[[/span]] || Inward swing followed by a low tripping outward swing. || ||
+|| [[span class="controller"]]AAAA[[/span]] || Inward swing followed by an outward swing followed by a lifting upward swing ending with a quick crumpling mid stab. || ||
+|| [[span class="controller"]]AAB, **@**+AA[[/span]] || Inward swing followed by an outward swing followed by a mid stab ending with two low tripping swings. || ||
+|| [[span class="controller"]]**^**+AB[[/span]] || Outward swing followed by a mid stab. || ||
+|| [[span class="controller"]]**^**+AB, **@**+AA[[/span]] || Outward swing followed by a mid stab followed by two low tripping swings. || ||
+|| [[span class="controller"]]**^**+AA, **@**+A[[/span]] || Outward swing followed by an inward swing ending with a low tripping swing. || ||
+|| [[span class="controller"]]**@@^^@@**+B[[/span]] || Crumpling mid stab. || ||
+|| While Standing [[span class="controller"]]AA[[/span]] || Lifting upward swing followed by a quick crumpling mid downward stab. || ||
+|| While Standing [[span class="controller"]]BBA[[/span]] || Mid stab followed by an elbow to the gut ending with a pushing downward swing. || ||
+|| While Standing [[span class="controller"]]BB, **$**+A[[/span]] || Mid stab followed by an elbow to the gut ending with a disabling chop throw. || ||
+|| While Standing [[span class="controller"]]**^**+BA[[/span]] || Elbow to the gut followed by a pushing downward swing. || Elbow is used as his Dash Attack in Dynasty Warriors 2 through 5. ||
+|| While Standing [[span class="controller"]]**^**+B, **$**+A[[/span]] || Elbow to the gut followed by a disabling chop throw. || ||
+|| [[span class="controller"]]3+AA[[/span]] || Two low tripping swings. || ||
+|| [[span class="controller"]]3+BB[[/span]] || Mid stab followed by an elbow to the gut. || ||
+|| [[span class="controller qcf"]]+A[[/span]] || Outward pushing mid swing. || ||
+|| [[span class="controller qcb"]]+A[[/span]] || Crumpling mid downward stab. || ||
+|| [[span class="controller hcf"]]+A[[/span]] || (Throw) Disabling chop. || ||
+|| [[span class="controller hcb"]]+A[[/span]] || Blocking stance followed by an upward lifting swing. || ||
+|| [[span class="controller hcb"]]+AA[[/span]] || Blocking stance followed by an upward lifting swing (attacks earlier). || ||
+|| [[span class="controller hcb"]]+A, **@**+A[[/span]] || Blocking stance followed by a low tripping swing. || ||
+
+++ Lu Bu
+Unlock requirement: Clear 1P Battle with Zhou Yu, Lu Xun, Taishi Ci, Diao Chan, Zhuge Liang & Cao Cao.
+||~ Command ||~ Description ||~ Use in later games||
+|| [[span class="controller"]]AAA[[/span]] || Inward swing with the butt of the halberd followed by an outward swing ending with a quick downward pushing chop. || ||
+|| [[span class="controller"]]AABB[[/span]] || Inward swing with the butt of the halberd followed by an outward swing followed by a mid stab ending with a back turned pushing stab. || Last hit is used as his Charge 4 in Dynasty Warriors 2. ||
+|| [[span class="controller"]]BA[[/span]] || Poke with the butt of the halberd followed by a downward pushing chop. || ||
+|| [[span class="controller"]]**$**+B[[/span]] || Quick blocking stance followed by a pushing mid stab. || ||
+|| [[span class="controller"]]**@@^^@@**+A[[/span]] || Lifting upward swing. || Used as his Charge 2 in Dynasty Warriors 2. ||
+|| While Standing [[span class="controller"]]AA[[/span]] || Lifting upward swing with the butt of the halberd followed by an lifting upward swing. || The first hit is similar to his Charge 2 used in Dynasty Warriors 3 through 5. ||
+|| While Standing [[span class="controller"]]BB[[/span]] || Mid stab followed by a pushing poke with the butt of the halberd. || ||
+|| [[span class="controller qcf"]]+B, 4+A+B[[/span]] || Impaling stab, lift the enemy up and slam them behind you. || ||
+|| [[span class="controller qcb"]]+AAA[[/span]] || High inward swing followed by a low inward swing ending with a low tripping swing. || ||
+|| [[span class="controller qcb"]]+AAB[[/span]] || High inward swing followed by a low inward swing ending with a mid pushing poke with the butt of the halberd. || ||
+|| [[span class="controller hcb"]]+A[[/span]] || Downward swing followed by a pushing chop. || ||
+|| [[span class="controller qcf"]]+B+D, 4+A+B[[/span]] || True Musou extension after impaling stab, lift the enemy up and slam them behind you. || ||
+
++ Code characters
+These are characters that you have to enter a code to unlock, these characters do not have an ending if you use them in 1P Battle. If Selection type is set to Normal Type they are located off screen, if Selection type is set to Quick Type press [[span class="controller"]][[[/span]] or [[span class="controller"]]][[/span]] and hover over a specific character who's moveset they are a copy of.
+++ Sun Shang Xiang
+On the title screen press [[span class="controller"]]**$$*@**BA[][[/span]] you will hear a chime to telling you that the code was entered correctly. To play as her press [[span class="controller"]][[[/span]] or [[span class="controller"]]][[/span]] and hover over Zhou Yu.
+
+++ Nobunaga
+After clearing 1P Battle with Lu Bu on the title screen press [[span class="controller"]]A**@@*@@**B**@**C[[/span]] you will hear a chime to telling you that the code was entered correctly. To play as him press [[span class="controller"]][[[/span]] or [[span class="controller"]]][[/span]] and hover over Lu Bu.
+
+++ Toukichi
+After clearing 1P Battle with Nobunaga on the title screen press [[span class="controller"]]**@****@****^****@@*@@**DB]}[[/span]] you will hear a chime to telling you that the code was entered correctly. To play as him press [[span class="controller"]][[[/span]] or [[span class="controller"]]][[/span]] and hover over Cao Cao.

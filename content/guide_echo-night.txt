@@ -1,0 +1,614 @@
+@title: Echo Night
+@author: Perseonn Balthasaar
+@updated: 2023-10-21
+
+Echo Night is a supernatural survival horror for the good ol' Sony PlayStation. It's delivered in a first-person view, and it's clearly on the easy side. The mystery is good, and the horror is not overwhelming. This guide is intended as an easy-to-read to-do list rather than giving you unnecessary narration. Feel free to explore the game too!
+
+
++ Tips
+Play on an emulator (DuckStation is recommended) and change the bindings, or use Custom Mapper like DS4 Windows. You can and should map your shoulder buttons to your right stick, typically:
+* Looking up to Right Stick Up
+* Looking down to Right Stick Down
+* Rotate left to Right Stick Left
+* Rotate right to Right Stick Right
+This will make the control more in-line with modern games, and saves you the frustration as the game itself is slow.
+
+
++ Prologue
+++ House
+* Living room, go to Hallway
+* Hallway, get the {{Winding Key}}
+ * Items or Subjects lying on ground may require you to crouch before you can interact with it.
+ * Align your crosshair with said items or subject to check ([[span class="controller"]]B[[/span]]) or interact with/take them ([[span class="controller"]]C[[/span]])
+* Room with Clock, use {{Small Key}} on the clock ([[span class="controller"]]A[[/span]])
+ * Clock, Use {{Small Key}} on the clock ([[span class="controller"]]A[[/span]])
+ * Highlight the hole, use {{Winding Key}}
+ * Go to the opened passage
+
+++ Train
+* First Car, go outside
+* Outside First Car, go to Second car
+* Second Car talk to Grandfather and Little Girl
+* Go back to First Car, get the {{Crank}}
+* Outside First Car, climb ladder
+* Train rooftop, use {{Crank}} on the trapdoor hatch.
+* Enter Second Car, go to the other end
+
+++ House
+* Get the {{Red Book}}, go down the stairs to the room
+* Art Room, move the chair away, take the boy statue and put it facing the girl statue.
+ * The facing doesn't have to be accurate.
+
+ 
+
+
++ Captain's Order
+
+++ Captain's Cabin
+* You can check where you are by pressing [[span class="controller"]]?[[/span]], to open the sub-menu
+ * Example, at this point the location on top of the sub menu will read "Upr Deck Captain's Cabin"
+* Cabin's living room, Get {{Curing Potion}} from desk
+* Cabin's living room, exit to the door beside the desk
+
+++ Passageway
+* It's a good idea to look for a light switch in a darkened area.
+* (Optional) Locate the light switch near the stairs
+* (Optional) Enter the door beside the switch
+
+++ Pilothouse (Optional)
+* Get two {{Curing Potion}} from the cabinet
+* Get {{Metal Handle}} from under the table
+* Use {{Metal Handle}} on the trap door
+* Get {{Ship Map}}
+ * Map menu is now available
+* Exit via the door near trap door
+
+++ Passageway (Upper)
+* (Optional) Talk to the ghost in Passageway
+ * Fountain area, go to the carousel area
+ * Go to the far-left corner of the area (left from where you entered the area), look for {{Engagement Ring}}
+  * You can ride the carousel to light up the ring.
+ * Fountain area, give the {{Engagement Ring}} to the Lady.
+ * Talk to the Lady again
+ * Passageway, give the {{Engagement Ring}} to the ghost
+ * Get the {{Astral Piece}} (1/26)
+* Enter the metal door in the middle of passageway
+
+++ Chart Room
+* The Red Telephone is a save point
+* (Ghost) Talk to the ghost
+ * Get the {{Rubber Gloves}} on the gangway (portable stairs)
+
+++ Passageway
+* Go downstairs and enter the other door to a hallway-connecting passageway
+* Hallway-Connecting passageway, note the Fusebox and the two stairs going down
+* Enter the door to Compartment
+
+++ Compartment
+* Get the {{Wire Cutter}} off the left side of the room, leave
+* Go to Captain's Cabin
+
+++ Captain's Cabin
+* Go to the bedroom
+* Bedroom, get {{Leather Organizer}}
+  * Notes menu is now available
+* Use the {{Wire Cutter}} on the closet
+
+++ Observatory
+* Use the elevator to get to 3F
+* 3F, use the Comet book on the Sun relief
+* Give the man the {{Astral Piece}}
+* Exit
+
+++ Captain's Cabin
+* Get the {{Wire}}
+* Go to the a fusebox hallway
+
+++ Passageway
+* Open the Fusebox, its on the front of the door to the Compartment
+* Equip the Rubber Gloves
+ * Open the menu by pressing [[span class="controller"]]A[[/span]]
+ * Select the {{Rubber Gloves}}
+ * Press [[span class="controller"]]B[[/span]] to equip them
+ * There will be an "E" icon as equip indicator
+* Put the {{Wire}} on the Fusebox
+* Go to Chart Room
+
+++ Chart Room
+* Turn on the light
+* Get {{Astral Piece}} (2/26) and {{Iron Key}}
+* Exit to get Get {{Astral Piece}} (3/26)
+* Go to fusebox hallway and descend the stair left of fusebox (when facing it) to use the {{Iron Key}}
+
+
+
+
++ Doll Exorcism
+
+
+++ Passenger Hallway
+* Light switches are on your right
+* Enter the door to the left (east)
+
+++ Guest Hallway
+* Three doors on left side, three doors on right side, one double doors on the other end
+* Red telephone on your right
+* Talk to the Drunk Man
+* Get {{Glass}}
+* Go to the first door on the right side (north)
+
+++ Lounge
+* Crawl through the bar and face the closest cabinet
+ * Open the left side to reveal Axe and Man bottle
+ * Use the {{Glass}}, on Man once, Axe once
+ * Open the right side to reveal Snake and Sword bottle
+ * Use the {{Glass}}, on Snake twice
+* (Optional) Go to the other cabinet and get the {{Claim Ticket}}
+
+++ Guest Hallway
+* Use the {{Glass}} on the Drunk Man
+* Get {{Astral Piece}} (4/26) and {{Sailor Medal B}}
+* Go to the third door on the left side
+
+++ Guest Room C
+* Get the {{Cure Potion}} from the drawer
+* Move the radiator to block the door to the bathroom
+ * Moving radiator in this room also moves it on the other room
+* Go to the third door on the right side
+
+++ Guest Room D
+* Get the {{Cure Potion}} from the drawer
+* Talk to the Girl
+* Get {{Astral Piece}} (5/26) and {{Sailor Medal D}}
+
+++ Guest Room C
+* Talk to the Girl
+* Get {{Astral Piece}} (6/26) and {{Sailor Medal C}}
+
+++ Guest Hallway
+* Go to the first door on the left side
+
+++ Reading Room
+* Face the sailor figures, and put the medals in this order, clockwise from the red one: C A B D
+ * The medals show which pose to put them on
+* (Ghost) Talk to Ed
+* Get {{Astral Piece}} (7/26) and {{Brass Key}}
+
+++ Guest Hallway
+* Go to the double door and use the {{Brass Key}}
+
+++ Special Guest room
+* Go to Guest Hallway
+
+++ Abandoned Mine
+* Turn around, use the pull-switch on the wall near the other cart
+* Get into the empty cart
+ * Use the stick-switch first
+ * Use the pull-switch second
+ * Get off the cart
+* Get into another empty cart, use the pull-switch
+ * After stopping, disembark and go around the cart to the switches
+* You need to use the pull-switch, then use the stick-switch after about 2 seconds
+ * This is so the empty cart goes straight, but will turn after you pull the stick switch, to break the barricades.
+* Follow the cart, go down the stairs
+* Talk to the Man
+* Check the Doll
+* Talk to the Man (or just talk to him twice)
+* Get {{Claudia's Doll}}
+
+++ Guest Hallway
+* Go to Special Guest room
+* Use {{Claudia's Doll}}
+* (Optional) To your right is the bathroom, Get the {{Claim Ticket}}
+* To your left, is the bedroom, get the {{Dress Suit}}
+
+
+
+
+
++ Escaping the Theatre
+
+
+++ Medical Office
+* Remember to heal, exit
+* Talk to the Doctor
+* Move the stool 
+* Get the {{Cure Potion}} from the second desk drawer
+* Get the {{Cure Potion}} from the bottom-most cabinet drawer
+* Check the big cabinet door
+
+++ Laboratory
+* Check the top drawer near the Doctor
+
+++ Medical Office
+* Wait until the Doctor leave the room (based on his open hours)
+* Check the big cabinet door
+
+++ Laboratory
+* Check the top drawer again
+* Get the {{Prescription}}
+
+++ Medical Office
+* Use the {{Prescription}} on the Doctor 
+* Exit
+
+++ Theater Hallway
+* Find the Casino.
+
+++ Casino (Optional)
+* Talk to the big guy twice to know about hallway light
+* You can exchange {{Claim Ticket}} for 20 coins
+* Win 150 coins to unlock the Black Jack
+* Win 200 coins in Black Jack to get 3 {{Astral Piece}} (8/26) (9/26) (10/26)
+
+++ Theater Hallway
+* Turn on light
+ * Upon exiting Casino, you'll face a hallway with zodiac sign lights on each side
+ * Find the Taurus sign, it's on the right side, number 3 from your position
+ * Check the missing light to turn on the light
+* Go to the double door, to the Theater
+
+++ Theater
+* Room with counter, open the small flap on the counter
+* Go through the counter
+* Go through the door
+* Climb the stairs
+* Projector's room, get the {{Record}}
+
+++ Theater Hallway
+* Go to Child Room
+
+++ Child Room
+* Use the {{Record}} on the phonograph
+* Get 2 {{Astral Piece}} (11/26) (12/26)
+* Get the {{Crown Piece}}
+* Use the {{Crown Piece}} on the treasure box
+* Get the {{Film}} and {{Gear}}
+
+++ Theater
+* Go to the projector's room
+* Projector's room, use the {{Film}} on the Engineer (not the projector!)
+* Get the {{Astral Piece}} (13/26)
+* Go to the viewing room, talk to the Doctor
+* Get the {{Astral Piece}} (14/26)
+* Get the {{Cabinet Key}}
+* (Optional) Get {{Claim Ticket}} on a corner sofa
+
+
+++ Medical Office
+* Use the {{Cabinet Key}} on the left drawer of the big cabinet
+* Get the {{Antidote}}
+
+++ Theater Hallway
+* Use the {{Antidote}} on the green goo
+
+
+
+
+
++ Getting the Flying Fish Plate
+
+
+++ Passenger Hallway
+* Go to Dining Room hallway
+
+++ Dining Room Hallway
+* Equip the Dress Suit
+* Talk to the Steward
+
+++ Castle
+* Go to the door on your right
+* Go to the door on your right (there's a knight lying on the ground)
+ * Go to the opposite end door of this room
+
+
+++ Grand Dining Room
+* Talk to the Gentleman
+* Get the {{Firebird Plate}}
+* Return to the Dining Room Hallway
+
+++ Dining Room Hallway
+* Get the {{Astral Piece}} (15/26)
+* Go to Stairway
+
+++ Stairway
+* Light switch to your left
+* Check the back of the crow statue, open the lid
+* Use the {{Gear}}
+* Check the Crow statue to make it caw
+* Go upstairs and turn on the light (visible if you backtrack to the stairs from the crow)
+* Get the {{Gear}} back from the crow statue
+* (Optional) Upstairs door nearest to the switch leads to Sun Relief
+* Go to the other door
+
+++ Stern Passageway
+* Go to the only door
+
+++ Corridor to Pool
+* There's a Red Telephone
+* Go to the office and turn on the light, exit
+* Go to the left or right changing room
+
+++ Pool
+* Left Changing room, get the {{Claim Ticket}} from the second locker from your position
+* Right Changing room, get the {{Cure Potion}} from the first locker from your position
+* Go straight to Pool area
+* Pool area, go straight to Deck Terrace
+
+++ Deck Terrace
+* Talk to the Boy
+* Get {{Eye of the Sea Fish}}
+* Go to the floor hatch and go down the stairs
+
+++ Terrace Lazarette
+* Go to the left door, if the stairs is on your back
+* Servant room, check the parrot and use the {{Gear}} like with the previous crow statue
+* Get the {{Astral Piece}} (16/26)
+* Check the plate on the base of the parrot
+
+++ Cemetery
+* (Optional) Check the 3 gravestones on your left and their reverse side
+* Open the metal gate
+* Facing the three plates on the wall, press the 2nd, 1st and 3rd plate
+* Descend the ladder
+* Explore till an event in a dead end on the next area
+* Facing the Man, Get {{Flying Fish Plate}} from the relief switch
+* Talk to the Woman
+* Get {{Pendant}} on the floor
+* If you haven't, Get {{Flying Fish Plate}} from the relief switch
+* Go to the previous area
+* Use the {{Flying Fish Plate}} on the relief switch
+ * Press the switch
+ * Get {{Flying Fish Plate}} from the relief switch
+* Go to the last relief switch
+* Press the switch (yes, you have to press the switch first on this one!)
+ * Use the {{Flying Fish Plate}} on the relief switch
+ * Get {{Flying Fish Plate}} from the relief switch
+ * You need to have the {{Flying Fish Plate}} and {{Pendant}} in your inventory!
+* Turn left on the opened path, the right on is a dead end
+* Climb the Ladder
+
+++ Terrace Lazarette
+* Servant room, exit
+* Go to the door across this room
+* Use the {{Pendant}}
+* Drain the pool by using: small valve, large valve, button, lever
+
+++ Pool
+* Use {{Eye of the Sea Fish}} on the eye socket in the pool, but only at night (above 7:00pm), when the pool area glows red
+
+
+++ Library
+* Duck past the Woman
+* Go around the young Employee and inspect the books on the cart roughly on his left
+* Inspect the books on the cart on other cart to draw him again
+* Get the {{Old Book}}
+
+
+
+
+
++ Getting the Forest Fire Plate
+
+
+++ Grand Dining Room
+* Talk to the Gentleman
+* Get the {{Kitchen Key}}
+* Use the {{Kitchen Key}} on the locked door
+
+++ Dining Room Galley
+* Talk to the Man
+* Press the second button on the dumbwaiter in front of him
+
+++ Mess Room
+* Back away from the threat
+
+++ Crewman's Quarters
+* Talk to the Patrol
+* Go to the room on the south west 
+
+++ Crew's Quarters B
+* Talk to the Probationer
+* Set the alarm to midnight
+* Get the {{Sailor's Documents}} when the Probationer is turning off the alarm
+* Wait until the Probationer exits
+
+++ Crewman's Quarters
+* Get the {{Astral Piece}} (17/26)
+* Talk to the Probationer
+
+++ Crew's Quarters A
+* Go near the locker to make the Sailor talk
+* Open locker 1, 2, 3
+ * Close locker 2
+ * Open locker 4
+* Note the combination 1-6-8-9
+
+++ Crewman's Quarters
+* Go to south-east door
+
+++ Starboard Corridor (Southern)
+* Talk to the Sailor
+* Check the keypad, input 6-8-9-1
+* Follow the Sailor
+
+++ Engineer Hallway
+* Get the {{Astral Piece}} (18/26)
+* Enter the electrical room, door on the hallway
+
+++ Electrical Room
+* Pull the breaker up on the only one off breaker
+
+++ Crewman's Quarters
+* Turn on the lights
+* Get the {{Astral Piece}} (19/26)
+
+++ Starboard Corridor (Southern)
+* Go to the east door
+
+++ Engine Corridor
+* Go to the north door on the eastern corridor
+
+++ Engineer's Room
+* Talk to the Ship Engineer
+* (Optional) The adjacent room has {{Cure Potion}} in a box
+
+++ Engine Corridor
+* Go to the Radio Room
+
+++ Radio Room
+* Set the frequency to BA10
+* Check the telegraph
+ * Press [[span class="controller"]]CBCBBCBBBC[[/span]]
+* Get the {{Music Box}}
+
+++ Cathedral
+* Locate the Pipe Organ
+* Play D E F A A# A G F
+ * If you're not musically inclined, from left to right, 1 to 12: 3 5 6 10 11 10 8 6
+* Altar, go down
+* Use the {{Music Box}} on the Woman
+* Get the {{Earring}}
+
+++ Radio Room
+* Use the {{Earring}} on the Boy
+* Get the {{Astral Piece}} (20/26)
+* Get the {{Forest Fire Plate}}
+
+++ Engineer's Room
+* Talk to the Ship Engineer
+* Get the {{Astral Piece}} (21/26)
+
+++ Starboard Corridor (Northern)
+* Go to the door labelled "Passenger Floor"
+
+
+
+
+
++ Cameo Exorcism
+
+
+++ Dining Room Galley
+* Talk to the Man
+* Get the {{Astral Piece}} (22/26)
+* Get the {{Water Leaf Plate}}
+
+++ Dining Room Hallway
+* Go to Stairway
+
+++ Stairway
+* Insert all the plates
+* Get 2 {{Astral Piece}} (23/26) (24/26)
+
+
+++ Private Quarters
+* Go to first door to your left
+
+++ Forest Room
+* Talk to the Woman
+* Get the {{Old Picture}}
+
+++ Fire Room
+* Talk to the Man
+* Use the {{Old Picture}} on the Man
+* Get the {{Astral Piece}} (25/26)
+
+++ Water Room
+* Get the {{Clock Key}}
+
+++ Private Quarters
+* Use the {{Clock Key}} on the box beside the other double door
+* Set the dial to the bird symbol
+* Do not enter the double door
+
+++ Sky Room
+* Check the castle bedroom painting
+* Check the Man
+* Get the {{Cameo}}
+
+++ Private Quarters
+* Use the {{Cameo}} immediately
+* Enter the double doors
+
+++ House
+* Get the {{Bullet}}
+* Get the {{Blue Stone}}
+
+++ Owner's Quarters
+* Get the {{Engine Room Key}}
+
+++ Forest Room
+* Talk to the Woman
+* Get the {{Astral Piece}} (26/26)
+
+++ Dining Room Hallway
+* Go to Passenger Hallway
+
+++ Passenger Hallway
+* Visit the Blind Man to give all your Astral Pieces
+ * Thankfully, he'll take all of the pieces in one go
+
+
+
+
+
++ The Boiler
+
+
+++ Starboard Corridor (Northern)
+* Use the {{Engine Room Key}}
+
+++ Boiler A
+* Check the "Seculity Information", and enter the door
+* Go the door in front of you, you should be heading west
+
+++ Engine Room A
+* Go to the door in front of you, heading west again
+
+++ Stern Passageway
+* Turn around, go to the right door
+
+++ Engine Room B
+* Go to the door, head east
+
+++ Boiler B
+* Go to the door (not the side door!), head east
+
+++ Fuel Storage
+* Go to the right door
+
+++ Compartment B
+* Get {{Valve}}, hidden behind crates
+ * If you go to the right door on the Fuel Storage, the Valve is on the third indentation to your left, behind crates
+* Return to Fuel Storage
+
+++ Fuel Storage
+* Go downstairs to a dead end, there are two hatches on the pipes, each near the stair
+ * Open the hatch, use Valve once on both of them
+* Go through the north door
+
+++ Boiler A
+* Get the {{Piston Key}}
+* Return to Engine Room B
+
+++ Engine Room B
+* Open the Emergency Panel, use the Piston Key
+
+++ Engine Room A
+* Open the Emergency Panel, use the Piston Key
+
+++ Stern Passageway
+* Use the {{Blue Stone}} on the Red Stone
+* Return to Compartment B
+
+++ Compartment B
+* (Optional) Check the Sun carving on the wall at the east end of the room
+ * (Optional) Take the {{Knife}}
+* Go to the east door 
+
+++ Ending
+* Ending 1: Obtained if you died during gameplay
+* Ending 2: Go to east door immediately without checking the Sun carving
+* Ending 3: Take the {{Knife}}
+* Ending 4: Talk to the Blind Man, but don't take the {{Knife}}

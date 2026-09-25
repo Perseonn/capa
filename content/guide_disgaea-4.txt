@@ -1,0 +1,1067 @@
+@title: Disgaea 4: A Promise Unforgotten
+@author: Buster Wolf
+@updated: 2025-04-06
+
+Disgaea 4 is the fourth main game in the strategy RPG series Disgaea. The purpose of this guide is to list item locations for the Main Story, Mt. Ordeal, Post Game and X-Dimension incase you are looking for a particular item for your Data Shop, unless noted any item carried can potentially be of any rarity (Common, Rare or Legendary). If any unique enemies appear on a map they will be listed first followed by the normal enemies that appear, if a map has different enemies from the first time it is done they will be listed separately. Endings will also be listed with a link to a YouTube video incase you want to see the ending again. Chara World Evilities normally learned by all classes are listed incase you are looking for a particular one from the large assortment of evilities the game has.
+
+Note some enemies can't be caught at all which are denoted in-game by a gold S on a green diamond (written as **<S>** in this guide before there name) above their name, this also includes having the DLC character Tyrant Valvatorez with the No Life King Evility, make note of that if a unit you want to capture appears from Item World Enemy Base. Additionally if you do not have the tier of the class you will fail regardless, this includes having Valvatorez at a lower level than the unit you are trying to capture.
+
+If you find any mistakes feel free to notify me (Chara World Evilities of DLC characters would be appreciated).
+
+**Current Focus**
+* Chara World Evilities
+
++ Main Story
+++ Ep. 1: Rebel of Hades
+**Basic Controls** (1st cycle)/**Rehabilitation Room** (2nd cycle onward 1st time)
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Pvt. Prinny (T1) || 4 || || || || ||
+
+**Special Skill & DEF** (1st cycle only)
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Warrior || Fighter (T1) || 1 || Paring Knife || Common Orb || || ||
+|| Prinny || Pvt. Prinny (T1) || 2 || || || || ||
+
+**Lift & Throw** (1st cycle only)
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Orc || Petite Orc (T1) || 1 || || || || ||
+|| Prinny || Pvt. Prinny (T1) || 2 || || || || ||
+
+**Geo Effect** (1st time only)/**1-1 Rehabilitation Room**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Orc || Petite Orc (T1) || 1 || Paw Gloves || || || ||
+|| Prinny || Pvt. Prinny (T1) || 4 || Sardine Bone || || || ||
+The Petite Orc gets removed after this map has been completed once.
+
+**1-2 Reincarnation Site**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Axel || Warden of Hades || 1 || Oven Mitts || || || ||
+|| Pink || Evil Ranger || 1 || Sardine Bone || || || ||
+|| Masked Hero || Masked Hero (T1) || 3 || Oven Mitts || Pot Lid || || ||
+Axel & Pink get removed after this map has been completed once, an extra Masked Hero is added in their place with the same equipment as the other Masked Heroes.
+**Cycle 2+ note:** If you had the Land of Carnage unlocked you will be able to go there after completing this map.
+
+**1-3 Prinselytise Room**
+Enemy
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Bouncer || Abaddon/Bouncer (T1) || 2 || Oven Mitts || Vinyl Cloth || || ||
+|| Catsaber || Catsaber (T1) || 3 || Paw Gloves || Pot Lid || || ||
+
+Neutral
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Axel || Warden of Hades || 1 || || || || ||
+|| Pink || Evil Ranger || 1 || || || || ||
+Repeated version removes Neutral Units.
+
+**1-4 Albatross Collar**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Bouncer || Abaddon/Bouncer (T1) || 2 || Old Gloves || Pot Lid || || ||
+|| !Catsaber || Catsaber (T1) || 1 || Paw Gloves || Evilection Sash || || ||
+|| Catsaber || Catsaber (T1) || 1 || Paw Gloves || Pot Lid || || ||
+|| Orc || Petite Orc (T1) || 3 || Paw Gloves || Pot Lid || || ||
+2 Petite Orcs will preform Demon Fusion with each other.
+! This Catsaber will Magichange with the Bouncer next to it.
+
+**1-5 Disaster First**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Emizel || President's Son || 1 || Glass Staff || Evilection Sash || Kung-Fu Muscle || ||
+|| Cleric || Healer (T1) || 2 || Light Staff || Evilection Sash || Common Orb || ||
+|| Bouncer || Abaddon/Bouncer (T1) || 4 || Toy Puppet || Evilection Sash || || ||
+If you lose this battle you will see [https://www.youtube.com/watch?v=3OPeNzw3ix0 Alt. Ending: Emizel (1)] which will lead to a new cycle.
+
+Repeated version removes Emizel and replaces him with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Magician || Red Skull (T1) || 1 || Glass Staff || Evilection Sash || Imperial Seal || ||
+
+++ Study Session: Geo Blocks
+These are only available the first time you pass Ep. 1
+**Chain**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Sludge || Green Slime (T1) || 1 || Crab Claw || Pretty Apron || || ||
+|| Catsaber || Catsaber (T1) || 3 || Crab Claw || Pretty Apron || || ||
+
+**Tumble**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Witch || Green Mage (T2) || 1 || Glass Staff || Large Fancy Shirt || || ||
+|| Thief || Thief (T1) || 3 || Defense Gun || Pretty Apron || || ||
+
+**Practice**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Eryngi || Eryngi (T1) || 1 || Paw Gloves || Pot Lid || || ||
+|| Valkyrie || Lady Fighter (T1) || 5 || Small Bow || || || ||
+
+++ Ep. 2: Prinny Wars
+**2-1 Rotten Sickbed**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Thief || Thief (T1) || 1 || Rapid Fire || Jijo Outfit || || ||
+|| Eryngi || Eryngi (T1) || 2 || Crab Claw || Large Fancy Shirt || || ||
+|| Spirit || Ghost (T1) || 3 || Art. 3: Hindering || Large Fancy Shirt || || ||
+|| Sludge || Red Blob (T2) || 3 || Crab Claw || Large Fancy Shirt || || ||
+
+**2-2 Hypha Invasion**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Magician || Green Skull (T2) || 2 || Magician Rod || Large Fancy Shirt || || ||
+|| Valkyrie || Lady Fighter (T1) || 2 || Hammer || Large Fancy Shirt || || ||
+|| Spirit || Boggart (T2) || 4 || Art. 3: Hindering || Large Fancy Shirt || || ||
+|| Zombie || Zombie (T1) || 4 || Crab Claw || Large Fancy Shirt || || ||
+The Magician and Valkyrie get removed after this map has been completed once.
+
+**2-3 Forest of Corpses**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Zombie || Ghoul (T2) || 12 || Slime Mucus || Overalls || || ||
+
+**2-4 Whispering Curse**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Emizel || President's Son || 1 || Glass Staff || Doctor's Coat || Binoculars || Imperial Seal ||
+|| Spirit || Boggart (T2) || 5 || Art. 4: Unjust || Overalls || Kung-Fu Muscle || ||
+|| Zombie || Ghoul (T2) || 3 || Crab Claw || Jijo Outfit || || ||
+|| Sludge || Red Blob (T2) || 3 || Crab Claw || Jijo Outfit || || ||
+If you lose this battle you will see [https://www.youtube.com/watch?v=KXQmFDzXGHY Alt. Ending: Emizel (2)] which will lead to a new cycle.
+Repeated version removes Emizel.
+
+**2-5 Plan of the Wicked**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Fuka || Prinny? || 1 || Strong Bat || Doctor's Coat || Imperial Seal || ||
+|| Heavy Knight || Heavy Knight (T1) || 4 || Battle Spear || Overalls || || ||
+|| Eryngi || Matango (T2) || 4 || Slime Mucus || Jijo Outfit || || ||
+|| Zombie || Ghoul (T2) || 2 || Slime Mucus || Overalls || || ||
+If you lose this battle you will see [https://www.youtube.com/watch?v=-b0sIS37Pd4 Alt. Ending: Fuka] which will lead to a new cycle.
+Repeated version removes Fuka.
+
+**2-6 Altar of Waste**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Sludge || Red Blob (T2) || 1 || Hornet Needle || Doctor's Coat || || ||
+|| Sludge || Green Slime (T1) || 8 || Slime Mucus || Overalls || || ||
+2 Green Slimes will perform Demon Fusion with each other.
+Repeated version removes the Red Blob.
+
+++ Ep. 3: Enter the Final Weapon
+**3-1 Murder Labyrinth**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Beast Master || Beast Tamer (T1) || 2 || Barbaros || Doctor's Coat || Binoculars || ||
+|| Gargoyle || Gargoyle (T1) || 3 || Slime Mucus || Doctor's Coat || || ||
+|| Orc || Orc Captain (T2) || 3 || Crab Claw || Jijo Outfit || || ||
+|| Thief || Thief (T1) || 4 || Silver Auto || Doctor's Coat || || ||
+|| Mothman || Mothman (T1) || 5 || Slime Mucus || Jijo Outfit || || ||
+
+**3-2 Searing Euthanasia**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Gunner || Gunner (T1) || 1 || Saturday Night || Doctor's Coat || Binoculars || ||
+|| Beast Master || Beast Tamer (T1) || 1 || Night Saber || Doctor's Coat || Exertion Belt || ||
+|| Gargoyle || Gargoyle (T1) || 2 || Spikey Shell || Overalls || || ||
+|| Spirit || Boggart (T2) || 4 || Art. 4: Unjust || Jijo Outfit || || ||
+|| Mothman || Messenger (T2) || 4 || Hornet Needle || Jijo Outfit || || ||
+
+**3-3 Chains of Judgement**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Beast Master || Beast Tamer (T1) || 2 || Night Saber || Hunting Cap || || ||
+|| Gargoyle || Gargoyle (T1) || 4 || Kangaroo Punch || Hunting Cap || || ||
+|| Orc || Orc Captain (T2) || 3 || Slime Mucus || Doctor's Coat || || ||
+|| Mothman || Mothman (T1) || 3 || Spikey Shell || Doctor's Coat || || ||
+
+**3-4 Vengeful Road**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Magician || Red Skull (T1) || 3 || Undead Rod || Doctor's Coat || Spirit Muscle || ||
+|| Spirit || Boggart (T2) || 3 || Art. 5: Crass || Overalls || || ||
+|| Thief || Thief (T1) || 3 || Saturday Night || Doctor's Coat || || ||
+|| Mothman || Mothman (T1) || 3 || Hornet Needle || Overalls || || ||
+|| Valkyrie || Lady Fighter (T1) || 2 || Long Bow || Overalls || || ||
+|| Gargoyle || Gargoyle (T1) || 2 || Slime Mucus || Jijo Outfit || || ||
+The Boggarts will Magichange with the Red Skull they are next to.
+The Mothmen will Magichange with the Thief they are next to.
+
+**3-5 Dark Execution**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Archer || Hunter (T2) || 1 || Composite Bow || Hunting Cap || || ||
+|| Zombie || Corpse (T3) || 1 || Kangaroo Punch || Light Buckler || || ||
+|| Archer || Archer (T1) || 3 || Long Bow || Doctor's Coat || || ||
+|| Thief || Thief (T1) || 8 || Silver Auto || Doctor's Coat || || ||
+The Corpse will Magichange with the Hunter it is next to.
+
+**3-6 The Forbidden Cell**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Desco || Final Boss || 1 || Odd Mandible || Light Buckler || Devil Ring || ||
+|| Gargoyle || Guardian (T2) || 4 || Wolf Fang || Dress Clothes || || ||
+|| Gargoyle || Gargoyle (T1) || 2 || Wolf Fang || Dress Clothes || || ||
+|| Mothman || Mothman (T1) || 3 || Kangaroo Punch || Hunting Cap || || ||
+|| Zombie || Corpse (T3) || 3 || Kangaroo Punch || Dress Clothes || || ||
+If you lose this battle you will see [https://www.youtube.com/watch?v=IKGhmQzrrIM Alt. Ending: Desco] which will lead to a new cycle.
+Repeated version removes Desco.
+
+++ Ep. 4: Death Emizel's Death
+At this point you are able to pass a bill to make custom maps. If you have a monster unit you want to use that wasn't given to you yet do Akumajis map (very end of the list by strength ranking) and kill whichever monster type you need/want.
+
+**4-1 Ultra Security**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Officer Worker || Ninja (T1) (Sword) || 2 || Night Saber || Trench Coat || Ninja Tabi || ||
+|| Officer Worker || Ninja (T1) (Fist) || 4 || Hand-Me-Downs || Light Buckler || Ninja Tabi || ||
+|| Cu Sith || Cu Sith (T1) || 6 || Hornet Needle || Light Buckler || Ninja Tabi || ||
+
+**4-2 Rotten Core**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Officer Worker || Ninja (T1) || 12 || One-Two Punch || Trench Coat || Ninja Tabi || ||
+
+**4-3 Total Fabrication**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Officer Worker || Ninja (T1) || 5 || Shell Staff || Magical Vest || || ||
+|| Flora Beast || Alraune (T1) || 8 || Kangaroo Punch || Trench Coat || || ||
+
+**4-4 Conspiracy**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Officer Worker || Ninja (T1) (Spear) || 2 || Bat Spear || Trench Coat || Spirit Muscle || ||
+|| Officer Worker || Ninja (T1) (Sword) || 2 || Dragon Blade || Trench Coat || Energy Belt || ||
+|| Officer Worker || Ninja (T1) (Fist) || 2 || Surprise Shot || Trench Coat || Ninja Tabi || ||
+|| Cu Sith || Cu Sith (T1) || 8 || Wolf Fang || Trench Coat || Nerd Glasses || ||
+
+**4-5 Evil Propaganda**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Officer Worker || Ninja (T1) (Staff) || 1 || Sorcerer's Staff || Trench Coat || Nerd Glasses || ||
+|| Flora Beast || Alraune (T1) || 1 || Art. 8: Mischief || Trench Coat || || ||
+|| Officer Worker || Ninja (T1) (Staff) || 3 || Sorcerer's Staff || Trench Coat || || ||
+|| Officer Worker || Ninja (T1) (Fist) || 1 || Knuckles || Trench Coat || Ninja Tabi || ||
+|| Cu Sith || Hell Hound (T2) || 1 || Wolf Fang || Trench Coat ||  || ||
+|| Officer Worker || Ninja (T1) (Fist) || 2 || Knuckles || Trench Coat || || ||
+|| Officer Worker || Ninja (T1) (Sword) || 1 || Plant Saber || Trench Coat || Energy Belt || ||
+|| Orc || Orc Captain (T2) || 1 || Wolf Fang || Trench Coat || || ||
+|| Officer Worker || Ninja (T1) (Sword) || 2 || Plant Saber || Trench Coat || || ||
+|| Officer Worker || Ninja (T1) (Gun) || 1 || Blunderbass || Trench Coat || Nerd Glasses || ||
+|| Mothman || Messenger (T2) || 1 || Wolf Fang || Trench Coat || || ||
+|| Officer Worker || Ninja (T1) (Gun) || 3 || Blunderbass || Trench Coat || || ||
+Each monster unit will Magichange with the Officer Worker they are by.
+
+**4-6 Fall of the Zenith**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Professor || Bureau Chief || 1 || Giant Mothman Gun || Trench Coat || Binoculars || ||
+|| Officer Worker || Ninja (T1) (Gun) || 2 || Godfather || Light Buckler || || ||
+|| Officer Worker || Ninja (T1) (Axe) || 2 || Tri-Axe || Light Buckler || || ||
+|| Officer Worker || Ninja (T1) (Staff) || 2 || Demon Rod || Light Buckler || || ||
+|| Skeletal Dragon || Skeletal Dragon (T1) || 3 || Death Invitation || Light Buckler || || ||
+|| Cu Sith || Cu Sith (T1) || 2 || Art. 9: Crime || Dress Clothes ||  || ||
+|| Flora Beast || Alraune (T1) || 2 ||  Art. 9: Crime || Dress Clothes || || ||
+Repeated version removes the Bureau Chief.
+The Cu Sith and Alraune will perform Demon Fusion with each other.
+
+++ Ep. 5: The Angel of Avarice
+**5-1 Scream Park**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Orc || Head Orc (T3) || 1 || Bear Claw || Fancy Suit || || ||
+|| Zombie || Corpse (T3) || 1 || Bear Claw || Fancy Suit || || ||
+|| Nekomata || Nekomata (T1) || 6 || Bear Claw || Fancy Suit || || ||
+|| Catsaber || Warcat (T2) || 4 || Bear Claw || Fancy Suit || || ||
+|| Masked Hero || Vizard Hero (T2) || 1 || Power Knuckle || Fancy Suit || Falcon Shoes || ||
+Repeated version removes the Vizard Hero.
+
+**5-2 Lost Dignity**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Nekomata || Nekomata (T1) || 4 || Bear Claw || Fancy Suit || || ||
+|| Cu Sith || Hell Hound (T2) || 4 || Bear Claw || Fancy Suit || || ||
+|| Cockatrice || Cockatrice (T1) || 4 || Bear Claw || Fancy Suit || || ||
+|| Flora Beast || Nemophlila (T2) || 4 || Bear Claw || Fancy Suit || || ||
+
+**5-3 Wounded Pride**
+Enemy
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Cockatrice || Cockatrice (T1) || 3 || Snake Skull || Fancy Suit || || ||
+|| Catsaber || Warcat (T2) || 9 || Bear Claw || Magical Vest || || ||
+|| Witch || 1-3 || 1 of each || Hammer Stick || Magical Vest || || ||
+|| Magician || 1-3 || 1 of each || Hammer Stick || Magical Vest || || ||
+
+Neutral
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Vulcanus || Angel of Avarice || 1 || Wing Bow || Fancy Suit || || ||
+Repeated version removes Vulcanus.
+
+**5-4 Ruin Coaster**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Bouncer || Body Guard (T2) || 13 || Whirlwind Slap || Chained Kimono || || ||
+|| Witch || 2 & 3 || 1 of each || Prelude || Chained Kimono || || ||
+|| Succubus || Empusa (T1) || 1 || Art. 14: Deceit || Chained Kimono || || ||
+
+**5-5 Frantic Wheel**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Archer || Hunter (T2) || 4 || Golden Bow || Chained Kimono || Falcon Shoes || ||
+|| Mothman || Messenger (T2) || 4 || Shark Head || Chained Kimono || || ||
+|| Rifle Demon || Baciel (T1) || 2 || Tentacle || Chained Kimono || || ||
+|| Sorcerer || Shaman (T1) || 2 || Prinny Staff || Chained Kimono || Falcon Shoes || ||
+
+**5-6 Murder-Go-Round**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Vulcanus || Angel of Avarice || 1 || Catsaber Gun || Catsaber Gun || Mage Robe || Aero Sneakers ||
+|| Prinny || Pvt. Prinny (T1) || 17 || Shark Head || Mage Robe || Falcon Shoes || ||
+Each Pvt. Prinny will attempt Demon Fusion with another (some may not reach another Prinny).
+If you lose this battle you will see [https://www.youtube.com/watch?v=bSBMoQAHVco Alt. Ending: Vulcanus (?)] which will lead to a new cycle.
+Repeated version removes Vulcanus.
+
+++ Ep. 6: The A-Virus Pandemic
+During this Chapter there will be Axel?s who don't have a **<S>** by their name due to the game not having the Green diamond, attempt to capture Axel?s will cause the Base Panel to explode.
+**6-1 Winter Cemetery**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Beast Master || Beast Leader (T2) || 1 || Lovely Edge || Powerful Jacket || || ||
+|| Gargoyle || Guardian (T2) || 2 || Shark Head || || || ||
+|| Gunner || Sniper (T2) || 2 || Laser Gun || Powerful Jacket || || ||
+|| Mothman || Messenger (T2) || 2 || Shark Head || || || ||
+|| Catsaber || Warcat (T2) || 2 || Shark Head || || || ||
+Each monster set will Dual Magichange with the Humanoid they are by.
+
+**6-2 Oblivion Hill**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Axel? || A-Virus Infected || 1 || Miracle Punch || Powerful Jacket || || ||
+|| Masked Hero || A-Virus Infected/Vizard Hero (T2) || 8 || Whirlwind Slap || Camo-Clothes || Ninja Tabi || ||
+|| Gunner || A-Virus Infected/Sniper (T2) || 4 || Laser Gun || Camo-Clothes || || ||
+|| Sorcerer || A-Virus Infected/Witch Doctor (T2) || 3 || Prelude || Camo-Clothes || || ||
+|| Magician || A-Virus Infected/Blue Skull (T3) || 2 || Prelude || Camo-Clothes || || ||
+Repeated version replaces the Axel look alike with a Tier 3 Masked Hero with the same equipment as the other Masked Heroes.
+
+**6-3 Ghoul Standard**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Axel? (Fist)/Masked Hero || A-Virus Infected/Vizard Hero (T2) || 1 || Miracle Punch || Powerful Jacket || Falcon Shoes || ||
+|| Axel? (Gun)/Gunner || A-Virus Infected/Sniper (T2) || 1 || Kaguya || Powerful Jacket || Falcon Shoes || ||
+|| Axel? (Sword)/Warrior ||  A-Virus Infected/Warrior (T2) || 1 || Passing Showers || Powerful Jacket || Falcon Shoes || ||
+|| Dragon || A-Virus Infected/Dragon (T1) || 4 || Thorny Whip || Powerful Jacket || || ||
+|| Spirit || A-Virus Infected/Specter (T3) || 3 || Art.15: Scheme || Powerful Jacket || || ||
+|| Mothman || A-Virus Infected/Messenger (T2) || 2 || Thorny Whip || Powerful Jacket || || ||
+
+**6-4 Abysmal Mirage**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Axel? (Fist) || A-Virus Infected || 2 || Miracle Punch || Powerful Jacket || || ||
+|| Axel? (Spear) || A-Virus Infected|| 2 || Trembling Spear || Powerful Jacket || || ||
+|| Axel? (Sword) ||  A-Virus Infected || 2 || Passing Showers || Powerful Jacket || || ||
+Repeated version removes 2 units while replacing all with Tier 2 Ninjas using Axel? (Fist)s equipment.
+
+**6-5 The Defiled**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Axel? (Fist)/Masked Hero || A-Virus Infected/Morphing Hero (T3) || 1 || Miracle Punch || Powerful Jacket || Falcon Shoes || ||
+|| !Axel? (Axe)/Warrior || A-Virus Infected/Warrior (T2) || 2 || Ogre Club || Powerful Jacket || || ||
+|| !Axel? (Sword)/Valkyrie ||  A-Virus Infected/Lady Warrior (T2) || 2 || Passing Showers || Powerful Jacket || || ||
+! Will also appear from the Enemy Base Panel with **Falcon Shoes** added to Armor 2.
+
+**6-6 Fractured Bouquet**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Axel? (Fist) || A-Virus Infected || 4 || Deluxe Fist || Skele-mail || || ||
+Repeated version replaces Axels with a Tier 3 Orc using **Undead Embrace** as their weapon.
+
+**6-7 Infringement**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Axel || Warden of Hades || 1 || White Tiger || Skele-mail || Aero Sneakers || Feather Token ||
+|| Axel? || A-Virus Infected || 24 || Oven Mitts || || || ||
+If you lose this battle you will see [https://www.youtube.com/watch?v=cLIUOMRPjDI Alt. Ending: Axel] which will lead to a new cycle.
+All Axels get replaced by a Tier 2 Zombie, the main one having **Ogre Horn** as the weapon while the weaker ones with **Sardine Bone** as the weapon.
+
+++ Ep. 7: Tyrant vs President
+**7-1 Rebel Invasion**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Bouncer || Bouncer (T1) || 4 || Deluxe Fist || Samurai Robe || Aura Belt || ||
+|| Thief || Rouge (T2) || 2 || Lite Burst || Samurai Robe || Opera Glasses || ||
+|| Gunner ||  Sniper (T2) || 2 || Lite Burst || Samurai Robe || Opera Glasses || ||
+|| Nekomata || Pao Mao (T2) || 4 || Ogre Horn || Samurai Robe || Falcon Shoes || ||
+|| Succubus || Empusa (T1) || 4 || Art. 17: Immoral || Samurai Robe || Falcon Shoes || ||
+|| Death || Chernobog (T1) || 2 || Ogre Horn || Samurai Robe || Falcon Shoes || ||
+
+**7-2 Shard of Regret**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| !**<S>**Psylos || Thunder Emperor || 1 || Sunshine Rod || Skele-mail || Feather Token || ||
+|| !**<S>**Tromayer || Atrocious Warrior || 1 || Decapitator || Skele-mail || || ||
+|| !**<S>**Baltis ||  Bringer of Despair || 1 || Eagle Spear || Skele-mail || || ||
+|| Bouncer || Bouncer (T1) || 6 || Whirlwind Slap || Skele-mail ||  || ||
+|| Heavy Knight || Iron Knight (T2) || 4 || Eagle Spear || Skele-mail || || ||
+|| Warrior || Warrior (T2) || 4 || Ogre Club || Skele-mail || || ||
+|| Onmyo Monk || Onmyo Trainee (T1) || 4 || Justice Staff || Skele-mail || || ||
+! Repeated version removes these units.
+
+**7-3 Busted Mythology**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Death || Chernobog (T1) || 8 || Art. 17: Immoral || Skele-mail || Sophia's Mirror || ||
+
+**7-4 Dark History**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| !**<S>**Repracon || North Guardian || 1 || Blood Shark || Skele-mail || Aero Sneakers || ||
+|| !**<S>**Garatea || East Guardian || 1 || Cute Stick || Skele-mail || Bloody Orb || ||
+|| !**<S>**Graceus || South Guardian || 1 || Cute Stick || Skele-mail || Bloody Orb || ||
+|| !**<S>**Arsailles || West Guardian || 1 || Art. 19: Rebel || Skele-mail || Bloody Orb || ||
+|| Death || Chernobog (T1) || 8 || Art. 19: Rebel || Skele-mail || || ||
+|| Bouncer || Body Guard (T2) || 16 || Shadow Slicer || Skele-mail || || ||
+! Repeated version removes these units.
+
+**7-5 Post-Purge Purge**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| !Prinny || Seven Yakshas || 1 || Ogre Horn || Skele-mail || Falcon Shoes || ||
+|| !**<S>**Masked Hero || Seven Yakshas || 6 || White Tiger || Skele-mail || Falcon Shoes || ||
+|| Prinny || Pvt. Prinny (T1) || 14 || Hornet Needle || Overalls || || ||
+! Repeated version removes these units.
+
+**7-6 Overlord's Test**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Archer || Shooter (T3) || 3 || Bull's Eye || Skele-mail || Opera Glasses || ||
+|| Magic Knight || Magic Knight (T1) || 3 || Cute Stick || Skele-mail || Astral Orb || ||
+|| Gunner ||  Outlaw (T3) || 3 || Space Det. Gun || Skele-mail || Opera Glasses || ||
+|| Sorcerer || Witch Doctor (T2) || 3 || Storm Staff || Skele-mail || Ace Muscle || ||
+
+**7-7 Feast of the Wolf**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| !**<S>**Catsaber || Ten Overlords || 1 || Lionheart || Breast Plate || || ||
+|| !**<S>**Eryngi || Ten Overlords || 1 || Lionheart || Breast Plate || || ||
+|| !**<S>**Cockatrice || Ten Overlords || 1 || Elephant Tusk || Breast Plate || || ||
+|| !**<S>**Mothman || Ten Overlords || 1 || Elephant Tusk || Riot Shield || || ||
+|| !**<S>**Gargoyle || Ten Overlords || 1 || Elephant Tusk || Riot Shield || || ||
+|| !**<S>**Cu Sith || Ten Overlords || 1 || Elephant Tusk || Riot Shield || || ||
+|| !**<S>**Skeletal Dragon || Ten Overlords || 1 || Gargoyle Feather || Riot Shield || || ||
+|| !**<S>**Wood Golem || Ten Overlords || 1 || Gargoyle Feather || Riot Shield || || ||
+|| !**<S>**Dragon ||  Ten Overlords || 1 || Gargoyle Feather || Riot Shield || || ||
+|| !**<S>**Rifle Demon || Ten Overlords || 1 || Gargoyle Feather || Riot Shield || || ||
+|| Bouncer || Body Guard (T2) || 18 || Bone Crusher || Riot Shield || || ||
+! Repeated version removes these units.
+
+**7-8 Evil Office**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Hugo || Netherworld Pres. || 1 || Art. 22: Leverage || Brigandine || Riot Shield || ||
+|| Bouncer || Problem Solver (T3) || 3 || Final Corruption || Brigandine || Ninja Tabi || ||
+|| Onmyo Monk || Onmyo Trainee (T1) || 4 || Holy Wings || Brigandine || Dark Orb || ||
+|| Lady Samurai || Exorcist (T1) || 8 || Hero Blade || Brigandine || Energy Belt || ||
+Repeated version removes Hugo.
+
+++ Ep. 8: Final Boss vs Final Boss
+**8-1 Rising Tragedy**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Battle Suit || Bio-Suit (T1) || 15 || Space Det. Gun || Breast Plate || || ||
+|| Battle Suit || Bio-Suit (T1) || 1 || Haunted Magnum || Breast Plate || || ||
+
+**8-2 Deadly Elevator**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Battle Suit || Bio-Suit (T1) || 9 || Space Det. Gun || Breast Plate || || ||
+
+**8-3 Section D**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Sludge || Blue Gelatin (T3) || 2 || Ogre Horn || Camo-Clothes || || ||
+|| Orc || Head Orc (T3) || 2 || Ogre Horn || Camo-Clothes || || ||
+|| Mothman || Watcher (T3) || 2 || Ogre Horn || Camo-Clothes || || ||
+|| Gargoyle || Nebiros (T3) || 2 || Jack O' Lantern || Samurai Robe || || ||
+|| Eryngi || Fungus (T4) || 2 || Ogre Horn || Camo-Clothes || || ||
+|| Zombie || Ghast (T4) || 2 || Ogre Horn || Camo-Clothes || || |||
+|| Flora Beast || Pharbitis (T3) || 2 || Jack O' Lantern || Samurai Robe || || ||
+|| Spirit || Wraith (T4) || 2 || Art. 17: Immortal || Camo-Clothes || || ||
+|| Wood Golem || Wood Giant (T1) || 2 || Jack O' Lantern || Skele-mail || || ||
+
+**8-4 Chaos Factory**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Beast Master || Beast Leader (T2) || 5 || Metal Warrior || Riot Shield || || ||
+|| Catsaber || Warcat (T2) || 4 || Lionheart || Riot Shield || || ||
+|| Bouncer || Body Guard (T2) || 2 || Giant Swing || Riot Shield || || ||
+|| Ninja || Chunin (T2) || 1 || Giant Swing || Riot Shield || || ||
+|| Heavy Knight || Iron Knight (T2) || 1 || Great Partisan || Riot Shield || || ||
+|| Gunner || Sniper (T2) || 1 || Space Det. Gun || Riot Shield || Opera Glasses || ||
+|| Warrior || Destroyer (T4) || 1 || Wing Axe || Riot Shield || || ||
+|| Magician || Star Skull (T4) || 1 || Cute Stick || Riot Shield || Opera Glasses || ||
+|| Professor ||  Professor (T1) || 2 || Cute Stick || Riot Shield || Opera Glasses || ||
+|| Cleric || Acolyte (T2) || 2 || Bull's Eye || Riot Shield || Opera Glasses || ||
+|| Archer || Hunter (T2) || 1 || Bull's Eye || Brigandine || Nightvision || ||
+|| Onmyo Monk || Certified Onmyo (T2) || 1 || Cute Stick || Brigandine || Nightvision || ||
+
+**8-5 Section G9**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Nekomata || Pao Mao (T2) || 4 || Gargoyle Feather || Brigandine || Aero Sneakers || ||
+|| Professor || Sophist (T2) || 3 || Pulsar Cannon || Brigandine || Opera Glasses || ||
+|| Professor || Sophist (T2) || 1 || Haunted Magnum || Brigandine || Opera Glasses || ||
+|| Dragon || Fafnir (T2) || 6 || Gargoyle Feather || Brigandine || || ||
+
+**8-6 Two-Headed Dragon**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Witch || Star Mage (T4) || 1 || Icarus Staff || Riot Shield || Feather Token || Fight Muscle ||
+|| Magician || Star Skull (T4) || 1 || Icarus Staff || Riot Shield || Feather Token || Fight Muscle ||
+|| Battle Suit || Bio-Suit (T1) || 4 || Giant Swing || Riot Shield || Fight Muscle || ||
+
+**8-7 Mission Improbable**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Death || Death (T2) || 12 || Gargoyle Feather || Riot Shield || Astral Orb || ||
+
+**8-8 True Final Weapon (Part 1)**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Des X || Final Boss || 1 || Arachne Weave || Dandy Gown || Pravda Pendant || Nightvision ||
+|| Professor || Sophist (T2) || 2 || Cross Blaster || Brigandine || || ||
+|| Battle Suit || Power Armor (T3) (Gun) || 2 || Cross Blaster || Brigandine || || ||
+|| Battle Suit || Power Armor (T3) (Fist) || 2 || Bomber Tackle || Brigandine || || ||
+|| Battle Suit || Power Armor (T3) (Sword) || 2 || Hero Blade || Brigandine || || ||
+|| Battle Suit || Power Armor (T3) (Spear) || 1 || Twin Assassin || Brigandine || || ||
+Repeated version removes Des X
+If you are going for all skills seen this is the first time you have the chance to see Des Xs **Final Boss Arises X** & **True Godly Weapon** so make sure Enemy Effects are on. Best done on your second playthrough onwards by boxing her in a corner with a Thiefs Create Box/Barrel skill and being far enough that her special can target you.
+
+**True Final Weapon (Part 2)**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Giant Des X || Final Boss || 1 || Tengu Fan || Spike Shield || Pravda Pendant || Nightvision ||
+If going for all skills seen this is your 2nd and last chance to see Dex Xs **Final Boss Arises X** & **True Godly Weapon**. Alternatively if you are impatient and don't want to wait till your next cycle where you are strong enough to take no damage from her attacks you can do Pasttimks map (Rank 43 by Strength), though note that this is a hackers map (certain characters have max stats with terrible gear that have no way of reaching the max of any stat including resistances).
+
+++ Ep. 9: The Moon, Earth and the Promise!
+**9-1 Gloomy Moon**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Android || Android (T1) (Gun) || 1 || Necromagnum || Dandy Gown || Riot Shield || Opera Glasses ||
+|| **<S>**Android || Android (T1) (Bow) || 1 || Elemental Bow || Dandy Gown || Riot Shield || Opera Glasses ||
+|| Android || Android (T1) (Gun) || 2 || Wing Cannon || Dandy Gown || Ace Muscle || Opera Glasses ||
+|| Android || Android (T1) (Bow) || 2 || God Speed || Dandy Gown || Ace Muscle || Opera Glasses ||
+
+**9-2 3rd Colony**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Ignition Device 1 || Ignition Device 1 || 1 || || || || ||
+|| Android || Android (T1) (Gun) || 4 || Wing Cannon || Brigandine || Dandy Gown || Ace Muscle ||
+|| Android || Android (T1) (Bow) || 5 || God Speed || Brigandine || Dandy Gown || Opera Glasses ||
+Repeated version removes Ignition Device 1
+
+**9-3 Parasite Nest**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Ignition Device 2 || Ignition Device 2 || 1 || || || || ||
+|| Android || Cyborg (T2) (Gun) || 2 || Necromagnum || Dandy Gown || Falcon Shoes || Ace Muscle ||
+|| Mothman || Watcher (T3) || 2 || Art. 23: Reward || Dandy Gown || || ||
+|| Android || Android (T1) (Spear) || 1 || Mental Javelin || Dandy Gown || Falcon Shoes || Ace Muscle ||
+|| Android || Android (T1) (Sword) || 1 || Super Flashlight || Dandy Gown || Falcon Shoes || Ace Muscle ||
+|| Android || Android (T1) (Axe) || 1 || Lightning Axe || Dandy Gown || Falcon Shoes || Ace Muscle ||
+|| Skeletal Dragon || Death Dragon (T2) || 2 || Chimera Tail || Dandy Gown || Falcon Shoes || Ace Muscle ||
+|| Dragon || Fafnir (T2) || 2 || Chimera Tail || Dandy Gown || Falcon Shoes || Ace Muscle ||
+|| Death || Death (T2) || 2 || Art. 23 Reward || Dandy Gown || Falcon Shoes || Ace Muscle ||
+Repeated version removes Ignition Device 2
+The Watchers will Magichange with the Cyborg they are next to.
+Each monster set will preform Demon Fusion with each other.
+
+**9-4 Concrete Knowledge**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Android || Android (T1) (Bow) || 6 || Elemental Bow || Dandy Gown || || ||
+|| Android || !Android (T1) (Sword) || 7 || Super Flashlight || Brigandine || Aura Belt || ||
+|| Android || !Android (T1) (Spear) || 7 || Scorching Trident || Brigandine || Aura Belt || ||
+|| Android || !Android (T1) (Axe) || 7 || Mad Cleaver || Brigandine || Aura Belt || ||
+! Will appear from enemy base panels one by one in Sword, Spear, Axe order after ending turn.
+
+Repeated version removes Android (Bow) and replace them with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Eryngi || Champinion (T3) || 10 || Arachne Weave || Dandy Gown || || ||
+
+**9-5 Evil Heresy**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Android || Cyborg (T2) (Axe) || 2 || Lightning Axe || Dandy Gown || || ||
+|| Android || Cyborg (T2) (Sword) || 2 || Super Flashlight || Dandy Gown || || ||
+|| Android || Android (T1) (Spear) || 2 || Mental Javelin || Dandy Gown || || ||
+|| Android || Android (T1) (Gun) || 4 || Necromagnum || Dandy Gown || || ||
+
+**9-6 Sign of Demolition**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Android || Automaton (T3) || 1 || Giant Wood Golem Axe || Saint's Robe || Aura Belt || Sophia's Mirror ||
+|| **<S>**Android || Cyborg (T2) (Bow) || 1 || Elemental Bow || Spike Shield || Opera Glasses || ||
+|| Death || Death (T2) || 1 || Arachne Weave || Spike Shield || || ||
+|| **<S>**Android || Cyborg (T2) (Sword) || 1 || Super Flashlight || Spike Shield || Aura Belt || ||
+|| Dragon || Fafnir (T2) || 1 || Arachne Weave || Spike Shield || || ||
+|| **<S>**Android || Cyborg (T2) (Gun) || 1 || Necromagnum || Spike Shield || Opera Glasses || ||
+|| Rifle Demon || Gambiel (T2) || 1 || Arachne Weave || Spike Shield || || ||
+|| **<S>**Android || Cyborg (T2) (Spear) || 1 || Mental Javelin || Spike Shield || Aura Belt || ||
+|| Cockatrice || Basilicrow (T2) || 1 || Arachne Weave || Spike Shield || || ||
+|| **<S>**Android || Cyborg (T2) (Staff) || 1 || Lunar Staff || Spike Shield || Sophia's Mirror || ||
+|| Flora Beast || Nemophila (T2) || 1 || Arachne Weave || Spike Shield || || ||
+Each Monster will Magichange with the Cyborg they are lined up with
+
+++ Final Episode: Ties Deeper Than Darkness
+All enemies in this chapter are Malice units, they count as a separate unit having the voice of Nemo usually with a Black & Red color scheme. These units are uncaptureable despite not having the symbol for it above the units name and will destroy the base panel if you try to capture them.
+**10-1 Swarming Malice**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Eryngi || Malice Shroom || 3 || Tengu Fan || Dandy Gown || Spike Shield || Ace Muscle ||
+|| Catsaber || Malice Slumber Cat || 3 || Tengu Fan || Dandy Gown || Spike Shield || Aero Sneakers ||
+|| Orc || Malice Orc || 2 || Tengu Fan || Dandy Gown || Spike Shield || Aura Belt ||
+|| Mothman || Malice Mothman || 3 || Tengu Fan || Dandy Gown || Spike Shield || Aero Sneakers ||
+
+**10-2 Disaster Dimension**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Sludge || Malice Sludge || 8 || Golem Punch || Spike Shield || || ||
+
+**10-3 Ruler's Wound**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Heavy Knight || Malice Armor Knight || 4 || Mizuchi || Saint's Robe || Victory Muscle || Spike Shield ||
+|| Cockatrice || Malice Roc || 2 || Golem Punch || Saint's Robe || Spike Shield || ||
+|| Skeletal Dragon || Malice Dragon Zombie || 2 || Golem Punch || Saint's Robe || Spike Shield || ||
+|| **<S>**Cleric || Malice Cleric || 2 || Venus Wand || Saint's Robe || Victory Muscle || Spike Shield ||
+|| **<S>**Witch || Malice Witch || 2 || Venus Wand || Saint's Robe || Victory Muscle || Spike Shield ||
+|| **<S>**Magician || Malice Magician || 2 || Venus Wand || Saint's Robe || Victory Muscle || Spike Shield ||
+The Cockatrice and Skeletal Dragon will Magichange with the Heavy Knight they are by.
+
+**10-4 Dark Mud**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Giant Succubus || Malice Succubus || 1 || Art. 25: Doubt || Saint's Robe || Lunar Orb || Victory Muscle ||
+|| **<S>**Giant Rifle Demon || Malice Rifle Demon || 1 || Golem Punch || Saint's Robe || Spike Shield || Victory Muscle ||
+|| **<S>**Giant Death || Malice Death || 1 || Art. 25: Doubt || Saint's Robe || Lunar Orb || Victory Muscle ||
+|| **<S>**Giant Spirit || Malice Spirit || 1 || Art. 25: Doubt || Saint's Robe || Lunar Orb || Victory Muscle ||
+
+**10-5 Deadly Option**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Archer || Malice Archer || 5 || Beast Bow || Saint's Robe || Spike Shield || Nightvision ||
+|| **<S>**Professor || Malice Professor || 1 || Panzer Blaster || Saint's Robe || Spike Shield || Astral Orb ||
+|| **<S>**Sorcerer || Malice Sorcerer || 5 || Solid Impact || Saint's Robe || Spike Shield || ||
+|| !Masked Hero || Malice Masked Hero || 15 || Purgatory Chop || Saint's Robe || Spike Shield || Winged Boots ||
+! Will appear from the Enemy Base Panel.
+
+**WARNING**
+At this point you have a choice of 5 (6 if on a new cycle after seeing an Epilogue) Epilogues. You have to make sure Valvatorez has a relationship with a certain character in the Legendary Tree Evil Symbol to get their Epilogue, I will list the Epilogues you will get and what kind of relationship they need with Valvatorez in priority order.
+
+||~ Character ||~ Relationship ||~ Action to preform ||
+|| Artina || Lover || Valvatorez heal Artina 10 times. ||
+|| Fenrich || Comrade || 10 Team attacks with Fenrich. ||
+|| Fuka || Mentor || Use a skill shared from Fuka 10 times. ||
+|| Desco || Stepsibling || Protect (Defend) Desco 10 times (Defense Fortress). ||
+|| Emizel || Rival || 10 separate counterattacks against each other using no weapons. ||
+If you have no relationship towards anyone Artinas Epilogue take priority.
+
+**10-6 Boiling Point**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Lady Samurai || Malice Lady Samurai || 1 || Regal Darkness || Passion Vest || Spike Shield || Spirit Belt ||
+|| **<S>**Giant Dragon || Malice Dragon || 1 || Unicorn Hoof || Passion Vest || Spike Shield || Spirit Belt ||
+|| **<S>**Gunner || Malice Gunner || 1 || Eunectes || Passion Vest || Spike Shield || Nightvision ||
+|| **<S>**Rifle Demon || Malice Rifle Demon || 2 || Unicorn Hoof || Passion Vest || Spike Shield || Nightvision ||
+|| **<S>**Battle Suit || Malice Battle Suit || 1 || Mad Cleaver || Passion Vest || Spike Shield || Victory Muscle ||
+|| **<S>**Giant Wood Golem || Malice Wood Golem || 1 || Unicorn Hoof || Passion Vest || Spike Shield || Victory Muscle ||
+|| **<S>**Bouncer || Malice Bouncer || 1 || Cross Counter || Passion Vest || Spike Shield || Winged Boots ||
+|| **<S>**Nekomata || Malice Felynn || 2 || Unicorn Hoof || Passion Vest || Spike Shield || Winged Boots ||
+The Giant Dragon and Wood Golem will magichange with the unit they are by.
+The Rifle Demons and Nekomatas will dual magichange with the unit they are by.
+
+**Defying God** (Epilogue)
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Nemo || True Final Boss || 1 || Giant Malice Des X || Spartan Shield || Spirit Belt || ||
+|| **<S>**Android || Malice Android || 6 || Hades Blade || Passion Vest || Winged Boots || ||
+If you are going for all skills seen this is your only chance to see **Fear the Great**, make sure you see this at least once within your playthrough.
+Your Epilogue will depend on your relationship, should you have none it will default to Artinas Epilogue, hers also takes highest priority if you have all relationships.
+
+If you are on a new cycle and beat 10-6 with Valvatorez solo at level 500+ this will be your 10-7 battle
+**Defying God** (Bad Ending)
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Giant Eryngi || Part of God || 4 || Dragon Fang || Gilgamesh Armor || Aegis Shield || Royal Ring ||
+Beating this will lead to the [https://www.youtube.com/watch?v=asUXYaU-DHQ Epilogue: Battle Against God] ending which will start a new cycle.
+
++ Training: Mt. Ordeal
+To unlock this you need 7000 mana and pass the bill "Open Gates to Mt. Ordeal". On new cycles you will need to pass this bill again.
+**Mt. Ordeal 1**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Lady Samurai || Holy Swordsman (T3) || 1 || Ogre Knife || Passion Vest || Pravda Pendant || ||
+|| Lady Samurai || Exorcist (T1) || 9 || Demon Ninja || Passion Vest || Pravda Pendant || ||
+|| Onmyo Monk || Onmyo Master (T3) || 3 || Solid Impact || Passion Vest || Pravda Pendant || ||
+|| Ninja || Oniwaban (T4) || 5 || Purgatory Chop || Passion Vest || Pravda Pendant || ||
+
+**Mt. Ordeal 2**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Magician || Star Skull (T4) || 1 || Requiem || Spartan Shield || Royal Ring || ||
+|| **<S>**Witch || Star Mage (T4) || 1 || Requiem || Spartan Shield || Royal Ring || ||
+|| **<S>**Magic Knight || Force Knight (T5) || 1 || Darkness Wand || Spartan Shield || Royal Ring || ||
+|| Bouncer || Netherworld SP (T4) || 12 || Cross Counter || Spartan Shield || || ||
+
+**Mt. Ordeal 3**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Sludge || Orchre Jelly (T4) || 5 || Fox Ninetail || Hero Cape || || ||
+|| Zombie || Ghast (T4) || 6 || Fox Ninetail || Hero Cape || || ||
+|| Succubus || Succubus (T3) || 7 || Art. 32: Unlucky || Hero Cape || || ||
+|| Mothman || Observer (T4) || 6 || Fox Ninetail || Hero Cape || || ||
+|| Dragon || Ahzi Dahaka (T4) || 1 || Phoenix Wing || Dragon Mail || Falcon Shoes || ||
+
+**Mt. Ordeal 4**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Gargoyle || Balrog (T4) || 13 || Phoenix Wing || Dragon Mail || || ||
+
++ Post Game
+After viewing a character epilogue you will be sent into the Post Game. Special topics will be unlocked which after passing you can go to in the **Postlude** Area. 
+
+**Dark Show Opening!**
+**Senate Topic:** Attend the Dark Hero Live Show
+**Mana Cost:** 1000
+**Prize:** Axel joins your party
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Axel || Warden of Hades || 1 || Death Combat || Passion Vest || Winged Boots || ||
+|| **<S>**Pink || Evil Ranger || 1 || Golem Punch || Saint's Robe || Falcon Shoes || ||
+|| !Psylos || Thunder Emperor || 1 || Nightmare || Saint's Robe || || ||
+|| !Graceus || South Guardian || 1 || Nightmare || Saint's Robe || || ||
+|| Bouncer || Problem Solver (T3) || 6 || Purgatory Chop || Passion Vest || Winged Boots || ||
+|| Orc || Head Orc (T3) || 4 || Golem Punch || Saint's Robe || || ||
+|| Prinny || Pvt. Prinny (T1) || 5 || Golem Punch || Saint's Robe || || ||
+|| Mothman || Watcher (T3) || 2 || Golem Punch || Saint's Robe || || ||
+|| Spirit || Specter (T3) || 3 || Golem Punch || Saint's Robe || || ||
+|| Flora Beast || Alraune (T1) || 3 || Golem Punch || Saint's Robe || || ||
+|| Gargoyle || Balrog (T4) || 2 || Golem Punch || Saint's Robe || || ||
+|| Zombie || Corpse (T3) || 3 || Golem Punch || Saint's Robe || || ||
+! Attempting to capture this unit results in base panel destruction.
+
+**Love Missionaries**
+**Unlocked After:** Clearing Dark Show Opening!
+**Senate Topic:** The Love Evangelist Appears!
+**Mana Cost:** 2000
+**Prize:** Archangel Flonne joins your party
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Flonne || Archangel || 1 || Prinny Stick || Angel Leotard || Lunar Orb || ||
+|| !Garatea || East Guardian || 1 || Sorcerer Rod || Angel Leotard || || ||
+|| !Masked Hero || Seven Yakshas || 1 || Detonator || Angel Leotard || || ||
+|| Healer || Bishop (T4) || 2 || Solid Impact || Saint's Robe || Astral Orb || ||
+|| Thief || Bandit (T4) || 2 || Detonator || Saint's Robe || Astral Orb || ||
+|| Spirit || Wraith (T4) || 2 || Art. 27: Laziness || Angel Leotard || || ||
+|| Succubus || Succubus (T3) || 2 || Art. 28: Avarice || Angel Leotard || || ||
+|| Death || Tezcatlipoca (T3) || 2 || Art. 27: Laziness || Angel Leotard || || ||
+! Attempting to capture this unit results in base panel destruction.
+
+**Volunteering!**
+**Unlocked After:** Clearing Love Missionaries
+**Senate Topic:** The Legendary Delinquent Appears!
+**Mana Cost:** 4000
+**Prize:** Raspberyl joins your party
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Raspberyl || No.1 Delinquent || 1 || Art. 19: Rebel || Valkyrie Dress || Lunar Orb || ||
+|| Spirit || Phantom (T6) || 1 || Art. 26: Arrogant || Sengoku Armor || || ||
+|| Spirit || Fiend (T5) || 5 || Art. 26: Arrogant || Sengoku Armor || || ||
+|| Nekomata || Ovinig (T5) || 4 || Unicorn Hoof || Sengoku Armor || Spartan Shield || ||
+|| Wood Golem || Gaia Titan (T5) || 3 || Troll Claw || Spartan Shield || Victory Muscle || ||
+The Phantom will preform Demon Fusion with Raspberyl.
+
+**Yes! Nice-Bodied!**
+**Unlocked After:** Clearing Volunteering!
+**Senate Topic:** The Nice-Bodied Appears!?
+**Mana Cost:** 8000
+**Prize:** Etna joins your party
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Etna || Demon Lord || 1 || !Elder Spear || Holy Warrior Armor || Royal Ring || ||
+|| Prinny || Prinny King (T5) || 14 || Basilisk Eye || Holy Warrior Armor || || ||
+! Special weapon, always Common. Etna joins with this weapon equipped.
+
+**From Anether World!**
+**Unlocked After:** Clearing Yes! Nice-Bodied!
+**Senate Topic:** Another Netherworld's Overlord Appears!
+**Mana Cost:** 16000
+**Prize:** Laharl joins your party
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Laharl || Overlord || 1 || Claiomh Solais || Overlord Cape || Aegis Shield || Testament ||
+|| Dragon || Bahamut (T6) || 4 || Dragon Fang || Gilgamesh Armor || || ||
+|| Skeletal Dragon || Hell Dragon (T6) || 6 || Dragon Fang|| Gilgamesh Armor || || ||
+Two Bahamuts will Dual Magichange with Laharl.
+Skeletal Dragons will preform Demon Fusion with the one next to it.
+
+**New Main Character!**
+**Unlocked After:** Clearing From Anether World!
+**Senate Topic:** Destroy the Root of All Evil!
+**Mana Cost:** 32000
+**Prize:** Asagi (SD) joins your party
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Asagi || Main Character? || 1 || Atomic Ray || Goddess's Dress || Testament || Accelerator ||
+|| Giant Rifle Demon || Malchidael (T6) || 2 || Basilisk Eye || Gilgamesh Armor || Crosshair || ||
+|| Battle Suit || Joker (T6) || 5 || Warrior's Gun || Gilgamesh Armor || Nightvision || ||
+|| Gunner || Bullseye (T5) || 3 || Warrior's Gun || Gilgamesh Armor || Nightvision || ||
+Both Malchidael's will Dual Magichange with Asagi.
+Beating this will unlock the Post Game: All Cleared ending which will continue with more Post Game content. Additionally if you downloaded the free DLC for Asagi you can battle her HD form which after beating can be changed from the Asagi you currently have (they both can't exist in your party at the same time).
+
+**Defender of Earth Appears!!**
+**Unlocked After:** Talking to the Green Prinny found randomly on Innocent Towns of an Item World on 5 different occasions (1st time only, must be during Post Game). Clearing From Anether World! (New cycles after recruiting once)
+**Senate Topic:** Fight the Defender of Earth!
+**Mana Cost:** 64000
+**Prize:** Prinny Kurtis joins your party
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Prinny Kurtis || Defender of Earth || 1 || Dark Aura || Hero Cape || Sophia's Mirror || ||
+
+**Historical Spectacle!**
+**Unlocked After:** Clearing New Main Character!
+**Senate Topic:** Witness a Historical Spectacle!
+**Mana Cost:** 128000
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Pringer X || Mythical Robot || 1 || Satan Force || !Prinny Suit || Overlord Cape || Propel Vernier ||
+! Rank 40 item, always Legendary.
+
+**Invasion of the Badass Freakin' Overlord!**
+**Unlocked After:** Clearing New Main Character!
+**Senate Topic:** Challenge the Badass Overlord!
+**Mana Cost:** 256000
+**Prize:** Zetta joins your party
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Zetta || Badass Overlord || 1 || Yoshitsuna || !Makai Wars || Overlord Cape || Barefoot X ||
+! Rank 40 item, always Legendary.
+
+**Vengeance of Pringer X**
+This battle is unlocked after you have defeated Zetta.
+**Pringer X: Roar**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Pringer X: Poison || Super Overlord || 1 || !Crowbar || !Makai Wars || Super Mechsuit || Arcadia ||
+! Rank 40 item, always Legendary.
+Repeated version of this map has 8 Pringer X: Poisons.
+
++ Hades Party: Members Wanted!
+Any DLC character you purchase can only be fought during the Post Game in this area, for the most part DLC battles are against that character by themself in the starter map which can only be done once per cycle with the exception of this one.
+**Tyrant... Overlord**
+Cost: Free
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| **<S>**Giant Baal || Tyrant Overlord || 1 || !Crowbar || !Makai Wars || !Ultimate Barrier || Arcadia ||
+! Rank 40 item, always Legendary.
+Winning will award you with the Sword **Great Baal Horn** once per playthrough. Repeated version of this map has 5 Giant Baals. If you are going for all special skills seen Baal is likely not going to use **Grave Eternity** during the battle with only 1 of him, in the repeated version you will need 4 characters with Fortitude or enough HP to survive the Base Panel attack stand in a straight line from the Base Panel to get him to use Grave Eternity (will not always happen, but has the highest chance).
+
++ X-Dimension
+To unlock the X-Dimension maps you will need to find two different Cu Sith Scalpers in the Item World Mystery Gates one on floors 1-49 and the other on 51-99. Each will sell Promotionhell Tickets which unlock X-Dimension stages. Unlike Disgaea 3 you are free to sell the Tickets as the X-Dimension maps will stay open as long as you have gotten the ticket once, you do not need to keep them in a new cycle if you don't want them.
+
+++ Ep. 1: Rebel of Hades
+**X1-1 X-Reincarnation Site**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Nekomata || Bastet (T6) || 1 || Basilisk Eye || Holy Warrior Armor || Spartan Shield || World Muscle ||
+
+**X1-2 X-Prinelytise Room**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Gargoyle || Pazuzu (T6) || 1 || Siren Harp || Dragon Mail || Dragon Mail || Dragon Mail ||
+
+**X1-3 X-Albatross Collar**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Bouncer || Problem Solver (T3) || 2 || Poison Hand || Passion Vest || Aero Sneakers || Aero Sneakers ||
+|| Ninja || Jounin (T3) || 2 || Poison Hand || Passion Vest || Aero Sneakers || Aero Sneakers ||
+|| Masked Hero || Morphing Hero (T3) || 2 || Poison Hand || Passion Vest || Aero Sneakers || Aero Sneakers ||
+|| Witch || 1-3 || 2 of each || Prinny Stick || Passion Vest || Opera Glasses || Ace Muscle ||
+
+**X1-4 X-Disaster First**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Rifle Demon || Adnachiel (T3) || 2 || Cerberus Jaw || Spartan Shield || Sophia's Mirror || Ace Muscle ||
+|| Beast Master || Beast Lord (T3) || 16 || Gaea Axe || Spartan Shield || || ||
+
+++ Ep. 2: Prinny Wars
+**X2-1 X-Rotten Sickbed**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Thief || Bandit (T4) || 3 || Flame Thrower || Brigandine || Opera Glasses || ||
+
+**X2-2 X-Hypha Invasion**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Nekomata || All 6 || 2 of each || Lionheart || Skele-mail || Falcon Shoes || ||
+
+**X2-3 X-Forest of Corpses**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Gunner || 1-4 || 1 of each || Martial Phaser || Passion Vest || Nightvision || ||
+|| Gunner || 5 & 6 || 1 of each || Electromagnetizer || Passion Vest || Nightvision || ||
+
+**X2-4 X-Whispering Curse**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Heavy Knight || Aegis Knight (T6) || 2 || Trishula || Gilgamesh Armor || Aegis Shield  || Royal Ring ||
+
+**X2-5 X-Plan of the Wicked**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Mothman || Unknown (T6) || 1 || Basilisk Eye || Winged Boots || Winged Boots  || Winged Boots ||
+
+++ Ep. 3: Enter the Final Weapon
+++ Ep. 4: Death Emizel's Death
+++ Ep. 5: The Angel of Avarice
+++ Ep. 6: The A-Virus Pandemic
+++ Ep. 7: Tyrant vs President
+++ Ep. 8: Final Boss vs Final Boss
+++ Ep. 9: The Moon, Earth and the Promise!
+++ Final Episode: Ties Deeper Than Darkness
+
++ Unlocking Land of Carnage
+Unlocking the Land of Carnage in Disgaea 4 takes a bit more work compared to Disgaea 3. First you must have a completion total of at least 40% from the X-Dimension maps, on top of that you will need to get the parts needed to build P Flonzor X which must be obtained via capturing enemies except for one part. Note you need **P** Flonzor X parts if you get G or U you will need to recapture the enemy unit again until you get P (Keep those parts to add to your collection to increase your chance to obtain P).
+
+||~ Part ||~ Enemy ||~ Stage found ||
+|| Body || Meowkins Pirates || Floor 91-99 in the Item World. (Must defeat for part) ||
+|| Head || Professor (T5) || X-Swarming Malice (X10-1) ||
+|| Rear || Rifle Demon (T2) || Sign of Demolition (9-6) ||
+|| Left Side || Death (T6) || X-Busted Mythology (X7-3) ||
+|| Right Side || Prinny (T5) || X-Overlord's Test (X7-6) ||
+|| Top || Magic Knight (T5) || X-Swarming Malice (X10-1) ||
+
++ Endings
+Trademark of the Disgaea series there are multiple endings to the game. Due to the data shop not allowing endings to be re-viewable there will be a link to a YouTube video.
+
+||~ Name ||~ Leads to ||~ Requirement ||
+|| [https://www.youtube.com/watch?v=3OPeNzw3ix0 Alt. Ending: Emizel] || New Cycle || Lose to Emizel in 1-5 (Disaster First) or 2-4 (Whispering Curse). ||
+|| [https://www.youtube.com/watch?v=-b0sIS37Pd4 Alt. Ending: Fuka] || New Cycle || Lose to Fuka in 2-5 Plan of the Wicked. ||
+|| [https://www.youtube.com/watch?v=IKGhmQzrrIM Alt. Ending: Desco] || New Cycle || Lose to Desco in 3-6 The Forbidden Cell. ||
+|| [https://www.youtube.com/watch?v=bSBMoQAHVco Alt. Ending: Vulcanus (?)] || New Cycle || Lose to Vulcanus in 5-6 Murder-Go-Round. ||
+|| [https://www.youtube.com/watch?v=cLIUOMRPjDI Alt. Ending: Axel] || New Cycle || Lose to Axel in 6-7 Infringement. ||
+|| [https://www.youtube.com/watch?v=ieNscKeMHeE Epilogue: Fenrich] || Post Game || Before completing 10-6 Boiling Point have Valvatorez be Comrades with Fenrich in the Legendary Tree Evil Symbol. ||
+|| [https://www.youtube.com/watch?v=ysCmw6J-VYY Epilogue: Fuka] || Post Game || Before completing 10-6 Boiling Point have Valvatorez be Fukas Mentor in the Legendary Tree Evil Symbol. ||
+|| [https://www.youtube.com/watch?v=s5t4qpOrNH8 Epilogue: Desco] || Post Game || Before completing 10-6 Boiling Point have Valvatorez be Stepsiblings with Desco in the Legendary Tree Evil Symbol. ||
+|| [https://www.youtube.com/watch?v=N_Ytmhcq0kY Epilogue: Emizel] || Post Game || Before completing 10-6 Boiling Point have Valvatorez be Rivals with Emizel in the Legendary Tree Evil Symbol.||
+|| [https://www.youtube.com/watch?v=BnoSo0pOJ10 Epilogue: Artina] || Post Game || Do not meet any other condition for an Epilogue. If all relationships are met this takes highest priority. ||
+|| [https://www.youtube.com/watch?v=asUXYaU-DHQ Epilogue: Battle Against God] || New Cycle || In 10-6 Boiling Point clear the map with Valvatorez alone at level 500+. Must have seen an Epilogue for this to trigger. ||
+|| Post Game: All Cleared || More Post Game || Clear Asagis Post Game map. ||
+
++ Fun Weapons
+Fun weapons are weapons with a unique skin and innocent attached to them. There are 2 ways to get these weapons either from capturing and interrogating certain units or from the Level Sphere King in the Item World Mystery Gate (who will always have them at Legendary quality).
+||~ Weapon Name  ||~ Weapon Type ||~ Enemy to Capture ||
+|| Tennis Racket || Sword || Cleric ||
+|| Sunflower || Sword || Sorcerer ||
+|| Paper Fan || Sword || Valkyrie ||
+|| Umbrella || Sword || Lady Samurai ||
+|| Natural Sardine || Sword || Android ||
+|| Rising Flag || Sword || Warrior ||
+|| Green Onion || Sword || Magic Knight ||
+|| Death's Sickle || Sword || Death ||
+|| Shovel || Spear || Onmyo Monk ||
+|| Broom || Spear || Heavy Knight ||
+|| Mic || Spear || Professor ||
+|| Brush || Spear || Witch ||
+|| Sign || Spear || Masked Hero ||
+|| Tambourine || Bow || Thief ||
+|| Flower Wreath || Bow || Archer ||
+|| Megaphone || Gun || Ninja ||
+|| Toy Hammer || Axe || Battle Suit ||
+|| Lollipop || Axe || Magician ||
+|| Puppy Paw Stick || Axe || Catsaber & Nekomata ||
+|| Guitar || Axe || Beast Master ||
+|| Referee Fan || Axe || Bouncer ||
+
++ User Slayer Weapons
+User Slayers are weapons that will increase in certain stats as you kill other player pirates **while the character who dealt the killing blow is equipped with it** (Enemy or Neutral will count), you can only have one of each of these weapons (outside of duping with the Puppy Paw Stick) and the only way to get them is from capturing and interrogating specific enemies of at least Level 5000. These are treated as rank 40 items in terms of enemy strength in the Item World and the Item God on floor 100 will have the weapon you entered at a varying Rarity, these can only be Legendary.
+||~ Weapon Name ||~ Weapon Type ||~ Stat change ||~ Enemies to capture ||
+|| Jarngreipr || Fist || +ATK, +SPD || Thief, Masked Hero, Ninja, Bouncer or Battle Suit ||
+|| Kusanagi || Sword || +ATK, +INT || Warrior, Thief, Ninja or Magic Knight ||
+|| Rhongomiant || Spear || +ATK, +DEF || Valkyrie, Heavy Knight or Thief ||
+|| Gandiva || Bow || +ATK, +HIT || Valkyrie, Archer, Thief or Onmyo Monk ||
+|| Akerte || Gun || +HIT, +SPD || Gunner or Masked Hero ||
+|| Mjolnir || Axe || +ATK, -SPD || Warrior, Thief, Beast Master or Onmyo Monk ||
+|| Kerykeion || Staff || +SP, +INT || Magician, Thief, Sorcerer, Magic Knight or Onmyo Monk ||
+|| Lucifer Dyne || Monster Physical || +ATK, +HIT || Orc, Prinny, Gargoyle, Death or Nekomata ||
+|| Netheranatomy || Monster Magical || +ATK, +INT || Spirit or Succubus ||
+
++ Chara World Evilities
+All characters have a finite amount of Evilities they can learn from going through their Chara World. You have a chance of finding Ability Spheres based on how much of the floor you break, though slim it is possible to find more than one Ability Sphere in a run. Note DLC character will not be mentioned (sans Asagi HD & Nisa) so in case of Flonne it refers to Archangel Flonne not Fallen Angel Flonne.
+
+++ Weapon Based
+||~ Name ||~ Effect ||~ Learned by ||
+|| Striker Guild || Increase stats by 5% times the number of allies equipped with fists. || Humanoids with Fist Weapon Forte (Nisa excluded) ||
+|| Fencer Guild || Increase stats by 5% times the number of allies equipped with swords. || Humanoids with Sword Weapon Forte (Nisa excluded) ||
+|| Blade Dance || 30% of base ATK added to SPD when sword is equipped. || Valvatorez, Fuka, Zetta, Nisa, Magic Knight, Valkyrie ||
+|| Lancer Guild || Increase stats by 5% times the number of allies equipped with spears. || Humanoids with Spear Weapon Forte ||
+|| Archer Guild || Increase stats by 5% times the number of allies equipped with bows. || Humanoids with Bow Weapon Forte ||
+|| Bow Focus || 30% of base HIT added to ATK when bow is equipped. || Flonne, Asagi (Both), Archer, Thief ||
+|| Gunner Guild || Increase stats by 5% times the number of allies equipped with guns. || Humanoids with Gun Weapon Forte ||
+|| Long Shot || Attack range increased by 1 panel when gun is equipped. || Etna, Asagi SD, Nisa, Archer, Professor, Thief ||
+|| Witch Guild || Increase stats by 5% times the number of allies equipped with staves. || Humanoids with Staff Weapon Forte. ||
+|| Divine Body || 30% of base RES added to ATK when monster weapon is equipped. || Desco, Prinny Kurtis, Catsaber, Death, Eryngi, Flora Beast, Mothman, Orc, Prinny, Skeletal Dragon, Sludge, Spirit ||
+|| Psycho Barrier || 20% of current SP added to DEF if monster weapon is equipped. || Desco, Prinny Kurtis, Catsaber, Death, Eryngi, Flora Beast, Nekomata, Mothman, Orc, Prinny, Skeletal Dragon, Sludge, Spirit ||
+
+++ Magichange Based
+||~ Name ||~ Effect ||~ Learned by ||
+|| Magichange Guild || Increase stats by 30% times the number of allies equipped with Magichanges. || Fenrich, Raspberyl, Etna, Asagi (Both), Zetta, Nisa, Archer, Magic Knight, Professor, Witch ||
+|| !Bond of Souls || No turn limit when using Magichange. || Valvatorez, Flonne, Etna, Asagi SD, Zetta, Nisa, Archer, Magic Knight, Masked Hero, Witch ||
+|| Sexual Healing || Increase weapon stats when Magichanging with a female unit. || Prinny Kurtis, Catsaber, Death, Eryngi, Mothman, Orc, Prinny, Skeletal Dragon, Sludge, Spirit ||
+|| Ties || Magichange range +1. || Desco, Raspberyl, Prinny Kurtis, Catsaber, Death, Eryngi, Flora Beast, Mothman, Orc, Prinny, Skeletal Dragon,  Sludge, Spirit ||
+! Doesn't work with Dual, Giant or Dual Giant Magichange.
+
+++ Armor Based
+||~ Name ||~ Effect ||~ Learned by ||
+|| Beautiful Step || Increase aptitude by 20% when shoes are equipped. || Masked Hero, Thief, Catsaber, Mothman, Nekomata || 
+|| Earth Hero's Proof || Increase aptitude by 20% when a belt is equipped. || Prinny Kurtis, Nisa, Magic Knight, Valkyrie ||
+|| Saintly Air || Increase aptitude by 20% when an orb is equipped. || Emizel, Asagi SD, Magic Knight, Professor, Witch, Spirit ||
+|| Tom's Glasses || Increase aptitude by 20% when glasses are equipped. || Artina, Flonne, Etna, Asagi SD, Archer, Thief ||
+
+++ Stat Modifier
+||~ Name ||~ Effect ||~ Learned by ||
+|| Absorb Magic || Increase INT by 5% every time magic damage is received. || Emizel, Raspberyl, Magic Knight, Witch, Death, Spirit ||
+|| Beauty is Sin || Increase stats of adjacent female ally units by 20%. || Zetta ||
+|| Fire of Revenge || Stats increased by 10% per ally unit defeated. || Valvatorez, Fuka, Desco, Axel, Flonne, Etna, Laharl, Asagi SD, Zetta, Nisa, Magic Knight, Valkyrie, Prinny Kurtis, Catsaber, Death, Eryngi, Flora Beast, Nekomata, Mothman, Orc, Prinny, Skeletal Dragon, Sludge, Spirit ||
+|| Forgotten Arts || ATK increased by 50% while affected by Forget. || Valvatorez, Laharl, Zetta, Nisa, Magic Knight, Valkyrie ||
+|| Healthy Milk || Increase ATK by 30% and HIT by 30% during Defend. (Last 3 turns) || Valvatorez, Fenrich, Magic Knight, Valkyrie ||
+|| Hunter's Range || HIT increased by 30% only if distance is kept from enemy. || Artina, Flonne, Asagi (Both), Nisa, Archer, Masked Hero, Professor, Thief ||
+|| Isolation || Increase stats by 30% when no other allies are dispatched. || Valvatorez, Fuka, Desco, Artina, Etna, Raspberyl, Laharl, Asagi (Both), Prinny Kurtis, Zetta, Nisa, Archer, Magic Knight, Masked Hero, Professor, Thief, Witch, Catsaber, Eryngi, Flora Beast, Nekomata, Mothman, Orc, Prinny, Skeletal Dragon, Sludge, Spirit ||
+|| Overdrive || ATK increased by number of criticals by you times 10%. || Valvatorez, Fuka, Desco, Etna, Laharl, Prinny Kurtis, Magic Knight, Valkyrie, Catsaber, Death, Eryngi, Flora Beast, Mothman, Nekomata, Orc, Prinny, Skeletal Dragon, Sludge, Spirit ||
+|| Power of Eros || Increase stats by 20% per adjacent female ally unit. || Valvatorez, Emizel, Axel, Zetta, Masked Hero ||
+|| Requiem || Increase stats by 5% times the number of exploded ally Prinnies. || Valvatorez, Fuka, Desco, Emizel, Artina, Etna, Asagi (Both), Prinny Kurtis, Zetta, Nisa, Archer, Magic Knight, Masked Hero, Professor, Thief, Witch, Catsaber, Death, Eryngi, Flora Beast, Mothman, Nekomata, Orc, Prinny, Skeletal Dragon, Sludge, Spirit ||
+|| Skill Count || Increase stats by 30% times the number of units damaged by special skills. || Desco, Raspberyl, Prinny Kurtis, Catsaber, Death, Eryngi, Flora Beast, Nekomata, Mothman, Orc, Prinny, Skeletal Dragon, Sludge, Spirit ||
+|| Wide View || ATK increased by 20% only if distance is kept from enemy. || Flonne, Asagi (Both), Archer, Masked Hero, Thief ||
+
+++ Damage Modifier
+||~ Name ||~ Effect ||~ Learned by ||
+|| C-Sniping || Normal attack's crit damage increased by 100% if not moved. || Asagi (Both), Archer, Professor, Thief ||
+|| Captain Tower || Increase ATK by 10% times the number of units below on the Tower. || Prinny Kurtis, Nisa, Archer, Magic Knight, Masked Hero, Professor, Thief, Valkyrie, Witch ||
+|| Chivalry || Damage increased by 30% when attacking from front. || Valvatorez, Laharl, Nisa, Magic Knight ||
+|| Divine Punishment || Damage dealt to human-type units increased by 25%. || Axel ||
+|| Fallen Peony || If enemy level is higher, crit damage increase by 80%. || Valvatorez, Etna, Laharl, Zetta, Nisa, Magic Knight, Valkyrie, Catsaber, Death, Eryngi, Flora Beast, Mothman, Orc, Prinny, Skeletal Dragon, Sludge, Spirit ||
+|| Fury Strike || Crit damage +100% HIT-30% when axe is equipped. || Fenrich, Etna ||
+|| Girl Hunt || Damage dealt increased by 20% if enemy is female. || Etna, Asagi SD, Archer ||
+|| Heal Gain || Heal amount increased by 50% when receiving healing magic. || Valvatorez, Desco, Emizel, Artina, Laharl, Asagi (Both), Prinny Kurtis, Zetta, Nisa, Archer, Magic Knight, Masked Hero, Professor, Thief, Valkyrie, Witch, Catsaber, Death, Eryngi, Flora Beast, Mothman, Orc, Prinny, Skeletal Dragon, Sludge, Spirit ||
+|| Heal Mastery || Heal magic effects increased by 50%. || Artina ||
+|| Heaven's Blessing || Attack power increased by half current dm x 1%. || Desco, Raspberyl, Prinny Kurtis, Catsaber, Death, Eryngi, Flora Beast, Nekomata, Mothman, Orc, Prinny, Skeletal Dragon, Sludge, Spirit ||
+|| Hero-style Combat || Non-element attack damage increased by 20%. || Valvatorez, Fenrich, Laharl, Zetta, Nisa, Magic Knight, Valkyrie ||
+|| Ice's Blessing || Ice attack damage increase by 30%. || Magic Knight, Professor, Witch, Death, Spirit ||
+|| Karate Black Belt || Increase ATK by 30% when fighting an enemy without a weapon. || Masked Hero ||
+|| Kendo Black Belt || Increase ATK by 30% when fighting an enemy with a weapon. || Valvatorez, Zetta, Nisa, Magic Knight, Valkyrie ||
+|| Light's Blessing || Magic damage to adjacent allies decreased by 50%. || Raspberyl, Magic Knight, Witch, Death, Spirit ||
+|| Lucky Song || Critical damage of allies on map increased by 20%. || Fuka, Desco, Artina, Flonne, Etna, Asagi SD, Nisa, Archer, Magic Knight, Professor, Thief, Witch, Valkyrie ||
+|| Mist Cloak || Damage decreased by 50% when receiving magic attack. || Flonne, Nisa, Magic Knight, Witch, Spirit ||
+|| Positional Energy || Attack power increased by 30% to targets at a lower height. || Archer, Masked Hero, Professor, Thief ||
+|| Purgatory || Crit damage increased by 50%. || Valvatorez, Etna, Nisa, Magic Knight, Valkyrie ||
+|| Saintly Aggression || Increase normal ATK by 100%. || Valvatorez, Fuka, Desco, Emizel, Axel, Flonne, Etna, Raspberyl, Laharl, Prinny Kurtis, Asagi SD, Zetta, Nisa, Archer, Magic Knight, Masked Hero, Professor, Thief, Valkyrie, Witch, Catsaber, Death, Eryngi, Flora Beast, Mothman, Nekomata, Orc, Prinny, Skeletal Dragon, Sludge, Spirit ||
+
+++ Counter Attack Based
+||~ Name ||~ Effect ||~ Learned by ||
+|| Counter Chance || Crit rate increased by 50% for counter attacks. || Masked Hero, Nekomata ||
+|| Counter Power || Counter attack damage dealt increased by 50%. || Axel, Masked Hero, Nekomata ||
+|| Faint || Cancel out the enemy's counter attack. || Axel, Masked Hero, Nekomata ||
+|| Fury || Number of counter hits x 25% damage increase (within turn). || Fenrich, Axel, Masked Hero ||
+|| Hurt Me, Kill You || Counter attacks will always hit. || Axel, Nekomata ||
+|| Lion Stance || Damage taken is added to the damage of the counter attack. || Fenrich, Nekomata ||
+|| Metal Wall || Don't reduce the number of counters even during defense. || Nisa, Magic Knight, Valkyrie ||
+|| Second Attack Win || 100% to counter when HP is below 25%. || Fenrich, Masked Hero, Nekomata ||
+|| Screw Counters || Will not Counter attack, but damaged taken decreased by 20%. || Nisa ||
+
+++ Low HP/SP Effect
+||~ Name ||~ Effect ||~ Learned by ||
+|| Chasing Fang || 50% chance to hit twice if HP is under 25%. || Nekomata ||
+|| Fatal Counter || Counter damage increased by 100% when self HP is under 25%. || Fenrich, Axel, Masked Hero, Nekomata ||
+|| Kamikaze || Crit damage increased by 100% when self HP is under 25%. || Valvatorez, Fuka, Zetta, Nisa, Magic Knight ||
+|| Madness || ATK increased by 50% when self HP is under 25%. || Valvatorez, Fuka, Flonne, Etna, Laharl, Zetta, Nisa, Magic Knight ||
+|| Trance || Magic attack increase by 50% when SP is below 25%. || Emizel, Magic Knight, Professor, Witch, Death, Spirit ||
+
+++ Miscellaneous
+||~ Name ||~ Effect ||~ Learned by ||
+|| Armor Pierce || 25% of ATK becomes fixed value for normal attack. || Valvatorez, Etna, Laharl, Zetta, Nisa, Magic Knight ||
+|| Assault Charge || Crit rate increased by panels moved x10% (within turn). || Masked Hero, Catsaber ||
+|| Assassination || Attacks from behind are always criticals. || Valvatorez, Fuka, Zetta, Magic Knight, Valkyrie ||
+|| Back to Basics || Increase EXP gain by 100% when no armor/weapon are equipped. || Archer, Magic Knight, Thief, Valkyrie, Witch, Catsaber, Eryngi, Flora Beast, Mothman, Nekomata, Orc, Prinny, Skeletal Dragon, Sludge, Spirit ||
+|| Big Chance || Bonus gauge gain increased by 50% if part of a Combo. || Artina, Etna, Asagi SD, Archer, Masked Hero, Professor, Thief ||
+|| Bomb Trainer || Explosion damage added to the HP of the thrown barrel. || Archer, Magic Knight, Masked Hero, Thief, Valkyrie, Witch ||
+|| Camellia Chaos || If enemy level is higher, crit rate increase by 30%. || Desco, Raspberyl, Prinny Kurtis, Catsaber, Death, Eryngi, Flora Beast, Nekomata, Mothman, Orc, Prinny, Skeletal Dragon, Sludge, Spirit ||
+|| Defense Mechanism || Automatically face toward the attack during defense. || Nisa ||
+|| Doze Off || HP & SP recover by 20% when taking action while Sleeping. || Catsaber, Nekomata ||
+|| E-Canceller || Ignores elemental defense for attack. || Emizel, Magic Knight, Professor, Witch, Death, Spirit ||
+|| Earth Hero's Shield || Auto-defense against special magic attack. || Prinny Kurtis, Nisa ||
+|| Energy Eater || 10% of damage dealt by normal attack recovers SP. || Emizel, Magic Knight, Professor, Witch, Death, Spirit ||
+|| Fortitude || Always leave 1 HP after receiving an attack when HP is at Max. || Desco, Prinny Kurtis, Catsaber, Death, Eryngi, Flora Beast, Nekomata, Mothman, Orc, Prinny, Skeletal Dragon, Sludge, Spirit ||
+|| Hero-Style Defense || Automatically defend when receiving an attack from front. || Etna, Nisa ||
+|| Kung-fu Master || Inflict 10% of damage from a normal attack to an adjacent unit. || Nekomata ||
+|| Merciful Attack || Always leave 1 HP for the enemies at a lower level. || Valvatorez, Fenrich, Desco, Emizel, Artina, Axel, Laharl, Asagi SD, Zetta, Nisa, Archer, Magic Knight, Professor, Thief, Valkyrie, Witch, Catsaber, Death, Eryngi, Flora Beast, Nekomata, Mothman, Orc, Prinny, Skeletal Dragon, Sludge, Spirit ||
+|| Princess Hope || Increase critical rate of adjacent ally units by 20%. || Fuka, Desco, Artina, Flonne, Raspberyl, Etna, Asagi (Both), Archer, Magic Knight, Professor, Thief, Valkyrie, Witch ||
+|| Princess Orders || Increase magic range of adjacent ally units by 1. || Desco, Etna, Asagi SD, Raspberyl, Archer, Magic Knight, Professor, Thief, Valkyrie, Witch ||
+|| Reverse Element || Reverse + and - values of elements. || Magic Knight, Professor, Witch, Spirit ||
+|| Safety || When attacked, attack cannot be critical. || Fenrich, Nekomata ||
+|| Treasure Hunt || 30% chance for Chest to appear if killing blow is dealt. || Etna, Asagi (Both), Archer, Masked Hero, Thief ||
+
++ Power Leveling
+Feel under powered and need a character to gain levels quickly? Certain maps can be done to gain levels quickly to help boost your characters that need an edge in levels.
+
+**5-2 Lost Dignity**
+The map consists of 4 Nekomatas, Hell Hounds, Cockatrices & Nemophilas each in a two by two formation. At Enemy Rank 8 they will all be Level 99 which will give experience given from this is equal to a level 323. The key to leveling is having a unit with at least 8 Movement that can reach the Yellow Geo Block in the lower right corner from the Base Panel and lift it from the lower corner (to not attract a Hell Hound) then throw it onto a Purple panel and destroy the block which covers the field in a EXP +150% effect. The downside to this stage is due to the setup the Economic Stimulus Act bill counts the block as the first kill thus not granting the unit you want to level with the triple EXP benefit.
+
+**9-4 Concrete Knowledge**
+The repeated version map consists of 2 lines of 5 Champinions slightly apart from each other. At enemy Rank 1 they will all be Level 99. You may look at the formation and wonder how to finish this map in one attack? Answer Giant Descos Yog Sothoth (learned at Level 100). In terms of leveling you won't gain levels as fast as the stage mentioned above this, but you will finish much faster and with units that have at least 5 Throw you can throw the Geo Blocks onto the Aqua panels straight ahead of it. Also since you are fusing a monster unit with Desco you are essentially leveling 2 units at a time, if your Desco doesn't do enough to kill them in one shot then surround her with allies until she is able to do it by herself with the monster that fused with her. This is a good spot to grind till the stage mentioned below, specially if you have monster units you need their higher class tiers for capturing.
+
+**Mt. Ordeal 4**
+The map features 13 Balrogs set in a diamond formation, the key to leveling here is with the use of Giant Magichange. You will need Fusion Weapon Lab and Dual Dojo Evil Symbols unlocked which can give 1 humanoid and up to 4 monsters equal exp per kill. To unlock them you must defeat a level 100 enemy with a giant monster (Fusion Weapon Lab) and defeat a level 1000 enemy with a Magichange (Dual Dojo), you can use a Custom map if needed. If you don't want to make your own custom map you can use Akumajis map (very end of the list by strength ranking) to get your desired Evil Symbol from the Carmilla, Cath Palug & Alraune in the closest row. Note the monster units you want to use for Dual/Giant/Dual Giant Magichange must be in both Evil Symbols not the humanoid units.
+
+Method of leveling based on weapon
+**Fist**
+Giant Magichange Fist (Cu Sith or Nekomata)
+Skill: Big Bang
+
+**Sword**
+Giant Magichange Sword (Desco, Orc, Dragon or Succubus) with a Magichanged Rifle Demon (Normal or Giant)
+Skills: Rune Dimension + Parallel Cannon
+Leave 1 panel free between you and the front most Balrog and use Giant Rune Dimension, then aim Parallel Cannon at the center to hit the two missed.
+
+**Spear**
+Giant Magichange Spear (Sludge, Skeletal Dragon or Cockatrice)
+Skill: Meteor Shower
+Have an ally defeat the center most Balrog then throw your Spear user there and use Giant Meteor Shower.
+
+**Bow**
+Giant Magichange Bow (Prinny, Zombie or Death) with another Magichange weapon (for second command)
+Skills: Doppelganger + Galaxy Comet
+Aim for the center most Balrog with Giant Doppelganger then target the rest with Giant Galaxy Comet.
+
+**Gun**
+Giant Magichange Gun (Prinny Kurtis, Mothman, Rifle Demon or Catsaber) with another Magichange weapon (for second command)
+Skills: Prism Burster (Secret skill) + Deadly Down Under
+Aim Giant Prism Burster at the front most Balrog, then aim Giant Deadly Down Under at the center to hit the four missed.
+
+**Staff**
+Giant Magichange Raspberyl with another Magichange weapon (for second command)
+Skills: Delta Extreme + Magic Area 7
+Stand in front of the front most Balrog and use Giant Delta Extreme, then aim an Area 7 Magic at the center to hit the two missed.
+
+**Universal**
+Giant Magichange Raspberyl with a Magichanged Rifle Demon (Normal or Giant)
+Skills: Delta Extreme + Parallel Cannon
+Stand in front of the front most Balrog and use Giant Delta Extreme, then aim Parallel Cannon at the center to hit the two missed.

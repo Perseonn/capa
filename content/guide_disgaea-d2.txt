@@ -1,0 +1,1523 @@
+@title: Disgaea 4: A Promise Unforgotten
+@author: Buster Wolf
+@updated: 2025-04-06
+
+Disgaea D2: A Brighter Darkness is the sequel to [[[guide:disgaea1 | Disgaea 1: Hour of Darkness]]] story wise, this will detail how to view conversations in the game between characters in case you want to go for the **Battle of Words** Trophy (view 100 conversations) or just want to know how the characters interact during battle. For the most part certain characters need to be adjacent to each other outside of the base panel for a conversation to spark denoted by a "!" when they are near each other. Note that conversations only happen the first time you visit a map, new cycles will treat it as a first visit, once the map is cleared conversations will no longer happen.
+
+If you find any conversations I missed feel free to notify me with the level and how you obtained the conversation.
+
++ Main Story
+++ Ep. 1 Plains of Grief
+**Battle Basics 1**
+Number of Convos: 3
+
+Laharl & Etna
+**Etna:** Prince, I'm, uh, going to the bathroom, okay?
+**Laharl:** Wait. You're just trying to sit out this battle...
+**Etna:** Well done, Prince! You saw right through my scheme!
+**Laharl:** You can suck up to me later. Go destroy our enemies now.
+
+Laharl & Flonne
+**Laharl:** So, Flonne, you're always saying we should talk things out, but look at you fighting!
+**Flonne:** It's okay! I'll just apologize afterward.
+**Laharl:** Does that make it okay...?
+
+Laharl & Etna outside of the Base Panel after Turn 8
+**Etna:** Stop messing around, Prince. Just beat them already.
+**Laharl:** I know! Damn weaklings...get out of my way...!
+
+**Battle Basics 2**
+Number of Convos: 5 possible, only 3 will activate
+
+!Laharl approaches the box near the 2 stacked box
+**Laharl:** (If characters can be thrown...Can these boxes be thrown, too...?)
+
+!Etna approaches the box near the 2 stacked box
+**Etna:** (These boxes look like they'd be fun to destroy...Maybe I can also throw them...)
+
+!Flonne approaches the box near the 2 stacked box
+**Flonne:** Oh! These boxes look throwable!
+
+Etna & Prinny
+**Prinny:** Master Etna, did you call for me, dood?
+**Etna:** I'm gonna throw you, so make sure you blow up nice and big.
+**Prinny:** Aww, man! Gimme a break, dood!
+
+Laharl attacks an enemy
+**Laharl:** Haaahahahaha! Feast your eyes on my power!
+
+! Only one of these can be activated, doesn't trigger if mounted.
+
+**Geo Effects**
+Number of Convos: 3
+
+!Laharl attacks a Geo Symbol
+**Etna:** Prince, I think these Geo Effects will help us get an easy victory.
+**Laharl:** Leave it to me! I will destroy all our enemies!
+
+!Some Geo Panels aren't destroyed after all Geo Symbols are
+**Etna:** Huh? You left some Geo Panels. I thought you'd clear them all.
+**Laharl:** Shut up! I don't like thinking about confusing things.
+
+Etna outside of the Base Panel after ending turn
+**Etna:** I shouldn't have to fight... We should just leave these weaklings for the Prince to deal with.
+
+! Laharl & Etna must be on the field for this.
+
+**Nameless Wilderness**
+Number of Convos: 3
+
+Laharl & Etna
+**Laharl:** Hey Etna, why didn't you make my statues sturdier!?
+**Etna:** You're the one who cut our budget. Let's get real here.
+
+Laharl & Flonne
+**Flonne:** Do we really have to fight? Maybe we can just run away...
+**Laharl:** What kind of Overlord runs away from their enemies!? An Overlord always finishes their battles.
+**Flonne:** Is that so...? It's not easy being an Overlord...
+
+Laharl gets attacked
+**Laharl:** That didn't even tickle! I'm going to return the favor!
+
+**Tainted Soil**
+Number of Convos: 3
+
+Flonne protects Laharl
+**Flonne:** Protecting your friends...that's love! You get that, right, Laharl?
+**Laharl:** Don't do something so useless. I would've easily dodged that.
+
+Flonne outside of the Base Panel after ending turn
+**Flonne:** Laharl, you always try to solve everything with violence... Is that how Overlords do things? I don't think I can accept that...
+
+Prinny outside of the Base Panel after Turn 2
+**Prinny:** Once this battle is over, I'll reincarnate, dood!
+
+**Silent Death Land**
+Number of Convos: 3
+
+Etna & Prinny
+**Prinny:** Master Etna, please raise our salaries, dood!
+**Etna:** I really wanna throw something right now...
+**Prinny:** Greed is a powerful temptress! I'll never say that again, dood!
+
+Etna attacks an enemy
+**Etna:** I will help you ascend to the afterlife♥Scatter gracefully!
+
+Laharl outside of the Base Panel after Turn 4
+**Laharl:** The time for playing it over! I will show you what true feat is!
+(That typo is there, it should be "true fear")
+
+**Withered Local Pride**
+Number of Convos: 3
+
+Laharl & Etna
+**Laharl:** I'm hungry... Etna, do you have any food?
+**Etna:** I've got some gum I finished chewing...Want it?
+**Laharl:** Hell no!
+
+Laharl & Flonne
+**Flonne:** When can I become an angel again?
+**Laharl:** Hmph! How would I know!?
+**Flonne:** Wh-Whoa...You didn't have to get all angry like that!
+
+Prinny outside of the Base Panel after Turn 2
+**Prinny:** When this battle's over, I'm getting married, dood!
+
+**Filthy Ruins**
+Number of Convos: 3
+
+Grosso attacks
+**Grosso:** I hate children because they don't know how to hold back. Perhaps I better not hold back, either!
+
+Laharl & Grosso
+**Laharl:** I am the Overlord! Listen to me!
+**Grosso:** Nyahahahaha...I will not lend my ears to the foolishness of a misguided child.
+
+Laharl attacks Grosso
+**Laharl:** Haaahahahaha! Feast your eyes on the power of an Overlord! And after that, bow down to me!
+
+++ Ep. 2 Frozen River
+**Unmoving Land**
+Number of Convos: 3
+
+Laharl & Etna
+**Etna:** I can't allow some lowly angel to become an Overlord.
+**Laharl:** You think so, too, huh?
+**Etna:** Hell yes! I'm gonna become the Overlord!
+**Laharl:** Hey...
+
+Etna & Flonne
+**Etna:** An angel wanting to become Overlord? What has this world come to...?
+**Flonne:** That's what I'm saying. Right here is a fallen angel who wants to become a ninja.
+**Etna:** Yeah, I don't know about that, either...
+
+Laharl outside of the Base Panel after ending turn
+**Laharl:** I don't care if you're an angel or a demon, I won't give up being the Overlord!
+
+**Cold Breath**
+Number of Convos: 3
+
+Laharl & Etna
+**Etna:** Prince, what's more important to you? Being the Overlord or me?
+**Laharl:** Being the Overlord...
+**Etna:** You didn't even hesitate!?
+
+Team Attack including Laharl, Etna & Flonne
+**Laharl:** Team attack! Follow me!
+**Etna:** Go, Flonne.
+**Laharl:** You, too!
+
+Etna outside of the Base Panel after ending turn
+**Etna:** What's that angel up to? I have a bad feeling about this...
+
+**Ice Demon Grave**
+Number of Convos: 3
+
+Laharl & Flonne
+**Laharl:** Hey Flonne, you used to be an angel, right? Do you recognize that Sicily girl?
+**Flonne:** No, I don't know her. She's dressed like an angel trainee, but I never met her before.
+**Laharl:** Dammit! What is she thinking...?
+
+Etna & Ally Prinny
+**Prinny:** Prinnies in Celestia can reincarnate by volunteering, instead of saving up money by doing hard work, dood.
+**Etna:** Oh, really? You're not planning to run away, are you♥?
+**Prinny:** ...Ah-haha-heh, dood!
+
+Flonne outside of the Base Panel after Turn 2
+**Flonne:** That girl doesn't seem like a bad kid... There must be a reason she wants to become the Overlord...
+
+**Freezing Winds**
+Number of Convos: 3
+
+Laharl & Flonne
+**Flonne:** Laharl, you need to be nice to girls.
+**Laharl:** Shut up, You're not my mother.
+
+Etna & Flonne
+**Etna:** I'm tired, Flonne. We should eat some of the sweets that are hidden in the back of the fridge...
+**Flonne:** Those're mine! Don't eat my things!
+
+Laharl outside of the Base Panel after Turn 2
+**Laharl:** Damn dimwit angel...Going around, causing a hassle...
+
+**Winter Ridicule**
+Number of Convos: 3
+
+Laharl & Prinny
+**Prinny:** I dreamt that I became Overlord...I hope it comes true, dood...
+**Laharl:** Want me to make you dream about that forever, in an eternal sleep?
+
+Etna attacks an enemy
+**Etna:** Just so you know, I'm not gonna hold anything back. If you die...oh well.
+
+Flonne protects Etna
+**Etna:** Flonne Shield!
+**Flonne:** Hey, don't use me as a shield!
+
+**Silver Witch**
+Number of Convos: 3
+
+!Sicily attacks Laharl
+**Sicily:** I'm giving it my all! Don't get hurt!
+**Laharl:** Your attacks won't even leave a scratch on me!
+
+@Etna & Sicily
+**Etna:** Can't you just give up and go back to Celestia?
+**Sicily:** ...I don't want to, so I won't lose!
+
+@Flonne & Sicily
+**Flonne:** Sicily, an angel shouldn't be fighting...
+**Sicily:** ...But I need to fight in order to become the Overlord, right? So I need to...
+
+! Can trigger if Sicily is mounted
+@ Doesn't trigger if Sicily is mounted 
+If you lose this battle you will see the **Overlord Sicily Ending**.
+
+++ Ep. 3 Grosso's Castle
+**Castle Wall Defense**
+Number of Convos: 3
+
+Laharl, Etna & Sicily
+**Etna:** Prince, we could sell those pots for a lot of money.
+**Laharl:** All right, take 'em all!
+**Sicily:** Maybe we should concentrate on fighting...
+
+Laharl & Grosso
+**Grosso:** You are not capable of taking the place of King Krichevskoy.
+**Laharl:** Shut up! I won't lose to my old man. I am the best Overlord ever!
+
+Grosso attacks Laharl
+**Grosso:** Playing brother and sister with an angel? I cannot allow him to be Overlord.
+
+**Heartless Main Gate**
+Number of Convos: 3
+
+Flonne & Sicily
+**Flonne:** Sicily do you like live-action hero shows or late night anime?
+**Sicily:** Why are you asking about those two things?
+**Flonne:** Because they're my two favorites! Hehe!
+
+Laharl outside of the Base Panel after ending turn
+**Laharl:** Damn those guys in my old man's group... I'll show them that I'm a worthy Overlord!
+
+Sicily outside of the Base Panel after Turn 3
+**Sicily:** I wonder what Big Brother thinks of me... I guess it's useless to just think about it...
+
+**Evil Plans Foyer**
+Number of Convos: 3
+
+Rainier & Laharl
+**Rainier:** Are you really curious about my body? Feel free to look with your hands!
+**Laharl:** Eww...! Get away from me! Damn busty...I'll show you!
+
+Rainier attacks Sicily
+**Rainier:** So, who are you?
+**Sicily:** I'm an angel, King Krichevskoy's daughter, and Big Brother's little sister.
+**Rainier:** I see...I get it now...You're just a angel liar!
+(That typo is there, it should be "an angel")
+
+Team Attack including Etna & Flonne on Rainier
+**Etna:** Flonne, let's take this big-boobed lady down!
+**Flonne:** Roger that! Big boobs are our enemy!
+
+**Conspiracy Landing**
+Number of Convos: 3
+
+Garungun & Laharl
+**Garungun:** Krgh...kraaaggghhh! Finally, the Majin that resides within my left arm...!!!
+**Laharl:** Is it coming out!?
+**Garungun:** *huff* *huff* Not yet... Your lives are safe... for now!
+**Laharl:** Damn it!
+
+Garungun & Flonne
+**Garungun:** You would be no match for the Majin that is sealed within my arm...
+**Flonne:** That's too bad... I really would've liked to have seen a Majin.
+
+Etna attacks Garungun
+**Garungun:** Hmhmhm...fools. I shall use the Eternity Force of my evil eye to sear your soul!
+**Etna:** ...Get lost.
+
+**Corridor of Hell**
+Number of Convos: 3
+
+Laharl & Sicily
+**Laharl:** I haven't accepted you as my little sister yet.
+**Sicily:** Why won't you believe me? I really am your little sister...
+
+Etna & Flonne
+**Flonne:** Demons have love, too! You believe me, right, Etna!?
+**Etna:** Nope.
+
+Sicily & Prinny
+**Sicily:** Thanks for working for my big brother! Here are some cookies I made.
+**Prinny:** Really!? Sicily, you're an angel, dood! I mean, you really are a true angel, dood!
+
+**Inner Sanctum**
+Number of Convos: 3
+
+Prinny & Barbara
+**Prinny:** You'll follow any order right, dood? Then can I give you some perverted orders?
+**Barbara:** If you want to risk your life, go ahead and try it.
+**Prinny:** Dood! She's for real!
+
+Laharl attacks Barbara
+**Laharl:** I can't let some idiot who can only follow orders become the Overlord. I'll beat the crap outta you!
+
+Barbara attacks Laharl
+**Barbara:** I was ordered to fight, so I won't take it easy on you, even if you are a child. I live by my orders!
+
+If you lose this battle you will see **The Fall of Overlord Laharl Ending**.
+
+++ Ep. 4 Sea of Gehenna
+**Ticket Booth**
+Number of Convos: 3
+
+Laharl & Flonne
+**Flonne:** Laharl, if you're having trouble being a woman, I'll help you adapt.
+**Laharl:** I haven't figured out how to pee standing up... How do I...?
+**Flonne:** You don't!
+
+Etna & Sicily
+**Etna:** Lanzarote's songs are too upbeat for a demon, so I don't like 'em.
+**Sicily:** That's the good thing about her! You can't bad-mouth her like that!
+**Etna:** Err... A demon should be singing death metal...
+
+Team Attack including Laharl & Sicily
+**Laharl:** These idol fans are actually pretty strong...!
+**Sicily:** They probably get a lot of training from chasing Lanza around and dancing at her concerts.
+
+**Merchandise Area**
+Number of Convos: 3
+
+Laharl & Etna
+**Etna:** Die, nice body! ...Oops, I didn't realize it was you Prince. I almost killed you...
+**Laharl:** ...You knew it was me all along didn't you!?
+
+Flonne & Sicily
+**Flonne:** Sicily, which Lanza song do you like the best? I like her debut single, Surprise Symphony! It's very powerful, but very kind at the same time.
+**Sicily:** Actually, Flonne, that song was never a single... A lot of fans make that mistake. Her debut single was Ash-Covered Princess. That's when she did her famous sparkly pose... Get your facts straight...
+**Flonne:** Oh...I see. I'm sorry...
+
+Sicily outside of the Base Panel after Turn 2
+**Sicily:** Oh? This book has Lanza on the cover... I wonder what's inside... ...This is not good...
+
+**Restricted Area**
+Number of Convos: 3
+
+Etna & Sicily
+**Etna:** How can you get so riled up like that? How much do you like Lanza anyway?
+**Sicily:** Well if you really want to know... I'll tell you everything! It'll probably take about an hour!
+**Etna:** Crap... I shouldn't have asked.
+
+Flonne attacks an enemy
+**Flonne:** As a former angel, I shouldn't enter restricted areas without permission... But I'm a fallen angel now, so it should be okay!
+
+Laharl outside of the Base Panel after Turn 2
+**Laharl:** It feels like I've been getting a lot of looks lately...
+
+**Green Room**
+Number of Convos: 3
+
+Etna & Hoggmeiser
+**Hoggmeiser:** What do you want with Lanzarote!? *snort*
+**Etna:** Well, duh? I'm gonna beat her up and take her place as a super idol!
+
+Laharl attacks Hoggmeiser
+**Laharl:** Stop breathing so hard! Stop imagining things about me!
+**Hoggmeiser:** I was born a hard breather. *snort*
+
+Hoggmeiser attacks Laharl
+**Hoggmeiser:** *snicker* I'll let everything slide if you say, "Hoggmeiser please be gentle♥"
+**Laharl:** I'll never say that!
+
+If you lose this battle you will see the **Girl Laharl Forever Ending**.
+
+**Concert Stage**
+Number of Convos: 3
+
+Laharl & Lanzarote
+**Lanzarote:** I'll give you a swimsuit picture of me, so please let me be the Overlord☆ Okay?
+**Laharl:** I'm surprised you decided to take swimsuit pictures with that flat chest of yours...
+
+Flonne & Lanzarote
+**Lanzarote:** Don't you want my autograph?
+**Flonne:** Can I really get one!? I don't have any paper, but...please sign this chopsticks wrapper for me!
+**Lanzarote:** Why do you have a chopsticks wrapper...?
+
+Sicily & Lanzarote
+**Sicily:** Lanza...
+**Lanzarote:** Hmmm♥ I'm gonna be an Overlord who can sing and dance☆ Isn't that wonderful♪
+
+++ Ep. 5 Ishtam Devis
+**Sinful Road**
+Number of Convos: 3
+
+Laharl & Sicily
+**Sicily:** Yuie flowers are pretty popular in Celestia, but they really look strange in the Netherworld.
+**Laharl:** Carnivorous plants are norm in the Netherworld... They primarily feed on Prinnies.
+
+Etna & Flonne
+**Flonne:** Aren't you glad you changed back, Laharl and Etna? I haven't adjusted yet! If I stay up late, I still can't wake up early in the morning.
+**Etna:** Umm, Flonne... That's normal...
+
+Etna attacks an enemy
+**Etna:** Well, I guess I'll fight you.
+
+**Ghostly Daydream**
+Number of Convos: 3
+
+Laharl & Sicily
+**Laharl:** Where are my snacks!?
+**Sicily:** Huh? I gave them to Etna earlier... She said you asked her to get them for you.
+**Laharl:** Etna!!!
+
+Etna & Flonne
+**Etna:** Flonne, someone taped a piece of paper to your back.
+**Flonne:** What!?
+**Etna:** And that someone was me.
+**Flonne:** Whaaat!?
+
+Flonne outside of the Base Panel after ending turn
+**Flonne:** Yuie flowers are my favorite... It seems weird that everyone hates them.
+
+**Scale of Good & Evil**
+Number of Convos: 3
+
+Etna & Sicily
+**Etna:** If we go to Celestia, we'll discover your secrets.
+**Sicily:** I told you a million times already... I'm Big Brother Laharl's sister! That's not going to change when we go to Celestia...
+
+Flonne attacks an enemy
+**Flonne:** The flower fields weren't caused by Celestia, so please relax!
+
+Laharl outside of the Base Panel after ending turn
+**Laharl:** Damn demons, complaining about the smallest changes... I became a woman, dammit! This isn't fair!
+
+**The Floating Lands**
+Number of Convos: 3
+
+Laharl & Etna
+**Etna:** Ummm, we need to pay the Prinnies soon. How do you want to go about this?
+**Laharl:** Tell them Flonne stole their salaries.
+**Etna:** Roger that!
+
+Etna & Flonne
+**Etna:** Oh hey, Flonne. What do you want to steal from Celestia?
+**Flonne:** Ummm... We shouldn't be talking about this...
+
+Team Attack including Laharl & Flonne
+**Flonne:** Oh well... I guess we need to show them our combination love attack, Laharl!
+**Laharl:** Don't give people the wrong idea, dammnit!
+
+**Boundary of Darkness**
+Number of Convos: 3
+
+Laharl & Flonne
+**Flonne:** Laharl! That angel was really scared! You need to be nice to girls.
+**Laharl:** Too bad. Nice isn't in my lexicon.
+**Flonne:** I see... Then let me write it in there with this permanent marker!
+**Laharl:** S-Stop! Don't write on my forehead!
+
+Flonne & Sicily
+**Sicily:** Flonne, let's fight together☆
+**Flonne:** Sicily... You've been acting weird ever since Lanza started taking care of you...
+
+Sicily attacks an enemy
+**Sicily:** I need to prove that the angels are innocent. I don't want to fight, but... I'm sorry!
+
+**Celestial Gate**
+Number of Convos: 3
+
+Flonne & Sicily
+**Sicily:** That Xenolith guy is on the angels' side... He must be a good demon.
+**Flonne:** Yes... This must be a result from my lessons in teaching demons to love!
+**Sicily:** Oh...you did that? I thought all you did was watch anime and live action hero shows every day...
+
+Laharl & Xenolith
+**Laharl:** You...Xenolith! Why are you protecting angels? Did they pay you off?
+**Xenolith:** We can't talk right now. We need to clear out these enemies first.
+
+Etna & Xenolith
+**Etna:** I know I'm cute...but stop staring at me so much...
+**Xenolith:** Oh, I'm sorry.
+**Etna:** ...What's with this guy?
+
+++ Ep. 6 Agul Eviland
+**Frightening Forest**
+Number of Convos: 3
+
+Laharl & Etna
+**Laharl:** You were picked up here, huh? Does that mean you were abandoned as a child?
+**Etna:** Not necessarily! I may've just sprouted out from a bamboo tree...
+**Laharl:** Yeah...right...
+
+Etna & Sicily
+**Etna:** I heard the monsters in Agul Eviland love to eat angels.
+**Sicily:** You're just trying to scare me...
+**Etna:** I heard they especially like the ones who say they're the Prince's little sister...
+**Sicily:** Now you're definitely lying to me!
+
+Laharl protects Flonne
+**Laharl:** Pay attention!
+**Flonne:** R-Right... Sorry... Huh? Is this love? Has your love awakened!?
+**Laharl:** Stop being an idiot. I don't believe in love.
+
+**Momentary Bravado**
+Number of Convos: 3
+
+Flonne & Sicily
+**Sicily:** I wanted to eat some fruit, too... Oh no! I need to concentrate... Right, Flonne...
+**Flonne:** Huh? Ughhh! The fruit is nice and tasty. Sicily, you can have one, too!
+**Sicily:** Oh, okay, thanks! I'll have it later.
+
+Etna outside of the Base Panel after ending turn
+**Etna:** I can't stop shaking... I don't remember anything, but it seems like my body remembers something... What happened to me here!?
+
+Laharl outside of the Base Panel after Turn 4
+**Laharl:** I can see why normal demons avoid this place. The monsters here are stronger... Hmhmhm... That makes it more interesting! I'll enjoy this to the fullest!
+
+**Despairing Silence**
+Number of Convos: 3
+
+Laharl & Sicily
+**Sicily:** So, who called Etna out here...
+**Laharl:** Hmph! Calling out my vassal without my permission... Whoever it is, I'm gonna punish them!
+**Sicily:** ...I wonder what Etna and Big Brother are like...when they're alone together...I'm really curious...
+
+Etna & Flonne
+**Flonne:** Etna, if you're not feeling well, you should take it easy...
+**Etna:** Is that so? Then...you go handle the rest of the enemies, okay? Thanks, Flonne♪
+**Flonne:** Oh...ummm, you should try hard, even at times like this.
+
+Laharl outside of the Base Panel after ending turn
+**Laharl:** My dad was here, too...? What would he be doing all the way out here!? I never had a clue of what went through his head...
+
+**Animal Trail to Hell**
+Number of Convos: 3
+
+Laharl & Etna
+**Laharl:** If you cause more work for me, I'm just gonna leave you here!
+**Etna:** Well, I never asked you to come with me, ya know... Honestly, it's kind of annoying...
+
+Laharl & Flonne
+**Laharl:** Damn Xenolith... What is he gonna show Etna?
+**Flonne:** I don't know, but... I think I smell love in the air!
+**Laharl:** I only smell smelly monsters...
+
+Sicily outside of the Base Panel after Turn 2
+**Sicily:** Xenolith seems like he's carrying a heavy burden on his back... Am I thinking too hard?
+
+**Death Scream Chorus**
+Number of Convos: 3
+
+Laharl & Etna
+**Laharl:** Hey Etna, I thought you didn't have any family...
+**Etna:** That's right! That Xenolith guy is probably using me as a tool to live out his "little sister" sexual fantasies!
+
+Flonne & Sicily
+**Flonne:** Etna is Xenolith's little sister... Sicily is Laharl's little sister... Am I someone's little sister, too!?
+**Sicily:** How would I know...?
+
+Etna outside of the Base Panel after ending turn
+**Etna:** I don't want to waste time on these guys... Dammit, this is annoying!
+
+++ Ep. 7 Immoral's Haven
+**The Fool's Ruins**
+Number of Convos: 3
+
+Laharl & Sicily
+**Sicily:** Big Brother... Did you just protect me?
+**Laharl:** No. Don't get me wrong. As Overlord, I can't let anyone just harm my vassal.
+
+Laharl attacks an enemy
+**Laharl:** Damn foolish angels... I'll teach them to fear the Overlord!
+
+Team Attack including Etna & Flonne
+**Flonne:** Everyone, relax! We can just talk this over!
+**Etna:** Okay, Flonne, let's start with a combo attack!
+**Flonne:** ...You didn't hear a single word I said, did you?
+
+**Evolving Scratches**
+Number of Convos: 3
+
+Laharl lifts Flonne
+**Laharl:** Hmmm... You've gained some weight, haven't you?
+**Flonne:** O-Of course not!
+
+Sicily outside of the Base Panel after ending turn
+**Sicily:** I don't want to go back to Celestia... Sorry I'm such a whiny sister...
+
+Etna outside of the Base Panel after Turn 2
+**Etna:** Seems like the Prince has opened up to Sicily... This is getting interesting...
+
+**Overflowing Mirror**
+Number of Convos: 3
+
+Laharl & Sicily
+**Laharl:** Accusing me of kidnapping? Angels believe things too easily.
+**Sicily:** Let me clarify one thing... It's a fact that I'm your little sister.
+
+Etna & Flonne
+**Etna:** We can't let those angel soldiers take Sicily...
+**Flonne:** Right.
+**Etna:** But, if they paid us...we'd think about it, right?
+**Flonne:** No...
+
+Flonne outside of the Base Panel after Turn 2
+**Flonne:** Although he may not always show it... Laharl is really kind to Sicily. I think somewhere in his heart, he has accepted Sicily as his littler sister.
+
+**Fallen Angel Requiem**
+Number of Convos: 3
+
+Laharl & Flonne
+**Laharl:** Are you okay with fighting angels?
+**Flonne:** Well, even if I said no, you'd still make me fight them, right?
+**Laharl:** Right.
+
+Etna & Sicily
+**Etna:** Those angel soldiers were staring you down... Do you know them?
+**Sicily:** I don't know them, but they might know me...
+**Etna:** ...?
+
+Team Attack including Laharl & Sicily
+**Laharl:** You've already hurt some angel soldiers, so you don't need to hold back, right? All right, Sicily! It's Bloodbath Time!
+**Sicily:** B-Big Brother... Ohhh, whatever!!!
+
+**Precipitating Hatred**
+Number of Convos: 3
+
+Flonne & Sicily
+**Sicily:** Hey Mommy...
+**Flonne:** What!?
+**Sicily:** S-Sorry, my mistake! How embarrassing...
+**Flonne:** Oh, no, it's okay. Don't worry about it. Do I really look that old...?
+
+Flonne lifts Etna
+**Flonne:** Oh, Etna... Those are surprisingly cute...
+**Etna:** H-Hey, don't look!
+
+Laharl attacks an enemy
+**Laharl:** Angel weaklings! Don't take me lightly! I will crush you!
+
+**Phantom's End**
+Number of Convos: 3
+Note: This is one of two battles where you have the chance to view Virunga's special skill **Angels Unite!**, make sure to see this if you are going for all special skills seen.
+
+Sicily & Virunga
+**Virunga:** It's not too late. Take my loving hand, and I will lessen your sins.
+**Sicily:** ...Sorry. I want to stay with the Overlord--my big brother!
+
+Virunga attacks your units or heals his ally as the first command
+**Virunga:** It is my mission to bring every angel back to Celestia. Those who get in my way shall receive divine punishment!
+
+Laharl attacks Virunga
+**Virunga:** Wh-Why...? Why is a demon protecting that angel!?
+**Laharl:** Well, that's obvious. Cuz I want to!
+
+++ Ep. 8 Crystal Castle
+**Dark Impact**
+Number of Convos: 3
+
+Laharl & Etna
+**Laharl:** Dammit, Grosso... I thought they accepted me!
+**Etna:** Maybe, uh...they're going through puberty...
+**Laharl:** Dammit, they're such a hassle... They must go through vassal retraining.
+
+Laharl & Flonne
+**Laharl:** What do they plan on achieving by trapping themselves in there like that?
+**Flonne:** Maybe they wanna catch up on their backing of games, or read up on their forums and laugh to themselves... Sounds like fun!
+**Laharl:** You think that's fun? There's something wrong with you...
+
+Flonne & Sicily
+**Sicily:** It's kind of late to bring this up, but I guess it's really hard for demons to stand flower fields, huh?
+**Flonne:** I hear that they get nauseous and lose all their will to do anything.
+
+**Dark Barren Road**
+Number of Convos: 3
+
+Laharl & Sicily
+**Sicily:** I'm gonna meet my new daddy... I'm getting so nervous...
+**Laharl:** Let me tell you one thing... He definitely is not your old man.
+
+Team Attack including Etna & Flonne
+**Flonne:** Having you around is like having 100 people fighting by my side!
+**Etna:** That's hardly a complement...
+**Flonne:** Having you around is like having 100,000 horsepower!
+**Etna:** It's not about the number...
+
+Etna outside of the Base Panel after ending turn
+**Etna:** Maybe the new Krichevskoy is just King Krichevskoy reincarnated... The Netherworld has been weird lately, so I don't think that'd be too far out of the ordinary♪
+
+**Vile Black Crystal**
+Number of Convos: 3
+
+Flonne & Sicily
+**Sicily:** I think I should search for the angels alone... I can't handle all the violence, although he is helping me...
+**Flonne:** That might be true...but I don't think Laharl will back off after coming this far.
+**Sicily:** Yeah, you're right...
+
+Laharl lifts Sicily
+**Sicily:** Whoa! B-Big Brother! I'm too old for this! This is so embarrassing♪
+**Laharl:** Stop that! We're not playing around here! Don't get the wrong idea!
+
+Etna outside of the Base Panel after Turn 2
+**Etna:** The crystals here look expensive... I'm gonna order the Prinny Squad to take 'em back.
+
+**Fallen Destroyer**
+Number of Convos: 3
+
+Laharl & Sicily
+**Sicily:** Randomly choosing an Overlord? I guess anything goes in the Netherworld...
+**Laharl:** Although, a normal demon would try to challenge him as Overlord, so in the end it wouldn't matter.
+
+Etna attacks an enemy
+**Etna:** The New King Krichevskoy!? I'm pissed! I'm gonna blast everyone here!
+
+Flonne outside of the Base Panel after Turn 5
+**Flonne:** Hmmm... What do I need to do to see Garungun's obsidian wings? Do we need to encourage his delusions?
+
+**Shadow of Misfortune**
+Number of Convos: 3
+
+Laharl & Flonne
+**Flonne:** Now that you know Sicily really is your little sister, why don't you get to know her better?
+**Laharl:** That's none of your business.
+**Flonne:** According to this novel I'm reading, it's normal for a brother and sister to become romantically involved...
+**Laharl:** Throw that away...
+
+Etna & Sicily
+**Etna:** So, you really were the Prince's little sister, huh?
+**Sicily:** I've been saying that all along!
+**Etna:** ...Good luck.
+**Sicily:** Wait, why!?
+
+Sicily outside of the Base Panel after Turn 4
+**Sicily:** What's going to happen to me? I hurt an angel... Am I going to become a fallen angel, like Flonne? But I guess then I'll be able to stay with Big Brother, so that's okay...
+
+**Utopian Abyss**
+Number of Convos: 3
+
+Etna & Flonne
+**Flonne:** Wh-What happened!? The Netherworld inside the wall started crumbling...!
+**Etna:** How would I know...? But this does look pretty serious. We should probably run.
+
+Laharl attacks Barbara
+**Laharl:** I have more important things to do than deal with you! Get lost! Shoo!
+
+Barbara attacks Sicily
+**Barbara:** Orders are absolute. I will not let anyone pass!
+**Sicily:** That's not right! Everyone in the Krichevskoy Group is in trouble!
+**Barbara:** My orders are my number one priority! If you have a problem with that, defeat me to prove to me that you are correct.
+
+If you do not finish this battle within 5 turns you will get the **Netherworld Collapse Ending**. Alternatively you can get this ending by having 20 ally kills by this battle of your current cycle.
+
+++ Ep. 9 All the Netherworld
+**Ice Beast's Scream**
+Number of Convos: 3
+
+Laharl & Pure Flonne
+**Laharl:** Aren't you embarrassed to dress like that?
+**Pure Flonne:** Stop it, Laharl. Don't look at me all perverted like that!
+**Laharl:** You're full of it!
+
+Etna & Pure Flonne
+**Etna:** Huh? Flonne... Your waist looks bigger after transforming...
+**Pure Flonne:** N-N-No! I think you're just seeing things!
+
+Pure Flonne & Sicily
+**Sicily:** Flonne is so cool! I want to be an Archangel, too!
+**Pure Flonne:** I'll ask the Seraph for you the next time I see him.
+**Sicily:** Really!? Yay!
+
+**Empty Blooms**
+Number of Convos: 3
+
+Etna & Sicily
+**Sicily:** It's sad to see that the place where you were born has changed.
+**Etna:** This place has nothing to do with me...
+
+Team Attack including Laharl & Pure Flonne
+**Pure Flonne:** Laharl! Now is the time to unveil our special move! Pure Justice!
+**Laharl:** What the hell are you talking about!? Don't drag me into this!
+**Pure Flonne:** Here we go! Hiii-ya!
+
+Pure Flonne outside of the Base Panel after ending turn
+**Pure Flonne:** I thought that if I had the powers of an Archangel, I'd be able to find the angels easily... I guess I can't do my best when I'm in the Netherworld...
+
+**Squirming Fear**
+Number of Convos: 3
+
+Laharl & Pure Flonne
+**Pure Flonne:** If I had an angel staff... I could do an even more powerful transformation... I just can't...
+**Laharl:** What, don't have enough angel power?
+**Pure Flonne:** No, I just can't afford to buy the staff. What should I do, Laharl?
+**Laharl:** I'm not lending you any money...
+
+Etna & Sicily
+**Etna:** You transformed out of nowhere, I feel like you're getting special treatment...
+**Sicily:** You transformed into Player 2 colors, like from a fighting game.
+**Etna:** That's not the same...
+
+Pure Flonne protects Etna
+**Pure Flonne:** Don't worry, Etna. The more she gets injured, the stronger Pure Flonne gets!
+**Etna:** You sound like some warrior race from outer space.
+
+**Wandering Death**
+Number of Convos: 3
+
+Laharl & Pure Flonne
+**Pure Flonne:** I feel your love power inside of me!
+**Laharl:** Stop it! That's embarrassing!
+
+Etna & Sicily
+**Sicily:** Now that Flonne's love power is fully charged, we can go find the angels!
+**Etna:** In that case, why didn't she charge up before we started?
+
+Pure Flonne outside of the Base Panel after ending turn
+**Pure Flonne:** Hmhmhm...I'm relieved... Even Laharl, a demon, had love inside of him.
+
+**Drift of Evil Intent**
+Number of Convos: 3
+
+Laharl & Etna
+**Etna:** Since Rainier and the others are looking for the angels, why do we have to look, too?
+**Laharl:** If we left her alone, Flonne could've done something stupid...
+**Etna:** Huh? Are you that worried about Flonne?
+**Laharl:** No! Don't get the wrong idea!
+
+Team Attack including Pure Flonne & Sicily
+**Pure Flonne:** Sicily, now is the time to combine our angel powers! Twin Angel Wave!
+**Sicily:** Got it, Flonne! Angel Spiral Attack!
+**Pure Flonne:** No! Angelic Love Heart!
+**Sicily:** Let's just attack already...
+
+Laharl outside of the Base Panel after Turn 3
+**Laharl:** So angels are missing... It might have something to do with the things that are going on here. What's going on...?
+
+**Netherworld Maw**
+Number of Convos: 3
+
+Pure Flonne & Barbara
+**Pure Flonne:** Please! Please let that angel go.
+**Barbara:** Damn angel... Are you trying to mess with my mind? I won't let you...!
+**Pure Flonne:** No, Barbara...
+
+Laharl attacks Barbara
+**Laharl:** The Overlord won't lose to an order-waiting demon. I'll show you how things are done. Take this!
+
+Barbara attacks
+**Barbara:** I am following orders! Is that not the right thing to do...!? Don't try to trick me!
+
+If you lose this battle while Pure Flonne has max likeability with at least 3 characters you will get the **Pure Flonne the Awakened Angel Ending**.
+
+++ Ep. 10 Inside Netherworld
+**Ever Shifting Lands**
+Number of Convos: 3
+
+Laharl & Sicily
+**Sicily:** Big Brother, don't push yourself to death.
+**Laharl:** I'm the Overlord. It'll take more than Xenolith to kill me.
+
+Etna & Pure Flonne
+**Pure Flonne:** Xenolith can create demons from magic... That's pretty amazing.
+**Etna:** Now's not the time to be impressed! Just get rid of them!
+
+Etna & Sicily
+**Sicily:** Etna, let's talk Big Brother out of this! We can't win.
+**Etna:** I don't want to. If you wanna stop him, do it yourself.
+**Sicily:** But...
+
+**Ruthless Cave**
+Number of Convos: 3
+
+Laharl & Pure Flonne
+**Pure Flonne:** We'll all make it back alive for sure, right Laharl? Do you promise?
+**Laharl:** Yeah, of course.
+
+Laharl protects Etna
+**Etna:** Well done, Prince! Keep up the good work.
+**Laharl:** I don't like this...
+
+Etna outside of the Base Panel after ending turn
+**Etna:** Xenolith is my brother... That's just wrong. But with that being the case, if I don't take care of this. I'll always regret it.
+
+**Netherworld's Crust**
+Number of Convos: 3
+
+Laharl & Sicily
+**Sicily:** (...Big Brother, I've made my decision, If anything happen...I'm going to--)
+
+Laharl attacks an enemy
+**Laharl:** How much longer do I need to deal with these weaklings...!? I still can't sense Xenolith... Dammit!
+
+Pure Flonne outside of the Base Panel after ending turn
+**Pure Flonne:** I feel a stronger trace of the angels... I hope they're okay...
+
+**Zygote of Pain**
+Number of Convos: 3
+Note: This is the second and last battle where you have the chance to view Virunga's special skill **Angels Unite!**, make sure to see this if you are going for all special skills seen.
+
+Laharl & Pure Flonne
+**Pure Flonne:** I got goose bumps when the Archangel, Grosso, and everyone else came to help! That truly is the power of love! This is what I was waiting for!
+**Laharl:** Ha! I don't care about love or whatever... I'm gonna make them bust their asses for me.
+
+Pure Flonne & Sicily
+**Pure Flonne:** What's wrong, Sicily? You have a very intense look on your face...
+**Sicily:** Huh? Oh, it's nothing... We need to save the angels!
+**Pure Flonne:** ...Yeah, you're right.
+
+Team Attack including Pure Flonne & Etna
+**Pure Flonne:** Etna! It's time to use our special skill, Pure Flonne Break Through!
+**Etna:** Yeah...
+**Pure Flonne:** Wh-What's wrong!? Are you not feeling well!?
+**Etna:** Let's just get this over with.
+
+**Netherworld's Guts**
+Number of Convos: 3
+Note: This is your only chance to see Xenolith's special skills **Dark Phenomenon** and **Chaos Divider**, make sure to see them if you are going for all special skills seen.
+
+Laharl attacks Xenolith
+**Laharl:** Xenolith, you're strong, I'll give you that... But I won't lose. As the Overlord, and as a big brother!
+
+Etna attacks Xenolith
+**Etna:** I'm gonna be the one who kills you...
+**Xenolith:** Kill me if you can...
+**Etna:** Don't take me lightly... I'll show you my full power!
+
+Xenolith attacks Laharl
+**Xenolith:** Overlord Laharl...I praise you for your determination to persevere, knowing that you cannot win. Make no mistake, you will lose. Sleep well in this Netherworld covered by flowers.
+
+If Etna has zero likeability with at least 3 characters after winning this battle you will get a yes or no choice after the cutscene (or skip it). Picking yes will give the **Etna's Magic Overload Ending**.
+
+**Where Evil is Born**
+Number of Convos: 3
+Note: This is your only chance to see Xenolith (Final)'s special skill **Dimension Chaos**, make sure to see this if you are going for all special skills seen. This battle is immediately after Netherworld Guts.
+
+Pure Flonne & Sicily
+**Pure Flonne:** Xenolith, snap out of it!
+**Sicily:** ...It's no use. I don't think he can hear us anymore.
+**Pure Flonne:** Is fighting him our only choice...?
+**Sicily:** Xenolith...
+
+Laharl attacks Xenolith (Final)
+**Laharl:** How pitiful, Xenolith... But you won't get any sympathy from me. There's nothing for me to gain from it. I'm only going to destroy that artifact to turn the Netherworld back to normal. You can hate me all you want...!
+
+Etna attacks Xenolith (Final)
+**Etna:** This happened to you because you refused to destroy the artifact. Dammit...I can't stand this. Let me just end this for you.
+
+If you lose this battle you will get the **Sicily's Sacrifice Ending**. If you win this battle you will get the **True Ending**.
+
++ Training: Cave of Ordeals
+To unlock this you need 7000 mana and pass the topic "Cave of Ordeals". On new cycles you will need to pass this topic again.
+
+**Cave of Ordeals 1**
+Number of Convos: None
+
+**Cave of Ordeals 2**
+Number of Convos: None
+
+**Cave of Ordeals 3**
+Number of Convos: None
+
+**Cave of Ordeals 4**
+Number of Convos: None
+
+**Cave of Ordeals 5**
+Number of Convos: None
+
+**Cave of Ordeals 6**
+Number of Convos: None
+
++ Detour: Prinny Land
+Prinny Land is interesting, while being a side area you can access one half of the area during the main story while the harder second half is accessed during Post Game. On new cycles these will be removed so you will have to pass the topic again after reaching Episode 8.
+
+**Detour: Prinny Land**
+**First Available:** Ep. 8
+**Topic:** Prinny Land!
+**Mana Cost:** 1000
+
+**Prinny Land 1**
+Number of Convos: 3
+
+Etna, Sicily & Enemy Prinny
+**Etna:** Eh-hmhmhm♥ Wh-What!? My sexy attack isn't working! There's something very wrong with these Prinnies!
+**Sicily:** Uh, I don't think I've ever seen that work...
+
+Flonne & Enemy Prinny
+**Flonne:** Don't look at me so much. It's embarrassing...
+**Prinny:** ...Ugly...dood.
+**Flonne:** Hey!!!
+
+Laharl attacks an enemy
+**Laharl:** You've got guts, Prinny! To mad-dog the Overlord like that...! Looks like you've got a death wish! I'll destroy all of you!
+
+**Prinny Land 2**
+Number of Convos: None
+
+**Prinny Land 3**
+Number of Convos: 3
+Prize: **Prinny Day Every Day** option in the cheat shop
+
+Sicily & Enemy Prinny
+**Sicily:** Prinny, do you want a cookie?
+**Prinny:** ...Sure...dood.
+**Sicily:** I guess you can still talk.
+
+Etna & Flonne team attack
+**Etna:** Prinnies should just follow my ridiculous orders!
+**Flonne:** So you knew they were ridiculous all along?
+
+Laharl outside of Base Panel after ending turn
+**Laharl:** It doesn't matter if you fight me by the millions, you're still just Prinnies. You can't beat me!
+
+**Prinny Land 4**
+**First Available:** During Post Game after completing Prinny Land 3
+**Topic:** Prinny Land! Part 2
+**Mana Cost:** 200000
+Number of Convos: None
+
+**Prinny Land 5**
+Number of Convos: None
+
+**Prinny Land X**
+Number of Convos: 3
+Prizes (First version): +100 CP to spend, Cheat Shop max +200% and Explosion Range unlocked
+Prize (Repeated version under Normal setting): Cheat Shop max +200%
+Prizes (Repeated version under LoC setting): **Everyone Is a Bomb** option in the cheat shop and Product Rank 12
+
+Note: The first version of this map is the only one that has the **Prinny Suit**. MAKE ABSOLUTELY SURE YOU STEAL THIS, if you complete this map you will never get another chance at the Prinny Suit (it's the only missable item in the game) other than replaying the entire game to Post Game all over again. You can however steal the Prinny Suit and lose on purpose to get multiples of it (look for a Legendary Makai Wars while you're at it) as items stolen are kept even if you lose.
+
+Laharl & Etna
+**Etna:** I heard that Pringer X is even stronger than a final boss. We can't take it too lightly.
+**Laharl:** It's still a Prinny, right? There's no way it can beat me.
+
+Laharl & Sicily
+**Sicily:** Pringer X is really strong... are you okay, Big Brother?
+**Laharl:** I was taking it too lightly! Now it's time for the real deal!
+**Sicily:** If you say so... Don't hurt yourself.
+
+Flonne & Pringer X
+**Flonne:** Wow♥ This is the transforming robot I've always dreamed of! I wonder if I can make one, too...
+
++ Extra Maps
+These maps are meant to be done after finishing the main story. The prizes for these maps vary from either a new member added to your party, additional CP to use in the Cheat Shop or an increase in the maximum you can set the Cheat Shop to have. Laharl's gender and Etna/Flonne's form do not matter for these as the lines will always be the same.
+
+**Detour: Unending Concert**
+**First Available:** Ep. 6
+**Topic:** Meet a Super Idol(?)!
+**Mana Cost:** 200
+
+**Idol Declarations** 
+Number of Convos: 3
+
+Laharl & Etna
+**Laharl:** A self-proclaimed super idol...? What an idiot...
+**Etna:** It's just as idiotic as proclaiming yourself to be the Overlord.
+
+Laharl & Sicily
+**Sicily:** Where did that self-proclaimed super idol go?
+**Laharl:** Do I really even need to chase after her?
+
+Etna & Flonne
+**Etna:** How could she claim to be a super idol while I was standing right in front of her, Flonne!?
+**Flonne:** Ummm...I don't know how to answer that. So...no comment.
+
+**Super Debut Project**
+Number of Convos: 3
+Prize: Asagi joins your party
+
+Laharl & Asagi
+**Asagi:** Why won't you get me an audience? Wait, no, I get it! You're trying to keep me all to yourself! You're so selfish!
+**Laharl:** Someone better call for the short bus...
+
+Sicily & Asagi
+**Asagi:** I'll give all my underage fans my autograph!
+**Sicily:** Uh...umm...thanks?
+**Asagi:** Take it home and hang it on your wall or something...
+
+Asagi attacks
+**Asagi:** This is what I need to do to become a super idol! I won't lose!
+
+**Detour: Piglet's Growth**
+**First Available:** Ep. 7
+**Topic:** As Overlord, I Accept Any Challenge!
+**Mana Cost:** 500
+**Prize:** Porkmeister joins your party
+
+**Stress Training**
+Number of Convos: 3
+
+Etna & Flonne
+**Flonne:** Time can be so cruel... Porkmeister used to be so cute. Now he's just so...
+**Etna:** If I knew this was gonna happen, I would've just killed him.
+**Flonne:** Yeah... W-Wait, what!? No!
+
+Sicily & Porkmeister
+**Porkmeister:** You dropped some coins. You should be more careful about dropping your stuff.
+**Sicily:** Th-Thank you... I can't fight him!
+
+Porkmeister attacks Laharl
+**Porkmeister:** I don't want to hurt you, but... I have to in order to become a proud and noble Overlord.
+
+**Post: Melancholy of Barbara**
+**First Available:** Post Game
+**Topic:** Where Are the Cats!?
+**Mana Cost:** 1000
+**Prizes:** Barbara joins the party (permanently), +25 CP to spend and Cheat Shop max +50%
+
+**Orders Received**
+Number of Convos: 3
+
+Laharl & Barbara
+**Laharl:** Hey, Barbara! You don't have time to play with cats!
+**Barbara:** Master Overlord, I am not playing. I am following an absolute order from Master Cat. I can't leave until I carry out my orders.
+**Laharl:** I don't even know what to say to that. I guess I'll just have to force you to come back...
+
+Sicily & Barbara
+**Sicily:** Barbara! I thought you were going to think about what you wanted to do!
+**Barbara:** My head is full of orders from Master Cat. I can't think of anything else right now.
+
+Barbara attacks
+**Barbara:** Master Cat needs my protection! I won't let anyone get in my way!
+
+**Post: Kid Death's Lament**
+**First Available:** Post Game
+**Topic:** Meet the President's Son
+**Mana Cost:** 2000
+**Prizes:** Emizel joins the party, +50 CP to spend and Cheat Shop max +100%
+
+**Netherpower Struggle**
+Number of Convos: 3
+
+Etna & Sicily
+**Sicily:** So we kind of picked a fight, but... Do you think we should stop them?
+**Etna:** Pfft, who cares? This looks like it could be fun.
+
+Flonne & Emizel
+**Flonne:** Umm, I'm sure you're just confused... Let's just relax and talk it over.
+**Emizel:** Shut up, you old hag!
+**Flonne:** Old ha---!? ...I have no choice. I guess I'll just have to discipline you!
+
+Laharl attacks Emizel
+**Laharl:** Hey, dimwit! Now would be a good time for you to apologize!
+**Emizel:** Shut up! You're the dimwit! Now you apologize to me!
+**Laharl:** This kid doesn't know how to shut up... Fine, I'll teach you personally!
+
+**Post: Eye Beams**
+**First Available:** Post Game
+**Topic:** Girl Who Shoots Beams From Her Eyes!
+**Mana Cost:** 5000
+
+**Mysterious Girl**
+Number of Convos: 3
+
+Laharl & Flonne
+**Flonne:** Flonne Beam! Laharl, what's wrong with me? My eyes aren't shooting beams.
+**Laharl:** Everything is wrong with you...
+
+Etna & Sicily
+**Sicily:** I never knew demons could shoot beams from their eyes!
+**Etna:** And I'm not jealous at all...
+
+Flonne outside of Base Panel after ending turn
+**Flonne:** I wonder if I can shoot beams from my eyes, too... Maybe she can teach me!
+
+**Red Overlord Search**
+Number of Convos: 3
+Prizes: Petta joins the party and +25 CP to spend
+
+Laharl & Petta
+**Laharl:** I hold the title of the most badass freakin' Overlord. Got a problem with that? Then fight me!
+**Petta:** It's not easy dealing with children... I'm gonna make you cry!
+
+Flonne & Petta
+**Flonne:** Beams from your eyes...!? I'm so jealous!
+**Petta:** ...No one's ever said that to me before. But plenty of people have looked at me with pity in their eyes before...
+
+Sicily & Petta
+**Sicily:** There's an Overlord that looks like a book!?
+**Petta:** Well, uh...he kind of is a book... in any event, he's a badass Overlord.
+**Sicily:** It seems like there's some complicated reason behind all this...
+
+**Post: Dark Hero Show**
+**First Available:** Complete Super Debut Project
+**Topic:** Meet a Super Dark Hero!
+**Mana Cost:** 10000
+**Prizes:** Axel joins your party, +50 CP to spend and Cheat Shop max +100%
+
+**Behind the Star**
+Number of Convos: 3
+
+Laharl & Axel
+**Axel:** Contestant No.1, Axel the Dark Hero! I'm ready for the singing portion of the competition!
+**Laharl:** Don't you dare!
+**Axel:** Okay, then the swimsuit portion!
+**Laharl:** What!? Why!?
+
+Etna & Axel
+**Axel:** Oh, jeez. You're stalking me, aren't you?
+**Etna:** What?
+**Axel:** Oh, I know...I'll give you a hug! Just don't tell anyone♥
+**Etna:** Get lost.
+
+Sicily & Axel
+**Axel:** I see, I see. You want my autograph, right?
+**Sicily:** Nope...
+**Axel:** You're still young. You shouldn't hold back♥ Here, I'll sign your shirt with this super permanent marker♪
+**Sicily:** Stop it!
+
+**Post: Kidnapper of Avarice**
+**First Available:** Complete Stress Training
+**Topic:** Chase the Phantom Thief!
+**Mana Cost:** 20000
+**Prizes:** Artina joins your party, +50 CP to spend
+
+**Angel's Explanation**
+Number of Convos: 3
+
+!Laharl & Artina
+**Laharl:** So angels these days kidnap demons, huh...? I guess I was taking them too lightly.
+**Artina:** What!? No, wait! Listen to what I'm telling you!
+**Laharl:** Hmph! I don't negotiate with Criminals! I shall crush you!
+**Artina:** Why!?
+
+!Flonne attacks Artina
+**Flonne:** We are negotiating with the suspect! Don't resist! Just give yourself up!
+**Artina:** Ummm...are you...
+**Flonne:** We are detained the suspect!
+**Artina:** W-Wait!
+(That typo is there, it should be "We have")
+
+Sicily outside of Base Panel after ending turn
+**Sicily:** Darn it, the Netherworld and Celestia are getting along nicely right now... What is that angel trying to pull here?
+
+! Does not trigger if Artina is mounted
+
+**Post: Challenging a Tyrant**
+**First Available:** Complete Netherpower Struggle
+**Topic:** Visit Hades!
+**Mana Cost:** 50000
+
+**Unknown Enemy**
+Number of Convos: 3
+
+Laharl & Flonne
+**Flonne:** I didn't know Prinnies were made in factories.
+**Laharl:** I heard some Prinnies have eyebrows. I guess every factory is bound to make a few defective products.
+**Flonne:** Eyebrows, huh? I want to find one of those!
+
+Laharl & enemy Prinny
+**Laharl:** So you're Tyrant Valvatorez?
+**Prinny:** D-Do I look him, dood!?
+**Laharl:** Not at all...
+**Prinny:** You were just messing with me!? That's cold-blooded, dood!
+
+Etna & Sicily
+**Sicily:** I want to see the Prinny factory!
+**Etna:** You want to see that disgusting place? Sicily, I seriously don't get you sometimes...
+
+**The Strongest Proof**
+Number of Convos: 3
+Prizes: Valvatorez & Fenrich join your party, +100 CP to spend, Cheat Shop max +50% and Product Rank 11
+
+Laharl & Valvatorez
+**Laharl:** I'll warn you right off the bat, you better give me your best shot... Otherwise, this'll be over quick.
+**Valvatorez:** Don't worry, I won't take anyone who dares to fight me head on lightly. Let's make this a good fight.
+
+Etna & Fenrich
+**Etna:** Wait, what kind of relationship do you have with Valvatorez? It's a little... You know...
+**Fenrich:** I don't need to tell you this, but... Our relationship is strong.
+**Etna:** Ohhh, I get it...
+**Fenrich:** I only have one thing to say... I hate lasses like you.
+
+Valvatorez & Fenrich
+**Valvatorez:** Fenrich.
+**Fenrich:** I know, my Lord. Fresh sardines, freshly caught from the sea.
+**Valvatorez:** Good... Regroup so we can eat sardines. Follow me!
+**Fenrich:** Yes, my lord!
+
+**Post: Evilest Man**
+**First Available:** Complete The Strongest Proof
+**Topic:** Final boss From a Different Netherworld!
+**Mana Cost:** 100000
+
+**An Arrogant Betrayal**
+Number of Convos: 3
+
+Laharl & Sicily
+**Laharl:** Why aren't you accepting me as your Overlord? No one is more qualified! Right, Sicily?
+**Sicily:** R-Right...
+
+Etna & Flonne
+**Flonne:** So I guess they all regret becoming your vassal...
+**Etna:** Oh, I totally get how they feel. All those times I though about assassinating him in his sleep...!
+**Flonne:** Sometimes I wonder why you're still his vassal...
+
+Laharl outside of the Base Panel after ending turn
+**Laharl:** A final boss-type opponent, huh? Hmhmhm...interesting. I'll show you the power of an Overlord.
+
+**The Outside Ringer**
+Number of Convos: 3
+Prizes: Grosso, Rainier & Garungun join your party, +100 CP to spend, Cheat Shop max +100% and Rasetsu Mode unlocked
+
+Note: You can only fight Darkdeath Evilman once per playthrough and he doesn't join you, make absolutely sure you see all of his special skills. For a video on how to get him to use all skills [https://www.youtube.com/watch?v=Cf40Wd_WaNE watch this]
+
+Flonne & Sicily
+**Flonne:** They weren't lying when they said he was final boss-like. This is going to be hard...
+**Sicily:** He's not just one of those people who look like a final boss... What is Big Brother going to do...?
+
+Laharl attacks Darkdeath Evilman
+**Laharl:** I don't care if you are a final boss, you never should've stood in my way! I'll make you regret coming to me Netherworld!
+
+Darkdeath Evilman attacks Etna
+**Etna:** Ouch... I don't want to do this anymore. I'll just leave the rest to you, Prince.
+
++ Challenge: Ultimate Play Through
+This map is unique in that it only appears when Rasetsu Mode is on even if LoC Mode is off.
+
+**Tyrant Overlord War**
+**First Available:** Complete The Outside Ringer
+**Prizes:** (Infinitely repeatable) Great Ball Horn and Super Time Engine
+Number of Convos: 3
+
+Laharl & Etna
+**Etna:** Didn't you defeat Tyrant Overlord Baal that one time? I guess I formed a better impression of you too quickly...
+**Laharl:** Did you say something?
+**Etna:** Nope, nothing at all.
+
+Flonne & Sicily
+**Flonne:** Reviving and coming back stronger...Can I do that, too!?
+**Sicily:** Uhhh, I wouldn't suggest trying it...
+
+Laharl attacks Baal
+**Laharl:** You want to fight me again, after what I did to you before!? I'll crush you into a million pieces so you'll never be able to come back again!
+
++ Endings
+Trademark of the Disgaea series there are multiple endings to the game. All Endings will lead to a new cycle with the exception of the True Ending which leads to Post Game, all endings obtained can be re-viewed from the Red Mage NPC Memoria. 
+
+||~ Name ||~ Requirement ||
+|| Overlord Sicily Ending || Lose to Sicily in Ep. 2-6 Silver Witch. ||
+|| The Fall of Overlord Laharl Ending || Lose to Barbara in Ep. 3-6 Inner Sanctum. ||
+|| Girl Laharl Forever Ending || Lose to Hoggmeiser in Ep. 4-4 Green Room. ||
+|| Netherworld Collapse Ending || Have 20 ally kills or have 5 turns pass in Ep. 8-6 Utopian Abyss. ||
+|| Pure Flonne the Awakened Angel Ending || Pure Flonne has at least 3 characters with max likeability and lose to Barbara in Ep. 9-6 Netherworld Maw. ||
+|| Etna's Magic Overlord Ending || Etna has at least 3 characters with zero likeability when clearing Ep. 10-5 Netherworld's Guts. Choose Yes after the cutscene. ||
+|| Sicily's Sacrifice Ending || Lose to Xenolith (Final) in Ep. 10-6 Where Evil is Born. ||
+|| True Ending || Win against Xenolith (Final) in Ep. 10-6 Where Evil is Born. ||
+
++ Missing Weapons
+You may notice 3 particular weapons you may be missing, notably 2 Spears and 1 Staff. These items can only be obtained during Post Game after fulfilling certain conditions.
+
+||~ Name ||~ Weapon Type ||~ Requirement ||
+|| Longinus || Spear || Talk to Zommie with a character who has at least 25 Weapon Mastery with a Spear. ||
+|| Elder Spear || Spear || Examine the corner of the bookshelf near Memoria. Etna must not be following you and you must not be using her around the Castle. ||
+|| Pure Stick || Staff || Have a character with max likeability speak to Pure Flonne when she's not following you. ||
+
++ Power Leveling
+Feel under powered and need a character to gain levels quickly? Certain maps can be done to gain levels quickly to help boost your characters that need an edge in levels. Note that some tips require Post Game abilities to take full advantage such as LoC stat stealing, Evility stealing etc.
+
+**2-2 Cold Breath**
+For this stage the Zombie's will not attack you if you are on the fence at the closest you can get to your base panel. The only time the Zombie's will attack you is if they jump on the fence and you didn't kill that one on your turn. The Shaman is the only other threat with the slew of Status Aliments she has at her disposal.
+
+This method will work until Enemy Strength is set to 16, from 17 to 20 the Zombie's will gain Zombie Tornado which bypasses their need to be close to you. 
+
+**2-6 Silver Witch**
+Enemy Strength: 7
+The Dragon's should be level 33. Kill one Dragon and fuse the other three together making it level 99, the experience given from this is equal to a level 323. You will want to make a tower so that multiple characters will get experience for killing it (they will all get the same amount of experience).
+
+**5-2 Ghostly Daydream**
+The only map with an Attack +1 Geo Panel you can take advantage of (outside of hoping for Attack +1 & Invincibility panels in the Item World) for special skill exp as long as the skill doesn't cause the user or target to move. Best done during Post Game on the final reincarnation with maxed Skill EXP (1000%) in the Cheat Shop. The Archers will stay still as long as you aren't in their attack range.
+
+**6-1 Frightening Forest**
+Enemy Strength: 9
+The Nekomata's should be level 99. They are standing on EXP+50% and Mana+50% panels in two separate groups of two by two. You can if you choose to use a tower for multiple members to gain levels however you will want to be certain the member at the bottom can handle the damage from the Nekomata's as they will rush you on their turns.
+
+**7-3 Overflowing Mirror**
+This map is best for increasing Weapon Mastery. The area you want to be in is the Aqua one with Reverse Damage Panels on it. Create up a Martial Artist with the Forced Counter Evility and Double Counter stolen Evility from the Fight Mistress and have them attack the Humanoid you want to increase Weapon Mastery with having Forced Counter as their stolen Evility. Leave the Angel's on the Red Panels alive to take advantage of this as they will never attack you (unless you end turn on the Base Panel) due to the Geo Effect. With the maximum Weapon Mastery setting in the Cheat Shop (1000%) and max Sparring Partner (1900 effective cap) you can go from 0 to 255 in 8 minutes.
+
+**Cave of Ordeal 6**
+The repeated version of this map has 2 sets of Rahab's, one in a 2x3 formation with another behind them in a 3x3 formation. All are standing on EXP+100% and Mana+100% panels, a neat thing about them is as long as you stay 7 panels away from them they will not move which are detailed in the diagram below, this only works for magic users to have an easier time leveling up. If you are within 6 panels of them they will attack with Lorenzini which will hit 3 panels in front of their 3 movement range.
+[[include :fiction:roster:begin]]
+[[include :fiction:common:article-image |page=guide:disgaead2 |image= dd2frontsafespot.png |title=Front 6 Rahab's]]
+[[include :fiction:common:article-image |page=guide:disgaead2 |image= dd2backsafespot.png |title=Back 9 Rahab's]]
+[[include :fiction:roster:end]]
+
+**Normal setting**
+These are the stats the Rahab's can have when LoC Mode is set to Normal, Rasetsu Mode does not change the enemy stats. They aren't too hard to hit with a leveled Emblem as their SPD stat is quite low. Safe Damage is how much damage you will want to deal to every Rahab, in the case where you do not outright kill each one make sure to have 2 Mothman units with the Evility Full of Miasma and a Sorcerer so that you can put the ones who lived to sleep.
+||~ Enemy Strength ||~ Rahabs level ||~ Safe Damage ||
+|| 0 || 300 || 24K ||
+|| 1 || 362 || 28K ||
+|| 2 || 424 || 32K ||
+|| 3 || 486 || 37K ||
+|| 4 || 548 || 42K ||
+|| 5 || 610 || 46K ||
+|| 6 || 672 || 51K ||
+|| 7 || 734 || 55K ||
+|| 8 || 796 || 60K ||
+|| 9 || 858 || 63K ||
+|| 10 || 920 || 69K ||
+|| 11 || 982 || 73K ||
+|| 12 || 1044 || 78K ||
+|| 13 || 1106 || 82K ||
+|| 14 || 1168 || 87K ||
+|| 15 || 1230 || 91K ||
+|| 16 || 1292 || 96K ||
+|| 17 || 1354 || 100K ||
+|| 18 || 1416 || 105K ||
+|| 19 || 1478 || 109K ||
+|| 20 || 1540 || 114K ||
+
+**LoC without Rasetsu mode setting**
+These are the stats the Rahab's can have when LoC Mode is set to LoC with Rasetsu Mode set to None. They are a bit hard to hit at first, though due to LoC Bonus stats taking into effect, when you defeat them you will absorb a portion of their stats. Safe Damage is what you want displayed when you attack to kill every Rahab, while Safe HIT is how high your HIT stat should be to avoid missing. There is still the off chance that you will get a Nick so you may want to have a Gunner with the Assist Evility attack first before the character you want to level to guarantee a hit (until you get a Broken Cellphone if you want to use that instead). At Enemy Strength 0 the Rahabs will be at level 6500, but from 1 onward they will be level 9999 while still getting increases to their stats.
+||~ Enemy Strength ||~ Safe Damage ||~ Safe HIT ||
+|| 0 || 1M || 105K ||
+|| 1 || 3M || 320K ||
+|| 2 || 7M || 800K ||
+|| 3 || 12M || 1.3M ||
+|| 4 || 16M || 1.8M ||
+|| 5 || 20M || 2.3M ||
+|| 6 || 25M || 2.8M ||
+|| 7 || 30M || 3.3M ||
+|| 8 || 35M || 3.8M ||
+|| 9 || 40M || 4.3M ||
+|| 10 || 45M || 4.8M ||
+|| 11 || 48M || 5.3M ||
+|| 12 || 52M || 5.8M ||
+|| 13 || 57M || 6.3M ||
+|| 14 || 61M || 6.7M ||
+|| 15 || 65M || 7.2M ||
+|| 16 || 70M || 7.7M ||
+|| 17 || 74M || 8.2M ||
+|| 18 || 80M || 8.8M ||
+|| 19 || 84M || 9.1M ||
+|| 20 || 88M || 9.8M ||
+
+**LoC with Rasetsu mode setting**
+These are the stats the Rahab's can have when LoC Mode is set to LoC with Rasetsu Mode set to Rasetsu Mode. They are much harder to hit due to gaining a massive buff from their own LoC stats which go up by 150 Million HP/SP and roughly 5 Million in every other stat up until Enemy Strength 19 where they will cap at 3 Billion HP/SP and 99 Million in every other stat. Safe Damage is what you want displayed when you attack to kill every Rahab, while Safe HIT is how high your HIT stat should be to avoid missing. There is still the off chance that you will get a Nick so you may want to have a Gunner with the Assist Evility attack first before the character you want to level to guarantee a hit (until you get a Broken Cellphone if you want to use that instead). At Enemy Strength 0 the Rahab's will be at level 6500, but from 1 onward they will be level 9999 while still getting increases to their stats.
+||~ Enemy Strength ||~ Safe Damage ||~ Safe HIT ||
+|| 0 || 152M || 5.2M ||
+|| 1 || 306M || 10.7M ||
+|| 2 || 465M || 16.7M ||
+|| 3 || 624M || 22.6M ||
+|| 4 || 783M || 28.6M ||
+|| 5 || 942M || 34.5M ||
+|| 6 || 1G || 40.5M ||
+|| 7 || 1G || 46.4M ||
+|| 8 || 1G || 52.4M ||
+|| 9 || 2G || 58.6M ||
+|| 10 || 2G || 64.6M ||
+|| 11 || 2G || 70.5M ||
+|| 12 || 2G || 76.1M ||
+|| 13 || 2G || 82.5M ||
+|| 14 || 2G || 88.4M ||
+|| 15 || 3G || 94.4M ||
+|| 16 || 3G || 100M ||
+|| 17 || 3G || 106M ||
+|| 18 || 3G || 113M ||
+|| 19 || 3G || 119M ||
+|| 20 || 3G || 120M ||
+
+++ Maximizing Reincarnation
+While the Cheat Shop is able to go up to a maximum of 1000% you may be wondering what is the best setup to get the exact amount of EXP to get to Level 9999 in one battle and enough Mana to reincarnate immediately after. The remaining CP should be put in Weapon Mastery & Skill EXP to keep them from falling too low due to rapid repeated reincarnation, unless it's a monster unit in which all CP should go to Skill EXP.
+
+These tables assume you are using the following
+* 3 Emblems made for level grinding
+* 1 maxed Guardian (500 effective cap) within the 18 total slots
+* 2 maxed Manager's (300 each) within the 18 total slots
+* 15 maxed Statistician's (300 each) in the remaining slots
+
+**EXP**
+At Level 1 units have a certain amount of EXP needed to get to Level 2 which determines how much total EXP they need to reach Level 9999. You will need 15 full sets of maxed Statistician's (300 per stack) and set the EXP value in the cheat shop to what is listed below. The settings below are based on not having the character in the Punching Bags group in the Demon Dojo, no ally with the Happy Song Evility and LoC Mode set to LoC with at least 1 star at Cave of Ordeal 6.
+
+These tests were done with a Female Angel as they require 18 EXP for Level 2 which means they need the most to get to level 9999.
+||~ EXP for Level 2 ||~ EXP at Level 9999 ||~ Cheat Shop EXP setting ||
+|| 9 || 45,736,547,562 || 273% ||
+|| 12 || 60,982,063,416 || 364% ||
+|| 15 || 76,227,579,270 || 455% ||
+|| 18 || 91,473,095,124 || 546% ||
+
+**Info dump**
+At 1% with the setting above you will get 167,714,490 EXP from finishing CoO6.
+
+For characters who require 9 EXP for Level 2 the lowest in the game they will need the setting at 273% which will give them 45,787,436,985 EXP which is 50,889,423 more EXP than they need to reach Level 9999.
+
+For characters who require 12 EXP for Level 2 the 2nd lowest in the game they will need the setting at 364% which will give them 61,048,075,995 EXP which is 66,012,579 more EXP than they need to reach Level 9999.
+
+For characters who require 15 EXP for Level 2 the 2nd highest in the game they will need the setting at 455% which will give them 76,311,474,990 EXP which is 88,895,720 more EXP than they need to reach Level 9999.
+
+For characters who require 18 EXP for Level 2 the highest in the game they will need the setting at 546% which will give them 91,573,493,985 EXP which is 101,398,861 more EXP than they need to reach Level 9999 (though you'll hit the cap so that extra isn't displayed).
+
+**Mana**
+You will need 2 full sets of maxed Manager's (300 per stack) and set the Mana value in the cheat shop to what is listed below. All generic Humanoids and Monsters need the same amount at most with the exception of the Ifrit Class who need more Mana in its Tier 6 class compared to everyone else. The settings below are based on not having the character in the Book Stacks group in the Demon Dojo, no ally with the Fortune Song Evility and LoC Mode set to LoC with at least 1 star at Cave of Ordeal 6.
+
+||~ Character Type ||~ Most mana needed for Reincarnation at Genius ||~ Cheat Shop Mana setting ||
+|| Unique || 5,100 || 1% ||
+|| Generic Humanoids & Monster || 1,014,499 || 77% ||
+|| Ifrit || 1,016,499 || 78% ||
+
+**Info dump**
+As Unique characters only need 5,100 Mana putting the setting at 1% will give them 13,185 Mana which is all they will need unless you still need to increase Base Parameters or get more dislikes for Heart's Shadow Boost (if you don't want ally kills for them).
+
+Generic Humanoids and Monsters need at most 999,999 for reincarnation and at most an extra 14,500 Mana to reincarnate at Genius level, with the Mana setting at 77% they will get 1,016,205 Mana.
+
+The Ifrit class is the only class that its Tier 6 class needs 16,500 Mana to reincarnate at Genius level which gives it the total of 1,016,499 which is 294 Mana more than what you would get at 77%, thus if you use an Ifrit the setting should be made 78% so they can get 1,029,405 Mana from one battle.

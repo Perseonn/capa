@@ -1,0 +1,176 @@
+@title: Base Counting Trick
+@author: Perseonn Balthasaar
+@updated: 2015-12-18
+
+The final term exam problem I created have raised questions among my students, especially the base counting problem. For their note, the whole exam was a trick in itself. Carry on reading.
+
+Said exam allowed all students to carry their own handwritten note (A4 paper), time limit of 120 minutes, and have the following questions:
+# Points are given based on how well their assignment is (25 points, can be up to 30 points on extraordinary students)
+# Identify 5 UML Diagrams from given images (10 points)
+# Identify 10 video game controllers from given images (10 points)
+# Identify 10 video game consoles from given images (10 points)
+# Name all phases of Software Development Life Cycle (5 points)
+# Name all phases of Unified Process (5 points)
+# Convert all hexadecimal values into binary and decimal (20 points)
+# Create an activity diagram based on the student's typical Sunday (10 pts)
+
+From the first glance, #2 to #6 as well as #8 can be done in more less 20 minutes. Students gain points for #1 automatically just for doing the exam. Even if they skip #7, they already gain 80 points, more than enough to guarantee A for the majority of students (around 80% have the potential to reach A).
+
++ Dreaded #7
+However, students' feedback was mostly negative to #7, the base counting problem. Below is the problem of #7 as well as the reason for the number itself.
+
+++ Exam Problem
+Convert the following hexadecimal values into binary and decimal, conversion method must be provided (20 points)!
+
+
+||~ # ||~ Hexadecimal ||
+|| A || 0000 000F h ||
+|| B || 0000 00F0 h ||
+|| C || 0000 0F00 h ||
+|| D || 0000 F000 h ||
+|| E || 0001 0000 h ||
+|| F || 0000 0063 h ||
+|| G || 0000 03E7 h ||
+|| H || 0000 270F h ||
+|| I || 0001 869F h ||
+|| J || 05F5 E0FF h ||
+
+
+
+++ Trick 1: Time Soak
+#7 was intended as a time soak, i.e. to make students waste all their precious time before they do the easy #8. Students who were keen to this, will do #7 last. As stated above, 80% of this exam can be done in 20 minutes. The other 20% requires student to muster their concentration. From efficiency point, #7 is plain trap.
+
+++ Trick 2: The Easy Points
+#7 point A to F, 6 points total, are relatively easy compared to the other 4. Keen students will focus on this first 6, gaining a hefty 12 points and skip the rest.
+
+++ Trick 3: Imposing Length
+From point A to E, students will notice an increasing number of writing required since counting method is required. Peeking their neighbor did not help since the answer length that their friend wrote was imposing enough to make them reluctant. In reality, only converting to decimals required lengthy calculations, converting to binary has its own trick.
+
+++ Trick 4: Direct Binary Conversion
+I only taught how to convert hexadecimal to decimal (and vice versa), and binary to decimal (also vice versa). By this available methods, students automatically convert hexadecimal to decimal, then decimal to binary, requiring a two-step method which is not only redundant, but also very long.
+
+Of all 70 students (both night and day class), only 1 students succeeded in directly converting hexadecimal to binary. The exam problem itself even foreshadow this by stating "__hexadecimal values into binary__ and decimal".
+
+++ Hexadecimal to Binary: The Quick Conversion
++++ Step 1
+First, make a table to convert Decimal to Hexadecimal and Binary:
+
+
+||~ Decimal ||~ Hexadecimal ||~ Binary ||
+|| 0 || 0 || 0000 ||
+|| 1 || 1 || 0001 ||
+|| 2 || 2 || 0010 ||
+|| 3 || 3 || 0011 ||
+|| 4 || 4 || 0100 ||
+|| 5 || 5 || 0101 ||
+|| 6 || 6 || 0110 ||
+|| 7 || 7 || 0111 ||
+|| 8 || 8 || 1000 ||
+|| 9 || 9 || 1001 ||
+|| 10 || A || 1010 ||
+|| 11 || B || 1011 ||
+|| 12 || C || 1100 ||
+|| 13 || D || 1101 ||
+|| 14 || E || 1110 ||
+|| 15 || F || 1111 ||
+
+
+
+++ Step 2: Notice the pattern on A to D
+If you convert hexadecimal to decimal, to binary, here's what you get from the first 4 numbers:
+
+
+||~ # ||~ Hexadecimal ||~ Decimal ||~ Binary ||
+|| A || 0000 000F || 15 || 0000 0000 0000 1111  ||
+|| B || 0000 00F0 || 240 || 0000 0000 1111 0000  ||
+|| C || 0000 0F00 || 3840 || 0000 1111 0000 0000  ||
+|| D || 0000 F000 || 61440 || 1111 0000 0000 0000 ||
+
+
+Noticed something? Here's a detailed table:
+
++++ Problem A
+
+
+||~ 0 ||~ 0 ||~ 0 ||~ 0 ||~ ||~ 0 ||~ 0 ||~ 0 ||~ F ||
+|| 0000 || 0000 || 0000 || 0000 || || 0000 || 0000 || 0000 || **1111** ||
+
+
+
++++ Problem B
+
+
+||~ 0 ||~ 0 ||~ 0 ||~ 0 ||~ ||~ 0 ||~ 0 ||~ F ||~ 0 ||
+|| 0000 || 0000 || 0000 || 0000 || || 0000 || 0000 || **1111** || 0000 ||
+
+
+
++++ Problem C
+
+
+||~ 0 ||~ 0 ||~ 0 ||~ 0 ||~ ||~ 0 ||~ F ||~ 0 ||~ 0 ||
+|| 0000 || 0000 || 0000 || 0000 || || 0000 || **1111** || 0000 || 0000 ||
+
+
+
++++ Problem D
+
+
+||~ 0 ||~ 0 ||~ 0 ||~ 0 ||~ ||~ F ||~ 0 ||~ 0 ||~ 0 ||
+|| 0000 || 0000 || 0000 || 0000 || || **1111** || 0000 || 0000 || 0000 ||
+
+
+
+Each 4 binary digits exactly represents a single hexadecimal digits.
+
+
+++ Step 3: Crosschecks with E and F
+You can crosscheck your theory with E and F as follows:
+
+
+||~ # ||~ Hexadecimal ||~ Binary ||
+|| E || 000**1** 0000 || 0000 0000 0000 **0001** 0000 0000 0000 0000  ||
+|| F || 0000 00**63** || 0000 0000 0000 0000 0000 0000 **0110** **0011**  ||
+
+
+
+Detailed table:
++++ Problem E
+
+
+||~ 0 ||~ 0 ||~ 0 ||~ 1 ||~ ||~ 0 ||~ 0 ||~ 0 ||~ 0 ||
+|| 0000 || 0000 || 0000 || **0001** || || 0000 || 0000 || 0000 || 0000 ||
+
+
+
++++ Problem F
+
+
+||~ 0 ||~ 0 ||~ 0 ||~ 0 ||~ ||~ 0 ||~ 0 ||~ 6 ||~ 3 ||
+|| 0000 || 0000 || 0000 || 0000 || || 0000 || 0000 || **0110** || **0011** ||
+
+
+
+++ Step 4: Solve the Remaining Problems
+
+
+||~ # ||~ Hexadecimal ||~ Binary ||
+|| G || 0000 03E7 || 0000 0000 0000 0000 0000 0011 1110 0111 ||
+|| H || 0000 270F || 0000 0000 0000 0000 0010 0111 0000 1111 ||
+|| I || 0001 869F || 0000 0000 0000 0001 1000 0110 1001 1111 ||
+|| J || 05F5 E0FF || 0000 0101 1111 0101 1110 0000 1111 1111 ||
+
+
+
+This is an extremely quick way, since J's decimal value is 99 999 999. Imagine doing 99 999 999 MOD 2 all the way until you find the remaining dividend is 3 or 2 or 1.
+
+Here's a detailed table on problem J:
++++ Problem J
+
+
+||~ 0 ||~ 5 ||~ F ||~ 5 ||~ ||~ E ||~ 0 ||~ F ||~ F ||
+|| 0000 || 0101 || 1111 || 0101 || || 1110 || 0000 || 1111 || 1111 ||
+
+
+
+That was not so hard, was it?

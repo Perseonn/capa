@@ -1,0 +1,149 @@
+@title: Dynasty Warriors 9: Empires
+@author: Buster Wolf
+@updated: 2025-04-07
+
+Dynasty Warriors 9: Empires is the 5th Empires expansion on the Dynasty warriors side, this guide will go over all forms of stuff you can unlock and conditions for filling the gallery.
+
++ Historic Event Battles
+If certain conditions are met within a certain date there is a chance a historic battle will take place during the scenario meant to mimic the real life event, when triggered you will be given an option to join which will refill your troop count for the battle. These are not unlocked permanently and must be set up if you wish to do them again, with the exception of Wuzhang Plains every battle can be done from their respective scenario.
+++ Alliance Against Dong Zhuo
+* Date Range: Jan 191-Dec 193
+* Dong Zhuo must be a Ruler and control Luoyang while sheltering the Emperor.
+* Cao Cao & Yuan Shao must be Rulers.
+
+++ Battle of Guan Du
+* Date Range: Apr 200-Dec 202
+* Yuan Shao must be a Ruler and control Ye, Guanzong & Beihai.
+* Cao Cao must be a ruler and control Puyang, Xuchang & Luoyang.
+
+++ Battle of Chibi
+* Date Range: Jun 208-Dec 210
+* Cao Cao must be a Ruler and control Xiangyang, Wan & Xuchang.
+* Liu Bei must be a Ruler and control Jiangling.
+* Sun Quan must be a Ruler and control Jianye, Poyang & Huiji, Zhou Yu must serve in his kingdom.
+
+++ Battle of Wuzhang Plains
+* Date Range: Jun 228-Dec 231
+* Cao Cao, Cao Pi or Cao Rui must be a Ruler and control Chang'an, Luoyang & Xuchang, Sima Yi must serve in their kingdom.
+* Liu Bei or Liu Shan must be a Ruler and control Hanzhong, Chengdu & Tianshui, Zhuge Liang must serve in their kingdom.
+
++ Titles
+Titles are what define your character, based on your titles rarity it will dictate your drops during battle, the difficulty of the scenario also plays a factor in your drop rate which you can see at the bottom right corner when setting your title. The character you control always starts as a Common Officer and you can change your title based on ones you gain throughout your play through, Reputation Bonus is a multiplier to add for your actions to gain experience to help you level certain stats faster or slower.
+++ Drop Chart
++++ Beginner
+||~ Title Rarity ||~ Common ||~ Uncommon ||~ Legendary ||~ Epic ||
+|| Common || 100% || 0% || 0% || 0% ||
+|| Rare || 80% || 20% || 0% || 0% ||
+|| Legendary || 70% || 20% || 10% || 0% ||
+|| Epic || 40% || 40% || 20% || 0% ||
++++ Easy
+||~ Title Rarity ||~ Common ||~ Uncommon ||~ Legendary ||~ Epic ||
+|| Common || 100% || 0% || 0% || 0% ||
+|| Rare || 70% || 30% || 0% || 0% ||
+|| Legendary || 50% || 30% || 20% || 0% ||
+|| Epic || 30% || 40% || 30% || 0% ||
++++ Normal
+||~ Title Rarity ||~ Common ||~ Uncommon ||~ Legendary ||~ Epic ||
+|| Common || 100% || 0% || 0% || 0% ||
+|| Rare || 50% || 50% || 0% || 0% ||
+|| Legendary || 40% || 40% || 20% || 0% ||
+|| Epic || 20% || 30% || 30% || 20% ||
++++ Hard
+||~ Title Rarity ||~ Common ||~ Uncommon ||~ Legendary ||~ Epic ||
+|| Common || 100% || 0% || 0% || 0% ||
+|| Rare || 30% || 40% || 30% || 0% ||
+|| Legendary || 10% || 40% || 30% || 20% ||
+|| Epic || 5% || 20% || 45% || 30% ||
++++ Chaos
+||~ Title Rarity ||~ Common ||~ Uncommon ||~ Legendary ||~ Epic ||
+|| Common || 100% || 0% || 0% || 0% ||
+|| Rare || 20% || 40% || 40% || 0% ||
+|| Legendary || 10% || 30% || 30% || 30% ||
+|| Epic || 5% || 10% || 45% || 40% ||
+++ Common
+||~ Title ||~ Stat requirement ||~ Reputation Bonus ||
+|| Common Officer || None || None ||
+++ Rare
+||~ Title ||~ Stat requirement ||~ Reputation Bonus ||
+|| Mighty Officer || Brave 2 & Benevolent 2 || Brave +50%, Benevolent +50%, Ingenious -25%, Evil -50% ||
+|| Gallant Officer || Brave 2 & Evil 2 || Brave +50%, Evil +50%, Ingenious -25%, Benevolent -50% ||
+|| Paragon || Commanding 2 & Benevolent 2 || Commanding +50%, Benevolent +50%, Eloquent -25%, Evil -50% ||
+|| Villain || Commanding 2 & Evil 2 || Commanding +50%, Evil +50%, Eloquent -25%, Benevolent -50% ||
+|| Sage || Ingenious 2 & Benevolent 2 || Ingenious +50%, Benevolent +50%, Brave -25%, Evil -50% ||
+|| Strategist || Ingenious 2 & Evil 2 || Ingenious +50%, Evil +50%, Brave -25%, Benevolent -50% ||
+++ Legendary
+||~ Title ||~ Stat requirement ||~ Reputation Bonus ||
+|| Hero || Brave 5 & Benevolent 5 || Brave +65%, Benevolent +65%, Commanding +25%, Wise -15%, Evil -50% ||
+|| Steely General || Brave 5 & Ingenious 5 || Brave +65%, Benevolent +65%, Ingenious +25%, Eloquent -15%, Evil -50% ||
+|| One of a Kind || Brave 5 & Evil 5 || Brave +65%, Evil +65%, Commanding +35%, Ingenious -15%, Benevolent -65% ||
+|| Foolhardy || Brave 5 & Eloquent 5 || Brave +65%, Evil +65%, Eloquent +25%, Ingenious -15%, Benevolent -50% ||
+|| Great Commander || Commanding 5 & Benevolent 5 || Commanding +65%, Benevolent +65%, Ingenious +25%, Eloquent -15%, Evil -50% ||
+|| Veteran || Commanding 5 & Brave 5 || Commanding +65%, Benevolent +65%, Brave +25%, Eloquent -15%, Evil -50% ||
+|| Tyrant || Commanding 5 & Evil 5 || Commanding +65%, Evil +65%, Brave +25%, Eloquent -15%, Benevolent -50% ||
+|| Military Minded || Commanding 5 & Ingenious 5 || Commanding +65%, Evil +65%, Ingenious +25%, Eloquent -15%, Benevolent -50% ||
+|| Tactician || Ingenious 5 & Benevolent 5 || Ingenious +65%, Benevolent +65%, Eloquent +25%, Brave -15%, Evil -50% ||
+|| Adept Leader || Eloquent 5 & Benevolent 5 || Eloquent +65%, Benevolent +65%, Ingenious +25%, Commanding -15%, Evil -50% ||
+|| Counselor || Ingenious 5 & Evil 5 || Ingenious +65%, Evil +65%, Eloquent +25%, Brave -15%, Benevolent -50% ||
+|| Pitless || Eloquent 5 & Evil 5 || Eloquent +65%, Evil +65%, Ingenious +25%, Commanding -15%, Benevolent -50% ||
+++ Epic
+||~ Title ||~ Stat requirement ||~ Reputation Bonus ||
+|| Myriad Force || Brave 10 & Benevolent 10 || Brave +80%, Benevolent +80%, Commanding +50%, Eloquent +25%, Evil -50% ||
+|| Steely Valor || Brave 10 & Ingenious 10 || Brave +80%, Benevolent +80%, Ingenious +50%, Commanding +25%, Evil -50% ||
+|| Battle Demon || Brave 10 & Evil 10 || Brave +80%, Evil +80%, Commanding +50%, Eloquent +25%, Benevolent -50% ||
+|| Ardent Warrior || Brave 10 & Eloquent 10 || Brave +80%, Evil +80%, Eloquent +50%, Commanding +25%, Benevolent -50% ||
+|| Born Leader || Commanding 10 & Benevolent 10 || Commanding +80%, Benevolent +80%, Ingenious +50%, Brave +25%, Evil -50% ||
+|| Adroit General || Commanding 10 & Brave 10 || Commanding +80%, Benevolent +80%, Brave +50%, Ingenious +25%, Evil -50% ||
+|| Perfidious || Commanding 10 & Evil 10 || Commanding +80%, Evil +80%, Brave +50%, Ingenious +25%, Benevolent -50% ||
+|| Instigator || Commanding 10 & Ingenious 10 || Commanding +80%, Evil +80%, Ingenious +50%, Brave +25%, Benevolent -50% ||
+|| Inscrutable || Ingenious 10 & Benevolent 10 || Ingenious +80%, Benevolent +80%, Eloquent +50%, Commanding +25%, Evil -50% ||
+|| Sage Notions || Eloquent 10 & Benevolent 10 || Eloquent +80%, Benevolent +80%, Ingenious +50%, Brave +25%, Evil -50% ||
+|| Guileful || Ingenious 10 & Evil 10 || Ingenious +80%, Evil +80%, Eloquent +50%, Commanding +25%, Benevolent -50% ||
+|| Insidious Wile || Eloquent 10 & Evil 10 || Eloquent +80%, Evil +80%, Ingenious +50%, Brave +25%, Benevolent -50% ||
++ Movies
+These are movies that require specific characters in order to play, for the most part they must still have a kingdom, aren't being served by you or played by you for these to trigger.
+||~ Name ||~ Requirement ||
+|| Opening || Initially available. ||
+|| Bound by Brotherhood || Begin the Yellow Turban Rebellion scenario. ||
+|| Demon King || During The Alliance Against Dong Zhuo scenario do not play as, defeat or serve under Dong Zhuo's forces, happens before the Historic Event Battle. ||
+|| A Destiny Unfulfilled || During The Alliance Against Dong Zhuo scenario do not play as, defeat or serve under Sun Jian's forces until 191 AD. ||
+|| Rise of the Conqueror || During the Warlord Rivalry scenario do not play as, defeat or serve under Sun Ce's forces. ||
+|| Against the Wind || During the Battle of Guandu scenario do not play as, defeat or serve under Sun Ce's forces until May 200 AD. ||
+|| A Battle for Pride || During the Battle of Guandu scenario do not play as, defeat or serve under Yuan Shao's forces, happens before the Historic Event Battle. ||
+|| The Dragon's Path || Begin the Battle of Chibi scenario. ||
+|| Early Signs of Trouble || Begin the Three Kingdoms scenario. ||
+|| Continuing Ambition || During the Three Kingdoms scenario do not play as, defeat or serve under Cao Cao's forces until 220 AD. ||
+|| A Rebellion of Allegiance || During the Northern Campaign scenario do not play as, defeat or serve under Wei's forces until 232 AD. ||
+|| Ending Credits || Unite China in Conquest mode. ||
+
++ Events
+These are short cut scenes that happen during a Conquest Mode run when the right conditions are met.
+||~ Name ||~ Requirement ||
+|| Take Up Arms || Begin Conquest Mode. ||
+|| Founding a Nation || Claim independence as a Vagrant Army leader or as a high ranking officer with several S rank officers. ||
+|| Oath of Brotherhood || Swear an oath or be asked to swear an oath to an officer with S rank relationship. ||
+|| Bereavement || Have your Spouse or Sworn Sibling slain in battle and win the same battle. Officer Death must be turned On at the start of the scenario and during a battle a member of your family must be slain, not capture or withdraw after getting defeated. Can also get if you retreat after your Spouse or Sworn Sibling die. ||
+|| To New Era || Finish Conquest Mode with your spouse alive. ||
+|| Arrow of Aid || Interact with an officer who's at A rank relationship or higher. ||
+|| Elite Troops || Have Commanding at 2 or higher, can't get this as an Officer. ||
+|| Confession || Confess or accept a confession to an officer of the opposite gender who's at S rank relationship. ||
+|| Wedding || Triggers after Confession. ||
+|| Appointed Emperor || Your Ruler or yourself as Ruler gets promoted from King to Emperor. ||
+|| Grand Banquet || As a Ruler have at least 3 officers with high rank relationship. ||
+|| A Meditative Game || An officer with C rank friendship or higher will ask to see you for a stroll, do so with high Eloquent. ||
+|| A Chaotic Game || Same as A Meditative Game, but with Ingenious. ||
+|| Touched by Benevolence || Raise your Benevolent higher than Evil. ||
+|| Shaken by Evil || Raise your Evil higher than Benevolent. ||
+|| Dance 1 || Triggered after Wedding by the wife, gained even if Dance 2 is triggered. ||
+|| Dance 2 || Triggered after Wedding by the husband, gained even if Dance 1 is triggered.||
+|| Benevolent Ruler || As a Ruler have higher Benevolent compared to Evil. ||
+|| Splendor || Be the Ruler of the most powerful and wealthiest kingdom, randomly triggers. ||
+|| Despot || As a Ruler have higher Evil compared to Benevolent. || 
+|| Capture || Capture a Musou officer who has a White aura around them in battle. ||
+|| Side by Side || Enter battle with a Sworn sibling. ||
+|| Benevolent Governance || Unite China as a Ruler with Benevolent higher than Evil. ||
+|| Corrupt Governance || Unite China as a Ruler with Evil higher than Benevolent. ||
+|| Five Tigers Assemble || Unite China as a Ruler with a Grand General, Tactician and Generals. ||
+|| War Dance || Unite China while having no Spouse and no Oath Siblings. ||
+|| Comrade in Arms || Unite China with your Spouse & 3 Sworn Siblings alive. ||
+|| Path to Good || Triggers after Benevolent Governance. ||
+|| Path to Evil || Triggers after Corrupt Governance. ||

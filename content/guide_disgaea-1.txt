@@ -1,0 +1,1287 @@
+@title: Disgaea: Hour of Darkness
+@author: Buster Wolf
+@updated: 2025-04-06
+
+Disgaea is a strategy RPG series, this one being the first. The purpose of this guide is to list item locations for Main Story, Promotion Exam, Bonus Worlds & Etna Mode in case you are looking for a particular item type to steal with a Thief for those playing ports of this game for completion of the Collection Record at the Save Shop. Unless noted any item they carry can potentially be of any rarity (Common, Rare or Legendary). Do note that some equipment may go by a different name if you are playing the DS version so pay attention to the names. If any unique enemies appear on a map they will be listed first followed by the normal enemies that appear, if a map has a different enemy from the first time it is done they will be listed separately. Endings will also be listed with a link to a YouTube video in case you want to see the ending again, all endings lead to a new cycle regardless which one you get.
+
+Those playing Disgaea 1 Complete have some classes replaced, these are only visual and will still follow what the original class did including needing the Thief to unlock Majin despite being a female now instead of male.
+
+||~ Original class ||~ Replacement ||
+|| Male Thief || Female Thief ||
+|| Winged || Imp ||
+|| Treant || Shroom ||
+|| Shadow || Reaper ||
+|| Beast || Dragon Zombie ||
+|| Galactic Demon || Rifle Demon ||
+
++ Main Story
+++ Episode 1 Prince of the Netherworld
+Tutorial
+**Battle Basics 1**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Spirit || Ghost (T1) || 3 || || || || ||
+
+**Battle Basics 2**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Spirit || Ghost (T1) || 4 || || || || ||
+|| Faery || Hobbit (T1) || 1 || || || || ||
+
+**Geo Effect/T-1 Practice Map**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Spirit || Ghost (T1) || 5 || || || || ||
+|| Faery || Hobbit (T1) || 1 || || || || ||
+
+Vyers Castle
+**1-1 Magnificent Gate**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Magician || Red Skull (T1) || 1 || Wooden Staff || || || ||
+|| Faery || Hobbit (T1) || 2 || || || || ||
+|| Spirit || Ghost (T1) || 6 || || || || ||
+
+**1-2 Blessed Court**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Warrior || Warrior (T1) || 1 || Common Sword || Amulet || || ||
+|| Martial Artist || Brawler (T1) || 1 || Wristband || Amulet || || ||
+|| Spirit || Ghost (T1) || 4 || || || || ||
+|| Faery || Hobbit (T1) || 4 || || || || ||
+
+**1-3 Corridor of Love**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Warrior || Warrior (T1) || 1 || Iron Lance || Protector || || ||
+|| Witch || Red Mage (T1) || 1 || Light Staff || Protector || || ||
+|| Archer || Archer (T1) || 2 || Common Bow || Protector || || ||
+|| Spirit || Boggart (T2) || 5 || || || || ||
+|| Spirit || Ghost (T1) || 1 || *Crab Pincer || Muscle Brawn || Bulletproof Vest/PASGT Armor || Protector ||
+*Added on repeated version
+
+**1-4 Hall of Caresses**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Mid-Boss || Mid-Boss || 1 || Paw Glove || Protector || || ||
+|| Warrior || Warrior (T1) || 1 || Short Sword || Bulletproof Vest/PASGT Armor || || ||
+|| Valkyrie || Warrior (T1) || 1 || Short Sword || Bulletproof Vest/PASGT Armor || || ||
+|| Witch || Green Mage (T2) || 1 || Light Staff || Protector || Protector || Protector ||
+|| Archer || Archer (T1) || 1 || Hunter's Bow || Protector || Protector || Protector ||
+|| Spirit || Boggart (T2) || 5 || || || || ||
+If you lose this battle you will see the [https://www.youtube.com/watch?v=GcIPZToWJDA Mid-Boss Ending].
+
+Repeated version removes Mid-Boss and replaces him with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Ninja || Adept Ninja (T2) || 1 || Battle Axe || Bulletproof Vest/PASGT Armor || Protector || Amulet ||
+
+++ Episode 2 Enter Flonne
+Frozen River
+**2-1 Forsaken Land**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Priest || Cleric (T1) || 1 || Witch's Staff || || || ||
+|| Archer || Archer (T1) || 2 || Longbow || || || ||
+|| Zombie || Zombie (T1) || 5 || || || || ||
+
+**2-2 Icy Breath**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Zombie || Zombie (T1) || 9 || || || || ||
+
+**2-3 Eternal Winter**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Zombie || Zombie (T1) || 6 || || || || ||
+|| Imp || Gremlin (T2) || 1 || Scratch Claw || Bulletproof Vest/PASGT Armor || || ||
+|| Imp || Imp (T1) || 4 || || || || ||
+
+**2-4 White Death**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Flonne || Angel || 1 || Witch's Staff || Fancy Lid || || ||
+|| Dragon || Dragon (T1) || 1 || Scratch Claw || Amulet || Amulet || Amulet ||
+|| Imp || Gremlin (T2) || 2 || Scratch Claw || Bulletproof Vest/PASGT Armor || || ||
+|| Imp || Imp (T1) || 3 || || || || ||
+
+Repeated version removes Flonne and replaces the Dragon with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Golem || Golem (T1) || 1 || Shocking Grasp || Fancy Lid || || ||
+
+++ Episode 3 A Hint of Kindness
+Dinero Palace
+**3-1 Gaudy Entrance**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Fight Mistress || Pugilist (T2) || 1 || Witch's Staff || Protector || Amulet || ||
+|| Martial Artist || Pugilist (T2) || 1 || Battle Axe || Bulletproof Vest/PASGT Armor || Protector || Amulet ||
+|| Martial Artist || Brawler (T1) (Fist) || 5 || Rock Fist || Protector || || ||
+|| Martial Artist || Brawler (T1) (Bow) || 2 || Longbow || Protector || || ||
+
+**3-2 Golden Courtyard**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Martial Artist || Pugilist (T2) (Fist) || 4 || Double Slap || Bulletproof Vest/PASGT Armor || || ||
+|| Martial Artist || Pugilist (T2) (Fist) || 2 || Double Slap || Bulletproof Vest/PASGT Armor || Amulet || ||
+|| Martial Artist || Pugilist (T2) (Bow) || 2 || Longbow || Bulletproof Vest/PASGT Armor || || ||
+|| Beast || Manticore (T1) || 1 || Shocking Grasp || Fancy Lid || || ||
+|| Priest || Priest (T2) || 1 || Smiting Rod || Chain Mail || Muscle Hustle || ||
+
+**3-3 Flashy Passage**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Fight Mistress || Pugilist (T2) || 1 || Bushido Lance || Chain Mail || Fancy Lid || Muscle Hustle ||
+|| Martial Artist || Pugilist (T2) || 4 || Big Arrow || Fancy Lid || || ||
+|| Fight Mistress || Brawler (T1) || 16 || Double Slap || Bulletproof Vest/PASGT Armor || || ||
+
+**3-4 Lavish Hall**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Hoggmeiser || Rich Demon || 1 || Bat Parasol || Leather Jacket/Bomber Jacket || || ||
+|| Martial Artist || Pugilist (T2) || 1 || Bushido Lance || Chain Mail || Fancy Lid || ||
+|| Fight Mistress || Pugilist (T2) || 1 || Bushido Lance || Chain Mail || Fancy Lid || ||
+|| Martial Artist || Wall of Meat || 6 || || || || ||
+If you have 50 ally kills by this stage you will have a Kill or Don't Kill option for Hoggmeiser, if you choose Kill you will get the [https://www.youtube.com/watch?v=R6YNIgAWx5w Flonne Tragedy Ending].
+
+Repeated version removes Hoggmeiser and replaces him with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Witch || Blue Mage (T3) || 1 || Hibernal Staff || Chain Mail || Bulletproof Vest/PASGT Armor || Muscle Hustle ||
+
+++ Episode 4 Gift from an Angel
+Blazing Core
+**4-1 Road of Flames**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Living Armor || Killer Armor (T1) || 1 || Bat Parasol || Chain Mail || || ||
+|| Lantern || Decoy (T2) || 2 || Poison Needle || Leather Jacket/Bomber Jacket || || ||
+|| Lantern || Pumpkin (T1) || 4 || || || || ||
+
+**4-2 Parched Ground**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Living Armor || Killer Armor (T1) || 2 || Bat Parasol || Chain Mail || || ||
+|| Lantern || Decoy (T2) || 2 || Poison Needle || Leather Jacket/Bomber Jacket || || ||
+|| Lantern || Pumpkin (T1) || 7 || || || || ||
+
+**4-3 Blazing Field**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Shadow || Nightmare (T1) || 1 || Cat's Claw || Dimensional Cape/Dimension Cape || || ||
+|| Living Armor || Killer Armor (T1) || 2 || Bat Parasol || Chain Mail || || ||
+|| Lantern || Decoy (T2) || 5 || Poison Needle || Leather Jacket/Bomber Jacket || || ||
+|| Lantern || Pumpkin (T1) || 5 || || || || ||
+
+**4-4 Molten Labyrinth**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Mid-Boss || Mid-Boss || 1 || Cat's Claw || Power Jacket || Nerd Glasses || ||
+|| Living Armor || Killer Armor (T1) || 4 || Bat Parasol || Chain Mail || || ||
+|| Shadow || Nightmare (T1) || 2 || Cat's Claw || Dimensional Cape/Dimension Cape || || ||
+|| Lantern || Mandrake (T3) || 1 || Bat Parasol || Bulletproof Vest/PASGT Armor || Fancy Lid || ||
+If you lose this battle you will see the [https://www.youtube.com/watch?v=GcIPZToWJDA Mid-Boss Ending].
+
+Repeated version removes Mid-Boss and replaces him with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Living Armor || Dark Knight (T2) || 1 || Cat's Claw || Dimensional Cape/Dimension Cape || Leather Jacket/Bomber Jacket || ||
+
+++ Episode 5 Etna's Secret
+Jotunheim
+**5-1 Absolute Zero**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Imp || Imp (T1) || 9 || || || || ||
+
+**5-2 Endless White**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Ninja || Ninja (T1) || 1 || Bushido Lance || Bushido Armor || || ||
+|| Strider || Scout (T1) || 2 || KLZ900 || Power Jacket || || ||
+|| Faerie || Puck (T2) || 7 || || || || ||
+
+**5-3 Terrible Cold**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Succubus || Empusa (T1) || 5 || || || || ||
+|| Nekomata || Nekomata (T1) || 3 || || || || ||
+
+**5-4 Ice Queen**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Maderas || Demon Sire || 1 || Cat's Claw || Chain Mail || Fancy Lid || ||
+|| Golem || Golem (T1) || 1 || Cat's Claw || Bulletproof Vest/PASGT Armor || || ||
+|| Succubus || Empusa (T1) || 4 || || || || ||
+|| Succubus || Lilim (T2) || 2 || || || || ||
+If you have 100 ally kills by this stage you will get the [https://www.youtube.com/watch?v=g81dAOfd6nw Etna Heroine Ending].
+
+Repeated version removes Maderas and replaces him with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Nekomata || Cait Sith (T2) || 1 || Cat's Claw || Chain Mail || Fancy Lid || ||
+
+++ Episode 6 Laharl's Challenge
+Blair Forest
+**6-1 Calamity Woods**
+All versions not Disgaea DS
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Spirit || Boggart (T2) || 2 || || || || ||
+|| Spirit || Ghost (T1) || 2 || || || || ||
+|| Faerie || Puck (T2) || 1 || || || || ||
+|| Faerie || Hobbit (T1) || 2 || || || || ||
+|| Imp || Gremlin (T2) || 2 || || || || ||
+|| Imp || Imp (T1) || 2 || || || || ||
+|| Golem || Golem (T1) || 2 || || || || ||
+|| Zombie || Zombie (T1) || 2 || || || || ||
+|| Treant || Man-Eater (T1) || 2 || || || || ||
+|| Living Armor || Dark Knight (T2) || 1 || || || || ||
+|| Living Armor || Killer Armor (T1) || 2 || || || || ||
+|| Lantern || Decoy (T2) || 1 || || || || ||
+|| Lantern || Pumpkin (T1) || 2 || || || || ||
+|| Gargoyle || Gargoyle (T1) || 2 || || || || ||
+|| Shadow || Nightmare (T1) || 2 || || || || ||
+
+Disgaea DS version
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Spirit || Boggart (T2) || 2 || || || || ||
+|| Spirit || Ghost (T1) || 1 || || || || ||
+|| Faerie || Puck (T2) || 3 || || || || ||
+|| Faerie || Hobbit (T1) || 3 || || || || ||
+|| Imp || Gremlin (T2) || 2 || || || || ||
+|| Imp || Imp (T1) || 2 || || || || ||
+|| Golem || Spriggan (T2) || 1 || || || || ||
+|| Golem || Golem (T1) || 2 || || || || ||
+|| Zombie || Ghoul (T2) || 1 || || || || ||
+|| Zombie || Zombie (T1) || 1 || || || || ||
+
+**6-2 Ritual Site**
+Story version
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Sardia || Demonslayer || 1 || Great Sword || Stealth Cape || Steel Armor || Muscle Victory ||
+
+Repeated version
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Magic Knight || Rune Knight (T3) || 2 || Magic Sword || Fur Coat || Bushido Armor || Muscle Fight ||
+
+**6-3 Witches' Den**
+Story version
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Pvt. Prinny (T1) || 1 || Paw Glove || Protector || Protector || Protector ||
+|| Prinny || Pvt. Prinny (T1) || 7 || Paw Glove || || || ||
+|| Prinny || Pvt. Prinny (T1) || 1 || || || || ||
+
+Repeated version
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Imp || Imp (T1) || 9 || || || || ||
+
+**6-4 Writhing Shadow**
+Story version
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Alt. Overlord || Alt. Overlord || 10 || || || || ||
+If you beat this version you will not get the following allies below in a rematch and will continue the story like normal.
+
+Story rematch neutral units
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Ghoss || Vassal || 1 || || || || ||
+|| Gargo || Vassal || 1 || || || || ||
+|| Manty || Vassal || 1 || || || || ||
+|| Goleck || Vassal || 1 || || || || ||
+|| Dratti || Vassal || 1 || || || || ||
+|| Zommie || Vassal || 1 || || || || ||
+
+Repeated version
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Dragon || Fafnir (T2) || 1 || || || || ||
+
+**6-5 Nightdwellers**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| *Prism Red || Prism Ranger || 1 || Lizard Tail || Power Jacket || || ||
+|| Spirit || Specter (T3) || 4 || || || || ||
+|| Faery || Puck (T2) || 4 || || || || ||
+|| Treant || Man-Eater (T1) || 4 || || || || ||
+*Removed on repeated version
+
+**6-6 Heart of Evil**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| *Mid-Boss || Mid-Boss || 1 || Lizard Tail || Dimensional Cape/Dimension Cape || Chain Mail || ||
+|| Gargoyle || Gargoyle (T1) || 2 || Lizard Tail || Dimensional Cape/Dimension Cape || || ||
+|| Faery || Puck (T2) || 10 || || Leather Jacket/Bomber Jacket || Fancy Lid || Bulletproof Vest/PASGT Armor ||
+If you lose this battle you will see the [https://www.youtube.com/watch?v=GcIPZToWJDA Mid-Boss Ending].
+*Removed on repeated version
+
+++ Episode 7 Of Being an Overlord
+Salamander's Breath
+**7-1 Scorching Wind**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Zombie || Ghoul (T2) || 1 || || || || ||
+|| Zombie || Zombie (T1) || 13 || || || || ||
+
+**7-2 Column of Fire**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Zombie || Corpse (T3) || 1 || || || || ||
+|| Zombie || Ghoul (T2) || 2 || || || || ||
+|| Zombie || Zombie (T1) || 7 || || || || ||
+
+**7-3 Raging Earth**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Zombie || Zombie (T1) || 6 || || || || ||
+
+**7-4 Crimson Plains**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Zombie || Corpse (T3) || 2 || || || || ||
+|| Zombie || Ghoul (T2) || 5 || || || || ||
+|| Zombie || Zombie (T1) || 4 || || || || ||
+
+**7-5 Ember of Dreams**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| *Zombie || Zombie (T1) || 1 || || !Horse Wiener || !Mahogany Brain || !Hercules' Body ||
+|| Zombie || Corpse (T3) || 3 || Poison Needle || Leather Jacket/Bomber Jacket || || ||
+|| Zombie || Ghoul (T2) || 4 || || Leather Jacket/Bomber Jacket || || ||
+|| Zombie || Zombie (T1) || 4 || || || || ||
+! Rank 15 special item. Those playing the Playstation version will only have this chance to steal his items, those on ports have another chance in Etna Mode where you can get the items infinitely.
+
+*Replaced in repeated version with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Zombie || Zombie (T1) || 1 || Lizard Tail || Power Jacket || Dimensional Cape/Dimension Cape || ||
+
+++ Episode 8 Reincarnation
+Lunar Snowfield
+**8-1 Theatre of Death**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Galactic Demon || Cyclops (T1) || 2 || || || || ||
+|| Treant || Man-Eater (T1) || 10 || || || || ||
+
+**8-2 Frigid Garden**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Treant || Treant (T3) || 6 || || || || ||
+|| Treant || Oakrot (T2) || 6 || || || || ||
+|| Treant || Man-Eater (T1) || 6 || || || || ||
+
+**8-3 Freezing Souls**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Witch || Blue Mage (T2) || 2 || Hibernal Staff || Dimensional Cape/Dimension Cape || || ||
+|| Valkyrie || Battler (T2) || 4 || Enchanted Arrow/Enchant Arrow || Dimensional Cape/Dimension Cape || || ||
+|| Warrior || Battler (T2) (Spear) || 6 || Trident || Power Jacket || Fancy Lid || ||
+|| Warrior || Battler (T2) (Sword) || 2 || Bastard Sword || Power Jacket || Fancy Lid || ||
+|| Warrior || Battler (T2) (Axe) || 2 || Mighty Axe || Power Jacket || Fancy Lid || ||
+
+**8-4 Under the Moon**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Shadow || Chernobog (T4) || 1 || || Magic Vest || Dimensional Cape/Dimension Cape || Star Orb ||
+|| Shadow || Shade (T2) || 2 || || Magic Vest || Dimensional Cape/Dimension Cape || Star Orb ||
+|| Shadow || Nightmare (T1) || 6 || || || || ||
+
+++ Episode 9 Captain Gordon, Defender of Earth
+Stellar Graveyard
+**9-1 Valgipus IV**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Living Armor || Dullahan (T3) || 1 || || || || ||
+|| Nekomata || Nekomata (T1) || 8 || || || || ||
+
+**9-2 Thurvean Sector**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Living Armor || Dullahan (T3) || 4 || || || || ||
+|| Nekomata || Nekomata (T1) || 11 || || || || ||
+
+**9-3 Sphere VIII**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Martial Artist || Black Belt (T4) (Fist) || 1 || Swift Knuckle || Steel Armor || Muscle Armor || ||
+|| Martial Artist || Black Belt (T4) (Sword) || 1 || 2-Pronged Blade/2Pronged Blade || Steel Armor || Muscle Armor || ||
+|| Martial Artist || Black Belt (T4) (Axe) || 1 || Axe of Sorcery/Sorcery Axe || Steel Armor || Muscle Armor || ||
+|| Martial Artist || Pugilist (T2) || 10 || || || || ||
+
+**9-4 Cross-Point**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Spirit || Wraith (T4) || 9 || || Moon Orb || Moon Orb || Star Orb ||
+|| Spirit || Wraith (T4) || 2 || || Moon Orb || Moon Orb || King Orb ||
+
+**9-5 Primordial Soup**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Gordon || Defender of Earth || 1 || Ion 9k Samurai || Power Jacket || Bulletproof Vest/PASGT Armor || Muscle Dream ||
+|| Thursday || Super Robot || 1 || Cobra Fang || Steel Armor || Steel Armor || Steel Armor ||
+
+Repeated version removes Gordon and Thursday and replaces them with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Galactic Demon || Cyclops (T1) || 1 || || || || ||
+
+++ Episode 10 Angels, Demons and Humans
+Sea of Gehenna
+**10-1 Fervent Melody**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Gargoyle || Guardian (T2) || 5 || || || || ||
+
+**10-2 Wasteland of Woe**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Dragon || Fafnir (T2) || 1 || || || || ||
+|| Dragon || Dragon (T1) || 2 || || || || ||
+|| Faerie || Brownie (T3) || 1 || Porcu-Spine || Magic Vest || Chain Mail || Protector ||
+|| Faerie || Puck (T2) || 5 || Cat's Claws || Dimensional Cape/Dimension Cape || Amulet || ||
+|| Faerie || Hobbit (T1) || 1 || Paw Gloves || || || ||
+|| Faerie || Hobbit (T1) || 4 || || || || ||
+
+**10-3 River of Lava**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Galactic Demon || Sentinel (T2) || 1 || Spiked Shell || Stealth Cape || Steel Armor || King Orb ||
+|| Faerie || Brownie (T3) || 4 || Porcu-Spine || Magic Vest || || ||
+
+**10-4 Searing Tyranny**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Treant || Treant (T3) || 12 || || || || ||
+
+**10-5 Inferno**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Mid-Boss || Mid-Boss || 1 || Spiked Shell || Dandy Gown || Dimensional Cape/Dimension Cape || Falcon Shoes ||
+|| Dragon || Fafnir (T2) || 2 || Porcu-Spine || Bushido Armor || || ||
+|| Faerie || Puck (T2) || 8 || || || || ||
+If you lose this battle you will see the [https://www.youtube.com/watch?v=GcIPZToWJDA Mid-Boss Ending].
+
+Repeated version removes Mid-Boss and replaces him with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Dragon || Nidhogg (T3) || 1 || Spiked Shell || Magic Vest || || ||
+
+++ Episode 11 Hero's Will, Overlord's Way
+Forest of the Dead
+**11-1 Ghostly Whisper**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Magician || Star Skull (T4) || 6 || Pixie Staff || Magic Vest || || ||
+|| Lantern || Mandrake (T3) || 6 || || || || ||
+
+**11-2 Rising Fear**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Magic Knight || Rune Knight (T3) || 1 || Taser Sword || Ghost Cape || Magic Vest || Slippers ||
+|| Magician || 1-3 || 1 of each || Pixie Staff || Magic Vest || || ||
+|| Lantern || Scarecrow (T4) || 7 || Electric Eel || Muscle Armor || || ||
+
+**11-3 Crawling Terror**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Imp || Alp (T4) || 11 || || Magic Vest || || ||
+|| Imp || Alp (T4) || 1 || || || || ||
+
+**11-4 Hero's Tomb**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| *Don Joaquin || 1st Defender || 1 || Electric Eel || Stinky Jacket || || ||
+|| Lantern || Scarecrow (T4) || 6 || || || || ||
+|| Zombie || Corpse (T3) || 3 || Cobra Fang || || || ||
+|| Imp || Alp (T4) || 4 || Cobra Fang || || || ||
+|| Imp || Alp (T4) || 2 || || || || ||
+*Removed on repeated version
+
+++ Episode 12 War of the Netherworld, Part 1
+Stellar Graveyard II
+**12-1 Embryon**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| EDF Soldier || Officer (T2) || 1 || RQ66 Saint || Silver Tux || Steel Armor || ||
+|| EDF Soldier || Recruit (T1) || 7 || RQ57 Dragon || Stealth Cape || || ||
+
+**12-2 Core Point No.4**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| EDF Soldier (Gun) || Recruit (T1) || 2 || RQ66 Saint || Silver Tux || || ||
+|| EDF Soldier (Axe) || Recruit (T1) || 9 || Silver Axe || Silver Tux || || ||
+
+**12-3 Star Cluster**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| EDF Soldier (Gun) || Officer (T2) || 1 || RQ66 Saint || Gritty Vest || Steel Armor || ||
+|| EDF Soldier (Axe) || Officer (T2) || 1 || Adamant Axe || Gritty Vest || Steel Armor || ||
+|| EDF Soldier (Gun) || Recruit (T1) || 4 || LDT52-R || Silver Tux || || ||
+|| EDF Soldier (Axe) || Recruit (T1) || 4 || Silver Axe || Silver Tux || || ||
+|| EDF Soldier (Axe) || Recruit (T1) || 1 || Silver Axe || Stealth Cape || || ||
+
+**12-4 Sidereal  Rift**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| *Kurtis || Rival || 1 || Panda Claw || Hero Cape || Gritty Vest || Steel Belt ||
+|| EDF Soldier (Axe) || Officer (T2) || 1 || Adamant Axe || Gritty Vest || Steel Armor || Monster Belt ||
+|| EDF Soldier (Gun) || Officer (T2) || 1 || H30K || Gold Tux || Crosshair Scope || Muscle Dream ||
+|| EDF Soldier (Axe) || Recruit (T1) || 4 || Bloody Axe || Silver Tux || Power Jacket || Muscle Victory ||
+|| EDF Soldier (Gun) || Recruit (T1) || 3 || RQ66 Saint || Silver Tux || Steel Armor || ||
+*Removed on repeated version
+
+++ Episode 13 War of the Netherworld, Part 2
+Gargantua Deck
+**13-1 Point Alpha-III**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Astro Cannon || Big Gun || 2 || || || || ||
+|| Mega Cannon ||Turret || 4 || || || || ||
+
+Gargantua Interior
+**13-2 Main Corridor 1**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| EDF Soldier (Gun) || Cyborg (T3) || 2 || PS-714 || Gold Tux || || ||
+|| EDF Soldier (Fist) || Cyborg (T3) || 4 || Silver Arm || Gold Tux || || ||
+
+**13-3 Main Corridor 2**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| EDF Soldier (Sword) || Psi-Soldier (T4) || 1 || Light Sabre || Gold Tux || Ghost Cape || Steel Belt ||
+|| EDF Soldier (Gun) || Cyborg (T3) || 2 || PS-714 || Gold Tux || Stealth Cape || Crosshair Scope ||
+|| EDF Soldier (Axe) || Recruit (T1) || 5 || Adamant Axe || Silver Tux || Steel Armor || ||
+
+**13-4 Main Corridor 3**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Kurtis || Rival || 1 || Demon's Hand || Gold Tux || Hero Cape || ||
+|| EDF Soldier (Sword) || Psi-Soldier (T4) || 3 || Light Sabre || Gold Tux || Ghost Cape || ||
+|| EDF Soldier (Gun) || Cyborg (T3) || 6 || PS-714 || Gritty Vest || || ||
+
+Repeated version removes Kurtis and replaces him with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| EDF Soldier (Sword) || Psi-Soldier (T4) || 1 || Light Sabre || Platinum Tux || Ghost Cape || ||
+
+**13-5 Bridge**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Celestial Host (Bow) || Angel Cadet (T2) || 2 || Shining Arrow || Jupiter's Armor || Fur Coat || ||
+|| Celestial Host (Spear) || Angel (T1) || 8 || Mistral Spear || Mistral Armor || Fur Coat || ||
+
+++ Final Episode What Lies Beyond the Battlefield
+Celestia
+**14-1 Field of Virtue**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Mid-Boss || Mid-Boss || 1 || Fiendish Claw || Black Armor || Gritty Vest || ||
+|| Nosferatu || Strigoi (T2) || 3 || Demon's Hand || Reaper's Cloak || || ||
+Unlike other battles with Mid-Boss where losing will give you his ending losing this battle will give a Game Over.
+
+Repeated version removes Mid-Boss and replaces him with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Nosferatu || Neuntoter (T3) || 1 || Fiendish Claw || Black Armor || Gritty Vest || ||
+
+**14-2 Paradise**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Celestial Host (Axe) || Angel Soldier (T3) || 1 || Golden Axe || Gold Tux || || ||
+|| Celestial Host (Spear) || Angel Cadet (T2) || 2 || Zephyr || Jupiter's Armor || Stealth Cape || ||
+|| Celestial Host (Sword) || Angel (T1) || 6 || Mistral Sword || Mistral Armor || || ||
+
+**14-3 Angelic Choir**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Celestial Host (Axe) || Angel Soldier (T3) || 1 || Golden Axe || Gold Tux || Prophet's Robe || ||
+|| Celestial Host (Spear) || Angel Cadet (T2) || 2 || Bahamut's Horn || Gold Tux || Fur Coat || ||
+|| Celestial Host (Sword) || Angel Cadet (T2) || 1 || Bahamut's Fang || Gold Tux || Fur Coat || ||
+|| Celestial Host (Sword) || Angel (T1) || 3 || Mistral Sword || Mistral Armor || || ||
+|| Archer || Valkyrie (T4) || 2 || Judgement Arrow || Gold Tux || Ghost Cape || ||
+|| Magic Knight || Rune Knight (T3) || 4 || Bloodlust || Cactus Armor || Ghost Cape || ||
+
+**14-4 Coliseum**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Celestial Host || Crusader (T4) || 1 || Adamant Sword || Nine Tail Fur || Gold Tux || ||
+|| Celestial Host || Angel Soldier (T3) || 4 || Prophet's Staff || Gold Tux || Prophet's Robe || ||
+|| Archer || Valkyrie (T4) || 6 || Judgement Arrow || Gold Tux || Ghost Cape || ||
+
+**14-5 Divine Prison**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Gargoyle || Balrog (T4) || 1 || || || || ||
+|| Shark Dragon || Sea Dragon (T3) || 1 || || || || ||
+|| Beast || Myrmecoleo (T3) || 1 || || || || ||
+|| Dragon || Ahzi Dahaka (T4) || 1 || || || || ||
+|| Nosferatu || Neuntoter (T3) || 1 || || || || ||
+
+Seraphic Sanctuary
+**15-1 Inner Sanctum**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Celestial Host (Sword) || Avenger (T5) || 1 || Wyrmslayer || Gold Tux || Prophet's Robe || ||
+|| Celestial Host (Spear) || Avenger (T5) || 2 || Pallas Athene || Gold Tux || Prophet's Robe || ||
+
+**15-2 Hall of Justice**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| *Vulcanus || Archangel || 1 || Geo Saber || Celestial Armor || Holy Orb || Muscle Dream ||
+|| Celestial Host || Crusader (T4) || 4 || Adamant Sword || Nine Tail Fur || Gold Tux || ||
+|| Celestial Host || Angel Soldier (T3) || 5 || Platinum Bow || Gold Tux || Gritty Vest || ||
+|| Celestial Host (Staff) || Angel Cadet (T2) || 1 || Rune Staff || Gold Tux || Prophet's Robe || ||
+|| Celestial Host (Spear) || Angel Cadet (T2) || 2 || Bahamut's Horn || Gold Tux || || ||
+|| Celestial Host (Fist) || Angel (T1) || 1 || Mirage || Gold Tux || || ||
+|| Celestial Host (Axe) || Angel (T1) || 1 || Golden Axe || Gold Tux || || ||
+|| Celestial Host (Bow) || Angel (T1) || 1 || Remote Bow || Gold Tux || || ||
+|| Celestial Host (Sword) || Angel (T1) || 1 || Bloodlust || Gold Tux || || ||
+|| Celestial Host (Spear) || Angel (T1) || 1 || Zephyr || Gold Tux || || ||
+*Removed on repeated version
+
+**15-3 Sacred Altar**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Lamington || Seraph || 1 || Lightning Fang || Celestial Armor || Orichalch Shield || Testament ||
+|| Celestial Host (Fist) || Angel (T1) || 1 || Crisis || Bahamut's Scale || Spirit Belt || ||
+|| Celestial Host (Axe) || Angel (T1) || 1 || Bahamut's Talon || Bahamut's Scale || Spirit Belt || ||
+|| Celestial Host (Bow) || Angel (T1) || 1 || Bahamut's Aim || Bahamut's Scale || Spirit Belt || ||
+|| Celestial Host (Sword) || Angel (T1) || 1 || Laevateinn || Bahamut's Scale || Spirit Belt || ||
+|| Celestial Host (Spear) || Angel (T1) || 1 || Platinum Lance || Bahamut's Scale || Spirit Belt || ||
+
++ Endings
+Depending on your actions through your current cycle it will determine which of the 4 endings you will get. As there is no technical Post Game finishing **Sacred Altar** will lead to a new cycle.
+||~ Name ||~ Condition ||
+|| [https://youtu.be/tj332PoSwWA Good Ending] || Have no ally kills. ||
+|| [https://youtu.be/9zYQqxtQcIE Normal Ending] || Have at least 1 ally kill. ||
+|| [https://youtu.be/wfGsfWZh6Lw Bad Ending] || Pass 100 bills by force and have at least 1 ally kill. ||
+|| [https://youtu.be/S0HVX8WKSR0 Item God Ending] || Defeat an Item God of a Legendary Item World and have at least 1 ally kill. ||
+
++ Promotion Exam (Main Story)
+Promotion Exams must be taken to unlock more potential bills to pass in the Dark Assembly with the character chosen, which have their own set of enemies for you to fight. Characters that Reincarnate must retake exams as their promotion level gets reset to 0 (except for those playing Complete after a certain patch), most of the enemies in these exams don't have any equipment, in the case that they do it will be formatted like normal.
+
+++ Rank 1
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Zombie || Zombie (T1) || 3 ||
+|| Zombie || Ghoul (T2) || 1 ||
+**Added Bills:** More Expensive Stuff, Cheaper Stuff
+
+++ Rank 2
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Zombie || Ghoul (T2) || 2 ||
+|| Zombie || Corpse (T3) || 1 ||
+**Added Bills:** Eyewear Inventory, Belt Inventory, Shoe Inventory
+
+++ Rank 3
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Imp || Gremlin (T2) || 1 ||
+|| Faery || Hobbit (T1) || 3 ||
+**Added Bills:** Transmigrate/Reincarnation, Improve Counterattack
+
+++ Rank 4
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Gargoyle || Guardian (T2) || 2 ||
+**Added Bills:** Triple EXP, Bonus Gauge Boost, Prinny Day, Improve Movement
+
+++ Rank 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Living Armor || Dark Knight (T2) || 1 ||
+|| Shadow || Nightmare (T1) || 2 ||
+**Added Bills:** Stronger Enemies, Weaker Enemies, Prinny Land
+
+++ Rank 6
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Golem || Ekim (T3) || 1 ||
+|| Spirit || Wraith (T4) || 3 ||
+**Added Bills:** Cave of Ordeals
+
+++ Rank 7
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Majin || Majin (T1) || 1 || Muramasa || Cactus Armor || Dandy Gown || ||
+|| Warrior || Centurion (T3) || 1 || Mistral Spear || Stinky Jacket || || ||
+|| Magician || Red Skull (T1) || 2 || Sage's Staff || Prophet's Robe || || ||
+**Added Bills:** Human World
+
+++ Rank 8
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Shark Dragon || Serpent (T1) || 1 || Fiendish Claw || Reaper's Cloak || Stealth Cape || ||
+|| Pumpkin || Decoy (T2) || 3 || || || || ||
+**Added Bills:** Alternate Netherworld
+
+++ Rank 9
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Dragon || Ahzi Dahaka (T4) || 1 ||
+|| Dragon || Dragon (T1) || 2 ||
+**Added Bills:** The Mysterious Seal
+
+++ Rank 10
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Nosferatu || Neuntoter (T3) || 1 ||
+|| Succubus || Lilim (T2) || 3 ||
+
+++ Rank 11
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Great Wyrm || Shaitan (T2) || 1 ||
+|| Zombie || Wight (T5) || 4 ||
+
++ Bonus Worlds
+++ Prinny Land
+**Bill to pass:** Prinny Land (Doesn't appear until Episode 9)
+**Mana Cost:** 400
+
+**Prinny Land 1**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Cpt. Prinny (T2) || 1 || || || || ||
+|| Prinny || Pvt. Prinny (T1) || 16 || || || || ||
+
+**Prinny Land 2**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Gen. Prinny (T3) || 4 || || || || ||
+|| Prinny || Pvt. Prinny (T1) || 6 || || || || ||
+
+**Prinny Land 3**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Prinny || Prinny God (T5) || 1 || Destroy || Platinum Tux || Guts Belt || Testament ||
+|| Prinny || Prinny King (T4) || 1 || Mystic Eye || Cactus Armor || || ||
+|| Prinny || Gen. Prinny (T3) || 13 || || || || ||
+|| Prinny || Cpt. Prinny (T2) || 6 || || || || ||
+
+++ Human World
+**Bill to pass:** Human World (Only appears during Final Episode)
+**Mana Cost:** 1,200
+
+**Central City**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| EDF Soldier || Space Marine (T6) || 1 || Odyssey || Orichalch Shield || Crosshair Scope || ||
+|| EDF Soldier || Space Police (T5) || 12 || T-199X || Platinum Tux || || ||
+|| Thief || Space Pirate (T6) || 1 || Olympus || Dragon Jacket || Hero Cape || ||
+|| Thief || Prowler (T4) || 1 || Gilgamesh || Hero Cape || || ||
+|| Thief || Bandit (T3) || 2 || Gilgamesh || Hero Cape || || ||
+
+**Neo Eden**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| EDF Soldier || Psi-Soldier (T4) || 2 || Fujiyama || Dragon Jacket || Foresight || ||
+|| EDF Soldier || Cyborg (T3) || 3 || Golden Axe || Dragon Jacket || || ||
+|| EDF Soldier || Officer (T2) || 2 || RQ99 Omega || Platinum Tux || || ||
+|| EDF Soldier || Recruit (T1) || 8 || RQ99 Omega || Platinum Tux || || ||
+
+**EDF Headquarters**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Astro Carter || General || 1 || || !Astro Suit || || ||
+|| Prism Ranger || Defender? || 2 || || Hero Cape || || ||
+|| EDF Soldier || Space Police (T5) || 6 || Olympus || Platinum Tux || || ||
+! Rank 40 Booster, always Legendary.
+Finishing this map will give the [https://youtu.be/xUBH6z6J00E?t=42 Human Conqueror ending] which lead into a new cycle.
+
+++ Alternate Netherworld
+**Bill to pass:** Alternate Netherworld
+**Mana Cost:** 3,000
+
+**Alternate World**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Faery || Koropokkuru (T4) || 5 || || || || ||
+|| Spirit || Specter (T3) || 11 || || || || ||
+
+**Hall of Sin**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Shadow || Death (T5) || 3 || || || || ||
+|| Golem || Djinn (T4) || 6 || || || || ||
+
+**Hall of Penance**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Beast || Tao Tieh (T5) || 1 || || || || ||
+|| Living Armor || Demonic Suit (T5) || 4 || || || || ||
+|| Lantern || Scarecrow (T4) || 12 || || || || ||
+
+**Malefic Seal**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Dragon || Tiamat (T5) || 1 || El Dorado || Shield of Aegis || || ||
+|| Dragon || Ahzi Dahaka (T4) || 2 || Orichalch Claw || Bahamut's Scale || || ||
+
+**Warrior Maiden**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Priere || Overlord || 1 || Lucifer Force || Infernal Armor || Arcadia || ||
+|| Succubus || Carmilla (T4) || 1 || El Dorado || Evil Armor || || ||
+|| Nekomata || Tailring (T4) || 1 || El Dorado || Evil Armor || || ||
+Priere's equipment can't be stolen as she will join you the first time with these items.
+
+Repeated version removes Priere and replaces her with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Majin || Divine Majin (Axe) (T6) || 1 || Infernal Axe || Infernal Armor || || ||
+|| Majin || Divine Majin (Gun) (T6) || 1 || Fenrir || Infernal Armor || || ||
+
+++ Cave of Ordeal
+**Bill to pass:** Cave of Ordeal
+**Mana Cost:** 700
+
+**Cave of Ordeal 1**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Beast || Manticore (T1) || 1 || || || || ||
+|| Treant || Zakkum (T4) || 8 || || || || ||
+
+**Cave of Ordeal 2**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Succubus || Succubus (T3) || 1 || Nessie Attack || Nine Tail Fur || || ||
+|| Nekomata || Cait Sith (T2) || 4 || Bear Claw || || || ||
+|| Nekomata || Nekomata (T1) || 6 || || || || ||
+
+**Cave of Ordeal 3**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Galactic Demon || Talos (T4) || 1 || || || || ||
+|| Galactic Demon || Nataku (T3) || 8 || || || || ||
+
+**Cave of Ordeal 4**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Nether Noble || Death Boar (T2) || 1 || Geo Saber || Evil Armor || Gritty Vest || Hero Belt ||
+|| Living Armor || Dullahan (T3) || 2 || || || || ||
+|| Imp || Alp (T4) || 6 || || || || ||
+
+**Cave of Ordeal 5**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| *Zombie || Zombie King (T6) || 1 || Amon Force || Nirvana || Chakra Belt || Muscle Star ||
+|| Dragon || Tiamat (T5) || 1 || Dragon Heart || Infernal Armor || || ||
+|| Gargoyle || Nebiros (T3) || 4 || || || || ||
+|| Shadow || Nightmare (T1) || 6 || || || || ||
+*Removed on repeated version
+Beating this map for the first time gives a Rank 39 Fist **God's Hand**.
+
+Demonhall Mirror becomes available after completing Cave of Ordeal 5, those on the Playstation version will not have this option as it was added in later releases.
+
+**Demonhall Mirror**
+Stage 1
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Shark Dragon || Evil Master || 1 || El Dorado || Muscle World || || ||
+
+Stage 2
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Zommie || Vassal || 1 || Dragon Heart || Hero Cape || || ||
+|| Ghoss || Vassal || 1 || Dragon Heart || || || ||
+|| Dratti || Vassal || 1 || Dragon Heart || || || ||
+|| Manty || Vassal || 1 || Dragon Heart || || || ||
+|| Goleck || Vassal || 1 || Dragon Heart || || || ||
+|| Gargo || Vassal || 1 || Dragon Heart || || || ||
+
+Stage 3
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| True Overlord || Overlord || 1 || El Dorado || Shield of Aegis || || ||
+
+Stage 4
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Serra Winguard || High Priest || 1 || Galactic Staff || Nirvana || Universal Orb || ||
+
+Stage 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Vesuvius || Fallen Angel || 1 || !Apocalypse || Infernal Armor || Infernal Shield || Infernal Cape ||
+! Rank 40 Weapon, always Legendary
+
+Stage 6
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Adell || Demon Buster || 1 || Amon Force || Testament || || ||
+
+Stage 7
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Rozalin || Princess || 1 || !Nemesis || Exodus || || ||
+|| Adell || Demon Buster || 1 || Lucifer Force || Testament || || ||
+! Rank 40 Weapon, always Legendary
+
+Stage 8 (Repeated version)
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Galactic Demon || Argus (T6) || 1 || || || || ||
+|| Galactic Demon || Ravana (T5) || 8 || || || || ||
+
+++ Baal Castle
+**Requirement:** Complete Alternate Netherworld & Beauty Castle
+
+**Patriarch's Seal**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Great Wyrm || Surt (T5) || 1 || Lucifer Force || Infernal Armor || Infernal Shield || ||
+|| Great Wyrm || Efreet (T1) || 3 || Belial Force || Infernal Armor || || ||
+
+**Lord of Terror**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Baal || Tyrant || 1 || @Nemesis || || !Super Robo Suit || ||
+! Rank 40 Armor, always Legendary.
+@ Rank 41 Weapon, always Legendary.
+
+Repeated version replaces Baal with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Baal || Uber Prinny || 1 || !Nemesis MK-II || || @Prinny Costume || ||
+! Rank 42 Weapon, always Legendary at Level 100.
+@ Rank 40 Booster, always Legendary at Level 100.
+
+++ Beauty Castle
+**Bill to pass:** The Mysterious Seal
+**Mana Cost:** 5,000
+
+**Foreboding Seal**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Great Wyrm || Flamberg (T4) || 1 || Amon Force || Infernal Cape || || ||
+|| Beast || Chimera (T4) || 2 || Belial Force || Shield of Aegis || || ||
+
+**Beauty of Evil**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Marjoly || Witch || 1 || Nyanko Soul || Gao's Guts || Crowdia's Beauty || Myao's Cat Ears ||
+|| Priest || Prophet (T5) || 2 || Kerykeion || Shield of Aegis || || ||
+Marjoly's equipment can't be stolen as she will join you the first time with these items.
+
+Repeated version removes Marjoly and replaces her with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Majin || Divine Majin (Sword) (T6) || 1 || Amano-Hahakiri || Infernal Armor || Infernal Shield || ||
+|| Majin || Divine Majin (Spear) (T6) || 1 || Infernal Spear || Infernal Armor || Infernal Shield || ||
+|| Majin || Divine Majin (Bow) (T6) || 1 || Infernal Bow || Infernal Armor || Infernal Shield || ||
+
++ Extra Characters
+This is mainly for those playing on DS, PC or Complete version as those on PS2 & PSP versions will not have these characters recruitable, even though those on PSP can fight these.
+
+**Pleinair**
+* DS: You need to be on a new cycle and pick the blank option when you talk to her. Easiest is losing to Mid-Boss in Episode 1.
+* PC: She will join your party automatically on a new cycle.
+* Complete: You need to see an ending that fully finishes the game (Etna Mode first counts) be at Promotion Rank 5 with 1000 mana and pass a bill.
+
+**Adell & Rozalin**
+Complete Demonhall Mirror stage 7.
+
+**Zetta**
+After recruiting Gordon, Jennifer & Thursday, have all 20 Stronger Enemy Bills passed and speak to the gatekeeper, she will mention something powerful at the Stellar Graveyard opening a unique bonus map in the last stage **Primordial Soup**. As long as you get this message you can reset the enemy strength after, but you need it maxed for this to appear.
+
+**9-5 Primordial Soup (Bonus)**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Zetta || Bad-ass || 1 || Nemesis || Arcadia || Galactic Muscle || ||
+|| Nether Noble || Archdemon (T5) || 1 || || || || ||
+|| Succubus || Lilith (T6) || 1 || || || || ||
+|| Nosferatu || Unholy King (T6) || 1 || || || || ||
+|| Imp || Daemon (T6) || 1 || || || || ||
+|| Dragon || Bahamut (T6) || 4 || || || || ||
+|| Manticore || Tao Tieh (T5) || 4 || || || || ||
+Zetta's equipment can't be stolen as he will join you the first time with these items, unless on PSP version where he doesn't join
+
++ Power Leveling
+Feel under powered and need a character to gain levels quickly? Certain maps can be done to gain levels quickly to help boost your characters that need an edge in levels.
+
+**3-4 Lavish Hall**
+This stage has 6 Brawlers lined up in a wall with their class called Wall of Meat. They will never move or attack regardless of how close you are to them, however they will counter if you do a normal attack in the tile directly in front of them. You can combine them into one high leveled Brawler to gain a lot of EXP if you kill it.
+
+**5-3 Terrible Cold**
+This is an interesting level given that there are only two tiles that don't have Invincibility on it, those being your base panel & a lone Green panel on the upper right of the map. This is once again a combine enemies into one for massive exp though the first few times you do this it will take awhile since the combined enemy will be at a pretty high level (for this point) thus you wont be dealing too much damage initially. This works very well with the Triple EXP bill due to only 1 enemy being defeated.
+
+**10-1 Fervent Melody**
+Similar to 5-3 this map has a lot of Invincibility tiles, unlike 5-3 however there are a couple of spots in the center of the map that don't have Invincibility which is where you will want to lift the Guardians and combine them from due to this map also having No Lifting. Like 5-3 the Triple EXP bill works well with this map due to only 1 enemy being defeated.
+
+**14-1 Field of Virtue**
+If you do not have access to the map below this is the next best place to level grind from the main story. The repeated version has 3 Strigois and 1 Neuntoter who should pose no threat to your party with high level gear on a map filled with the EXP+100% effect.
+
+**Cave of Ordeal 3**
+This map has a 3x3 formation of 8 Nataku's and 1 Talos with the entire map covered in an EXP+50% effect. Their DEF and RES is very high, but if you are using Magic (preferably Star-tiers) as long as you stay or move 6 spaces away from them they will not use Magnetic Blast which is their furthest reaching special given their low move of 2.
+
+**Beauty of Evil**
+For this you will want to have a Triple EXP bill active before entering to get the most of it. You will want to aim for defeating a Divine Majin first as they give the most experience in the game (next to Item God 2's in the Item World).
+
+**Demonhall Mirror**
+After finishing all stages of Demonhall Mirror the final and repeated version will basically be an enhanced Cave of Ordeal 3 with higher leveled Ravana's & Argus.
+
+**Etna Mode+ Cave of Ordeals 3**
+The same as Laharl's version of the stage however the Nataku's & Talos will be at much higher levels when you go through Etna Mode as the next cycle. Note that Laharl, Maderas, Gordon, Jennifer, Thursday, Kurtis, Priere & Marjoly can't take advantage of this grinding spot.
+
++ Etna Mode
+In all ports there is an extra story line known as Etna Mode. There are two ways to unlock this either complete the game after reading Etna's diary entries every chapter by finding the hidden switch behind the throne and the other near the skull by the Weapon/Armor shops to open her room near the Prinny in the hall where Longinus is at (the Prinny stands to show you the corner it's in), or on the main menu highlight New Game and press Triangle, Square, Circle, Triangle, Square, Circle, X, for the DS version you press X, Y, B, X, Y, B, A. If you hear Etna's voice that should confirm that it worked.
+
+**Warning:** If you are going to do this after the Main Story make sure your levels are above 260 or you have sufficiently powerful gear as doing this second causes enemies to jump in levels as you go further. For reference Etna mode done first has the highest level non-boss enemy at 40 compared to 260 when doing it second.
+
+++ Episode 1 Super Dimensional Etna
+Stellar Graveyard
+**Valgipus IV**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Spirit || Ghost (T1) || 3 || || || || ||
+|| Zombie || Zombie (T1) || 1 || || || || ||
+Repeated version removes the Zombie and replaces it with a 4th Ghost closer to the Base Panel.
+
+Vyers Castle
+**1-1 Magnificent Gate**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Spirit || Ghost (T1) || 5 || || || || ||
+|| Priest || Cleric (T1) || 1 || Wooden Staff || Common Orb || || ||
+|| Faery || Hobbit (T1) || 2 || || || || ||
+|| *Archer || Archer (T1) || 1 || Common Bow || || || ||
+*Removed on repeated version
+
+**1-2 Blessed Court**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Spirit || Ghost (T1) || 8 || || || || ||
+|| Faery || Hobbit (T1) || 2 || || || || ||
+|| *Witch || Red Mage (T1) || 1 || Wooden Staff || Amulet || || ||
+|| *Witch || Blue Mage (T3) || 1 || Wooden Staff || Amulet || || ||
+*Removed on repeated version
+
+**1-3 Corridor of Love**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Spirit || Ghost (T1) || 6 || || || || ||
+|| Spirit || Boggart (T2) || 4 || || || || ||
+|| Archer || Archer (T1) || 2 || Common Bow || Protector || || ||
+|| *Lady Samurai || Ronin (T1) || 1 || Knight's Lance || Power Belt || Amulet || ||
+*Removed on repeated version
+
+**1-4 Hall of Caresses**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Vyers || Dark Adonis || 1 || Paw Glove || Protector || || ||
+|| *Cleric || Cleric (T1) || 1 || Light Staff || || || ||
+|| *Priest || Cleric (T1) || 1 || Light Staff || || || ||
+|| Warrior || Warrior (T1) || 1 || Short Sword || Bulletproof Vest || || ||
+|| Valkyrie || Warrior (T1) || 1 || Short Sword || Bulletproof Vest || || ||
+|| Spirit || Boggart (T2) || 6 || || || || ||
+*Removed on repeated version
+
+Repeated version replaces Vyers with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Imp || Gremlin (T2) || 1 || Paw Glove || || || ||
+
+++ Episode 2 Space Detective Etna
+Dinero Palace
+**2-1 Gaudy Entrance**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Zombie || Zombie (T1) || 5 || || || || ||
+|| Zombie || Ghoul (T2) || 2 || || || || ||
+|| Imp || Imp (T1) || 2 || || || || ||
+|| Fight Mistress || Pugilist (T2) || 1 || Knight's Lance || Bulletproof Vest || Protector || ||
+
+Repeated version replaces the Fight Mistress with
+|| Zombie || Corpse (T3) || 1 || Shocking Grasp || Bulletproof Vest || || ||
+
+**2-2 Golden Courtyard**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Imp || Imp (T1) || 4 || || || || ||
+|| Zombie || Zombie (T1) || 8 || || || || ||
+|| *Cleric || Cleric (T1) || 1 || Witch's Staff || || || ||
+|| *Strider || Scout (T1) || 1 || RQ38 Custom || Bulletproof Vest || Magnifying Glass || ||
+*Removed on repeated version
+
+**2-3 Flashy Passage**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Zombie || Zombie (T1) || 15 || || || || ||
+|| *Zombie || Ghoul (T2) || 2 || || || || ||
+|| *Thief || Rogue (T1) || 1 || || || || ||
+|| *Thief || Rogue (T1) || 1 || RQ38 Custom || || || ||
+|| *Thief || Thief (T2) || 1 || RQ-P38 || Fancy Lid || Nerd Glasses || ||
+*Removed on repeated version
+
+**2-4 Lavish Hall**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Hoggmeiser || Rich Demon || 1 || Bat Parasol || Leather Jacket || || ||
+|| Cleric || Cleric (T1) || 1 || Witch's Staff || Dark Orb || || ||
+|| Priest || Cleric (T1) || 1 || Mage's Staff || Psyche Orb || || ||
+|| Zombie || Ghoul (T2) || 4 || || || || ||
+
+Repeated version replaces Hoggmeiser with the following
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Beast || Manticore (T1) || 1 || Poison Needle || Leather Jacket || || ||
+
+++ Finale Chronicles of Etnarnia
+Sea of Gehenna
+**3-1 Fervent Melody**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Treant || Oakrot || 12 || || || || ||
+|| Lantern || Pumpkin (T1) || 2 || || || || ||
+|| Living Armor || Killer Armor (T1) || 1 || || || || ||
+
+**3-2 Wasteland of Woe**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Treant || Oakrot || 13 || || || || ||
+|| *Living Armor || Killer Armor (T1) || 3 || || || || ||
+*Removed on repeated version
+
+**3-3 River of Lava**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Flonne || S. Detective || 1 || Hibernal Staff || Chain Mail || || ||
+|| Treant || Oakrot || 9 || || || || ||
+|| *Living Armor || Dark Knight (T2) || 2 || || || || ||
+*Removed on repeated version
+
+Repeated version replaces Flonne with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Zombie || Zombie (T1) || 1 || || !Horse Wiener || !Mahogany's Brain || !Hercules' Body ||
+! Rank 15 special item. You can continue to steal these to get the Rare and Legendary quality for the Collection Record.
+
+**3-4 Searing Tyranny**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| *Flonne || S. Detective || 1 || Hibernal Staff || Chain Mail || || ||
+|| Treant || Oakrot || 6 || || || || ||
+|| Living Armor || Dark Knight (T2) || 4 || || || || ||
+|| Lantern || Decoy (T2) || 3 || || || || ||
+*Removed on repeated version
+
+**3-5 Inferno**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Dark Flonne || Angel Trainee || 1 || Lethal Knuckle || Bushido Armor || Soul Belt || Ninja Shoes ||
+
+Repeated version replaces Dark Flonne with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Dragon || Fafnir (T2) || 1 || Bat Parasol || Chain Mail || || ||
+
+++ Finale Cont. Chronicles of Etnarnia
+Jotunheim
+**4-1 Absolute Zero**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| *Antoire || Noble Demon || 1 || Cat's Claw || Chain Mail || Opera Glasses || Dark Rosary ||
+|| Imp || Agathion (T3) || 4 || || || || ||
+|| Prinny || Durian || 1 || Poison Needle || Leather Jacket || || ||
+|| Prinny || Durian || 1 || Shocking Grasp || Endeavor Belt || || ||
+|| Prinny || Durian || 9 || || || || ||
+*Removed on repeated version removes
+
+Repeated version replaces all Prinnies with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Imp || Gremlin (T2) || 9 || || || || ||
+
+**4-2 Endless White**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| *Ninja || Ninja (Spear) (T1) || 1 || Bushido Lance || Bushido Armor || Plastic Nose || ||
+|| *Ninja || Ninja (Axe) (T1) || 1 || Iron Axe || Chain Mail || || ||
+|| Imp || Agathion (T3) || 7 || || || || ||
+|| Archer || Sniper (T2) || 3 || Pixie Bow || Leather Jacket || || ||
+*Removed on repeated version
+
+**4-3 Terrible Cold**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| *Ninja || Adept Ninja (T2) || 2 || Blessed Bow || Chain Mail || Ninja Shoes || ||
+|| *Ninja || Adept Ninja (T2) || 1 || Blessed Bow || Chain Mail || Slippers || ||
+|| Golem || Golem (T1) || 3 || || || || ||
+|| Spirit || Bogart (T3) || 10 || || || || ||
+*Removed on repeated version
+
+**4-4 Ice Queen**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| *Shadow || Shade (T2) || 1 || Bat Parasol || Star Orb || || ||
+|| Spirit || Bogart (T3) || 20 || || || || ||
+*Removed on repeated version
+
+Grand North
+**5-1 Ice Beast Gate**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| *Gargoyle || Guardian (T2) || 1 || Lizard Tail || Gritty Vest || || ||
+|| *Gargoyle || Gargoyle (T1) || 4 || || || || ||
+|| Zombie || Corpse (T3) || 9 || || || || ||
+*Removed on repeated version
+
+**5-2 Frost Castle**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| *Maderas || Demon Sire || 1 || Tentacles || Dandy Gown || Royal Ring || ||
+|| *Cleric || Priest (T2) || 2 || Forgetful Staff || || || ||
+|| *Gargoyle || Nebiros (T3) || 2 || || || || ||
+|| Zombie || Corpse (T3) || 10 || || || || ||
+*Removed on repeated version
+
+**5-3 Millennium Ice**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Vulcanus || Archangel || 1 || Cobra Fang || Stinky Jacket || Aura Belt || ||
+|| Angel || Angel Cadet (T2) || 2 || Sprite Bow || Magic Vest || || ||
+|| Angel (Spear) || Angel (T1) || 2 || Forgetful Spear || || || ||
+|| Angel (Sword) || Angel (T1) || 2 || Magic Sword || Fur Coat || || ||
+Finishing this map will give the [https://youtu.be/aEYkgw5PPJE Etna Mode Ending] which lead into a new cycle.
+
++ Promotion Exam (Etna Mode)
+These are largely the same as the main story, though some bills won't be added as they aren't accessible in Etna Mode. Characters that Reincarnate must retake exams as their promotion level gets reset to 0, most of the enemies in these exams don't have any equipment, in the case that they do it will be formatted like normal.
+
+++ Rank 1
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Zombie || Zombie (T1) || 3 ||
+|| Zombie || Ghoul (T2) || 1 ||
+**Added Bills:** More Expensive Stuff, Cheaper Stuff
+
+++ Rank 2
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Zombie || Ghoul (T2) || 2 ||
+|| Zombie || Corpse (T3) || 1 ||
+**Added Bills:** Eyewear Inventory, Belt Inventory, Shoe Inventory
+
+++ Rank 3
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Imp || Gremlin (T2) || 1 ||
+|| Faery || Hobbit (T1) || 3 ||
+**Added Bills:** Transmigrate/Reincarnation, Improve Counterattack
+
+++ Rank 4
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Gargoyle || Guardian (T2) || 2 ||
+**Added Bills:** Triple EXP, Bonus Gauge Boost, Prinny Day, Improve Movement
+
+++ Rank 5
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Living Armor || Dark Knight (T2) || 1 ||
+|| Shadow || Nightmare (T1) || 2 ||
+**Added Bills:** Stronger Enemies, Weaker Enemies
+
+++ Rank 6
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Golem || Ekim (T3) || 1 ||
+|| Spirit || Wraith (T4) || 3 ||
+**Added Bills:** Cave of Ordeals
+
+++ Rank 7
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Majin || Majin (T1) || 1 || Muramasa || Cactus Armor || Dandy Gown || ||
+|| Warrior || Centurion (T3) || 1 || Mistral Spear || Stinky Jacket || || ||
+|| Magician || Red Skull (T1) || 2 || Sage's Staff || Prophet's Robe || || ||
+
+++ Rank 8
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Shark Dragon || Serpent (T1) || 1 || Fiendish Claw || Reaper's Cloak || Stealth Cape || ||
+|| Pumpkin || Decoy (T2) || 3 || || || || ||
+**Added Bills:** Alternate Netherworld
+
+++ Rank 9
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Dragon || Ahzi Dahaka (T4) || 1 ||
+|| Dragon || Dragon (T1) || 2 ||
+**Added Bills:** The Mysterious Seal
+
+++ Rank 10
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Nosferatu || Neuntoter (T3) || 1 ||
+|| Succubus || Lilim (T2) || 3 ||
+
+++ Rank 11
+||~ Name ||~ Class (Tier) ||~ Quantity ||
+|| Great Wyrm || Shaitan (T2) || 1 ||
+|| Zombie || Wight (T5) || 4 ||
+
++ Bonus Worlds
+++ Alternate Netherworld
+**Bill to pass:** Alternate Netherworld
+**Mana Cost:** 3,000
+
+**Alternate World**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Faery || Koropokkuru (T4) || 5 || || || || ||
+|| Spirit || Specter (T3) || 11 || || || || ||
+
+**Hall of Sin**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Shadow || Death (T5) || 3 || || || || ||
+|| Golem || Djinn (T4) || 6 || || || || ||
+
+**Hall of Penance**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Beast || Tao Tieh (T5) || 1 || || || || ||
+|| Living Armor || Demonic Suit (T5) || 4 || || || || ||
+|| Lantern || Scarecrow (T4) || 12 || || || || ||
+
+**Malefic Seal**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Dragon || Tiamat (T5) || 1 || El Dorado || Shield of Aegis || || ||
+|| Dragon || Ahzi Dahaka (T4) || 2 || Orichalch Claw || Bahamut's Scale || || ||
+
+**Warrior Maiden**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Priere || Overlord || 1 || Lucifer Force || Infernal Armor || Arcadia || ||
+|| Succubus || Carmilla (T4) || 1 || El Dorado || Evil Armor || || ||
+|| Nekomata || Tailring (T4) || 1 || El Dorado || Evil Armor || || ||
+Priere's equipment can't be stolen, additionally unlike Laharl's story she doesn't join you.
+
+Repeated version removes Priere and replaces her with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Majin || Divine Majin (Axe) (T6) || 1 || Infernal Axe || Infernal Armor || || ||
+|| Majin || Divine Majin (Gun) (T6) || 1 || Fenrir || Infernal Armor || || ||
+
+++ Cave of Ordeal
+**Bill to pass:** Cave of Ordeal
+**Mana Cost:** 700
+
+**Cave of Ordeal 1**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Beast || Manticore (T1) || 1 || || || || ||
+|| Treant || Zakkum (T4) || 8 || || || || ||
+
+**Cave of Ordeal 2**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Succubus || Succubus (T3) || 1 || Nessie Attack || Nine Tail Fur || || ||
+|| Nekomata || Cait Sith (T2) || 4 || Bear Claw || || || ||
+|| Nekomata || Nekomata (T1) || 6 || || || || ||
+
+**Cave of Ordeal 3**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Galactic Demon || Talos (T4) || 1 || || || || ||
+|| Galactic Demon || Nataku (T3) || 8 || || || || ||
+
+**Cave of Ordeal 4**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Nether Noble || Death Boar (T2) || 1 || Geo Saber || Evil Armor || Gritty Vest || Hero Belt ||
+|| Living Armor || Dullahan (T3) || 2 || || || || ||
+|| Imp || Alp (T4) || 6 || || || || ||
+
+**Cave of Ordeal 5**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| *Zombie || Zombie King (T6) || 1 || Amon Force || Nirvana || Chakra Belt || Muscle Star ||
+|| Dragon || Tiamat (T5) || 1 || Dragon Heart || Infernal Armor || || ||
+|| Gargoyle || Nebiros (T3) || 4 || || || || ||
+|| Shadow || Nightmare (T1) || 6 || || || || ||
+*Removed on repeated version
+Beating this map for the first time gives a Rank 39 Fist **God's Hand**.
+
+++ Baal Castle
+**Requirement:** Complete Alternate Netherworld & Beauty Castle
+
+**Patriarch's Seal**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Great Wyrm || Surt (T5) || 1 || Lucifer Force || Infernal Armor || Infernal Shield || ||
+|| Great Wyrm || Efreet (T1) || 3 || Belial Force || Infernal Armor || || ||
+
+**Lord of Terror**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Baal || Tyrant || 1 || @Nemesis || || !Super Robo Suit || ||
+|| Prinny || Pvt. Prinny (T1) || 12 || || || || ||
+! Rank 40 Armor, always Legendary.
+@ Rank 41 Weapon, always Legendary.
+
+Finishing this map will give the [https://www.youtube.com/watch?v=nJo-HZQoG5A Tyrant Beauty Etna Ending] which lead into a new cycle.
+
+++ Beauty Castle
+**Bill to pass:** The Mysterious Seal
+**Mana Cost:** 5,000
+
+**Foreboding Seal**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Great Wyrm || Flamberg (T4) || 1 || Amon Force || Infernal Cape || || ||
+|| Beast || Chimera (T4) || 2 || Belial Force || Shield of Aegis || || ||
+
+**Beauty of Evil**
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Marjoly || Witch || 1 || Nyanko Soul || Gao's Guts || Crowdia's Beauty || Myao's Cat Ears ||
+|| Priest || Prophet (T5) || 2 || Kerykeion || Shield of Aegis || || ||
+Marjoly's equipment can't be stolen, additionally unlike Laharl's story she doesn't join you.
+
+Repeated version removes Marjoly and replaces her with
+||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
+|| Majin || Divine Majin (Sword) (T6) || 1 || Amano-Hahakiri || Infernal Armor || Infernal Shield || ||
+|| Majin || Divine Majin (Spear) (T6) || 1 || Infernal Spear || Infernal Armor || Infernal Shield || ||
+|| Majin || Divine Majin (Bow) (T6) || 1 || Infernal Bow || Infernal Armor || Infernal Shield || ||
+
++ Bugged Foresight and Tainted Staff
+Unique to Afternoon of Darkness (PSP version) there is a bug involving the Glasses item Foresight, for some reason in this version Foresight is bugged in that it will have much higher than normal specialists inside as well as having messed up stats such as giving you negative Jm when equipped on someone which makes them unable to move. There is even a chance for there to be already subdued specialists that you can pass over that are well over the effective cap it's supposed to have as they appear at 10840. These are mainly Armsmaster (Weapon mastery up, effective cap 1900), Statistician (EXP up, effective cap 300), Manager (Mana up, effective cap 300) & Broker (HL up, effective cap 300). You can buy these by having the bill Eyewear Inventory passed and with your Customer Rank at 8. This also happens with the Staff item Tainted Staff, if you go in the Item World of these items all enemies will be replaced with Laharl's.
+
+
+[[include common:image-css |image=http://capa.wikidot.com/local--files/guide:disgaea1/D1PSPForesightGlitch.jpg |title=300K+ to never farm for these? Sign me up for that.]]
+[[include common:image-css |image=http://capa.wikidot.com/local--files/guide:disgaea1/D1PSPStaffGlitch.jpg |title=Well this staff truly is tainted.]]
+[[include common:image-css |image=http://capa.wikidot.com/local--files/guide:disgaea1/D1PSPIWGlitch.jpg |title=No clone panels were used in the making of this.]]

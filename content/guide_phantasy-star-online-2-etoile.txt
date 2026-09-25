@@ -1,0 +1,403 @@
+@title: Phantasy Star Online 2: Etoile Guide
+@author: Perseonn Balthasaar
+@updated: 2020-06-14
+
+This is a laid-back guide intended to help people optimizing their Etoile usage! Rather than flail around with Etoile weaponry, utilize combos to better your output!
+
+[[include component:pso2-nav]]
+
+[[div class="alert alert-info"]]
+[[span class="fa fa-exclamation-circle"]]@<&nbsp;>@[[/span]] **Changelog**
+|| 2020/12/14 || Added demo videos. ||
+|| 2020/12/09 || Updated item names with NA translation, updated S-Class Ability section, updated Weapon List, minor note update to few PAs. ||
+|| 2020/06/16 || Revised weapon S-Class Ability section. Unit section removed in favor of a separate unit guide. ||
+|| 2020/06/11 || Initial version. ||
+|| 2020/05/25 || Prototype version. ||
+[[/div]]
+
+
++ Part 1: Basic Etoile
+
+[[include image |ratio=pso2-su-infographics |image=local--files/guide:phantasy-star-online-2-etoile/info-et-basics-1.avif |title=Etoile Basics]]
+Etoile is a successor class that uses [[span class="icon wp-ds"]]Double Saber[[/span]], [[span class="icon wp-db"]]Dual Blade (Soaring Blade)[[/span]], and [[span class="icon wp-wa"]]Wand[[/span]]. They have a lot of damage resistance (70%!) and can do a lot of damage as well. Due to the resistance, Etoile is one of the easiest class to use for "high difficulty" quests and end-game contents.
+ _
+[[div class="alert alert-info"]]
+[[span class="fa fa-exclamation-circle"]]@<&nbsp;>@[[/span]] **This guide assumes that**:
+* You know how PSO2 works in general, as you need 2 level 75 classes to unlock Etoile
+* You have done the Etoile Tutorial
+* You know who Lucotte (ルコット) is
+* You can amass Excubes
+* You can amass Photon Spheres
+[[/div]]
+
+++ Basic Equipments
+You should use whatever weapons and units available to you. Assuming you have at least 120 ATK on your mag and no L75 class boosts, here are some recommendations:
+[[div class="basic-equip"]]
+||~ Level ||~ Weapon ||~ Units ||~ Description ||
+|| 30    || [[span class="cell-item icon wp-ds"]]Nox Cadina-NT[[/span]] [[span class="cell-item icon wp-ds"]]ノクスカディナ-NT[[/span]] [[span class="cell-item icon wp-db"]]Nox Dinas-NT[[/span]] [[span class="cell-item icon wp-db"]]ノクスディナス-NT[[/span]] [[span class="cell-item icon wp-wa"]]Nox Qucross-NT[[/span]] [[span class="cell-item icon wp-wa"]]ノクスキュクロス-NT[[/span]] || [[span class="cell-item icon unit-rear"]]Rear/Ronia Pointa[[/span]] [[span class="cell-item icon unit-rear"]]サブ／ロニアポインタ[[/span]] [[span class="cell-item icon unit-arm"]]Arm/Ronia Shell[[/span]] [[span class="cell-item icon unit-arm"]]アーム／ロニアシェル[[/span]] [[span class="cell-item icon unit-leg"]]Leg/Ronia Port[[/span]] [[span class="cell-item icon unit-leg"]]レッグ／ロニアポート[[/span]] || [[span class="cell-item"]]A grinded Nox should be available from Player Shop.[[/span]] [[span class="cell-item"]]Ronia sets are available from Photon Sphere Shop.[[/span]] ||
+|| 55    || || [[span class="cell-item icon unit-sub"]]Sub/Stellar Wall[[/span]] [[span class="cell-item icon unit-sub"]]サブ／ステラウォール[[/span]]  || [[span class="cell-item"]]You should already have Stellar Wall from title reward when reaching L75 with any of your other classes.[[/span]] ||
+|| 70    || [[span class="cell-item icon wp-ds"]]Dim Double Saber[[/span]] [[span class="cell-item icon wp-ds"]]ディムＤセイバー[[/span]] [[span class="cell-item icon wp-db"]]Dim Dual Blade[[/span]] [[span class="cell-item icon wp-db"]]ディムDブレード[[/span]] [[span class="cell-item icon wp-wa"]]Dim Wand[[/span]] [[span class="cell-item icon wp-wa"]]ディムウォンド[[/span]] || || [[span class="cell-item"]]Dims are availabe from Player Shop.[[/span]] [[span class="cell-item"]]If you have 200 ATK mag, you can wield Dims on level 60.[[/span]] [[span class="cell-item"]]If you have 200 ATK mag, and maxed class boosts, you can wield Dims on level 50.[[/span]]  ||
+[[/div]]
+
+++ Etoile Mag
+Thanks to Etoile Mag skill, any points added to a mag's [[span class="icon stat-satk"]]S-ATK[[/span]], [[span class="icon stat-ratk"]]R-ATK[[/span]], and [[span class="icon stat-tatk"]]T-ATK[[/span]] will be distributed to all attacks at 1:1 rate. So if you have 200 [[span class="icon stat-tatk"]]T-ATK[[/span]] mag, you'll also gain 200 [[span class="icon stat-satk"]]S-ATK[[/span]] and 200 [[span class="icon stat-ratk"]]R-ATK[[/span]].
+
+Preferably your mag has this following setup:
+||~ Parameter ||~ Value ||~ Description ||
+|| T-ATK || 200 || [[span class="cell-item"]]Focusing on pure T-ATK will give you access to the exclusive, PP Restore J.[[/span]] ||
+|| Photon Blast || Cetus Proi || [[span class="cell-item"]]You'll automatically get Cetus Proi upon focusing on T-ATK. [[/span]] [[span class="cell-item"]]You can buy PB Device Cetus P (PBデバイス／ケートスP) from the Excube shop.[[/span]] ||
+|| Auto Action || Megid || [[span class="cell-item"]]Megid is a powerful auto action and can poison enemy.[[/span]] [[span class="cell-item"]]Along with Wand and Mag Excite Ring, your mag can contribute damage comparable to S4 Raising Pursuit.[[/span]] [[span class="cell-item"]]You can buy [[span class="icon item-devc"]]T-ATK Device Megid (法撃デバイス／メギド)[[/span]] from the Excube Shop[[/span]]||
+|| Auto SP Action || Barricade (鉄壁 //Unbreakable//) || [[span class="cell-item"]]I personally prefer this since in higher difficulty bosses can do a lot of damage in a single bow; this can be a lifesaver when you least expect it.[[/span]] [[span class="cell-item"]]You can buy [[span class="icon item-devc"]]SP DEX Device Barricade (SP技量デバイス／鉄壁 //SP DEX Device Iron Wall//)[[/span]] from the Excube Shop.[[/span]] [[span class="cell-item"]]If you have PP trouble, pick Rapid Fire. Dance is hardly useful because it's hard to time it properly with your burst attacks.[[/span]] ||
+|| Trigger Action || [[span class="cell-item"]]PP Restore J[[/span]] [[span class="cell-item"]]Mate Production[[/span]] [[span class="cell-item"]]Atomizer Production[[/span]] || [[span class="cell-item"]]Put multiple Mate and Atomizer Production.[[/span]] [[span class="cell-item"]]If you have 8 slots by using the [[span class="icon item-devc"]]Mag Support Expansion Kit (マグ支援枠拡張デバイス //Mag Support Extend Device//)[[/span]], you can have PP Restore J, 2 Mate Productions and 5 Atomizer Productions.[[/span]] [[span class="cell-item"]]You can get the production devices as E-Trial drops, or buy in Player Shop: [[span class="icon item-devc"]]Production Device/Mates (生産デバイス／HP回復系)[[/span]] and [[span class="icon item-devc"]]Production Device/Mizers (生産デバイス／範囲系)[[/span]].[[/span]] [[span class="cell-item"]]I personally went for all Atomizers since I rarely ran out of Monomates.[[/span]] ||
+
+++ Skill Tree
+[[include image |ratio=pso2-su-infographics |image=local--files/guide:phantasy-star-online-2-etoile/info-et-skill-tree.avif |title=Etoile Skill Tree]]
+
+Etoile's skill tree doesn't require too much details. For general purpose Main and Sub, the Recommended Setting available on the Class counter is already optimal, focusing on maxing Damage Balancer and Tech Arts Count Bonus, while getting just 3 points for Same Arts PP Save.
+
+[[a href="https://bit.ly/3c7IfYR"]] For a Skill Simulator version, click here [[span class="fa fa-external-link-square"]]@<&nbsp;>@[[/span]][[/a]]
+
++++ About Etoile Boost
+Etoile boost provides increased damage resistance each time you get hit. First hit is 15%, second hit is 30%, and and so on until 5th hit at 75%. However, the damage resistance decays at 25% per second. For example, if you get hit 5 times in less than 1 second, you'll hit the 75% damage reduction, but on the next second, it will be reduced to 50%, then 25%, then back to 0%. While the mechanics can be considered quirky, learning this skill provides you with at least 15% damage reduction.
+
+The decay rate can be reduced by 50% (becoming 12.5% per second) with [[span class="icon op-sclass"]]S6:Long Night Star (S6:長夜の明星)[[/span]]; but considering PSO2 UH bosses so far, the only thing this protects you from are Ultra Miser missiles.
+
++++ About Tech Arts Count Bonus
+At L10, the Tech Arts Count Bonus (TACB) give you 15% damage increase and 10% PP reduction for the next 3 different JA'd PA after a JA'd PA. TACB count will not be zeroed by normal attacks
+
+For example:
+||~ Combo Example ||~ PA 1 ||~ PA 2 ||~ PA 3 ||~ PA 4||~ PA 5||
+|| P-Circular - 4x L-Flare || P-Circular _
+(TACB Left:0) || TACB L-Flare _
+(TACB Left:2) || TACB L-Flare _
+(TACB Left:1) || TACB L-Flare _
+(TACB Left:0) || L-Flare _
+(TACB Left:0) || 
+|| P-Circular - 3x L-Flare - P-Circular || P-Circular _
+(TACB Left:0) || TACB L-Flare _
+(TACB Left:2) || TACB L-Flare _
+(TACB Left:1) || TACB L-Flare _
+(TACB Left:0) || TACB P-Circular _
+(TACB Left:2) || 
+|| P-Circular - L-Flare - Normal 3 - L-Flare - L-Flare || P-Circular _
+(TACB Left:0) || TACB L-Flare _
+(TACB Left:2) || Normal 3 _
+(TACB Left:2) || TACB L-Flare _
+(TACB Left:1) || TACB L-Flare _
+(TACB Left:0) || 
+
++++ About Same Arts PP Save
+Same Arts PP Save (SAPPS) reduces the PA cost of same PA in succession. At L3, for each same PA used, it will give 8%, 16%, 24%, and maxed at 25%. This can work in-tandem with TACB's 3 PA limit, stacking the PP cost reduction. Since there can only be 2 PAs affected by SAPPS+TACB, having L3 (8% and 16%), is more less same with L2 (9% and 15%), but L3 is more lenient when you miscount your PA. SAPPS doesn't get reset by normal attacks and works regardless of JA.
+
+For example:
+||~ Combo Example ||~ PA 1 ||~ PA 2 ||~ PA 3 ||~ PA 4||~ PA 5||
+|| P-Circular - 4x L-Flare || P-Circular _
+(TACB Left:0) || TACB L-Flare _
+(TACB Left:2) || TACB L-Flare _
+(TACB Left:1) _
+(SAPPS -8%) || TACB L-Flare _
+(TACB Left:0) _
+(SAPPS -16%) || L-Flare _
+(TACB Left:0) _
+(SAPPS -25%) || 
+|| P-Circular - 3x L-Flare - P-Circular || P-Circular _
+(TACB Left:0) || TACB L-Flare _
+(TACB Left:2) || TACB L-Flare _
+(TACB Left:1) _
+(SAPPS -8%) || TACB L-Flare _
+(TACB Left:0) _
+(SAPPS -16%) || TACB P-Circular _
+(TACB Left:2) || 
+|| P-Circular - L-Flare - Normal 3 - L-Flare - L-Flare || P-Circular _
+(TACB Left:0) || TACB L-Flare _
+(TACB Left:2) || Normal 3 _
+(TACB Left:2) || TACB L-Flare _
+(TACB Left:1) _
+(SAPPS -8%) || TACB L-Flare _
+(TACB Left:0) _
+(SAPPS -16%) || 
+
++ Part 2: Intermediate Etoile
+[[div class="alert alert-info"]]
+[[span class="fa fa-exclamation-circle"]]@<&nbsp;>@[[/span]] **Intermediate Objectives**:
+* You can assign helpful rings on your units: Atomizer Lovers, Mate Lovers, Easy Full Connect
+* You know the quirks of each Etoile Weapon
+* You can perform the optimum rotation combo of Double Saber
+* You can perform the optimum rotation combo of Dual Blade
+* You can perform the optimum rotation combo of Wand
+[[/div]]
+
+++ Rings
+||~ Icon ||~ Name ||~ Grind ||~ Description ||
+|| [[image ./img%3Apso2-ring/ring-freezeguard.png class="pso2-icon double"]] || [[span class="cell-item icon item-ring"]][[span class="rear-icon flag-na"]]Critical Strike (R)[[/span]][[/span]][[span class="cell-item icon item-ring"]]R／Cストライク[[/span]][[span class="cell-item icon item-ring"]]R/C Strike[[/span]] || Yes || [[span class="cell-item"]]Useful to increase Etoile's base 50% critical rate.[[/span]] ||
+|| [[image ./img%3Apso2-ring/ring-atomizerlovers.png class="pso2-icon double"]] || [[span class="cell-item icon item-ring"]][[span class="rear-icon flag-na"]]Atomizer Fanatic (L)[[/span]][[/span]][[span class="cell-item icon item-ring"]]L／アトマイザーラバーズ[[/span]][[span class="cell-item icon item-ring"]]L/Atomizer Lover[[/span]] || Yes || [[span class="cell-item"]]Speeds up atomizer use by 100% (double speed!) and turns you invulnerable when doing so.[[/span]][[span class="cell-item"]]Increases atomizer healing by 60%, making Star Atomizer restores 80% HP.[[/span]][[span class="cell-item"]]With S7 Increased Efficiency, Star Atomizer healing becomes 104%, restoring full HP and making you invulnerable when doing so.[[/span]] ||
+|| [[image ./img%3Apso2-ring/ring-matelovers.png class="pso2-icon double"]] || [[span class="cell-item icon item-ring"]][[span class="rear-icon flag-na"]]Mate Maniac (L)[[/span]][[/span]][[span class="cell-item icon item-ring"]]L／メイトラバーズ[[/span]][[span class="cell-item icon item-ring"]]L/Mate Lovers[[/span]] || Yes || [[span class="cell-item"]]Speeds up mate use by 60% and healing by 20%[[/span]][[span class="cell-item"]]Less useful than Atomizer Lover since this doesn't grant invulnerability.[[/span]][[span class="cell-item"]]With S7 Increased Efficiency, even Monomate can heal about 46%HP![[/span]] ||
+|| [[image ./img%3Apso2-ring/ring-mockeasyfullconnect.png class="pso2-icon double"]] || [[span class="cell-item icon item-ring"]]L／イージーフルコネクト[[/span]][[span class="cell-item icon item-ring"]]L/Easy Full Connect[[/span]] || No || [[span class="cell-item"]]Allows charging Connect and turn it to Full Connect with just 1 gear bar![[/span]][[span class="cell-item"]]Useful to increase DPS on Dual Blades, details below![[/span]] ||
+|| [[image ./img%3Apso2-ring/ring-magexcite.png class="pso2-icon double"]] || [[span class="cell-item icon item-ring"]][[span class="rear-icon flag-na"]]Mag Excitement (L)[[/span]][[/span]][[span class="cell-item icon item-ring"]]L／マグエキサイト[[/span]][[span class="cell-item icon item-ring"]]L/Mag Excite[[/span]] || Yes || [[span class="cell-item"]]Increases Mag auto action frequency and power.[[/span]][[span class="cell-item"]]Can contribute significant damage when wand is active.[[/span]] ||
+
+
+
+
+++ [[image wp-ds-27x.png class="h2-icon"]] Double Saber
+To know the basics of Double Saber, please do the Etoile Training Quest on Double Saber. Double Saber (DS) is a balanced weapon in both offense and defense. You're expected to counter each incoming attacks with its **Weapon Action, Deflect** which does a lot of damage. Getting hit a lot means you cannot spend gear to use Enhanced Normal or Enhanced Quick Take to inflict damage and restore PP.
+
+[[div class="row"]]
+[[include component:pso2-pros-cons
+|pros=* Balanced damage among all PA, making it easier to pickup
+* Has the only instant-point attack, the Shooting Star
+* Able to counterattack anytime using Weapon Action, even in middle of PA
+* Low PP Cost
+* Good PP regain
+* While having at least 1 gear, all damage taken will be reduced
+|cons=* While having at least 1 gear, each hit taken will automatically reduces gear by 1
+* DS Skip Arts can be awkward to use, while the strongest combo requires it
+* Enhanced Quick Takes can be awkward to use, since you need to hold the normal attack button until the hit connects
+]]
+[[/div]]
+
++++ Double Saber Photon Arts
+||~ Icon ||~ Name ||~ Property ||
+|| [[image ./img%3Apso2-et-pa/pa-et-ds-wa.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-ds"]][[span class="rear-icon flag-na"]]Deflect[[/span]][[/span]][[span class="cell-item icon pixelate wp-ds"]]ディフレクト[[/span]][[span class="cell-item icon pixelate wp-ds"]]Deflect[[/span]] || [[span class="cell-item"]]Can be used anytime, extremely powerful against attacks that lingers and hit a lot, such as Mithra's light pillar.[[/span]] ||
+|| [[image ./img%3Apso2-et-pa/pa-et-ds-normal.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-ds"]][[span class="rear-icon flag-na"]]Quick Take & Enhanced Quick Take[[/span]][[/span]][[span class="cell-item icon pixelate wp-ds"]]クイックテイク[[/span]][[span class="cell-item icon pixelate wp-ds"]]Quick Take & Enhanced Quick Take[[/span]] || [[span class="cell-item"]]You need to hold the normal attack button until the Quick Take hits for the Enhanced version; this is important if you are far from enemy![[/span]] ||
+|| [[image ./img%3Apso2-et-pa/pa-et-ds-sstar.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-ds"]][[span class="rear-icon flag-na"]]Shooting Star[[/span]][[/span]][[span class="cell-item icon pixelate wp-ds"]]シューティングスター[[/span]][[span class="cell-item icon pixelate wp-ds"]]Shooting Star[[/span]] || [[span class="cell-item"]]Etoile's only instant-point attack, useful against enemy like Dissolsaber.[[/span]][[span class="cell-item"]]Best to do the skip version as it straightly go to the instant-point attack[[/span]][[span class="cell-item"]]This the weakest DS PA: even the skip version is weaker than both Skip S-Destruction and first half A-Quasar.[[/span]][[span class="cell-item"]]You can still do a lot of damage with this since it's highly accurate.[[/span]] ||
+|| [[image ./img%3Apso2-et-pa/pa-et-ds-aquasar.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-ds"]][[span class="rear-icon flag-na"]]Absolute Quasar[[/span]][[/span]][[span class="cell-item icon pixelate wp-ds"]]アブソリュートクエーサー[[/span]][[span class="cell-item icon pixelate wp-ds"]]Absolute Quasar[[/span]] || [[span class="cell-item"]]Approach PA, will track enemy's height if locked-on.[[/span]][[span class="cell-item"]]First half is strong, second half is weak.[[/span]][[span class="cell-item"]]First half is one of the strongest PA on DS's disposal, only weaker than Skip S-Destruction.[[/span]] ||
+|| [[image ./img%3Apso2-et-pa/pa-et-ds-sdestruction.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-ds"]][[span class="rear-icon flag-na"]]Saber Destruction[[/span]][[/span]][[span class="cell-item icon pixelate wp-ds"]]セイバーデストラクション[[/span]][[span class="cell-item icon pixelate wp-ds"]]Saber Destruction[[/span]] || [[span class="cell-item"]]First half is weak, second half is strong.[[/span]][[span class="cell-item"]]Skip version is the strongest PA on DS's disposal.[[/span]] ||
+|| [[image ./img%3Apso2-et-pa/pa-et-ds-ccollide.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-ds"]][[span class="rear-icon flag-na"]]Celestial Collide[[/span]][[/span]][[span class="cell-item icon pixelate wp-ds"]]セレスティアルコライド[[/span]][[span class="cell-item icon pixelate wp-ds"]]Celestial Collide[[/span]] || [[span class="cell-item"]]Skip version could be stronger than Skip S-Destruction, but its quirk limits it uses.[[/span]][[span class="cell-item"]]Good for getting high damage first strike when a weakpoint is about to show.[[/span]] ||
+
+
+
+
+
++++ Double Saber Combo
+[[include :asoh:component:video-youtube |video-id=DTA2wnkFaSQ]]
+
+[[div class="pa-combo"]]
+||||||||||||||||||~ Combo 1||
+|| [[image pa-et-ds-aquasar.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-ds-sdestruction.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-ds-sdestruction.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-ds-sdestruction.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-ds-normal.png class="pa-icon double pixelate"]] ||
+|| First Half A-Quasar || || Skip S-Destruction || || Skip S-Destruction || || Skip S-Destruction || || Enhanced Quick Take ||
+|||||||||||||||||| [[span class="cell-item"]]Most powerful sustainable DS combo.[[/span]] [[span class="cell-item"]]Removing Quick Take will increase the DPS by 1-2%, but it becomes unsustainable. [[/span]] ||
+
+||||||||||||||||||~ Combo 2||
+|| [[image pa-et-ds-sdestruction.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-ds-sdestruction.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-ds-sdestruction.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-ds-ccollide.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-ds-normal.png class="pa-icon double pixelate"]] ||
+|| Skip S-Destruction || || Skip S-Destruction || || Skip S-Destruction || || Skip Collide || || Enhanced Quick Take ||
+|||||||||||||||||| [[span class="cell-item"]]Combo utilizing the Celestial collide.[[/span]] [[span class="cell-item"]]Only marginally weaker than Combo 1.[[/span]] ||
+
+||||||||||||||~ Combo 3 ||
+|| [[image pa-et-ds-aquasar.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-ds-sdestruction.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-ds-ccollide.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-ds-normal.png class="pa-icon double pixelate"]] ||
+|| First Half A-Quasar || || Skip S-Destruction || || Skip Collide || || Enhanced Quick Take ||
+||||||||||||||[[span class="cell-item"]]Another combo utilizing the Celestial collide, do about as much as Combo 2.[[/span]] ||
+
+||||||||||||||||||~ Combo 4||
+|| [[image pa-et-ds-sdestruction.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-ds-sdestruction.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-ds-sdestruction.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-ds-aquasar.png class="pa-icon double pixelate"]]  || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-ds-normal.png class="pa-icon double pixelate"]]  ||
+|| First Half S-Destruction || || First Half S-Destruction || || First Half S-Destruction || || Skip A-Quasar || || Enhanced Quick Take ||
+|||||||||||||||||| [[span class="cell-item"]]A good combo for mobbing, if you're reluctant to swap to Wand.[[/span]] ||
+[[/div]]
+
+++ [[image wp-db-27x.png class="h2-icon"]] Dual Blade / Soaring Blade
+To know the basics of Dual Blade, please do the Etoile Training Quest on Dual Blade. Dual Blade (DB) or Soaring Blade are a more defensive weapon, as it allows you to use its **Weapon Action, Parry** anytime to guard an attack and gain some invulnerability. Blocking an attack does minimum damage to enemy and restores PP. You are expected to build gear as fast as possible and dish out it's gear attack, Full Connect, as many as possible to do damage. Without using Full Connect often, Dual Blade becomes a weak weapon.
+
+[[div class="row"]]
+[[include component:pso2-pros-cons
+|pros=* Able to guard attacks almost anytime using Weapon Action
+* Guarding attacks restores PP
+* Normal attacks homes in on enemy
+|cons=* Requires using Connect and Full Connect to perform on par with DS and Wand
+* Full Connect is slow
+* Full Connect is subject to damage cap
+* Normal attacks are weak
+* PAs are somewhat weak
+* Requires the Easy Full Connect Ring to increase damage
+* Parry cannot be used when performing Connect or Full Connect
+]]
+[[/div]]
+
++++ Dual Blade Photon Arts
+||~ Icon ||~ Name ||~ Property ||
+|| [[image ./img%3Apso2-et-pa/pa-et-db-wa.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-db"]][[span class="rear-icon flag-na"]]Parry[[/span]][[/span]][[span class="cell-item icon pixelate wp-db"]]パリィ[[/span]][[span class="cell-item icon pixelate wp-db"]]Parry[[/span]] || [[span class="cell-item"]]Can be used almost anytime to nullify attack and regain PP, even when you're frozen![[/span]][[span class="cell-item"]]Somehow cannot be used during Connect or Full Connect[[/span]] ||
+|| [[image ./img%3Apso2-et-pa/pa-et-db-wa.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-db"]][[span class="rear-icon flag-na"]]Connect & Full Connect[[/span]][[/span]][[span class="cell-item icon pixelate wp-db"]]コネクト・フルコネクト[[/span]][[span class="cell-item icon pixelate wp-db"]]Connect & Full Connect[[/span]] || [[span class="cell-item"]]Full Connect is DB's highest damage attack.[[/span]][[span class="cell-item"]]You need to do this as often as possible to keep your damage similar to DS or Wand.[[/span]][[span class="cell-item"]]If you have Easy Connect ring, you can charge your Connect into Full Connect![[/span]][[span class="cell-item"]]This has range penalty, don't be too far from your target.[[/span]] ||
+|| [[image ./img%3Apso2-et-pa/pa-et-db-rsting.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-db"]][[span class="rear-icon flag-na"]]Radiant Sting[[/span]][[/span]][[span class="cell-item icon pixelate wp-db"]]ラディアントスティング[[/span]][[span class="cell-item icon pixelate wp-db"]]Radiant Sting[[/span]] || [[span class="cell-item"]]Approach PA, covers a lot of ground.[[/span]] ||
+|| [[image ./img%3Apso2-et-pa/pa-et-db-pflow.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-db"]][[span class="rear-icon flag-na"]]Vertical Flow[[/span]][[/span]][[span class="cell-item icon pixelate wp-db"]]バーティカルフロウ[[/span]][[span class="cell-item icon pixelate wp-db"]]Particle Flow[[/span]] || [[span class="cell-item"]]Weakest DB PA.[[/span]][[span class="cell-item"]]Can be used to raise your altitude if you cancel to another PA after the rising part.[[/span]][[span class="cell-item"]]Can also be used to lower your altitude if you let the PA finish.[[/span]] ||
+|| [[image ./img%3Apso2-et-pa/pa-et-db-dpierce.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-db"]][[span class="rear-icon flag-na"]]Distortion Pierce[[/span]][[/span]][[span class="cell-item icon pixelate wp-db"]]ディストーションピアス[[/span]][[span class="cell-item icon pixelate wp-db"]]Distortion Pierce[[/span]] || [[span class="cell-item"]]Strongest DB PA.[[/span]][[span class="cell-item"]]With the slow animation, you're expected to protect yourself with Parry.[[/span]] ||
+|| [[image ./img%3Apso2-et-pa/pa-et-db-lwave.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-db"]][[span class="rear-icon flag-na"]]Light Wave[[/span]][[/span]][[span class="cell-item icon pixelate wp-db"]]ライトウェーブ[[/span]][[span class="cell-item icon pixelate wp-db"]]Light Wave[[/span]] || [[span class="cell-item"]]A long-range PA.[[/span]][[span class="cell-item"]]Does about the same damage as Radiant Sting, but is riskier due to being the only DB PA without super armor.[[/span]][[span class="cell-item"]]You can stand still when using this to activate Standing Massive and gain super armor.[[/span]] ||
+
+
+
+
+
++++ Dual Blade Combo
+[[include :asoh:component:video-youtube |video-id=vRFiZwzCJs4]]
+
+[[div class="pa-combo"]]
+||||||~ Combo 1||
+|| [[image pa-et-db-wa.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-db-wa.png class="pa-icon double pixelate"]] ||
+|| Step Edge || || Full Connect ||
+||||||[[span class="cell-item"]]Requires the Easy Full Connect Ring.[[/span]][[span class="cell-item"]]Charge until the big swords appear.[[/span]][[span class="cell-item"]]The overall damage will be lower than using Connect into Full Connect, but the DPS is higher.[[/span]][[span class="cell-item"]]Remember that Full Connect has a range penalty, so don't be too far from your enemy![[/span]] ||
+
+
+||||||||||~ Combo 2||
+|| [[image pa-et-db-pflow.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-db-rsting.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-db-normal.png class="pa-icon double pixelate"]] ||
+|| P-Flow || || R-Sting || || Normal 3 ||
+|||||||||| [[span class="cell-item"]]A combo opener to gain height, should your target is higher than you.[[/span]] [[span class="cell-item"]]You can replace the R-Sting with any PA![[/span]] ||
+
+||||||||||||||||||||||~ Combo 3||
+|| [[image pa-et-db-rsting.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-db-dpierce.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-db-dpierce.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-db-dpierce.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-db-normal.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-db-normal.png class="pa-icon double pixelate"]] ||
+|| R-Sting || || D-Pierce || || D-Pierce || || D-Pierce || || Normal 2 || || Normal 3 ||
+||||||||||||||||||||||[[span class="cell-item"]]A sustainable basic combo utilizing the most of DB's PA.[[/span]][[span class="cell-item"]]You can replace the Normal 2 with another R-Sting to increase DPS![[/span]] ||
+
+
+
+||||||||||||||||||~ Combo 4 ||
+|| [[image pa-et-db-rsting.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-db-dpierce.png class="pa-icon double pixelate"]][[image pa-et-db-dpierce.png class="pa-icon double pixelate"]][[image pa-et-db-dpierce.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-db-rsting.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-db-dpierce.png class="pa-icon double pixelate"]][[image pa-et-db-dpierce.png class="pa-icon double pixelate"]][[image pa-et-db-dpierce.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-db-normal.png class="pa-icon double pixelate"]] ||
+|| R-Sting || || 3x D-Pierce || || R-Sting || || 3x D-Pierce || || Normal 3 ||
+||||||||||||||||||[[span class="cell-item"]]This is the combo to use if you are goot at Parrying, have additional PP reduction, and persistent PP regeneration like Flowing Grace or Colossal Radiance.[[/span]] ||
+
+
+[[/div]]
+
+
+++ [[image wp-wa-27x.png class="h2-icon"]] Wand
+To know the basics of Wand, please do the Etoile Training Quest on Wand. Wand is a more offensive weapon with high mobility, as it allows you to move anytime, even during normal attacks and PAs. Its **Weapon Action, Protect** can guard against attacks and enables natural PP regeneration when doing so, unlike DS or DB. Wand also depends on its gear attack, Protect Release, to do damage, but not as much as DB. Gear generation is fast as long as you keep moving around during attacks. If you're unwilling to move around with wand, consider using another weapon.
+
+
+[[div class="row"]]
+[[include component:pso2-pros-cons
+|pros=* Able to move around even when using normal attacks and PAs making it easy to avoid damage when attacking
+* Each PA has a different use: a suction, an approach, an altitude riser, and a power attack
+* Has the only wide area attack
+* All PAs have guard frames, and activating Focus PA provides additional guard frames
+* Great aerial capability
+* Moving around with unsheathed weapon and enemies nearby increases gear
+* Using or holding Protect allows PP regeneration, unlike the other two weapons
+|cons=* High PP consumption
+* Few combo variety
+* Protect cannot be performed anytime
+* Sometimes requires manual aim: Luminous Flare is more effective with manual aim to prevent aiming loss when target dies, Prism Circular can be used to gain height when using manual aim.
+]]
+[[/div]]
+
++++ Wand Photon Arts
+||~ Icon ||~ Name ||~ Property ||
+|| [[image ./img%3Apso2-et-pa/pa-et-wa-wa.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-wa"]][[span class="rear-icon flag-na"]]Protect[[/span]][[/span]][[span class="cell-item icon pixelate wp-wa"]]プロテクト[[/span]][[span class="cell-item icon pixelate wp-wa"]]Protect[[/span]] || [[span class="cell-item"]]Blocks any attack and fills the wand gear.[[/span]][[span class="cell-item"]]Can be used to cancel PA during the white focus circle[[/span]][[span class="cell-item"]]Pay attention on the small barrier around your character, this indicates protect is active: if you hold the button to charge Protect Release, you'll note that this small barrier will dissipate when your gear is depleted![[/span]] ||
+|| [[image ./img%3Apso2-et-pa/pa-et-wa-wa.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-wa"]][[span class="rear-icon flag-na"]]Protect Release[[/span]][[/span]][[span class="cell-item icon pixelate wp-wa"]]プロテクトリリース[[/span]][[span class="cell-item icon pixelate wp-wa"]]Protect Release[[/span]] || [[span class="cell-item"]]Wand Gear has 6 bars, Protect Release 1 needs 2 bars and Protect Release 2 needs 4 bars.[[/span]][[span class="cell-item"]]Your natural PP regeneration will be active for the duration of release.[[/span]] ||
+|| [[image ./img%3Apso2-et-pa/pa-et-wa-wa.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-wa"]][[span class="rear-icon flag-na"]]Focus[[/span]][[/span]][[span class="cell-item icon pixelate wp-wa"]]フォーカス[[/span]][[span class="cell-item icon pixelate wp-wa"]]Focus[[/span]] || [[span class="cell-item"]]Press weapon action during white focus circle to perform focus PA![[/span]][[span class="cell-item"]]Focus PAs are stronger, but has narrower range.[[/span]][[span class="cell-item"]]Focus PAs fill gauge faster than regular PAs.[[/span]] ||
+|| [[image ./img%3Apso2-et-pa/pa-et-wa-pcircular.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-wa"]][[span class="rear-icon flag-na"]]Prism Circular[[/span]][[/span]][[span class="cell-item icon pixelate wp-wa"]]プリズムサーキュラー[[/span]][[span class="cell-item icon pixelate wp-wa"]]Prism Circular[[/span]] || [[span class="cell-item"]]Approach PA, will track enemy's height if locked-on.[[/span]][[span class="cell-item"]]Can be used with manual aim to change your height.[[/span]][[span class="cell-item"]]Regular version causes stun.[[/span]][[span class="cell-item"]]Focus version is a combo starter.[[/span]] ||
+|| [[image ./img%3Apso2-et-pa/pa-et-wa-lflare.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-wa"]][[span class="rear-icon flag-na"]]Luminous Flare[[/span]][[/span]][[span class="cell-item icon pixelate wp-wa"]]ルミナスフレア[[/span]][[span class="cell-item icon pixelate wp-wa"]]Luminous Flare[[/span]] || [[span class="cell-item"]]Best mobbing tool available to Etoile![[/span]][[span class="cell-item"]]Regular version may require manual aim due to the control.[[/span]][[span class="cell-item"]]The hitbox is wider than it looks, roughly as big as the swirl surrounding the beam.[[/span]][[span class="cell-item"]]Focus version is Wand's strongest PA.[[/span]] ||
+|| [[image ./img%3Apso2-et-pa/pa-et-wa-brupture.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-wa"]][[span class="rear-icon flag-na"]]Black Hole Rupture[[/span]][[/span]][[span class="cell-item icon pixelate wp-wa"]]ブラックホールラプチャー[[/span]][[span class="cell-item icon pixelate wp-wa"]]Black Hole Rupture[[/span]] || [[span class="cell-item"]]Gathers enemy in a small area together.[[/span]][[span class="cell-item"]]Most likely requires manual aim to be effectively gather enemy.[[/span]][[span class="cell-item"]]Weakest wand PA, use it only for its unique property.[[/span]] ||
+|| [[image ./img%3Apso2-et-pa/pa-et-wa-gstripe.png class="pso2-icon pixelate double"]] || [[span class="cell-item icon pixelate wp-wa"]][[span class="rear-icon flag-na"]]Glitter Stripe[[/span]][[/span]][[span class="cell-item icon pixelate wp-wa"]]グリッターストライプ[[/span]][[span class="cell-item icon pixelate wp-wa"]]Glitter Stripe[[/span]] || [[span class="cell-item"]]Can be used to raise your altitude without using manual aim like Prism Circular.[[/span]][[span class="cell-item"]]Focus version is very powerful, but hardly hit the target more than twice, unless the target is gigantic.[[/span]] ||
+
+
+
+
++++ Wand Combo
+[[include :asoh:component:video-youtube |video-id=dxKfQ33LTXo]]
+
+[[div class="pa-combo"]]
+||||||||||~ Combo 1||
+|| [[image pa-et-wa-gstripe.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-wa-gstripe.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-wa-wa.png class="pa-icon double pixelate"]] ||
+|| Focus  G-Stripe || || Focus  G-Stripe || || Protect Release 2 ||
+|||||||||| [[span class="cell-item"]]A useful combo to retain your height while charging release.[[/span]] [[span class="cell-item"]]Useful against enemies in which you have a great advantage fighting airborne, such as Meduna.[[/span]] ||
+
+||||||||||||||||||||||~ Combo 2||
+|| [[image pa-et-wa-pcircular.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-wa-lflare.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-wa-normal.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-wa-lflare.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-wa-lflare.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-wa-normal.png class="pa-icon double pixelate"]] ||
+|| Focus P-Circular || || Focus L-Flare || || Normal 3 || || Focus L-Flare || || Focus L-Flare || || Normal 3 ||
+|||||||||||||||||||||| [[span class="cell-item"]]A basic wand combo utilizing as much L-Flare as possible.[[/span]] [[span class="cell-item"]]You will eventually run out of PP, so improvise with Focus L-Flare - Normal 2 - Normal 3 [[/span]] [[span class="cell-item"]]Use Protect Release 2 as soon as it's available to regain PP![[/span]] ||
+
+||||||||||||||||||~ Combo 3 ||
+|| [[image pa-et-wa-pcircular.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-wa-lflare.png class="pa-icon double pixelate"]][[image pa-et-wa-lflare.png class="pa-icon double pixelate"]][[image pa-et-wa-lflare.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-wa-pcircular.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-wa-lflare.png class="pa-icon double pixelate"]][[image pa-et-wa-lflare.png class="pa-icon double pixelate"]][[image pa-et-wa-lflare.png class="pa-icon double pixelate"]] || [[span class="fa fa-arrow-circle-right fa-2x"]]@<&nbsp;>@[[/span]] || [[image pa-et-wa-normal.png class="pa-icon double pixelate"]] ||
+|| Focus P-Circular || || 3x Focus L-Flare || || Focus P-Circular || || 3x Focus L-Flare || || Normal 3 ||
+||||||||||||||||||[[span class="cell-item"]]This is the combo to use if you have additional PP reduction and persistent PP regeneration like Flowing Grace or Colossal Radiance; having Calming Shockwave also helps.[[/span]] ||
+
+
+[[/div]]
+
+
+
++ Part 3: Advanced Etoile
+[[div class="alert alert-info"]]
+[[span class="fa fa-exclamation-circle"]]@<&nbsp;>@[[/span]] **Advanced Objectives**:
+* You can create a low cost but potent S-ATK units
+* You can create a potent PP units
+* You know PP efficiency alternative to pure damage
+* You assign the following S-Class Ability to your unit: S7:Increased Efficiency
+[[/div]]
+
+++ Units
+For damage purpose, Etoile uses S-ATK. If you want PP, you'll use the Liberate set or Orb-Liberate-Nova. If you want an all-rounder, you'll have to look for DQ or Atlas unit. For further information on units, please take a look on the companion guide, linked below!
+
+[[div class="pso2-nav"]]
+[[div class="row"]]
+[[div class=" col-xs-12 pso2-nav-item-container"]]
+[[ul class="nav nav-pills series-nav nav-justified" role="tablist"]]
+[[li class=""]][[a href="/guide:phantasy-star-online-2-units"]][[image ./img%3Apso2-ui/ui-unit-rear.png class="pso2-nav-icon"]] Units[[/a]][[/li]]
+[[/ul]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+
+++ Weapons
+As with units, use whatever's available. The weapons listed below are more less, commonly used and/or easy to obtain. If you struggle to obtain a ★15, Atra Ex and Austere can be made easily.
+
+[[include component:pso2-manaka
+|content=Reminder to transfer your S-Class Abilities, not use the weapon as fodder!
+]]
+
+[[div class="weapon-table"]]
+||~ Icon ||~ Name ||~ S-Slot ||~ Description ||
+|| [[image ./img%3Apso2-wp/wp-ds-cras.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-db-cras.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-wa-cras.png class="pso2-icon double"]] || Cras || [[span class="cell-item icon pixelate op-sclass-1"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-2"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-3"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-4"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-5"]]@<&nbsp;>@[[/span]] || [[span class="cell-item pros-cons pros"]]Similar to Ayer with 30s damage boost mode and higher stat.[[/span]][[span class="cell-item pros-cons cons"]]Requires a Graeae, currently very limited in circulation[[/span]][[span class="cell-item pros-cons cons"]]Activating damage boost mode requires doing 3 normal attacks in a row, step attack doesn’t count.[[/span]][[span class="cell-item pros-cons cons"]]Activating damage boost mode removes the PP cut and persistent PP regenration.[[/span]] ||
+|| [[image ./img%3Apso2-wp/wp-ds-ayer.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-db-ayer.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-wa-ayer.png class="pso2-icon double"]] || Ayer || [[span class="cell-item icon pixelate op-sclass-1"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-2"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-3"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-4"]]@<&nbsp;>@[[/span]] || [[span class="cell-item pros-cons pros"]]Provides persistent PP regeneration and PP cut.[[/span]][[span class="cell-item pros-cons pros"]]By putting Petalgleam / Red Petal Flash and S4 Rainbow Balance, this weapon lowers your PP cost a lot.[[/span]][[span class="cell-item pros-cons pros"]]As strong as fully-boosted Stil.[[/span]][[span class="cell-item pros-cons pros"]]Easy to purchase from Zieg.[[/span]][[span class="cell-item pros-cons cons"]]Unless you get it as drop, you will need Grind Caps to increase the cap; fortunatel Grind Caps becomes an easy drop later on.[[/span]] ||
+|| [[image ./img%3Apso2-wp/wp-ds-stil.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-db-stil.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-wa-stil.png class="pso2-icon double"]] || Stil || [[span class="cell-item icon pixelate op-sclass-1"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-2"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-3"]]@<&nbsp;>@[[/span]] || [[span class="cell-item pros-cons pros"]]Very powerful with persistent PP regeneration, as long as you can avoid getting hit.[[/span]][[span class="cell-item pros-cons pros"]]S5 is useful for both DB and Wand.[[/span]][[span class="cell-item pros-cons cons"]]Requires a lot of material to the point of insanity.[[/span]][[span class="cell-item pros-cons cons"]]Requires Liberate to get the desired DB and Wand S5.[[/span]][[span class="cell-item pros-cons cons"]]Getting hit a lot will lower the overall damage you do.[[/span]] ||
+|| [[image ./img%3Apso2-wp/wp-ds-soldam.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-db-soldam.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-wa-soldam.png class="pso2-icon double"]] || (Soldam) || [[span class="cell-item icon pixelate op-sclass-1"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-2"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-3"]]@<&nbsp;>@[[/span]] || [[span class="cell-item pros-cons pros"]]This is the weapon drop from Ultimate Quest Soldam and only useful if you don't have anything else and is prone to mistakes.[[/span]][[span class="cell-item pros-cons pros"]]All weapons have different names, but has same potential that allows you to use mate items instantly.[[/span]][[span class="cell-item pros-cons cons"]]You'll never need to use mate items instantly when you're using Etoile right as you take less damage and have ways to mitigate those damage completely.[[/span]] ||
+|| [[image ./img%3Apso2-wp/wp-ds-fimbul.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-db-fimbul.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-wa-fimbul.png class="pso2-icon double"]] || Fimbul || [[span class="cell-item icon pixelate op-sclass-1"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-2"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-3"]]@<&nbsp;>@[[/span]] || [[span class="cell-item pros-cons pros"]]A great Et-exclusive weapon that is easy to obtain.[[/span]][[span class="cell-item pros-cons pros"]]Permanently available via Collection File.[[/span]][[span class="cell-item pros-cons pros"]]Collection File provides Grind Caps.[[/span]][[span class="cell-item pros-cons cons"]]Overall weaker than Ayer.[[/span]] ||
+|| [[image ./img%3Apso2-wp/wp-ds-liberate.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-db-liberate.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-wa-liberate.png class="pso2-icon double"]] || Rivalate / Liberate || [[span class="cell-item icon pixelate op-sclass-4"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-5"]]@<&nbsp;>@[[/span]] || [[span class="cell-item pros-cons pros"]]Huge PP cut with increased critical rate.[[/span]][[span class="cell-item pros-cons pros"]]S4 can be used to put persistent PP regeneration like Colossal Radiance.[[/span]][[span class="cell-item pros-cons pros"]]S5 is useful for both DB and Wand.[[/span]][[span class="cell-item pros-cons cons"]]Requires Liberate Unlocker, which at first, is a feat to obtain.[[/span]] ||
+|| [[image ./img%3Apso2-wp/wp-ds-atraex.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-db-atraex.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-wa-atraex.png class="pso2-icon double"]] || Atlas Ex || [[span class="cell-item icon pixelate op-sclass-1"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-2"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-3"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-4"]]@<&nbsp;>@[[/span]] || [[span class="cell-item pros-cons pros"]]Prevents death once, if you're prone to making mistake.[[/span]][[span class="cell-item pros-cons pros"]]Can obtain at least 2 copies easily.[[/span]][[span class="cell-item pros-cons pros"]]Very straightforward potential.[[/span]][[span class="cell-item pros-cons pros"]]S4 can be used to put persistent PP regeneration like Colossal Radiance.[[/span]][[span class="cell-item pros-cons cons"]]None.[[/span]] ||
+|| [[image ./img%3Apso2-wp/wp-ds-lightstream.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-db-lightstream.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-wa-lightstream.png class="pso2-icon double"]] || Xion || [[span class="cell-item icon pixelate op-sclass-1"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-2"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-3"]]@<&nbsp;>@[[/span]] || [[span class="cell-item pros-cons pros"]]Solid stat with PP-refilling effect, can never go wrong with it.[[/span]][[span class="cell-item pros-cons cons"]]Requires Amphitrite Stone, which is also a feat to obtain.[[/span]][[span class="cell-item pros-cons cons"]]More less just a PP-battery, useful if you have a huge amount of PP.[[/span]] ||
+|| [[image ./img%3Apso2-wp/wp-ds-austere.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-db-austere.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-wa-austere.png class="pso2-icon double"]] || Ophistia / Austere || [[span class="cell-item icon pixelate op-sclass-1"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-2"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-3"]]@<&nbsp;>@[[/span]] || [[span class="cell-item pros-cons pros"]]Surprisingly strong by using it's Nemesis Potential (Darkness Shield), as long as you don't get hit a lot.[[/span]][[span class="cell-item pros-cons pros"]]All weapon ingredients can be brought.[[/span]][[span class="cell-item pros-cons cons"]]Weak if you get hit a lot, at least until you can change to it's Redux potential.[[/span]] ||
+|| [[image ./img%3Apso2-wp/wp-ds-flotea.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-db-flotea.png class="pso2-icon double"]][[image ./img%3Apso2-wp/wp-wa-flotea.png class="pso2-icon double"]] || Flotea || [[span class="cell-item icon pixelate op-sclass-1"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-2"]]@<&nbsp;>@[[/span]][[span class="cell-item icon pixelate op-sclass-3"]]@<&nbsp;>@[[/span]] || [[span class="cell-item pros-cons pros"]]None.[[/span]][[span class="cell-item pros-cons cons"]]For an Et-exclusive weapon, this is more than underwhelming.[[/span]] ||
+
+
+
+[[/div]]
+
+
+
+[[include guide-component:pso2-wp-mats]]
+
+
+[[include guide-component:pso2-wp-augment]]
+
+
+[[include guide-component:pso2-damage-evaluation]]
+
+
+
++ FAQ
+++ You seriously use Recommended Setting for Etoile skill tree?
+Yes, it turned out to have exact same setup as my Et tree. I discovered it when I wanted to reset one of my alt character's Et tree: out of curiosity I picked Recommended Setting before intending to reset, but it turned out to be the exact same tree I am using for my main character. So hey, same tree! No need for reset pass!
+
+++ I just got my first Graeae / Amphitrite / Key / Chronos, what weapon type should I make?
+Make your favorite type, but do consider the possibility of said weapon being passed on to your alts: DS to Fighters, DB/Soaring Blades to Bouncers, and Wand to Techers.
+
+++ What attack augment/affix type should I use?
+You should go full [[span class="icon stat-satk"]]MEL/S-ATK[[/span]]. Despite having Wand, all Etoile attacks are calculated using [[span class="icon stat-satk"]]MEL/S-ATK[[/span]]. Etoile do have innate skill to use which augment is higher on the Wand (it picks the highest between [[span class="icon stat-satk"]]MEL/S-ATK[[/span]] and [[span class="icon stat-tatk"]]TEC/T-ATK[[/span]]), but it's only for said Wand; the base calculation sill goes for your [[span class="icon stat-satk"]]MEL/S-ATK[[/span]] augments on units.
+
++ Demo Videos
+++ Versus Varuna in Story Mode
+[[include :asoh:component:video-youtube |video-id=4SfKNDRwrpE]]
+
+++ Versus Varuna and Mitra in 30F Divide Quest
+[[include :asoh:component:video-youtube |video-id=-AS4ubbdOCk]]
+
+++ Versus Primoridal Darkness
+[[include :asoh:component:video-youtube |video-id=eGFazviXkAQ]]
+
+++ Ultimate Quest Sodam 40F
+[[include :asoh:component:video-youtube |video-id=A5mWstYH6o8]]
+
++ Closing
+Should you require aid in-game, you can contact Manaka, her player name is VateVierge. If you want to chat on discord, feel free to contact me at Perseonn#7731!
+
+++ Credits
+* [https://pso2.swiki.jp/index.php PSO2 ファンタシースターオンライン2 攻略 Wiki (PSO2 Capture Wiki)] for the main reference
+* [https://pso2.arks-visiphone.com/wiki/Main_Page Arks-Visiphone] for a lot of PSO2 item and PA icons
+* Apprentice(?) Safhier for initial feedback

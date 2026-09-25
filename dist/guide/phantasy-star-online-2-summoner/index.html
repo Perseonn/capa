@@ -1,0 +1,962 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Phantasy Star Online 2: Summoner Guide</title>
+
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://capa.asoh.xyz/assets/guide/phantasy-star-online-2-summoner/phantasy-star-online-2-summoner-splash.jpg">
+    <meta property="og:title" content="Phantasy Star Online 2: Summoner Guide">
+    <meta property="og:description" content="This guide is intended to be a comprehensive version of the infographics-like Summoner Guide I have ...">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://capa.asoh.xyz/assets/guide/phantasy-star-online-2-summoner/phantasy-star-online-2-summoner-splash.jpg">
+    <meta name="twitter:title" content="Phantasy Star Online 2: Summoner Guide">
+    <meta name="twitter:description" content="This guide is intended to be a comprehensive version of the infographics-like Summoner Guide I have ...">
+    
+    
+</head>
+<body>
+    
+<div class="article-page">
+
+    <section
+        class="splash-container"
+        style="background-image: url('/asset/guide/phantasy-star-online-2-summoner/phantasy-star-online-2-summoner.avif')"
+    >
+        <div class="title-container">
+
+            <div class="page-extra">
+                <span class="page-extra-icon"></span>
+                2020-12-10
+            </div>
+
+            <div class="page-sub-title">
+                Perseonn Balthasaar
+            </div>
+
+            <h1 class="page-title">
+                Phantasy Star Online 2: Summoner Guide
+            </h1>
+
+        </div>
+    </section>
+
+    <nav class="table-of-contents-small">
+        <a href="#heading-1">Frequently Asked Questions (FAQ)</a>
+<a href="#heading-2">What is the best Harmonizer?</a>
+<a href="#heading-3">Closing</a>
+<a href="#heading-4">Credits</a>
+<a href="#heading-5">Changelog</a>
+    </nav>
+
+    <main class="article-content">
+        <p>This guide is intended to be a comprehensive version of the infographics-like Summoner Guide I have made before. This expands the idea of sub classes, pet attacks, and equipment. Updates will be done regularly based on new material or discovery. Name will follow the official North American translation, and will also provide the Japanese name and the fan-translation name.</p>
+<p>[[include component:pso2-nav]]</p>
+<p>[[div class=&quot;alert alert-info&quot;]] <span class="fa fa-exclamation-circle">@&lt;&amp;nbsp;&gt;@</span> <strong>Latest Update</strong></p>
+<table>
+    <tr>
+        <td>2020/12/10</td>
+        <td>Added NA translations for Herbie and Vulcan-related things.</td>
+    </tr>
+    <tr>
+        <td>2020/12/06</td>
+        <td>Added FAQs about Harmonizers.</td>
+    </tr>
+    <tr>
+        <td>2020/10/17</td>
+        <td>Added information abut Vulcan. Added information about Luster sub.</td>
+    </tr>
+    <tr>
+        <td>2020/09/15</td>
+        <td>Added the evaluation of Cras Reed and Ayer Reed. Added Super Deadly and Super Spirited Parfait. Added NA names for recent Harmonizers. Added Sinistere State reference as the NA name for Glance of Darkness. Added FAQ about Normal Attack Rappy.</td>
+    </tr>
+</table>
+<p>[[/div]]</p>
+<p>[[include guide-component:pso2-su-basic |fullname={$fullname}]]</p>
+<p>[[include guide-component:pso2-su-intermediate |fullname={$fullname}]]</p>
+<p>[[include guide-component:pso2-su-advanced |fullname={$fullname}]]</p>
+<h1 id="heading-1">Frequently Asked Questions (FAQ)</h1>
+<p>++* What units / armors should I use? If you just started the game and have no idea on affixing a unit:</p>
+<ul>
+    <li>For current North America version, you can obtain Saiki unit set from L61+ Gigur Gunnegam (ギグル・グンネガム <em>Giguru Gunnegamu</em>) or Brissa unit set from L66+ Gwahl Jigmolde (グアル・ジグモルデ <em>Guaru Jigumorude</em>). Saiki has more PP where Brissa has a bit more ATK and HP. These two sets are the easiest to obtain.</li>
+    <li>You can get 1 Weapons Barrier (サブ／ウェポンズバリア) from clearing Cofy (コフィー <em>Koffie</em>)&#39;s quest Training Quest Certification (練習クエスト履修証明). You can utilize all 3 characters to obtain multiple copies of it. Until L75, this is the best unit you can obtain.</li>
+    <li>You can get 3 Stella Walls (サブ／ステラウォール) from Lachesis the Title Counter when you have 2 L75 classes.</li>
+    <li>You can get Ray units — Circu Ray, Circa Ray, Circ Ray — from Badge and Memory Shop. You need 10 Weapons Badge SP on Shop 1 for each of them.</li>
+</ul>
+
+<p>++* [[# mel-v-tec-mag]] Why not use MEL mag? Doesn&#39;t MEL Mag on Fi give 6.5% more damage with all the MEL passives? In theory where a lot of variables dismissed, yes. However, PSO2&#39;s damage factors are actually:</p>
+<ul>
+    <li>Stat</li>
+    <li>Multipliers</li>
+    <li>Attacks or skills used.</li>
+    <li>PP circulation, includes max PP, natural PP regeneration, and attack PP regeneration.</li>
+    <li>Combo or attack rotation.</li>
+    <li>Survival abilities, such as dodge and damage mitigation.</li>
+</ul>
+
+<p>So if you have great stat and multiplier, but lack PP circulation and combo is nothing, you&#39;ll have lower DPS.</p>
+<p>PP, combo, and survival abilities all depend on the player, so I decided to test this MEL Fi vs TEC Fi myself with the following condition:</p>
+<ul>
+    <li>200 Dex Mag with Megid auto attack, Mag Excite Ring, full mag energy.
+<ul>
+    <li>Dex mag is used because lack of MEL mag.</li>
+</ul>
+    </li>
+    <li>Units with total of 180 + 270 ATK.</li>
+    <li>Tree Boost and Shifta EX drink is used.</li>
+    <li>Jinga A with MEL-SPI Cookie (+120 MEL, +18PP).</li>
+    <li>Jinga B with TEC-SPI Cookie (+120 TEC, +18PP).</li>
+    <li>Player (Manaka) is a Fem Cast, naturally has higher MEL and lower TEC.
+<ul>
+    <li>Player is a L95/90 SuFi.</li>
+    <li>Player has 284 PP.</li>
+    <li>Player takes all MEL up skills on Fi tree, along with all PP/half/deadline slayers.</li>
+    <li>Player uses Switch Strike when using Jinga A (MEL).</li>
+</ul>
+    </li>
+    <li>Player doing 90s of attacking consisting of Jinga Pulsar and Break spam, repeated 4 times (i.e. sample size is 4).
+<ul>
+    <li>Alter Ego is used.</li>
+    <li>Player attacks until PP runs out and let pet normal attacks until PP is full, during normal attack, pet&#39;s Shifta is reapplied.</li>
+    <li>All Shifta sympathy requests are fulfilled.</li>
+    <li>At 16s left of Alter Ego cooldown, if Jinga is doing normal attacks, Jinga Pulsar and Break spam will be used for last burst.</li>
+</ul>
+    </li>
+</ul>
+
+<p>The result of average DPS are like this:</p>
+<table>
+    <tr>
+        <th>Condition</th>
+        <th>DPS ± St. Dev</th>
+    </tr>
+    <tr>
+        <td>Jinga A + Harmonizer (MEL)</td>
+        <td>244K ± 4.8K</td>
+    </tr>
+    <tr>
+        <td>Jinga A + Rykross (MEL)</td>
+        <td>322K ± 2.8K</td>
+    </tr>
+    <tr>
+        <td>Jinga B + Harmonizer (TEC)</td>
+        <td>235K ± 5.3K</td>
+    </tr>
+    <tr>
+        <td>Jinga B + Rykross (TEC)</td>
+        <td>318K ± 6.2K</td>
+    </tr>
+</table>
+<ul>
+    <li>By comparing average, the MEL and TEC on a regular Harmonizer differs by ~3.8%
+<ul>
+    <li>According to MEDCALC, the significance level is P = 0.0353 (less than 0.05), indicating significant difference.</li>
+</ul>
+    </li>
+    <li>On the other hand, the average of MEL and TEC on Rykross is ~1%
+<ul>
+    <li>MEDCALC gives the significance level at P = 0.3584 (more than 0.05), which indicating insignificant difference.</li>
+</ul>
+    </li>
+</ul>
+
+<p>So thus, at same skill level, MEL is only 3.8% better. Further more, when Rykross comes, all MEL-based SuFi will be doing the same damage as a TEC-based SuFi. Considering MEL ability affixes are expensive, using TEC is more reasonable and you can save a lot of Meseta to grab those costumes and lobby actions!</p>
+<h2 id="heading-2">What is the best Harmonizer?</h2>
+<p>This depends on the pet. If we&#39;re comparing only Jinga:</p>
+<table>
+    <tr>
+        <th>Harmonizer</th>
+        <th>DPS</th>
+    </tr>
+    <tr>
+        <td>Guren</td>
+        <td>223K ± 3.4K</td>
+    </tr>
+    <tr>
+        <td>Nemesis</td>
+        <td>221K ± 3.5K</td>
+    </tr>
+    <tr>
+        <td>Raven / Slave</td>
+        <td>220K ± 1.9K</td>
+    </tr>
+    <tr>
+        <td>Rykross Redux</td>
+        <td>273K ± 5.7K</td>
+    </tr>
+    <tr>
+        <td>Ayer</td>
+        <td>249K ± 2.8K</td>
+    </tr>
+    <tr>
+        <td>Rivalate/Liberate</td>
+        <td>241K ± 3.2K</td>
+    </tr>
+    <tr>
+        <td>Aqua Ripple</td>
+        <td>226K ± 5.3K</td>
+    </tr>
+</table>
+<p>[[collapsible show=&quot;Show Conditions&quot; hide=&quot;Hide Conditions&quot;]]</p>
+<ul>
+    <li>Player (Manaka) is a Fem Cast
+<ul>
+    <li>Player is a L95/95 SuPh.</li>
+    <li>Player has 240 PP.</li>
+</ul>
+    </li>
+    <li>Mag is 200 Dex Mag with Megid auto attack, Mag Excite Ring, full mag energy.</li>
+    <li>Units with total of 240 + 345 ATK.</li>
+    <li>Tree Boost and Shifta EX drink is not used.</li>
+    <li>Player doing 90s of attacking consisting of Jinga Pulsar and Break spam, repeated 4 times (i.e. sample size is 4).
+<ul>
+    <li>Alter Ego is used.</li>
+    <li>Player attacks until PP runs out and let pet normal attacks until PP is full, during normal attack, pet&#39;s Shifta is reapplied.</li>
+    <li>All Shifta sympathy requests are fulfilled.</li>
+    <li>At 16s left of Alter Ego cooldown, if Jinga is doing normal attacks, Jinga Pulsar and Break spam will be used for last burst.</li>
+</ul>
+    </li>
+</ul>
+
+<p>[[/collapsible]] Conclusion:</p>
+<ul>
+    <li>Jinga is significantly more powerful with a Rykross Redux.</li>
+    <li>Guren, Nemesis, and Raven/Slave scores roughly the same, despite Nemesis and Raven not having damage boost.</li>
+    <li>Ayer is second-strongest, followed by Rivalate/Liberate</li>
+</ul>
+
+<p>++* What should I use against &lt;Insert Boss Name&gt;? Wanda or Jinga is always your the first pet that you should use when you are testing new boss or content. They have no real weakness and is suitable for every possible scenario.</p>
+<p>++* Wanda or Jinga? This depends on your playstyle. Wanda has better defense and more efficient Slicer, while Jinga has overall better DPS.</p>
+<p>++* Sally (<em>Cery</em>) or Popple? Popple is overall better since it has Charged Popple Plode, a wide area attack; and its main DPS move, Popple Curse, only cost 5 PP.</p>
+<p>++* Trim (<em>Torim</em>) or Aero? Trim has slightly better defense, although it doesn&#39;t help much. Aero&#39;s Charged Shout Spiral 2 have wider area of attack and less PP cost. Since the bulk of Aero&#39;s DPS is from Shout Spiral (using 2 seconds Charged Shout Spiral is already better than Shout Slash), having it easier to hit is a big plus. In practice however, both has minimal use.</p>
+<p>++* Marron (<em>Maron</em>) or Melon? Neither are practical for mobbing, so let&#39;s assume it&#39;s for bossing. Marron is more useful if the boss is overly aggressive and have high attack, like Omega Masquerade, Episode 4 Phaleg, and the inhabitants of the solo XQ Phantom. Melon is more useful if the boss isn&#39;t aggressive, and is even more useful of both if you have both a ★14 Melon and a Rykros Staff. Conditions aside, Marron needs to take 9 hits to maximize its Strike PA and it will be incapacitated after. Melon needs only 2 hits to maximize its Strike PA, but if you hold the PA button after the throwing animation, you can catch Melon back, like a yo-yo. Both require you to use their Curse attack once every 10 seconds.</p>
+<p>++* What&#39;s the viability of Normal Attack Rappy? In advent of Super Spirited Parfait from Primordial Darkness / Last Boss, Rappy could just use it&#39;s accurate Normal Attack without using any PAs. The boost from both Super Spirited Parfaits and Spirited Parfait grants 210% Normal Attacks, this boosts it&#39;s Normal Attack score from base 46 to ~96.6. Add extra 111% from Ayer Harmonizer, and you&#39;ll get 107.2 score. Add extra 108% from Attack Advance Ring, you&#39;ll end with 115.8 score</p>
+<p>On the other hand, Rykros Rappy Drop, scored at 95 during 60s Alter Ego and 73 during 30s Alter Ego cooldown, this amounts to the score of [60/90 * 95 + 30/90 * 73] = 87.6. If we apply both Super Deadly and Super Doki Doki, this becomes [87.6 + 1.16 * 1.14] = 115.84 score. Add extra 103% from Critical Strike Ring, you&#39;ll end with 119.3 score. However, this score is based on ideal condition where the Rappy has infinite PP.</p>
+<p>Since the maximum difference is only [119.3 / 115.8] = 3%, it&#39;s safe to say that it&#39;s a worthwhile trade.</p>
+<p>++* Should I have multiple elemental pets? It&#39;s generally not recommended to, especially if you have limited resources.</p>
+<p>++* I&#39;m on PSO2 NA, what parfaits should I use? If you&#39;re new, just use whatever parfait you can get from Pietro&#39;s COs, Titles, and Seasonal Urgents. Remember that it&#39;s better to focus on putting Pancakes first before parfait!</p>
+<p>++* What is the best parfait combination? I&#39;ve given my recommendation, but you should use whichever easily available.</p>
+<p>++* What is the best parfait combination for Vulcan? Refer to the following table:</p>
+<table>
+    <tr>
+        <th>Parfaits</th>
+        <th>Setup</th>
+        <th>Critical Rate</th>
+        <th>Damage<sup>V</sup></th>
+    </tr>
+    <tr>
+        <td><span class="cell-item icon item-candy">Super Deadly</span><span class="cell-item icon item-candy">Super Doki Doki </span></td>
+        <td><span class="cell-item icon class-ph">200 PP</span></td>
+        <td>49%</td>
+        <td>126.84%</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item icon item-candy">Super Deadly</span><span class="cell-item icon item-candy">Exquisite Deadly Parfait</span></td>
+        <td><span class="cell-item icon class-ph">200 PP</span></td>
+        <td>59%</td>
+        <td>124.8%</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item icon item-candy">Super Doki Doki </span><span class="cell-item icon item-candy">Exquisite Deadly Parfait</span></td>
+        <td><span class="cell-item icon class-ph">200 PP</span></td>
+        <td>59%</td>
+        <td>128.13%</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item icon item-candy">Super Doki Doki </span><span class="cell-item icon item-candy">Super Megaton Parfait</span></td>
+        <td><span class="cell-item icon class-ph">200 PP</span></td>
+        <td>49%</td>
+        <td>130.1%</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item icon item-candy">Super Deadly</span><span class="cell-item icon item-candy">Super Doki Doki </span></td>
+        <td><span class="cell-item icon op-sclass">S6: Wise Skill</span><span class="cell-item icon class-ph">200 PP</span></td>
+        <td>64%</td>
+        <td>136%</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item icon item-candy">Super Deadly</span><span class="cell-item icon item-candy">Exquisite Deadly Parfait</span></td>
+        <td><span class="cell-item icon op-sclass">S6: Wise Skill</span><span class="cell-item icon class-ph">200 PP</span></td>
+        <td>74%</td>
+        <td>134.92%</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item icon item-candy">Super Doki Doki </span><span class="cell-item icon item-candy">Exquisite Deadly Parfait</span></td>
+        <td><span class="cell-item icon op-sclass">S6: Wise Skill</span><span class="cell-item icon class-ph">200 PP</span></td>
+        <td>74%</td>
+        <td>136.07%</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item icon item-candy">Super Doki Doki </span><span class="cell-item icon item-candy">Super Megaton Parfait</span></td>
+        <td><span class="cell-item icon op-sclass">S6: Wise Skill</span><span class="cell-item icon class-ph">200 PP</span></td>
+        <td>64%</td>
+        <td>136.7%</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item icon item-candy">Super Deadly</span><span class="cell-item icon item-candy">Super Doki Doki </span></td>
+        <td><span class="cell-item icon class-ph">300 PP</span></td>
+        <td>69%</td>
+        <td>139.06%</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item icon item-candy">Super Deadly</span><span class="cell-item icon item-candy">Exquisite Deadly Parfait</span></td>
+        <td><span class="cell-item icon class-ph">300 PP</span></td>
+        <td>79%</td>
+        <td>138.29%</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item icon item-candy">Super Doki Doki </span><span class="cell-item icon item-candy">Exquisite Deadly Parfait</span></td>
+        <td><span class="cell-item icon class-ph">300 PP</span></td>
+        <td>79%</td>
+        <td>138.71%</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item icon item-candy">Super Doki Doki </span><span class="cell-item icon item-candy">Super Megaton Parfait</span></td>
+        <td><span class="cell-item icon class-ph">300 PP</span></td>
+        <td>69%</td>
+        <td>138.9%</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item icon item-candy">Super Deadly</span><span class="cell-item icon item-candy">Super Doki Doki </span></td>
+        <td><span class="cell-item icon op-sclass">S6: Wise Skill</span><span class="cell-item icon class-ph">300 PP</span></td>
+        <td>84%</td>
+        <td>148.22%</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item icon item-candy">Super Deadly</span><span class="cell-item icon item-candy">Exquisite Deadly Parfait</span></td>
+        <td><span class="cell-item icon op-sclass">S6: Wise Skill</span><span class="cell-item icon class-ph">300 PP</span></td>
+        <td>94%</td>
+        <td>148.41%</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item icon item-candy">Super Doki Doki </span><span class="cell-item icon item-candy">Exquisite Deadly Parfait</span></td>
+        <td><span class="cell-item icon op-sclass">S6: Wise Skill</span><span class="cell-item icon class-ph">300 PP</span></td>
+        <td>94%</td>
+        <td>146.65%</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item icon item-candy">Super Doki Doki </span><span class="cell-item icon item-candy">Super Megaton Parfait</span></td>
+        <td><span class="cell-item icon op-sclass">S6: Wise Skill</span><span class="cell-item icon class-ph">300 PP</span></td>
+        <td>84%</td>
+        <td>145.51%</td>
+    </tr>
+</table>
+<p>[[div class=&quot;footnote&quot;]]</p>
+<table>
+    <tr>
+        <td><sup>V</sup></td>
+        <td>The damage factors in critical rate, critical damage from ring, and critical damage from Vulcan&#39;s personality. For example, Super Deadly and Super Doki Doki with 200 PP and Critical Strike Ring yields 49% critical rate. The average non-critical damage is [Non-critical Rate] * [Summoner Average Damage Rate] * [Super Doki-Doki Rate] * [Super Megaton Rate] = 51% * 85% * 114% = 49.4%. The critical damage is [Critical Rate] * [Ring Critical Damage] * [Vulcan&#39;s Aggressive Personality] * [Super Doki-Doki Rate] * [Super Megaton Rate] * [Super Deadly Rate] * [Exquisite Deadly Rate] = 49% * 103% * 116% * 114% * 116% * 100% = 77.4%. Add  49.4% + 77.4% = 126.8%. We get the simple damage ratio given by the parfait combination.</td>
+    </tr>
+</table>
+<p>[[/div]]</p>
+<p>++* What about this @@<u></u>@@ Parfait?</p>
+<ul>
+    <li>Some parfait have niche use, and isn&#39;t compliant to the more general use.</li>
+    <li>Any parfait that requires you to have certain % of PP is not recommended since your PP fluctuates easily.</li>
+    <li>Any parfait that requires pet to have low HP is not recommended since you&#39;ll want pets to have full HP.</li>
+    <li>Reckless Parfait (がむしゃらパフェ <em>Daredevil Parfait</em>) is not recommended because it greatly reduces PP efficiency. It is better for you to PA more often than using normal attacks more often.</li>
+</ul>
+
+<p>++* Do S Eggs have any difference than regular eggs, apart from color? No. They are akin to having a shiny Pokemon.</p>
+<p>++* Why recommend Spirita Cookies at all? Doesn&#39;t Shifta affect pet&#39;s total Pwr (ATK)?</p>
+<ul>
+    <li>This is my personal choice. 15 PP would be more useful in long run, especially with Ph&#39;s Critical Stream than just mere ~2% damage.</li>
+    <li>The Pwr increase Shifta formula for pet is <em>(Shifta Power / 1000 + 1% * Number of Support Roll) * (Base Pwr * Drink * Tree + Unit Total Pwr + Pet Plus)</em>
+<ul>
+    <li>Base Pwr is <em>Character&#39;s Base Pwr + Mag + Status Up Skills + S-Ability Stat Up</em></li>
+    <li>Pwr Cookies are not affected by Shifta (analogous to how weapon special ability affix isn&#39;t included in Shifta)</li>
+    <li>Pet Pwr are not affected by Shifta</li>
+    <li>Harmonizer/Takts are not affected by Shifta</li>
+</ul>
+    </li>
+</ul>
+
+<p>This is according to [https:<em>pso2.swiki.jp/index.php?ダメージ計算 Damage Calculation on PSO2 Capture Wiki] and [https:</em>pso2.swiki.jp/index.php?ペット#shifta Pet Shifta on PSO2 Capture Wiki]</p>
+<p>++* What special ability affix do you put in your units? It changes, surprisingly, yearly. Although 2019 and 2020 was a half-impulse (2019 was on the first appearance of Grace, and surprisingly cheap; 2020 was the first appearance of Grand Spirita, and it was also surprisingly cheap):</p>
+<ul>
+    <li>2017 affix on Qliphad: Tech III, Spirita III, Ares the Soul, Doom Break I, Elegant Tech</li>
+    <li>2018 affix on Evleada: Tech III, Stam III, Ares the Soul, Doom Break I, Grace Tech</li>
+    <li>2019 affix on Lightstream: Ares the Soul, Doom Break II, Persona Reverie, Arks Max, Grace Stamina</li>
+    <li>2020 affix on Orb-Liberate-Nova: S-Ability (S6:Wise Skill, S7:Increased Efficiency, S8:High Minded), Ares The Soul, Doom Break II, Persona Reverie, Fordruss Glare, Grand Spirita</li>
+</ul>
+
+<p>The 2018 Affix has higher <span class="icon stat-tatk">TEC/T-ATK</span> now it&#39;s upgraded to DQ Units (and given to other character), but does not affect average damage much. For more info, please look on the unit guide!</p>
+<p>[[div class=&quot;pso2-nav&quot;]] [[div class=&quot;row&quot;]] [[div class=&quot; col-xs-12 pso2-nav-item-container&quot;]] [[ul class=&quot;nav nav-pills series-nav nav-justified&quot; role=&quot;tablist&quot;]] [[li class=&quot;&quot;]][[a href=&quot;/guide:phantasy-star-online-2-units&quot;]][[image ./img%3Apso2-ui/ui-unit-rear.png class=&quot;pso2-nav-icon&quot;]] Units[[/a]][[/li]] [[/ul]] [[/div]] [[/div]] [[/div]]</p>
+<p>++* Why you seem to focus on PP rather than <span class="icon stat-tatk">TEC /T-ATK</span>?</p>
+<ul>
+    <li>I like my PP to hit 300 for Maximum Critical Stream bonus :)</li>
+    <li>400 attack affix is a good spot to stop. You can go to 500 for extra 2% damage or 600 for 4% damage, but it&#39;s just few percent for a significantly higher budget.</li>
+    <li>Your attack affix is only half-relevant to your output. There&#39;s also combos, PP management, frame saving, and your enemy&#39;s profile.</li>
+    <li>Focusing on PP is cheaper and easier. This makes me able to move on to a new set of unit should the need (e.g. future proofing) and impulse (cheap Add Special Ability items) arises, rather than needlessly stick to my old units.</li>
+    <li>All my excess meseta can go to sexy costumes and sexy lobby actions.</li>
+</ul>
+
+<p>++* I disagree with your guide! By all means, contact me on my discord. Your disagreement could be my oversight, and I like to keep updating my guide :)</p>
+<p>++* [[# sub-damage-calculation]] How did you come up with the multiplier number? The numbers are calculated by comparing total damage from a certain sub to a subless state when using pets. ||~ Sub ||~ Ringed Multiplier<sup>1</sup> _ (x) ||~ HLB<sup>2</sup> ||~ Class CRate<sup>3</sup> _ (<em>a</em>) ||~ Candy CRate<sup>4</sup> _ (<em>b</em>) ||~ Class CDmg<sup>5</sup> _ (<em>c</em>)  ||~ Σ CRate<sup>6</sup> _ (<em>d=a+b+Ring+5%</em>) ||~ Σ CDmg<sup>7</sup> _ (<em>e=c * ring</em>) ||</p>
+<table>
+    <tr>
+        <td>― <sup>N/A</sup></td>
+        <td>1</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0.34</td>
+        <td>1</td>
+        <td>0.39</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Fi <sup>Brave</sup></td>
+        <td>1.5554</td>
+        <td>1.05</td>
+        <td>0.25</td>
+        <td>0.34</td>
+        <td>1</td>
+        <td>0.74</td>
+        <td>1.01</td>
+    </tr>
+    <tr>
+        <td>Fi <sup>Wise</sup></td>
+        <td>1.7726</td>
+        <td>1.05</td>
+        <td>0.25</td>
+        <td>0.34</td>
+        <td>1</td>
+        <td>0.74</td>
+        <td>1.01</td>
+    </tr>
+    <tr>
+        <td>Fo</td>
+        <td>1</td>
+        <td>1.05</td>
+        <td>0</td>
+        <td>0.34</td>
+        <td>1</td>
+        <td>0.59</td>
+        <td>1.03</td>
+    </tr>
+    <tr>
+        <td>Fo <sup>PF</sup></td>
+        <td>1</td>
+        <td>1.05</td>
+        <td>0</td>
+        <td>0.34</td>
+        <td>1</td>
+        <td>0.59</td>
+        <td>1.03</td>
+    </tr>
+    <tr>
+        <td>Te <sup>EWH</sup></td>
+        <td>1.2</td>
+        <td>1.05</td>
+        <td>0.2</td>
+        <td>0.34</td>
+        <td>1</td>
+        <td>0.79</td>
+        <td>1.03</td>
+    </tr>
+    <tr>
+        <td>Br <sup>Average</sup></td>
+        <td>1.3314</td>
+        <td>1.05</td>
+        <td>0.25</td>
+        <td>0.34</td>
+        <td>1</td>
+        <td>0.84</td>
+        <td>1.03</td>
+    </tr>
+    <tr>
+        <td>Br <sup>Weak</sup></td>
+        <td>1.563</td>
+        <td>1.05</td>
+        <td>0.25</td>
+        <td>0.34</td>
+        <td>1</td>
+        <td>0.84</td>
+        <td>1.03</td>
+    </tr>
+    <tr>
+        <td>Bo <sup>Elem</sup></td>
+        <td>1.386</td>
+        <td>1.05</td>
+        <td>0.55</td>
+        <td>0.34</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1.03</td>
+    </tr>
+    <tr>
+        <td>Bo <sup>Break</sup></td>
+        <td>1.5593</td>
+        <td>1.05</td>
+        <td>0.55</td>
+        <td>0.34</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1.03</td>
+    </tr>
+    <tr>
+        <td>Ph <sup>200PP</sup></td>
+        <td>1.485</td>
+        <td>1.05</td>
+        <td>0.4</td>
+        <td>0.34</td>
+        <td>1.05</td>
+        <td>0.99</td>
+        <td>1.0815</td>
+    </tr>
+    <tr>
+        <td>Et</td>
+        <td>1.3</td>
+        <td>1.05</td>
+        <td>0</td>
+        <td>0.34</td>
+        <td>1</td>
+        <td>0.59</td>
+        <td>1.03</td>
+    </tr>
+    <tr>
+        <td>Et <sup>TACB</sup></td>
+        <td>1.495</td>
+        <td>1.05</td>
+        <td>0</td>
+        <td>0.34</td>
+        <td>1</td>
+        <td>0.59</td>
+        <td>1.03</td>
+    </tr>
+    <tr>
+        <td>Lu</td>
+        <td>1.45</td>
+        <td>1.05</td>
+        <td>0</td>
+        <td>0.34</td>
+        <td>1</td>
+        <td>0.59</td>
+        <td>1.03</td>
+    </tr>
+    <tr>
+        <td>Lu <sup>500 Voltage</sup></td>
+        <td>1.595</td>
+        <td>1.05</td>
+        <td>0.25</td>
+        <td>0.34</td>
+        <td>1</td>
+        <td>0.84</td>
+        <td>1.03</td>
+    </tr>
+</table>
+<p>[[div class=&quot;footnote&quot;]]</p>
+<table>
+    <tr>
+        <td><sup>1</sup></td>
+        <td>Ringed multiplier: Class Damage Multiplier * Ring. This only affects Fi with Effort Ring.</td>
+    </tr>
+    <tr>
+        <td><sup>2</sup></td>
+        <td>HLB: High Level Bonus</td>
+    </tr>
+    <tr>
+        <td><sup>3</sup></td>
+        <td>Class CRate: Critical rate from the sub class, assuming all skills taken</td>
+    </tr>
+    <tr>
+        <td><sup>4</sup></td>
+        <td>Candy CRate: Critical rate from candies,   14% from 2 Critical Candy Sticks and 20% from 2 Support Rolls, totaling 34%</td>
+    </tr>
+    <tr>
+        <td><sup>5</sup></td>
+        <td>Class CDmg: Critical damage from class. This is usually 1.</td>
+    </tr>
+    <tr>
+        <td><sup>6</sup></td>
+        <td>Σ CRate: Class Critical Rate + Candy Critical Rate + 5%. The base critical rate 5% is added here. For example, with no sub, it is only Candy + 5% = 39%</td>
+    </tr>
+    <tr>
+        <td><sup>7</sup></td>
+        <td>Σ CDmg: Class Critical Damage * Ring Critical Damage. Ring critical damage is 3% at +20, unless Fi, which uses Effort Symbol</td>
+    </tr>
+    <tr>
+        <td><sup>N/A</sup></td>
+        <td>This notates subless or &quot;not using any sub class&quot;</td>
+    </tr>
+    <tr>
+        <td>Fi</td>
+        <td>Fi uses Effort Ring</td>
+    </tr>
+    <tr>
+        <td>Br</td>
+        <td>Br incorporates extra 5% damage from Attack Advance</td>
+    </tr>
+    <tr>
+        <td>Bo</td>
+        <td>Bo incorporates extra 5% damage from Shifta Air Attack Boost</td>
+    </tr>
+</table>
+<p>[[/div]]</p>
+<p>||~ Sub||~ ARate<sup>8</sup> _ (<em>f=1-d</em>) ||~ AMultiplier<sup>9</sup> _ (<em>g=85%*f*x</em>) ||~ CMultiplier<sup>10</sup> _ (<em>h=d*e*x</em>) ||~ Σ Multiplier<sup>11</sup> _ (<em>i=g+h</em>) ||~ Simulated Damage<sup>12</sup> ||</p>
+<table>
+    <tr>
+        <td>― <sup>N/A</sup></td>
+        <td>0.61</td>
+        <td>0.5185</td>
+        <td>0.39</td>
+        <td>0.9085</td>
+        <td>16216</td>
+    </tr>
+    <tr>
+        <td>Fi <sup>Brave</sup></td>
+        <td>0.26</td>
+        <td>0.3437</td>
+        <td>1.1625</td>
+        <td>1.5062</td>
+        <td>28230</td>
+    </tr>
+    <tr>
+        <td>Fi <sup>Wise</sup></td>
+        <td>0.26</td>
+        <td>0.3917</td>
+        <td>1.3248</td>
+        <td>1.7165</td>
+        <td>32172</td>
+    </tr>
+    <tr>
+        <td>Fo</td>
+        <td>0.41</td>
+        <td>0.3485</td>
+        <td>0.6077</td>
+        <td>0.9562</td>
+        <td>17921</td>
+    </tr>
+    <tr>
+        <td>Fo <sup>PF</sup></td>
+        <td>0.41</td>
+        <td>0.3485</td>
+        <td>0.6077</td>
+        <td>0.9562</td>
+        <td>19608</td>
+    </tr>
+    <tr>
+        <td>Te <sup>EWH</sup></td>
+        <td>0.21</td>
+        <td>0.2142</td>
+        <td>0.9764</td>
+        <td>1.1906</td>
+        <td>22315</td>
+    </tr>
+    <tr>
+        <td>Br <sup>Average</sup></td>
+        <td>0.16</td>
+        <td>0.1811</td>
+        <td>1.1519</td>
+        <td>1.333</td>
+        <td>24983</td>
+    </tr>
+    <tr>
+        <td>Br <sup>Weak</sup></td>
+        <td>0.16</td>
+        <td>0.2126</td>
+        <td>1.3523</td>
+        <td>1.5648</td>
+        <td>29328</td>
+    </tr>
+    <tr>
+        <td>Bo <sup>Elem</sup></td>
+        <td>0</td>
+        <td>0</td>
+        <td>1.4276</td>
+        <td>1.4276</td>
+        <td>26756</td>
+    </tr>
+    <tr>
+        <td>Bo <sup>Break</sup></td>
+        <td>0</td>
+        <td>0</td>
+        <td>1.606</td>
+        <td>1.606</td>
+        <td>30100</td>
+    </tr>
+    <tr>
+        <td>Ph <sup>200PP</sup></td>
+        <td>0.01</td>
+        <td>0.0126</td>
+        <td>1.59</td>
+        <td>1.6026</td>
+        <td>30036</td>
+    </tr>
+    <tr>
+        <td>Et</td>
+        <td>0.41</td>
+        <td>0.4531</td>
+        <td>0.79</td>
+        <td>1.2431</td>
+        <td>23298</td>
+    </tr>
+    <tr>
+        <td>Et <sup>TACB</sup></td>
+        <td>0.41</td>
+        <td>0.521</td>
+        <td>0.9085</td>
+        <td>1.4295</td>
+        <td>26792</td>
+    </tr>
+    <tr>
+        <td>Lu</td>
+        <td>0.41</td>
+        <td>0.5053</td>
+        <td>0.8812</td>
+        <td>1.3865</td>
+        <td>25986</td>
+    </tr>
+    <tr>
+        <td>Lu <sup>500 Voltage</sup></td>
+        <td>0.16</td>
+        <td>0.2169</td>
+        <td>1.38</td>
+        <td>1.5969</td>
+        <td>29930</td>
+    </tr>
+</table>
+<p>[[div class=&quot;footnote&quot;]]</p>
+<table>
+    <tr>
+        <td><sup>8</sup></td>
+        <td>ARate: The rate in which you do non-critical damage, or the rate of you doing average damage. This is 100% - Critical Rate.</td>
+    </tr>
+    <tr>
+        <td><sup>9</sup></td>
+        <td>Average Multiplier: the multiplier of average damage. This is 85% * Average Damage Rate * Ringed Multiplier. Since Su&#39;s damage swing is between 70% to 100%, (average of 85%) the constant of 85% is added.</td>
+    </tr>
+    <tr>
+        <td><sup>10</sup></td>
+        <td>Critical Multiplier: the multiplier of critical damage. This is Σ CRate * Σ CDmg * Ringed Multiplier</td>
+    </tr>
+    <tr>
+        <td><sup>11</sup></td>
+        <td>Σ Multiplier: Total multiplier of Average and Critical. This is Average Multiplier + Critical Multiplier</td>
+    </tr>
+    <tr>
+        <td><sup>12</sup></td>
+        <td>Simulated Damage assuming 1000 Base TATK, 400 TATK affix, 2000 Pet TATK, 350 Enemy Defense, and 2000 Power PA. (1000+PF+400+2000*1.6-350) * (0.2*1.05) * 2000/100 * Σ Multiplier * HLB</td>
+    </tr>
+    <tr>
+        <td><sup>Fo</sup></td>
+        <td>Fo&#39;s photon flare is included in the Simulated Damage, notated as PF</td>
+    </tr>
+</table>
+<p>[[/div]]</p>
+<p>After this, all simulated damage is compared to the subless damage. Resulting in a different number than just using the multipliers alone. Please note that the following number is only applocable when using pets.</p>
+<table>
+    <tr>
+        <th>Sub</th>
+        <th>Compared Simulated Damage</th>
+    </tr>
+    <tr>
+        <td>― <sup>N/A</sup></td>
+        <td>100%</td>
+    </tr>
+    <tr>
+        <td>Fi <sup>Brave</sup></td>
+        <td>174.09%</td>
+    </tr>
+    <tr>
+        <td>Fi <sup>Wise</sup></td>
+        <td>198.40%</td>
+    </tr>
+    <tr>
+        <td>Fo</td>
+        <td>110.51%</td>
+    </tr>
+    <tr>
+        <td>Fo <sup>PF</sup></td>
+        <td>120.92%</td>
+    </tr>
+    <tr>
+        <td>Te <sup>EWH</sup></td>
+        <td>137.61%</td>
+    </tr>
+    <tr>
+        <td>Br <sup>Average</sup></td>
+        <td>154.06%</td>
+    </tr>
+    <tr>
+        <td>Br <sup>Weak</sup></td>
+        <td>180.86%</td>
+    </tr>
+    <tr>
+        <td>Bo <sup>Elem</sup></td>
+        <td>165%</td>
+    </tr>
+    <tr>
+        <td>Bo <sup>Break</sup></td>
+        <td>185.62%</td>
+    </tr>
+    <tr>
+        <td>Ph <sup>200PP</sup></td>
+        <td>185.22%</td>
+    </tr>
+    <tr>
+        <td>Et</td>
+        <td>143.67%</td>
+    </tr>
+    <tr>
+        <td>Et <sup>TACB</sup></td>
+        <td>165.22%</td>
+    </tr>
+    <tr>
+        <td>Lu</td>
+        <td>160.25%</td>
+    </tr>
+    <tr>
+        <td>Lu <sup>500 Voltage</sup></td>
+        <td>184.57%</td>
+    </tr>
+</table>
+<h1 id="heading-3">Closing</h1>
+<p>Should you require aid in-game, you can contact Manaka, her player name is VateVierge. If you want to chat on discord, feel free to contact me at Perseonn#7731. Have fun using pets!</p>
+<h2 id="heading-4">Credits</h2>
+<ul>
+    <li>[https://fulldive.nu/category/pso2/summoner-guide/ Selphea&#39;s Summoner Guide] for being my start point of Summoner knowledge</li>
+    <li>[https://pso2.swiki.jp/index.php PSO2 ファンタシースターオンライン2 攻略 Wiki (PSO2 Capture Wiki)] from which a lot of this info is derived from</li>
+    <li>Team Leader Morkand, being the initial in-game Summoner mentor</li>
+    <li>Team Manager NinyuNobu, being the replicator of Rappy Pecker</li>
+    <li>Apprentice(?) Safhier, being the initial guide tester... and failed. Sorry &gt;_&lt;</li>
+    <li>[https://pso2.arks-visiphone.com/wiki/Main_Page Arks-Visiphone] for a lot of PSO2 item and PA icons</li>
+    <li>airoh., Alicen, BeardieTV, Celestial Awakening, .gabriel, Gina, Hardblood, iDakotaCoty, JRZTT, KuroiNingen, Leg4cy, Lyoko, Mirai, MiuMiyana, Stranger, Slowlyn, Ohio, Taevi of Mirrah, and others I forgot to mention for their feedback!</li>
+</ul>
+
+<h2 id="heading-5">Changelog</h2>
+<p>[[div class=&quot;alert alert-info&quot;]]</p>
+<table>
+    <tr>
+        <td>2020/12/10</td>
+        <td>Added NA translations for Herbie and Vulcan-related things.</td>
+    </tr>
+    <tr>
+        <td>2020/12/06</td>
+        <td>Added FAQs about Harmonizers.</td>
+    </tr>
+    <tr>
+        <td>2020/10/17</td>
+        <td>Added information abut Vulcan. Added information about Luster sub.</td>
+    </tr>
+    <tr>
+        <td>2020/09/15</td>
+        <td>Added the evaluation of Cras Reed and Ayer Reed. Added Super Deadly and Super Spirited Parfait. Added FAQ about Normal Attack Rappy.</td>
+    </tr>
+    <tr>
+        <td>2020/08/17</td>
+        <td>Updated the Recommended skill tree progression to better fit the L80 cap on NA.</td>
+    </tr>
+    <tr>
+        <td>2020/07/09</td>
+        <td>Updated the ring list with NA names, updated sub-class skill list with SP and better wording.</td>
+    </tr>
+    <tr>
+        <td>2020/07/24</td>
+        <td>Revised the evaluation of Lightstream Takt.</td>
+    </tr>
+    <tr>
+        <td>2020/07/03</td>
+        <td>Fixed Melon&#39;s personality description. Added MEL vs. TEC mag on FAQ.</td>
+    </tr>
+    <tr>
+        <td>2020/06/28</td>
+        <td>Added color codes and more sweets to Recommended Sweets.</td>
+    </tr>
+    <tr>
+        <td>2020/06/20</td>
+        <td>Revised Grass and Popple&#39;s Recommended Sweets.</td>
+    </tr>
+    <tr>
+        <td>2020/06/18</td>
+        <td>Revamp, part 2. Compacted the pet section. Added information about Grass.</td>
+    </tr>
+    <tr>
+        <td>2020/06/17</td>
+        <td>Revamp, part 1. Added Recommended Skill Tree that works for both L75 and L90. Guide restructured to emphasize more on pet than equipment. Added information about Power Synthesis on Pet Properties section. Added icons everywhere. Added top navigation to related guides. Added a flag to indicate <span class="rear-icon flag-na">North American names</span>. All infographics have better image quality. Most tables on the guide has been redone. Information boxes have been replaced with Manaka Balloons.</td>
+    </tr>
+    <tr>
+        <td>2020/05/30</td>
+        <td>Added Novel, Nemesis, Slave, Ares, Dim, Ceres, Jutus, Lumiere, Atlas, Celestial, Profound, Allure, Homura, Yukikaze, Golem, Revolucio, and NT (Harmonizer) to Harmonizer list.</td>
+    </tr>
+    <tr>
+        <td>2020/05/29</td>
+        <td>Added North American localization names to sub class skills.</td>
+    </tr>
+    <tr>
+        <td>2020/05/02</td>
+        <td>Revised sweets box of Wanda and Rappy to accommodate 3 cookies.</td>
+    </tr>
+    <tr>
+        <td>2020/04/27</td>
+        <td>Added North American localization names.</td>
+    </tr>
+    <tr>
+        <td>2020/04/17</td>
+        <td>Added Aqua Ripple, Ban Puras and Ban Stil to Harmonizer list.</td>
+    </tr>
+    <tr>
+        <td>2020/04/09</td>
+        <td>Added Tech-Spi to cookie recommendation.</td>
+    </tr>
+    <tr>
+        <td>2020/03/19</td>
+        <td>Revised the explanation for Dear Master.</td>
+    </tr>
+    <tr>
+        <td>2020/03/18</td>
+        <td>[#sub-damage-calculation Added explanation about class damage multiplier used in the guide], revised sub-class recommendation, added unit information, added long-forgotten credit section, removed any recommendation of Torim or Aero.</td>
+    </tr>
+    <tr>
+        <td>2020/03/10</td>
+        <td>Entire guide revised to be more reader-friendly by reducing text and adding infographics.</td>
+    </tr>
+    <tr>
+        <td>2020/01/24</td>
+        <td>Updated pet section to be more comprehensive and modular.</td>
+    </tr>
+    <tr>
+        <td>2019/08/06</td>
+        <td>Updated pet box images.</td>
+    </tr>
+    <tr>
+        <td>2019/04/29</td>
+        <td>Added more ring information.</td>
+    </tr>
+    <tr>
+        <td>2019/01/25</td>
+        <td>Added more takt information.</td>
+    </tr>
+    <tr>
+        <td>2018/09/26</td>
+        <td>Added takt information.</td>
+    </tr>
+    <tr>
+        <td>2018/07/18</td>
+        <td>Updated pet PA icon to better quality.</td>
+    </tr>
+    <tr>
+        <td>2018/06/18</td>
+        <td>Added technics and Summoner skill tree.</td>
+    </tr>
+    <tr>
+        <td>2018/06/12</td>
+        <td>Added pet boxes and skills.</td>
+    </tr>
+    <tr>
+        <td>2018/05/18</td>
+        <td>Initial version, contains all information from the infographics.</td>
+    </tr>
+    <tr>
+        <td>2017/10/10</td>
+        <td>Prototype version, scrapped in favor of infographics.</td>
+    </tr>
+</table>
+<p>[[/div]]</p>
+    </main>
+
+</div>
+
+</body>
+</html>
