@@ -6,22 +6,24 @@ CAPA Engine is a proof-of-concept engine that generates static web pages from Wi
 * npm (included with Node.js)
 
 ## Usage
-1. Clone or download the repository. Please be aware that the source files are under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+1. Clone or download the repository.
+  * Please be aware that the source text files (`contents\*.txt`) are under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+  * Downloading and using them for testing is allowed, but publishing is not allowed. See License fro details.
 2. Change website URL in `build.js`, line `const SITE_URL = "";` to the address of the future website.
 3. Run `npm run build` on the root folder to start building the pages.
 
 ## Workflow
 1. All pages must be sourced from `contents\` folder.
 2. Source file name structure is unchanged from Wikidot backups with a couple of exceptions:
- * `category_page-name.txt` = individual page
- * `_index.txt` = homepage
- * `category__index.txt` = category landing page (optional)
+  * `category_page-name.txt` = individual page
+  * `_index.txt` = homepage
+  * `category__index.txt` = category landing page (optional)
 3. If there's a `_template`, e.g. `category__template` (note the double underscore), then pages of that category will be wrapped in the `_template` first. The template is optional.
 4. All source will be wrapped by `_layout.html` inside `contents\` folder. Thus the flow is:
- * `category_page-name.txt` wrapped by `category__template` (if present), and finally wrapped by `_layout.html`.
+  * `category_page-name.txt` wrapped by `category__template` (if present), and finally wrapped by `_layout.html`.
 5. Generated HTML in `dist\` will turn categories into folders, e.g. `category_page-name.txt` into `category\page-name\index.html`.
 6. `assets\` contains the files that should be **manually structured** like the `dist\`
- * For example: `category_page-name.txt` will be generated into `category\page-name\index.html`, and by default will take assets from `assets\category\page-name\`.
+  * For example: `category_page-name.txt` will be generated into `category\page-name\index.html`, and by default will take assets from `assets\category\page-name\`.
 7. Run `npm run build` on the root folder to start building the pages. Pages not found in `contents\` folder will be purged from `\dist`
 8. `dist\sitemap.xml` will be generated automatically from the pages found in `contents\`.
 
