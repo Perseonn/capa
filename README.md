@@ -1,5 +1,5 @@
-# Corrective and Preventive Action / CAPA
-This is a proof-of-concept of converting Wikidot source files (.txt) into a static web pages. Repository is called CAPA because it uses my http://capa.wikidot.com as base.
+# CAPA Engine
+This is a proof-of-concept of converting Wikidot source files (.txt) into a static web pages. Repository named after my http://capa.wikidot.com since it is used as base.
 
 ## Requirements
 * [Node.js](https://nodejs.org/) 18 or newer
