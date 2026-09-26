@@ -25,6 +25,13 @@ This is a proof-of-concept of converting Wikidot source files (.txt) into a stat
 7. Run `npm run build` on the root folder to start building the pages. Pages not found in `contents\` folder will be purged from `\dist`
 8. `dist\sitemap.xml` will be generated automatically from the pages found in `contents\`.
 
+## Engine Files
+The workflow uses 3 active javascript files + 1 pending deletion:
+1. `build.js`, the main file for running the entire conversion engine.
+2. `assets\scripts\parser-wikidot.js`, the main parser that handles the syntax listed below.
+3. `assets\scripts\parser-custom.js`, the custom parser called by `assets\scripts\parser-wikidot.js`.
+4. `assets\scripts\template.js`, a legacy template renderer from an earlier version of the engine.
+
 ## Available Syntax
 1. General in-line syntax: `**bold**`, `//italic//`, `__underline__`, `--strikethrough--`, `{{monospaced}}`, `^^superscript ^^`, `,,subscript,,`.
 2. HTML syntax: `[[div]]`, `[[/div]]`, `[[span]]`. Currently both only accepts `class=""` parameter.
@@ -44,5 +51,11 @@ This is a proof-of-concept of converting Wikidot source files (.txt) into a stat
 2. Nav is customizable via `contents\_nav.html`. Currently, there's only one navigation element.
 3. Table of Contents / ToC, as mentioned before, is customizable via `contents\_toc.html`
 4. Homepage is customizable via `contents\_index.txt`. This follows Wikidot syntax.
-5. Category templates are customizable via `contents\category__template.txt.` These follow Wikidot syntax and may contain the %%content%% placeholder where the page content is inserted.
-6. Website's canonical URL needs to be changed in `build.js`, line `const SITE_URL = "";`
+5. CSS is customizable via `assets\css\site.css`. This is a regular CSS files.
+6. Favicon, by default is stored in `assets\css\favicon.png`.
+7. Category templates are customizable via `contents\category__template.txt.` These follow Wikidot syntax and may contain the %%content%% placeholder where the page content is inserted.
+8. Website's URL needs to be changed in `build.js`, line `const SITE_URL = "";`
+
+## Additional Files
+1. Bootstrap is provided by `assets\css\bootstrap.min.css`, and `assets\scripts\bootstrap.bundle.min.js`. Both are loaded by `contents\_layout.html`.
+2. Font Awesome s provided by `assets\css\fontawesome-all.min.css`, and 4 font files under `assets\fonts\fa-....woff2`. The CSS is loaded by `contents\_layout.html`.
