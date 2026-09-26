@@ -5,6 +5,11 @@ This is a proof-of-concept of converting Wikidot source files (.txt) into a stat
 * [Node.js](https://nodejs.org/) 18 or newer
 * npm (included with Node.js)
 
+## Usage
+1. Clone or download the repository. Please be aware that the source files are under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+2. Change website URL in `build.js`, line `const SITE_URL = "";` to the address of the future website.
+3. Run `npm run build` on the root folder to start building the pages.
+
 ## Workflow
 1. All pages must be sourced from `contents\` folder.
 2. Source file name structure is unchanged from Wikidot backups:
