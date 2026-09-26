@@ -366,6 +366,7 @@ function applyTemplate(template, values) {
         .replaceAll("{{TITLE}}", escapeHtml(values.TITLE ?? ""))
         .replaceAll("{{SOCIAL_IMAGE}}", values.SOCIAL_IMAGE ?? "")
         .replaceAll("{{DESCRIPTION}}", escapeHtml(values.DESCRIPTION ?? ""))
+        .replaceAll("{{SITE_URL}}", values.SITE_URL ?? "")
         .replaceAll("{{NAV}}", values.NAV ?? "")
         .replaceAll("{{BODY}}", values.BODY ?? "");
 }
@@ -380,6 +381,7 @@ function createHtml(title, body, socialImage = "", description = "") {
         TITLE: title,
         SOCIAL_IMAGE: socialImage,
         DESCRIPTION: description,
+        SITE_URL,
         NAV: navTemplate,
         BODY: body
     });

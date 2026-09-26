@@ -36,3 +36,4 @@ This is a proof-of-concept of converting Wikidot source files (.txt) into a stat
 3. Table of Contents / ToC, as mentioned before, is customizable via `contents\_toc.html`
 4. Homepage is customizable via `contents\_index.txt`. This follows Wikidot syntax.
 5. Category templates are customizable via `contents\category__template.txt.` These follow Wikidot syntax and may contain the %%content%% placeholder where the page content is inserted.
+6. Website's canonical URL needs to be changed in `build.js`, line `const SITE_URL = "";`

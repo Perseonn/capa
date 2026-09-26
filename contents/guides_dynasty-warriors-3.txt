@@ -2,7 +2,7 @@
 @author: Buster Wolf
 @updated: 2026-09-25
 
-Dynasty Warriors 3 is the third mainline Dynasty Warriors game while being the second with the 1 vs 100 formula, unlike [[[guide:dynastywarriors2 | Dynasty Warriors 2]]] there is a lot unlock this time around.
+Dynasty Warriors 3 is the third mainline Dynasty Warriors game while being the second with the 1 vs 100 formula, unlike [[link /guides/dynasty-warriors-2 | Dynasty Warriors 2]] there is a lot unlock this time around.
 
 Two words of warning before beginning
 * First if you used Cheat Codes with the this game your save cannot be transferred to [[[guide:dynasty-warriors-3-xtreme-legends | Xtreme Legends]]] due to anti cheating measures.

@@ -421,7 +421,7 @@ function parseImage(line, sourceName) {
         : "";
 
     return `<figure${classAttribute}>
-    <img src="/assets/${escapeHtml(category)}/${escapeHtml(slug)}/${escapeHtml(filename)}" alt="${escapeHtml(title)}">
+    <img class="img-fluid" src="/assets/${escapeHtml(category)}/${escapeHtml(slug)}/${escapeHtml(filename)}" alt="${escapeHtml(title)}">
     ${title ? `<figcaption>${escapeHtml(title)}</figcaption>` : ""}
 </figure>`;
 }
