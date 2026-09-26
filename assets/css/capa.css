@@ -1,0 +1,1849 @@
+/*
+==============================================================================
+IMPORT
+==============================================================================
+*/
+@import url('https://perseonn.github.io/font-repository/controller.css');
+@import url('https://perseonn.github.io/font-repository/controller-ps4.css');
+@import url('https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css');
+
+
+/*
+==============================================================================
+COLOR
+==============================================================================
+*/
+/*Color Scheme 007 Goodnights
+Lullaby Green #CFE5D0	(207,229,208,1)
+Lullaby       #E6E9EC	(230,233,236,1)
+Lullaby Blue  #7DB7BB	(125,183,187,1)
+Reverie       #F6DCBE	(246,220,190,1)
+Dream Stuff   #F3A7C6	(243,167,198,1)
+CAPA          #3773b6	(55,115,182,1)
+CAPA Skin     #b49797	(180,151,151,1)
+*/
+
+:root {
+	--color-capa: #3399ff; /* Lullaby Saturated*/
+	--color-capa-1: #E6E9EC; /* Lullaby */
+	--color-capa-2: #CFE5D0; /* Lullaby Green*/
+	--color-capa-3: #7DB7BB; /* Lullaby Blue*/
+	--color-capa-4: #F6DCBE; /* Reverie */
+	--color-capa-5: #F3A7C6; /* Dream Stuff*/
+	--color-text: #333333;
+	--color-bg: #FFFFFF;
+	--color-dark-50: rgba(0, 0, 0, 0.50);
+	--color-dark-75: rgba(0, 0, 0, 0.75);
+	--color-splash-overlay: rgba(255, 255, 255, 0.75);	
+	--color-text-overlay: rgba(255, 255, 255, 0.90);
+}
+
+/*
+@media (prefers-color-scheme: dark) {
+:root {
+	--color-bg: #121212;
+	--color-text: #FFFFFF;
+}
+}
+*/
+
+
+/*
+==============================================================================
+FONT, FONT COLOR, AND LINE HEIGHT
+==============================================================================
+*/
+:root {
+	--serif-font: 'Stardos Stencil', 'Fluent Emoji Color', '游明朝', '游明朝体', YuMincho, 'Yu Mincho', 'ヒラギノ明朝 ProN', 'Hiragino Mincho ProN', 'ＭＳ 明朝', 'MS Mincho', HiraMinProN-W3, 'TakaoEx明朝', TakaoExMincho, 'MotoyaLCedar', 'Droid Sans Japanese', serif;
+	--sans-font: 'Faculty Glyphic', 'Fluent Emoji Color', '游ゴシック', '游ゴシック体', YuGothic, 'Yu Gothic', 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ ゴシック', 'MS Gothic', HiraKakuProN-W3, 'TakaoExゴシック', TakaoExGothic, 'MotoyaLCedar', 'Droid Sans Japanese', sans-serif;
+	--mono-font: 'Atkinson Hyperlegible Mono', Monaco, Consolas, monospace;
+	--base-font-size: 1.60rem;
+	--base-line-height: calc(var(--base-font-size) * 2);
+}
+
+body{
+	font-family: var(--sans-font);
+	font-size: var(--base-font-size);
+	line-height: var(--base-line-height);
+	letter-spacing: 0.05rem;
+	color: var(--color-text);
+}
+
+.serif-font,
+h1,h2{
+	font-family: var(--serif-font);
+}
+
+.sans-font{
+	font-family: var(--sans-font);
+}
+
+tt, .code,
+.mono-font{
+	font-family: var(--mono-font);
+}
+
+.drop-caps > p:first-of-type::first-line,
+.list-page-title,
+#toc div[style="margin-left: 1em;"],
+b, strong, .strong {
+    font-weight: 700;
+}
+
+.drop-caps > p:first-of-type::first-line,
+.list-page-title,
+#toc div[style="margin-left: 1em;"],
+.small-caps{
+	font-variant-caps: small-caps;
+}
+
+.stroke, .stroke a{
+	paint-order: stroke fill;
+	-webkit-text-stroke: 0.5rem var(--color-bg);
+}
+
+.stroke.site-title, .stroke.site-title a{
+	-webkit-text-stroke: 0.5rem var(--color-capa);
+}
+
+.stroke.page-title, .stroke.page-title a{
+	-webkit-text-stroke: 1rem var(--color-bg);
+}
+
+main .main-content h1, h1 {
+	font-size: calc( var(--base-font-size) * 3);
+	color: var(--color-bg);
+}
+
+main .main-content h2, h2 {
+	font-size: calc( var(--base-font-size) * 2);
+	color: var(--color-bg);
+}
+
+main .main-content h3, h3 {
+	font-size: calc( var(--base-font-size) * 1.5);
+}
+
+main .main-content h4, h4 {
+	font-size: calc( var(--base-font-size) * 1.25);
+}
+
+.btn, .buttons .btn,
+.new-post .btn, .options .btn, .buttons .btn, .pager > .target > a, .pager > .current, .pager > .dots {
+	font-size: calc(var(--base-font-size) * 1);
+}
+
+tt, .code{
+	font-size: calc( var(--base-font-size) * 1);
+}
+
+.table-of-contents{
+	line-height: calc(var(--base-line-height) / 1.5);
+}
+
+.nav-text-container {
+	font-size: calc( var(--base-font-size) * 2);
+}
+
+.admins-only .nav-text-container {
+	font-size: calc( var(--base-font-size) * 1);
+}
+
+
+.nav-text-container a:hover {
+	color: var(--color-capa-5);
+}
+
+.table-of-contents .site-title {
+	font-family: var(--serif-font);
+	font-size: calc( var(--base-font-size) * 1 + 4vw);
+	line-height: calc(var(--base-font-size) * 0 + 4vw);
+	color: var(--color-bg);
+}
+
+#toc div[style="margin-left: 1em;"]{
+	font-size: calc(var(--base-font-size)* 1.10);
+}
+
+.splash-container .title-container .page-title,
+.splash-container .title-container .page-sub-title,
+.splash-container .title-container .page-extra{
+	color: var(--color-capa);
+}
+
+.splash-container .title-container .page-title{
+	font-family: var(--serif-font);
+	font-size: calc(var(--base-font-size) * 2 + 3.5vw);
+	line-height: calc(var(--base-font-size) * 2 + 3.5vw);
+}
+
+.splash-container .title-container .page-title.capa-title {
+	font-size: calc(var(--base-font-size)* 8 + 2vw);
+	line-height: calc(var(--base-font-size)* 8);
+}
+
+.splash-container .title-container .breadcrumb,
+.splash-container .title-container .page-sub-title,
+.splash-container .title-container .page-sub-title .printuser,
+.splash-container .title-container .page-sub-title .odate{
+	font-size: calc(var(--base-font-size) * 2);
+}
+
+.guide-author .printuser, .guide-author .odate {
+	font-size: calc(var(--base-font-size)* 1);
+}
+
+.guide-author .printuser a{
+	color: var(--color-text-c);
+	text-decoration: none;
+}
+
+.container-fluid.footer {
+	font-size: calc(var(--base-font-size) * 1);
+}
+
+.drop-caps > p:first-of-type::first-letter {
+	font-family: var(--serif-font);
+	font-size: calc(var(--base-font-size)* 4.5);
+}
+
+.drop-caps > p:first-of-type::first-line {
+	font-size: calc( var(--base-font-size) * 1.5);
+	line-height: 1.6;
+}
+
+.list-page-time,
+.page-options-bottom a, page-options-bottom-2 a,
+.footer,
+.text-smaller{
+	font-size: calc(var(--base-font-size) * 0.8);
+}
+
+.footer{
+	color: var(--color-bg);
+}
+
+.page-options-bottom a#more-options-button{
+	font-size: 0rem;
+}
+
+.page-options-bottom a#more-options-button::before,
+.page-options-bottom a#more-options-button::after{
+	font-size: calc(var(--base-font-size) * 0.8);
+}
+
+footer a {
+	color: var(--color-bg);
+}
+
+.footer-title{
+	font-size: calc(var(--base-font-size) * 3.2);
+	color: var(--color-capa);
+}
+
+footer .footer {
+	text-align: left;
+	line-height: normal;
+}
+
+/*
+==============================================================================
+LAYOUT
+==============================================================================
+*/
+
+.container {
+	padding: 0rem;
+}
+
+footer .footer > div{
+	margin: 0rem;
+}
+
+* {
+	transition-duration: 0.2s;
+}
+
+.m-0  {margin: 0rem;}
+.mt-1 {margin-top: 0.5rem;}
+.mt-2 {margin-top: 1.0rem;}
+.mt-3 {margin-top: 1.5rem;}
+.mt-4 {margin-top: 2.0rem;}
+.mb-1 {margin-bottom: 0.5rem;}
+.mb-2 {margin-bottom: 1.0rem;}
+.mb-3 {margin-bottom: 1.5rem;}
+.mb-4 {margin-bottom: 2.0rem;}
+.p-0  {padding: 0rem;}
+.p-1  {padding: 0.5rem;}
+.p-2  {padding: 1.0rem;}
+.p-3  {padding: 1.5rem;}
+.p-4  {padding: 2.0rem;}
+.p-5  {padding: 2.5rem;}
+.p-6  {padding: 3.0rem;}
+.p-7  {padding: 3.5rem;}
+.p-8  {padding: 4.0rem;}
+.pt-1 {padding-top: 0.5rem;}
+.pt-2 {padding-top: 1.0rem;}
+.pt-3 {padding-top: 1.5rem;}
+.pt-4 {padding-top: 2.0rem;}
+.pb-1 {padding-bottom: 0.5rem;}
+.pb-2 {padding-bottom: 1.0rem;}
+.pb-3 {padding-bottom: 1.5rem;}
+.pb-4 {padding-bottom: 2.0rem;}
+.pr-1 {padding-right: 0.5rem;}
+.pr-2 {padding-right: 1.0rem;}
+.pr-3 {padding-right: 1.5rem;}
+.pr-4 {padding-right: 2.0rem;}
+.pr-5 {padding-right: 2.5rem;}
+.pr-6 {padding-right: 3.0rem;}
+.pr-7 {padding-right: 3.5rem;}
+.pr-8 {padding-right: 4.0rem;}
+.pl-1 {padding-left: 0.5rem;}
+.pl-2 {padding-left: 1.0rem;}
+.pl-3 {padding-left: 1.5rem;}
+.pl-4 {padding-left: 2.0rem;}
+.pl-5 {padding-left: 2.5rem;}
+.pl-6 {padding-left: 3.0rem;}
+.pl-7 {padding-left: 3.5rem;}
+.pl-8 {padding-left: 4.0rem;}
+
+.rounded{border-radius: 0.5rem;}
+
+.flex    {display: flex;}
+.flex li {display: inline-block; width: 100%;}
+
+a {
+	color: var(--color-capa);
+	text-decoration: none;
+}
+
+a:hover, a:focus {
+	color: var(--color-capa-5);
+	text-decoration: none;
+}
+
+
+.header-wrap, #search-top-box, #page-info, .page-watch-options{
+	display:none;
+}
+
+nav.top-bar-wrap{
+	background-color: var(--color-2-b);
+}
+
+#search-top-box form::before,
+#search-top-box input.text:focus{
+	box-shadow:none;
+}
+
+.login-status .login-status-sign-in.btn {
+	padding: 0;
+	display: table-cell;
+	height: 50px;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+main .main-content h1,
+main .main-content h2,
+main .main-content h3,
+main .main-content h4 {
+	margin:0;
+	padding:0;
+}
+
+
+main .main-content h1, h1,
+main .main-content h2, h2 {
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+	padding: 1rem;
+}
+
+main .main-content h1, h1 {
+	margin-top: calc( var(--base-font-size) * 3.5);
+	margin-bottom: calc( var(--base-font-size) * 1);
+	background-color: var(--color-capa);
+
+}
+
+main .main-content h2, h2 {
+	margin-top: calc( var(--base-font-size) * 3);
+	margin-bottom: calc( var(--base-font-size) * 1);
+	background-color: var(--color-capa-3);
+}
+
+main .main-content h3, h3 {
+	margin-top: calc( var(--base-font-size) * 1.5);
+}
+
+main .main-content h4, h4 {
+	margin-top: calc( var(--base-font-size) * 1.25);
+}
+
+main > .content {
+	background: var(--color-bg);
+	box-shadow: none;
+	position: relative;
+	top: 0;
+	border-radius: 0;
+	padding-bottom: 0;
+}
+
+main > .content .page-title {
+	display: none;
+	border-bottom: none;
+	margin: 0;
+	padding: 0;
+	line-height: var(--base-line-height);
+}
+
+@media (min-width: 1200px) {
+	.container {
+		width: 100%;
+	}
+}
+
+@media (min-width: 992px) {
+	.container {
+		width: 100%;
+    }
+}
+
+@media (min-width: 768px) {
+    	.container {
+		width: 100%;
+	}
+}
+
+#page-content {
+	min-height: 100vh;
+}
+
+.image-container{
+	padding: 0rem;
+}
+
+.image-container.css{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+blockquote{
+	font-size:inherit;
+	color: var(--color-dark-50);
+	border-left: 5px solid var(--color-capa-5);
+}
+
+.code{
+	background: var(--color-bg);
+	border: 1px solid var(--color-capa-1);
+	border-radius: 0.5rem;
+	margin: 0;
+	padding: 2rem;
+	box-shadow: none;
+	overflow: auto;
+	position: relative;
+	counter-reset: linenumber;
+}
+
+.contain,
+.image-container.contain{
+	background-size: contain !important;
+}
+
+.wiki-content-table > thead > tr > th, .wiki-content-table > tbody > tr > th, .wiki-content-table > tfoot > tr > th {
+	background-color: var(--color-capa-2);
+	color: var(--color-text);
+}
+
+table.page-files {
+	background-color: var(--color-capa-1);
+}
+
+.table-striped>tbody>tr:nth-of-type(odd) {
+	background-color: var(--color-bg);
+}
+
+.table-striped>tbody>tr:nth-of-type(even) {
+	background-color: var(--color-capa-1);
+}
+
+table > thead > tr > th {
+	background-color: var(--color-capa-3);
+	color: var(--color-bg);
+	border-bottom: none;
+}
+
+.collapsible-block {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+ 
+.collapsible-block{
+	background-color:var(--color-capa-1);
+}
+ 
+.collapsible-block-content{
+	margin-top: 4px;
+	background-color:var(--color-bg);
+}
+ 
+.collapsible-block, .collapsible-block-content {
+	padding: 0.5rem;
+	border: 1px solid var(--color-capa);
+	border-radius: 0.5rem
+}
+ 
+.collapsible-block-folded > a.collapsible-block-link::before {
+	content: "\f107 \00a0";
+	font-family: FontAwesome;
+}
+ 
+.collapsible-block-unfolded-link > a.collapsible-block-link::before {
+	content: "\f106 \00a0";
+	font-family: FontAwesome;
+}
+ 
+.collapsible-block-unfolded-link, .collapsible-block-folded{
+	font-weight:400;
+}
+
+
+.options .btn{
+	height: 36px;
+	width: 36px;
+	padding-top: 6px;
+	padding-left: 6px;
+	vertical-align: middle;
+}
+
+.options .btn::after{
+	content: "";
+	display:none;
+}
+
+.hovertip {
+	background: rgba(20, 20, 20, .90);
+	font-size: calc(var(--base-font-size)* 0.8);
+	color: var(--color-bg);
+	border-radius: 0.25rem;
+	line-height: calc(var(--base-line-height)* 0.5);
+}
+
+tt {
+	background-color: var(--color-capa-1);
+	border: 1px solid var(--color-capa-2);
+	border-radius: 0.5rem;
+	padding: 0.2rem 0.5rem;
+}
+
+pre {
+	line-height: calc( var(--base-font-size) * 0.9 * 1.5);
+	max-height: 100vh;
+}
+
+
+/*
+==============================================================================
+SIDE BAR A.K.A TABLE OF CONTENTS
+==============================================================================
+*/
+
+.table-of-contents{
+	position: fixed;
+	height: 100%;
+	overflow-y: overlay;
+	overflow-x: clip;
+	box-shadow: 2px 0px 4px rgba(0, 0, 0, 0.25);
+	z-index: 2;
+}
+
+.table-of-contents::-webkit-scrollbar {width: 0.5rem;}
+.table-of-contents::-webkit-scrollbar-track {background: none; border-radius:8px;}
+.table-of-contents::-webkit-scrollbar-thumb {background: var(--color-capa-1); border-radius:8px;}
+.table-of-contents::-webkit-scrollbar-thumb:hover {background: var(--color-capa-2);}
+
+.table-of-contents .site-title{
+	display: block;
+}
+
+/*
+.table-of-contents::before {
+	content: "";
+	position: absolute;
+	z-index: -1;
+	width: 100%;
+	opacity: 0.1;
+	height: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+*/
+
+.toc-container{
+	display:grid;
+	align-content: start;
+	grid-template-columns: 1fr;
+}
+
+.toc-bg{
+	background-size: contain;
+	background-attachment: fixed;
+	background-position-x: -8%;
+	background-repeat: no-repeat;
+	opacity: 0.1;
+	height: 100%;
+	min-height: 100vh;
+	z-index:-1;
+}
+
+.nav-container{
+	display: grid;
+	align-items: center;
+	grid-template-columns: 1fr;
+}
+
+.toc-navigation,
+.toc-bg,
+.nav-image-container,
+.nav-text-container{
+	grid-column-start: 1;
+	grid-row-start: 1;
+}
+
+.admins-only .nav-image-container img{
+	height: 3.5rem;
+}
+
+/*
+==============================================================================
+Action Area, Page Options Area, Pager, and Buttons
+==============================================================================
+*/
+
+main .content .page-options-container{margin: 0rem;}
+
+.page-options-bottom a#print-button,
+.page-options-bottom a#edit-sections-button,
+.page-options-bottom a#edit-append-button {display: none;}
+
+.page-options-bottom a#edit-button::before        {content: "\f044";}
+.page-options-bottom a#tags-button::before        {content: "\f02c";}
+.page-options-bottom a#history-button::before     {content: "\f1da";}
+.page-options-bottom a#files-button::before       {content: "\f15b";}
+.page-options-bottom a#site-tools-button::before  {content: "\f0ad";}
+.page-options-bottom a#more-options-button::before{content: "\f552";}
+.page-options-bottom a#more-options-button::after {content: "Options"; margin-left: -0.5rem;}
+.page-options-bottom a#edit-meta-button::before   {content: "\f121";}
+.page-options-bottom a#watchers-button::before    {content: "\f06e";}
+.page-options-bottom a#backlinks-button::before   {content: "\e4e2";}
+.page-options-bottom a#view-source-button::before {content: "\f1c9";}
+.page-options-bottom a#parent-page-button::before {content: "\f148";}
+.page-options-bottom a#page-block-button::before  {content: "\f023";}
+.page-options-bottom a#rename-move-button::before {content: "\f246";}
+.page-options-bottom a#delete-button::before      {content: "\f1f8";}
+
+.page-options-bottom a#edit-meta-button{margin-left: 0rem !important;}
+
+.page-options-bottom a::before {
+	font-family: 'FontAwesome';
+	margin-right: 0.5rem;
+}
+
+#edit-meta-newtag-form div[style="text-align: center; padding: 1em;"],
+#file-action-area .buttons,
+#history-form-1 .buttons,
+#action-area .form-actions,
+#page-options-bottom,
+#page-options-bottom-2,
+#parent-set-error + form .buttons,
+#rename-option-delete .buttons,
+.buttons.alignleft,
+.form + .buttons,
+.pager,
+.page-files tr td:nth-child(4) {
+	display: flex;
+	justify-content: space-around;
+}
+
+#page-options-bottom-2{
+	width: 100%;
+	margin-bottom: 1rem;
+}
+
+.page-options-bottom > .btn:not(:first-child):not(:last-child):not(.dropdown-toggle), .buttons > .btn:not(:first-child):not(:last-child):not(.dropdown-toggle){
+	border-radius: 0.5rem;
+}
+
+.page-options-bottom > .btn:first-child:not(:last-child):not(.dropdown-toggle), .buttons > .btn:first-child:not(:last-child):not(.dropdown-toggle) {
+	border-bottom-right-radius: 0.5rem;
+	border-top-right-radius: 0.5rem;
+}
+
+.page-options-bottom > .btn:last-child:not(:first-child), .page-options-bottom > .dropdown-toggle:not(:first-child), .buttons > .btn:last-child:not(:first-child), .buttons > .dropdown-toggle:not(:first-child) {
+	border-bottom-left-radius: 0.5rem;
+	border-top-left-radius: 0.5rem;
+}
+
+.pager > span:nth-child(2) > a, .pager > span:nth-child(2){
+	border-radius: 0.5rem;
+}
+
+#action-area {
+	padding: 1rem;
+	margin-top: 1rem;
+	border: 1px solid var(--color-capa-1);
+	border-radius: 0.5rem;
+}
+
+#action-area table.form + .buttons input + input, #action-area .form-actions input + input{margin-left: 1rem;}
+.page-options-bottom .btn, form .btn.btn-primary, form .btn.btn-info, form .btn.btn-danger, form .btn.btn-default {padding: 0;}
+.btn, .btn-sm, .btn-lg, .btn-group-sm>.btn, .btn-group-lg>.btn, .pager > .target > a, .pager > .current, .pager > .dots{
+	line-height: calc(var(--base-line-height)* 1);
+}
+
+a.action-area-close {
+	margin-top: 0px;
+	margin-bottom: 1rem;
+}
+
+#action-area table.form {
+    margin: 1rem auto;
+}
+
+form .sub {
+	display: none;
+}
+
+table.edit-page-bottomtable td {
+	padding: 0rem !important;
+}
+
+table.edit-page-bottomtable td + td {
+	padding-left: 1rem !important;
+}
+
+.checkbox .do-not-notify{width: 100%;}
+.checkbox label{padding: 0rem;}
+
+.checkbox input[type=checkbox] {
+	position: relative;
+	margin: 0px;
+	height: 3.2rem;
+	width: 2rem;
+	margin-right: .5rem;
+}
+
+.btn, .buttons .btn,
+.new-post .btn, .options .btn, .buttons .btn, .pager > .target > a, .pager > .current, .pager > .dots {
+	height: calc(var(--base-font-size) *2);
+	padding: 0;
+	width: 100%;
+	border: 1px solid;
+	border-radius: 0.5rem;
+}
+
+.pager > .target > a, .pager > .current, .pager > .dots,
+.btn.btn-default, #action-area .btn.btn-default{
+	background-color: var(--color-bg);    border-color: var(--color-text);     color: var(--color-text);
+}
+
+.pager > .target > a:hover, .pager > .current:hover, .pager > .dots:hover,
+.btn.btn-default:hover, #action-area .btn.btn-default:hover{
+	background-color: var(--color-capa-1); color: var(--color-text);
+}
+
+.btn.btn-primary, #action-area .btn.btn-primary{background-color: var(--color-capa);   border-color: var(--color-capa);   color: var(--color-bg)}
+.btn.btn-info,    #action-area .btn.btn-info   {background-color: var(--color-capa-3); border-color: var(--color-capa-3); color: var(--color-bg)}
+.btn.btn-danger,  #action-area .btn.btn-danger {background-color: var(--color-capa-5); border-color: var(--color-capa-5); color: var(--color-bg)}
+
+.btn.btn-primary:hover, #action-area .btn.btn-primary:hover{background-color: var(--color-bg); color: var(--color-capa);}
+.btn.btn-info:hover,    #action-area .btn.btn-info:hover   {background-color: var(--color-bg); color: var(--color-capa-3);}
+.btn.btn-danger:hover,  #action-area .btn.btn-danger:hover {background-color: var(--color-bg); color: var(--color-capa-5);}
+
+
+/*Files: Table and Modal*/
+
+div[style="text-align: center; margin: 1em; height: 240px;"]{
+	width:100% !important;
+}
+
+.owindow .button-bar {
+	display: flex;
+	padding: 2rem;
+}
+
+.owindow .button-bar a + a {
+	margin-left: 0.5rem;
+}
+
+.owindow .button-bar a {
+	width: 100%;
+	text-align: center;
+	border: 1px solid var(--color-text);
+	border-radius: 0.5rem;
+	color: var(--color-text);
+}
+
+.owindow .button-bar a:hover {
+	background-color: var(--color-capa-1);
+}
+
+
+/*Site Tools: Wanted and Orphaned Buttons*/
+
+.site-tools-box .page-options-bottom {
+	margin-bottom: 1rem;
+}
+
+.site-tools-box .page-options-bottom ul {
+	display:flex;
+}
+
+.site-tools-box .page-options-bottom,
+.site-tools-box .page-options-bottom ul,
+.site-tools-box .page-options-bottom li,
+.site-tools-box .page-options-bottom li > a{
+	width: 100%;
+}
+
+#site-tools-button,
+.site-tools-box .nav-pills li > a {
+	text-transform: capitalize;
+}
+
+.site-tools-box .nav-pills li > a {
+	padding: 0;
+	background-color: var(--color-bg);
+	color: var(--color-text);
+	border-color: 1px solid var(--color-text);
+	border-radius: 0.5rem;
+	text-align: center;
+}
+
+.site-tools-box .nav-pills li > a:hover {
+	background-color: var(--color-capa-1);
+}
+
+/* Add Meta Button, Upload Button */
+
+#edit-meta-newtag-form div[style="text-align: center; padding: 1em;"]{
+	padding: 1rem 0rem !important;
+}
+
+#edit-meta-newtag-form input,
+#edit-meta-newtag-form table,
+#edit-meta-addbutton > a,
+a#show-upload-button,
+a#rename-show-backlinks,
+a#rename-hide-backlinks {
+	width: 100%;
+}
+
+#edit-meta-newtag-form td:nth-child(1), 
+#edit-meta-newtag-form td:nth-child(3) {
+    width: 1rem;
+}
+
+#edit-meta-newtag-form td:nth-child(5) {
+    width: 3rem;
+}
+
+/*Pagers, hide the dots*/
+
+.pager{
+	margin: 1rem 0rem;
+}
+
+.pager .target,
+.pager > .target > a {
+	width: 100%;
+}
+
+.pager > .target > a {
+	display: inline-block;
+}
+
+.pager .dots {
+	display: none;
+}
+
+.pager > .target > a, .pager > .current, .pager > .dots{
+	margin: 0rem;
+}
+
+.pager > .current,
+.pager > .current:hover {
+	background-color: var(--color-capa-1);
+	border-color: var(--color-capa-1);
+	color: var(--color-capa);
+	cursor: not-allowed;
+}
+
+
+
+/*Spaces Between Two Buttons*/
+
+.flex .btn + .btn,
+.flex li + li,
+#edit-page-form .btn + .btn,
+#edit-meta-newtag-form div[style="text-align: center; padding: 1em;"] a + a,
+#rename-option-delete .btn + .btn,
+.page-options-bottom .btn + .btn,
+.pager .current + .target,
+.pager .target + .target,
+.pager .target + .current,
+.pager .dots + .target,
+.pager .target + .dots,
+.page-files tr td:nth-child(4) a + a,
+.site-tools-box .page-options-bottom li + li{
+	margin-left: 0.5rem;
+}
+
+/*
+==============================================================================
+PAGE SPLASH, GRADIENT, FOOTER
+==============================================================================
+*/
+.splash-container{
+	background-size: cover;
+	background-position:center;
+}
+
+.gradient-line {
+	border-image-source: linear-gradient(90deg, #9cccff 0%, #ffade2 100%);
+	border-image-slice: 1;
+}
+
+.gradient-line.line-top-1{
+	border-top: 1px solid;
+}
+
+.gradient-line.line-top-4{
+	border-top: 4px solid;
+}
+
+.gradient-line.line-bottom-1{
+	border-bottom: 1px solid;
+}
+
+.gradient-line.line-bottom-4{
+	border-bottom: 4px solid;
+}
+
+.full-height{
+	height: 100vh;
+}
+
+.generic-splash {
+	background-image: url('http://capa.wdfiles.com/local--files/img:css/capa-tile-v2.webp');
+	background-attachment: fixed;
+}
+
+.main-splash{
+	background-image: url('http://capa.wdfiles.com/local--files/img:css/splash-main.avif');
+	background-size: cover;
+	background-position: bottom;
+	background-repeat: no-repeat;
+}
+
+.main-splash-alternate{
+	background-image: linear-gradient(0deg, var(--color-splash-overlay), var(--color-splash-overlay)), url('http://capa.wdfiles.com/local--files/img:css/splash-main.avif');
+	background-size: cover;
+	background-position: 80%;
+	background-repeat: no-repeat;
+}
+
+.guide-splash{
+	background-image: linear-gradient(0deg, var(--color-splash-overlay), var(--color-splash-overlay)), url('http://capa.wdfiles.com/local--files/img:css/splash-guide.avif');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.guide-splash-alternate{
+	background-image: url('http://capa.wdfiles.com/local--files/img:css/splash-guide.avif');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.article-splash{
+	background-image: linear-gradient(0deg, var(--color-splash-overlay), var(--color-splash-overlay)), url('http://capa.wdfiles.com/local--files/img:css/splash-article.avif');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.article-splash-alternate{
+	background-image: url('http://capa.wdfiles.com/local--files/img:css/splash-article.avif');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.splash-container .title-container{
+	text-align: right;
+	height: 100%;
+	display: flex;
+	flex-direction: column-reverse;
+}
+
+.splash-container .title-container .page-title,
+.splash-container .title-container .page-sub-title,
+.splash-container .title-container .page-extra{
+	display: inline-block;
+	align-self: auto;
+	width: 100%;
+}
+
+
+.splash-container .title-container .page-title{
+	margin-top: 0rem;
+	margin-bottom: 0rem;
+}
+
+.splash-container .printuser.avatarhover img.small {
+	background-size: 0;
+	width: auto;
+	height: 4rem;
+	vertical-align: -1rem;
+	padding: 0;
+}
+
+footer.footer-wrap {
+	background: var(--color-capa);
+}
+
+footer .footer{
+	padding-bottom: 0rem;
+	display: flex;
+}
+
+.footer-title{
+	display: flex;
+	align-content: center;
+	flex-wrap: wrap;
+	padding-top: 0.5rem;
+}
+
+.footer-links {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+
+/*
+==============================================================================
+Unknown
+==============================================================================
+*/
+
+.hover-classic:hover span {
+    border: 1px solid #275282;
+    background: -webkit-linear-gradient(top,rgba(255,255,255,1),rgba(230,233,236,1));
+    background: -o-linear-gradient(bottom,rgba(255,255,255,1),rgba(230,233,236,1));
+    background: -moz-linear-gradient(bottom,rgba(255,255,255,1),rgba(230,233,236,1));
+    background: linear-gradient(to bottom, rgba(255,255,255,1), rgba(230,233,236,1));
+}
+
+
+/*
+==============================================================================
+List page Layout
+==============================================================================
+*/
+.list-page-container{
+	padding: 1rem;
+	display: grid;
+	align-items: end;
+	grid-template-columns: 1fr;
+}
+
+.list-page-container:hover {
+	transform: scale(1.02);
+}
+
+.list-page-image-container{
+	background-size: cover;
+	background-position: center center;
+	background-repeat:no-repeat;
+	grid-column-start: 1;
+	grid-row-start: 1;
+}
+
+.list-page-text-container{
+	grid-row-start: 1;
+	grid-column-start: 1;
+	background: var(--color-text-overlay);
+	padding-left: 1rem;
+	padding-right: 1rem;
+	border-bottom-left-radius: 0.5rem;
+	border-bottom-right-radius: 0.5rem;
+}
+
+.list-page-text-container {
+	overflow: hidden;
+    	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.list-page-time{
+	display: block;
+	margin-top: -0.8rem;
+}
+
+/* Unused Version 1
+.list-page-text-container{margin-top:-0.5rem;}
+.list-page-title a::after {content: ' ☙';opacity: 0;transition-duration: 0.2s;}
+.list-page-title a:hover::after {opacity: 1;}
+*/
+
+/*
+==============================================================================
+Article / Guide Page Elements
+==============================================================================
+*/
+
+#toc .title {
+	display: none;
+}
+
+#toc{
+	margin-left: 0px;
+	padding:0px;
+	min-width: 0;
+	border: none;
+}
+
+#toc div[style="margin-left: 1em;"]{
+	margin-left: 0px !important;
+	margin-top: 1rem;
+}
+
+#toc div[style="margin-left: 2em;"]::before {
+	content: '§ ';
+	color: var(--color-1-a-light);
+}
+
+#toc div[style="margin-left: 2em;"]{
+	margin-left: 1rem !important;
+	text-indent: -1rem;
+	padding: 0.2rem 0rem;
+}
+
+#toc div[style="margin-left: 3em;"]::before {
+	content: '> ';
+	color: var(--color-capa-4);
+}
+
+#toc div[style="margin-left: 3em;"]{
+	margin-left: 2rem !important;
+	text-indent: -1rem;
+	padding: 0.15rem 0rem;
+}
+
+#toc-action-bar{
+	display:none;
+}
+
+.guide-author .printuser a{
+	padding-left: 0.25rem;
+}
+
+.drop-caps > p:first-of-type::first-letter {
+	float: left;
+	margin-bottom: -4rem;
+	margin-top: -1.3rem;
+	margin-right: 0.5rem;
+}
+
+.review.hippo{
+	position:relative;
+}
+
+/*
+.review.hippo::before {
+	content: " ";
+	position: absolute;
+	width: 100%;
+	opacity: 0.1;
+	height: 100%;
+	background-image: url(http://capa.wdfiles.com/local--files/img:css/hippo-cute.avif), url(http://capa.wdfiles.com/local--files/img:css/hippo-ups.avif);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: left, right;
+}
+*/
+
+.review.hippo th {
+	width: 50%;
+}
+
+.review.hippo th::before {
+	display: inline-block;
+	content: "\00a0";
+	background-image: url(http://capa.wdfiles.com/local--files/img:css/hippo-cute.avif);
+	background-size: 6rem;
+	background-position: left;
+	background-repeat: no-repeat;
+	vertical-align: middle;
+	width: 6rem;
+	height: 5rem;
+	margin-right: 1rem;
+}
+
+.review.hippo th:nth-child(2)::before {
+	background-image: url(http://capa.wdfiles.com/local--files/img:css/hippo-ups.avif);
+}
+
+
+/*
+==============================================================================
+USER MODAL WINDOW
+==============================================================================
+*/
+.owindow{
+	background-color: var(--color-bg);
+}
+
+.owindow h1{
+	margin-top: 0rem;
+	background: none;
+	color: var(--color-text);
+}
+
+.owindow .title{
+	display:none;
+}
+
+.owindow table {
+    margin-bottom: 0rem;
+}
+
+.owindow table + div {
+	display: flex;
+	margin-top: 1rem !important;
+}
+
+.owindow table + div > div + a, .owindow table + div > a + a{
+	margin-left: 1rem;
+}
+
+.owindow table + div > div > a, .owindow table + div > a {
+	font-size: calc(var(--base-font-size)* 0.8);
+}
+
+
+
+/*
+==============================================================================
+Video Component Layout
+==============================================================================
+*/
+.video-16x9{
+	padding-bottom: 56.25%;
+	}
+
+.video-9x16{
+	padding-bottom: 177.78%;
+	}
+
+.video-1x1{
+	padding-bottom: 100%;
+	}
+
+.portfolio.video-description h1{
+	margin-top:0;
+	}
+
+.portfolio .row{
+	border-bottom: 1px dotted #e1e1e1;
+	margin-bottom: 1rem;
+	padding-bottom: 1rem;
+	}
+
+input#upload-userfile {
+	padding: 0px;
+	line-height: 0;
+	padding-top: 1.5px;
+	padding-left: 1.5px;
+}
+
+
+
+/*
+==============================================================================
+PSO2 Navigation
+==============================================================================
+*/
+
+.pso2-nav{
+	border: 2px solid #112e77;
+	margin: 1rem 0;
+	border-radius: 6px;
+}
+.pso2-nav .row {
+	border: 2px solid #327fcc;
+	background: linear-gradient(to bottom, #112e77 0%,#040f39 100%);
+	border-radius: 4px;
+}
+
+.pso2-logo{
+	background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-other/nav-pso2.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width:100%;
+}
+
+.pso2-logo-lg{
+	min-height: 10rem;
+}
+
+.pso2-logo-sm{
+	height: 8rem;
+}
+
+.pso2-logo-container{
+	text-align:center;
+}
+
+.pso2-logo-border-right{
+	border-right: 2px solid #327fcc;
+}
+
+.pso2-logo-border-bottom{
+	border-bottom: 2px solid #327fcc;
+}
+
+.pso2-nav-icon{
+	width: 36px;
+	margin-top: -0.5rem;
+}
+
+.pso2-nav-item-container .nav.series-nav>li>a{
+	color: #92ffff;
+	transition: all 0s;
+}
+
+.pso2-nav-item-container .nav.series-nav>li>a:hover{
+	background: linear-gradient(to bottom, #92ffff 49%,#09ffff 50%);
+	color: #112e77;
+	transition: all 0s;
+	border-radius: 4px;
+}
+
+
+
+
+
+/*
+==============================================================================
+PSO2 Guide
+==============================================================================
+*/
+.splash.guide.phantasy-star-online-2-summoner{
+    background-image: url('http://capa.wikidot.com/local--files/guide:phantasy-star-online-2-summoner/phantasy-star-online-2-summoner.webp');
+}
+
+.alert > p + ul {
+    margin-top: 0px;
+}
+
+.small-icon{
+    margin-top: -10px;
+    height: 16px;
+}
+
+.medium-icon{
+    margin-top: calc(var(--base-font-size) * -0.6);
+    height: calc(var(--base-font-size) * 1);
+}
+
+.h2-icon{
+    margin-top: -22px;
+    height: 32px;
+}
+
+.pixelate{
+    image-rendering: pixelated;
+}
+
+.pso2-icon,
+.pa-icon{
+    width:38px;
+}
+
+.pso2-icon.double,
+.pa-icon.double{
+    width:76px;
+}
+
+.pso2-icon.quadriple{
+    width:152px;
+}
+
+.item-icon.double{
+    width:128px;
+}
+
+.affix-table th:first-child {
+    width:10%;
+}
+.affix-table th:nth-child(n+2) {
+    width:30%;
+}
+
+.weapon-table td:first-child {
+    min-width: 10rem;
+}
+
+.cell-item{
+    display: list-item;
+    margin-left: var(--base-font-size);
+}
+
+.cell-item.icon,
+.cell-item.none{
+    list-style: none;
+    margin-left: 0;
+}
+
+.cell-item.icon{
+    text-indent: calc(var(--base-font-size) * -1 - 0.2rem);
+    padding-left: calc(var(--base-font-size) + 0.2rem);
+}
+
+span.icon::before {
+    content: "\00a0";
+    background-size: var(--base-font-size);
+    width: var(--base-font-size);
+    height: auto;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position-y: center,center,center;
+    background-position-x: center;
+    margin-right: 0.2rem;
+}
+
+span.rear-icon::after {
+    content: "\00a0";
+    background-size: var(--base-font-size);
+    width: var(--base-font-size);
+    height: auto;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position-y: center,center,center;
+    background-position-x: center;
+    margin-left: 0.2rem;
+}
+
+span.icon.double::before{
+    width: calc(var(--base-font-size) * 2);
+    background-position-x: left,right;
+}
+
+span.icon.triple::before{
+    width: calc(var(--base-font-size) * 3);
+    background-position-x: left,center,right;
+}
+
+.icon.item-candy::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-item-candy.png'); image-rendering:pixelated;}
+.icon.item-tool::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-item-tool.png'); image-rendering:pixelated;}
+.icon.item-pass::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-item-pass.png'); image-rendering:pixelated;}
+.icon.item-mats::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-item-material.png'); image-rendering:pixelated;}
+.icon.item-food::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-item-food.png'); image-rendering:pixelated;}
+.icon.item-ingr::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-item-ingredient.png'); image-rendering:pixelated;}
+.icon.item-devc::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-item-device.png'); image-rendering:pixelated;}
+.icon.item-ring::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-ring.png'); image-rendering:pixelated;}
+.icon.pet::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-pet.png'); image-rendering:pixelated;}
+.icon.pet-persona::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-pet-personality.png'); image-rendering:pixelated;}
+.icon.op-reg::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-regular.png'); image-rendering:pixelated;}
+.icon.op-saf::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-saf.png'); image-rendering:pixelated;}
+.icon.op-pot::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-potential.png'); image-rendering:pixelated;}
+.icon.op-sclass::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass.png'); image-rendering:pixelated;}
+.icon.op-sclass-1::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass-1.png'); image-rendering:pixelated;}
+.icon.op-sclass-2::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass-2.png'); image-rendering:pixelated;}
+.icon.op-sclass-3::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass-3.png'); image-rendering:pixelated;}
+.icon.op-sclass-4::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass-4.png'); image-rendering:pixelated;}
+.icon.op-sclass-5::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass-5.png'); image-rendering:pixelated;}
+.icon.op-sclass-6::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass-6.png'); image-rendering:pixelated;}
+.icon.op-sclass-7::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass-7.png'); image-rendering:pixelated;}
+.icon.op-sclass-8::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass-8.png'); image-rendering:pixelated;}
+.icon.stat-aatk::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-strike.png'),
+    url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-range.png'),
+    url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-tech.png'); image-rendering:pixelated;}
+.icon.stat-satk::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-strike.png'); image-rendering:pixelated;}
+.icon.stat-ratk::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-range.png'); image-rendering:pixelated;}
+.icon.stat-tatk::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-tech.png'); image-rendering:pixelated;}
+.icon.stat-satk-ratk::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-strike.png'),
+    url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-range.png'); image-rendering:pixelated;}
+.icon.stat-satk-tatk::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-strike.png'),
+    url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-tech.png'); image-rendering:pixelated;}
+.icon.stat-ratk-tatk::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-range.png'),
+    url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-tech.png'); image-rendering:pixelated;}
+.icon.stat-adef::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-strike-def.png'),
+    url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-range-def.png'),
+    url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-tech-def.png'); image-rendering:pixelated;}
+.icon.stat-sdef::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-strike-def.png'); image-rendering:pixelated;}
+.icon.stat-rdef::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-range-def.png'); image-rendering:pixelated;}
+.icon.stat-tdef::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-tech-def.png'); image-rendering:pixelated;}
+.icon.stat-sres::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-strike-resist.png'); image-rendering:pixelated;}
+.icon.stat-rres::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-range-resist.png'); image-rendering:pixelated;}
+.icon.stat-tres::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-tech-resist.png'); image-rendering:pixelated;}
+.icon.stat-dex::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-dex.png'); image-rendering:pixelated;}
+.icon.class-hu::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-hu.png'); image-rendering:pixelated;}
+.icon.class-fi::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-fi.png'); image-rendering:pixelated;}
+.icon.class-fo::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-fo.png'); image-rendering:pixelated;}
+.icon.class-te::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-te.png'); image-rendering:pixelated;}
+.icon.class-ra::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-ra.png'); image-rendering:pixelated;}
+.icon.class-gu::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-gu.png'); image-rendering:pixelated;}
+.icon.class-br::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-br.png'); image-rendering:pixelated;}
+.icon.class-bo::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-bo.png'); image-rendering:pixelated;}
+.icon.class-su::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-su.png'); image-rendering:pixelated;}
+.icon.class-hr::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-hr.png'); image-rendering:pixelated;}
+.icon.class-ph::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-ph.png'); image-rendering:pixelated;}
+.icon.class-et::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-et.png'); image-rendering:pixelated;}
+.icon.sweets-2x2::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/cui-sweets-2x2.png');}
+.icon.sweets-1x2::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/cui-sweets-1x2.png');}
+.icon.sweets-1x4::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/cui-sweets-1x4.png');}
+.icon.sweets-2x1::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/cui-sweets-2x1.png');}
+.icon.sweets-4x1::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/cui-sweets-4x1.png');}
+.icon.sweets-1x1::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/cui-sweets-1x1.png');}
+.icon.unit-rear::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-unit-rear.png'); image-rendering:pixelated;}
+.icon.unit-arm::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-unit-arm.png'); image-rendering:pixelated;}
+.icon.unit-leg::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-unit-leg.png'); image-rendering:pixelated;}
+.icon.ring::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-ring.png'); image-rendering:pixelated;}
+.icon.wp-sw::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-sw.png'); image-rendering:pixelated;}
+.icon.wp-ds::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-ds.png'); image-rendering:pixelated;}
+.icon.wp-ka::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-ka.png'); image-rendering:pixelated;}
+.icon.wp-db::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-db.png'); image-rendering:pixelated;}
+.icon.wp-gs::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-gs.png'); image-rendering:pixelated;}
+.icon.wp-ar::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-ar.png'); image-rendering:pixelated;}
+.icon.wp-tm::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-tm.png'); image-rendering:pixelated;}
+.icon.wp-ro::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-ro.png'); image-rendering:pixelated;}
+.icon.wp-wa::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-wa.png'); image-rendering:pixelated;}
+.icon.wp-tl::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-tl.png'); image-rendering:pixelated;}
+.icon.wp-ta::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-ta.png'); image-rendering:pixelated;}
+.rear-icon.flag-na::after {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-flag-na.png'); image-rendering:auto;}
+
+
+.unavailable{
+    text-decoration: line-through;
+    color: gray;
+}
+
+.pa-combo .wiki-content-table {
+    table-layout: fixed;
+}
+
+.pa-combo tr:nth-child(2) > td:nth-child(even) {
+    min-width: 0px;
+}
+
+.pa-combo tr:nth-child(2) td,
+.pa-combo tr:nth-child(3) td{
+    text-align: center;
+}
+
+.table-icon-column tr th:first-child,
+.unit-s-ability tr th:nth-child(1) {
+    width: 8%;
+}
+
+.pso2-loc-20 tr td:nth-child(3){
+    max-width: 20rem;
+}
+
+
+.pso2-desc-30 tr td:last-child{
+    max-width: 30rem;
+}
+
+.pso2-pros-cons tr td:first-child,
+.pso2-pros-cons tr td:last-child{
+    width: 50%;
+}
+
+
+.pso2-sweets-box tr td:first-child {
+    text-align: right;
+    width: 50%;
+}
+
+.pso2-pet-box {
+    max-width: 38rem;
+}
+
+
+.table-short-description tr td:nth-child(3),
+.table-short-description tr td:last-child,
+.basic-equip tr td:nth-child(4),
+.unit-s-ability tr td:nth-child(4) {
+    max-width: 20rem;
+}
+
+
+.cell-item.pros-cons {
+    list-style: none;
+    margin-left: 0;
+    text-indent: calc(var(--base-font-size) * -1.2);
+    padding-left: calc(var(--base-font-size) * 1.2);
+}
+
+.cell-item.pros-cons.pros::before {
+    content: "\f067";
+}
+
+.cell-item.pros-cons.cons::before {
+    content: "\f068";
+}
+
+.cell-item.pros-cons.pros::before,
+.cell-item.pros-cons.cons::before {
+    font-family: "FontAwesome";
+    margin-right: 0.5rem;
+    font-size: calc(var(--base-font-size) * 0.9);
+}
+
+.pros-cons-list ul {
+    list-style: none;
+    text-indent: -1.3rem;
+    padding-left: 1.3rem;
+}
+
+.pros-cons-list.pros ul li::before {
+    content: "\f067";
+}
+
+.pros-cons-list.cons ul li::before {
+    content: "\f068";
+}
+
+.pros-cons-list ul li::before {
+    font-family: "FontAwesome";
+    margin-right: 0.5rem;
+    font-size: calc(var(--base-font-size) * 0.9);
+}
+
+.manaka-text-box-container{
+    background-color: rgba(255, 0, 157, 0.7);
+    border-radius: 2rem;
+    border: 4px solid #ff009d;
+    color: white;
+    font-size: calc(var(--base-font-size) + .8vw);
+    display: inline-block;
+    width:100%;
+}
+
+.manaka-text-box{
+    display: table-cell;
+    padding: 1rem;
+    vertical-align: middle;
+    width: 100%;
+}
+
+.manaka-icon-container{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.manaka-icon{
+    display: table-cell;
+    width: auto;
+    max-height: calc(var(--base-font-size) * 6);
+}
+
+
+/*
+==============================================================================
+Cookie Run Kingdom / CRK Image CSS
+==============================================================================
+*/
+.guide.cookie-run-kingdom ul li {
+	list-style: none;
+	margin-left: 0.4rem;
+	text-indent: -0.4rem;
+	}
+
+.guide.cookie-run-kingdom ul li::before {
+	content: '\1f36a';
+	font-size: calc(var(--base-font-size)*0.8);
+	vertical-align: bottom;
+	margin-right:0.4rem;
+	margin-left: calc(var(--base-font-size)*-1);
+	}
+
+.cookie-run-kingdom span.icon::before {
+	width: calc(var(--base-font-size)*1.6);
+	background-size: contain;
+	}
+
+.icon.anubis::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/anubis.png');}
+.icon.black-lemonade::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/black-lemonade.png');}
+.icon.black-pearl::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/black-pearl.png');}
+.icon.black-raisin::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/black-raisin.png');}
+.icon.blackberry::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/blackberry.png');}
+.icon.caviar::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/caviar.png');}
+.icon.cherry-bomb::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/cherry-bomb.png');}
+.icon.cine::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/cine.png');}
+.icon.cotton::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/cotton.png');}
+.icon.cream-puff::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/cream-puff.png');}
+.icon.creme-brulee::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/creme-brulee.png');}
+.icon.crimson-coral::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/crimson-coral.png');}
+.icon.dark-cacao::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/dark-cacao.png');}
+.icon.devil::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/devil.png');}
+.icon.don-carlos::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/don-carlos.png');}
+.icon.donut::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/donut.png');}
+.icon.elder-faerie::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/elder-faerie.png');}
+.icon.financier::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/financier.png');}
+.icon.frilled-jellyfish::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/frilled-jellyfish.png');}
+.icon.frost-queen::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/frost-queen.png');}
+.icon.golden-cheese::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/golden-cheese.png');}
+.icon.hollyberry::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/hollyberry.png');}
+.icon.icicle-yeti::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/icicle-yeti.png');}
+.icon.kouign::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/kouign.png');}
+.icon.macaron::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/macaron.png');}
+.icon.mado-chan::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/mado-chan.png');}
+.icon.magma-shounen::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/magma-shounen.png');}
+.icon.mango::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/mango.png');}
+.icon.mcgonagall::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/mcgonagall.png');}
+.icon.milky-way::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/milky-way.png');}
+.icon.mint-choco::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/mint-choco.png');}
+.icon.moonlight::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/moonlight.png');}
+.icon.mozzarella::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/mozzarella.png');}
+.icon.olive::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/olive.png');}
+.icon.parfait::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/parfait.png');}
+.icon.peppermint::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/peppermint.png');}
+.icon.pinecone::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/pinecone.png');}
+.icon.pitaya-dragon::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/pitaya-dragon.png');}
+.icon.pure-vanilla::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/pure-vanilla.png');}
+.icon.rebel::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/rebel.png');}
+.icon.rockstar::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/rockstar.png');}
+.icon.royal-margarine::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/royal-margarine.png');}
+.icon.sakura::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/sakura.png');}
+.icon.sea-fairy::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/sea-fairy.png');}
+.icon.sherbet::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/sherbet.png');}
+.icon.shining-glitter::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/shining-glitter.png');}
+.icon.snapdragon::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/snapdragon.png');}
+.icon.snape::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/snape.png');}
+.icon.snow-sugar::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/snow-sugar.png');}
+.icon.sorbet-shark::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/sorbet-shark.png');}
+.icon.space-doughnut::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/space-doughnut.png');}
+.icon.squink::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/squink.png');}
+.icon.star-coral::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/star-coral.png');}
+.icon.stardust::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/stardust.png');}
+.icon.stormbringer::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/stormbringer.png');}
+.icon.suzuran::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/suzuran.png');}
+.icon.tarte-tatin::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/tarte-tatin.png');}
+.icon.twizzly::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/twizzly.png');}
+.icon.werewolf::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/werewolf.png');}
+.icon.white-lily::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/white-lily.png');}
+.icon.wildberry::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/wildberry.png');}
+
+
+.cookie-run-kingdom span.icon.top::before{
+	width: calc(var(--base-font-size)*1);
+	}
+
+.cookie-run-kingdom h2 span.icon.top::before {
+	width: calc(var(--base-font-size)*2);
+	height: calc(var(--base-font-size)*2);
+	}
+
+.icon.top.almond::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/almond.png');}
+.icon.top.apple-jelly::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/apple-jelly.png');}
+.icon.top.candy::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/candy.png');}
+.icon.top.caramel::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/caramel.png');}
+.icon.top.choco::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/choco.png');}
+.icon.top.draconic::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/draconic.png');}
+.icon.top.frost::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/frost.png');}
+.icon.top.hazelnut::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/hazelnut.png');}
+.icon.top.kiwi::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/kiwi.png');}
+.icon.top.moon::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/moon.png');}
+.icon.top.mystery::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/mystery.png');}
+.icon.top.peanut::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/peanut.png');}
+.icon.top.radiant-cheese::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/radiant-cheese.png');}
+.icon.top.rasp::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/rasp.png');}
+.icon.top.sea::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/sea.png');}
+.icon.top.soda::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/soda.png');}
+.icon.top.topping-base::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/topping-base.png');}
+.icon.top.tricone::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/tricone.png');}
+.icon.top.walnut::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/walnut.png');}
+
+.icon.mc.mc-black-pearl::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-black-pearl.png');}
+.icon.mc.mc-black-raisin::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-black-raisin.png');}
+.icon.mc.mc-cream-puff::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-cream-puff.png');}
+.icon.mc.mc-frost-queen::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-frost-queen.png');}
+.icon.mc.mc-mado-chan::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-mado-chan.png');}
+.icon.mc.mc-parfait::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-parfait.png');}
+.icon.mc.mc-sea-fairy::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-sea-fairy.png');}
+.icon.mc.mc-snow-sugar::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-snow-sugar.png');}
+.icon.mc.mc-squink::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-squink.png');}
+
+
+.icon.trsr.common-watch::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/common-watch.png');}
+.icon.trsr.feather::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/feather.png');}
+.icon.trsr.pin-cushion::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/pin-cushion.png');}
+.icon.trsr.rare-scroll::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/rare-scroll.png');}
+.icon.trsr.robes::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/robes.png');}
+.icon.trsr.scroll::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/scroll.png');}
+.icon.trsr.scythe::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/scythe.png');}
+.icon.trsr.tail::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/tail.png');}
+.icon.trsr.vial::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/vial.png');}
+.icon.trsr.watch::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/watch.png');}
+.icon.trsr.whistle::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/whistle.png');}
+
+
+
+/*
+==============================================================================
+Controller CSS
+==============================================================================
+*/
+
+.controller{
+	font-family: controller;
+	font-size: 2.5rem;
+	vertical-align: sub;
+	height: var(--base-font-size);
+	display: inline-block;
+}
+
+.controller.direction,
+.controller.qcf::before,
+.controller.qcfqcf::before,
+.controller.qcb::before,
+.controller.hcf::before,
+.controller.hcb::before,
+.controller.dpf::before,
+.controller.dpfdpf::before,
+.controller.dpb::before,
+.controller.fcf::before{
+	font-weight:700;
+}
+
+.controller.qcf::before   {content:'@#^'}
+.controller.qcfqcf::before{content:'@#^@#^'}
+.controller.qcb::before   {content:'@!$'}
+.controller.hcf::before   {content:'$!@#^'}
+.controller.hcb::before   {content:'^#@!$'}
+.controller.dpf::before   {content:'^@#'}
+.controller.dpfdpf::before{content:'^@#^@#'}
+.controller.dpb::before   {content:'$@!'}
+.controller.fcf::before   {content:'^#@!$&*(^'}
+
+.controller-ps4{font-family: controller-ps4;}
+
+
+/*
+==============================================================================
+Overrides
+==============================================================================
+*/
+.img-contain {
+background-size: contain !important;
+}

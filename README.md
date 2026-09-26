@@ -17,7 +17,7 @@ This is a proof-of-concept of converting Wikidot source files (.txt) into a stat
 8. `dist\sitemap.xml` will be generated automatically from the pages found in `contents\`.
 
 ## Available Syntax
-1. General in-line syntax: `**bold**`, `//italic//`, `__underline__`, `--strikethrough--`, `{{monospaced}}`, `^^Superscript ^^`, `,,Subscript,,`.
+1. General in-line syntax: `**bold**`, `//italic//`, `__underline__`, `--strikethrough--`, `{{monospaced}}`, `^^superscript ^^`, `,,subscript,,`.
 2. HTML syntax: `[[div]]`, `[[/div]]`, `[[span]]`. Currently both only accepts `class=""` parameter.
 3. Headings from + to ++++
 4. Tables, using `|| ||` for table data and and `||~ ||` for Table Heading.
