@@ -1,5 +1,5 @@
 # CAPA Engine
-This is a proof-of-concept of converting Wikidot source files (.txt) into a static web pages. Repository named after my http://capa.wikidot.com since it is used as base.
+CAPA Engine is a proof-of-concept engine that generates static web pages from Wikidot backup source files (.txt). Repository is named after my http://capa.wikidot.com since it is used as base.
 
 ## Requirements
 * [Node.js](https://nodejs.org/) 18 or newer
@@ -12,10 +12,10 @@ This is a proof-of-concept of converting Wikidot source files (.txt) into a stat
 
 ## Workflow
 1. All pages must be sourced from `contents\` folder.
-2. Source file name structure is unchanged from Wikidot backups:
- * `_index.txt` = homepage
- * `category__index.txt` = category index
+2. Source file name structure is unchanged from Wikidot backups with a couple of exceptions:
  * `category_page-name.txt` = individual page
+ * `_index.txt` = homepage
+ * `category__index.txt` = category landing page (optional)
 3. If there's a `_template`, e.g. `category__template` (note the double underscore), then pages of that category will be wrapped in the `_template` first. The template is optional.
 4. All source will be wrapped by `_layout.html` inside `contents\` folder. Thus the flow is:
  * `category_page-name.txt` wrapped by `category__template` (if present), and finally wrapped by `_layout.html`.
@@ -58,4 +58,4 @@ The workflow uses 3 active javascript files + 1 pending deletion:
 
 ## Additional Files
 1. Bootstrap is provided by `assets\css\bootstrap.min.css`, and `assets\scripts\bootstrap.bundle.min.js`. Both are loaded by `contents\_layout.html`.
-2. Font Awesome s provided by `assets\css\fontawesome-all.min.css`, and 4 font files under `assets\fonts\fa-....woff2`. The CSS is loaded by `contents\_layout.html`.
+2. Font Awesome is provided by `assets\css\fontawesome-all.min.css`, and 4 font files under `assets\fonts\fa-....woff2`. The CSS is loaded by `contents\_layout.html`.
