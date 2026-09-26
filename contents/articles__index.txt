@@ -1,0 +1,34 @@
+@title: CAPA Articles
+@author: Perseonn Balthasaar
+@updated: 2026-09-26
+
+[[include component:splash
+|splash-class=article-splash-alternate full-height
+|text-title=Articles
+|text-sub-title=Game reviews and opinion!
+|text-extra-class=hidden
+]]
+
+[[div_ class="row p-4 m-0"]]
+
+[[module listpages
+tags="-wip"
+category="article"
+parent="home:article"
+order="created_at desc"
+perPage="40"
+separate="no"
+wrapper="no"
+]]
+[[include component:list-page-item
+|container-class=col-xs-12 col-sm-6 col-md-4
+|image=http://capa.wdfiles.com/local--files/%%fullname%%/%%name%%.avif
+|image-class=neutral
+|ratio=16x9
+|link=%%fullname%%
+|title=%%title%%
+|sub-title=by %%created_by%%
+]]
+[[/module]]
+
+[[/div]][!-- -------- Close List Page Row -------- --]

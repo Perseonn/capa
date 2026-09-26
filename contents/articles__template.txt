@@ -1,0 +1,27 @@
+[[div class="row m-0 p-0"]]
+[[div class="col-md-2 hidden-xs hidden-sm guide table-of-contents p-0"]]
+
+[[/div]]
+
+[[div class="col-md-10 col-md-offset-2 col-xs-12 main main-container p-0"]]
+
+[[include component:splash
+|splash-class=full-height
+|splash-style=background-image:url('http://capa.wdfiles.com/local--files/%%fullname%%/%%name%%.avif');
+|text-title=%%title%%
+|text-sub-title=Written by %%created_by_linked%%
+|text-extra=Published on %%created_at%%
+|text-extra-icon=fa fa-clock
+]]
+
+[[div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl"]]
+[[toc]]
+[[/div]]
+
+[[div class="container drop-caps p-4 %%name%%"]]
+%%content%%
+[[/div]]
+
+[[/div]]
+
+[[/div]]

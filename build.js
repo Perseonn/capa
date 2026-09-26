@@ -1,16 +1,20 @@
 import fs from "fs";
 import path from "path";
+import { fileURLToPath } from "url";
 
-import { parseWikidot, escapeHtml } from "./parser-wikidot.js";
+
+import { parseWikidot, escapeHtml } from "./assets/scripts/parser-wikidot.js";
 import {
     renderArticlePage,
     renderListingPage,
     renderHomePage
-} from "./template.js";
+} from "./assets/scripts/template.js";
 
-const CONTENT_DIR = "./content";
+const CONTENT_DIR = "./contents";
 const DIST_DIR = "./dist";
 const SITE_URL = "https://capa.asoh.xyz";
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 
 /*
@@ -21,22 +25,39 @@ const SITE_URL = "https://capa.asoh.xyz";
 
 function discoverPages() {
     const files = fs.readdirSync(CONTENT_DIR)
-        .filter(file => file.endsWith(".txt"));
+        .filter(file =>
+            file.endsWith(".txt") &&
+            !file.endsWith("__template.txt")
+        );
 
     return files.map(file => {
         const sourceName = path.basename(file, ".txt");
 
-        const match = sourceName.match(/^(guide|article)_(.+)$/);
+        let type;
+        let slug;
 
-        if (!match) {
-            throw new Error(
-                `Invalid content filename: ${file}\n` +
-                `Expected guide_<slug>.txt or article_<slug>.txt`
-            );
+        if (sourceName === "_index") {
+            type = "";
+            slug = "";
+        } else {
+            const indexMatch = sourceName.match(/^(.+)__index$/);
+
+            if (indexMatch) {
+                type = indexMatch[1];
+                slug = "";
+            } else {
+                const pageMatch = sourceName.match(/^(.+)_(.+)$/);
+
+                if (!pageMatch) {
+                    throw new Error(
+                        `Invalid content filename: ${file}`
+                    );
+                }
+
+                type = pageMatch[1];
+                slug = pageMatch[2];
+            }
         }
-
-        const type = match[1];
-        const slug = match[2];
 
         const sourcePath = path.join(
             CONTENT_DIR,
@@ -64,6 +85,7 @@ function discoverPages() {
         };
     });
 }
+
 
 /*
  * ============================================================
@@ -218,7 +240,7 @@ function createMetaDescription(source) {
 }
 
 function getSplashImage(page) {
-    return `/asset/${page.type}/${page.slug}/${page.slug}.avif`;
+    return `/assets/${page.type}/${page.slug}/${page.slug}.avif`;
 }
 
 function getSocialImage(page) {
@@ -236,109 +258,63 @@ function validateMetadata(metadata, sourcePath) {
 }
 
 /*
- * ============================================================
- * Page Generator Helper
- * ============================================================
- */
+ * ============================================================
+ * Apply _template
+ * ============================================================
+ */
+function applyPageTemplate(page, metadata, content, toc) {
+    if (!page.type) {
+        return content;
+    }
 
-
-function writePage(outputPath, html) {
-    fs.mkdirSync(path.dirname(outputPath), {
-        recursive: true
-    });
-
-    fs.writeFileSync(outputPath, html);
-}
-
-/*
- * ============================================================
- * Build Listing Pages
- * ============================================================
- */
-
-
-function buildListingPages(pages) {
-    const guides = pages
-        .filter(page => page.type === "guide")
-        .sort((a, b) =>
-            a.metadata.title.localeCompare(
-                b.metadata.title
-            )
-        );
-
-    const articles = pages
-        .filter(page => page.type === "article")
-        .sort((a, b) =>
-            b.metadata.updated.localeCompare(
-                a.metadata.updated
-            )
-        );
-
-    const guideHtml = createHtml(
-        "Guides",
-        renderListingPage({
-            title: "Guides",
-            subtitle: "Game walkthroughs, cheat codes, or both!",
-            pages: guides
-        })
+    const templatePath = path.join(
+        CONTENT_DIR,
+        `${page.type}__template.txt`
     );
 
-    writePage(
-        path.join(DIST_DIR, "guide", "index.html"),
-        guideHtml
+    if (!fs.existsSync(templatePath)) {
+        return content;
+    }
+
+    let template = fs.readFileSync(
+        templatePath,
+        "utf8"
     );
 
-    const articleHtml = createHtml(
-        "Articles",
-        renderListingPage({
-            title: "Articles",
-            subtitle: "Game reviews and opinion!",
-            pages: articles
-        })
+    /*
+     * Keep %%content%% as a marker.
+     * The actual page HTML is inserted after the
+     * template itself has been parsed.
+     */
+    template = template
+    .replaceAll("%%title%%", metadata.title ?? "")
+    .replaceAll("%%name%%", page.slug ?? "")
+    .replaceAll("%%category%%", page.type ?? "")
+    .replaceAll(
+        "%%fullname%%",
+        page.type
+            ? `${page.type}:${page.slug}`
+            : page.slug
+    )
+    .replaceAll(
+        "%%created_by_linked%%",
+        metadata.author ?? ""
+    )
+    .replaceAll(
+        "%%created_at%%",
+        metadata.updated ?? ""
     );
 
-    writePage(
-        path.join(DIST_DIR, "article", "index.html"),
-        articleHtml
-    );
-}
-
-/*
- * ============================================================
- * Build Home Page
- * ============================================================
- */
-
-function buildHomePage(pages) {
-    const guides = pages
-        .filter(page => page.type === "guide")
-        .sort((a, b) =>
-            b.metadata.updated.localeCompare(
-                a.metadata.updated
-            )
-        )
-        .slice(0, 4);
-
-    const articles = pages
-        .filter(page => page.type === "article")
-        .sort((a, b) =>
-            b.metadata.updated.localeCompare(
-                a.metadata.updated
-            )
-        )
-        .slice(0, 4);
-
-    const html = createHtml(
-        "CAPA",
-        renderHomePage({
-            guides,
-            articles
-        })
+    const { html } = parseWikidot(
+        template,
+        page.sourceName,
+        [],
+        toc
     );
 
-    writePage(
-        path.join(DIST_DIR, "index.html"),
-        html
+    return html.replaceAll(
+        "%%content%%",
+        content
     );
 }
 
@@ -349,25 +325,12 @@ function buildHomePage(pages) {
  */
 
 function buildSitemap(pages) {
-    const urls = [
-        {
-            url: `${SITE_URL}/`,
-            updated: null
-        },
-        {
-            url: `${SITE_URL}/guide/`,
-            updated: null
-        },
-        {
-            url: `${SITE_URL}/article/`,
-            updated: null
-        },
-        ...pages.map(page => ({
-            url: `${SITE_URL}/${page.type}/${page.slug}/`,
-            updated: page.metadata.updated
-        }))
-    ];
-
+    const urls = pages.map(page => ({
+        url: page.type
+            ? `${SITE_URL}/${page.type}/${page.slug}/`
+            : `${SITE_URL}/`,
+        updated: page.metadata?.updated ?? null
+    }));
 
     const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -398,31 +361,29 @@ ${urls.map(item => `    <url>
  * ============================================================
  */
 
-function createHtml(title, body, socialImage = "", description = "") {
-    return `<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>${escapeHtml(title)}</title>
-
-    <meta property="og:type" content="website">
-    <meta property="og:image" content="${socialImage}">
-    <meta property="og:title" content="${escapeHtml(title)}">
-    <meta property="og:description" content="${escapeHtml(description)}...">
-
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="${socialImage}">
-    <meta name="twitter:title" content="${escapeHtml(title)}">
-    <meta name="twitter:description" content="${escapeHtml(description)}...">
-    
-    
-</head>
-<body>
-    ${body}
-</body>
-</html>`;
+function applyTemplate(template, values) {
+    return template
+        .replaceAll("{{TITLE}}", escapeHtml(values.title ?? ""))
+        .replaceAll("{{SOCIAL_IMAGE}}", values.socialImage ?? "")
+        .replaceAll("{{DESCRIPTION}}", escapeHtml(values.description ?? ""))
+        .replaceAll("{{NAV}}", values.NAV ?? "")
+        .replaceAll("{{BODY}}", values.body ?? "");
 }
 
+const layoutPath = path.join(__dirname, "contents", "_layout.html");
+const layoutTemplate = fs.readFileSync(layoutPath, "utf8");
+const navPath = path.join(__dirname,"contents","_nav.html");
+const navTemplate = fs.readFileSync(navPath,"utf8");
+
+function createHtml(title, body, socialImage = "", description = "") {
+    return applyTemplate(layoutTemplate, {
+        TITLE: title,
+        SOCIAL_IMAGE: socialImage,
+        DESCRIPTION: description,
+        NAV: navTemplate,
+        BODY: body
+    });
+}
 
 /*
  * ============================================================
@@ -446,16 +407,16 @@ function build() {
         const socialImage = getSocialImage(page);
         const description = createMetaDescription(content);
 
+        const pageContent = applyPageTemplate(
+            page,
+            metadata,
+            body,
+            toc
+        );
+
         const html = createHtml(
             metadata.title,
-            renderArticlePage({
-                title: metadata.title,
-                author: metadata.author,
-                updated: metadata.updated,
-                splashImage,
-                content: body,
-                toc
-            }),
+            pageContent,
             socialImage,
             description
         );
@@ -463,12 +424,11 @@ function build() {
         const outputDir = path.join(DIST_DIR, page.type, page.slug);
         fs.mkdirSync(outputDir, { recursive: true });
         const outputPath = path.join(outputDir, "index.html");
+        
         fs.writeFileSync(outputPath, html);
         console.log(`Built: ${page.sourcePath} → ${outputPath}`);
     }
 
-    buildListingPages(pages);
-    buildHomePage(pages);
     buildSitemap(pages);
     
 }

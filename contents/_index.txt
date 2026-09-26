@@ -1,0 +1,103 @@
+@title: Welcome to CAPA!
+@author: Perseonn Balthasaar
+@updated: 2026-09-26
+
+[[include component:splash
+|splash-class=main-splash full-height
+|text-title-class=capa-title
+|text-title=CAPA
+|text-sub-title=A Website Dedicated to Guides and Codes for Games that We Love!
+|text-extra-class=hidden
+]]
+
+[[div_ class="splash-container guide-splash gradient-line line-bottom-4"]]
+[[div_ class="title-container p-4"]]
+[[div class="page-extra stroke"]]
+[[/div]]
+[[div_ class="page-sub-title strong stroke"]]
+Game walkthroughs, cheat codes, or both!
+[[/div]]
+[[div_ class="page-title strong stroke"]]
+Guides
+[[/div]]
+
+[[div_ class="row mb-4"]][!-- -------- Row Start -------- --]
+
+[[include component:list-page-item
+|container-class=col-xs-12 col-md-6
+|image=http://capa.wdfiles.com/local--files/img:css/splash-guide.avif
+|image-class=neutral
+|ratio=1x1
+|link=home:guide
+|title=Go to Guides
+|sub-title=@@@@
+]]
+
+[[module listpages
+tags="-wip"
+category="game guide"
+order="created_at desc"
+limit="4"
+separate="no"
+wrapper="no"
+]]
+[[include component:list-page-item
+|container-class=col-xs-6 col-md-3
+|image=http://capa.wdfiles.com/local--files/%%fullname%%/%%name%%.avif
+|image-class=contain
+|ratio=1x1
+|link=%%fullname%%
+|title=%%title%%
+|sub-title=Published on %%created_at%%
+]]
+[[/module]]
+
+[[/div]][!-- -------- Row Ends -------- --]
+
+[[/div]]
+[[/div]][!-- -------- Close Custom Splash -------- --]
+
+[[div_ class="splash-container article-splash gradient-line line-bottom-4"]]
+[[div_ class="title-container p-4"]]
+[[div class="page-extra stroke"]]
+[[/div]]
+[[div_ class="page-sub-title strong stroke"]]
+Game reviews and opinion!
+[[/div]]
+[[div_ class="page-title strong stroke"]]
+Articles
+[[/div]]
+
+[[div_ class="row mb-4"]][!-- -------- Row Start -------- --]
+[[include component:list-page-item
+|container-class=col-xs-12 col-md-6
+|image=http://capa.wdfiles.com/local--files/img:css/splash-article.avif
+|image-class=neutral
+|ratio=1x1
+|link=home:article
+|title=Go to Articles
+|sub-title=@@@@
+]]
+
+[[module listpages
+tags="-wip"
+category="article"
+order="created_at desc"
+limit="4"
+separate="no"
+wrapper="no"
+]]
+[[include component:list-page-item
+|container-class=col-xs-6 col-md-3
+|image=http://capa.wdfiles.com/local--files/%%fullname%%/%%name%%.avif
+|image-class=neutral
+|ratio=1x1
+|link=%%fullname%%
+|title=%%title%%
+|sub-title=Published on %%created_at%%
+]]
+[[/module]]
+[[/div]][!-- -------- Row Ends -------- --]
+
+[[/div]]
+[[/div]][!-- -------- Close Custom Splash -------- --]
