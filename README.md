@@ -1,6 +1,10 @@
 # Corrective and Preventive Action / CAPA
 This is a proof-of-concept of converting Wikidot source files (.txt) into a static web pages. Repository is called CAPA because it uses my http://capa.wikidot.com as base.
 
+## Requirements
+* [Node.js](https://nodejs.org/) 18 or newer
+* npm (included with Node.js)
+
 ## Workflow
 1. All pages must be sourced from `contents\` folder.
 2. Source file name structure is unchanged from Wikidot backups:
