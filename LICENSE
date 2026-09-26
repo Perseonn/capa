@@ -1,34 +1,51 @@
-# License
-This repository contains both software and source content. They are licensed separately.
+This repository contains both software and source content.
+They are licensed separately.
 
-## Parser, Code, and Site Framework
-The parser, scripts, templates, stylesheets, configuration, and other software or framework components in this repository are provided for free use.
+PARSER, CODE, AND SITE FRAMEWORK
+--------------------------------
+The parser, scripts, templates, stylesheets, configuration, and other
+software or framework components in this repository may be copied,
+modified, forked, redistributed, and used for personal, educational,
+or commercial purposes, unless otherwise stated in an individual file.
 
-You may copy, modify, fork, redistribute, and use these components for personal, educational, or commercial purposes.
 
-You may also create and publish derivative works based on these components.
+SOURCE TEXT FILES
+-----------------
+The original source text files (*.txt) in this repository are licensed
+under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+International License (CC BY-NC-ND 4.0).
 
-Unless otherwise stated in an individual file, these components are not subject to the Creative Commons license described below.
+Full license:
+https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-## Source Text Files
+The source text files are included in this repository so that the
+software can be tested, evaluated, developed, and modified.
 
-The original source text files (`.txt`) in this repository are licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
+You may download and retain copies of the source text files for these
+purposes. You may use them locally to test the parser, generator,
+templates, or other software contained in this repository.
 
-However, within this repository, permission to obtain and retain these source text files is intended specifically to allow users to **test, evaluate, develop, and modify the software contained in this repository**.
+You may NOT:
+- publish or redistribute the source text files;
+- publish or redistribute modified versions of the source text files;
+- use the source text files as the content of another publicly
+  accessible website, repository, archive, or similar service;
+- distribute the source text files separately as a content collection.
 
-You may therefore:
+The purpose of including the source text files in this repository is to
+make the migration software testable and reproducible. They are not
+provided as a public redistribution of the underlying content.
 
-* download and retain the `.txt` files for testing or development;
-* use them locally to test the parser, generator, templates, or other software;
-* modify your local copies as necessary for testing or development.
+GENERATED FILES
+---------------
+Generated files may contain content derived from the source text.
+Permission to use the parser, code, templates, or other software does
+not by itself grant permission to redistribute copyrighted source
+content contained in generated output.
 
-You may not:
+Third-party materials remain subject to their respective licenses.
 
-* publish or redistribute the original `.txt` files;
-* publish or redistribute modified versions of the `.txt` files;
-* use the `.txt` files as the content of another publicly accessible website, repository, archive, or similar service;
-* distribute the `.txt` files separately from software or development work for which they are being used for testing.
-
-The purpose of including the source text in this repository is to make the migration software **testable and reproducible**, not to provide a public redistribution of the underlying content.
-
-The parser, code, templates, stylesheets, configuration, and other software or framework components in this repository are **not subject to these restrictions** and may be copied, modified, forked, and redistributed in accordance with their respective license terms.
+INDIVIDUAL FILES
+----------------
+If an individual file or directory contains a separate license or usage
+notice, that notice applies to that material.
