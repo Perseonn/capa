@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="icon" type="image/png" href="assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -12,26 +12,30 @@
     <!-- Google Font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
 
-    <title></title>
-    <meta name="description" content="...">
+    <title>Destiny of an Emperor</title>
+    <meta name="description" content="Destiny of an Emperor is an RPG loosely based off of the Romance of the Three Kingdoms novel, hearin...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
-    <meta property="og:image" content="">
-    <meta property="og:title" content="">
-    <meta property="og:description" content="...">
+    <meta property="og:image" content="https://capa.asoh.xyz/assets/guides/destiny-of-an-emperor/destiny-of-an-emperor-splash.jpg">
+    <meta property="og:title" content="Destiny of an Emperor">
+    <meta property="og:description" content="Destiny of an Emperor is an RPG loosely based off of the Romance of the Three Kingdoms novel, hearin...">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="">
-    <meta name="twitter:title" content="">
-    <meta name="twitter:description" content="...">
+    <meta name="twitter:image" content="https://capa.asoh.xyz/assets/guides/destiny-of-an-emperor/destiny-of-an-emperor-splash.jpg">
+    <meta name="twitter:title" content="Destiny of an Emperor">
+    <meta name="twitter:description" content="Destiny of an Emperor is an RPG loosely based off of the Romance of the Three Kingdoms novel, hearin...">
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
-    <link href="./assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="./assets/css/capa.css" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
+    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
+    <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
+    <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
     <header>
@@ -42,7 +46,1476 @@
 </nav>
     </header>
     <main>
-        
+        <div class="row m-0 p-0">
+<p>[[div class=&quot;col-md-2 hidden-xs hidden-sm guide table-of-contents p-0&quot; role=&quot;navigation&quot;]]</p>
+<p>[[include nav:main]]</p>
+<p>[[/div]][!<del> Close the role=navigation </del>]</p>
+<p>[!<del> </del><del></del><del> </del><del></del><del> Border between Nav and Main Content </del><del></del><del> </del><del></del><del> </del>]</p>
+<p>[[div_ class=&quot;col-md-10 col-md-offset-2 col-xs-12 main main-container p-0&quot;]]</p>
+<p>[[include component:splash |splash-class=full-height |splash-style=background-image:url(&#39;http://capa.wdfiles.com/local--files/guides%3Adestiny-of-an-emperor/destiny-of-an-emperor-splash.avif&#39;); |text-title=Destiny of an Emperor |text-sub-title=Written by Buster Wolf |text-extra=Updated on %%updated_at%% |text-extra-icon=fa fa-clock ]]</p>
+<div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl">
+<p>[[collapsible show=&quot;Table of Contents&quot; hide=&quot;Collapse Table of Contents&quot;]]</p>
+<div class="table-of-contents">
+<a href="#heading-1">Party</a>
+<a href="#heading-2">Generals of Interest</a>
+<a href="#heading-3">Stats</a>
+<a href="#heading-4">Battle Mechanics</a>
+<a href="#heading-5">Tactics</a>
+<a href="#heading-6">Retreat Chance</a>
+<a href="#heading-7">Tiger Generals</a>
+<a href="#heading-8">Tactics List</a>
+<a href="#heading-9">Fire Tactics</a>
+<a href="#heading-10">Water Tactics</a>
+<a href="#heading-11">Healing Tactics</a>
+<a href="#heading-12">Special 1 Tactics</a>
+<a href="#heading-13">Special 2 Tactics</a>
+<a href="#heading-14">Special 3 Tactics</a>
+<a href="#heading-15">Ch. 1 The Yellow Scarves Rebellion (Yellow Turbans)</a>
+<a href="#heading-16">Luo Song Village</a>
+<a href="#heading-17">Xu Zhou Castle</a>
+<a href="#heading-18">Qing Zhou Castle</a>
+<a href="#heading-19">Mt. Da Xing</a>
+<a href="#heading-20">Tia Man Xia</a>
+<a href="#heading-21">Qing Zhou Cave</a>
+<a href="#heading-22">Xu Zhou Castle (revisit)</a>
+<a href="#heading-23">Ch. 2 The Tyrant Dong Zhuo</a>
+<a href="#heading-24">Fan Shui Guan</a>
+<a href="#heading-25">Hu Lao Guan</a>
+<a href="#heading-26">Northern Cave</a>
+<a href="#heading-27">Luo Yang</a>
+<a href="#heading-28">Yang Zhou</a>
+<a href="#heading-29">Tunnel</a>
+<a href="#heading-30">Chang An</a>
+<a href="#heading-31">Ch. 3 The False Emperor Yuan Shu</a>
+<a href="#heading-32">Yuan Castle</a>
+<a href="#heading-33">Huai Nan Castle</a>
+<a href="#heading-34">Chen Cang Fortress</a>
+<a href="#heading-35">Nan Yang Cave</a>
+<a href="#heading-36">Nan Yang Castle</a>
+<a href="#heading-37">Ch. 4 + 5 The Prestigious Yuan Shao &amp; Pacification of Jing Zhou (Jing Province)</a>
+<a href="#heading-38">Path A Yuan Shao</a>
+<a href="#heading-39">Hermit Cave</a>
+<a href="#heading-40">Bo Hai Castle</a>
+<a href="#heading-41">Xu Shou&#39;s Fortress</a>
+<a href="#heading-42">Quang Zong Castle</a>
+<a href="#heading-43">Ji Zhou Castle</a>
+<a href="#heading-44">Path B Jing Zhou </a>
+<a href="#heading-45">Wu Ling Castle</a>
+<a href="#heading-46">Chang Sha Castle</a>
+<a href="#heading-47">Gui Yang Castle</a>
+<a href="#heading-48">Ling Ling Castle</a>
+<a href="#heading-49">Ch. 6 Claiming the lands of Shu</a>
+<a href="#heading-50">Liu Kui&#39;s Fortress</a>
+<a href="#heading-51">Fu Shui Castle</a>
+<a href="#heading-52">Luo Castle</a>
+<a href="#heading-53">Mt. Gang Tai</a>
+<a href="#heading-54">Mian Zhu Guan</a>
+<a href="#heading-55">Cheng Du Castle</a>
+<a href="#heading-56">Ch. 7 Wu&#39;s Treachery</a>
+<a href="#heading-57">Jian An Castle</a>
+<a href="#heading-58">Mt. Po Yong</a>
+<a href="#heading-59">Hui Ji Fortress</a>
+<a href="#heading-60">Wu Castle</a>
+<a href="#heading-61">Wu Cave</a>
+<a href="#heading-62">Po Yang Fortress</a>
+<a href="#heading-63">Jin Du Castle</a>
+<a href="#heading-64">Jian Ye Castle</a>
+<a href="#heading-65">Ch. 8 Assault on Wei</a>
+<a href="#heading-66">Guang Ling</a>
+<a href="#heading-67">He Fei Fortress</a>
+<a href="#heading-68">Ru Nan</a>
+<a href="#heading-69">Ch. 9 Unification</a>
+<a href="#heading-70">Ru Nan Underground</a>
+<a href="#heading-71">Ru Nan West Cave</a>
+<a href="#heading-72">Chen Liu Fortress</a>
+<a href="#heading-73">Chin Castle</a>
+<a href="#heading-74">Rebuilt Luo Yang</a>
+</div>
+<p>[[/collapsible]]</p>
+</div>
+<div class="container drop-caps p-4 destiny-of-an-emperor">
+<p><p>Destiny of an Emperor is an RPG loosely based off of the Romance of the Three Kingdoms novel, hearing that you probably though KOEI made this, but no this was in fact made by Capcom in 1989. As a Dynasty Warriors fan I will try to point out any naming mistakes on Capcom&#39;s side that I know (there are quite a lot) and who certain generals are meant to be, I won&#39;t name every single one mainly those you fight throughout the story and those as recommendations for your party. It should be noted that chapters are not announced in-game, but I will tell you when you hit chapter endpoints.</p>
+<h1 id="heading-1">Party</h1>
+<p>A thing to note about the party size is that the max you can have with you is 7 characters, if you have 5 or lower while having a tactician set it will place them at the lowest possible slot, with 6 or 7 they will not be in the battle. Due to a chest bug you should never place a tactician or any high INT generals in 7th with only 2 certain situations allowing you to do so with safety due to how tactic learning is programmed.</p>
+<h1 id="heading-2">Generals of Interest</h1>
+<p>After clearing a story line battle certain generals will be recruitable to join your ranks, any particular one I feel are worthwhile will have their in-game name in <strong>bold</strong> to let you know to try and get them after you clear the castle/fortress they are guarding. Generals you can recruit will always be captured after a random battle once their station has been taken resulting in 4 outcomes when you try to convert them.</p>
+<ul>
+    <li>Outright refusal</li>
+    <li>Will join for a magnificent horse (Steed)</li>
+    <li>Will join for Gold</li>
+    <li>Will join for free</li>
+</ul>
+
+<h1 id="heading-3">Stats</h1>
+<table>
+    <tr>
+        <th>Stat</th>
+        <th>Effect</th>
+    </tr>
+    <tr>
+        <td>STR</td>
+        <td>The higher the value the higher damage that can be done with physical attacks.</td>
+    </tr>
+    <tr>
+        <td>INT</td>
+        <td>The higher the value the higher damage can be done with tactics, also influences likeliness that certain tactics will land against lower INT targets.</td>
+    </tr>
+    <tr>
+        <td>A.P</td>
+        <td>The attack power of the generals weapon for physical attacks.</td>
+    </tr>
+    <tr>
+        <td>A.C</td>
+        <td>The defense the general has against physical attacks based on their equipped armor, the value for how much damage is reduced is this number divided by 256.</td>
+    </tr>
+    <tr>
+        <td>Soldier</td>
+        <td>This is effectively the generals HP that other RPG&#39;s would denote, when this reaches 0 that general can no longer be used in battle until revived with a Resurrect.</td>
+    </tr>
+</table>
+<h1 id="heading-4">Battle Mechanics</h1>
+<p>For physical attacks the amount of digits you have for your soldier count determines what the damage multiplier is with your general weapons A.P and their STR stat.</p>
+<table>
+    <tr>
+        <th>Soldier count</th>
+        <th>Damage modifier</th>
+    </tr>
+    <tr>
+        <td>1-9</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>10-99</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>100-999</td>
+        <td>9</td>
+    </tr>
+    <tr>
+        <td>1,000-9,999</td>
+        <td>16</td>
+    </tr>
+    <tr>
+        <td>10,000+</td>
+        <td>25</td>
+    </tr>
+</table>
+<h2 id="heading-5">Tactics</h2>
+<p>Tactic damage is based on whatever is higher between the generals STR or INT divided by 256, accuracy however is based on the difference between the INT of the user and the target.</p>
+<table>
+    <tr>
+        <th>INT difference</th>
+        <th>Accuracy</th>
+    </tr>
+    <tr>
+        <td>100+</td>
+        <td>15/16 (93%)</td>
+    </tr>
+    <tr>
+        <td>50-99</td>
+        <td>12/16 (75%)</td>
+    </tr>
+    <tr>
+        <td>10-49</td>
+        <td>8/16 (50%)</td>
+    </tr>
+</table>
+<p>The lower the difference including negatives the worse your chances are so don&#39;t bother if the difference is worse than above.</p>
+<h2 id="heading-6">Retreat Chance</h2>
+<p>Your chance to retreat from battle depends on the enemy you are facing which goes as follows as your failure chance</p>
+<table>
+    <tr>
+        <th>Enemy</th>
+        <th>Failure chance</th>
+    </tr>
+    <tr>
+        <td>Pirate Force</td>
+        <td>1/16 (6%)</td>
+    </tr>
+    <tr>
+        <td>Bandit/Brigand Force</td>
+        <td>5/32 (15%)</td>
+    </tr>
+    <tr>
+        <td>Rebel Force</td>
+        <td>1/4 (25%)</td>
+    </tr>
+    <tr>
+        <td>Generals</td>
+        <td>3/8 (37.5%)</td>
+    </tr>
+    <tr>
+        <td>Boss battles</td>
+        <td>7/8 (87.5%)</td>
+    </tr>
+</table>
+<h2 id="heading-7">Tiger Generals</h2>
+<p>Most generals are unfortunate in having a static soldier count, generals that are counted as Tigers however will gain soldiers as your level goes up. They don&#39;t have to be in the party, also while not listed Tiger generals get a boost to their agility maxing out at double by Chapter 6.</p>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>STR/INT</th>
+    </tr>
+    <tr>
+        <td>!Guan Yu</td>
+        <td>245/180</td>
+    </tr>
+    <tr>
+        <td>!Zhang Fei</td>
+        <td>250/75</td>
+    </tr>
+    <tr>
+        <td>Zhao Yun</td>
+        <td>245/216</td>
+    </tr>
+    <tr>
+        <td>Huang Zhong</td>
+        <td>235/147</td>
+    </tr>
+    <tr>
+        <td>Zhu Ge Liang</td>
+        <td>122/255</td>
+    </tr>
+    <tr>
+        <td>Ma Chao</td>
+        <td>245/162</td>
+    </tr>
+    <tr>
+        <td>!Guan Xing</td>
+        <td>237/175</td>
+    </tr>
+    <tr>
+        <td>!Zhang Bao</td>
+        <td>240/150</td>
+    </tr>
+    <tr>
+        <td>Jiang Wei</td>
+        <td>204/225</td>
+    </tr>
+</table>
+<p>! Once put in your party they can never be put in the billet.</p>
+<h1 id="heading-8">Tactics List</h1>
+<p>Every level you gain that gives a learnable tactic will award with 3-5 MTP if you meet the requirement with one of your members. Placing a high INT general as your tactician will give the entire party access to every tactic they have available for use, higher level tactics will often replace lower ones once they are learned/are usable so you may want to use a weaker tactician for specific tactics after level 31 where you learn the last one. Incase of a tactic you don&#39;t learn (Fu Bing for example) with your current tactician, but later switch to one with more INT that would be able to will update the list as if they were around to learn it, you won&#39;t get the MTP if it was missed.</p>
+<h2 id="heading-9">Fire Tactics</h2>
+<p>These take up the first slot on the tactic list, these deal fire damage to either one or all opposing targets.</p>
+<table>
+    <tr>
+        <th>Tactic</th>
+        <th>Level Learned</th>
+        <th>Effect</th>
+        <th>TP Cost</th>
+        <th>INT Requirement</th>
+    </tr>
+    <tr>
+        <td>Lian Huo</td>
+        <td>2</td>
+        <td>Deal 30-70 fire damage to one general.</td>
+        <td>2</td>
+        <td>60</td>
+    </tr>
+    <tr>
+        <td>Ye Huo</td>
+        <td>8</td>
+        <td>Deal 90-150 fire damage to one general, replaces Lian Huo.</td>
+        <td>4</td>
+        <td>90</td>
+    </tr>
+    <tr>
+        <td>Yan Re</td>
+        <td>14</td>
+        <td>Deal 140-250 fire damage to all generals, replaces Ye Huo.</td>
+        <td>6</td>
+        <td>120</td>
+    </tr>
+    <tr>
+        <td>Da Re</td>
+        <td>22</td>
+        <td>Deal 1,000-2,500 fire damage to one general, replaces Yan Re.</td>
+        <td>8</td>
+        <td>180</td>
+    </tr>
+    <tr>
+        <td>Huo Shen</td>
+        <td>30</td>
+        <td>Deal 1,500-4,500 fire damage to all generals, replaces Da Re.</td>
+        <td>12</td>
+        <td>220</td>
+    </tr>
+</table>
+<h2 id="heading-10">Water Tactics</h2>
+<p>These take up the second slot on the tactic list, these deal water damage to either one or all opposing targets. They are generally stronger than the fire tactics, but you need to be 4 spaces from a water source to use.</p>
+<table>
+    <tr>
+        <th>Tactic</th>
+        <th>Level Learned</th>
+        <th>Effect</th>
+        <th>TP Cost</th>
+        <th>INT Requirement</th>
+    </tr>
+    <tr>
+        <td>Shui Tu</td>
+        <td>4</td>
+        <td>Deal 50-80 water damage to one general.</td>
+        <td>3</td>
+        <td>70</td>
+    </tr>
+    <tr>
+        <td>Shui Xing</td>
+        <td>10</td>
+        <td>Deal 120-180 water damage to one general, replaces Shui Tu.</td>
+        <td>6</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Shui Lei</td>
+        <td>15</td>
+        <td>Deal 160-280 water damage to all generals, replaces Shui Xing.</td>
+        <td>8</td>
+        <td>130</td>
+    </tr>
+    <tr>
+        <td>Hong Shui</td>
+        <td>21</td>
+        <td>Deal 1,000-2,800 water damage to all generals, replaces Shui Lei.</td>
+        <td>11</td>
+        <td>157-211</td>
+    </tr>
+    <tr>
+        <td>Shui Long</td>
+        <td>29</td>
+        <td>Deal 2,000-5,500 water damage to all generals, replaces Hong Shui.</td>
+        <td>15</td>
+        <td>220</td>
+    </tr>
+</table>
+<h2 id="heading-11">Healing Tactics</h2>
+<p>These take up the third slot on the tactic list, these restore soldiers of the ally they are used on or the entire party.</p>
+<table>
+    <tr>
+        <th>Tactic</th>
+        <th>Level Learned</th>
+        <th>Effect</th>
+        <th>TP Cost</th>
+        <th>INT Requirement</th>
+    </tr>
+    <tr>
+        <td>Chi Xin</td>
+        <td>5</td>
+        <td>Heal 40-90 soldiers to one general.</td>
+        <td>3</td>
+        <td>70</td>
+    </tr>
+    <tr>
+        <td>Tong Xian</td>
+        <td>13</td>
+        <td>Heal 260-450 soldiers to one general, replaces Chi Xin.</td>
+        <td>5</td>
+        <td>160</td>
+    </tr>
+    <tr>
+        <td>Yin Xian</td>
+        <td>16</td>
+        <td>Heal 750-1,200 soldiers to all allies, replaces Tong Xin.</td>
+        <td>10</td>
+        <td>200</td>
+    </tr>
+    <tr>
+        <td>Wan Fu</td>
+        <td>23</td>
+        <td>Heal one ally general to full, replaces Yin Xian.</td>
+        <td>10</td>
+        <td>220</td>
+    </tr>
+    <tr>
+        <td>Jin Xian</td>
+        <td>28</td>
+        <td>Heal 4,000-7,500 soldiers to all allies, replaces Wan Fu.</td>
+        <td>4</td>
+        <td>252</td>
+    </tr>
+</table>
+<h2 id="heading-12">Special 1 Tactics</h2>
+<p>These take up the fourth slot on the tactic list, mainly dealing with damage mitigation or nullification in case of the last two which can be changed based on your tactician&#39;s INT.</p>
+<table>
+    <tr>
+        <td>Wuo Jian</td>
+        <td>3</td>
+        <td>Take half damage from fire based tactics.</td>
+        <td>4</td>
+        <td>80</td>
+    </tr>
+    <tr>
+        <td>Shui Jian</td>
+        <td>9</td>
+        <td>Take half damage from water based tactics, replaces Wuo Jian.</td>
+        <td>3</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>Ji Rou</td>
+        <td>17</td>
+        <td>Take half damage from all attacks, replaces Shui Jian.</td>
+        <td>5</td>
+        <td>200</td>
+    </tr>
+    <tr>
+        <td>Ji Mian</td>
+        <td>24</td>
+        <td>Negates physical attacks from enemy party, replaces Ji Rou.</td>
+        <td>7</td>
+        <td>200</td>
+    </tr>
+    <tr>
+        <td>Ce Mian</td>
+        <td>31</td>
+        <td>Negates tactic use from enemy party, replaces Ji Rou.</td>
+        <td>17</td>
+        <td>240</td>
+    </tr>
+</table>
+<h2 id="heading-13">Special 2 Tactics</h2>
+<p>These take up the fifth slot on the tactic list, mostly meant for dispelling buffs with the exception of the last two which the enemies will never have on their list as those are solely meant for the player.</p>
+<table>
+    <tr>
+        <td>Cheng Nei</td>
+        <td>6</td>
+        <td>Remove castle defense bonus during boss fights.</td>
+        <td>5</td>
+        <td>120</td>
+    </tr>
+    <tr>
+        <td>Jie Ce</td>
+        <td>11</td>
+        <td>Dispels enemy tactic buffs, replaces Cheng Nei.</td>
+        <td>5</td>
+        <td>160</td>
+    </tr>
+    <tr>
+        <td>Yi Xin</td>
+        <td>19</td>
+        <td>Paralyzes the enemy, replaces Jie Ce.</td>
+        <td>5</td>
+        <td>180</td>
+    </tr>
+    <tr>
+        <td>Tui Lu</td>
+        <td>25</td>
+        <td>Retreats from battle if successful, replaces Yi Xin.</td>
+        <td>5</td>
+        <td>140</td>
+    </tr>
+    <tr>
+        <td>Gui Huan</td>
+        <td>26</td>
+        <td>Returns your army to Liu Bei&#39;s current palace, replaces Tui Lu.</td>
+        <td>6</td>
+        <td>150</td>
+    </tr>
+</table>
+<h2 id="heading-14">Special 3 Tactics</h2>
+<p>These take up the sixth slot on the tactic list, mostly meant to buffs to a party member with the exception of the last two. The last two will mainly override the first three with either of the two being forced into the slot for everyone.</p>
+<table>
+    <tr>
+        <td>Qi Shou</td>
+        <td>7</td>
+        <td>Increase a general&#39;s agility.</td>
+        <td>4</td>
+        <td>140</td>
+    </tr>
+    <tr>
+        <td>Fu Bing</td>
+        <td>12</td>
+        <td>Additional attack at 70%-ish strength, only adds one to multi hitting weapons, replaces Qi Shou.</td>
+        <td>6</td>
+        <td>220</td>
+    </tr>
+    <tr>
+        <td>Bei Ji</td>
+        <td>18</td>
+        <td>Doubles damage dealt from attacks and tactics, replaces Fu Bing.</td>
+        <td>10</td>
+        <td>240</td>
+    </tr>
+    <tr>
+        <td>Li Jian</td>
+        <td>20</td>
+        <td>Turns target against his allies, replaces Qi Shou.</td>
+        <td>6</td>
+        <td>157-218</td>
+    </tr>
+    <tr>
+        <td>An Sha</td>
+        <td>27</td>
+        <td>Instantly defeats an officer, replaces Fu Bing.</td>
+        <td>10</td>
+        <td>180-230</td>
+    </tr>
+</table>
+<p>The amount of TP you are able to use is based on your tacticians INT divided by 256, this means that even with the best tactician you will at most have 1 less TP than your MTP.</p>
+<h1 id="heading-15">Ch. 1 The Yellow Scarves Rebellion (Yellow Turbans)</h1>
+<h2 id="heading-16">Luo Song Village</h2>
+<ul>
+    <li>You start with [https:<em>koei.fandom.com/wiki/Liu_Bei Liu Bei], [https:</em>koei.fandom.com/wiki/Guan_Yu Guan Yu] &amp; [https://koei.fandom.com/wiki/Zhang_Fei Zhang Fei] inside Liu Bei&#39;s house, leave his house and look for Zhang Shi Ping (Zhang Shiping) who has a horse nearby and speak with him to receive 200 Gold &amp; 1,000 Rations, without rations you will slowly lose soldiers as you walk around outside of towns so make sure to get this. You will generally get more than you need from defeating bosses so you should never need to buy rations in towns.</li>
+    <li>Hire Song Ren &amp; Song Yong, they are mainly extra bodies to take hits for now.</li>
+    <li>Equip Liu Bei with the Flail and pass the Dagger to Song Ren, equip Guan Yu with the Flail and pass his Robe to Liu Bei, equip Zhang Fei with the Flail and pass his Robe to Song Ren. To equip gear go to the ITEM menu and highlight the member then choose the desired gear and select EQUIP, if you don&#39;t see * next to it it won&#39;t count as equipped.</li>
+    <li>Rearrange the party in soldier count order, to check the soldier count of your party press Select to see how many everyone has. To rearrange the party pick FORMATION then ORDER and select the general to put them in the order you select.</li>
+    <li>Leave Luo Song Village and head West along the road to Xu Zhou.</li>
+</ul>
+
+<h2 id="heading-17">Xu Zhou Castle</h2>
+<ul>
+    <li>Xu Zhou is a Gullwing point, the Inn is the first building from the entrance.</li>
+    <li>Behind it is the Billet where you can add and remove members from your party (with few exception) or fire generals you no longer have a need for.</li>
+    <li>The building to it&#39;s East is the Provision shop, this is the only time I&#39;ll mention if as you should never have a need to use it, but you can exchange money for Food.</li>
+    <li>The building behind them is the Historian, this is where you&#39;ll save your game, the Invite command doesn&#39;t have a use for now.</li>
+    <li>The building in the Northeast is the Armory where you&#39;ll buy weapons and armor, buy a Bandana for each member with equipment and equip them except Song Ren.</li>
+</ul>
+
+<table>
+    <tr>
+        <th>Item</th>
+        <th>Stats</th>
+        <th>Cost</th>
+    </tr>
+    <tr>
+        <td>Dagger</td>
+        <td>A.P 10</td>
+        <td>50</td>
+    </tr>
+    <tr>
+        <td>Flail</td>
+        <td>A.P 15</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Bandana</td>
+        <td>A.C 10 (Head)</td>
+        <td>50</td>
+    </tr>
+    <tr>
+        <td>Robe</td>
+        <td>A.C 20 (Body)</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Leather</td>
+        <td>A.C 35 (Body)</td>
+        <td>300</td>
+    </tr>
+</table>
+<ul>
+    <li>The building behind the palace is the Merchant, this is where consumable items are bought used for various means.</li>
+</ul>
+
+<table>
+    <tr>
+        <th>Item</th>
+        <th>Effect</th>
+        <th>Cost</th>
+    </tr>
+    <tr>
+        <td>Elixir A</td>
+        <td>Heal 100 soldiers.</td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td>Resurrect</td>
+        <td>Revive dead generals.</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Steed</td>
+        <td>Give to generals asking for a horse for recruitment.</td>
+        <td>200</td>
+    </tr>
+    <tr>
+        <td>Gullwing</td>
+        <td>Transport to certain castles.</td>
+        <td>200</td>
+    </tr>
+</table>
+<ul>
+    <li>Hire Mi Zhe ([https://koei.fandom.com/wiki/Mi_Zhu Mi Zhu]) from the house in the Southwest and pass Song Ren&#39;s equipment to him.</li>
+    <li>Speak with [https://koei.fandom.com/wiki/Tao_Qian Tao Qian] in the palace to learn that some Yellow Scarves reside in Qing Zhou to the North.</li>
+    <li>Head for the Billet and remove Song Ren &amp; Song Yong from the party with the DEL MEM command, then rearrange the party.</li>
+    <li>When finished exit Xu Zhou and head North along the road to Qing Zhou.</li>
+</ul>
+
+<h2 id="heading-18">Qing Zhou Castle</h2>
+<p><strong>Boss</strong> [https://koei.fandom.com/wiki/Zhang_Liang Zhang Liang] + Rebel Force x2 Reduce the Rebel Forces soldier count under 100, afterward concentrate on Zhang Liang.</p>
+<p>After this battle you should learn Lian Huo which is a fire tactic, it can deal around 40-90 damage to one general. Though if you chose to grind a level Liu Bei &amp; Mi Zhe would have it for use during the boss battle.</p>
+<ul>
+    <li>Don&#39;t talk to the NPC right at the entrance.</li>
+    <li>Enter the second house to the East from the entrance and speak with the old man to recruit Chen Deng ([https://koei.fandom.com/wiki/Chen_Dao Chen Dao]) and make him the tactician which you do by going into FORMATION and then choosing STRAT. and then pick the general in question who must have more INT than STR to be a tactician, also pass the Dagger from Mi Zhe to Chen Deng. </li>
+    <li>Rest at the Inn which is the house West near the NPC by the entrance then talk to the him after resting.</li>
+</ul>
+
+<p><strong>Boss</strong> Ma Yuan Yi ([https://koei.fandom.com/wiki/Ma_Yuanyi Ma Yuanyi]) + Rebel Force x4 Have Mi Zhe use Lian Huo on Ma Yuan Yi until you run out of TP while the rest of your generals lower the Rebel Forces below 100, afterward focus fire from top to bottom.</p>
+<p>After this battle you should learn Wuo Jian which is special tactic, it reduces the damage from enemy fire tactics by half. You also learn of [https://koei.fandom.com/wiki/Zhang_Bao_(Yellow_Turbans) Zhang Bao]&#39;s whereabouts. Head back to Xu Zhou and buy a Bandana for Chen Deng then rest up at the Inn and save your progress at the historian, afterward leave Xu Zhou and travel West along the road to Mt. Da Xing.</p>
+<h2 id="heading-19">Mt. Da Xing</h2>
+<p><strong>Boss</strong> Zhang Bao, Cheng Yuan Zhi ([https://koei.fandom.com/wiki/Cheng_Yuanzhi Cheng Yuanzhi]) + Rebel Force Have Mi Zhe cast Wuo Jian at the beginning of the battle while your physical attackers go after Zhang Bao first with someone attacking the Rebel Force once to take it under 100 soldiers, on Mi Zhe&#39;s turns after cast Lian Huo on Cheng Yuan Zhi until you run out of TP and then take them out from top to bottom.</p>
+<ul>
+    <li>You can talk to the NPC&#39;s to learn where the final brother Zhang Jao ([https://koei.fandom.com/wiki/Zhang_Jiao Zhang Jiao]) is located.</li>
+    <li>Enter the big tent in the center and CHECK in the top right tile to get an Ax (A.P 20), give this to Zhang Fei and pass his Flail to Chen Deng and pass his Dagger to Mi Zhe.</li>
+</ul>
+
+<p>[[include image |image=http://capa.wikidot.com/local--files/guide:destiny-of-an-emperor/1-ax.png |ratio=nes |option=pixelate |title=The hidden Ax]]</p>
+<ul>
+    <li>Head back to Xu Zhou again to rest and save your progress, then leave and go South moving around the mountain side to reach Tia Man Xia.</li>
+</ul>
+
+<h2 id="heading-20">Tia Man Xia</h2>
+<p><strong>Boss</strong> Zhang Jao, Zheng Mao ([https://koei.fandom.com/wiki/Deng_Mao Deng Mao]), <strong>Han Zhong</strong> + Rebel Force x2 Focus your physical attackers on Zhang Jao while having Mi Zhe use Wuo Jian on the first turn, have someone reduce the Rebel Forces to have them go under 100 soldiers. Mi Zhe&#39;s following turns should have him cast Lian Huo on Zheng Mao until you reduce him to under 100 soldiers then work on Han Zhong, when that is done until you run out of TP then take them out from top to bottom. Should you happen to have Chi Xin from being Lv 5 save at least 3 TP to recover soldiers incase someone gets low.</p>
+<ul>
+    <li>If you didn&#39;t already learn it by now you should have Shui Tu which is a water tactic, unfortunately it can only be used if there is a source of water within 4 spaces of the battle, it does deal 50-100 damage to one general. It is stronger than Lian Huo, but has limited use due to not many battles being near water.</li>
+    <li>Talking to the NPC&#39;s inside reveal that the Yellow Scarves retook Qing Zhou and that it&#39;s best to attack them from behind, however one of their generals Han Zhong has to be bribed for his help.</li>
+    <li>The tent in the West has a treasure chest containing an Ax, give this to Guan Yu and pass down his Flail to Mi Zhe.</li>
+    <li>You will want to find Han Zhong in a random battle and recruit him to your side which will help doing the easy way of retaking Qing Zhou. When you recruit him pass Chen Deng&#39;s equipment to Han Zhong.</li>
+</ul>
+
+<p>You have two options on how to deal with retaking Qing Zhou.</p>
+<p><strong>Qing Zhou Castle Retake head-on</strong> Zhang Jao, Zhang Bao, Zhang Liang, Zheng Mao, Cheng Yuan Zhi You can do the hard way by attacking it head on, which I don&#39;t advise. Should you want to do so fill your inventory for every one with Elixir A&#39;s as much as possible, this&#39;ll restore 100 soldiers should they get low. You will want to focus on Zheng Mao first then Cheng Yuan Zhi using Lian Huo with Guan Yu &amp; Chen Deng before they use Wuo Jian, when you have 4 TP left set up your own Wuo Jian. When left down to just the 3 brothers go for Zhang Liang first then go for Zhang Jao ending with Zhang Bao. Zhang Jao &amp; Bao have Chi Xin which they have a chance to use when they lose half of their soldiers, luckily they will only use it on themself and not each other so keep hacking at them until you eventually come out victorious.</p>
+<p>It is not worth the effort as you spend more gold than you gain from doing this one.</p>
+<h2 id="heading-21">Qing Zhou Cave</h2>
+<ul>
+    <li>If you took the time to recruit Han Zhong and put him in your party head back into Xu Zhou and buy a Leather for Zhang Fei then leave and head back to Qing Zhou.</li>
+    <li>You&#39;ll notice a cave behind the which leads to a mini dungeon, put Han Zhong in the lead and talk to the guard to make a bridge over, you can choose to go back and put Han Zhong in the Billet or continue forward.</li>
+    <li>Along the way you should learn Chi Xin which is a healing tactic that can restore up to 90 soldiers.</li>
+</ul>
+
+<p>qingzhoucave Map</p>
+<ul>
+    <li>This should be your third Ax which you should give to Liu Bei, then make your way to the Zhang brothers to confront them.</li>
+</ul>
+
+<p><strong>Chapter Finale</strong> Zhang Jao, Zhang Bao, Zhang Liang With less generals to worry about for this one you&#39;ll want your physical attackers to go after Zhang Jao first this time with someone casting Wuo Jian and Mi Zhe casting Lian Huo on Zhang Liang until they cast Wuo Jian. You should have Chi Xin by now and you&#39;ll want to save 3 TP incase someone needs healing. After Zhang Jao goes down focus on Zhang Bao then Zhang Liang.</p>
+<p><strong>Note:</strong> If you want all possible MTP there is a specific tactic learned at Lv 12 called Fu Bing that only Liu Bei would be able to learn, under normal non glitchy methods this MTP will always be lost as the time you would reach that level you don&#39;t have anyone with 220 INT to learn it, it&#39;s not too big of a deal if you miss it, but it&#39;s there if you want it.</p>
+<h2 id="heading-22">Xu Zhou Castle (revisit)</h2>
+<ul>
+    <li>After your victory over the Yellow Scarves make your way to Xu Zhou and speak to Tao Qian.</li>
+    <li>As promised Tao Qian will offer Liu Bei to rule in his stead, while you have the option to say No it&#39;s a but thou must situation and it&#39;ll infinitely loop until you say Yes.</li>
+    <li>Liu Bei will take the throne and will be the ruler as such he will no longer be traveling with the party.</li>
+    <li>A messenger from [https:<em>koei.fandom.com/wiki/Cao_Cao Cao Cao] will mention that [https:</em>koei.fandom.com/wiki/Dong_Zhuo Dong Zhuo] is causing chaos in Luo Yang and our aid is required to quell him.</li>
+    <li>Since Liu Bei will no longer join us, his son [https://koei.fandom.com/wiki/Liu_Feng Liu Feng] will take his place, the equipment Liu Bei had will be passed down to him so make sure to equip his items.</li>
+</ul>
+
+<h1 id="heading-23">Ch. 2 The Tyrant Dong Zhuo</h1>
+<ul>
+    <li>Before setting off to Fan Shui Guan (Fan Shui Gate) sell the your extra gear at the Merchant then go to the Armory to buy a Leather for Guan Yu and rearrange your party if you haven&#39;t already.</li>
+    <li>From Tia Man Xia head around the mountain side to get to Fan Shui Guan, if you didn&#39;t learn the following tactic yet do so.</li>
+</ul>
+
+<p>Cheng Nei is a special tactic, this will remove castle defense bonuses that bosses get during battle. This has no effect when used against you so enemy generals throw away a turn casting this.</p>
+<h2 id="heading-24">Fan Shui Guan</h2>
+<ul>
+    <li>On the outside [https:<em>koei.fandom.com/wiki/Sun_Ce Sun Ce] (this should be his father [https:</em>koei.fandom.com/wiki/Sun_Jian Sun Jian]) will mention that they were defeated trying to pass through Fan Shui Guan due to [https://koei.fandom.com/wiki/Yuan_Shu Yuan Shu] not giving needed supplies. He will then leave and you can go up to the gate.</li>
+</ul>
+
+<p><strong>Boss</strong> <strong>[https://koei.fandom.com/wiki/Hua_Xiong Hua Xiong]</strong>, Li Su + Rebel Force x3 Reduce each Rebel Force to be under 100 soldiers while you have either Mi Zhe or Chen Dang cast the newly learned Cheng Nei and the other cast Lian Huo on Hua Xiong. Have your physical attackers focus on Hua Xiong and if any Rebel Force isn&#39;t under 100 do so with Mi Zhe &amp; Chen Deng&#39;s physical attack otherwise have your spare cast Lian Huo on Hua Xiong while keeping enough TP to cast Chi Xin. After Hua Xiong is gone go after Li Su, but don&#39;t worry about using tactics on him.</p>
+<ul>
+    <li>The tent in the center is an Inn to heal up your soldiers and TP. Yang Jin is in the corner waiting to be recruited who you&#39;ll want as he&#39;s needed for another general we can recruit later.</li>
+    <li>The Northeast tent has a treasure chest which contains another Ax, you can give this to Yang Jin and pass Mi Zhe&#39;s gear over to him.</li>
+    <li>After rearranging your party leave Fan Shui Guan and make your way to Hu Lao Guan (Hu Lao Gate) by heading West, check the space 8 tiles West and 1 South of Fan Shui Guan to get Chi Tu Ma (Red Hare). You are told about this later so you can choose to take it or wait to be told about it, the character who has this in their inventory will have their agility boosted by 50% giving them better chances to go first in battle.</li>
+</ul>
+
+<p>[[include image |image=http://capa.wikidot.com/local--files/guide:destiny-of-an-emperor/2-cuituma.png |ratio=nes |option=pixelate |title=You&#39;re supposed to know about this later, but you can get it early.]]</p>
+<ul>
+    <li>While heading West you will see a branching path North leading into a cave, I would save going here for after what we do at Hu Lao Guan rather than go there now so keep going to the West path that will lead to Hu Lao Guan. If you happen to met Hua Xiong in battle try to recruit him.</li>
+</ul>
+
+<h2 id="heading-25">Hu Lao Guan</h2>
+<p><strong>Boss</strong> [https:<em>koei.fandom.com/wiki/Lu_Bu Lu Bu], **[https:</em>koei.fandom.com/wiki/Li_Ru Li Ru]** + Rebel Force x2 While normally I would advise to lower the soldiers of the Rebel Forces under 100, Lu Bu is priority number 1 as he is the most powerful general in the game while having pretty low INT to deal good damage with Lian Huo against him. Due to Li Ru having Ye Huo the next tier for fire tactics get Wuo Jian up asap and have someone case Cheng Nei to get rid of their castle defense. After Lu Bu is out of the picture send everyone after Li Ru saving your TP for Chi Xin.</p>
+<p>You should learn Qi Shou which is a special tactic, which increases the agility of the general it is used on.</p>
+<ul>
+    <li>The NPC&#39;s here give clues on how to get Lu Bu to defect to your side as well as Cao Cao being around in one of the tents.</li>
+    <li>The tent East of the main tent with Cao Cao has a set of 3 pots check the top left pot for another Ax which should be your 5th and last one for the entire party.</li>
+</ul>
+
+<p>[[include image |image=http://capa.wikidot.com/local--files/guide:destiny-of-an-emperor/3-ax.png |ratio=nes |option=pixelate |title=The last Ax you should need.]]</p>
+<ul>
+    <li>Huo Hu is at the Southeast waiting to be recruited, he has the higher INT than Chen Deng/Mi Zhu and should be made your tactician. I would advise heading back to Xu Zhou so you can drop off Mi Zhe &amp; Chen Deng, also to sell excess gear you don&#39;t need and buy a Steed from the Merchant. Some generals you recruit may ask for an especially good horse which will make them join if you have this in someone&#39;s inventory, also the price in gold they would ask is much higher than what a Steed costs. You may also want to get 2 Leather&#39;s from the Armory, if you have enough for a third that&#39;s fine to.</li>
+    <li>Rest up and save your game then return back to Fan Shui Guan. If you remember the cave I said to save for later go in there now, though make sure you get a random battle before you go in to make sure you get Chapter 2 enemies inside.</li>
+</ul>
+
+<h2 id="heading-26">Northern Cave</h2>
+<p>northerncave map</p>
+<ul>
+    <li>While inside you will want to get enough battles to learn Ye Huo which is a fire tactic, it can deal around 90-150 damage to one general. It will replace Lian Huo, as well as Shui Jian which is a special tactic, it reduces the damage from enemy water tactics by half and will replace Wuo Jian.</li>
+    <li>On the first trip get the Gold Key, back at the entrance you will see a general who wasn&#39;t there before [https://koei.fandom.com/wiki/Guan_Ping Guan Ping], recruit him and pass Huo Hu&#39;s equipment over to him while keeping him as the tactician if you didn&#39;t get Li Ru.</li>
+    <li>If you missed either Hua Xiong or Li Ru by the time you get Guan Ping rest up at Fan Shui Guan and return to try to encounter them again.</li>
+    <li>After getting both Hua Xiong and Li Ru and the coin chest in the cave return to Xu Zhou and add them to your party if you haven&#39;t already, rest up at Fan Shui Guan and make your way towards Luo Yang.</li>
+    <li>Back at Hu Lao Guan after passing through you will see a split path, the East is where you want to go and on the split after go West, along the way you should see some gates which are battles you have to face to pass through before we can get to the castle.</li>
+</ul>
+
+<h2 id="heading-27">Luo Yang</h2>
+<p><strong>Gate #1</strong> [https://koei.fandom.com/wiki/Li_Jue Li Jue] + Rebel Force x3 Reduce the Rebel Forces soldier count under 100 and have Guan Yu cast your newly learned Ye Huo on Li Jue. Afterward when all Rebel Forces are below 100 have everyone, including Guan Yu physically attack Li Jue.</p>
+<p><strong>Gate #2</strong> [https:<em>koei.fandom.com/wiki/Xu_Rong Xu Rong], Guo Ji ([https:</em>koei.fandom.com/wiki/Guo_Si Guo Si]) + Rebel Force x2 Reduce the Rebel Forces soldier count under 100 and have Guan Yu cast Ye Huo on Xu Rong. Afterward having everyone go for Xu Rong saving your TP for the next battle then go after Guo Ji.</p>
+<p><strong>Boss</strong> Dong Zhuo, Lu Bu + Rebel Force x2 Ignore the Rebel Forces and focus on Lu Bu first, have someone cast Cheng Nei to get rid of the castle defense and have Guan Yu cast Ye Huo on Lu Bu. On the next turn have physical attacks go to Lu Bu with Guan Yu using Ye Huo on Dong Zhuo, once Lu Bu is gone focus on Dong Zhuo.</p>
+<p>If you didn&#39;t already learn it by now you should have Shui Xing which is a water tactic, unfortunately it can only be used if there is a source of water within 4 spaces of the battle, it does deal 120-180 damage to one general. It is stronger than Ye Huo, but has limited use due to not many battles being near water. It will also replace Shui Tu.</p>
+<ul>
+    <li>The city is burnt to the ground even though there are some buildings that are intact enough for use like the Inn which you can rest at.</li>
+    <li>Wang Gui is around the Eastern side of the city waiting to be recruited by you if you got Yang Jin earlier.</li>
+    <li>A lot of the NPC&#39;s will mention of a special sword Lu Bu is searching for which we can find in the only other building still intact in the Northwest, if you got the Gold Key from Northern Cave use it with whoever has it on the oddly colored spot near the Northeast portion of the room to get the Gemsword. Pass this to whoever is at the top of your lineup and then make your way out after resting.</li>
+    <li>Follow the path North and to the West until you reach the castle right before Chang An.</li>
+</ul>
+
+<h2 id="heading-28">Yang Zhou</h2>
+<p><strong>Boss</strong> Lu Bu, [https:<em>koei.fandom.com/wiki/Cai_Yong Cai Yong], [https:</em>koei.fandom.com/wiki/Hu_Zhen Hu Zhen] + Rebel Force x2 The only difference in strategy is that if you don&#39;t have the Gemsword/don&#39;t want to recruit Lu Bu focus everyone on him with Guan Yu and if you chose to bring another high INT member to battle casting Ye Huo on Lu Bu then proceed with the rest of the strategy. If you choose to recruit him have the person use the Gemsword on Lu Bu and everyone physically attack Cai Yong with someone using Cheng Nei to get rid of the castle defense. Afterward you can have Liu Feng cast Ye Huo on Hu Zhen to lighten him up as the rest take out Cai Yong.</p>
+<p>When Lu Bu joins your side he will give you the clue to finding Cui Tu Ma from Fan Shui Guan which I showed earlier.</p>
+<ul>
+    <li>The Inn is the first house from the entrance, the Merchant is in the house East of that.</li>
+</ul>
+
+<table>
+    <tr>
+        <th>Item</th>
+        <th>Effect</th>
+        <th>Cost</th>
+    </tr>
+    <tr>
+        <td>Elixir A</td>
+        <td>Heal 100 soldiers.</td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td>Resurrect</td>
+        <td>Revive dead generals.</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Gullwing</td>
+        <td>Transport to certain castles.</td>
+        <td>200</td>
+    </tr>
+</table>
+<ul>
+    <li>The house East of the Merchant is the Historian. Inside the house at the South end near the water has a Club (A.P 30) if you search the tile above the jar, equip it to Hua Xiong and sell his Ax at the Merchant.</li>
+</ul>
+
+<p>[[include image |image=http://capa.wikidot.com/local--files/guide:destiny-of-an-emperor/4-club.png |ratio=nes |option=pixelate |title=A secret Club to bludgeon enemies with.]]</p>
+<ul>
+    <li>The palace on the Southeast may seem empty with no one on the throne, but there is a passage to the East which leads to a small room with Cao Cao and the Emperor inside.</li>
+    <li>At the Historian save your game and reload your save so you have a free trip back to Xu Zhou to drop off Hua Xiong and get Lu Bu into your party immediately after to keep the gear from Hua Xiong equipped to Lu Bu if you recruited him, and also drop off Wang Gui.</li>
+    <li>Make your way back to Fan Sui Guan to get Chi Tu Ma if you didn&#39;t already then go all the way back to Yang Zhou to continue towards Chang An.</li>
+</ul>
+
+<h2 id="heading-29">Tunnel</h2>
+<p>image map</p>
+<ul>
+    <li>There is only 1 treasure here which is a Club you&#39;ll want to give it to Zhang Fei then proceed onward to the Western entrance to the tunnel.</li>
+    <li>When you leave head Northwest to get a gate before Chang An.</li>
+</ul>
+
+<h2 id="heading-30">Chang An</h2>
+<p><strong>Gate</strong> Dong Min, Fen Chou ([https://koei.fandom.com/wiki/Fan_Chou Fan Chou]) + Rebel Force x2 Reduce the Rebel Forces soldier count under 100. Afterward you can have someone use Cheng Nei if you want, it&#39;s not required, and have all your physical attacks aim for Fen Chou then Dong Min.</p>
+<p>You should learn Jie Ce if you didn&#39;t have it before the battle it is a special tactic which dispels enemy buffs from tactics, this will replace Cheng Nei. Continue onward and make your way to Chang An.</p>
+<p><strong>Chapter Finale</strong> Dong Zhuo, [https:<em>koei.fandom.com/wiki/Jia_Xu Jia Xu], [https:</em>koei.fandom.com/wiki/Zhang_Ji_(Other) Zhang Ji] Have someone set up Shui Jian to protect against Water tactics and someone else cast Shui Xing on Dong Zhuo until Jia Xu casts Shui Jian himself, have your physical attackers go after Jia Xu first. If you still have Cheng Nei cast it to reduce the castle defense bonus if not and you learned Jie Ce use it to cancel out Jia Xu&#39;s Shui Xing the following round for Shui Jian to deal as much damage as possible. Zhang Ji should be saved for last.</p>
+<ul>
+    <li>You can talk to the NPC&#39;s who are happy that Dong Zhuo is dead and others tell of Yuan Shu&#39;s cruelty, don&#39;t worry about resting up as a free one will be provided later.</li>
+    <li>The Inn is the first house on the West side that you can enter.</li>
+    <li>The Merchant is in the third house on the West side that you can enter.</li>
+</ul>
+
+<table>
+    <tr>
+        <th>Item</th>
+        <th>Effect</th>
+        <th>Cost</th>
+    </tr>
+    <tr>
+        <td>Elixir A</td>
+        <td>Heal 100 soldiers.</td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td>Steed</td>
+        <td>Give to generals asking for a horse for recruitment.</td>
+        <td>200</td>
+    </tr>
+    <tr>
+        <td>Power Pill</td>
+        <td>Attack will always land and deal critical damage.</td>
+        <td>50</td>
+    </tr>
+    <tr>
+        <td>Resurrect</td>
+        <td>Revive dead generals.</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Smoke Pot</td>
+        <td>No encounters for a short period.</td>
+        <td>200</td>
+    </tr>
+</table>
+<ul>
+    <li>Power Pill is a very valuable item, get 4 for everyone tactician included since it&#39;s VERY cheap, also get another Steed while you&#39;re at it and sell everyone&#39;s Bandana&#39;s and Ax&#39;s as we&#39;ll be updating them at the Armory.</li>
+    <li>The Billet is the fourth house on the West side you can enter.</li>
+    <li>The Historian is the fifth house you can enter, invite Liu Bei to make Chang An your new save point.</li>
+    <li>The Armory is the first house on the East side you can enter.</li>
+</ul>
+
+<table>
+    <tr>
+        <th>Item</th>
+        <th>Stats</th>
+        <th>Cost</th>
+    </tr>
+    <tr>
+        <td>Flail</td>
+        <td>A.P 15</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Axe</td>
+        <td>A.P 20</td>
+        <td>200</td>
+    </tr>
+    <tr>
+        <td>Club</td>
+        <td>A.P 30</td>
+        <td>500</td>
+    </tr>
+    <tr>
+        <td>Leather</td>
+        <td>A.C 35 (Body)</td>
+        <td>300</td>
+    </tr>
+    <tr>
+        <td>Bandana</td>
+        <td>A.C 10 (Head)</td>
+        <td>50</td>
+    </tr>
+    <tr>
+        <td>Cap</td>
+        <td>A.C 20 (Head)</td>
+        <td>150</td>
+    </tr>
+</table>
+<ul>
+    <li>Buy a Club for everyone who doesn&#39;t have one sans the tactician and get a Cap for everyone.</li>
+    <li>If you recruited Wang Gui earlier Zhou Chao will be in the Northeastern portion waiting to be recruited.</li>
+    <li>Speak with Liu Bei and he&#39;ll let you rest for free, though you will be awoken by Liu Bei wanting to tell you something. While you are at it drop off Zhou Chao at the Billet as you will likely not use him.</li>
+</ul>
+
+<h1 id="heading-31">Ch. 3 The False Emperor Yuan Shu</h1>
+<ul>
+    <li>A messenger from Cao Cao will mention that Yuan Shu has the Imperial Seal (historically given by Sun Ce for soldiers) and calls himself the emperor and must be put down.</li>
+    <li>Outside from Chang An head West then take the path South to find the general [https:<em>koei.fandom.com/wiki/Zhao_Yun Zhao Yun] who will join you...later after his business with Gong Sun Qian ([https:</em>koei.fandom.com/wiki/Gongsun_Zan Gongsun Zan]) is complete. Afterward leave and head around the mountain side to find Yuan Castle.</li>
+</ul>
+
+<h2 id="heading-32">Yuan Castle</h2>
+<p><strong>Boss</strong> [https://koei.fandom.com/wiki/Lei_Bo Lei Bo], Chen Ji + Rebel Force x2 Go after Lei Bo first with your high INT generals casting Shui Xing on him and your physical attackers also going after him, if you still have Cheng Nei have someone use it, if not don&#39;t worry. If Lei Bo is under 230 soldiers have 2 INT generals cast Shui Xing the following turn on him and send everyone including your third caster after Chen Ji.</p>
+<ul>
+    <li>The NPC&#39;s mention how much of a cruel ruler Yuan Shu has been even running off with all the women of the town.</li>
+    <li>The first house you can enter is the Inn.</li>
+    <li>The second house is the Merchant here who you should sell everyone&#39;s Leather if it&#39;ll get you over 4,000 Gold.</li>
+    <li>The Armory is the last house you can enter.</li>
+</ul>
+
+<table>
+    <tr>
+        <th>Item</th>
+        <th>Stats</th>
+        <th>Cost</th>
+    </tr>
+    <tr>
+        <td>Club</td>
+        <td>A.P 30</td>
+        <td>500</td>
+    </tr>
+    <tr>
+        <td>Leather</td>
+        <td>A.C 35 (Body)</td>
+        <td>300</td>
+    </tr>
+    <tr>
+        <td>Padded</td>
+        <td>A.C 45 (Body)</td>
+        <td>800</td>
+    </tr>
+</table>
+<ul>
+    <li>Buy Padded for you party, you should have enough for your main 5.</li>
+    <li>An NPC tells you of your next destination and opponent, [https://koei.fandom.com/wiki/Ji_Ling Ji Ling] at Huai Nan. When you are rested up and have upgraded your equipment head out and travel South and around the mountain path, you could travel through the mountain if you feel like you have less money to get from more encounters. Both paths will meet at the same spot so from their it&#39;s a straight shot to Huai Nan.</li>
+</ul>
+
+<h2 id="heading-33">Huai Nan Castle</h2>
+<p><strong>Boss</strong> <strong>Ji Ling</strong>, [https://koei.fandom.com/wiki/Zhang_Xun Zhang Xun] + Rebel Force Go after Ji Ling first with your high INT generals casting Shui Xing on him and your physical attackers also going after him. If Ji Ling is under 230 soldiers have 2 INT generals cast Shui Xing the following turn on him and send everyone including your third caster after Zhang Xun.</p>
+<ul>
+    <li>The first house you can enter is the Inn.</li>
+    <li>An NPC will mention that Zhao Yun is a Tiger general, so like Guan Yu &amp; Zhang Fei he will be a valuable asset when he joins us having the same benefits as them.</li>
+    <li>The NPC in the Northwest will mention that his wife wants to speak to you, she will mention that a later castle Nan Yang is under construction, what this means is that if you attack from the West side it won&#39;t have any castle defense, like a free cast of Cheng Nei.</li>
+    <li>Make sure to rest up and head for Chen Cang, there is a path to the East, however the NPC in front of the door won&#39;t let us go in.</li>
+    <li>From Huai Nan head North and cross the bridge to get to Chen Cang.</li>
+</ul>
+
+<h2 id="heading-34">Chen Cang Fortress</h2>
+<p><strong>Boss</strong> [https://koei.fandom.com/wiki/Han_Xian Han Xian], Li Feng + Rebel Force x2 Go after Han Xian first with your high INT generals casting Shui Xing on him and your physical attackers also going after him. If Han Xian is under 230 soldiers have 2 INT generals cast Shui Xing the following turn on him and send everyone including your third caster after Li Feng.</p>
+<p>You should reach level 12 and notice that you didn&#39;t learn a tactic, that would be because Fu Bing can only be learned if someone in your party had 220 INT which the only person we&#39;ve had with enough INT to learn it was Liu Bei.</p>
+<ul>
+    <li>Inside the Center tent you will get a letter for Shui Jing, incase you&#39;re wondering who that is they are in the house we couldn&#39;t enter earlier. In the Northeast tent there is a chest in the Northwest corner that has a Spear (A.P 50), give it to Lu Bu.</li>
+    <li>Head back to Huai Nan to rest up and head to the house in the East to give the letter so you can talk to Shui Jing or rather [https://koei.fandom.com/wiki/Sima_Hui Sima Hui] who will mention tacticians for you to get later.</li>
+    <li>After resting up head back to Chen Cang and continue North and to the West, eventually you&#39;ll see gates to the West and a cave on the East, the cave is optional, but considering the items we can get I would suggest going inside before going to Nan Yang.</li>
+</ul>
+
+<h2 id="heading-35">Nan Yang Cave</h2>
+<p>nanyangcave map</p>
+<ul>
+    <li>You will find 3 Spears in the cave which you will want to give to Zhang Fei, Guan Yu &amp; Guan Ping in that order. There are a lot of other items which you shouldn&#39;t need so you can pass them to your tactician to save space to sell later. You will want to save your TP for healing your party when they are close to under 100 troops in battle.</li>
+    <li>You will want to try to get Ji Ling if you haven&#39;t and even recruit other generals that you can just to lower the pool to find him easier, if you do or already have him you may think about having him replace Liu Feng.</li>
+    <li>While inside you will want to get enough battles to learn Tong Xian which is a healing tactic, it can restore around 260-450 damage to one general and it will also replace Chi Xin. You will want to rest up after you finish your dive into the cave so you can prepare to go for Nan Yang.</li>
+</ul>
+
+<h2 id="heading-36">Nan Yang Castle</h2>
+<p><strong>Gate #1</strong> Liang Ji + Rebel Force x2 Go after Liang Ji with your high INT generals casting Shui Xing on him and your physical attackers also going after him. Afterward should he live or not go all out.</p>
+<p><strong>Gate #2</strong> [https://koei.fandom.com/wiki/Chen_Lan Chen Lan], Liang Gang + Rebel Force x2 Go after Liang Gan first with 2 your high INT generals casting Shui Xing on him and your physical attackers also going after him while your last caster uses it on Chen Lan. Afterward should he live or not go all out. Liang Gang should almost be dead so you can send your weakest physical attacker after him and send everyone else after Chen Lan.</p>
+<p>When you approach Nan Yang do so from the tile to it&#39;s West to make the boss fight easier, if you have Ji Ling consider swapping him for Liu Feng for the battle and give him Liu Feng&#39;s items.</p>
+<p><strong>Chapter Finale</strong> Yuan Shu, [https:<em>koei.fandom.com/wiki/Yuan_Yin Yuan Yin], [https:</em>koei.fandom.com/wiki/Lu_Fan Lu Fan], (Lu Bu) + Rebel Force Hopefully you saved your Power Pills and haven&#39;t used them, because you will want to here, specially if you didn&#39;t recruit Lu Bu as he will be on Yuan Shu&#39;s side. The only difference is that if Lu Bu is with him use your Power Pills to focus on him first, otherwise use your Power Pills on Yuan Shu to whittle him down and have someone cast Shui Jian. Then just lay your Power Pills from top to bottom.</p>
+<p>You should learn Yan Re which is a fire tactic, it can deal around 140-250 damage to all enemy generals, it will also replace Ye Huo. After the battle Yuan Shu will attempt to flee, also don&#39;t worry about the game hanging for a bit.</p>
+<ul>
+    <li>If Zhang Fei was alive he will block the path, if Zhang Fei was dead Yuan Shu will escape. You will be given a choice to let him go, <strong>it is not a but thou must situation</strong> say No four times and Yuan Shu will be executed bringing much needed peace for his actions. If you let him go you will see him in a battle later.</li>
+    <li>After the battle rest up at the Inn then find the Merchant and sell your excess gear and Zhang Fei&#39;s Spear, any spare Power pills give to Zhang Fei.</li>
+    <li>At the historian invite Liu Bei to make Nan Yang the home base.</li>
+    <li>At the billet if you want you can fire all previous generals, but keep Ji Ling if he isn&#39;t in your party.</li>
+    <li>There is an NPC in the Northeast selling a Silver Key for 4000 Gold which you should grab, also around the house near the water there is a tile that holds a hidden Trident when you search, this is a massive upgrade from the Spears and should go to Zhang Fei.</li>
+</ul>
+
+<p>image trident</p>
+<ul>
+    <li>Liu Bei mentions that Yuan Shu&#39;s brother is angry and wants revenge.</li>
+    <li>When you leave Nan Yang and head North to the bridge you will get into a battle, Yuan Shao will forcefully ambush you and Lu Bu if you recruited him will defect here. Yuan Shao&#39;s army will take a turn to smack you then leave.</li>
+    <li>Talk to Liu Bei again after Yuan Shao&#39;s ambush to begin the next chapter.</li>
+</ul>
+
+<h1 id="heading-37">Ch. 4 + 5 The Prestigious Yuan Shao &amp; Pacification of Jing Zhou (Jing Province)</h1>
+<p>This is where the game has a split in the path for you to choose, the intended route is to go for Yuan Shao first then settle Jing Zhou afterward. I however will do Jing Zhou first then Yuan Shao after, the path you choose is up to you, but I will mention parties for both occasions and what you should have for your routes.</p>
+<h2 id="heading-38">Path A Yuan Shao</h2>
+<p>If you choose this path first your party should be Ji Ling, Zhang Fei, Guan Yu, Guan Ping, Liu Feng, ☆Li Ru. If you came here second ignore anytime I tell of purchases unless you need to restock on Power Pills and Gullwings when we go back to continue the story in Jing Zhou.</p>
+<ul>
+    <li>Sell your Caps at the Merchant and upgrade them to Hoods at the Armory also buy a Gullwing if the funds allow, then leave Nan Yang and cross the bridge and head North close to the snowy mountains then head West for a cave.</li>
+</ul>
+
+<h3 id="heading-39">Hermit Cave</h3>
+<p>image map</p>
+<ul>
+    <li>There is not much here now so meet and recruit [https://koei.fandom.com/wiki/Zhou_Cang Zhou Cang]. If you came here first have him replace Liu Feng, if you came here second don&#39;t worry about giving him equipment.</li>
+    <li>There is another person here, however we can&#39;t get through at the moment as we have no way of blowing up the rocks in the way, use a Gullwing to leave and head to the East this time after crossing the bridge.</li>
+</ul>
+
+<h3 id="heading-40">Bo Hai Castle</h3>
+<p><strong>Boss</strong> Lu Guang ([https:<em>koei.fandom.com/wiki/Lu_Kuang Lu Kuang]), [https:</em>koei.fandom.com/wiki/Shen_Pei Shen Pei], [https://koei.fandom.com/wiki/Gao_Lan Gao Lan] + Rebel Force x2 Use Power Pills on Shen Pei, with your high INT generals use Yan Re or Shui Xing on Lu Guang if you didn&#39;t learn it yet and have another general set up Shui Jian. Focus your physical attackers in order of Shen Pei, Lu Guang then Gao Lan.</p>
+<ul>
+    <li>After the battle rest at the Inn, there is a woman blocking the bridge to the North side and won&#39;t let us through until she see&#39;s Xu Zhe ([https://koei.fandom.com/wiki/Xu_Shu Xu Shu]).</li>
+    <li>The Merchant sells Power Pills for you to restock if you need and you will want to get 2 Gullwings if the funds allow.</li>
+    <li>In the duplex below the Merchant say yes to the man in the left side of the house to get Black Powder which you need to blow up the debris to access the last corner of the Hermit Cave to recruit Xu Zhu.</li>
+    <li>Use a Gullwing back to Nan Yang to go back to the cave to get Xu Zhe then Gullwing out, at Nan Yang billet Li Ru and bring Xu Zhe to make him your new tactician which will make Fu Bing usable which is a special tactic, it will first check INT difference and deal tactic damage to the target after your regular attack at 70% of the damage. It is a temporary buff so the next physical attack after will be counted as physical and will add one more attack while active even on multi hitting weapons, if you came here second you will want to put Xu Zhe in your party to make the lady on the bridge move.</li>
+    <li>Return to Bo Hai and sell your Caps or Hoods if you bought them at the Merchant.</li>
+    <li>Talk to the lady on the bridge to get her to move allowing access to the Northern half of the town.</li>
+    <li>At the armory buy Wood H&#39;s to replace whichever headgear you were using to increase your defense for your party.</li>
+    <li>When you are set leave and head East then North along the mountains which will lead to a gate on the Western side.</li>
+</ul>
+
+<h3 id="heading-41">Xu Shou&#39;s Fortress</h3>
+<p><strong>Boss</strong> Xu Shou ([https:<em>koei.fandom.com/wiki/Xu_You Xu You]), **[https:</em>koei.fandom.com/wiki/Yan_Liang Yan Liang]<strong>, </strong>Wen Hun** ([https://koei.fandom.com/wiki/Wen_Chou Wen Chou]) + Rebel Force Use Power Pills on Xu Shou, have your high INT generals cast Yan Re. Save your pills if Xu Shou is defeated and aim for Wen Hun first, then Yan Liang.</p>
+<ul>
+    <li>You&#39;ll notice someone in the Northeast, she will mention that a Silver Key is needed to free her which you should&#39;ve bought so use it. Doing so she will give you a letter to deliver to Zhao Yun which will let him know of his sisters safety letting him join you.</li>
+    <li>Make your way back to Nan Yang or Gullwing there, rest up along the way or at Nan Yang and head into the Jing Zhou area to the West to recruit Yan Liang &amp; Wen Hun in the hills, if you are doing this second it is your choice if you want to do this as you shouldn&#39;t be far from your tiger generals getting to 1,000 soldier naturally.</li>
+    <li>If you choose to get them go to Nan Yang to put members in reserve to bring them in, if you didn&#39;t head back to Bo Hai and restock on Power Pills if you need to and head back to where Xu Shou was and continue heading East, then North until you see Quang Zong.</li>
+</ul>
+
+<h3 id="heading-42">Quang Zong Castle</h3>
+<ul>
+    <li>Outside Zhao Yun will be blocking your path and will not move, unless you give him the Zhou Letr from his sister who we met at Xu Shou. He will defect to your side allowing you to pass, he is a good member to have in the party despite being quite light on soldiers. I would suggest giving Zhao Yun Chi Tu Ma if you still have it on Guan Yu. Rearrange your party so Zhao Yun can be in the lineup then enter the castle.</li>
+</ul>
+
+<p><strong>Boss</strong> [https:<em>koei.fandom.com/wiki/Yuan_Tan Yuan Tan], [https:</em>koei.fandom.com/wiki/Yuan_Xi Yuan Xi], [https://koei.fandom.com/wiki/Tian_Feng Tian Feng] + Rebel Force Have your high INT generals use Yan Re and your physical attackers use Power Pills on Tian Feng, afterward focus on Yuan Tan then Yuan Xi.</p>
+<ul>
+    <li>After the battle rest at the Inn if you came here first sell Wen Hun&#39;s Spear at the Merchant and go below the second well to get a Sabre, it is stronger than the Spear, but weaker than the Trident. If you came here second this is selling fodder.</li>
+</ul>
+
+<p>image 9-sabre</p>
+<ul>
+    <li>The NPC under the second well will initiate a battle.</li>
+</ul>
+
+<p><strong>Boss</strong> [https://koei.fandom.com/wiki/Yuan_Shang Yuan Shang] + Rebel Force x4 Have your high INT generals use Yan Re and your physical attackers focus on Yuan Shang, when he&#39;s alone all-out.</p>
+<ul>
+    <li>If you came here second ignore what I&#39;m going to say since you won&#39;t need to restock on Power Pills. Save at the Historian and reset the game, then head back to Bo Hai to restock on Power Pills, also make sure you have 2 Steeds and make your way back here.</li>
+    <li>Leave Guang Zhong and head North then East, continue East until you see some mountains below and wait until after you pass the second set and head south which should have some gates for you to pass.</li>
+</ul>
+
+<h3 id="heading-43">Ji Zhou Castle</h3>
+<p><strong>Gate #1</strong> Ma Yan, [https://koei.fandom.com/wiki/Lu_Xiang Lu Xiang] + Rebel Force x3 Have your high INT generals use Yan Re and your physical attackers focus on Lu Xiang then Ma Yan without using Power Pills.</p>
+<p><strong>Gate #2</strong> Zhang Yi, [https://koei.fandom.com/wiki/Guo_Tu Guo Tu] + Rebel Force x2 Have your high INT generals use Yan Re and your physical attackers focus on Guo Tu then Zhang Yi without using Power Pills.</p>
+<p><strong>Boss</strong> Yuan Shao, [https:<em>koei.fandom.com/wiki/Zhang_He Zhang He], [https:</em>koei.fandom.com/wiki/Ju_Shou Ju Shou], Lu Bu, (Yuan Shu) If you spared Yuan Shu (which you shouldn&#39;t) he&#39;ll be here, the only difference in strategy is to aim for him last since he&#39;s not as big a threat as everyone else. Have everyone pop a Power Pill and aim for Lu Bu, except for Guan Yu &amp; Zhao Yun if you came here first and have Fu Bing which you should have them cast that on Lu Bu. Then focus on Zhang He while dropping the others under 1,000 soldiers, then go from top to bottom on finishing them off.</p>
+<ul>
+    <li>After the battle head into the town, the people now pledge loyalty to Liu Bei. In this town there is a special NPC who will give you an instant level up, however it is better saved for later and I will not mention how to get to him so you don&#39;t accidentally use him now. This NPC can let you go past the level limit of 50 unless you want to use it later when the EXP curve is too steep for how long it takes to get a level.</li>
+    <li>If you came here first you could buy Sabre&#39;s at the Armory, but I suggest saving your money as we&#39;ll be getting better weapons in Jing Zhou, restock on Power Pills and buy a Gullwing at the Merchant and invite Liu Bei in which he&#39;ll tell you to continue with Jing Zhou so Gullwing back to Nan Yang. If you came here second restock on Power Pills and buy 5 Gullwings and give these to Pang Tong, bring Xu Zhe into your party and save at the Historian then restart your game and speak with Liu Bei to continue where we left off.</li>
+</ul>
+
+<h2 id="heading-44">Path B Jing Zhou </h2>
+<p>If you choose this path first your party should be Ji Ling, Zhang Fei, Guan Yu, Guan Ping, Liu Feng, ☆Li Ru.</p>
+<ul>
+    <li>Leave Nan Yang and head North to cross the bridge and head West to cross the next bridge to head into the Jing Zhou region. The immediate house has [https:<em>koei.fandom.com/wiki/Yi_Ji Yi Ji] who tells you that to the South his friends [https:</em>koei.fandom.com/wiki/Ma_Liang Ma Liang] and [https://koei.fandom.com/wiki/Ma_Su Ma Su] have a message about the situation, answer Yes to offer help to quell the unrest. Those who came here second head to the West in the mountains to look for the general Guo Tu to add him to your ranks replacing Zhang Fei.</li>
+    <li>Follow the road South to get to another house, this one with Ma Su who basically tells you to go Southeast to find Ma Liang for information.</li>
+    <li>The next house is the residence of Zhu Ge Liang ([https://koei.fandom.com/wiki/Zhuge_Liang Zhuge Liang]) who is currently not around.</li>
+    <li>The next house has Ma Liang, he informs you that four governors are fighting for Jing Zhuo and he wants us to settle the infighting.</li>
+    <li>Head South to get to the first of the four castles.</li>
+</ul>
+
+<h3 id="heading-45">Wu Ling Castle</h3>
+<p><strong>Boss</strong> [https:<em>koei.fandom.com/wiki/Jin_Xuan Jin Xuan], [https:</em>koei.fandom.com/wiki/Gong_Zhi Gong Zhi] + Rebel Force x2 Have your high INT generals cast Yan Re while having your physical attackers bring Jin Xuan &amp; Gong Zhi below 1,000 soldiers, afterward focus on Gong Zhi to remove the threats of his tactics and finish with Jin Xuan.</p>
+<ul>
+    <li>Rest up after the battle and at the Merchant sell Guan Yu&#39;s Spear as we&#39;ll be getting something for him.</li>
+    <li>The NPC&#39;s give mention of your next destination Chang Sha along with news of a general who maybe be a tiger general.</li>
+    <li>Check under the well next to the Provisions store to get a Bow which is a multi hitting weapon, while weaker than the Trident if both hits connect you&#39;ll deal more total damage, give this to Zhang Fei and pass the Trident to Guan Yu, those who came here second will want to give the Bow to anyone with a Sabre to upgrade them.</li>
+</ul>
+
+<p>image bow</p>
+<ul>
+    <li>When done leave and follow the road leading to Chang Sha, before going in pass your Power Pills from Zhang Fei to Guan Yu and if anyone had any spares give those to Zhang Fei since the Power Pill will only work on the first hit of a Bow.</li>
+</ul>
+
+<h3 id="heading-46">Chang Sha Castle</h3>
+<p><strong>Boss</strong> [https:<em>koei.fandom.com/wiki/Han_Xuan Han Xuan], [https:</em>koei.fandom.com/wiki/Huang_Zhong Huang Zhong], [https://koei.fandom.com/wiki/Wei_Yan Wei Yan], Yang Ling + Rebel Force Have your high INT generals use Yan Re while your Bow user does a normal attack on Wei Yan &amp; your Trident user uses a Power Pill on Huang Zhong to get them below 1,000 soldiers. The next turn use another Power Pill to take out Huang Zhong and focus on getting Han Xuan under 1,000 soldiers, then focus on Wei Yan then Han Xuan then Yang Ling.</p>
+<ul>
+    <li>When you enter Wei Yan &amp; Huang Zhong will want to join your party, if you came here first Huang Zhong can replace Liu Feng &amp; Wei Yan can replace Guan Ping.</li>
+    <li>Rest up at the Inn first then after crossing the bridge search under the well to get a Sword, you will want to give this to Zhang Fei, worry about inventory shuffling after we sell our gear. </li>
+</ul>
+
+<p>image 7-sword</p>
+<ul>
+    <li>The NPC&#39;s tell you that Gui Yang is next and don&#39;t trust [https://koei.fandom.com/wiki/Zhao_Fan Zhao Fan].</li>
+    <li>At the billet you can drop off the generals you don&#39;t need, if you came here second you will want to put Zhao Yun in and replace him with Wei Yan for now.</li>
+    <li>Below the billet there is a merchant where you can restock on Power Pills and sell your old gear you don&#39;t need. Go to the Armory and you should have enough (15,000) to upgrade your Caps to Wood H &amp; Padded to Ring M for everyone, doing so means you don&#39;t have to worry about the Yuan Shao side as you have better armor than what will be provided there. If you came here second buy the armors for your party.</li>
+    <li>After you&#39;ve made your purchases and rearranged your party we can start heading to Gui Yang, if this is your first time having someone with over 1,000 soldiers (Wei Yan) don&#39;t put them at the top of your party act like the 1 isn&#39;t there and place them according to that to keep their power. Wei Yan in this instance should be at the bottom if everyone has over 400, but less than 1,320 soldiers as there cap.</li>
+    <li>Head South and make your way to Gui Yang.</li>
+</ul>
+
+<h3 id="heading-47">Gui Yang Castle</h3>
+<ul>
+    <li>That may have felt too easy to just be let inside the castle with no resistance, you will notice every form of shop is blocked by an NPC and they all say the same thing...except for the guy near Zhao Fan, before talking to Zhao Fan check under the well outside to find another Sword, give this one to Huang Zhong.</li>
+</ul>
+
+<p>image 8-sword</p>
+<ul>
+    <li>Speak to Zhao Fan and he&#39;ll want to lead you to your sleeping quarters, <strong>do not pick Yes</strong> or you will start the battle with about 80% of your troops gone. Answer No twice to start the battle.</li>
+</ul>
+
+<p><strong>Boss</strong> Zhao Fan, Bao Long, [https://koei.fandom.com/wiki/Chen_Ying Chen Ying] + Rebel Force x2 Have your high INT generals use Yan Re and your physical attackers focus on Zhao Fan to get them all under 1,000 soldiers, afterward focus on taking them out from top to bottom with a caster keeping up with Yan Re if the Rebel Force is still around.</p>
+<ul>
+    <li>After the battle the NPC&#39;s will no longer be blocking the shops so go to the Historian and invite Liu Bei over.</li>
+    <li>One of the NPC&#39;s mentions our next destination Ling Ling, also to watch out for Xing Dao Rong ([https://koei.fandom.com/wiki/Xing_Daorong Xing Daorong]).</li>
+    <li>Leave Gui Yang and head West then North between the forest then West again to find Ling Ling surrounded by mountains with a gate in front of it.</li>
+</ul>
+
+<h3 id="heading-48">Ling Ling Castle</h3>
+<p><strong>Gate</strong> Xing Dao Rong, [https://koei.fandom.com/wiki/Liu_Yan_(Other) Liu Yan] + Rebel Force x3 Have your high INT generals use Yan Re and your physical attackers focus on Xing Dao Rong to get them all under 1,000 soldiers, afterward focus on Liu Yan with your strongest physical attackers while the others focus on Xing Dao Rong.</p>
+<ul>
+    <li>After the battle you can choose which of the three sides you want to attack the castle, the West &amp; East sides are close enough to allow Shui Lei to be used, which also means for them. The North side is recommended to lower your loses if you came here first.</li>
+</ul>
+
+<p><strong>Main Boss</strong> [https://koei.fandom.com/wiki/Liu_Du Liu Du], Xing Dao Rong + Rebel Force x2 Have your high INT generals use Yan Re and your physical attackers focus on Liu Du &amp; Xing Dao Rong to get them all under 1,000 soldiers, afterward focus on Liu Du with your strongest physical attackers while the others focus on Xing Dao Rong.</p>
+<ul>
+    <li>After the battle go along the outer wall to the West closely to enter a house, the NPC inside will tell you to check under him doing so gets you another Sword, pass it along to the next in line which should be Guan Yu if you went here first and have my party (Zhang Fei, Guan Yu, Huang Zhong, Ji Ling, Wei Yan &amp; ☆Li Ru).</li>
+    <li>Sell your extra weapons at the Merchant and if you used any Power Pills you can restock here.</li>
+    <li>The NPC&#39;s are all happy that the infighting is settled with, talking to the NPC above the Merchant shop which will now cause [https://koei.fandom.com/wiki/Pang_Tong Pang Tong] to be encountered in a random battle within Jing Zhou.</li>
+    <li>For a quick trip to Gui Yang save your game at the Historian and then reset your game and choose the save file to be in front of Liu Bei at Gui Yang <strong>don&#39;t talk to him yet</strong> though and leave to find Pang Tong in a battle outside.</li>
+</ul>
+
+<p><strong>Random Boss</strong> Pang Tong + Rebel Force x3 If you came to this route first expect someone to possibly die as Pang Tong has very powerful tactics that can deal close to 1400 damage, however he is very slow so you should hopefully defeat him before he gets a turn. If you came here first you will want everyone to pop a Power Pill on him and hope to kill him before he nukes someone. If you came here second you should have Ji Rou which you absolutely want to use so that everyone can survive his tactics and have your high INT generals use Yan Re to get rid of the Rebel Forces.</p>
+<ul>
+    <li>Pang Tong will join you after the battle and you will want him to be your tactician for the moment as we get our next one.</li>
+    <li>If you came here first Liu Bei will tell you to deal with Yuan Shao to continue so head back North to Chang Sha and buy a Gullwing to teleport back to Nan Yang. If you came here second however speak with Liu Bei and he&#39;ll say a letter from Xu Zhe&#39;s mother arrived and he&#39;ll immediately leave the party to tend to her.</li>
+    <li>Before he goes back he&#39;ll tell you how to reach Zhu Ge Liang&#39;s house even though we&#39;ve seen it a couple times and wants you to make him another supporter.</li>
+    <li>Head North back to Chang Sha and buy about 5 Gullwings then head for Zhu Ge Liang&#39;s house, on the way back talk to Ma Su &amp; Ma Liang to have them join the party, Ma Su is definitely useful as we can use him later to get over the glitch that can happen if you have a tactician in the 7th slot for certain levels.</li>
+    <li>When you arrive at Zhu Ge Liang&#39;s house his brother will be there to tell you that he went to Luo Song Village, so use a Gullwing to Xu Shou and head East to get to Luo Song. At Luo Song enter the house near where Song Ren &amp; Song Yong were when we recruited them at the start of the game, the old man inside informs us that Zhu Ge Liang was here, but already left. Use a Gullwing to Nan Yang and head back to Zhu Ge Liang&#39;s house.</li>
+    <li>At Zhu Ge Liang&#39;s house his brother will say that he left again and that you should wait for him at Nan Yang, use a Gullwing to Nan Yang.</li>
+    <li>At Nan Yang invite Liu Bei from the Historian and speak with Liu Bei who mentions that Jin the brother came by and you should go back to Zhu Ge Liang&#39;s house again.</li>
+    <li>Zhu Ge Liang will be in his bed sleeping, you are not told about this next part so talk to him and choose No on waking him up and don&#39;t press another button yet until the text box moves automatically and he&#39;ll join you after he deals with things at Gui Yang, the closest we have is Chang Sha so Gullwing there and billet someone to make room for him if you need to then head South to Gui Yang.</li>
+    <li>At Gui Yang Liu Bei will tell you to talk to Zhu Ge Liang and he&#39;ll inform you of our next task for the region of Shu as well as finally joining our party.</li>
+</ul>
+
+<h1 id="heading-49">Ch. 6 Claiming the lands of Shu</h1>
+<p>You should have learned the following tactics during the above scenario&#39;s.</p>
+<ul>
+    <li>At Lv 15 you should learn Shui Lei which is a water tactic, unfortunately it can only be used if there is a source of water within 4 spaces of the battle, it does deal 160-280 damage to all generals. It is stronger than Yan Re, but has limited use due to not many battles being near water. It will also replace Shui Xing.</li>
+    <li>At Lv 16 you should learn Yin Xian which is a healing tactic, it can restore up to 1,200 soldiers to all members in the party. It will also replace Tong Xian.</li>
+    <li>At Lv 17 you should learn Ji Rou which is a special tactic, it will reduce all damage by half for the party. It will replace Shui Jian.</li>
+    <li>At Lv 18 if you had Pang Tong or Zhu Ge Liang as your tactician you will learn Bei Ji which is a special tactic that doubles all the damage from the general it&#39;s used on, even if you don&#39;t get them in time you will still be able to use this, but not get the extra MTP. It will go over Qi Shou while they are the tactician.</li>
+    <li>At Lv 19 you should learn Yi Xin which is a special tactic, if it connects the general it was used on will distrust their allies doing nothing on their turn. It will replace Jie Ce.</li>
+    <li>If you finished Jing Zhou second your party is likely Zhang Fei, Guan Yu, Wen Hun, Yan Liang, Wei Yan, ☆Zhu Ge Liang.</li>
+    <li>If you did Jing Zhou first like I did you party is likely Zhang Fei, Guan Yu, Huang Zhong, Zhao Yun, Wei Yan, ☆Zhu Ge Liang.</li>
+</ul>
+
+<p>Before heading into Shu proper there is one final showdown with someone we must do, you should be pretty close to level 20 which if you are this is one of two instances where it&#39;s okay to place your tactician (☆Zhu Ge Liang) in the 7th slot while we place someone else (Ma Su) in the 6th to learn a tactic without triggering the chest bug.</p>
+<ul>
+    <li>Head to Ling Ling from Chang Sha and we can now head into Shu territory, after crossing the bridge stay along the top set of tiles and move back and forth until you encounter...</li>
+</ul>
+
+<p><strong>Boss</strong> Lu Bu + Rebel Force x4 Have your physical attackers cast Bei Ji on themselves while a spare general casts Ji Rou just incase &amp; have your highest INT general cast Yi Xin on Lu Bu to paralyze him. The following turns have your physical attacks go for Lu Bu while your high INT generals cast Yan Re. Continue the strategy until only Lu Bu is left and focus all your attacks on him.</p>
+<p>After the battle Lu Bu regrets his life of betrayal and will finally die, if you did this before finishing up the Yuan Shao path you can still fight Lu Bu there since this is considered to be a &quot;different&quot; Lu Bu. From this battle you should learn Li Jian for Ma Su, but not Zhu Ge Liang. This is a special tactic which causes the general it is used on to attack his allies.</p>
+<ul>
+    <li>Use a Gullwing back to Chang Sha to rest up and also billet Ma Su to save him for later for when we have to learn another tactic that Zhu Ge Liang can&#39;t learn and bring in your tiger generals into the party while removing the others except Wei Yan and fire whoever you can then rearrange your equipment and party.</li>
+    <li>You will also want to stock up on Elixir C&#39;s, which heals 1,000 soldiers, and fill out Zhu Ge Liang&#39;s inventory as we have a long trek ahead to save on TP, then head back to where we fought Lu Bu to continue. If you want you can recruit generals to make the trek easier as we have more than enough money for anything to buy.</li>
+    <li>Follow the path South and East into through the forest, when you cross the next bridge you&#39;ll have the options to go East or West, pick West since they both converge in the same spot, the upcoming house has an NPC telling us that rebels are causing chaos and they want us to suppress them.</li>
+    <li>Head West past the house and follow the path South eventually leading to a gate.</li>
+</ul>
+
+<h2 id="heading-50">Liu Kui&#39;s Fortress</h2>
+<p><strong>Boss</strong> Liu Kui ([https:<em>the3kingdoms.fandom.com/wiki/Liu_Gui Liu Qui]), **[https:</em>koei.fandom.com/wiki/Zhang_Ren Zhang Ren]** + Rebel Force x2 Have Wei Yan cast Ji Rou and everyone focus on Zhang Ren, when Zhang Ren is under 1,000 soldiers have you can being focusing on Liu Kui while taking out Zhang Ren. Continue until you win.</p>
+<ul>
+    <li>In the fortress the only NPC in the middle tent mentions Liu Zheng ([https://koei.fandom.com/wiki/Liu_Zhang Liu Zhang]) was captured and taken to Fu Shui Castle.</li>
+    <li>Leave and head North crossing a bridge followed by some zig zagging forests so you&#39;ll want to conserve your TP if you can unless multiple generals need healing.</li>
+    <li>Along the way you should learn Hong Shui which is a water tactic, unfortunately it can only be used if there is a source of water within 4 spaces of the battle, it does deal 1,000-2,800 damage to all generals. It is stronger than Yan Re, but has limited use due to not many battles being near water. It will also replace Shui Lei.</li>
+    <li>At the eventual end of the zig zagging there is a choice to go North or South, heading South and curve around the mountain to find a house with a Blacksmith who wants an iron from Mt. Gang Tai to make powerful weapons.</li>
+    <li>Back at the choice heading North gets you to...</li>
+</ul>
+
+<h2 id="heading-51">Fu Shui Castle</h2>
+<p><strong>Gate #1</strong> [https://koei.fandom.com/wiki/Meng_Da Meng Da], Tao Qian + Rebel Force x2 Have everyone go after Meng Da first while having someone cast Ji Rou to reduce the damage you&#39;ll take. Then continue to take them out from top to bottom.</p>
+<p>After this battle you should learn Da Re which is a fire tactic, it can deal around 1,000-2,500 damage to one general, it will also replace Yan Re.</p>
+<p><strong>Boss</strong> [https:<em>koei.fandom.com/wiki/Yan_Yan Yan Yan], [https:</em>koei.fandom.com/wiki/Fa_Zheng Fa Zheng], [https://koei.fandom.com/wiki/Yang_Huai Yang Huai] + Rebel Force If you are using Zhang Fei, Guan Yu &amp; Zhao Yun have them cast Bei Ji on themselves with a spare officer casting Ji Rou and use Power Pills on Yan Yan. Continue using Power Pills on Fa Zheng after Yan Yan falls and then Yang Huai, if multiple officers fall under 1,000 soldiers consider using Yin Xian to heal them back up.</p>
+<ul>
+    <li>In the town rest at the Inn, at the Merchant sell all your Wood H&#39;s as we&#39;ll upgrade them at the Armory. Also sell the Bows for anyone who is still using them.</li>
+    <li>At the Armory buy Swords for those who had Bows and buy Copper H&#39;s to replace the Wood H&#39;s we were using, then go back to the Merchant to restock on Power Pills.</li>
+    <li>At the palace you&#39;ll notice that no one is on the throne and at the same time that there&#39;s a path to the East of it where Liu Zheng is being held prisoner, he mentions the bars being old and that you should ram it to break it. You&#39;re not told, but mash up at the bars to eventually break them and speak with Liu Zheng again.</li>
+    <li>After leaving Fu Shui head North to the next bridge and cross it, pick whichever path you want around the mountains then head West after the paths converge to get to Luo.</li>
+</ul>
+
+<h2 id="heading-52">Luo Castle</h2>
+<p><strong>Gate #1</strong> [https:<em>koei.fandom.com/wiki/Huang_Quan_(Shu) Huang Quan], [https:</em>koei.fandom.com/wiki/Leng_Bao Leng Bao] + Rebel Force x3 Focus your attacks on Leng Bao while having someone cast Ji Rou and your highest INT general cast Hong Shui. Finish off anyone that&#39;s still left after that.</p>
+<p>After this battle you should learn Wan Fu which is a healing tactic, it will heal a general to full no matter how many soldiers they have, it will also replace Yin Xian.</p>
+<p><strong>Boss</strong> [https:<em>koei.fandom.com/wiki/Ma_Chao Ma Chao], [https:</em>koei.fandom.com/wiki/Ma_Dai Ma Dai], [https://koei.fandom.com/wiki/Pang_De Pang De] + Rebel Force Have everyone cast Bei Ji on themselves with a spare officer casting Ji Rou incase Pang De casts Ji Mian which will block physical attacks. If Ji Mian wasn&#39;t cast or fell off when it was use Power Pills on Pang De to get rid of him asap and have your highest INT general use Da Re on Ma Chao. If Ji Mian didn&#39;t wear off defend with everyone while the highest INT general works on getting rid of Ma Chao, when Pang De is gone go from top to bottom while using Power Pills. After the battle Ma Chao will ask if you&#39;ll let him join, say Yes and he and Ma Dai will be part of your army, if you say No he will not join and you can never get him again. Ma Chao makes a good replacement for Zhang Fei and Ma Dai will be good to take Wei Yan&#39;s slot if you&#39;re using him.</p>
+<ul>
+    <li>When inside rest up at the Inn and sell Zhang Fei&#39;s Sword as we&#39;ll find an upgrade soon and restock on Elixir C&#39;s on Zhu Ge Liang, but make sure to also get 1 Gillwing.</li>
+    <li>Above the second if you search you&#39;ll get a Battleax which is a little stronger than the Sword, pass this and everything on Zhang Fei to Ma Chao.</li>
+    <li>Billet Wei Yan and bring Ma Dai into the party so he has all of Wei Yan&#39;s equipment, then rearrange your party leaving Zhang Fei in slot 7.</li>
+</ul>
+
+<p>image battleax</p>
+<ul>
+    <li>If you remember at Ji Zhou I mentioned an NPC who will give you a free level up, if you are Lv 23 this would be the best time to use his service as due to a programming error the devs made the amount of exp needed for Lv 24 much higher than it should be, enough that 25-27 take as much as it would. If you choose to take this service take 1 step outside of Ji Zhou from above the Merchant&#39;s shop and hug the wall to the North and follow it until you reach the lone house.</li>
+</ul>
+
+<p>Doing this will get you the Ji Mian tactic which is a special tactic, just like with enemies using it will cause Physical attack to fail outright. It has a 3/8 chance of wearing off each round, it will replace Fu Bing.</p>
+<ul>
+    <li>If you choose to not take his service (like I am, but will pretend like I did) use your Gullwing to warp to Ji Zhou and restock on Power Pills while also getting 4 Gullwings, then Gullwing back to Luo.</li>
+    <li>At Lou follow the path South until you see a cave and enter it.</li>
+</ul>
+
+<h2 id="heading-53">Mt. Gang Tai</h2>
+<p>image map</p>
+<ul>
+    <li>The main goal is to find the Iron Ore to give to the Blacksmith we met earlier, also if you don&#39;t have Zhang Ren yet try to get him here even if you have to recruit other generals to increase the chance of getting him specifically since you want him before the end of the chapter.</li>
+    <li>After you collect the Ore use a Gullwing to Luo to leave the cave.</li>
+    <li>Head back to the blacksmith East from Fu Shui castle to give him the Iron Ore to get him started on making weapons for us, it will take him awhile to make them so we&#39;ll continue on by heading back to Luo and resting up there.</li>
+    <li>Make your way back through Mt. Gang Tai and take the secondary entrance to appear on the other side of the cave and of the overworld go South and follow the path crossing a bridge to reach the next fort.</li>
+</ul>
+
+<h2 id="heading-54">Mian Zhu Guan</h2>
+<p><strong>Boss</strong> [https://koei.fandom.com/wiki/Li_Yan Li Yan], Liu Ba, Liu Xun + Rebel Force Focus your physical attacks on Liu Ba, then Liu Xun and finally Li Yan.</p>
+<p>After this battle you should learn Tui Lu which is a special tactic, if successful you&#39;ll retreat from the battle. It replaces Yi Xin.</p>
+<ul>
+    <li>Inside the fortress in the tent on the East it has a treasure with a Battleax, give this on to Guan Yu.</li>
+    <li>Leave Mian Zhu and head North then East until you reach...</li>
+</ul>
+
+<h2 id="heading-55">Cheng Du Castle</h2>
+<p><strong>Gate #1</strong> [https:<em>koei.fandom.com/wiki/Lei_Tong Lei Tong], [https:</em>koei.fandom.com/wiki/Wu_Lan Wu Lan] + Rebel Force x3 Have Ma Dai cast Ji Mian to attempt to block their physical attacks if you have it and have everyone focus on Lei Tong first, don&#39;t recast Ji Mian and go from top to bottom in order of who to attack.</p>
+<p><strong>Boss</strong> Liu Zheng, [https:<em>koei.fandom.com/wiki/Gao_Pei Gao Pei], [https:</em>koei.fandom.com/wiki/Wu_Yi Wu Yi], [https://koeifanon.fandom.com/wiki/Wang_Lei Wang Lei] + Rebel Force Have Ma Dai cast Ji Mian to attempt to block their physical attacks if you have it and have everyone else use Bei Ji on themselves, in the next round have Ma Dai cast Bei Ji on himself and everyone else use a Power Pill on Gao Pei &amp; Wu Yi to get them out of the picture. Have your Battleax users use a Power Pill on Liu Zheng and the rest use a Power Pill on Wang Lei.</p>
+<ul>
+    <li>After the battle use the Inn to rest up and at the Merchant buy 5 Gullwings and sell all Swords and Ring M&#39;s you have on you.</li>
+    <li>Search the tree next to the entrance on the East side to get a Scimitar and give this to Ma Chao.</li>
+</ul>
+
+<p>image scimitar</p>
+<ul>
+    <li>At the Armor buy Battleax&#39;s for those who don&#39;t have one and buy 5 Chain M&#39;s for your party, personally I buy 6 at this point for later switching, but it&#39;s up to you.</li>
+    <li>Invite Liu Bei to Cheng Du and talk to him at the palace, he&#39;ll mention the Blacksmith from earlier has some swords to tell you about, if you didn&#39;t get the Iron Ore for him from Mt. Gang Tai you&#39;ll have to do that now. Otherwise Gullwing to Luo and make your way to Fu Shui.</li>
+    <li>When you reach Fu Shui restock on Power Pills and leave and head East to the Blacksmith. When you talk to the Blacksmith he&#39;ll mention the 5 beautiful swords he made and says they were stolen by bandits from the...Yellow Scarves...</li>
+</ul>
+
+<p>You should be at or close to Lv 26 which if you aren&#39;t you may want to grind a bit, but at Lv 25 you will learn the tactic Gui Huan which is a special tactic that will have you retreat from battle and be teleported to where Liu Bei is residing in, this replaces Tui Lu which we learned the level before.</p>
+<ul>
+    <li>Either Gullwing to Cheng Du or save and reload your save to be in front of Liu Bei, talking with Liu Bei will have him promote Guan Yu &amp; Zhang Fei to governor&#39;s in a but thou must question.</li>
+</ul>
+
+<h1 id="heading-56">Ch. 7 Wu&#39;s Treachery</h1>
+<ul>
+    <li>The next scene after has messengers run in reporting Cao Cao &amp; Sun Ce have both died and that Guan Yu &amp; Zhang Fei are under attack.</li>
+    <li>Before you go and this is important get Zhang Ren from the billet to replace Guan Yu and then Ma Su to place in the 6th slot as this is the second and last time you can learn a tactic and not worry about the chest bug, also so 2 certain characters won&#39;t be forced into your party as they&#39;ll be liabilities later. If you aren&#39;t Lv 26 pick anyone else that has more STR than INT and place them 7th.</li>
+    <li>After rearranging your party use a Gullwing to Chang Sha and talk to Guan Yu in the palace he will tell you his son [https://koei.fandom.com/wiki/Guan_Xing Guan Xing] will join you and that Zhang Fei has some intel on Wu, if your party was a full 7 members Guan Xing will be in the billet since like his father you can&#39;t manually put him there and he&#39;ll forcefully be in your party if you take him out.</li>
+    <li>Leave Chang Sha and head South to Gui Yang and speak with Zhang Fei at the palace who tells you his son [https:<em>koei.fandom.com/wiki/Zhang_Bao_(Shu) Zhang Bao] wants to join as well, also that [https:</em>koei.fandom.com/wiki/Sun_Quan Sun Quan] &amp; [https://koei.fandom.com/wiki/Cao_Pi Cao Pi] call themselves Emperor&#39;s. The bit about Liu Bei wanting you you can ignore as he doesn&#39;t have anything new to say.</li>
+</ul>
+
+<p>The rest of the guide assumes you followed with this and don&#39;t have either of the sons in your party since you&#39;ll want higher INT officers in the late portion of the game.</p>
+<ul>
+    <li>Use a Gullwing to Nan Yang, if you have less than 2 Steed&#39;s you can restock here. Then make your way to Wu Ling.</li>
+</ul>
+
+<p><strong>Boss</strong> Fan Zhang ([https://the3kingdoms.fandom.com/wiki/Pan_Zhang Pan Zhang]), Chen Wu + Rebel Force x3 If you attack from the North, West or East you&#39;ll have access to water tactics, if from the South you won&#39;t. Have Zhang Ren cast Ji Mian and everyone else cast Bei Ji on themselves, then have everyone focus on Fan Zhang and have Zhao Yun cast Hong Shui if you have access to it then clean up after.</p>
+<ul>
+    <li>After the battle rest up at Wu Ling&#39;s Inn then use a Gullwing to Chang sha and make your way to Ling Ling.</li>
+</ul>
+
+<p><strong>Boss</strong> [https://koei.fandom.com/wiki/Ling_Tong Ling Tong], Wu Fan + Rebel Force x2 If you attack from the South, West or East you&#39;ll have access to water tactics, if from the North you won&#39;t. Have everyone cast Bei Ji on themselves, then have everyone focus on Wu Fan and have Zhao Yun cast Hong Shui if you have access to it then clean up after.</p>
+<ul>
+    <li>After the battle save at the Historian and then reset and reload your save so that you&#39;re in front of Liu Bei, speaking with him will have a lengthy conversation happen in which he like the other two leaders will name himself Emperor. Leaving and coming back will have him tell you to attack Wu first, but not how to get there.</li>
+    <li>Use a Gullwing to Chang Sha and rest at the Inn and stock up on 2 Gullwings if you need to before setting off to Gui Yang.</li>
+    <li>At Gui Yang there will be a bridge that wasn&#39;t there before so cross it and head West, if you go all the way West you will see a cave that we&#39;ll explore later so go South from there to reach our first castle.</li>
+</ul>
+
+<h2 id="heading-57">Jian An Castle</h2>
+<p><strong>Boss</strong> <strong>[https://koei.fandom.com/wiki/Gan_Ning Gan Ning]</strong>, [https://koei.fandom.com/wiki/Lu_Su Lu Su] + Rebel Force x3 Have Zhang Ren cast Ji Mian and everyone else Bei Ji on themselves, if the enemies Ji Mian fell off or wasn&#39;t used have your physical fighters use Power Pills on Lu Su, if it is up have your high INT generals cast Da Re on Gan Ning while the rest defend. Continue until you win. After this battle you should learn An Sha from Ma Su which is a special tactic, it will instantly kill an officer it is used on. It has a secondary accuracy check based on the users INT divided by 256 in addition to the normal check. You will also want to move Ma Su to the 7th slot now.</p>
+<ul>
+    <li>Inside the town you will want to rest up at the Inn and there is an old man who will want us to get Saltpeter and a Dead Wood to clog the canal allowing us to move forward.</li>
+    <li>At the Merchant sell Zhao Yun&#39;s Battleax as we&#39;ll be getting an upgrade for him.</li>
+    <li>Check above the lone tree behind the house in the Northwest to get a Scimitar to give to Zhao Yun, check below that same tree to get some Dead Wood.</li>
+</ul>
+
+<p>image scimitar image dead wood</p>
+<ul>
+    <li>Afterward head to the cave I told you to ignore earlier.</li>
+</ul>
+
+<h2 id="heading-58">Mt. Po Yong</h2>
+<p>image map</p>
+<ul>
+    <li>The main goal is to get the Saltpeter, if you happen to run into Gan Ning or Lu Su try to recruit them. Gan Ning to replace Zhang Ren, Lu Su to get rid of him to run into less Ji Mian using generals. From here on you don&#39;t want to recruit every general you can and only look for generals that have Ji Mian as they make battle needlessly difficult.</li>
+    <li>While inside you should learn Jin Xian which is the ultimate healing tactic, it will heal all members for between 4,000 to 7,000 soldiers, it is also likely due to a programming error stupidly cheap to cast at only 4 TP, it will replace Wan Fu.</li>
+    <li>Gullwing to Ji Zhou restock on Power Pills and get 2 Gullwings, also billet Zhang Ren and bring Gan Ning in his place. You can also if you want is to replace Ma Su with Ma Liang for slightly higher MTP when An Sha is needed.</li>
+    <li>Gullwing back to Jian An and speak to the second old man so he can mix the Saltpeter &amp; Dead Wood to blow up the canal, then stock up on Elixir D&#39;s which heal 4,500 soldiers.</li>
+    <li>Head South from Jian An until you reach a gate, swap Zhu Ge Liang with Gan Ning and make Ma Su/Liang you tactician to make use of An Sha. Also give Zhu Ge Liang Chi Tu Ma so he can act first before the enemy team. </li>
+</ul>
+
+<h2 id="heading-59">Hui Ji Fortress</h2>
+<p><strong>Boss</strong> <strong>[https://koei.fandom.com/wiki/Zhou_Yu Zhou Yu]</strong>, [https:<em>koei.fandom.com/wiki/Gu_Yong Gu Yong], [https:</em>koei.fandom.com/wiki/Kan_Ze Kan Ze] + Rebel Force Zhou Yu can be very deadly having Ji Mian to block physical attacks, An Sha to instantly kill a general and Wan Fu to full heal himself. Have your physical attacks go after Zhou Yu without Power Pills incase he uses Ji Mian with Zhao Yun casting Hong Shui &amp; Zhu Ge Liang using An Sha on Kan Ze then Gu Yong. If Zhou Yu didn&#39;t use Ji Mian or it wore off have your physical attackers use a Power Pill to hopefully finish him before he uses Wan Fu.</p>
+<ul>
+    <li>After the battle the tent closest to the entrance has a Scimitar hidden in the third jar on the top row. You can give this to Huang Zhong and for the sake of not needing to constantly switch weapons give the Battle Ax to Zhu Ge Liang to equip.</li>
+</ul>
+
+<p>image Scimitar</p>
+<ul>
+    <li>Use a Gullwing to Ji Zhou to rest up and restock on Power Pills, then Gullwing back to Jian An to get 2 more Gullwings and try to get Zhou Yu by using the hills after Hui Ji to encounter him.</li>
+    <li>While searching for him you should learn Shui Long which is a water tactic, unfortunately it can only be used if there is a source of water within 4 spaces of the battle, it does deal 2,000-5,500 damage to all generals. It is the strongest tactic, but has limited use due to not many battles being near water. It will also replace Hong Shui.</li>
+    <li>If you have less than 2 Steeds Gullwing to Nan Yang to get back up to 2 and rest at the Inn then billet Ma Su/Liang and bring in Zhou Yu.</li>
+    <li>Gullwing to Ji Zhou to restock on Power Pills and buy 3 Gullwings so you can use 1 to port back to Jian An then make your way back to Hui Ji and travel East and follow the massive zigzags to reach Wu Castle, pass Chi Tu Ma to Zhu Ge Liang and equipment from Gan Ning while making Zhou Yu the tactician before heading to battle.</li>
+</ul>
+
+<h2 id="heading-60">Wu Castle</h2>
+<p><strong>Boss</strong> <strong>Zhu Ge Jin</strong> ([https:<em>koei.fandom.com/wiki/Zhuge_Jin Zhuge Jin]), Jang Qin ([https:</em>koei.fandom.com/wiki/Jiang_Qin Jiang Qin]), [https://koei.fandom.com/wiki/Han_Dang Han Dang] + Rebel Force x2 Have someone cast Ji Mian while Zhao Yun casts An Sha on Jang Qin and Zhu Ge Liang cast An Sha on Zhu Ge Jin, the physical attackers should focus on the Rebel Forces. Also cast An Sha on Han Dang with whoever is ready to do so, if any An Sha&#39;s aren&#39;t landing use Power Pills if Ji Mian wasn&#39;t put up on their side.</p>
+<p>You should learn Huo Shen which is a fire tactic, it can deal around 1,500-4,500 damage to all generals, it will also replace Da Re.</p>
+<ul>
+    <li>Inside Wu rest up at the Inn, to the right of the Inn entrance search for a Splint M which should go to Zhao Yun.</li>
+</ul>
+
+<p>image SplintM</p>
+<ul>
+    <li>To the right of the well search for a Crossbow which you&#39;ll want to give to Ma Chao and pass his Scimitar to Ma Dai.</li>
+</ul>
+
+<p>image Crossbow</p>
+<ul>
+    <li>Head North from Wu and follow the path East until you see a split in the path and go South to find a cave.</li>
+</ul>
+
+<h2 id="heading-61">Wu Cave</h2>
+<p>image map</p>
+<ul>
+    <li>There isn&#39;t much treasure here, but you will want the Steel H as it is the best helmet in the game and to get one of the five legendary swords the blacksmith made Nu Long which should go to Ma Chao.</li>
+    <li>While inside you should learn Ce Mian which is a special tactic, like Ji Mian this will neutralize enemy tactics, this replaces Ji Mian and is the final tactic in the game so you no longer have to worry about the chest bug.</li>
+    <li>On the outside head East to cross the bridge then follow the long path North reaching the next fortress. You will want Zhu Ge Liang to be part of the battle party with Zhou Yu as the tactician to use An Sha.</li>
+</ul>
+
+<h2 id="heading-62">Po Yang Fortress</h2>
+<p><strong>Gate #1</strong> [https://koei.fandom.com/wiki/Ding_Feng Ding Feng] + Rebel Force x3 Have Zhu Ge Liang cast An Sha on Ding Feng while the rest take care of the Rebel Forces.</p>
+<p>Switch back to have Zhu Ge Liang as the tactician. <strong>Boss</strong> Chen Pu ([https:<em>koei.fandom.com/wiki/Cheng_Pu Cheng Pu]), **[https:</em>koei.fandom.com/wiki/Zhang_Zhao Zhang Zhao]**, Bu Xi ([https://koei.fandom.com/wiki/Bu_Zhi Bu Zhi]) Have everyone but Zhao Yun cast Bei Ji on themselves with Zhao Yun casting Ce Mian to block off their tactic use with someone casting Bei Ji on Zhao Yun. Regardless if Ce Mian stays up or not have Zhao Yun cast Huo Shen while the rest use Power Pills on Chen Pu first, then switch to Zhang Zhao and finally Bu Xi.</p>
+<ul>
+    <li>After the battle the center tent will offer you a spot to rest which you should use, after you do so leave and head North and East around the mountains going South to reach the next castle. Switch around your order so Zhu Ge Liang is part of the party with Zhou Yu as the tactician, also if you have spare Power Pills you will want Ma Chao to hold them.</li>
+</ul>
+
+<h2 id="heading-63">Jin Du Castle</h2>
+<p><strong>Gate #1</strong> [https://koei.fandom.com/wiki/Huang_Gai Huang Gai] + Rebel Force x2 Have Zhu Ge Liang cast An Sha on Huang Gai while the rest attack the Rebel Forces.</p>
+<p><strong>Boss</strong> Sun Yu, <strong>[https://koei.fandom.com/wiki/Zhang_Hong Zhang Hong]</strong>, [https://koei.fandom.com/wiki/Zhu_Zhi Zhu Zhi] + Rebel Force Have Zhao Yun cast An Sha on Zhu Zhi with Zhu Ge Liang casting it on Sun Yu, have Ma Chao use a Power Pill on Zhang Hong with the rest attacking the Rebel Force. When those are down have Zhao Yun and Zhu Ge Liang try to take down Zhang Hong with An Sha if Ji Mian was used.</p>
+<ul>
+    <li>After the battle rest up at the Inn, at the Merchant sell your remaining Battleax as well as two Scimitar&#39;s and everyone&#39;s Copper H since we&#39;ll be getting upgrades here. Make sure not to talk to the NPC in the middle of town yet.</li>
+    <li>At the Armory behind that NPC buy three Crossbow&#39;s to replace the Scimitar&#39;s and Battleax, then get Bronze H&#39;s for everyone except Zhao Yun to replace the Copper H&#39;s.</li>
+    <li>Use a Gullwing to Ji Zhou to restock on Power Pills then buy another two Gullwings before using another one to get back to Jin Du.</li>
+    <li>Back at Jin Du with Zhu Ge Liang in the active party speak to the NPC in the middle of town.</li>
+</ul>
+
+<p><strong>Boss</strong> [https://koei.fandom.com/wiki/Lu_Meng Lu Meng] + Rebel Force x3 Have Zhu Ge Liang cast An Sha on Lu Meng until is lands while the rest go after the Rebel Forces, if Ji Mian was used cast Huo Shen if it&#39;s still up on the Rebel Forces.</p>
+<ul>
+    <li>The first NPC above him will mention about a pack of Brigands they want you to take care of. You don&#39;t need to talk to the NPC really, but this let&#39;s you know to head to the South after exiting which you should do to find them. Also take Zhu Ge Liang out of the battle party and make him the tactician again.</li>
+    <li>You will eventually see a house which you should enter and make Zhu Ge Liang part of the active party before talking to the NPC.</li>
+</ul>
+
+<p><strong>Boss</strong> Pirate x5 Have everyone cast Huo Shen until you run out of TP or they die whichever comes first.</p>
+<ul>
+    <li>After the battle Gullwing to Ji Zhou to rest and sell a Scimitar while also buying 3 Gullwings then port back to Jin Du and talk to the NPC that wanted us to defeat the Brigands to get Qing Long which is another legendary sword that was crafted for us and is equally as strong as Nu Long, this one goes to Zhao Yun while you pass his Crossbow to whoever&#39;s Scimitar was sold.</li>
+    <li>For our next destination head South then East into the spiral mountains, when they all converge together head to the South then East hugging the Southern side of the mountains until you reach some gates. Bring Zhu Ge Liang into the party with Zhou Yu as the tactician.</li>
+</ul>
+
+<h2 id="heading-64">Jian Ye Castle</h2>
+<p><strong>Gate #1</strong> [https://koei.fandom.com/wiki/Sun_Yi Sun Yi] + Rebel Force x4 Have Zhu Ge Liang cast An Sha on Sun Yi while the rest go after the Rebel Forces.</p>
+<p><strong>Gate #2</strong> [https://koei.fandom.com/wiki/Zhou_Tai Zhou Tai], Xue Zong + Rebel Force x2 Have Zhao Yun use An Sha on Zhou Tai &amp; Zhu Ge Liang use it on Xue Zong, the rest go after the Rebel Forces.</p>
+<p><strong>Boss #3</strong> [https:<em>koei.fandom.com/wiki/Sun_Huan Sun Huan], [https:</em>koei.fandom.com/wiki/Xu_Sheng Xu Sheng], Lu Ji + Rebel Force x2 Have Zhao Yun cast An Sha on Sun Huan &amp; Zhu Ge Liang use it on Lu Ji, the rest go after the Rebel Forces. With Xu Sheng alone have Zhao Yun &amp; Zhu Ge Liang cast An Sha on him.</p>
+<ul>
+    <li>Gullwing back to Jin Du to rest up then make your way back here while having Zhu Ge Liang as the tactician.</li>
+</ul>
+
+<p><strong>Chapter Finale</strong> <strong>Tai Si Ci</strong> ([https:<em>koei.fandom.com/wiki/Taishi_Ci Taishi Ci]), <strong>Lu Sun</strong> ([https:</em>koei.fandom.com/wiki/Lu_Xun Lu Xun]) + Rebel Force x3 Have Zhao Yun cast Huo Shen while everyone casts Bei Ji on themselves, but have Gan Ning cast his on Zhao Yun. If Ji Mian was used and fell down have Zhao Yun &amp; Ma Chao go after Tai Si Ci to bring him under 10,000 soldiers while the rest do the same for Lu Sun. Have everyone concentrate on Lu Sun, but wait for him to be under 6,000 before using Power Pills on him to prevent his Wan Fu use, then go after Tai Si Ci. Try not to use too much TP and keep your soldier count high because...</p>
+<p><strong>Part 2</strong> Sun Quan + Rebel Force x4 You will not get a break to heal when you finish the previous battle, Sun Quan is one of three officers who have An Sha immunity so if you thought that would work against him it wasn&#39;t. Like previous part have Zhao Yun cast Huo Shen while everyone casts Bei Ji on themselves, but have Gan Ning cast his on Zhao Yun. When Ji Mian drops, if it was used, unleash your Power Pills against him.</p>
+<h1 id="heading-65">Ch. 8 Assault on Wei</h1>
+<ul>
+    <li>Inside rest up and buy 5 Elixir D&#39;s to put in Zhou Yu&#39;s inventory and buy another Gullwing for Zhu Ge Liang, also buy some resurrects to prepare for the area. While you&#39;re at is sell all the Chain M&#39;s &amp; Bronze H&#39;s to upgrade them.</li>
+    <li>At the Armory buy Splint M &amp; Iron H&#39;s for everyone except Zhao Yun as his helmet is better.</li>
+    <li>At the Historian invite Liu Bei so that this will be your new checkpoint and talk with him.</li>
+    <li>Before continuing to the next area you will want to get the generals Tai Si Ci &amp; Lu Sun to replace Ma Chao &amp; Huang Zhong respectively so Gullwing to Jin Du and walk around the hills until you get these two.</li>
+    <li>After getting these generals Gullwing to Ji Zhou to rest up then buy Power Pills if you used any and 3 Gullwings using one to port back to Jian Ye and rearrange your party and equipment to meet the following.</li>
+    <li>You will want characters whose INT is higher than 167 to lessen the risk for An Sha&#39;s landing, Tai Si Ci&#39;s STR &amp; soldier count make up for his lower INT. Another thing to note is that during this chapter any generals you defeat at their post will not be available for recruiting until after the chapter is over.</li>
+</ul>
+
+<p>The party I have is Tai Si Ci, Zhao Yun, ☆Zhu Ge Liang, Lu Sun, Gan Ning, Ma Dai, Zhou Yu.</p>
+<ul>
+    <li>At Jin Du head East and follow the path South hugging the Northern wall eventually finding a gate, you will want Zhu Ge Lian in the active party with Zhou Yu as the tactician.</li>
+</ul>
+
+<h2 id="heading-66">Guang Ling</h2>
+<p><strong>Gate</strong> Xia Hou Yuan ([https://koei.fandom.com/wiki/Xiahou_Yuan Xiahou Yuan]) + Rebel Force x4 Have Zhu Ge Liang cast An Sha on Xia Hou Yuan while the rest go after the Rebel Forces.</p>
+<p><strong>Main Boss</strong> <strong>[https://koei.fandom.com/wiki/Zhang_Liao Zhang Liao]</strong> , [https://koei.fandom.com/wiki/Cao_Zhen Cao Zhen] + Rebel Force x3 Have Zhu Ge Liang cast An Sha on Cao Zhen and Lu Sun cast it on Zhang Liao with your physical attackers going after the Rebel Forces, Keep attempting An Sha&#39;s as long as you have TP to try to take down Zhang Liao before the physical attackers do it.</p>
+<ul>
+    <li>[https://koei.fandom.com/wiki/Jiang_Wei Jiang Wei] is the first NPC in town who if you tell him you have Zhu Ge Liang with you he&#39;ll join your forces.</li>
+    <li>There is a bush that is awkwardly not lined up like the rest on the East side which if you search under it you&#39;ll find Bo Ye another Legendary Sword this one I gave to Lu Sun.</li>
+</ul>
+
+<p>image boye</p>
+<ul>
+    <li>At the Merchant sell a Crossbow and all of your Splint M&#39;s as the Armory has Plate M&#39;s for you to upgrade to which is the best body armor you&#39;ll get.</li>
+    <li>Gullwing to Ji Zhou and rest up and buy back your Gullwing as well as get Jiang Wei out of the billet to replace Ma Dai, after rearranging your party and gear record your adventure at the Historian and reload your save to be back at Jin Du then make your way back to Guang Ling.</li>
+    <li>Head West from Guang Ling past the bridge and prepare for a very very long trek zig zagging which ends with a gate in the way, you will want Zhu Ge Liang in the party with Zhou Yu as tactician.</li>
+</ul>
+
+<h2 id="heading-67">He Fei Fortress</h2>
+<p><strong>Gate</strong> [https://koei.fandom.com/wiki/Cao_Zhi Cao Zhi] + Rebel Force x4 Have Zhu Ge Liang attempt to An Sha Cao Zhi while the rest go after the Rebel Forces.</p>
+<p><strong>Boss</strong> Cao Pi, [https:<em>koei.fandom.com/wiki/Cao_Ren Cao Ren], <strong>Xia Hou Dun</strong> [https:</em>koei.fandom.com/wiki/Xiahou_Dun (Xiahou Dun)] + Rebel Force x2 Like Sun Quan, Cao Pi is immune to An Sha so that won&#39;t work on him, have your physical attacks go after Cao Pi with Lu Sun casting An Sha on Cao Ren &amp; Zhu Ge Liang casting it on Xia Hou Dun.</p>
+<ul>
+    <li>Gullwing back to Ji Zhou to rest and restock on Power Pills, save at the Historian and reload your save to be back at Jian Ye and fill every free slot with Elixir D&#39;s. Then make your way back to He Fei.</li>
+    <li>When you are back at He Fei head West and cross two bridges before heading South where gates will be in your path. Have Zhou Yu as the tactician to take advantage of An Sha.</li>
+</ul>
+
+<h2 id="heading-68">Ru Nan</h2>
+<p><strong>Gate #1</strong> [https:<em>koei.fandom.com/wiki/Cao_Xiu Cao Xiu], [https:</em>koei.fandom.com/wiki/Cao_Chun Cao Chun] + Rebel Force x3 Have Zhu Ge Liang cast An Sha on Cao Xiu and Lu Sun on Cao Chun while your physical attackers go for the Rebel Forces.</p>
+<p><strong>Gate #2</strong> Xia Hou Shang ([https:<em>koei.fandom.com/wiki/Xiahou_Shang Xiahou Shang]), Xia Hou De ([https:</em>koei.fandom.com/wiki/Xiahou_De Xiahou De]) + Rebel Force x3 Have Zhu Ge Liang cast An Sha on Xia Hou Shang &amp; Lu Sun on Xia Hou De while your physical attackers go after the Rebel Forces.</p>
+<p><strong>Chapter Finale</strong> Cao Pi, [https:<em>koei.fandom.com/wiki/Cao_Zhang Cao Zhang], [https:</em>koei.fandom.com/wiki/Cao_Ang Cao Ang], Xia Hou Mao ([https://koei.fandom.com/wiki/Xiahou_Mao Xiahou Mao]) + Rebel Force Cao Pi like last time is immune to An Sha so don&#39;t try it on him, have Jiang Wei cast An Sha on Xia Hou Mao, Zhu Ge Liang on Cao Zhang &amp; Lu Sun on Cao Ang. Focus your physical attacks on Cao Pi afterward.</p>
+<p>After the battle Si Ma Yi ([https://koei.fandom.com/wiki/Sima_Yi Sima Yi]) will arrive seemingly to help Cao Pi, but instead betray him and gives his head to you while taking control of Wei. An unblockable thunder magic will happen knocking your party out sending you back to Liu Bei.</p>
+<h1 id="heading-69">Ch. 9 Unification</h1>
+<ul>
+    <li>After Si Ma Yi&#39;s thunder magic you will wake up at Jian Ye, you will want to purchase 3 Gullwings while you&#39;re here and talk with Liu Bei, he&#39;ll mention to go to Chang Sha to figure how to counter Si Ma Yi&#39;s magic.</li>
+    <li>However Gullwing to Nan Yang and get 2 Steed&#39;s to do the final recruiting of our party now that Cao Pi is dead, save at the Historian and reload your save to start at Jian Ye and head into Wei territory to look for Zhang Liao &amp; Xia Hou Dun.</li>
+    <li>Your final party if following the guide should be Zhao Yun, Jiang Wei, Zhang Liao, Xia Hou Dun, Lu Sun, ☆Zhu Ge Liang, Zhou Yu. Gullwing to Chang Sha and head to the palace and speak with [https://koei.fandom.com/wiki/Guan_Suo Guan Suo] to learn how to counter Si Ma Yi&#39;s thunder magic.</li>
+    <li>Then head to the billet to put Zhang Liao &amp; Xia Hou Dun in your party and fill you party with Power Pills, and Gullwing back to Jian Ye to restock on Elixir D&#39;s and backtrack all the way back to Ru Nan having Zhu Ge Liang as the tactician this time.</li>
+    <li>When Si Ma Yi attempts to do his thunder magic again after his text finishes press <span class="controller"><strong>@@*@@</strong><strong>@@*@@</strong><strong>@</strong><strong>@</strong><strong>$</strong><strong>^</strong><strong>@@*@@</strong><strong>@</strong></span> to negate his magic to properly battle him</li>
+</ul>
+
+<p><strong>Rematch</strong> Si Ma Yi, [https:<em>koei.fandom.com/wiki/Xu_Zhu Xu Zhu], [https:</em>koei.fandom.com/wiki/Dian_Wei Dian Wei] + Rebel Force x2 Like Cao Pi, Si Ma Yi has An Sha immunity so it won&#39;t work on him. Have everyone cast Bei Ji on themselves in the first round and have your high INT generals cast Huo Shen to chip them down then aim for Xu Zhu &amp; Dian Wei to leave Si Ma Yi by himself. Don&#39;t use Power Pills until Si Ma Yi has around 20,000 troops left to try and take them all down at once.</p>
+<ul>
+    <li>Ru Nan is a Gullwing point, the Inn is the second building you can enter. The Merchant is the building after with a well next to it.</li>
+</ul>
+
+<table>
+    <tr>
+        <th>Item</th>
+        <th>Effect</th>
+        <th>Cost</th>
+    </tr>
+    <tr>
+        <td>Resurrect</td>
+        <td>Revive dead generals.</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Gullwing</td>
+        <td>Transport to certain castles.</td>
+        <td>200</td>
+    </tr>
+    <tr>
+        <td>Elixir D</td>
+        <td>Heal 4,500 soldiers.</td>
+        <td>500</td>
+    </tr>
+</table>
+<ul>
+    <li>Sell your Iron H&#39;s at the Merchant so we can update them.</li>
+    <li>The Armory is the next building West of the Merchant that also has a well nearby.</li>
+</ul>
+
+<table>
+    <tr>
+        <th>Item</th>
+        <th>Stats</th>
+        <th>Cost</th>
+    </tr>
+    <tr>
+        <td>Lance</td>
+        <td>A.P 170</td>
+        <td>65,000</td>
+    </tr>
+    <tr>
+        <td>Plate M</td>
+        <td>A.C 100 (Body)</td>
+        <td>30,000</td>
+    </tr>
+    <tr>
+        <td>Steel H</td>
+        <td>A.C 100 (Head)</td>
+        <td>40,000</td>
+    </tr>
+</table>
+<ul>
+    <li>Buy Steel H&#39;s for the Iron H&#39;s sold which completes the best Armor &amp; Headgear of the game. Also buy 2 Gullwings before setting out. To get to our next destination you should notice what looks like an open formation of rocks West of the Armory, that is the entrance to.</li>
+</ul>
+
+<h2 id="heading-70">Ru Nan Underground</h2>
+<p>image map</p>
+<ul>
+    <li>If you want to make this trip easier you can abuse an exploit by using a Gullwing back to Xu Zhou and complete an encounter then Gullwing back to Ru Nan and the enemies will be the Chapter 1 enemies instead of the current chapter enemies.</li>
+    <li>Not many of the treasures are worth it outside of a specific one, that being Wan Sheng the fourth of the legendary swords. It is pretty weak at 190 along with Bo Ye, I&#39;d recommend giving this to Xia Hou Dun.</li>
+    <li>After going through the underground head North and take the Bridge you see then head South to reach the next cave.</li>
+</ul>
+
+<h2 id="heading-71">Ru Nan West Cave</h2>
+<p>image map</p>
+<ul>
+    <li>This is the last dungeon in the game while also housing the best equipment such as the Halberd. It has 255 A.P, and while it may seem like a slight upgrade from Qing Long &amp; Nu Long (240), Halberd will deal double damage by comparison gives this to Zhao Yun and pass weapons down in STR order. Another legendary sword you will find is Qing Guang, it is equal in A.P to Qing Long &amp; Nu Long so give this to Xia Hou Dun and pass his previous one to Zhu Ge Liang. None of the other treasures are really noteworthy so make your way to the other entrance.</li>
+    <li>Once outside on the Western side heard North and cross the bridge and head West until you see another bridge with some forts, heal with Elixir D&#39;s if you have any to spare and make Zhou Yu the tactician so Zhu Ge Liang can be in the party.</li>
+</ul>
+
+<h2 id="heading-72">Chen Liu Fortress</h2>
+<p><strong>Gate #1</strong> [https://koei.fandom.com/wiki/Niu_Jin Niu Jin] + Rebel Force x4 Have Zhu Ge Liang cast An Sha on Niu Jin while the rest go after the Rebel Forces.</p>
+<p>After the battle switch Zhu Ge Liang back to being the tactician and bring Xia Hou Dun back into the party.</p>
+<p><strong>Boss</strong> Si Ma Yi, [https:<em>koei.fandom.com/wiki/Yang_Xiu Yang Xiu], [https:</em>koei.fandom.com/wiki/Jiang_Gan Jiang Gan] + Rebel Force x2 Have everyone cast Bei Ji on themself in the first round, if you have the Power Pills to do so use them on Yang Xiu first to reduce the chances of Ji Mian being cast by him and Si Ma Yi. If you get stuck in a Ji Mian loop cast Jin Xian to recover soldiers, when Yang Xiu goes down focus you efforts on Jiang Gan then on Si Ma Yi, when Si Ma Yi is around 20K troops left you&#39;ll want to use Power Pills to make sure he doesn&#39;t Wan Fu back to full.</p>
+<p>Continue East after the Fortress then cross the bridge you see then head West and North inbetween some mountains you should see Chin.</p>
+<h2 id="heading-73">Chin Castle</h2>
+<p><strong>Boss</strong> Xun Huo ([https:<em>koei.fandom.com/wiki/Xun_Yu Xun Yu]), [https:</em>koei.fandom.com/wiki/Li_Dian Li Dian], [https://koei.fandom.com/wiki/Wang_Shuang Wang Shuang] + Rebel Force x2 If you have enough spare TP cast Bei Ji on enough of your highest STR characters that you still have around 16 cast as many as you can and focus on Xun Huo, after he is down take the others down in whatever order you want.</p>
+<p>After the battle take a nice earned rest at the Inn which is the first building on the top when you enter. When you leave their is a newly formed bridge that leads to the forts of Luo Yang. However before going up you will want to restock on items so Gullwing to Ji Zhou to do so, after restocking on Power Pills and selling excess gear Gullwing to Xu Zhou and make your way back to Luo Yang the same way we did back in Ch.2 and go to the forts, if you try to go to Chang An in hopes of attacking Luo Yan from behind there is a barricade in the way so you have to attack from the front.</p>
+<h2 id="heading-74">Rebuilt Luo Yang</h2>
+<p>These are the last battles of the game so feel free to go all out with your TP, you can rest at Chin to the South if you need to get your TP back. Have Zhu Ge Liang replace Xia Hou Dun and make Zhou Yu the tactician before starting.</p>
+<p><strong>Gate #1</strong> Dian Wei, [https:<em>koei.fandom.com/wiki/Hou_Cheng Hou Cheng], [https:</em>koei.fandom.com/wiki/Liu_Ye Liu Ye] + Rebel Force x2 Have Jiang Wei cast An Sha on Dian Wei, Zhu Ge Liang use An Sha on Liu Ye &amp; Lu Sun use An Sha on Hou Cheng and the physical fighters go after the Rebel Forces. Dian Wei is recruitable after the last battle he was a part of, if you have him he won&#39;t be here.</p>
+<p><strong>Gate #2</strong> [https:<em>koei.fandom.com/wiki/Liu_Dai Liu Dai], [https:</em>koei.fandom.com/wiki/Chen_Qun Chen Qun], Lu Wen + Rebel Force x2 Have Jiang Wei cast An Sha on Liu Dai, Zhu Ge Liang use An Sha on Chen Qun &amp; Lu Sun use An Sha on Lu Wen and the physical fighters go after the Rebel Forces.</p>
+<p><strong>Gate #3</strong> Le Xin, [https:<em>koei.fandom.com/wiki/Wang_Can Wang Can], [https:</em>koei.fandom.com/wiki/Mao_Jie Mao Jie] + Rebel Force x2 Have Jiang Wei cast An Sha on Mao Jie, Zhu Ge Liang use an Sha on Wang Can &amp; Lu Sun use An Sha on Le Xin and the physical fighters go after the Rebel Forces.</p>
+<p>Afterward go back to Chin to restore your TP and make Zhu Ge Liang the tactician then make your way up to Luo Yang.</p>
+<p><strong>Penultimate Battle</strong> Si Ma Shi ([https:<em>koei.fandom.com/wiki/Sima_Shi Sima Shi]), Si Ma Zhao ([https:</em>koei.fandom.com/wiki/Sima_Zhao Sima Zhao])+ Rebel Force x3 Have everyone cast Bei Ji on themselves then focus your attacks on Si Ma Shi first then Zhao, they both will regularly interrupt to taunt you before their action.</p>
+<p><strong>Finale</strong> Si Ma Yi, [https:<em>koei.fandom.com/wiki/Yu_Jin Yu Jin], [https:</em>koei.fandom.com/wiki/Wei_Xu Wei Xu], [https://koei.fandom.com/wiki/Cheng_Yu Cheng Yu], Xu Zhu Have everyone cast Bei Ji on themselves, if Ji Mian is down aim for Cheng Yu first using Power Pills on him, when he&#39;s down whittle down Si Ma Yi next and aim to take him down using Power Pills. Afterward take the rest out in order of Xu Zhu, Yu Jin and Wei Xu.</p>
+<p>After the battle head to the Historian and invite Liu Bei to Luo Yang and then talk to him in the palace and enjoy the ending.</p></p>
+</div>
+</div>
+</div>
+<p>[[module css]] .toc-bg {background-image: url(&#39;http://capa.wdfiles.com/local--files/guides:destiny-of-an-emperor/destiny-of-an-emperor-sidebar.avif&#39;);} .guide-article-hide {display:none;} .guide-article-only {display:block;} [[/module]]</p>
     </main>
+    <script src="/assets/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

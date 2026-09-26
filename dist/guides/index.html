@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="icon" type="image/png" href="assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -12,26 +12,30 @@
     <!-- Google Font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
 
-    <title></title>
-    <meta name="description" content="...">
+    <title>CAPA Guides</title>
+    <meta name="description" content="|splash-class=guide-splash-alternate full-height...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
-    <meta property="og:image" content="">
-    <meta property="og:title" content="">
-    <meta property="og:description" content="...">
+    <meta property="og:image" content="https://capa.asoh.xyz/assets/guides//-splash.jpg">
+    <meta property="og:title" content="CAPA Guides">
+    <meta property="og:description" content="|splash-class=guide-splash-alternate full-height...">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="">
-    <meta name="twitter:title" content="">
-    <meta name="twitter:description" content="...">
+    <meta name="twitter:image" content="https://capa.asoh.xyz/assets/guides//-splash.jpg">
+    <meta name="twitter:title" content="CAPA Guides">
+    <meta name="twitter:description" content="|splash-class=guide-splash-alternate full-height...">
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
-    <link href="./assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="./assets/css/capa.css" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
+    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
+    <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
+    <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
     <header>
@@ -42,7 +46,30 @@
 </nav>
     </header>
     <main>
-        
+        <div class="row m-0 p-0">
+<p>[[div class=&quot;col-md-2 hidden-xs hidden-sm guide table-of-contents p-0&quot; role=&quot;navigation&quot;]]</p>
+<p>[[include nav:main]]</p>
+<p>[[/div]][!<del> Close the role=navigation </del>]</p>
+<p>[!<del> </del><del></del><del> </del><del></del><del> Border between Nav and Main Content </del><del></del><del> </del><del></del><del> </del>]</p>
+<p>[[div_ class=&quot;col-md-10 col-md-offset-2 col-xs-12 main main-container p-0&quot;]]</p>
+<p>[[include component:splash |splash-class=full-height |splash-style=background-image:url(&#39;http://capa.wdfiles.com/local--files/guides%3A/-splash.avif&#39;); |text-title=CAPA Guides |text-sub-title=Written by Perseonn Balthasaar |text-extra=Updated on %%updated_at%% |text-extra-icon=fa fa-clock ]]</p>
+<div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl">
+<p>[[collapsible show=&quot;Table of Contents&quot; hide=&quot;Collapse Table of Contents&quot;]]</p>
+<div class="table-of-contents">
+
+</div>
+<p>[[/collapsible]]</p>
+</div>
+<div class="container drop-caps p-4 ">
+<p><p>[[include component:splash |splash-class=guide-splash-alternate full-height |text-title=Guides |text-sub-title=Game walkthroughs, cheat codes, or both! |text-extra-class=hidden ]]</p>
+<p>[[div_ class=&quot;row p-4 m-0&quot;]]</p>
+<p>[[module listpages tags=&quot;-wip&quot; category=&quot;game guide&quot; parent=&quot;home:guide&quot; order=&quot;name&quot; perPage=&quot;40&quot; separate=&quot;no&quot; wrapper=&quot;no&quot; ]] [[include component:list-page-item |container-class=col-xs-12 col-sm-6 col-md-4 |image=http://capa.wdfiles.com/local--files/%%category%%%3A%%name%%/%%name%%.avif |image-class=neutral |ratio=16x9 |link=%%fullname%% |title=%%title%% |sub-title=by %%created_by%% ]] [[/module]]</p>
+<p>[[/div]][!<del> </del><del></del><del> Close List Page Row </del><del></del><del> </del>]</p></p>
+</div>
+</div>
+</div>
+<p>[[module css]] .toc-bg {background-image: url(&#39;http://capa.wdfiles.com/local--files/guides:/-sidebar.avif&#39;);} .guide-article-hide {display:none;} .guide-article-only {display:block;} [[/module]]</p>
     </main>
+    <script src="/assets/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

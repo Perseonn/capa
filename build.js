@@ -363,11 +363,11 @@ ${urls.map(item => `    <url>
 
 function applyTemplate(template, values) {
     return template
-        .replaceAll("{{TITLE}}", escapeHtml(values.title ?? ""))
-        .replaceAll("{{SOCIAL_IMAGE}}", values.socialImage ?? "")
-        .replaceAll("{{DESCRIPTION}}", escapeHtml(values.description ?? ""))
+        .replaceAll("{{TITLE}}", escapeHtml(values.TITLE ?? ""))
+        .replaceAll("{{SOCIAL_IMAGE}}", values.SOCIAL_IMAGE ?? "")
+        .replaceAll("{{DESCRIPTION}}", escapeHtml(values.DESCRIPTION ?? ""))
         .replaceAll("{{NAV}}", values.NAV ?? "")
-        .replaceAll("{{BODY}}", values.body ?? "");
+        .replaceAll("{{BODY}}", values.BODY ?? "");
 }
 
 const layoutPath = path.join(__dirname, "contents", "_layout.html");

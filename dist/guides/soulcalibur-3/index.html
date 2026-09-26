@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="icon" type="image/png" href="assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -12,26 +12,30 @@
     <!-- Google Font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
 
-    <title></title>
-    <meta name="description" content="...">
+    <title>Soulcalibur III</title>
+    <meta name="description" content="The fourth installment of the //Soul// series, Soulcalibur III is, to the release of Soulcalibur V, ...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
-    <meta property="og:image" content="">
-    <meta property="og:title" content="">
-    <meta property="og:description" content="...">
+    <meta property="og:image" content="https://capa.asoh.xyz/assets/guides/soulcalibur-3/soulcalibur-3-splash.jpg">
+    <meta property="og:title" content="Soulcalibur III">
+    <meta property="og:description" content="The fourth installment of the //Soul// series, Soulcalibur III is, to the release of Soulcalibur V, ...">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="">
-    <meta name="twitter:title" content="">
-    <meta name="twitter:description" content="...">
+    <meta name="twitter:image" content="https://capa.asoh.xyz/assets/guides/soulcalibur-3/soulcalibur-3-splash.jpg">
+    <meta name="twitter:title" content="Soulcalibur III">
+    <meta name="twitter:description" content="The fourth installment of the //Soul// series, Soulcalibur III is, to the release of Soulcalibur V, ...">
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
-    <link href="./assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="./assets/css/capa.css" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
+    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
+    <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
+    <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
     <header>
@@ -42,7 +46,2363 @@
 </nav>
     </header>
     <main>
-        
+        <div class="row m-0 p-0">
+<p>[[div class=&quot;col-md-2 hidden-xs hidden-sm guide table-of-contents p-0&quot; role=&quot;navigation&quot;]]</p>
+<p>[[include nav:main]]</p>
+<p>[[/div]][!<del> Close the role=navigation </del>]</p>
+<p>[!<del> </del><del></del><del> </del><del></del><del> Border between Nav and Main Content </del><del></del><del> </del><del></del><del> </del>]</p>
+<p>[[div_ class=&quot;col-md-10 col-md-offset-2 col-xs-12 main main-container p-0&quot;]]</p>
+<p>[[include component:splash |splash-class=full-height |splash-style=background-image:url(&#39;http://capa.wdfiles.com/local--files/guides%3Asoulcalibur-3/soulcalibur-3-splash.avif&#39;); |text-title=Soulcalibur III |text-sub-title=Written by Perseonn Balthasaar |text-extra=Updated on %%updated_at%% |text-extra-icon=fa fa-clock ]]</p>
+<div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl">
+<p>[[collapsible show=&quot;Table of Contents&quot; hide=&quot;Collapse Table of Contents&quot;]]</p>
+<div class="table-of-contents">
+<a href="#heading-1">Master Codes</a>
+<a href="#heading-2">Joker Commands</a>
+<a href="#heading-3">Character Modifications</a>
+<a href="#heading-4">Play As Modifications</a>
+<a href="#heading-5">Color Modifications</a>
+<a href="#heading-6">Moveset &amp; Weapon Modifications</a>
+<a href="#heading-7">Weapon Swipe Color</a>
+<a href="#heading-8">Moveset Modifications</a>
+<a href="#heading-9">Weapon Modifications</a>
+<a href="#heading-10">Camera Limitation Release</a>
+<a href="#heading-11">Stage Modification</a>
+<a href="#heading-12">How to use Stage Modifier with Joker Command</a>
+<a href="#heading-13">Miscellaneous Codes</a>
+<a href="#heading-14">Weapon Parameter Codes</a>
+<a href="#heading-15">Figuring Out the Value Needed</a>
+<a href="#heading-16">CaS Profile &amp; Weapon Exhibition Guide</a>
+<a href="#heading-17">CaS Ending Guide</a>
+</div>
+<p>[[/collapsible]]</p>
+</div>
+<div class="container drop-caps p-4 soulcalibur-3">
+<p><p>The fourth installment of the <em>Soul</em> series, Soulcalibur III is, to the release of Soulcalibur V, the installment with most content. It was unknown why the later series have less content, probably because Daishi is involved in the production.</p>
+<p>If you&#39;re interested in showcasing your character, you can visit [http://asoh.wikidot.com Another Stage of History].</p>
+<p>If you&#39;re using the most recent PCSX2, you can directly use the raw PS2 codes on the ArtMoney, since the address aligned perfectly, just change the code type identifier (first digit of a raw PS code) to 2.</p>
+<h1 id="heading-1">Master Codes</h1>
+<p>These codes are only required if you&#39;re using a cheat device on real PS2. <strong>Master Code (RAW)</strong> F0422080 00422083</p>
+<p><strong>Alternate Master Code (RAW)</strong> 0CF49BDF A4E29C32</p>
+<p><strong>Master Code (AR MAX)</strong> T5R4-XVHD-27GCX M7X7-GC8A-D2PHK</p>
+<h1 id="heading-2">Joker Commands</h1>
+<p>Joker commands allows you to activate/deactivate codes when a certain button or combination of buttons are pressed on the controller. A bulk of codes here uses joker commands to activate/deactivate, hence you should learn how to use them and how to set up your own joker commands.</p>
+<p>Further on this guide, a <em>&lt;Joker Command&gt;</em> before a code indicates the line where you need to place a joker command.</p>
+<p><strong>On emulator, these codes are not necessary</strong> since you can activate buttons using customizable hotkeys that ArtMoney provided.</p>
+<p><strong>Player 1 Joker Command</strong> D046DBA2 0000????</p>
+<p><strong>Player 2 Joker Command</strong> D046DC72 0000????</p>
+<table>
+    <tr>
+        <td></td>
+        <th>Change ???? with Desired button(s)</th>
+    </tr>
+    <tr>
+        <td>0000</td>
+        <td>No Buttons</td>
+    </tr>
+    <tr>
+        <td>0100</td>
+        <td>L2</td>
+    </tr>
+    <tr>
+        <td>0200</td>
+        <td>R2</td>
+    </tr>
+    <tr>
+        <td>0400</td>
+        <td>L1</td>
+    </tr>
+    <tr>
+        <td>0800</td>
+        <td>R1</td>
+    </tr>
+    <tr>
+        <td>1000</td>
+        <td>Triangle</td>
+    </tr>
+    <tr>
+        <td>2000</td>
+        <td>Circle</td>
+    </tr>
+    <tr>
+        <td>4000</td>
+        <td>X</td>
+    </tr>
+    <tr>
+        <td>8000</td>
+        <td>Square</td>
+    </tr>
+    <tr>
+        <td>0001</td>
+        <td>Select</td>
+    </tr>
+    <tr>
+        <td>0002</td>
+        <td>L3</td>
+    </tr>
+    <tr>
+        <td>0004</td>
+        <td>R3</td>
+    </tr>
+    <tr>
+        <td>0008</td>
+        <td>Start</td>
+    </tr>
+    <tr>
+        <td>0010</td>
+        <td>Up</td>
+    </tr>
+    <tr>
+        <td>0020</td>
+        <td>Right</td>
+    </tr>
+    <tr>
+        <td>0040</td>
+        <td>Down</td>
+    </tr>
+    <tr>
+        <td>0080</td>
+        <td>Left</td>
+    </tr>
+</table>
+<p>[[include :fiction:common:alert |text=To use a combination of buttons instead of one single button, simply add all the buttons digits together (set to programmer HEX mode in calculator). Example, to use square + L3, add up: 8000 + 0002 = 8002. Subtract FFFF with this number: FFFF - 8002 = 7FFD.]]</p>
+<h1 id="heading-3">Character Modifications</h1>
+<h2 id="heading-4">Play As Modifications</h2>
+<p>Play as modifiers allows you to change your current character to any character available in the game. It will even let you play as Night Terror, Chronicles of the Sword characters, as well as other unplayables such as Colossus. [[include common:image-css |image=http://capa.wikidot.com/local--files/game:soulcalibur3/nightterror.jpg |title=Night Terror in Survival]]</p>
+<p><strong>Player 1 Character Modifier</strong> 104B4860 000000??</p>
+<p><strong>Player 2 Character Modifier</strong> 104D1FE0 000000??</p>
+<p>Replace Character Modifier ?? with the Character Modifier Digits below.</p>
+<p><strong>Player 1 Costume Modifier</strong> 004B486E 000000??</p>
+<p><strong>Player 2 Costume Modifier</strong> 004D1FEE 000000??</p>
+<table>
+    <tr>
+        <td></td>
+        <th>Replace Costume Modifier ?? with</th>
+    </tr>
+    <tr>
+        <td>00</td>
+        <td>Costume 1 (Default)</td>
+    </tr>
+    <tr>
+        <td>01</td>
+        <td>Costume 2</td>
+    </tr>
+    <tr>
+        <td>02</td>
+        <td>Costume 3</td>
+    </tr>
+    <tr>
+        <td>03</td>
+        <td>Costume 4</td>
+    </tr>
+    <tr>
+        <td>04</td>
+        <td>Costume 5</td>
+    </tr>
+    <tr>
+        <td>05</td>
+        <td>Costume 6</td>
+    </tr>
+    <tr>
+        <td>06</td>
+        <td>Costume 7</td>
+    </tr>
+    <tr>
+        <td>07</td>
+        <td>Costume 8</td>
+    </tr>
+    <tr>
+        <td>08</td>
+        <td>Color Edit 1</td>
+    </tr>
+    <tr>
+        <td>09</td>
+        <td>Color Edit 2</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>Extra Color Edit 1</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>Extra Color Edit 2</td>
+    </tr>
+</table>
+<p>[[include :fiction:common:alert |type=warning |icon=warning |text=Costume 3 to 8 only works on certain character digits. Refer to the Character Modifier Digits below. Other than listed, the game will crash. Color Edits only work on standard characters.]]</p>
+<table>
+    <tr>
+        <th>Hex</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <th>Costume</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th></th>
+        <th>0</th>
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+        <th>4</th>
+        <th>5</th>
+        <th>6</th>
+        <th>7</th>
+    </tr>
+    <tr>
+        <td>[[size 65%]]01[[/size]]</td>
+        <td>[[size 65%]]Mitsurugi[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]02[[/size]]</td>
+        <td>[[size 65%]]Seong Mi-na[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]03[[/size]]</td>
+        <td>[[size 65%]]Taki[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]04[[/size]]</td>
+        <td>[[size 65%]]Maxi[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]05[[/size]]</td>
+        <td>[[size 65%]]Voldo[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]06[[/size]]</td>
+        <td>[[size 65%]]Sophitia[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]07[[/size]]</td>
+        <td>[[size 65%]]Siegfried[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]08[[/size]]</td>
+        <td>[[size 65%]]Rock[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]0B[[/size]]</td>
+        <td>[[size 65%]]Ivy[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]0C[[/size]]</td>
+        <td>[[size 65%]]Kilik[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]0D[[/size]]</td>
+        <td>[[size 65%]]Xianghua[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]0E[[/size]]</td>
+        <td>[[size 65%]]Lizardman[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]0F[[/size]]</td>
+        <td>[[size 65%]]Yoshimitsu[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]11[[/size]]</td>
+        <td>[[size 65%]]Nightmare[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]12[[/size]]</td>
+        <td>[[size 65%]]Astaroth[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]14[[/size]]</td>
+        <td>[[size 65%]]Cervantes[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]15[[/size]]</td>
+        <td>[[size 65%]]Raphael[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]16[[/size]]</td>
+        <td>[[size 65%]]Talim[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]17[[/size]]</td>
+        <td>[[size 65%]]Cassandra[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]1A[[/size]]</td>
+        <td>[[size 65%]]Yun-Seong[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]1E[[/size]]</td>
+        <td>[[size 65%]]Lizardmen[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]22[[/size]]</td>
+        <td>[[size 65%]]Setsuka[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]23[[/size]]</td>
+        <td>[[size 65%]]Tira[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]24[[/size]]</td>
+        <td>[[size 65%]]Zasalamel[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]25[[/size]]</td>
+        <td>[[size 65%]]Olcadan[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]26[[/size]]</td>
+        <td>[[size 65%]]Abyss[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]27[[/size]]</td>
+        <td>[[size 65%]]Night Terror[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]28[[/size]]</td>
+        <td>[[size 65%]]Charade[[/size]]</td>
+        <td>[[size 65%]]Seong Mi-Na[[/size]]</td>
+        <td>[[size 65%]]Charade (29)[[/size]]</td>
+        <td>[[size 65%]]Seong Mi-Na[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]29[[/size]]</td>
+        <td>[[size 65%]]Charade (legs)[[/size]]</td>
+        <td>[[size 65%]]Seong Mi-Na[[/size]]</td>
+        <td>[[size 65%]]Charade (2A)[[/size]]</td>
+        <td>[[size 65%]]Seong Mi-Na[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]2A[[/size]]</td>
+        <td>[[size 65%]]Charade (eyeball)[[/size]]</td>
+        <td></td>
+        <td>[[size 65%]]Wisp (green)[[/size]]</td>
+        <td>[[size 65%]]Seong Mi-Na[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]2B[[/size]]</td>
+        <td>[[size 65%]]Will-o&#39;-the-Wisp (orange)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]2C[[/size]]</td>
+        <td>[[size 65%]]Will-o&#39;-the-Wisp (blue)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]2D[[/size]]</td>
+        <td>[[size 65%]]Doppelganger[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]2E[[/size]]</td>
+        <td>[[size 65%]]Shadow Master[[/size]]</td>
+        <td>[[size 65%]]Seong Mi-Na[[/size]]</td>
+        <td>[[size 65%]]Amy[[/size]]</td>
+        <td>[[size 65%]]Amy[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]30[[/size]]</td>
+        <td>[[size 65%]]Amy[[/size]]</td>
+        <td>[[size 65%]]Amy[[/size]]</td>
+        <td>[[size 65%]]Colossus[[/size]]</td>
+        <td>[[size 65%]]Colossus[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]31[[/size]]</td>
+        <td>[[size 65%]]Colossus[[/size]]</td>
+        <td>[[size 65%]]Colossus[[/size]]</td>
+        <td>[[size 65%]]Lizardmen[[/size]]</td>
+        <td>[[size 65%]]Lizardmen[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]35[[/size]]</td>
+        <td>[[size 65%]]Zasalamel (Old)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]36[[/size]]</td>
+        <td>[[size 65%]]Lizardman (Crown)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]37[[/size]]</td>
+        <td>[[size 65%]]Lizardman (Masked)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]38[[/size]]</td>
+        <td>[[size 65%]]Lizardman (Tailess)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]41[[/size]]</td>
+        <td>[[size 65%]]Miser[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]42[[/size]]</td>
+        <td>[[size 65%]]Greed[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]43[[/size]]</td>
+        <td>[[size 65%]]Arthur[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]44[[/size]]</td>
+        <td>[[size 65%]]Hwang[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]45[[/size]]</td>
+        <td>[[size 65%]]Luna[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]46[[/size]]</td>
+        <td>[[size 65%]]Valeria[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]47[[/size]]</td>
+        <td>[[size 65%]]Hua-Lin[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]48[[/size]]</td>
+        <td>[[size 65%]]Girardot[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]4A[[/size]]</td>
+        <td>[[size 65%]]Demuth[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]4B[[/size]]</td>
+        <td>[[size 65%]]Aurelia[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]4C[[/size]]</td>
+        <td>[[size 65%]]Chester[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]4D[[/size]]</td>
+        <td>[[size 65%]]Strife[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]4E[[/size]]</td>
+        <td>[[size 65%]]Abelia[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]4F[[/size]]</td>
+        <td>[[size 65%]]Lynette[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]51[[/size]]</td>
+        <td>[[size 65%]]Li-Long[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]54[[/size]]</td>
+        <td>[[size 65%]]Revenant[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]60[[/size]]</td>
+        <td>[[size 65%]]Memory Card Slot 1 Custom Slot 1[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]61[[/size]]</td>
+        <td>[[size 65%]]Memory Card Slot 1 Custom Slot 2[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]81[[/size]]</td>
+        <td>[[size 65%]]Berserker (Lance)[[/size]]</td>
+        <td></td>
+        <td>[[size 65%]]Samurai[[/size]]</td>
+        <td>[[size 65%]]Samurai[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]82[[/size]]</td>
+        <td>[[size 65%]]Sophitia (Tamborines)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]83[[/size]]</td>
+        <td>[[size 65%]]Sophita (Kunai)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]84[[/size]]</td>
+        <td>[[size 65%]]Samurai (Katana)[[/size]]</td>
+        <td>[[size 65%]]Samurai[[/size]]</td>
+        <td>[[size 65%]]Samurai[[/size]]</td>
+        <td>[[size 65%]]Samurai[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]85[[/size]]</td>
+        <td>[[size 65%]]Gladiator (Iron Sword)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]86[[/size]]</td>
+        <td>[[size 65%]]Gladiator (S &amp; Shield)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]87[[/size]]</td>
+        <td>[[size 65%]]Unknown Soul (Li Long)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]88[[/size]]</td>
+        <td>[[size 65%]]Unknown Soul (Hwang)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]89[[/size]]</td>
+        <td>[[size 65%]]Unknown Soul (Arthur)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]8A[[/size]]</td>
+        <td>[[size 65%]]Fu-ma Ninja (Kunai)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]8B[[/size]]</td>
+        <td>[[size 65%]]Fu-ma Ninja (Sickle)[[/size]]</td>
+        <td>[[size 65%]]Fu-ma Ninja[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]8C[[/size]]</td>
+        <td>[[size 65%]]Fu-ma Ninja (K &amp; Shuriken)[[/size]]</td>
+        <td>[[size 65%]]Fu-ma Ninja[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]8D[[/size]]</td>
+        <td>[[size 65%]]Bandit (Chinese Blade)[[/size]]</td>
+        <td>[[size 65%]]Fu-ma Ninja[[/size]]</td>
+        <td>[[size 65%]]Fu-ma Ninja[[/size]]</td>
+        <td>[[size 65%]]Fu-ma Ninja[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]8E[[/size]]</td>
+        <td>[[size 65%]]Bandit (Sickle)[[/size]]</td>
+        <td>[[size 65%]]Bandit[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]8F[[/size]]</td>
+        <td>[[size 65%]]Thief (Dagger)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]90[[/size]]</td>
+        <td>[[size 65%]]Thief (Dagger)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]91[[/size]]</td>
+        <td>[[size 65%]]Pirate (Dagger)[[/size]]</td>
+        <td>[[size 65%]]Pirate[[/size]]</td>
+        <td>[[size 65%]]Pirate[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]92[[/size]]</td>
+        <td>[[size 65%]]Pirate (Chinese Sword)[[/size]]</td>
+        <td>[[size 65%]]Pirate (Male)[[/size]]</td>
+        <td>[[size 65%]]Pirate (Male)[[/size]]</td>
+        <td>[[size 65%]]Pirate (Male)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]93[[/size]]</td>
+        <td>[[size 65%]]Assassin (Kunai)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]94[[/size]]</td>
+        <td>[[size 65%]]Swordsman (Chinese Blade)[[/size]]</td>
+        <td>[[size 65%]]Swordsman[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]95[[/size]]</td>
+        <td>[[size 65%]]Foot Soldier (S &amp; Shield)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]96[[/size]]</td>
+        <td>[[size 65%]]General (Iron Sword)[[/size]]</td>
+        <td>[[size 65%]]General[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]97[[/size]]</td>
+        <td>[[size 65%]]Sentry (Staff)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]98[[/size]]</td>
+        <td>[[size 65%]]Keres (Iron Sword)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]99[[/size]]</td>
+        <td>[[size 65%]]Dragon (Chinese Sword)[[/size]]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]A0[[/size]]</td>
+        <td>[[size 65%]]Jinkai[[/size]]</td>
+        <td>[[size 65%]]Kagami[[/size]]</td>
+        <td>[[size 65%]]Shiun[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]A1[[/size]]</td>
+        <td>[[size 65%]]Shiina[[/size]]</td>
+        <td>[[size 65%]]Chikage[[/size]]</td>
+        <td>[[size 65%]]Konomi[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]A2[[/size]]</td>
+        <td>[[size 65%]]Cassius[[/size]]</td>
+        <td>[[size 65%]]Saizou[[/size]]</td>
+        <td>[[size 65%]]Ryouga[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]A3[[/size]]</td>
+        <td>[[size 65%]]Kimika[[/size]]</td>
+        <td>[[size 65%]]Syunna[[/size]]</td>
+        <td>[[size 65%]]Tomoe[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]A4[[/size]]</td>
+        <td>[[size 65%]]Meiga[[/size]]</td>
+        <td>[[size 65%]]Alastor[[/size]]</td>
+        <td>[[size 65%]]Shizuma[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]A5[[/size]]</td>
+        <td>[[size 65%]]Azumi[[/size]]</td>
+        <td>[[size 65%]]Yukina[[/size]]</td>
+        <td>[[size 65%]]Ouka[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]A6[[/size]]</td>
+        <td>[[size 65%]]Xiaoxin[[/size]]</td>
+        <td>[[size 65%]]Oruks[[/size]]</td>
+        <td>[[size 65%]]Agareth[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]A7[[/size]]</td>
+        <td>[[size 65%]]Jyuri[[/size]]</td>
+        <td>[[size 65%]]Shuyu[[/size]]</td>
+        <td>[[size 65%]]Mingyue[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]A8[[/size]]</td>
+        <td>[[size 65%]]Veles[[/size]]</td>
+        <td>[[size 65%]]Aether[[/size]]</td>
+        <td>[[size 65%]]Ixion[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]A9[[/size]]</td>
+        <td>[[size 65%]]Siulan[[/size]]</td>
+        <td>[[size 65%]]Fenglin[[/size]]</td>
+        <td>[[size 65%]]Philine[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]AA[[/size]]</td>
+        <td>[[size 65%]]Ignis[[/size]]</td>
+        <td>[[size 65%]]Notus[[/size]]</td>
+        <td>[[size 65%]]Azrael[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]AB[[/size]]</td>
+        <td>[[size 65%]]Mireille[[/size]]</td>
+        <td>[[size 65%]]Aglaia[[/size]]</td>
+        <td>[[size 65%]]Kanon[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]AC[[/size]]</td>
+        <td>[[size 65%]]Jyurai[[/size]]</td>
+        <td>[[size 65%]]Kureha[[/size]]</td>
+        <td>[[size 65%]]Xunyu[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]AD[[/size]]</td>
+        <td>[[size 65%]]Fengyu[[/size]]</td>
+        <td>[[size 65%]]Fenglei[[/size]]</td>
+        <td>[[size 65%]]Minlian[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]AE[[/size]]</td>
+        <td>[[size 65%]]Noel[[/size]]</td>
+        <td>[[size 65%]]Rudiger[[/size]]</td>
+        <td>[[size 65%]]Aeneas[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]AF[[/size]]</td>
+        <td>[[size 65%]]Annaretta[[/size]]</td>
+        <td>[[size 65%]]Iris[[/size]]</td>
+        <td>[[size 65%]]Brunhild[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]B0[[/size]]</td>
+        <td>[[size 65%]]Asrafil[[/size]]</td>
+        <td>[[size 65%]]Zifeng[[/size]]</td>
+        <td>[[size 65%]]Aeolos[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]B1[[/size]]</td>
+        <td>[[size 65%]]Amrita[[/size]]</td>
+        <td>[[size 65%]]Azalea[[/size]]</td>
+        <td>[[size 65%]]Yueliang[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]B2[[/size]]</td>
+        <td>[[size 65%]]Kanade[[/size]]</td>
+        <td>[[size 65%]]Domenthi[[/size]]</td>
+        <td>[[size 65%]]Marid[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]B3[[/size]]</td>
+        <td>[[size 65%]]Ambrose[[/size]]</td>
+        <td>[[size 65%]]Ailian[[/size]]</td>
+        <td>[[size 65%]]Aika[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]B4[[/size]]</td>
+        <td>[[size 65%]]Loki[[/size]]</td>
+        <td>[[size 65%]]Celestis[[/size]]</td>
+        <td>[[size 65%]]Beleth[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]B5[[/size]]</td>
+        <td>[[size 65%]]Karen[[/size]]</td>
+        <td>[[size 65%]]Lilian[[/size]]</td>
+        <td>[[size 65%]]Abigail[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]B6[[/size]]</td>
+        <td>[[size 65%]]Balduin[[/size]]</td>
+        <td>[[size 65%]]Aloces[[/size]]</td>
+        <td>[[size 65%]]Areon[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]B7[[/size]]</td>
+        <td>[[size 65%]]Juno[[/size]]</td>
+        <td>[[size 65%]]Eurydice[[/size]]</td>
+        <td>[[size 65%]]Ishtar[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]B8[[/size]]</td>
+        <td>[[size 65%]]Rufus[[/size]]</td>
+        <td>[[size 65%]]Raguel[[/size]]</td>
+        <td>[[size 65%]]Feofan[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]B9[[/size]]</td>
+        <td>[[size 65%]]Eunice[[/size]]</td>
+        <td>[[size 65%]]Acacia[[/size]]</td>
+        <td>[[size 65%]]Hilda[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]BA[[/size]]</td>
+        <td>[[size 65%]]Iblis[[/size]]</td>
+        <td>[[size 65%]]Alberic[[/size]]</td>
+        <td>[[size 65%]]Leshy[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]BB[[/size]]</td>
+        <td>[[size 65%]]Muriel[[/size]]</td>
+        <td>[[size 65%]]Wenli[[/size]]</td>
+        <td>[[size 65%]]Irene[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]BC[[/size]]</td>
+        <td>[[size 65%]]Yufeng[[/size]]</td>
+        <td>[[size 65%]]Yakumo[[/size]]</td>
+        <td>[[size 65%]]Dufeng[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]BD[[/size]]</td>
+        <td>[[size 65%]]Mayura[[/size]]</td>
+        <td>[[size 65%]]Meilan[[/size]]</td>
+        <td>[[size 65%]]Rhea[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]BE[[/size]]</td>
+        <td>[[size 65%]]Halphas[[/size]]</td>
+        <td>[[size 65%]]Gorus[[/size]]</td>
+        <td>[[size 65%]]Ilyusha[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]BF[[/size]]</td>
+        <td>[[size 65%]]Edith[[/size]]</td>
+        <td>[[size 65%]]Riese[[/size]]</td>
+        <td>[[size 65%]]Agave[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]C0[[/size]]</td>
+        <td>[[size 65%]]Haystir[[/size]]</td>
+        <td>[[size 65%]]Leraje[[/size]]</td>
+        <td>[[size 65%]]Ratziel[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]C1[[/size]]</td>
+        <td>[[size 65%]]Katina[[/size]]</td>
+        <td>[[size 65%]]Eris[[/size]]</td>
+        <td>[[size 65%]]Sizuku[[/size]]</td>
+        <td>[[size 65%]]Grandall[[/size]]</td>
+        <td>[[size 65%]]Dalkia[[/size]]</td>
+        <td>[[size 65%]]Brigand[[/size]]</td>
+        <td>[[size 65%]]Maletta[[/size]]</td>
+        <td>[[size 65%]]Rebel[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]E0[[/size]]</td>
+        <td>[[size 65%]]Abelia[[/size]]</td>
+        <td>[[size 65%]]Abelia (2P)[[/size]]</td>
+        <td>[[size 65%]]Abelia (3P)[[/size]]</td>
+        <td>[[size 65%]]Abelia (?)[[/size]]</td>
+        <td>[[size 65%]]Luna[[/size]]</td>
+        <td>[[size 65%]]Luna[[/size]]</td>
+        <td>[[size 65%]]Luna[[/size]]</td>
+        <td>[[size 65%]]Abelia (?)[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]E1[[/size]]</td>
+        <td>[[size 65%]]Luna[[/size]]</td>
+        <td>[[size 65%]]Luna (2P)[[/size]]</td>
+        <td>[[size 65%]]Luna (3P)[[/size]]</td>
+        <td>[[size 65%]]Luna (?)[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]E2[[/size]]</td>
+        <td>[[size 65%]]Girardot[[/size]]</td>
+        <td>[[size 65%]]Girardot (2P)[[/size]]</td>
+        <td>[[size 65%]]Girardot (?)[[/size]]</td>
+        <td>[[size 65%]]Strife[[/size]]</td>
+        <td>[[size 65%]]Strife[[/size]]</td>
+        <td>[[size 65%]]Chester[[/size]]</td>
+        <td>[[size 65%]]Chester[[/size]]</td>
+        <td>[[size 65%]]Chester[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]E3[[/size]]</td>
+        <td>[[size 65%]]Strife[[/size]]</td>
+        <td>[[size 65%]]Strife 2P[[/size]]</td>
+        <td>[[size 65%]]Chester[[/size]]</td>
+        <td>[[size 65%]]Chester[[/size]]</td>
+        <td>[[size 65%]]Chester[[/size]]</td>
+        <td>[[size 65%]]Demuth[[/size]]</td>
+        <td>[[size 65%]]Demuth[[/size]]</td>
+        <td>[[size 65%]]Aurelia[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]E4[[/size]]</td>
+        <td>[[size 65%]]Chester (CotS 1P)[[/size]]</td>
+        <td>[[size 65%]]Chester 2P[[/size]]</td>
+        <td>[[size 65%]]Chester 3P[[/size]]</td>
+        <td>[[size 65%]]Demuth[[/size]]</td>
+        <td>[[size 65%]]Demuth[[/size]]</td>
+        <td>[[size 65%]]Aurelia[[/size]]</td>
+        <td>[[size 65%]]Aurelia[[/size]]</td>
+        <td>[[size 65%]]Aege[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]E5[[/size]]</td>
+        <td>[[size 65%]]Demuth[[/size]]</td>
+        <td>[[size 65%]]Demuth 2P[[/size]]</td>
+        <td>[[size 65%]]Aurelia[[/size]]</td>
+        <td>[[size 65%]]Aurelia[[/size]]</td>
+        <td>[[size 65%]]Aege[[/size]]</td>
+        <td>[[size 65%]]Aege[[/size]]</td>
+        <td>[[size 65%]]Aege[[/size]]</td>
+        <td>[[size 65%]]Heal・Do[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]E6[[/size]]</td>
+        <td>[[size 65%]]Aurelia[[/size]]</td>
+        <td>[[size 65%]]Aurelia 2P[[/size]]</td>
+        <td>[[size 65%]]Aege[[/size]]</td>
+        <td>[[size 65%]]Aege[[/size]]</td>
+        <td>[[size 65%]]Aege[[/size]]</td>
+        <td>[[size 65%]]Heal・Do[[/size]]</td>
+        <td>[[size 65%]]Heal・Do[[/size]]</td>
+        <td>[[size 65%]]Heal・Do[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]E7[[/size]]</td>
+        <td>[[size 65%]]Aege[[/size]]</td>
+        <td>[[size 65%]]Aege 2P[[/size]]</td>
+        <td>[[size 65%]]Aege 3P[[/size]]</td>
+        <td>[[size 65%]]Heal・Do[[/size]]</td>
+        <td>[[size 65%]]Heal・Do[[/size]]</td>
+        <td>[[size 65%]]Heal・Do[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]Elua[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]E8[[/size]]</td>
+        <td>[[size 65%]]Heal・Do[[/size]]</td>
+        <td>[[size 65%]]Heal・Do 2P[[/size]]</td>
+        <td>[[size 65%]]Heal・Do 3P[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]Elua[[/size]]</td>
+        <td>[[size 65%]]Elua[[/size]]</td>
+        <td>[[size 65%]]Heal・Do (?)[[/size]]</td>
+        <td>[[size 65%]]Lupi[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]E9[[/size]]</td>
+        <td>[[size 65%]]Elua[[/size]]</td>
+        <td>[[size 65%]]Elua 2P[[/size]]</td>
+        <td>[[size 65%]]Elua (?)[[/size]]</td>
+        <td>[[size 65%]]Lupi[[/size]]</td>
+        <td>[[size 65%]]Lupi[[/size]]</td>
+        <td>[[size 65%]]Lupi[[/size]]</td>
+        <td>[[size 65%]]Roin[[/size]]</td>
+        <td>[[size 65%]]Roin[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]EA[[/size]]</td>
+        <td>[[size 65%]]Lupi[[/size]]</td>
+        <td>[[size 65%]]Lupi 2P[[/size]]</td>
+        <td>[[size 65%]]Lupi 3P[[/size]]</td>
+        <td>[[size 65%]]Roin[[/size]]</td>
+        <td>[[size 65%]]Roin[[/size]]</td>
+        <td>[[size 65%]]Kierkess[[/size]]</td>
+        <td>[[size 65%]]Kierkess[[/size]]</td>
+        <td>[[size 65%]]Hyle[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]EB[[/size]]</td>
+        <td>[[size 65%]]Roin[[/size]]</td>
+        <td>[[size 65%]]Roin 2P[[/size]]</td>
+        <td>[[size 65%]]Kierkess[[/size]]</td>
+        <td>[[size 65%]]Kierkess[[/size]]</td>
+        <td>[[size 65%]]Hyle[[/size]]</td>
+        <td>[[size 65%]]Hyle[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]Mooncalf[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]EC[[/size]]</td>
+        <td>[[size 65%]]Kierkess[[/size]]</td>
+        <td>[[size 65%]]Kierkess 2P[[/size]]</td>
+        <td>[[size 65%]]Hyle[[/size]]</td>
+        <td>[[size 65%]]Hyle[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]Mooncalf[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]Ende[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]ED[[/size]]</td>
+        <td>[[size 65%]]Hyle[[/size]]</td>
+        <td>[[size 65%]]Hyle 2P[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]Mooncalf[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]Ende[[/size]]</td>
+        <td>[[size 65%]]Hyle (?)[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]EE[[/size]]</td>
+        <td>[[size 65%]]Mooncalf[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]Ende[[/size]]</td>
+        <td>[[size 65%]]Mooncalf (?)[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+    </tr>
+    <tr>
+        <td>[[size 65%]]EF[[/size]]</td>
+        <td>[[size 65%]]Ende[[/size]]</td>
+        <td>[[size 65%]]Ende (?)[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+        <td>[[size 65%]]&lt;#Crash&gt;[[/size]]</td>
+    </tr>
+</table>
+<h2 id="heading-5">Color Modifications</h2>
+<p>[[include common:image-css |image=http://capa.wikidot.com/local--files/game:soulcalibur3/standardcolorchange.jpg |title=Cassandra with Color Restriction Remover, showing skin-colored stockings]]</p>
+<p><strong>Universal Color Palette Changer</strong> 202D852C 460F7B00 This code changes all color palette to a secret palette that will allow you to:</p>
+<ol>
+    <li>Freely alter your custom character&#39;s underwear/underclothing color to most available colors on the standard color palette (including skin tones).</li>
+    <li>Use a set of new, multi shaded, and brighter colors for most clothing items. This also works on standard characters, though results are not till you exit.</li>
+</ol>
+
+<p>[[include :fiction:common:alert |type=warning |icon=warning |text=This code has very limited usage. It will screw up your current character&#39;s colors (rectifiable, at many times), and the individual shade colors on multi-shaded effect cannot be edited.]]</p>
+<p><strong>Standard Characters Color Restriction Remover</strong> 202D8E70 3C014000 202D8E78 44817000 Code that allows coloring all restricted parts in Standard Character Color Edit to skin tone or any other color. This will manipulate standard characters only. [[include :fiction:common:alert |type=warning |icon=warning |text=Coloring hair a bright color may have a side effect that changes the character&#39;s face skin color, either leaving the hair color at default or color it to a dark or white color is recommended when using this code.]]</p>
+<h1 id="heading-6">Moveset &amp; Weapon Modifications</h1>
+<h2 id="heading-7">Weapon Swipe Color</h2>
+<p>Activate character modifier code while in battle to get the desired swipe color.</p>
+<p>[[include common:image-css |image=http://capa.wikidot.com/local--files/game:soulcalibur3/swipecolor.jpg |title=Spica (left) using Cherry Blossom swipe and Sleipial (right) using Pink swipe.]]</p>
+<table>
+    <tr>
+        <th>Color</th>
+        <th>Character/Digit</th>
+    </tr>
+    <tr>
+        <td>##FF0000|Red##</td>
+        <td>Mitsurugi (01), Cervantes (14)</td>
+    </tr>
+    <tr>
+        <td>##FF0080|Pink##</td>
+        <td>Sophitia (06), Cassandra (17), and Xianghua (0D)</td>
+    </tr>
+    <tr>
+        <td>##ff8a00|Orange##</td>
+        <td>Astaroth (12)</td>
+    </tr>
+    <tr>
+        <td>##fff600|Yellow##</td>
+        <td>Seong Mi-na (02), Rock (08), and Raphael (15)</td>
+    </tr>
+    <tr>
+        <td>##80FF00|Lime##</td>
+        <td>Yun-Seong (1A)</td>
+    </tr>
+    <tr>
+        <td>##1ab500|Green##</td>
+        <td>Maxi (04)</td>
+    </tr>
+    <tr>
+        <td>##00FF80|Light Green##</td>
+        <td>Voldo (05), Lizardman (0E), Yoshimitsu (0F), and Olcadan (25)</td>
+    </tr>
+    <tr>
+        <td>##00FFFF|Cyan##</td>
+        <td>Taki (03), Kilik (0C), Siegfried (07), and Setsuka (22)</td>
+    </tr>
+    <tr>
+        <td>##0080FF|Light Blue##</td>
+        <td>Talim (16)</td>
+    </tr>
+    <tr>
+        <td>##6000ff|Purple##</td>
+        <td>Tira (23)</td>
+    </tr>
+    <tr>
+        <td>##FF60FF|Light Purple##</td>
+        <td>Ivy (0B), Zasalamel (24), and Abyss (26)</td>
+    </tr>
+    <tr>
+        <td>##A080FF|Light Royal Purple##</td>
+        <td>Nightmare (11), and Night Terror (27)</td>
+    </tr>
+    <tr>
+        <td>##FF8080|Cherry Blossom##</td>
+        <td>Set character digit to 100 or higher.</td>
+    </tr>
+</table>
+<h2 id="heading-8">Moveset Modifications</h2>
+<p>Moveset modifiers changes the moveset of your current character to another moveset. This is useful for CaS Profile and Weapon Exhibition.</p>
+<p>[[include common:image-css |image=http://capa.wikidot.com/local--files/game:soulcalibur3/movesetmod.jpg |title=Siegfried using Mitsurugi moveset and Nightmare using Setsuka&#39;s moveset.]]</p>
+<p><strong>Player 1 Moveset Modifier</strong> &lt;Joker Command&gt; 004B4862 000000??</p>
+<p><strong>Player 2 Moveset Modifier</strong> &lt;Joker Command&gt; 004D1FE2 000000??</p>
+<p>Replace ?? with any Character Modifier Digits listed above.</p>
+<p>[[include :fiction:common:alert |text=Setting to 26 or 27 will not get you Abyss&#39; or Night Terror&#39;s movesets. To obtain their movesets, you must use the character modifier of Abyss and Night Terror, then activate them while using Soul of Zasalamel and Soul of Nightmare, respectively. Some aspect of their moveset won&#39;t work well unless you also use Abyss/Night Terror weapon. To obtain Olcadan&#39;s moveset and properties (i.e. changing move every round, special taunt, special weapon demonstration), activate his character modifier while using any of regular character&#39;s moveset.]]</p>
+<p>[[include :fiction:common:alert |text=When using Abyss, Night Terror, and Olcadan&#39;s moveset, your swipe color will be fixed to the respective characters.]]</p>
+<h2 id="heading-9">Weapon Modifications</h2>
+<p>Weapon modifier allows you to change the weapon of your current character with a desired different one. A special master code is required for this to fully work.</p>
+<p>[[include common:image-css |image=http://capa.wikidot.com/local--files/game:soulcalibur3/weaponmod.jpg |title=Nightmare using Night Terror&#39;s weapon.]]</p>
+<p><strong>Weapon Modifier Master Code</strong> 204479B4 0803FFD0 200FFF40 3C02004B 200FFF50 3C02004D 200FFF5C 08111E6F</p>
+<p><strong>Weapon Modifier Disabler</strong> &lt;Joker Command&gt; 200FFF48 24010000 &lt;Joker Command&gt; 200FFF4C 00000000</p>
+<p><strong>Weapon Modifier</strong> &lt;Joker Command&gt; 200FFF48 240100?? &lt;Joker Command&gt; 200FFF4C A0414862</p>
+<p>Replace ?? with any Character Modifier Digits listed above.</p>
+<p>[[include :fiction:common:alert |text=The only purpose of using this code is to make Soul of Night Terror and Soul of Abyss fully functional. Otherwise, using this code also forces you to use the respective moveset.]]</p>
+<p>[[include :fiction:common:alert |type=warning |icon=warning |text=Using Olcadan&#39;s weapon could crash the game.]]</p>
+<h1 id="heading-10">Camera Limitation Release</h1>
+<p>These codes will remove all limits of the camera during specified mode. Take note that this can screw your normal gameplay camera with prolonged usage.</p>
+<p><strong>Profile Screen Camera Release</strong> 20132DB0 10000016 202E6894 10000006 202E68C0 10000003 202E6828 10000003 202E68F0 50000004</p>
+<p><strong>Custom Character Creation Camera Release</strong> 2030ACA8 460C0301 2030ACAC 46006006 2030AD9C 46006006</p>
+<p><strong>Battle Theatre Camera Release</strong> 20234A34 3C014700 20234A58 3C014000 20234A68 3C01C600 20234A54 4614A301</p>
+<p><strong>Standard Character Color Edit Camera Release</strong> 202D3CE4 C60C0078 202D3CE8 46006006 202D3D14 E6000074 202D3D18 46006006</p>
+<h1 id="heading-11">Stage Modification</h1>
+<p>Allows you to play in a certain stage or an arena that&#39;s otherwise impossible to play in (e.g. ending scenery).</p>
+<p>[[include common:image-css |image=http://capa.wikidot.com/local--files/game:soulcalibur3/stagemod.jpg |title=Custom Assassin vs. Lizardmen in Badlands stage. ]]</p>
+<p><strong>Stage Modifier</strong> &lt;Joker Command&gt; 004ED64C 000000??</p>
+<table>
+    <tr>
+        <td></td>
+        <th>Replace ?? with the following:</th>
+    </tr>
+    <tr>
+        <td>00</td>
+        <td>Highlands (Earthquake in Vs. Special)</td>
+    </tr>
+    <tr>
+        <td>01</td>
+        <td>Egyptian Temple</td>
+    </tr>
+    <tr>
+        <td>02</td>
+        <td>Clock Tower</td>
+    </tr>
+    <tr>
+        <td>03</td>
+        <td>Eurydice Shrine</td>
+    </tr>
+    <tr>
+        <td>04</td>
+        <td>Ostrheinsburg Castle - Battlement</td>
+    </tr>
+    <tr>
+        <td>05</td>
+        <td>Water Mill Valley</td>
+    </tr>
+    <tr>
+        <td>06</td>
+        <td>Battle in the Strait</td>
+    </tr>
+    <tr>
+        <td>07</td>
+        <td>Valentine Mansion</td>
+    </tr>
+    <tr>
+        <td>08</td>
+        <td>Ling-Sheng Su Temple Ruin</td>
+    </tr>
+    <tr>
+        <td>09</td>
+        <td>Lakeside Coliseum</td>
+    </tr>
+    <tr>
+        <td>0A</td>
+        <td>Kunpaetku Shrine Ruins</td>
+    </tr>
+    <tr>
+        <td>0B</td>
+        <td>Indian Port</td>
+    </tr>
+    <tr>
+        <td>0C</td>
+        <td>Lost Cathedral</td>
+    </tr>
+    <tr>
+        <td>0D</td>
+        <td>Secret Money Pit</td>
+    </tr>
+    <tr>
+        <td>0E</td>
+        <td>Underground Buddhist Sanctum</td>
+    </tr>
+    <tr>
+        <td>0F</td>
+        <td>Proving Grounds</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>Grand Labyrinth</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>Sacred Mt. Fuji</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>Lost Cathedral - Ruin</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>Pirate Raid</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>Jyurakudai Villa</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>Romanian Valley - Castle Siege</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>Lotus Garden</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>Old Toledo - Burning Gallery</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>Silk Road Ruin</td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>Chaos - Spiritual Realm</td>
+    </tr>
+    <tr>
+        <td>1A</td>
+        <td>Castle Room (Shop, Olcadan ending)</td>
+    </tr>
+    <tr>
+        <td>1B</td>
+        <td>Azuchi-Momoyama road (Mitsurugi/Taki ending)</td>
+    </tr>
+    <tr>
+        <td>1C</td>
+        <td>Castle Gate (Nightmare/Lizardman ending)</td>
+    </tr>
+    <tr>
+        <td>1D</td>
+        <td>Field (Kilik/Xianghua ending)</td>
+    </tr>
+    <tr>
+        <td>1E</td>
+        <td>Bridge (Talim/Seong Mi-na ending)</td>
+    </tr>
+    <tr>
+        <td>1F</td>
+        <td>Forest (Tira/Raphael ending)</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>Sacred Money Pit (Voldo ending)</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>Sailing boat (Rock ending) &lt;Camera!&gt;</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>Badlands (Astaroth ending)</td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>Pirate Raid (Cervantes ending) &lt;Camera!&gt;</td>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td>Library (Zasalamel/Raphael ending)</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>Eurydice Shrine Gallery (Cassandra/Sophitia ending)</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>Blacksmith / Sophitia&#39;s house (Cassandra/Tira ending) &lt;Camera!&gt;</td>
+    </tr>
+    <tr>
+        <td>27</td>
+        <td>Soul Edge in Lost Cathedral (Ending) &lt;Crash!&gt;</td>
+    </tr>
+    <tr>
+        <td>28</td>
+        <td>Indian Port (Ending) &lt;Crash!&gt;</td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>Lakeside Coliseum (Ending) &lt;Crash!&gt;</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>Character selection background</td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>Main menu background</td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>Soul Calibur III logo</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>Character creation background</td>
+    </tr>
+</table>
+<p>[[include :fiction:common:alert |type=warning |icon=warning |text=If used without Joker Command, the code will also replace the intro screen, menu screen, and character creation background.]]</p>
+<p>[[include :fiction:common:alert |type=danger |icon=warning |text=Digits unlisted will cause game freeze.]]</p>
+<p>[[include :fiction:common:alert |type=warning |icon=warning |text=&lt;Camera!&gt; indicates the stage is hard to navigate due to camera problem.]]</p>
+<p>[[include :fiction:common:alert |type=danger |icon=warning |text=&lt;Crash!&gt; indicates the stage will crash the game if you attempt to do battles. They can still work on title screen.]]</p>
+<h2 id="heading-12">How to use Stage Modifier with Joker Command</h2>
+<p>To ensure this code works for all stages is to use it with a joker command.</p>
+<ul>
+    <li>Setup a joker command with directional buttons. The directional button is a MUST. This setup allows you to have 4 stages that can be swapped at once (e.g. set L2 + R2 + left to 1D, or Field).</li>
+    <li>For example, at the stage selection screen, hold L2 + R2. Now press the directional button according to the stage you assigned the button to. You will need to press the directional button so the preview displays the swapped stage (this may require several attempts to get right).</li>
+    <li>Once the live stage preview displays the swapped stage, press X/Circle.</li>
+    <li>The BGM will depend on where your cursor was during stage selection.</li>
+</ul>
+
+<p><strong>Stage Variant Modifier</strong> 004ED650 0000000? Only works on certain stages that have variants like Egyptian Temple, Eurydice Shrine, Lakeside Coliseum, and Grand Labyrinth. At normal, the value is 0. Change it to 1 or 2 will enable the stage variations.</p>
+<p>[[include :fiction:common:alert |type=warning |icon=warning |text=If used on stage without variation, you will end up in Highlands.]]</p>
+<h1 id="heading-13">Miscellaneous Codes</h1>
+<p><strong>Hide/Show Health Bar</strong> &lt;Joker Command&gt; 004ED7D8 0000000?</p>
+<p>Replace ? with the following: 0 - Hide 1 - Show</p>
+<p><strong>Hide/Show Game Text</strong> &lt;Joker Command&gt; 004ED7FC 0000000?</p>
+<p>Replace ? with the following: 0 - Hide all game texts, ending subtitle and some texts become Japanese 1 - Shows all game text (default) 2 - Hide ending subtitle texts</p>
+<p><strong>Invisible Player (except for weapon)</strong> Player 1 104B4874 00000000 Player 2 104D1FF8 00000000</p>
+<p><strong>Invisible Weapon</strong> Player 1 104B4878 00000000 Player 2 104D1FF8 00000000</p>
+<p><strong>Player Operation Change</strong> Player 1 004B4858 000000?? Player 2 004D1FD8 000000??</p>
+<p>Replace ?? with the following: 01 - Controller 02 - CPU</p>
+<p>If you replace Player 2 to controller you can play 2 players in single players modes only such as Tales of Souls and Chronicles of the Sword.</p>
+<h1 id="heading-14">Weapon Parameter Codes</h1>
+<p>Weapons comes with a preloaded parameter and can actually be manipulated extensively</p>
+<table>
+    <tr>
+        <th>Code</th>
+        <th>Effect</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>004B4C32</td>
+        <td>1P Power</td>
+        <td>The higher the amount, the more the damage done to enemy.</td>
+    </tr>
+    <tr>
+        <td>004B4C33</td>
+        <td>1P Power Hi</td>
+        <td>High byte.</td>
+    </tr>
+    <tr>
+        <td>004B4C36</td>
+        <td>1P Defense</td>
+        <td>The lower the amount, the less the damage received from enemy.</td>
+    </tr>
+    <tr>
+        <td>004B4C37</td>
+        <td>1P Defense Hi</td>
+        <td>High byte.</td>
+    </tr>
+    <tr>
+        <td>004B4C3A</td>
+        <td>1P Leech</td>
+        <td>Amount of drained damage, according to <strong>base, 100%</strong> damage. Cannot exceed 100%.</td>
+    </tr>
+    <tr>
+        <td>004B4C3B</td>
+        <td>1P Leech Hi</td>
+        <td>High byte.</td>
+    </tr>
+    <tr>
+        <td>004B4C3E</td>
+        <td>1P Pierce Damage</td>
+        <td>Amount of damage that goes through enemy&#39;s defense, according to <strong>base, 100%</strong> damage. Cannot exceed 100%.</td>
+    </tr>
+    <tr>
+        <td>004B4C3F</td>
+        <td>1P Pierce Damage Hi</td>
+        <td>High byte.</td>
+    </tr>
+    <tr>
+        <td>004B4C42</td>
+        <td>1P Weapon Size</td>
+        <td>The physical size and range of weapon.</td>
+    </tr>
+    <tr>
+        <td>004B4C43</td>
+        <td>1P Weapon Size Hi</td>
+        <td>High byte.</td>
+    </tr>
+    <tr>
+        <td>004B4C46</td>
+        <td>1P Push Power</td>
+        <td>The pushing power of weapon. Setting this too high will make you harder to perform combo.</td>
+    </tr>
+    <tr>
+        <td>004B4C47</td>
+        <td>1P Push Power Hi</td>
+        <td>High byte.</td>
+    </tr>
+    <tr>
+        <td>004B4C4A</td>
+        <td>1P Counter Chance</td>
+        <td>The chance of doing counterattack property.</td>
+    </tr>
+    <tr>
+        <td>004B4C4B</td>
+        <td>1P Counter Chance Hi</td>
+        <td>High byte.</td>
+    </tr>
+    <tr>
+        <td>004B4C4E</td>
+        <td>1P Null Counter</td>
+        <td>The chance of nulling counterattack property.</td>
+    </tr>
+    <tr>
+        <td>004B4C4F</td>
+        <td>1P Null Counter Hi</td>
+        <td>High byte.</td>
+    </tr>
+    <tr>
+        <td>004B4C52</td>
+        <td>1P Guarding Damage</td>
+        <td>The damage received when guarding. If you set this to negative value, it will heal instead.</td>
+    </tr>
+    <tr>
+        <td>004B4C53</td>
+        <td>1P Guarding Damage Hi</td>
+        <td>High byte.</td>
+    </tr>
+    <tr>
+        <td>004B4C56</td>
+        <td>1P Guard Impact Chance</td>
+        <td>The chance of automatic guard impact when guarding. This still has to be activated in-battle by unknown method. Crouching twice and sidestep seems to do the trick.</td>
+    </tr>
+    <tr>
+        <td>004B4C57</td>
+        <td>1P Guard Impact Chance Hi</td>
+        <td>High byte.</td>
+    </tr>
+    <tr>
+        <td>004B4C5A</td>
+        <td>1P Impact Damage</td>
+        <td>The damage done to enemy when guard impacting, according to enemy&#39;s attack base attack damage.</td>
+    </tr>
+    <tr>
+        <td>004B4C5B</td>
+        <td>1P Impact Damage Hi</td>
+        <td>High byte.</td>
+    </tr>
+    <tr>
+        <td>004B4C5E</td>
+        <td>1P Impact Regen</td>
+        <td>The amount of HP healed when guard impacting, according to enemy&#39;s attack base attack damage.</td>
+    </tr>
+    <tr>
+        <td>004B4C5F</td>
+        <td>1P Impact Regen Hi</td>
+        <td>High byte.</td>
+    </tr>
+    <tr>
+        <td>004B4C62</td>
+        <td>1P Guard Break Chance</td>
+        <td>The chance of automatic guard break using regular attack. This is actually near useless, even on 100%, due to the nature of guard break.</td>
+    </tr>
+    <tr>
+        <td>004B4C63</td>
+        <td>1P Guard Break Chance Hi</td>
+        <td>High byte.</td>
+    </tr>
+    <tr>
+        <td>004B4C66</td>
+        <td>1P Null Throw</td>
+        <td>The chance of automatic throw break. This cannot escape low throws (e.g. Sieg&#39;s) and down throw (e.g. Rock&#39;s).</td>
+    </tr>
+    <tr>
+        <td>004B4C67</td>
+        <td>1P Null Throw Hi</td>
+        <td>High byte.</td>
+    </tr>
+    <tr>
+        <td>004B4C6A</td>
+        <td>1P Null Ring Out</td>
+        <td>The chance to avoid ring out, regardless of received attack. This ability is irrelevant to Night Terror&#39;s null ring out ability, which is a character property rather than weapon.</td>
+    </tr>
+    <tr>
+        <td>004B4C6B</td>
+        <td>1P Null Ring Out Hi</td>
+        <td>High byte.</td>
+    </tr>
+    <tr>
+        <td>004B4C6E</td>
+        <td>1P HP Regen</td>
+        <td>The amount of HP recovered each second. Setting this to negative will make the HP drain per second.</td>
+    </tr>
+    <tr>
+        <td>004B4C6F</td>
+        <td>1P HP Regen Hi</td>
+        <td>High byte.</td>
+    </tr>
+    <tr>
+        <td>004B4C72</td>
+        <td>1P Swing Damage</td>
+        <td>The amount of damage taken each weapon swing. Setting this to negative will make the HP recover per swing.</td>
+    </tr>
+    <tr>
+        <td>004B4C73</td>
+        <td>1P Swing Damage Hi</td>
+        <td>High byte.</td>
+    </tr>
+    <tr>
+        <td>004B5FBE</td>
+        <td>1P Move Speed</td>
+        <td>The player&#39;s movement speed.</td>
+    </tr>
+    <tr>
+        <td>004B5FBF</td>
+        <td>1P Move Speed Hi</td>
+        <td>High byte.</td>
+    </tr>
+</table>
+<h2 id="heading-15">Figuring Out the Value Needed</h2>
+<p>Soulcalibur III uses a multiplication of the power of 2. High value (<code>HiByte</code>) of 3F (63) and value (<code>LoByte</code>) of 80 (128), indicates 100%. With the exception of Regen and Swing Damage, the formula is as follows, in decimal: [[code]] IF ( LoByte &lt; 128 ) THEN VarA = (LoByte + 128) / 256 ELSE VarA = (LoByte / 128) END IF</p>
+<p>Percentage = 2 ^ ( ( HiByte - 63 ) * 2 *  VarA ) [[/code]]</p>
+<p>Some examples (decimal):</p>
+<table>
+    <tr>
+        <th>HiByte</th>
+        <th>LoByte</th>
+        <th>Percentage</th>
+    </tr>
+    <tr>
+        <td>61</td>
+        <td>204</td>
+        <td>10%</td>
+    </tr>
+    <tr>
+        <td>62</td>
+        <td>76</td>
+        <td>20%</td>
+    </tr>
+    <tr>
+        <td>62</td>
+        <td>153</td>
+        <td>30%</td>
+    </tr>
+    <tr>
+        <td>63</td>
+        <td>0</td>
+        <td>50%</td>
+    </tr>
+    <tr>
+        <td>63</td>
+        <td>25</td>
+        <td>60%</td>
+    </tr>
+    <tr>
+        <td>63</td>
+        <td>51</td>
+        <td>70%</td>
+    </tr>
+    <tr>
+        <td>63</td>
+        <td>76</td>
+        <td>80%</td>
+    </tr>
+    <tr>
+        <td>63</td>
+        <td>102</td>
+        <td>90%</td>
+    </tr>
+    <tr>
+        <td>63</td>
+        <td>128</td>
+        <td>100%</td>
+    </tr>
+    <tr>
+        <td>63</td>
+        <td>153</td>
+        <td>120%</td>
+    </tr>
+    <tr>
+        <td>63</td>
+        <td>166</td>
+        <td>130%</td>
+    </tr>
+    <tr>
+        <td>63</td>
+        <td>179</td>
+        <td>140%</td>
+    </tr>
+    <tr>
+        <td>153</td>
+        <td>190</td>
+        <td>-30%</td>
+    </tr>
+</table>
+<p>For Swing Damage, the formula is same as above, but divided by 100 and discard the percentage. Some examples (decimal):</p>
+<table>
+    <tr>
+        <th>HiByte</th>
+        <th>LoByte</th>
+        <th>Amount</th>
+    </tr>
+    <tr>
+        <td>63</td>
+        <td>128</td>
+        <td>1 (Swing damage)</td>
+    </tr>
+    <tr>
+        <td>64</td>
+        <td>128</td>
+        <td>4 (Swing damage)</td>
+    </tr>
+    <tr>
+        <td>64</td>
+        <td>160</td>
+        <td>5 (Swing damage)</td>
+    </tr>
+    <tr>
+        <td>192</td>
+        <td>64</td>
+        <td>-3 (Swing heal)</td>
+    </tr>
+    <tr>
+        <td>192</td>
+        <td>0</td>
+        <td>-2 (Swing heal)</td>
+    </tr>
+</table>
+<p>For Regen, the formula is as follow, in decimal: [[code]] IF (HiByte&gt;128) THEN VarA = -1 ELSE VarA = 1 END IF</p>
+<p>IF(HiByte&gt;128) THEN VarB =128 ELSE VarB = 0 END IF</p>
+<p>IF ( LoByte &lt; 128 ) THEN VarC = (Byte + 128) / 256 ELSE VarC = (LoByte / 128) END IF</p>
+<p>Percentage = 100 * ROUNDUP( VarA * 2 ^ ( ( HiByte - 63 - VarB * 2 ) * VarC , 2 ) [[/code]]</p>
+<p>Some examples (decimal):</p>
+<table>
+    <tr>
+        <th>HiByte</th>
+        <th>LoByte</th>
+        <th>Amount</th>
+    </tr>
+    <tr>
+        <td>61</td>
+        <td>8</td>
+        <td>4 (Regen)</td>
+    </tr>
+    <tr>
+        <td>61</td>
+        <td>76</td>
+        <td>5 (Regen)</td>
+    </tr>
+    <tr>
+        <td>189</td>
+        <td>76</td>
+        <td>-5 (Drain)</td>
+    </tr>
+    <tr>
+        <td>189</td>
+        <td>136</td>
+        <td>-7 (Drain)</td>
+    </tr>
+</table>
+<h1 id="heading-16">CaS Profile &amp; Weapon Exhibition Guide</h1>
+<p>You can have your own CaS in Profile and Weapon Exhibition with a usage of several modification codes and some light tinkering. Shown below is Spica (Tamborine) Weapon Demonstration using Xianghua&#39;s moveset.</p>
+<p>[[include :fiction:common:video |video-id=U7Q3pHI7HZI]]</p>
+<p>First set up a Character Modifier along with a Joker Command. For digits you use 60 for Memory Card 1 slot 1, or 61 for Memory Card 1 Slot 2.</p>
+<p><strong>Example</strong> Press select + R2 + L2 to select Memory Card 1 Slot 1 D046DBA2 0000FCFE ~&gt; This is the joker command 004B4860 00000060 ~&gt; This is the character modifier code</p>
+<div class="alert alert-warning">
+<p><span class="fa fa-warning">@&lt;&amp;nbsp;&gt;@</span>Before performing this, ensure you view the CaS in Memory Card 1 Slot 1 at least once in any character selection screen, choosing a corresponding discipline as you do. If you edit the CaS in memory card 1 slot 1, you will need to re-view him/her once again. If you somehow forget this step, the internal memory will get screwed up and you may not be able select your CaS.</p>
+</div>
+<div class="alert alert-info">
+<p><span class="fa fa-warning">@&lt;&amp;nbsp;&gt;@</span>CaS&#39;s moveset is determined by the last CaS moveset you choose. Digit 60 and 61 are both independent and can store separate moveset.</p>
+</div>
+<p>Once you done with these set-ups, activate the code with the joker command on character selection screen on Character Profile or Weapon Exhibition. Your character should now be displayed instead of the standard character in both modes, simply select him/her to view the CaS Profile or Weapon Exhibition.</p>
+<p><strong>Stage Selection</strong> You can additionally select the target stage you want your character to appear in in Profile and Weapon Exhibition. First select any standard character whose arena is the one you want (e.g. select Nightmare will get Forsaken Sanctuary) and then activate the code (joker command) after the character finished saying their opening speech line.</p>
+<p><strong>Weapon Selection</strong> Specific weapon selection is also possible. To do this, choose a corresponding weapon slot at the standard character prior to activating the code (joker command). For instance, to have a Soul of Raphael CaS wielding Queen&#39;s Guard at Forsaken Sanctuary: select Nightmare and select Soul Edge (Soul Edge is in the same slot as Queen&#39;s Guard for Soul of Raphael and Nightmare&#39;s stage is Forsaken Sanctuary), then activate the code (joker command).</p>
+<p><strong>Pose Selection</strong> CaS pose is determined by their movesets. If you add extra joker command codes of Abyss and Night Terror, you can make Soul of Zasalamel and Soul of Nightmare to use Abyss and Nigt Terror&#39;s pose, respectively. Just press the button combination of Abyss/Night Terror once you are on the CaS&#39;s profile screen. Several non-souls discipline has poses. Most of them are victory pose. Discipline with poses includes: Chinese Sword, Grieve Edge, Kunai, Lance, Nunchaku, Rapier, Staff and Tambourines. If you want the character to use different pose, you must activate the Moveset Modifier code while on loading screen (approximately on second flash of &quot;NOW LOADING&quot; letters).</p>
+<h1 id="heading-17">CaS Ending Guide</h1>
+<p>Swapping out standard characters in endings and swapping them with CaS is possible, this is also true with standard character events. However, it is very difficult to execute with joker commands. In this guide I will be focusing on how to place up to 4 CaS in standard character&#39;s endings. Shown below is the &quot;Memory of Spica&quot;.</p>
+<p>[[include :fiction:common:video |video-id=-JtIC3r4QuQ]]</p>
+<p><strong>Before you start attempting</strong></p>
+<ul>
+    <li>Use only the Character Modifier (Play As) codes. Using other modifiers such as moveset and/or weapon will guarantee to mess up the ending sequence.</li>
+    <li>All CaS in the ending sequence only speak nonsensical one liners like a broken record, so you may want to turn voice off and disable subtitles in options.</li>
+    <li>Since this is excruciatingly difficult to pull off, you might wish to prepare some aspirin and an extra controller.</li>
+</ul>
+
+<p>First, you will need to understand the basic mechanism of how Soul Calibur III assigns characters in the event viewer. The system assigns immediate appearing character when the black wipe starts to disappear. Some late appearing characters can be assigned after the ending sequence has started.</p>
+<p>Second, you must be familiar with the swap technique in CaS Profile and Weapon Exhibition Guide. You must activate the joker code as the black wipe starts to leave the left part of the screen. This needs to be a very precise timing; as if you&#39;re too early, the character won&#39;t swap and if you&#39;re too late, the game freezes, or your character is lying down somewhere.</p>
+<p>Third, you must use 2P character modifier to make appearance for another character. In addition, there are also 3P and 4P character modifiers:</p>
+<p><strong>3P Character Modifier</strong> 00DC1120 00??</p>
+<p><strong>4P Character Modifier</strong> 00DDE8A0 00??</p>
+<div class="alert alert-warning">
+<p><span class="fa fa-warning">@&lt;&amp;nbsp;&gt;@</span> Tampering with 3P and 4P code outside the event, will usually mess up your game.</p>
+</div>
+<p><strong>Example 1, Mitsurugi&#39;s ending setup</strong> 1P: Mitsurugi 2P: Mook #2 3P (immediate): Mook #1 (that first mook you see flying) 3P (after input): Taki So in order to swap Taki&#39;s appearance, you must activate the joker command just after the B ending input disappears.</p>
+<p><strong>Example 2, Kilik&#39;s ending setup, all immediate</strong> 1P: Kilik 2P: Xianghua 3P: Maxi</p>
+<p>From all endings that have been tested, 4P is only used for Siegfried&#39;s ending (there are three Nightmares there), unless you want to change the mooks.</p>
+<p>Fourth, you can only swap CaS in digit 60 and 61 into the endings. Swapping in CotS characters have been tried but it does not appear to be working. Also, all non-ending sequence 2P are not swappable. Example: if you try to swap the Tira who jump to your raft, the game will crash.</p>
+<p>Fifth, the memory limit for CaS in Soul Calibur III is only 2, and there is no way to increase it, as it&#39;s just how the game works. This makes the Kilik ending require post video editing if you want to make a 3rd CaS appearance there. In the example posted, there were 2 videos: one with Sauron and Spica, the other one with Spica and Perseonn. How will you splice the video depends your skill.</p></p>
+</div>
+</div>
+</div>
+<p>[[module css]] .toc-bg {background-image: url(&#39;http://capa.wdfiles.com/local--files/guides:soulcalibur-3/soulcalibur-3-sidebar.avif&#39;);} .guide-article-hide {display:none;} .guide-article-only {display:block;} [[/module]]</p>
     </main>
+    <script src="/assets/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
