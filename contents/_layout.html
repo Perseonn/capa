@@ -7,7 +7,7 @@
     <meta name="description" content="{{DESCRIPTION}}...">
     
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/css/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="{{SITE_URL}}">
@@ -31,19 +31,43 @@
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
     <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
     <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
     <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
-    <header>
-        {{NAV}}
-    </header>
-    <main>
-        {{BODY}}
-    </main>
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-md-2 p-0">
+                {{NAV}}
+            </header>
+            <div class="col-12 col-md-10 p-0">
+                <main class="capa-main">
+                    {{BODY}}
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                            CAPA
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/home:home">Home</a> · 
+                                <a href="/home:guide">Guide</a> · 
+                                <a href="/home:article">Article</a>
+                        </div>
+                            <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
 </body>
 </html>

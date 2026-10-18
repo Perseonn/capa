@@ -2,7 +2,7 @@
  * The Great Wikidot Parser
  * =============== =============== =============== ===============
  */
-
+import path from "path";
 import fs from "fs";
 import { customInlineParsers } from "./parser-custom.js";
 
@@ -416,14 +416,68 @@ function parseImage(line, sourceName) {
     const className = parts[2] ?? "";
     const [category, slug] = sourceName.split("_", 2);
 
+    let src;
+
+    if (/^https?:\/\//i.test(filename)) {
+        // External image URL
+        src = filename;
+    } else if (filename.startsWith("/")) {
+        // Root-relative to the assets directory
+        src = `/assets${filename}`;
+    } else {
+        // Relative to the current page's asset directory
+        src = `/assets/${category}/${slug}/${filename}`;
+    }
+
     const classAttribute = className
-        ? ` class="${escapeHtml(className)}"`
+        ? `${escapeHtml(className)}`
         : "";
 
-    return `<figure${classAttribute}>
-    <img class="img-fluid" src="/assets/${escapeHtml(category)}/${escapeHtml(slug)}/${escapeHtml(filename)}" alt="${escapeHtml(title)}">
-    ${title ? `<figcaption>${escapeHtml(title)}</figcaption>` : ""}
-</figure>`;
+    const alt = title || filename.split("/").pop();
+    const img = `<img class="img-fluid ${classAttribute}" src="${escapeHtml(src)}" alt="${escapeHtml(alt)}">`;
+
+    if (!title) {
+        return img;
+    }
+
+    return `<figure class="img-container">
+        ${img}
+        <figcaption>${escapeHtml(title)}</figcaption>
+    </figure>`;
+}
+
+/*
+ * =============== =============== =============== ===============
+ * YouTube [[youtube id]]
+ * =============== =============== =============== ===============
+ */
+function parseYoutube(line) {
+    const match = line.trim().match(
+        /^\[\[youtube\s+([A-Za-z0-9_-]+)\]\]$/
+    );
+
+    if (!match) {
+        return null;
+    }
+
+    const videoId = match[1];
+    const templatePath = "./contents/_youtube.html";
+
+    if (!fs.existsSync(templatePath)) {
+        throw new Error(
+            `YouTube template not found: ${templatePath}`
+        );
+    }
+
+    const template = fs.readFileSync(
+        templatePath,
+        "utf8"
+    );
+
+    return template.replaceAll(
+        "{{YOUTUBE_ID}}",
+        escapeHtml(videoId)
+    );
 }
 
 /* 
@@ -433,7 +487,7 @@ function parseImage(line, sourceName) {
  */
 function parseDivStart(line) {
     const match = line.trim().match(
-        /^\[\[div(?:\s+class="([^"]+)")?\]\]$/
+        /^\[\[div(?:\s+class="([^"]*)")?(?:\s+style="([^"]*)")?\]\]$/
     );
 
     if (!match) {
@@ -441,12 +495,17 @@ function parseDivStart(line) {
     }
 
     const className = match[1] ?? "";
+    const style = match[2] ?? "";
 
     const classAttribute = className
         ? ` class="${escapeHtml(className)}"`
         : "";
 
-    return `<div${classAttribute}>`;
+    const styleAttribute = match[2] !== undefined
+        ? ` style="${escapeHtml(style)}"`
+        : "";
+
+    return `<div${classAttribute}${styleAttribute}>`;
 }
 
 function parseDivEnd(line) {
@@ -516,7 +575,7 @@ export function renderToc(toc) {
     );
 
     const links = toc.map(item =>
-        `<a href="#${item.id}">${escapeHtml(item.text)}</a>`
+        `<a href="#${item.id}" class="toc-h${item.level}">${escapeHtml(item.text)}</a>`
     ).join("\n");
 
     return template.replaceAll(
@@ -526,6 +585,297 @@ export function renderToc(toc) {
 }
 
 
+/*
+ * ============================================================
+ * ListPages Module
+ * ============================================================
+ */
+
+function parseListPagesAttributes(line) {
+    const match = line.match(
+        /^\[\[module\s+ListPages\b([\s\S]*?)\]\]\s*$/i
+    );
+
+    if (!match) {
+        return null;
+    }
+
+    const attributes = {};
+
+    for (const attribute of match[1].matchAll(
+        /([a-zA-Z_]\w*)="([^"]*)"/g
+    )) {
+        attributes[attribute[1].toLowerCase()] = attribute[2];
+    }
+
+    return attributes;
+}
+
+function renderListPages(attributes, body, sourceName) {
+    const inventoryPath = "./dist/_listPage.json";
+
+    if (!fs.existsSync(inventoryPath)) {
+        throw new Error(
+            `ListPages inventory not found: ${inventoryPath}`
+        );
+    }
+
+    let pages = JSON.parse(
+        fs.readFileSync(inventoryPath, "utf8")
+    );
+
+    // Category filter. An empty category matches all categories.
+    if (attributes.category) {
+        pages = pages.filter(
+            page => page.category === attributes.category
+        );
+    }
+
+    // WIP pages are excluded by default.
+    pages = pages.filter(page => page.wip !== true);
+
+    // Sorting.
+    const order = (attributes.order || "updated_at desc")
+        .trim()
+        .toLowerCase();
+
+    const descending = order.endsWith(" desc");
+    const sortField = order
+        .replace(/\s+(asc|desc)$/, "")
+        .trim();
+
+    if (sortField === "title" || sortField === "updated_at") {
+        pages.sort((a, b) => {
+            const aValue = sortField === "title"
+                ? (a.title || "").toLowerCase()
+                : (a.updated || "");
+
+            const bValue = sortField === "title"
+                ? (b.title || "").toLowerCase()
+                : (b.updated || "");
+
+            const comparison = aValue.localeCompare(bValue);
+
+            return descending ? -comparison : comparison;
+        });
+    }
+
+    // Limit is applied after filtering and sorting.
+    const total = pages.length;
+    const limit = Number.parseInt(attributes.limit, 10);
+
+    if (Number.isFinite(limit) && limit > 0) {
+        pages = pages.slice(0, limit);
+    }
+
+    return pages.map((page, index) => {
+        const fullname = page.category
+            ? `${page.category}/${page.slug}`
+            : page.slug;
+
+        const title = page.title || page.slug;
+        const link = page.url || "/";
+
+        const variables = {
+            "title": title,
+            "title_linked": `[[link ${fullname} | ${title}]]`,
+            "name": page.slug,
+            "category": page.category,
+            "fullname": fullname,
+            "link": link,
+            "updated_at": page.updated || "",
+            "index": String(index + 1),
+            "total": String(total),
+            "limit": attributes.limit || ""
+        };
+
+        let expanded = body;
+
+        for (const [key, value] of Object.entries(variables)) {
+            expanded = expanded.replaceAll(
+                `%%${key}%%`,
+                String(value ?? "")
+            );
+        }
+
+        return parseWikidot(
+            expanded,
+            page.sourceName || sourceName
+        ).html;
+    }).join("\n");
+}
+
+/*
+ * ============================================================
+ * Include Module
+* [[include component:list-page-item | title=Example]]
+ * resolves to:
+ * contents/component_list-page-item.txt
+ * ============================================================
+ */
+
+function stripIncludeMetadata(source) {
+    const lines = source.split(/\r?\n/);
+    let index = 0;
+
+    while (index < lines.length) {
+        const line = lines[index].trim();
+
+        if (!line.startsWith("@")) {
+            break;
+        }
+
+        // Match the same leading metadata syntax as build.js.
+        const match = line.match(/^@(\w+):\s*(.*)$/);
+
+        if (!match) {
+            break;
+        }
+
+        // Metadata lines are discarded, whether the field is known or not.
+        index++;
+    }
+
+    return lines.slice(index).join("\n");
+}
+
+function parseIncludeParameters(includeContent) {
+    const sections = includeContent.split("|");
+    const pageSpec = sections.shift().trim();
+
+    // The target is the first word in the initial section.
+    const [target, ...inlineParameters] = pageSpec.split(/\s+/);
+
+    const parameters = {};
+
+    function addParameter(parameterText) {
+        const equalsIndex = parameterText.indexOf("=");
+
+        if (equalsIndex === -1) {
+            return;
+        }
+
+        const name = parameterText.slice(0, equalsIndex).trim();
+        const value = parameterText.slice(equalsIndex + 1).trim();
+
+        if (name) {
+            parameters[name] = value;
+        }
+    }
+
+    // Also accept parameters written beside the target.
+    for (const parameter of inlineParameters) {
+        addParameter(parameter);
+    }
+
+    // Wikidot-style pipe-separated parameters, including multiline ones.
+    for (const section of sections) {
+        addParameter(section);
+    }
+
+    return { target, parameters };
+}
+
+function resolveIncludePath(target) {
+    // category:slug becomes category_slug.txt.
+    // A category-less target remains page-name.txt.
+    const sourceName = target.includes(":")
+        ? target.replaceAll(":", "_")
+        : target;
+
+    if (
+        !sourceName ||
+        sourceName.includes("..") ||
+        path.isAbsolute(sourceName) ||
+        sourceName.includes("/") ||
+        sourceName.includes("\\")
+    ) {
+        throw new Error(`Invalid include target: ${target}`);
+    }
+
+    const contentsDirectory = path.resolve("contents");
+    const includePath = path.resolve(
+        contentsDirectory,
+        `${sourceName}.txt`
+    );
+
+    if (!includePath.startsWith(contentsDirectory + path.sep)) {
+        throw new Error(`Invalid include path: ${target}`);
+    }
+
+    return { sourceName, includePath };
+}
+
+function expandIncludes(source, includeStack = []) {
+    const includePattern =
+        /(^|\n)([ \t]*)(\[\[include\b[\s\S]*?\]\])[ \t]*(?=\n|$)/gi;
+
+    return source.replace(
+        includePattern,
+        (wholeMatch, lineBreak, indentation, includeTag) => {
+            // Like Wikidot, a leading space prevents include processing.
+            if (indentation.length > 0) {
+                return wholeMatch;
+            }
+
+            const includeContent = includeTag
+                .slice("[[include".length, -2)
+                .trim();
+
+            const { target, parameters } =
+                parseIncludeParameters(includeContent);
+
+            if (!target) {
+                throw new Error("Include tag is missing its target");
+            }
+
+            const { sourceName, includePath } =
+                resolveIncludePath(target);
+
+            if (includeStack.includes(sourceName)) {
+                const chain = [...includeStack, sourceName].join(" -> ");
+
+                throw new Error(`Include cycle detected: ${chain}`);
+            }
+
+            if (!fs.existsSync(includePath)) {
+                console.warn(
+                    `[Wikidot] Include not found: ${includePath}`
+                );
+
+                return (
+                    lineBreak +
+                    `Include <${sourceName}.txt> was not found!`
+                );
+            }
+
+            let includedSource = fs.readFileSync(
+                includePath,
+                "utf8"
+            );
+
+            // Remove the component's leading @metadata block.
+            includedSource = stripIncludeMetadata(includedSource);
+
+            // Substitute {$parameter} placeholders.
+            // Wikidot parameter names may contain hyphens.
+            includedSource = includedSource.replace(
+                /\{\$([A-Za-z_][\w-]*)\}/g,
+                (placeholder, name) => parameters[name] ?? ""
+            );
+
+            // Expand nested includes before returning the inserted source.
+            includedSource = expandIncludes(
+                includedSource,
+                [...includeStack, sourceName]
+            );
+
+            // Preserve the newline that preceded the include tag.
+            return lineBreak + includedSource;
+        }
+    );
+}
+
 /* 
  * =============== =============== =============== ===============
  * Main Wikidot Document Parser
@@ -533,6 +883,8 @@ export function renderToc(toc) {
  */
 
 export function parseWikidot(source, sourceName, customInlineParsers = [], tocOverride = null) {
+    source = expandIncludes(source);
+    
     headingIdCounter = 0;
     const lines = source.split(/\r?\n/);
     const output = [];
@@ -546,10 +898,15 @@ export function parseWikidot(source, sourceName, customInlineParsers = [], tocOv
         }
 
         const text = paragraph.join(" ");
+        const parsed = parseInline(text, customInlineParsers);
 
-        output.push(
-            `<p>${parseInline(text, customInlineParsers)}</p>`
-        );
+        // Skip paragraphs that contain no meaningful content.
+        if (parsed.trim() === "") {
+            paragraph = [];
+            return;
+        }
+
+        output.push(`<p>${parsed}</p>`);
 
         paragraph = [];
     }
@@ -567,6 +924,61 @@ export function parseWikidot(source, sourceName, customInlineParsers = [], tocOv
             index++;
             continue;
         }
+
+        
+        /*
+         * ListPages module
+         */
+        const listPagesAttributes = parseListPagesAttributes(
+            line.trim()
+        );
+
+        if (listPagesAttributes !== null) {
+            flushParagraph();
+
+            let endIndex = index + 1;
+
+            while (
+                endIndex < lines.length &&
+                lines[endIndex].trim().toLowerCase() !== "[[/module]]"
+            ) {
+                endIndex++;
+            }
+
+            if (endIndex >= lines.length) {
+                throw new Error(
+                    `Unclosed ListPages module in ${sourceName}`
+                );
+            }
+
+            const moduleBody = lines
+                .slice(index + 1, endIndex)
+                .join("\n");
+
+            output.push(
+                renderListPages(
+                    listPagesAttributes,
+                    moduleBody,
+                    sourceName
+                )
+            );
+
+            index = endIndex + 1;
+            continue;
+        }
+        
+        /*
+         * YouTube
+         */
+        const youtube = parseYoutube(line);
+
+        if (youtube !== null) {
+            flushParagraph();
+            output.push(youtube);
+            index++;
+            continue;
+        }
+
 
         /*
          * Div start

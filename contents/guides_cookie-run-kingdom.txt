@@ -15,9 +15,7 @@ This guide is no longer maintained after March 2025. Only general information wi
 * Turn off Global Messages
 * No more random people getting cookies messages!
 
-[[include image |image=/local--files/guide:cookie-run-kingdom/crk-global-notification.webp
-|title=For your piece of mind, turn this option off!
-]]
+[[image crk-global-notification.webp | For your piece of mind, turn this option off!]]
 
 + [[# first-thing]]I'm new / I just returned after months, what cookies should I get?
 * Most Story Content, at least to Crispia 18, can be cleared with 3 cookies: [[span class="icon cine"]]Cine (Fettuccine)[[/span]], [[span class="icon creme-brulee"]]Creme Brulee[[/span]], and [[span class="icon star-coral"]]Star Coral[[/span]].
@@ -28,10 +26,7 @@ This guide is no longer maintained after March 2025. Only general information wi
  * If you have [[span class="icon creme-brulee"]]Creme Brulee[[/span]] in party, use [[span class="icon trsr robes"]]Robe[[/span]] instead
  * Use [[span class="icon trsr rare-scroll"]]Rare Scroll[[/span]], and [[span class="icon trsr common-watch"]]Common Watch[[/span]] if these treasure's levels are higher.
 
-[[include common:image-css
-|image=http://capa.wikidot.com/local--files/guide:cookie-run-kingdom/crk-mileage-point.webp
-|title=Use your Mileage points to get the Epic cookies you don't have.
-]]
+[[image crk-mileage-point.webp | Use your Mileage points to get the Epic cookies you don't have.]]
 
 + [[# toppings]] What Toppings?
 * In general, Cookies's topping can be grouped by:
@@ -77,9 +72,7 @@ Tree of Wishes, there's no better way than this, but take these notes:
 * Please do not use the Coin Bounties as this will create a bad dependency.
  * Bounties should be used only for Powders, Sugar Crystals, and Cake Pieces.
 
-[[include image |image=/local--files/guide:cookie-run-kingdom/crk-tree-of-wishes.webp
-|title=Tree of Wishes is your main source of coins. Please don't try to find alternatives.
-]]
+[[image crk-tree-of-wishes.webp | Tree of Wishes is your main source of coins. Please don't try to find alternatives.]]
 
 
 + [[# moolah]] What should I spend real money on?
@@ -181,16 +174,16 @@ If you need further assistance, you can go to contact me on Discord at Perseonn#
 
 ++ Changelog
 [[div class="alert alert-info"]]
-|| 2025/03/15 || Make the guide to be much more general and added obsolete warning.||
-|| 2024/05/06 || General update on Cookie List and removal of alternatives on Red Velvet Dragon.||
-|| 2024/03/23 || Streamlined Avatar of Destiny Battle ||
-|| 2024/02/27 || Removed Macaron and Rockstar from Avatar of Destiny battle. Collapsed Abyss guide due to inefficiency.||
-|| 2024/02/25 || Separated Avatar of Destiny battle to Auto and Manual. ||
-|| 2024/02/23 || Shuffled piority of damagers due to Creme being mileagable. ||
-|| 2024/02/17 || Shifter Blackberry use to the lineup of Avatar of Destiny. ||
-|| 2024/01/28 || Added Rebel to the lineup of Avatar of Destiny. ||
-|| 2024/01/21 || Updated with anchors and revisions considering the addition of Beascuits. ||
-|| 2024/01/15 || Updated Red Velvet Dragon with Rebel Cookie. ||
-|| 2023/12/23 || Added images and expanded landmark explanations. ||
-|| 2023/12/23 || Initial version, contains all information from the Reddit Discord. ||
+ | | 2025/03/15  | | Make the guide to be much more general and added obsolete warning. | | 
+ | | 2024/05/06  | | General update on Cookie List and removal of alternatives on Red Velvet Dragon. | | 
+ | | 2024/03/23  | | Streamlined Avatar of Destiny Battle  | | 
+ | | 2024/02/27  | | Removed Macaron and Rockstar from Avatar of Destiny battle. Collapsed Abyss guide due to inefficiency. | | 
+ | | 2024/02/25  | | Separated Avatar of Destiny battle to Auto and Manual.  | | 
+ | | 2024/02/23  | | Shuffled piority of damagers due to Creme being mileagable.  | | 
+ | | 2024/02/17  | | Shifter Blackberry use to the lineup of Avatar of Destiny.  | | 
+ | | 2024/01/28  | | Added Rebel to the lineup of Avatar of Destiny.  | | 
+ | | 2024/01/21  | | Updated with anchors and revisions considering the addition of Beascuits.  | | 
+ | | 2024/01/15  | | Updated Red Velvet Dragon with Rebel Cookie.  | | 
+ | | 2023/12/23  | | Added images and expanded landmark explanations.  | | 
+ | | 2023/12/23  | | Initial version, contains all information from the Reddit Discord.  | | 
 [[/div]]

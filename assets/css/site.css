@@ -26,6 +26,9 @@ CAPA Skin     #b49797	(180,151,151,1)
 	--color-dark-75: rgba(0, 0, 0, 0.75);
 	--color-splash-overlay: rgba(255, 255, 255, 0.75);	
 	--color-text-overlay: rgba(255, 255, 255, 0.90);
+	--image-desktop-width: calc(10/12*100%);
+	--image-desktop-margin: calc(1/12*100%);
+	--border-rounded: 0.5rem;
 }
 
 /*
@@ -47,7 +50,7 @@ FONT, FONT COLOR, AND LINE HEIGHT
 	--serif-font: 'Stardos Stencil', 'Fluent Emoji Color', '游明朝', '游明朝体', YuMincho, 'Yu Mincho', 'ヒラギノ明朝 ProN', 'Hiragino Mincho ProN', 'ＭＳ 明朝', 'MS Mincho', HiraMinProN-W3, 'TakaoEx明朝', TakaoExMincho, 'MotoyaLCedar', 'Droid Sans Japanese', serif;
 	--sans-font: 'Faculty Glyphic', 'Fluent Emoji Color', '游ゴシック', '游ゴシック体', YuGothic, 'Yu Gothic', 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ ゴシック', 'MS Gothic', HiraKakuProN-W3, 'TakaoExゴシック', TakaoExGothic, 'MotoyaLCedar', 'Droid Sans Japanese', sans-serif;
 	--mono-font: 'Atkinson Hyperlegible Mono', Monaco, Consolas, monospace;
-	--base-font-size: 1.60rem;
+	--base-font-size: 1.00rem;
 	--base-line-height: calc(var(--base-font-size) * 2);
 }
 
@@ -253,7 +256,7 @@ footer .footer > div{
 * {
 	transition-duration: 0.2s;
 }
-
+/*
 .m-0  {margin: 0rem;}
 .mt-1 {margin-top: 0.5rem;}
 .mt-2 {margin-top: 1.0rem;}
@@ -296,8 +299,12 @@ footer .footer > div{
 .pl-6 {padding-left: 3.0rem;}
 .pl-7 {padding-left: 3.5rem;}
 .pl-8 {padding-left: 4.0rem;}
-
+*/
 .rounded{border-radius: 0.5rem;}
+
+.aspect-1x1{aspect-ratio: 1 / 1;}
+.aspect-16x9{aspect-ratio: 16 / 9;}
+.aspect-9x16{aspect-ratio: 9 / 16;}
 
 .flex    {display: flex;}
 .flex li {display: inline-block; width: 100%;}
@@ -421,6 +428,23 @@ main > .content .page-title {
 	background-position: center;
 }
 
+@media (min-width: 768px) {
+    figure.img-container img{
+		width: var(--image-desktop-width);
+		margin-left: var(--image-desktop-margin);
+	}
+}
+
+figure.img-container img{
+		border-radius: var(--border-rounded);
+}
+
+figure.img-container figcaption{
+	text-align: center;
+}
+
+
+
 blockquote{
 	font-size:inherit;
 	color: var(--color-dark-50);
@@ -535,15 +559,180 @@ pre {
 	max-height: 100vh;
 }
 
+.youtube-container {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+}
+
+.youtube-container iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+	border-radius: var(--border-rounded);
+}
+
+@media (min-width: 768px) {
+	.youtube-container {
+		width: var(--image-desktop-width);
+		margin-left: var(--image-desktop-margin);
+	}
+}
+
 
 /*
 ==============================================================================
-SIDE BAR A.K.A TABLE OF CONTENTS
+CAPA NAV
+==============================================================================
+*/
+.capa-nav {
+    min-width: 0;
+}
+
+.capa-navbar {
+    position: sticky;
+    top: 0rem;
+}
+
+#capa-nav-content {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+/* Hide mobile-only controls on desktop */
+
+.capa-nav-toggle,
+.capa-nav-overlay {
+    display: none;
+}
+
+
+#capa-nav-content {
+	height: 100dvh;
+	overflow-x: hidden;
+	overflow-y: auto;
+	overscroll-behavior: contain;
+	padding-top: 1rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+#capa-nav-content::-webkit-scrollbar {width: 0.5rem;}
+#capa-nav-content::-webkit-scrollbar-track {background: none; border-radius:8px;}
+#capa-nav-content::-webkit-scrollbar-thumb {background: var(--color-capa-1); border-radius:8px;}
+#capa-nav-content::-webkit-scrollbar-thumb:hover {background: var(--color-capa-2);}
+
+/* =============== Mobile Drawer =============== */
+
+@media (max-width: 767.98px) {
+
+    /* The header itself must not occupy a row above the article. */
+    .capa-nav {
+        height: 0;
+        padding: 0;
+    }
+
+    .capa-navbar {
+        position: static;
+    }
+
+    /* Fixed hamburger rail */
+    .capa-nav-toggle {
+        display: flex;
+        position: fixed;
+        top: 0.5rem;
+        left: 0.5rem;
+        z-index: 1062;
+
+        width: 2.75rem;
+        height: 2.75rem;
+        align-items: center;
+        justify-content: center;
+
+        border: 0;
+        border-radius: 0.5rem;
+        background: var(--bs-body-bg, #fff);
+        color: var(--bs-body-color, #212529);
+        box-shadow: 0 1px 5px rgb(0 0 0 / 15%);
+        font-size: 1.25rem;
+    }
+
+    /* Dimmed page overlay */
+    .capa-nav-overlay {
+        display: block;
+        position: fixed;
+        inset: 0;
+        z-index: 1050;
+
+        border: 0;
+        background: rgb(0 0 0 / 45%);
+        opacity: 0;
+        visibility: hidden;
+        transition:
+            opacity 0.25s ease,
+            visibility 0.25s ease;
+    }
+
+    /* Sliding sidebar */
+    #capa-nav-content {
+        display: flex;
+        position: fixed;
+        inset: 0 auto 0 0;
+        z-index: 1051;
+
+        width: min(280px, 85vw);
+        background: var(--bs-body-bg, #fff);
+        box-shadow: 2px 0 12px rgb(0 0 0 / 15%);
+		padding-top: 4rem;
+
+        transform: translateX(-100%);
+        visibility: hidden;
+        transition:
+            transform 0.25s ease,
+            visibility 0.25s ease;
+    }
+
+    /* Expanded state */
+    .capa-navbar.is-open #capa-nav-content {
+        transform: translateX(0);
+        visibility: visible;
+    }
+
+    .capa-navbar.is-open .capa-nav-overlay {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    /* The article remains in place beside the narrow rail. */
+    .capa-main {
+        padding-left: 4.5rem;
+        min-width: 0;
+    }
+}
+
+/* Respect reduced-motion preferences */
+@media (prefers-reduced-motion: reduce) {
+    #capa-nav-content,
+    .capa-nav-overlay {
+        transition: none;
+    }
+}
+
+/*
+==============================================================================
+TABLE OF CONTENTS
 ==============================================================================
 */
 
+.table-of-contents a{
+	display:block;
+}
+
+/*
 .table-of-contents{
-	position: fixed;
 	height: 100%;
 	overflow-y: overlay;
 	overflow-x: clip;
@@ -551,16 +740,12 @@ SIDE BAR A.K.A TABLE OF CONTENTS
 	z-index: 2;
 }
 
-.table-of-contents::-webkit-scrollbar {width: 0.5rem;}
-.table-of-contents::-webkit-scrollbar-track {background: none; border-radius:8px;}
-.table-of-contents::-webkit-scrollbar-thumb {background: var(--color-capa-1); border-radius:8px;}
-.table-of-contents::-webkit-scrollbar-thumb:hover {background: var(--color-capa-2);}
 
 .table-of-contents .site-title{
 	display: block;
 }
 
-/*
+
 .table-of-contents::before {
 	content: "";
 	position: absolute;
@@ -607,6 +792,48 @@ SIDE BAR A.K.A TABLE OF CONTENTS
 
 .admins-only .nav-image-container img{
 	height: 3.5rem;
+}
+
+#toc .title {
+	display: none;
+}
+
+#toc{
+	margin-left: 0px;
+	padding:0px;
+	min-width: 0;
+	border: none;
+}
+
+#toc a.toc-h1{
+	margin-left: 0px;
+	margin-top: 1rem;
+}
+
+#toc a.toc-h2::before {
+	content: '§ ';
+	color: var(--color-1-a-light);
+}
+
+#toc a.toc-h2{
+	margin-left: 1rem;
+	text-indent: -1rem;
+	padding: 0.2rem 0rem;
+}
+
+#toc a.toc-h3::before {
+	content: '> ';
+	color: var(--color-capa-4);
+}
+
+#toc a.toc-h3{
+	margin-left: 2rem;
+	text-indent: -1rem;
+	padding: 0.15rem 0rem;
+}
+
+#toc-action-bar{
+	display:none;
 }
 
 /*
@@ -930,38 +1157,38 @@ PAGE SPLASH, GRADIENT, FOOTER
 }
 
 .generic-splash {
-	background-image: url('http://capa.wdfiles.com/local--files/img:css/capa-tile-v2.webp');
+	background-image: url('/assets/img/capa-tile-v2.webp');
 	background-attachment: fixed;
 }
 
 .main-splash{
-	background-image: url('http://capa.wdfiles.com/local--files/img:css/splash-main.avif');
+	background-image: url('/assets/img/splash-main.avif');
 	background-size: cover;
 	background-position: bottom;
 	background-repeat: no-repeat;
 }
 
 .main-splash-alternate{
-	background-image: linear-gradient(0deg, var(--color-splash-overlay), var(--color-splash-overlay)), url('http://capa.wdfiles.com/local--files/img:css/splash-main.avif');
+	background-image: linear-gradient(0deg, var(--color-splash-overlay), var(--color-splash-overlay)), url('/assets/img/splash-main.avif');
 	background-size: cover;
 	background-position: 80%;
 	background-repeat: no-repeat;
 }
 
 .guide-splash{
-	background-image: linear-gradient(0deg, var(--color-splash-overlay), var(--color-splash-overlay)), url('http://capa.wdfiles.com/local--files/img:css/splash-guide.avif');
+	background-image: linear-gradient(0deg, var(--color-splash-overlay), var(--color-splash-overlay)), url('/assets/img/splash-guides.avif');
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 
 .guide-splash-alternate{
-	background-image: url('http://capa.wdfiles.com/local--files/img:css/splash-guide.avif');
+	background-image: url('/assets/img/splash-guide.avif');
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 
 .article-splash{
-	background-image: linear-gradient(0deg, var(--color-splash-overlay), var(--color-splash-overlay)), url('http://capa.wdfiles.com/local--files/img:css/splash-article.avif');
+	background-image: linear-gradient(0deg, var(--color-splash-overlay), var(--color-splash-overlay)), url('/assets/img/splash-articles.avif');
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -1046,9 +1273,9 @@ List page Layout
 */
 .list-page-container{
 	padding: 1rem;
-	display: grid;
 	align-items: end;
-	grid-template-columns: 1fr;
+	/*display: grid;*/
+	/*grid-template-columns: 1fr;*/
 }
 
 .list-page-container:hover {
@@ -1095,48 +1322,6 @@ List page Layout
 Article / Guide Page Elements
 ==============================================================================
 */
-
-#toc .title {
-	display: none;
-}
-
-#toc{
-	margin-left: 0px;
-	padding:0px;
-	min-width: 0;
-	border: none;
-}
-
-#toc div[style="margin-left: 1em;"]{
-	margin-left: 0px !important;
-	margin-top: 1rem;
-}
-
-#toc div[style="margin-left: 2em;"]::before {
-	content: '§ ';
-	color: var(--color-1-a-light);
-}
-
-#toc div[style="margin-left: 2em;"]{
-	margin-left: 1rem !important;
-	text-indent: -1rem;
-	padding: 0.2rem 0rem;
-}
-
-#toc div[style="margin-left: 3em;"]::before {
-	content: '> ';
-	color: var(--color-capa-4);
-}
-
-#toc div[style="margin-left: 3em;"]{
-	margin-left: 2rem !important;
-	text-indent: -1rem;
-	padding: 0.15rem 0rem;
-}
-
-#toc-action-bar{
-	display:none;
-}
 
 .guide-author .printuser a{
 	padding-left: 0.25rem;
@@ -1796,7 +1981,7 @@ Controller CSS
 
 .controller{
 	font-family: controller;
-	font-size: 2.5rem;
+	font-size: calc(var(--base-font-size) * 1.4);
 	vertical-align: sub;
 	height: var(--base-font-size);
 	display: inline-block;

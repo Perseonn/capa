@@ -1,0 +1,7 @@
+++ Damage Evaluation
+You can evaluate how well you are doing damage by the following:
+||~ Parameter ||~ Okay ||~ Good ||~ Great! ||
+|| [[span class="cell-item"]]Damage Tally Practice Rockbear[[/span]][[span class="cell-item"]]20 seconds, Standing Still[[/span]][[span class="cell-item"]]No drinks or tree or any boosts.[[/span]] || 3M Damage || 4M Damage || 5M Damage ||
+|| [[span class="cell-item"]]Damage Tally Practice Rockbear[[/span]][[span class="cell-item"]]Free, Standing Still[[/span]][[span class="cell-item"]]No drinks or tree or any boosts.[[/span]] || 18M damage in 120s || 24M damage in 120s || 30M damage in 120s ||
+|| [[span class="cell-item"]]Clear XH Solo Trigger Profound Darkness[[/span]] [[span class="cell-item"]] Tree boost and drink only.[[/span]] || Less than 9:30 || Less than 7:00 || Less than 5:30 ||
+|| [[span class="cell-item"]]Clear UQ Masquerade[[/span]] [[span class="cell-item"]] Tree boost and drink only.[[/span]] || Less than 1:00 || Less than 45s || Less than 30s ||

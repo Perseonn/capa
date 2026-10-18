@@ -76,11 +76,11 @@ Each slot has two moveset address, each using same digit. They have different fu
 : Moveset 2 : Character's moveset, weapon set, and roster slot (standard edit). This affects taunt if used with either Kilik with Xiba's move or Elysium with Pyrrha Omega's move, but neither will gain special moveset nor special Critical Edge.
 : Example : If you make a Siegfried custom, set Move 1 to "01" and Move 2 to "02, the game will recognize the character as Maxi, will call "Maxi" upon selection, will have maxi's weapon name on creation mode, but will appear under Voldo's roster slot, have Voldo's moveset and weapon, while have Maxi's pose during creation.
 
-[[include :fiction:common:alert |text=Using Ezio style, apart from missing announcer voice, has no problem in all modes.]]
+[[xinclude :fiction:common:alert |text=Using Ezio style, apart from missing announcer voice, has no problem in all modes.]]
 
-[[include :fiction:common:alert |text=Voice digit is different from moveset digit, but somehow follows old numbering.]]
+[[xinclude :fiction:common:alert |text=Voice digit is different from moveset digit, but somehow follows old numbering.]]
 
-[[include :fiction:common:alert |text=With weapon code, it is possible to assign 9th weapon for all characters. They are either SoulCalibur (female characters, Siegfried), or a more detailed version of their default weapon.]]
+[[xinclude :fiction:common:alert |text=With weapon code, it is possible to assign 9th weapon for all characters. They are either SoulCalibur (female characters, Siegfried), or a more detailed version of their default weapon.]]
 
 ||~ Move 1 ||~ Move 2 ||~ Voice ||~ Character ||~ English VA||~ Japanese VA||
 || 00 || 00 || 01 || Mitsurugi || Ed Cunningham || Toshiyuki Morikawa || 
@@ -161,15 +161,8 @@ Notice that Bohb 5 is not used on the algorithm because of {{Logic 2}}, thus Boh
 
 From the initial 29832, the algorithm allowed me to filter the table to a much manageable 63 addresses. After just a bit of looking, I found that address 16603 and 20780 possibly contain the character digit since they correspond to {{Logic 1}}. But here's the catch. The digit for Mitsurugi (00) appears on the blank slot before Bohb1.
 
-[[include image
-|image=/local--files/game:soulcalibur5/hackprocess.png
-|title=Note the vertical arrangement due to the limitation of Excel's horizontal cells. Apparently on Soulcalibur V, Cervantes (08) comes before Yoshimitsu (18).
-|ratio=4x3
-]]
+[[image hackprocess.png | Note the vertical arrangement due to the limitation of Excel's horizontal cells. Apparently on Soulcalibur V, Cervantes (08) comes before Yoshimitsu (18).]]
 
 Which means my speculation of {{Logic 2}} is proven. After editing both number, I succeeded in making my first Ezio Custom Character.
 
-[[include image
-|image=/local--files/game:soulcalibur5/sleipial-c3special.avif
-|title=Sleipial with Ezio's moveset.
-]]
+[[image sleipial-c3special.avif | Sleipial with Ezio's moveset.]]

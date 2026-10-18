@@ -21,8 +21,8 @@ This is the estimate time table, based on the worst possible scenario that each 
 + Chapter 6
 Chapter 6 begins after player left Valadin's house, only to be confronted by Ellanese. She will help Valadin but gave him time to prepare for the upcoming dungeon, the Catacombs. Player are expected to stock in bulk before going to the catacombs.
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-1.avif |title=Ellanese confronts Valadin.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-2.avif |title=A choice to prepare or to continue the story.]]
+[[image story-1.avif | Ellanese confronts Valadin.]]
+[[image story-2.avif | A choice to prepare or to continue the story.]]
 
 
 ++ Catacombs of the Gardian
@@ -31,36 +31,36 @@ Chapter 6 begins after player left Valadin's house, only to be confronted by Ell
 Catacombs is the toughest dungeon so far, focusing on the endurance of the player, especially since Valadin in alone. As the map suggest, it is linear but very long.
 
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/catacombs-1.avif |title=Catacombs B1]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/catacombs-2.avif |title=Catacombs B2]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/catacombs-3.avif |title=Catacombs B3]]
+[[image catacombs-1.avif | Catacombs B1]]
+[[image catacombs-2.avif | Catacombs B2]]
+[[image catacombs-3.avif | Catacombs B3]]
 
 
 It has three puzzles, one on each floor. The first puzzle involve collecting seven book of the aethers, and the second puzzle involves a brain-twisting riddle.
 
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-4.avif |title=First puzzle.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-5.avif |title=Second puzzle.]]
+[[image story-4.avif | First puzzle.]]
+[[image story-5.avif | Second puzzle.]]
 
 
 The third puzzle, present you with a door that is locked two hours ago. The clues for this last riddle is put on the last part, so player does not go too far to read it. Encounters are disabled on all riddle area, so player will not be frustrated by it. Moreover, there are no boss at the Catacombs.
 
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-6.avif |title=Third puzzle.]]
+[[image story-6.avif | Third puzzle.]]
 
 
 If player think putting catacombs by the assembly hall is weird, Valadin made a remark of it. When player finished the third puzzle, they can enter the council room for the next event. Be wary that by doing this, the catacomb will no longer be accessible. **A secret lies in the catacombs that leads to Ellanese's special item.**
 
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-3.avif |title=Valadin's remark of the architecture.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-7.avif |title=The assembly hall.]]
+[[image story-3.avif | Valadin's remark of the architecture.]]
+[[image story-7.avif | The assembly hall.]]
 
 
 After the catacomb event, Chapter 6 ended with Ellanese arguing Valadin about releasing Eizen. In here, a minor change was made to the script. Ellanese refers Eizen with his last name, indicating that she is very distant to Eizen, as well as disliking his entire house.
 
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-8.avif |title=Ellanese questioned Valadin's method.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-9.avif |title=Valadin questioned Ellanese's knowledge.]]
+[[image story-8.avif | Ellanese questioned Valadin's method.]]
+[[image story-9.avif | Valadin questioned Ellanese's knowledge.]]
 
 
 
@@ -68,36 +68,36 @@ After the catacomb event, Chapter 6 ended with Ellanese arguing Valadin about re
 Chapter 7 begins immediately after the end of chapter 6. Player can only talk to Liana before leaving the house. This event also marks the last appearance of Vylar. **If player visited the Illusion Paradise before, Vylar will be much more displeased, and an extra event between Liana and Valadin will occur.**
 
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-a.avif |title=Vylar's last appearance.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-b.avif |title=Liana's secret remark.]]
+[[image story-a.avif | Vylar's last appearance.]]
+[[image story-b.avif | Liana's secret remark.]]
 
 
 Different from the script, Ellanese will be waiting at fenlands (north forest) entrance instead of at the end of the fenlands. Valadin will say that he needs some time to reconsider his actions. The story will continue once player talked to the Legion Adjutant, traverse to Tellsier and talked to Laruen. Laruen's line was changed so that she does not say "you" to Valadin. Instead, she will use "my lourd". **There are quite a problem on this part, as the script implied an time skip between few weeks to six months.** In order to address this, the timeskip is removed, leaving Peregrine still in its eaglet form.
 
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-c.avif |title=Taking to Adjutant.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-d.avif |title=Talking to Laruen.]]
+[[image story-c.avif | Taking to Adjutant.]]
+[[image story-d.avif | Talking to Laruen.]]
 
 
 Patrolling Mildryd, Laruen will encounter a pair of goofy poachers alone (they have their own theme song). The combat with poachers should be ended quickly, or they will overwhelm Laruen rather easily.
 
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-e.avif |title=Poacher's displeasant voice.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-f.avif |title=Poacher battle.]]
+[[image story-e.avif | Poacher's displeasant voice.]]
+[[image story-f.avif | Poacher battle.]]
 
 
 After the poacher battle, the real boss battle against a Feral Ferres will take place. Feral Ferres is similar to Gullon Alpha, albeit more powerful and only uses one element. He also can drain HP from the party. A change in the script was made as Peregrine is still an eaglet: **Valadin will tell Laruen that he ran from the Feral Ferres because he need Laruen's help (as well as boosting confidence in her).**
 
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-g.avif |title=Versus Feral Ferres.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-h.avif |title=Valadin praised Laruen.]]
+[[image story-g.avif | Versus Feral Ferres.]]
+[[image story-h.avif | Valadin praised Laruen.]]
 
 
 Player will be taken immediately to Laruen's house for the closing event of Chapter 7, where Laruen and Valadin both made their resolve. After this part, the script indicates that player can take Laruen to explore the Mildryd Tor only. **I am preparing a subquest to make Laruen a permanent party member (non-canon, of course).** The subquest will take place in Mildryd, effective only after Chapter 8. Since its creation, Mildryd Tor have been created to serve this subquest, so only script is needed for the subquest.
 
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-i.avif |title=Laruen's resolve.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-6-7/story-j.avif |title=Valadin's resolve.]]
+[[image story-i.avif | Laruen's resolve.]]
+[[image story-j.avif | Valadin's resolve.]]
 
 
 + Other System Changes

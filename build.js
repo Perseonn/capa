@@ -2,7 +2,6 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 
-
 import { parseWikidot, escapeHtml } from "./assets/scripts/parser-wikidot.js";
 import {
     renderArticlePage,
@@ -13,9 +12,12 @@ import {
 const CONTENT_DIR = "./contents";
 const DIST_DIR = "./dist";
 const SITE_URL = "https://capa.asoh.xyz";
+const default_title = "New Page";
+const default_author = "Perseonn Balthasaar";
+const default_updated = "2026-01-01";
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-
 
 /*
  * ============================================================
@@ -59,22 +61,11 @@ function discoverPages() {
             }
         }
 
-        const sourcePath = path.join(
-            CONTENT_DIR,
-            file
-        );
-
-        const source = fs.readFileSync(
-            sourcePath,
-            "utf8"
-        );
-
+        const sourcePath = path.join(CONTENT_DIR, file);
+        const source = fs.readFileSync(sourcePath, "utf8");
         const { metadata } = parseMetadata(source);
 
-        validateMetadata(
-            metadata,
-            sourcePath
-        );
+        validateMetadata(metadata, sourcePath);
 
         return {
             type,
@@ -86,6 +77,38 @@ function discoverPages() {
     });
 }
 
+/*
+ * ============================================================
+ * Page Inventory
+ * ============================================================
+ */
+
+function buildPageInventory(pages) {
+    const inventory = pages
+        .filter(page => !page.sourceName.includes("__"))
+        .map(page => ({
+            category: page.type,
+            slug: page.slug,
+            sourceName: page.sourceName,
+            url: page.type
+                ? `/${page.type}/${page.slug}/`
+                : "/",
+            title: page.metadata.title,
+            author: page.metadata.author,
+            updated: page.metadata.updated,
+            wip: page.metadata.wip !== null
+        }));
+
+    const outputPath = path.join(DIST_DIR, "_listPage.json");
+
+    fs.writeFileSync(
+        outputPath,
+        JSON.stringify(inventory, null, 4) + "\n",
+        "utf8"
+    );
+
+    console.log(`Built: ${outputPath}`);
+}
 
 /*
  * ============================================================
@@ -168,6 +191,7 @@ function purgeStalePages(pages) {
  * @title: Sample Article / Guide
  * @author: Perseonn Balthasaar
  * @updated: 2026-09-25
+ * @wip: any value. WIP accepts any value. To remove it, simply remove the line.
  * The first 100 characters on the next paragraph becomes description
  * ============================================================
  */
@@ -178,7 +202,8 @@ function parseMetadata(source) {
     const metadata = {
         title: null,
         author: null,
-        updated: null
+        updated: null,
+        wip: null
     };
 
     let index = 0;
@@ -248,20 +273,19 @@ function getSocialImage(page) {
 }
 
 function validateMetadata(metadata, sourcePath) {
-    for (const field of ["title", "author", "updated"]) {
-        if (!metadata[field]) {
-            throw new Error(
-                `Missing @${field} in ${sourcePath}`
-            );
-        }
-    }
+    metadata.title ||= default_title;
+    metadata.author ||= default_author;
+    metadata.updated ||= default_updated;
+
+    return metadata;
 }
 
 /*
- * ============================================================
- * Apply _template
- * ============================================================
- */
+ * ============================================================
+ * Apply _template
+ * ============================================================
+ */
+
 function applyPageTemplate(page, metadata, content, toc) {
     if (!page.type) {
         return content;
@@ -276,34 +300,32 @@ function applyPageTemplate(page, metadata, content, toc) {
         return content;
     }
 
-    let template = fs.readFileSync(
-        templatePath,
-        "utf8"
-    );
+    let template = fs.readFileSync(templatePath, "utf8");
 
     /*
      * Keep %%content%% as a marker.
      * The actual page HTML is inserted after the
      * template itself has been parsed.
      */
+
     template = template
-    .replaceAll("%%title%%", metadata.title ?? "")
-    .replaceAll("%%name%%", page.slug ?? "")
-    .replaceAll("%%category%%", page.type ?? "")
-    .replaceAll(
-        "%%fullname%%",
-        page.type
-            ? `${page.type}:${page.slug}`
-            : page.slug
-    )
-    .replaceAll(
-        "%%created_by_linked%%",
-        metadata.author ?? ""
-    )
-    .replaceAll(
-        "%%created_at%%",
-        metadata.updated ?? ""
-    );
+        .replaceAll("%%title%%", metadata.title ?? "")
+        .replaceAll("%%name%%", page.slug ?? "")
+        .replaceAll("%%category%%", page.type ?? "")
+        .replaceAll(
+            "%%fullname%%",
+            page.type
+                ? `${page.type}:${page.slug}`
+                : page.slug
+        )
+        .replaceAll(
+            "%%created_by_linked%%",
+            metadata.author ?? ""
+        )
+        .replaceAll(
+            "%%created_at%%",
+            metadata.updated ?? ""
+        );
 
     const { html } = parseWikidot(
         template,
@@ -313,7 +335,7 @@ function applyPageTemplate(page, metadata, content, toc) {
     );
 
     return html.replaceAll(
-        "%%content%%",
+        "<p>%%content%%</p>",
         content
     );
 }
@@ -341,10 +363,7 @@ ${urls.map(item => `    <url>
 </urlset>
 `;
 
-    const outputPath = path.join(
-        DIST_DIR,
-        "sitemap.xml"
-    );
+    const outputPath = path.join(DIST_DIR, "sitemap.xml");
 
     fs.writeFileSync(
         outputPath,
@@ -353,7 +372,6 @@ ${urls.map(item => `    <url>
 
     console.log(`Built: ${outputPath}`);
 }
-
 
 /*
  * ============================================================
@@ -373,8 +391,8 @@ function applyTemplate(template, values) {
 
 const layoutPath = path.join(__dirname, "contents", "_layout.html");
 const layoutTemplate = fs.readFileSync(layoutPath, "utf8");
-const navPath = path.join(__dirname,"contents","_nav.html");
-const navTemplate = fs.readFileSync(navPath,"utf8");
+const navPath = path.join(__dirname, "contents", "_nav.html");
+const navTemplate = fs.readFileSync(navPath, "utf8");
 
 function createHtml(title, body, socialImage = "", description = "") {
     return applyTemplate(layoutTemplate, {
@@ -397,13 +415,19 @@ function build() {
     fs.mkdirSync(DIST_DIR, { recursive: true });
 
     const pages = discoverPages();
+
     purgeStalePages(pages);
+    buildPageInventory(pages);
 
     for (const page of pages) {
         const source = fs.readFileSync(page.sourcePath, "utf8");
-        const {metadata,content} = parseMetadata(source);
+        const { metadata, content } = parseMetadata(source);
         validateMetadata(metadata, page.sourcePath);
-        const { html: body, toc } = parseWikidot(content,page.sourceName);
+
+        const { html: body, toc } = parseWikidot(
+            content,
+            page.sourceName
+        );
 
         const splashImage = getSplashImage(page);
         const socialImage = getSocialImage(page);
@@ -422,17 +446,22 @@ function build() {
             socialImage,
             description
         );
-        
-        const outputDir = path.join(DIST_DIR, page.type, page.slug);
+
+        const outputDir = path.join(
+            DIST_DIR,
+            page.type,
+            page.slug
+        );
+
         fs.mkdirSync(outputDir, { recursive: true });
+
         const outputPath = path.join(outputDir, "index.html");
-        
+
         fs.writeFileSync(outputPath, html);
         console.log(`Built: ${page.sourcePath} → ${outputPath}`);
     }
 
     buildSitemap(pages);
-    
 }
 
 build();

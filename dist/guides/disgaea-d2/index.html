@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Disgaea 4: A Promise Unforgotten</title>
+    <meta name="description" content="Disgaea D2: A Brighter Darkness is the sequel to [[[guide:disgaea1 | Disgaea 1: Hour of Darkness]]] ...">
+    
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/css/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -13,9 +16,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
-
-    <title>Disgaea 4: A Promise Unforgotten</title>
-    <meta name="description" content="Disgaea D2: A Brighter Darkness is the sequel to [[[guide:disgaea1 | Disgaea 1: Hour of Darkness]]] ...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
@@ -31,55 +31,92 @@
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
     <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
     <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
     <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
-    <header>
-        <nav>
-    <a href="/">Home</a>
-    <a href="/guides/">Guides</a>
-    <a href="/articles/">Articles</a>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-md-2 p-0">
+                <nav class="capa-navbar" aria-label="Main navigation">
+
+    <!-- Mobile-only Expand Button -->
+    <button
+        class="capa-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="capa-nav-content"
+        aria-label="Open navigation"
+    >
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    
+    <!-- Mobile-only Close Button -->
+    <button
+        class="capa-nav-overlay"
+        type="button"
+        aria-label="Close navigation"
+        tabindex="-1"
+        aria-hidden="true"
+    ></button>
+
+    <!-- Shared navigation and TOC -->
+    <div id="capa-nav-content">
+        <div class="nav-item">
+            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        </div>
+        <div class="nav-item">
+            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        </div>
+        <div class="nav-item">
+            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        </div>
+        <!-- TOC will be moved here by move-toc-to-nav.js -->
+    </div>
+
 </nav>
-    </header>
-    <main>
-        <div class="row m-0 p-0">
-<p>[[div class=&quot;col-md-2 hidden-xs hidden-sm guide table-of-contents p-0&quot; role=&quot;navigation&quot;]]</p>
-<p>[[include nav:main]]</p>
-<p>[[/div]][!<del> Close the role=navigation </del>]</p>
-<p>[!<del> </del><del></del><del> </del><del></del><del> Border between Nav and Main Content </del><del></del><del> </del><del></del><del> </del>]</p>
-<p>[[div_ class=&quot;col-md-10 col-md-offset-2 col-xs-12 main main-container p-0&quot;]]</p>
-<p>[[include component:splash |splash-class=full-height |splash-style=background-image:url(&#39;http://capa.wdfiles.com/local--files/guides%3Adisgaea-d2/disgaea-d2-splash.avif&#39;); |text-title=Disgaea 4: A Promise Unforgotten |text-sub-title=Written by Buster Wolf |text-extra=Updated on %%updated_at%% |text-extra-icon=fa fa-clock ]]</p>
-<div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl">
-<p>[[collapsible show=&quot;Table of Contents&quot; hide=&quot;Collapse Table of Contents&quot;]]</p>
-<div class="table-of-contents">
-<a href="#heading-1">Main Story</a>
-<a href="#heading-2">Ep. 1 Plains of Grief</a>
-<a href="#heading-3">Ep. 2 Frozen River</a>
-<a href="#heading-4">Ep. 3 Grosso&#39;s Castle</a>
-<a href="#heading-5">Ep. 4 Sea of Gehenna</a>
-<a href="#heading-6">Ep. 5 Ishtam Devis</a>
-<a href="#heading-7">Ep. 6 Agul Eviland</a>
-<a href="#heading-8">Ep. 7 Immoral&#39;s Haven</a>
-<a href="#heading-9">Ep. 8 Crystal Castle</a>
-<a href="#heading-10">Ep. 9 All the Netherworld</a>
-<a href="#heading-11">Ep. 10 Inside Netherworld</a>
-<a href="#heading-12">Training: Cave of Ordeals</a>
-<a href="#heading-13">Detour: Prinny Land</a>
-<a href="#heading-14">Extra Maps</a>
-<a href="#heading-15">Challenge: Ultimate Play Through</a>
-<a href="#heading-16">Endings</a>
-<a href="#heading-17">Missing Weapons</a>
-<a href="#heading-18">Power Leveling</a>
-<a href="#heading-19">Maximizing Reincarnation</a>
+            </header>
+            <div class="col-12 col-md-10 p-0">
+                <main class="capa-main">
+                    <div class="row m-0 p-0">
+<div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:url(&#39;/assets/guides/disgaea-d2/disgaea-d2-splash.avif&#39;);">
+<div class="title-container p-4">
+<div class="page-extra stroke ">
+<p><span class="visible fa fa-clock"> </span> Updated at 2025-04-06</p>
 </div>
-<p>[[/collapsible]]</p>
+<div class="page-sub-title strong stroke ">
+<p>Written by Buster Wolf</p>
+</div>
+<div class="page-title strong stroke ">
+<p>Disgaea 4: A Promise Unforgotten</p>
+</div>
+</div>
+</div>
+<div id="toc" class="table-of-contents">
+<a href="#heading-1" class="toc-h1">Main Story</a>
+<a href="#heading-2" class="toc-h2">Ep. 1 Plains of Grief</a>
+<a href="#heading-3" class="toc-h2">Ep. 2 Frozen River</a>
+<a href="#heading-4" class="toc-h2">Ep. 3 Grosso&#39;s Castle</a>
+<a href="#heading-5" class="toc-h2">Ep. 4 Sea of Gehenna</a>
+<a href="#heading-6" class="toc-h2">Ep. 5 Ishtam Devis</a>
+<a href="#heading-7" class="toc-h2">Ep. 6 Agul Eviland</a>
+<a href="#heading-8" class="toc-h2">Ep. 7 Immoral&#39;s Haven</a>
+<a href="#heading-9" class="toc-h2">Ep. 8 Crystal Castle</a>
+<a href="#heading-10" class="toc-h2">Ep. 9 All the Netherworld</a>
+<a href="#heading-11" class="toc-h2">Ep. 10 Inside Netherworld</a>
+<a href="#heading-12" class="toc-h1">Training: Cave of Ordeals</a>
+<a href="#heading-13" class="toc-h1">Detour: Prinny Land</a>
+<a href="#heading-14" class="toc-h1">Extra Maps</a>
+<a href="#heading-15" class="toc-h1">Challenge: Ultimate Play Through</a>
+<a href="#heading-16" class="toc-h1">Endings</a>
+<a href="#heading-17" class="toc-h1">Missing Weapons</a>
+<a href="#heading-18" class="toc-h1">Power Leveling</a>
+<a href="#heading-19" class="toc-h2">Maximizing Reincarnation</a>
 </div>
 <div class="container drop-caps p-4 disgaea-d2">
-<p><p>Disgaea D2: A Brighter Darkness is the sequel to [[[guide:disgaea1 | Disgaea 1: Hour of Darkness]]] story wise, this will detail how to view conversations in the game between characters in case you want to go for the <strong>Battle of Words</strong> Trophy (view 100 conversations) or just want to know how the characters interact during battle. For the most part certain characters need to be adjacent to each other outside of the base panel for a conversation to spark denoted by a &quot;!&quot; when they are near each other. Note that conversations only happen the first time you visit a map, new cycles will treat it as a first visit, once the map is cleared conversations will no longer happen.</p>
+<p>Disgaea D2: A Brighter Darkness is the sequel to [[[guide:disgaea1 | Disgaea 1: Hour of Darkness]]] story wise, this will detail how to view conversations in the game between characters in case you want to go for the <strong>Battle of Words</strong> Trophy (view 100 conversations) or just want to know how the characters interact during battle. For the most part certain characters need to be adjacent to each other outside of the base panel for a conversation to spark denoted by a &quot;!&quot; when they are near each other. Note that conversations only happen the first time you visit a map, new cycles will treat it as a first visit, once the map is cleared conversations will no longer happen.</p>
 <p>If you find any conversations I missed feel free to notify me with the level and how you obtained the conversation.</p>
 <h1 id="heading-1">Main Story</h1>
 <h2 id="heading-2">Ep. 1 Plains of Grief</h2>
@@ -513,7 +550,15 @@
 <p><strong>5-2 Ghostly Daydream</strong> The only map with an Attack +1 Geo Panel you can take advantage of (outside of hoping for Attack +1 &amp; Invincibility panels in the Item World) for special skill exp as long as the skill doesn&#39;t cause the user or target to move. Best done during Post Game on the final reincarnation with maxed Skill EXP (1000%) in the Cheat Shop. The Archers will stay still as long as you aren&#39;t in their attack range.</p>
 <p><strong>6-1 Frightening Forest</strong> Enemy Strength: 9 The Nekomata&#39;s should be level 99. They are standing on EXP+50% and Mana+50% panels in two separate groups of two by two. You can if you choose to use a tower for multiple members to gain levels however you will want to be certain the member at the bottom can handle the damage from the Nekomata&#39;s as they will rush you on their turns.</p>
 <p><strong>7-3 Overflowing Mirror</strong> This map is best for increasing Weapon Mastery. The area you want to be in is the Aqua one with Reverse Damage Panels on it. Create up a Martial Artist with the Forced Counter Evility and Double Counter stolen Evility from the Fight Mistress and have them attack the Humanoid you want to increase Weapon Mastery with having Forced Counter as their stolen Evility. Leave the Angel&#39;s on the Red Panels alive to take advantage of this as they will never attack you (unless you end turn on the Base Panel) due to the Geo Effect. With the maximum Weapon Mastery setting in the Cheat Shop (1000%) and max Sparring Partner (1900 effective cap) you can go from 0 to 255 in 8 minutes.</p>
-<p><strong>Cave of Ordeal 6</strong> The repeated version of this map has 2 sets of Rahab&#39;s, one in a 2x3 formation with another behind them in a 3x3 formation. All are standing on EXP+100% and Mana+100% panels, a neat thing about them is as long as you stay 7 panels away from them they will not move which are detailed in the diagram below, this only works for magic users to have an easier time leveling up. If you are within 6 panels of them they will attack with Lorenzini which will hit 3 panels in front of their 3 movement range. [[include :fiction:roster:begin]] [[include :fiction:common:article-image |page=guide:disgaead2 |image= dd2frontsafespot.png |title=Front 6 Rahab&#39;s]] [[include :fiction:common:article-image |page=guide:disgaead2 |image= dd2backsafespot.png |title=Back 9 Rahab&#39;s]] [[include :fiction:roster:end]]</p>
+<p><strong>Cave of Ordeal 6</strong> The repeated version of this map has 2 sets of Rahab&#39;s, one in a 2x3 formation with another behind them in a 3x3 formation. All are standing on EXP+100% and Mana+100% panels, a neat thing about them is as long as you stay 7 panels away from them they will not move which are detailed in the diagram below, this only works for magic users to have an easier time leveling up. If you are within 6 panels of them they will attack with Lorenzini which will hit 3 panels in front of their 3 movement range.</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/disgaea-d2/dd2frontsafespot.png" alt="Front 6 Rahab&#39;s">
+        <figcaption>Front 6 Rahab&#39;s</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/disgaea-d2/dd2backsafespot.png" alt="Back 9 Rahab&#39;s">
+        <figcaption>Back 9 Rahab&#39;s</figcaption>
+    </figure>
 <p><strong>Normal setting</strong> These are the stats the Rahab&#39;s can have when LoC Mode is set to Normal, Rasetsu Mode does not change the enemy stats. They aren&#39;t too hard to hit with a leveled Emblem as their SPD stat is quite low. Safe Damage is how much damage you will want to deal to every Rahab, in the case where you do not outright kill each one make sure to have 2 Mothman units with the Evility Full of Miasma and a Sorcerer so that you can put the ones who lived to sleep.</p>
 <table>
     <tr>
@@ -922,12 +967,32 @@
 </table>
 <p><strong>Info dump</strong> As Unique characters only need 5,100 Mana putting the setting at 1% will give them 13,185 Mana which is all they will need unless you still need to increase Base Parameters or get more dislikes for Heart&#39;s Shadow Boost (if you don&#39;t want ally kills for them).</p>
 <p>Generic Humanoids and Monsters need at most 999,999 for reincarnation and at most an extra 14,500 Mana to reincarnate at Genius level, with the Mana setting at 77% they will get 1,016,205 Mana.</p>
-<p>The Ifrit class is the only class that its Tier 6 class needs 16,500 Mana to reincarnate at Genius level which gives it the total of 1,016,499 which is 294 Mana more than what you would get at 77%, thus if you use an Ifrit the setting should be made 78% so they can get 1,029,405 Mana from one battle.</p></p>
+<p>The Ifrit class is the only class that its Tier 6 class needs 16,500 Mana to reincarnate at Genius level which gives it the total of 1,016,499 which is 294 Mana more than what you would get at 77%, thus if you use an Ifrit the setting should be made 78% so they can get 1,029,405 Mana from one battle.</p>
 </div>
 </div>
-</div>
-<p>[[module css]] .toc-bg {background-image: url(&#39;http://capa.wdfiles.com/local--files/guides:disgaea-d2/disgaea-d2-sidebar.avif&#39;);} .guide-article-hide {display:none;} .guide-article-only {display:block;} [[/module]]</p>
-    </main>
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                            CAPA
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/home:home">Home</a> · 
+                                <a href="/home:guide">Guide</a> · 
+                                <a href="/home:article">Article</a>
+                        </div>
+                            <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
 </body>
 </html>

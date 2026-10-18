@@ -350,7 +350,7 @@ This will list the requirements to get the characters Lv. 11 weapon as well as s
 * If using 2 players as long as one player meets the requirements the weapon will appear.
 * I never mention what Harness to use, but it will always be Shadow Harness due to not being knocked off when struck.
 
-All Lv. 11 weapons have Power +60 and will come with 4 items attached to them, the items can combine with your equipped ones, some may hit the cap and some may pass it [[[guide:dw4xl-items |refer to this section for more info]]]. The images below will have the Dim Sum and Musou Wine locations, as well as the location of Item Boxes in the characters respective stage.
+All Lv. 11 weapons have Power +60 and will come with 4 items attached to them, the items can combine with your equipped ones, some may hit the cap and some may pass it [[link guide:dw4xl-items |refer to this section for more info]]. The images below will have the Dim Sum and Musou Wine locations, as well as the location of Item Boxes in the characters respective stage.
 + Shu Weapons
 +++ Zhao Yun
 * **Lv. 11 Weapon:** Raging Dragon
@@ -769,7 +769,7 @@ Others: Zhang Jiao, Meng Huo, Zhu Rong
 
 Cao Ren, Lu Bu & Dong Zhuo can also get an elemental hit from their True Musou, however it is only on the final hit (the stomp).
 
-[[include :asoh:component:video-youtube |video-id=YW8iW6exI_k]]
+[[youtube YW8iW6exI_k]]
 
 + Normal
 Normal items are ones that boost your characters stats, these will max at Lv 20.

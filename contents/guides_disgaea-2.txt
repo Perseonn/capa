@@ -784,31 +784,11 @@ EA3 Final Departure
 + Dark World
 These can be looked as an alternate dimension to the main story as they have different monster load outs and challenges. These will list unlock conditions and if you can leave (O) or are forcefully pulled (X) into the Dark World after meeting it's requirement. To unlock the Dark Worlds you need to find 5 secret switches in the hub, after doing so a figure appears who looks like the dimension guide NPC, but shadowy. You can attempt to interact with her, but she won't say anything until you pass Episode 1. Note that I will also list the Dark Sun Difficulty (DSD for short) which doesn't determine the stage difficulty, but how much HP the Dark Sun has inside the stage, it may be different outside.
 
-[[include image-capa
-|page=guide:disgaea-2
-|image=adellbutton1.avif
-|title=Behind the house near the Undead.
-]]
-[[include image-capa
-|page=guide:disgaea-2
-|image=adellbutton2.avif
-|title=Corner of the house behind the Item World NPC.
-]]
-[[include image-capa
-|page=guide:disgaea-2
-|image=adellbutton3.avif
-|title=Middle of the grass in the South corner.
-]]
-[[include image-capa
-|page=guide:disgaea-2
-|image=adellbutton4.avif
-|title=Behind the fallen pillar.
-]]
-[[include image-capa
-|page=guide:disgaea-2
-|image=adellbutton5.avif
-|title=Broken section near the Marionette.
-]]
+[[image adellbutton1.avif| Behind the house near the Undead.]]
+[[image adellbutton2.avif| Corner of the house behind the Item World NPC.]]
+[[image adellbutton3.avif| Middle of the grass in the South corner.]]
+[[image adellbutton4.avif| Behind the fallen pillar.]]
+[[image adellbutton5.avif| Broken section near the Marionette.]]
 
 Initiation Test
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
@@ -1448,31 +1428,11 @@ Finishing this map gives the [https://www.youtube.com/watch?v=HawWKf8B32k Axel M
 + Dark World
 Axel's main hub doesn't have any hidden buttons to press so the NPC for the Dark World stages will not be around if you didn't spawn her in Adell Mode. Unless you are playing Dark Hero Days (PSP version) which does have buttons. Nevertheless like in Adell Mode, Axel has Dark World stages as well.
 
-[[include image-capa
-|page=guide:disgaea-2
-|image=axelbutton1.avif
-|title=Broken door near Axel's mom.
-]]
-[[include image-capa
-|page=guide:disgaea-2
-|image=axelbutton2.avif
-|title=Antenna near the Yellow portion of the house roof.
-]]
-[[include image-capa
-|page=guide:disgaea-2
-|image=axelbutton3.avif
-|title=Flower pot in the back.
-]]
-[[include image-capa
-|page=guide:disgaea-2
-|image=axelbutton4.avif
-|title=Spot between the Director & Landlord.
-]]
-[[include image-capa
-|page=guide:disgaea-2
-|image=axelbutton5.avif
-|title=Wall near Axial.
-]]
+[[image axelbutton1.avif| Broken door near Axel's mom.]]
+[[image axelbutton2.avif| Antenna near the Yellow portion of the house roof.]]
+[[image axelbutton3.avif| Flower pot in the back.]]
+[[image axelbutton4.avif| Spot between the Director & Landlord.]]
+[[image axelbutton5.avif| Wall near Axial.]]
 
 ++ Attraction Square
 **1-1 Rehearsal**

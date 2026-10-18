@@ -1017,4 +1017,4 @@ Nobunaga 5-v3 Battle of Arioka Castle – Hanbei Takenaka
 Nobunaga 3-^2 Battle of Kannonji Castle – Oichi
 Nobunaga 6-v1 Battle of Takamatsu Castle – Kanbei Kuroda
 ++ Showcase
-[[include :asoh:component:video-youtube |video-id=LVvtLj9LAxQ]]
+[[youtube LVvtLj9LAxQ]]

@@ -1,0 +1,17 @@
+@font-face {
+	font-family: controller;
+	src: url('../webfonts/capa-controller.ttf');
+}
+
+@font-face {
+	font-family: controller-ps4;
+	src: url('../webfonts/capa-controller-ps4.otf');
+}
+
+.controller{
+	font-family: controller;
+}
+
+.controller-ps4{
+	font-family: controller-ps4;
+}

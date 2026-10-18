@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Destiny of an Emperor</title>
+    <meta name="description" content="Destiny of an Emperor is an RPG loosely based off of the Romance of the Three Kingdoms novel, hearin...">
+    
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/css/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -13,9 +16,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
-
-    <title>Destiny of an Emperor</title>
-    <meta name="description" content="Destiny of an Emperor is an RPG loosely based off of the Romance of the Three Kingdoms novel, hearin...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
@@ -31,110 +31,147 @@
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
     <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
     <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
     <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
-    <header>
-        <nav>
-    <a href="/">Home</a>
-    <a href="/guides/">Guides</a>
-    <a href="/articles/">Articles</a>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-md-2 p-0">
+                <nav class="capa-navbar" aria-label="Main navigation">
+
+    <!-- Mobile-only Expand Button -->
+    <button
+        class="capa-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="capa-nav-content"
+        aria-label="Open navigation"
+    >
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    
+    <!-- Mobile-only Close Button -->
+    <button
+        class="capa-nav-overlay"
+        type="button"
+        aria-label="Close navigation"
+        tabindex="-1"
+        aria-hidden="true"
+    ></button>
+
+    <!-- Shared navigation and TOC -->
+    <div id="capa-nav-content">
+        <div class="nav-item">
+            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        </div>
+        <div class="nav-item">
+            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        </div>
+        <div class="nav-item">
+            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        </div>
+        <!-- TOC will be moved here by move-toc-to-nav.js -->
+    </div>
+
 </nav>
-    </header>
-    <main>
-        <div class="row m-0 p-0">
-<p>[[div class=&quot;col-md-2 hidden-xs hidden-sm guide table-of-contents p-0&quot; role=&quot;navigation&quot;]]</p>
-<p>[[include nav:main]]</p>
-<p>[[/div]][!<del> Close the role=navigation </del>]</p>
-<p>[!<del> </del><del></del><del> </del><del></del><del> Border between Nav and Main Content </del><del></del><del> </del><del></del><del> </del>]</p>
-<p>[[div_ class=&quot;col-md-10 col-md-offset-2 col-xs-12 main main-container p-0&quot;]]</p>
-<p>[[include component:splash |splash-class=full-height |splash-style=background-image:url(&#39;http://capa.wdfiles.com/local--files/guides%3Adestiny-of-an-emperor/destiny-of-an-emperor-splash.avif&#39;); |text-title=Destiny of an Emperor |text-sub-title=Written by Buster Wolf |text-extra=Updated on %%updated_at%% |text-extra-icon=fa fa-clock ]]</p>
-<div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl">
-<p>[[collapsible show=&quot;Table of Contents&quot; hide=&quot;Collapse Table of Contents&quot;]]</p>
-<div class="table-of-contents">
-<a href="#heading-1">Party</a>
-<a href="#heading-2">Generals of Interest</a>
-<a href="#heading-3">Stats</a>
-<a href="#heading-4">Battle Mechanics</a>
-<a href="#heading-5">Tactics</a>
-<a href="#heading-6">Retreat Chance</a>
-<a href="#heading-7">Tiger Generals</a>
-<a href="#heading-8">Tactics List</a>
-<a href="#heading-9">Fire Tactics</a>
-<a href="#heading-10">Water Tactics</a>
-<a href="#heading-11">Healing Tactics</a>
-<a href="#heading-12">Special 1 Tactics</a>
-<a href="#heading-13">Special 2 Tactics</a>
-<a href="#heading-14">Special 3 Tactics</a>
-<a href="#heading-15">Ch. 1 The Yellow Scarves Rebellion (Yellow Turbans)</a>
-<a href="#heading-16">Luo Song Village</a>
-<a href="#heading-17">Xu Zhou Castle</a>
-<a href="#heading-18">Qing Zhou Castle</a>
-<a href="#heading-19">Mt. Da Xing</a>
-<a href="#heading-20">Tia Man Xia</a>
-<a href="#heading-21">Qing Zhou Cave</a>
-<a href="#heading-22">Xu Zhou Castle (revisit)</a>
-<a href="#heading-23">Ch. 2 The Tyrant Dong Zhuo</a>
-<a href="#heading-24">Fan Shui Guan</a>
-<a href="#heading-25">Hu Lao Guan</a>
-<a href="#heading-26">Northern Cave</a>
-<a href="#heading-27">Luo Yang</a>
-<a href="#heading-28">Yang Zhou</a>
-<a href="#heading-29">Tunnel</a>
-<a href="#heading-30">Chang An</a>
-<a href="#heading-31">Ch. 3 The False Emperor Yuan Shu</a>
-<a href="#heading-32">Yuan Castle</a>
-<a href="#heading-33">Huai Nan Castle</a>
-<a href="#heading-34">Chen Cang Fortress</a>
-<a href="#heading-35">Nan Yang Cave</a>
-<a href="#heading-36">Nan Yang Castle</a>
-<a href="#heading-37">Ch. 4 + 5 The Prestigious Yuan Shao &amp; Pacification of Jing Zhou (Jing Province)</a>
-<a href="#heading-38">Path A Yuan Shao</a>
-<a href="#heading-39">Hermit Cave</a>
-<a href="#heading-40">Bo Hai Castle</a>
-<a href="#heading-41">Xu Shou&#39;s Fortress</a>
-<a href="#heading-42">Quang Zong Castle</a>
-<a href="#heading-43">Ji Zhou Castle</a>
-<a href="#heading-44">Path B Jing Zhou </a>
-<a href="#heading-45">Wu Ling Castle</a>
-<a href="#heading-46">Chang Sha Castle</a>
-<a href="#heading-47">Gui Yang Castle</a>
-<a href="#heading-48">Ling Ling Castle</a>
-<a href="#heading-49">Ch. 6 Claiming the lands of Shu</a>
-<a href="#heading-50">Liu Kui&#39;s Fortress</a>
-<a href="#heading-51">Fu Shui Castle</a>
-<a href="#heading-52">Luo Castle</a>
-<a href="#heading-53">Mt. Gang Tai</a>
-<a href="#heading-54">Mian Zhu Guan</a>
-<a href="#heading-55">Cheng Du Castle</a>
-<a href="#heading-56">Ch. 7 Wu&#39;s Treachery</a>
-<a href="#heading-57">Jian An Castle</a>
-<a href="#heading-58">Mt. Po Yong</a>
-<a href="#heading-59">Hui Ji Fortress</a>
-<a href="#heading-60">Wu Castle</a>
-<a href="#heading-61">Wu Cave</a>
-<a href="#heading-62">Po Yang Fortress</a>
-<a href="#heading-63">Jin Du Castle</a>
-<a href="#heading-64">Jian Ye Castle</a>
-<a href="#heading-65">Ch. 8 Assault on Wei</a>
-<a href="#heading-66">Guang Ling</a>
-<a href="#heading-67">He Fei Fortress</a>
-<a href="#heading-68">Ru Nan</a>
-<a href="#heading-69">Ch. 9 Unification</a>
-<a href="#heading-70">Ru Nan Underground</a>
-<a href="#heading-71">Ru Nan West Cave</a>
-<a href="#heading-72">Chen Liu Fortress</a>
-<a href="#heading-73">Chin Castle</a>
-<a href="#heading-74">Rebuilt Luo Yang</a>
+            </header>
+            <div class="col-12 col-md-10 p-0">
+                <main class="capa-main">
+                    <div class="row m-0 p-0">
+<div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:url(&#39;/assets/guides/destiny-of-an-emperor/destiny-of-an-emperor-splash.avif&#39;);">
+<div class="title-container p-4">
+<div class="page-extra stroke ">
+<p><span class="visible fa fa-clock"> </span> Updated at 2026-09-25</p>
 </div>
-<p>[[/collapsible]]</p>
+<div class="page-sub-title strong stroke ">
+<p>Written by Buster Wolf</p>
+</div>
+<div class="page-title strong stroke ">
+<p>Destiny of an Emperor</p>
+</div>
+</div>
+</div>
+<div id="toc" class="table-of-contents">
+<a href="#heading-1" class="toc-h1">Party</a>
+<a href="#heading-2" class="toc-h1">Generals of Interest</a>
+<a href="#heading-3" class="toc-h1">Stats</a>
+<a href="#heading-4" class="toc-h1">Battle Mechanics</a>
+<a href="#heading-5" class="toc-h2">Tactics</a>
+<a href="#heading-6" class="toc-h2">Retreat Chance</a>
+<a href="#heading-7" class="toc-h2">Tiger Generals</a>
+<a href="#heading-8" class="toc-h1">Tactics List</a>
+<a href="#heading-9" class="toc-h2">Fire Tactics</a>
+<a href="#heading-10" class="toc-h2">Water Tactics</a>
+<a href="#heading-11" class="toc-h2">Healing Tactics</a>
+<a href="#heading-12" class="toc-h2">Special 1 Tactics</a>
+<a href="#heading-13" class="toc-h2">Special 2 Tactics</a>
+<a href="#heading-14" class="toc-h2">Special 3 Tactics</a>
+<a href="#heading-15" class="toc-h1">Ch. 1 The Yellow Scarves Rebellion (Yellow Turbans)</a>
+<a href="#heading-16" class="toc-h2">Luo Song Village</a>
+<a href="#heading-17" class="toc-h2">Xu Zhou Castle</a>
+<a href="#heading-18" class="toc-h2">Qing Zhou Castle</a>
+<a href="#heading-19" class="toc-h2">Mt. Da Xing</a>
+<a href="#heading-20" class="toc-h2">Tia Man Xia</a>
+<a href="#heading-21" class="toc-h2">Qing Zhou Cave</a>
+<a href="#heading-22" class="toc-h2">Xu Zhou Castle (revisit)</a>
+<a href="#heading-23" class="toc-h1">Ch. 2 The Tyrant Dong Zhuo</a>
+<a href="#heading-24" class="toc-h2">Fan Shui Guan</a>
+<a href="#heading-25" class="toc-h2">Hu Lao Guan</a>
+<a href="#heading-26" class="toc-h2">Northern Cave</a>
+<a href="#heading-27" class="toc-h2">Luo Yang</a>
+<a href="#heading-28" class="toc-h2">Yang Zhou</a>
+<a href="#heading-29" class="toc-h2">Tunnel</a>
+<a href="#heading-30" class="toc-h2">Chang An</a>
+<a href="#heading-31" class="toc-h1">Ch. 3 The False Emperor Yuan Shu</a>
+<a href="#heading-32" class="toc-h2">Yuan Castle</a>
+<a href="#heading-33" class="toc-h2">Huai Nan Castle</a>
+<a href="#heading-34" class="toc-h2">Chen Cang Fortress</a>
+<a href="#heading-35" class="toc-h2">Nan Yang Cave</a>
+<a href="#heading-36" class="toc-h2">Nan Yang Castle</a>
+<a href="#heading-37" class="toc-h1">Ch. 4 + 5 The Prestigious Yuan Shao &amp; Pacification of Jing Zhou (Jing Province)</a>
+<a href="#heading-38" class="toc-h2">Path A Yuan Shao</a>
+<a href="#heading-39" class="toc-h3">Hermit Cave</a>
+<a href="#heading-40" class="toc-h3">Bo Hai Castle</a>
+<a href="#heading-41" class="toc-h3">Xu Shou&#39;s Fortress</a>
+<a href="#heading-42" class="toc-h3">Quang Zong Castle</a>
+<a href="#heading-43" class="toc-h3">Ji Zhou Castle</a>
+<a href="#heading-44" class="toc-h2">Path B Jing Zhou </a>
+<a href="#heading-45" class="toc-h3">Wu Ling Castle</a>
+<a href="#heading-46" class="toc-h3">Chang Sha Castle</a>
+<a href="#heading-47" class="toc-h3">Gui Yang Castle</a>
+<a href="#heading-48" class="toc-h3">Ling Ling Castle</a>
+<a href="#heading-49" class="toc-h1">Ch. 6 Claiming the lands of Shu</a>
+<a href="#heading-50" class="toc-h2">Liu Kui&#39;s Fortress</a>
+<a href="#heading-51" class="toc-h2">Fu Shui Castle</a>
+<a href="#heading-52" class="toc-h2">Luo Castle</a>
+<a href="#heading-53" class="toc-h2">Mt. Gang Tai</a>
+<a href="#heading-54" class="toc-h2">Mian Zhu Guan</a>
+<a href="#heading-55" class="toc-h2">Cheng Du Castle</a>
+<a href="#heading-56" class="toc-h1">Ch. 7 Wu&#39;s Treachery</a>
+<a href="#heading-57" class="toc-h2">Jian An Castle</a>
+<a href="#heading-58" class="toc-h2">Mt. Po Yong</a>
+<a href="#heading-59" class="toc-h2">Hui Ji Fortress</a>
+<a href="#heading-60" class="toc-h2">Wu Castle</a>
+<a href="#heading-61" class="toc-h2">Wu Cave</a>
+<a href="#heading-62" class="toc-h2">Po Yang Fortress</a>
+<a href="#heading-63" class="toc-h2">Jin Du Castle</a>
+<a href="#heading-64" class="toc-h2">Jian Ye Castle</a>
+<a href="#heading-65" class="toc-h1">Ch. 8 Assault on Wei</a>
+<a href="#heading-66" class="toc-h2">Guang Ling</a>
+<a href="#heading-67" class="toc-h2">He Fei Fortress</a>
+<a href="#heading-68" class="toc-h2">Ru Nan</a>
+<a href="#heading-69" class="toc-h1">Ch. 9 Unification</a>
+<a href="#heading-70" class="toc-h2">Ru Nan Underground</a>
+<a href="#heading-71" class="toc-h2">Ru Nan West Cave</a>
+<a href="#heading-72" class="toc-h2">Chen Liu Fortress</a>
+<a href="#heading-73" class="toc-h2">Chin Castle</a>
+<a href="#heading-74" class="toc-h2">Rebuilt Luo Yang</a>
 </div>
 <div class="container drop-caps p-4 destiny-of-an-emperor">
-<p><p>Destiny of an Emperor is an RPG loosely based off of the Romance of the Three Kingdoms novel, hearing that you probably though KOEI made this, but no this was in fact made by Capcom in 1989. As a Dynasty Warriors fan I will try to point out any naming mistakes on Capcom&#39;s side that I know (there are quite a lot) and who certain generals are meant to be, I won&#39;t name every single one mainly those you fight throughout the story and those as recommendations for your party. It should be noted that chapters are not announced in-game, but I will tell you when you hit chapter endpoints.</p>
+<p>Destiny of an Emperor is an RPG loosely based off of the Romance of the Three Kingdoms novel, hearing that you probably though KOEI made this, but no this was in fact made by Capcom in 1989. As a Dynasty Warriors fan I will try to point out any naming mistakes on Capcom&#39;s side that I know (there are quite a lot) and who certain generals are meant to be, I won&#39;t name every single one mainly those you fight throughout the story and those as recommendations for your party. It should be noted that chapters are not announced in-game, but I will tell you when you hit chapter endpoints.</p>
 <h1 id="heading-1">Party</h1>
 <p>A thing to note about the party size is that the max you can have with you is 7 characters, if you have 5 or lower while having a tactician set it will place them at the lowest possible slot, with 6 or 7 they will not be in the battle. Due to a chest bug you should never place a tactician or any high INT generals in 7th with only 2 certain situations allowing you to do so with safety due to how tactic learning is programmed.</p>
 <h1 id="heading-2">Generals of Interest</h1>
@@ -660,7 +697,10 @@
     <li>Enter the big tent in the center and CHECK in the top right tile to get an Ax (A.P 20), give this to Zhang Fei and pass his Flail to Chen Deng and pass his Dagger to Mi Zhe.</li>
 </ul>
 
-<p>[[include image |image=http://capa.wikidot.com/local--files/guide:destiny-of-an-emperor/1-ax.png |ratio=nes |option=pixelate |title=The hidden Ax]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/destiny-of-an-emperor/1-ax.png" alt="The hidden Ax">
+        <figcaption>The hidden Ax</figcaption>
+    </figure>
 <ul>
     <li>Head back to Xu Zhou again to rest and save your progress, then leave and go South moving around the mountain side to reach Tia Man Xia.</li>
 </ul>
@@ -719,7 +759,10 @@
     <li>After rearranging your party leave Fan Shui Guan and make your way to Hu Lao Guan (Hu Lao Gate) by heading West, check the space 8 tiles West and 1 South of Fan Shui Guan to get Chi Tu Ma (Red Hare). You are told about this later so you can choose to take it or wait to be told about it, the character who has this in their inventory will have their agility boosted by 50% giving them better chances to go first in battle.</li>
 </ul>
 
-<p>[[include image |image=http://capa.wikidot.com/local--files/guide:destiny-of-an-emperor/2-cuituma.png |ratio=nes |option=pixelate |title=You&#39;re supposed to know about this later, but you can get it early.]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/destiny-of-an-emperor/2-cuituma.png" alt="You&#39;re supposed to know about this later, but you can get it early.">
+        <figcaption>You&#39;re supposed to know about this later, but you can get it early.</figcaption>
+    </figure>
 <ul>
     <li>While heading West you will see a branching path North leading into a cave, I would save going here for after what we do at Hu Lao Guan rather than go there now so keep going to the West path that will lead to Hu Lao Guan. If you happen to met Hua Xiong in battle try to recruit him.</li>
 </ul>
@@ -732,7 +775,10 @@
     <li>The tent East of the main tent with Cao Cao has a set of 3 pots check the top left pot for another Ax which should be your 5th and last one for the entire party.</li>
 </ul>
 
-<p>[[include image |image=http://capa.wikidot.com/local--files/guide:destiny-of-an-emperor/3-ax.png |ratio=nes |option=pixelate |title=The last Ax you should need.]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/destiny-of-an-emperor/3-ax.png" alt="The last Ax you should need.">
+        <figcaption>The last Ax you should need.</figcaption>
+    </figure>
 <ul>
     <li>Huo Hu is at the Southeast waiting to be recruited, he has the higher INT than Chen Deng/Mi Zhu and should be made your tactician. I would advise heading back to Xu Zhou so you can drop off Mi Zhe &amp; Chen Deng, also to sell excess gear you don&#39;t need and buy a Steed from the Merchant. Some generals you recruit may ask for an especially good horse which will make them join if you have this in someone&#39;s inventory, also the price in gold they would ask is much higher than what a Steed costs. You may also want to get 2 Leather&#39;s from the Armory, if you have enough for a third that&#39;s fine to.</li>
     <li>Rest up and save your game then return back to Fan Shui Guan. If you remember the cave I said to save for later go in there now, though make sure you get a random battle before you go in to make sure you get Chapter 2 enemies inside.</li>
@@ -793,7 +839,10 @@
     <li>The house East of the Merchant is the Historian. Inside the house at the South end near the water has a Club (A.P 30) if you search the tile above the jar, equip it to Hua Xiong and sell his Ax at the Merchant.</li>
 </ul>
 
-<p>[[include image |image=http://capa.wikidot.com/local--files/guide:destiny-of-an-emperor/4-club.png |ratio=nes |option=pixelate |title=A secret Club to bludgeon enemies with.]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/destiny-of-an-emperor/4-club.png" alt="A secret Club to bludgeon enemies with.">
+        <figcaption>A secret Club to bludgeon enemies with.</figcaption>
+    </figure>
 <ul>
     <li>The palace on the Southeast may seem empty with no one on the throne, but there is a passage to the East which leads to a small room with Cao Cao and the Emperor inside.</li>
     <li>At the Historian save your game and reload your save so you have a free trip back to Xu Zhou to drop off Hua Xiong and get Lu Bu into your party immediately after to keep the gear from Hua Xiong equipped to Lu Bu if you recruited him, and also drop off Wang Gui.</li>
@@ -1510,12 +1559,32 @@
 <p>Afterward go back to Chin to restore your TP and make Zhu Ge Liang the tactician then make your way up to Luo Yang.</p>
 <p><strong>Penultimate Battle</strong> Si Ma Shi ([https:<em>koei.fandom.com/wiki/Sima_Shi Sima Shi]), Si Ma Zhao ([https:</em>koei.fandom.com/wiki/Sima_Zhao Sima Zhao])+ Rebel Force x3 Have everyone cast Bei Ji on themselves then focus your attacks on Si Ma Shi first then Zhao, they both will regularly interrupt to taunt you before their action.</p>
 <p><strong>Finale</strong> Si Ma Yi, [https:<em>koei.fandom.com/wiki/Yu_Jin Yu Jin], [https:</em>koei.fandom.com/wiki/Wei_Xu Wei Xu], [https://koei.fandom.com/wiki/Cheng_Yu Cheng Yu], Xu Zhu Have everyone cast Bei Ji on themselves, if Ji Mian is down aim for Cheng Yu first using Power Pills on him, when he&#39;s down whittle down Si Ma Yi next and aim to take him down using Power Pills. Afterward take the rest out in order of Xu Zhu, Yu Jin and Wei Xu.</p>
-<p>After the battle head to the Historian and invite Liu Bei to Luo Yang and then talk to him in the palace and enjoy the ending.</p></p>
+<p>After the battle head to the Historian and invite Liu Bei to Luo Yang and then talk to him in the palace and enjoy the ending.</p>
 </div>
 </div>
-</div>
-<p>[[module css]] .toc-bg {background-image: url(&#39;http://capa.wdfiles.com/local--files/guides:destiny-of-an-emperor/destiny-of-an-emperor-sidebar.avif&#39;);} .guide-article-hide {display:none;} .guide-article-only {display:block;} [[/module]]</p>
-    </main>
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                            CAPA
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/home:home">Home</a> · 
+                                <a href="/home:guide">Guide</a> · 
+                                <a href="/home:article">Article</a>
+                        </div>
+                            <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
 </body>
 </html>

@@ -21,7 +21,7 @@ In Bob’s case, the zombies were stopped by a simple road fence. Another easy e
 
 Additionally, without the stimulus of food, zombies wander aimlessly. In the wild, who knows how many zombies would walk straight into ravines, lakes, or even volcanic craters?  
 
-[[include image |image=/local--files/article:zombiereverse/khars.avif |title=The result might be something like Cars.]]
+[[image khars.avif |The result might be something like Cars.]]
 
 + The Zombie Life Cycle Is Terrible for Survival  
 
@@ -31,7 +31,7 @@ The problem? Humans are the top predators in the food chain. Unlike other animal
 
 The idea of zombies trying to compete with humans for food and reproduction is like a human, armed with nothing but bare hands, trying to fight a T-Rex… that knows how to pilot an F-14.
 
-[[include image |image=/local--files/article:zombiereverse/trexf14.avif |title=Probability of winning: zero.]]
+[[image trexf14.avif |Probability of winning: zero.]]
 
 
 + Both Heat and Cold Are a No-Go  
@@ -41,7 +41,7 @@ First, their circulatory system doesn’t function, meaning they can easily free
 
 Second, their sweat glands don’t work (have you ever seen a sweating corpse?), meaning their body temperature would remain high. This would cause them to dry out quickly in hot climates, essentially turning them into mummified husks.  
 
-[[include image |image=/local--files/article:zombiereverse/meat.avif |title=Cold meat and hot meat.]]
+[[image meat.avif |Cold meat and hot meat.]]
 
 
 + So Zombies Are Just Meat...  
@@ -53,7 +53,7 @@ These insects hate the cold — but what about zombies in warm, open spaces? Nat
 
 The creatures thought to bring the end of the world? Defeated by flies.
 
-[[include image |image=/local--files/article:zombiereverse/zombiereverse.avif |title=Our hero.]]
+[[image zombiereverse.avif |Our hero.]]
 
 
 + And Then, Nature Reacts...  
@@ -65,7 +65,7 @@ Yes. Zombies exploding from violent flatulence.
 
 Apocalypse cancelled.  
 
-[[include image |image=/local--files/article:zombiereverse/censored.avif |title=For some obvious reason, I will not display this image.]]
+[[image censored.avif |For some obvious reason, I will not display this image.]]
 
 ====
 Bob tidak tahu apa yang terjadi dalam malam kemarin. Saat ia bangun tidur, rumahnya sudah berantakan. Perumahan tempat ia tinggal juga berantakan. Tak ada sesosok bayanganpun yang terlihat. Bob mulai khawatir akan teman dekatnya, Alice, yang tinggal beberapa blok dari rumahnya. 
@@ -80,22 +80,22 @@ Kita semua tahu bahwa zombie adalah mayat hidup tanpa kecerdasan yang bergerak b
 + Siklus hidup zombie sangat buruk untuk bertahan
 Manusia perlu makan untuk bertahan hidup dan melakukan reproduksi untuk menambah jumlah. Di sisi lain, zombie perlu makan manusia untuk dapat tetap berjalan, dan juga memerlukan manusia untuk menambah jumlah. Masalah besar disini adalah manusia merupakan predator puncak dalam piramida makanan. Ini karena manusia memiliki kemampuan untuk membuat senjata untuk berburu dan bertahan hidup. Analogi zombie berusaha melawan manusia untuk keperluan makan dan reproduksi sama dengan manusia bertangan kosong berusaha melawan T-Rex yang mengerti cara memakai F14.
 
-[[include :fiction:common:article-image |image=trexf14.avif |title=Anda tak akan menang.]]
+[[image trexf14.avif |Anda tak akan menang.]]
 
 
 + Panas maupun dingin berbahaya untuk zombie
 Zombie adalah mayat hidup. Seringkali diskusi terlalu fokus pada "mayat hidup" dan melupakan bahwa mayat adalah daging, sama halnya dengan daging yang dapat anda beli di pasar. Ada banyak permasalahan yang berawal dari sini. Pertama, sistem peredaran darah mereka tidak berjalan, yang berarti mereka dengan mudah dapat berhenti karena dingin. Secara otomatis, zombie apocalypse di wilayah utara dan selatan tidak akan bertahan lebih lama dari waktu seseorang membekukan daging di lemari es. Kedua, kelenjar keringat tidak berfungsi (tidak pernah ada mayat berkeringat, kan?), sehingga suhu tubuh mereka akan tetap naik yang berarti mereka akan cepat kering pada suhu panas.
 
-[[include :fiction:common:article-image |image=meat.avif |title=Contoh daging beku dan daging panas]]
+[[image meat.avif |Contoh daging beku dan daging panas]]
 
 
 + Jadi zombie adalah daging...
 Jika Anda sering ke supermarket, tentu anda melihat bahwa produk daging ada di tempat bersuhu rendah. Apa alasannya? Mencegah daging tersebut busuk dan juga mengusir lalat. Lalat. Serangga yang satu ini tidak menyukai suhu dingin. Bagaimana dengan zombie di ruang terbuka? Tentu saja akan dirubung lalat. Apa efek sampingnya? Diteluri lalat. Kemudian? Ada baiknya anda melewati paragraf ini karena tahap berikutnya adalah telur lalat menetas dan belatung memakan daging. Tentu saja ini artinya si zombie akan tercerai-berai karena menjadi mangsa lalat. Makhluk yang dianggap dapat menyebabkan akhir dunia dikalahkan oleh lalat.
 
-[[include :fiction:common:article-image |image=zombiereverse.avif |title=Pahlawan kita.]]
+[[image zombiereverse.avif |Pahlawan kita.]]
 
 
 + Dan alampun bereaksi...
 Sampailah kita di topik yang agak "mengganggu". Dalam tubuh manusia ada banyak jenis bakteri pembusuk yang tinggal di usus besar. Proses pembusukan adalah proses anaerobik (tidak memerlukan oksigen), dan mengeluarkan gas. Gas yang terkumpul di usus besar harus dikeluarkan dalam bentuk kentut. Kentut memerlukan kesadaran akan penggunaan otot rectum. Zombie, di sisi lain tidak memiliki kesadaran akan otot rectum sehingga gas tetap akan terkumpul di dalam usus besar. Lebih buruk lagi, bakteri akan mulai membusukkan organ dalam tubuh. Jika gas ini tidak dikeluarkan, maka tekanan dalam tubuh zombie akan menjadi tinggi dan bukan "DUT!" yang keluar, melainkan "DUAR!". Zombie meledak karena gas kentut.
 
-[[include :fiction:common:article-image |image=censored.avif |title=Karena satu dan lain hal, kami tidak dapat menampilkan gambar ini.]]
+[[image censored.avif |Karena satu dan lain hal, kami tidak dapat menampilkan gambar ini.]]

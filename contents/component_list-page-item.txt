@@ -1,0 +1,8 @@
+[[div class="list-page-container {$container-class}"]]
+[[div class="list-page-image-container rounded {$image-class}"]]
+[[image /{$image} | | rounded]]
+[[/div]]
+[[div class="list-page-text-container text-center"]]
+[[span class="list-page-title strong small-caps"]][[link /{$link} | {$title}]][[/span]][[span class="list-page-time {$sub-title-class}"]]{$sub-title}[[/span]]
+[[/div]]
+[[/div]]

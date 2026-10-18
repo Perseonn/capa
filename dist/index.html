@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Welcome to CAPA!</title>
+    <meta name="description" content="|splash-class=main-splash full-height...">
+    
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/css/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -13,9 +16,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
-
-    <title>Welcome to CAPA!</title>
-    <meta name="description" content="|splash-class=main-splash full-height...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
@@ -31,47 +31,207 @@
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
     <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
     <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
     <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
-    <header>
-        <nav>
-    <a href="/">Home</a>
-    <a href="/guides/">Guides</a>
-    <a href="/articles/">Articles</a>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-md-2 p-0">
+                <nav class="capa-navbar" aria-label="Main navigation">
+
+    <!-- Mobile-only Expand Button -->
+    <button
+        class="capa-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="capa-nav-content"
+        aria-label="Open navigation"
+    >
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    
+    <!-- Mobile-only Close Button -->
+    <button
+        class="capa-nav-overlay"
+        type="button"
+        aria-label="Close navigation"
+        tabindex="-1"
+        aria-hidden="true"
+    ></button>
+
+    <!-- Shared navigation and TOC -->
+    <div id="capa-nav-content">
+        <div class="nav-item">
+            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        </div>
+        <div class="nav-item">
+            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        </div>
+        <div class="nav-item">
+            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        </div>
+        <!-- TOC will be moved here by move-toc-to-nav.js -->
+    </div>
+
 </nav>
-    </header>
-    <main>
-        <p>[[include component:splash |splash-class=main-splash full-height |text-title-class=capa-title |text-title=CAPA |text-sub-title=A Website Dedicated to Guides and Codes for Games that We Love! |text-extra-class=hidden ]]</p>
-<p>[[div_ class=&quot;splash-container guide-splash gradient-line line-bottom-4&quot;]] [[div_ class=&quot;title-container p-4&quot;]]</p>
+            </header>
+            <div class="col-12 col-md-10 p-0">
+                <main class="capa-main">
+                    <div class="splash-container gradient-line line-bottom-4 main-splash full-height" style="">
+<div class="title-container p-4">
+<div class="page-extra stroke hidden">
+<p><span class="visible "> </span></p>
+</div>
+<div class="page-sub-title strong stroke ">
+<p>A Website Dedicated to Guides and Codes for Games that We Love!</p>
+</div>
+<div class="page-title strong stroke capa-title">
+<p>CAPA</p>
+</div>
+</div>
+</div>
+<div class="splash-container guide-splash gradient-line line-bottom-4">
+<div class="title-container p-4">
 <div class="page-extra stroke">
 </div>
-<p>[[div_ class=&quot;page-sub-title strong stroke&quot;]] Game walkthroughs, cheat codes, or both!</p>
+<div class="page-sub-title strong stroke">
+<p>Game walkthroughs, cheat codes, or both!</p>
 </div>
-<p>[[div_ class=&quot;page-title strong stroke&quot;]] Guides</p>
+<div class="page-title strong stroke">
+<p>Guides</p>
 </div>
-<p>[[div_ class=&quot;row mb-4&quot;]][!<del> </del><del></del><del> Row Start </del><del></del><del> </del>]</p>
-<p>[[include component:list-page-item |container-class=col-xs-12 col-md-6 |image=http://capa.wdfiles.com/local--files/img:css/splash-guide.avif |image-class=neutral |ratio=1x1 |link=home:guide |title=Go to Guides |sub-title=@@@@ ]]</p>
-<p>[[module listpages tags=&quot;-wip&quot; category=&quot;game guide&quot; order=&quot;created_at desc&quot; limit=&quot;4&quot; separate=&quot;no&quot; wrapper=&quot;no&quot; ]] [[include component:list-page-item |container-class=col-xs-6 col-md-3 |image=http://capa.wdfiles.com/local--files/%%fullname%%/%%name%%.avif |image-class=contain |ratio=1x1 |link=%%fullname%% |title=%%title%% |sub-title=Published on %%created_at%% ]] [[/module]]</p>
-<p>[[/div]][!<del> </del><del></del><del> Row Ends </del><del></del><del> </del>]</p>
+<div class="row mb-4 guides-row">
+<div class="list-page-container col-12 col-md-6">
+<div class="list-page-image-container rounded aspect-1x1">
+<img class="img-fluid rounded" src="/assets/img/splash-guides.avif" alt="splash-guides.avif">
 </div>
-<p>[[/div]][!<del> </del><del></del><del> Close Custom Splash </del><del></del><del> </del>]</p>
-<p>[[div_ class=&quot;splash-container article-splash gradient-line line-bottom-4&quot;]] [[div_ class=&quot;title-container p-4&quot;]]</p>
+<div class="list-page-text-container text-center">
+<p><span class="list-page-title strong small-caps"><a href="/guides/">Go to Guides</a></span><span class="list-page-time hidden"></span></p>
+</div>
+</div>
+<div class="col-12 col-md-6">
+<div class="row list-page-item-row">
+<div class="list-page-container col-6 col-md-6">
+<div class="list-page-image-container rounded ">
+<img class="img-fluid rounded" src="/assets//guides/destiny-of-an-emperor/destiny-of-an-emperor.avif" alt="destiny-of-an-emperor.avif">
+</div>
+<div class="list-page-text-container text-center">
+<p><span class="list-page-title strong small-caps"><a href="/guides/destiny-of-an-emperor">Destiny of an Emperor</a></span><span class="list-page-time ">Published on 2026-09-25</span></p>
+</div>
+</div>
+<div class="list-page-container col-6 col-md-6">
+<div class="list-page-image-container rounded ">
+<img class="img-fluid rounded" src="/assets//guides/dynasty-warriors-3/dynasty-warriors-3.avif" alt="dynasty-warriors-3.avif">
+</div>
+<div class="list-page-text-container text-center">
+<p><span class="list-page-title strong small-caps"><a href="/guides/dynasty-warriors-3">Dynasty Warriors 3</a></span><span class="list-page-time ">Published on 2026-09-25</span></p>
+</div>
+</div>
+<div class="list-page-container col-6 col-md-6">
+<div class="list-page-image-container rounded ">
+<img class="img-fluid rounded" src="/assets//guides/dynasty-warriors-4-xtreme-legends/dynasty-warriors-4-xtreme-legends.avif" alt="dynasty-warriors-4-xtreme-legends.avif">
+</div>
+<div class="list-page-text-container text-center">
+<p><span class="list-page-title strong small-caps"><a href="/guides/dynasty-warriors-4-xtreme-legends">Dynasty Warriors 4</a></span><span class="list-page-time ">Published on 2026-09-25</span></p>
+</div>
+</div>
+<div class="list-page-container col-6 col-md-6">
+<div class="list-page-image-container rounded ">
+<img class="img-fluid rounded" src="/assets//guides/phantom-brave/phantom-brave.avif" alt="phantom-brave.avif">
+</div>
+<div class="list-page-text-container text-center">
+<p><span class="list-page-title strong small-caps"><a href="/guides/phantom-brave">Phantom Brave</a></span><span class="list-page-time ">Published on 2026-09-25</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="splash-container article-splash gradient-line line-bottom-4">
+<div class="title-container p-4">
 <div class="page-extra stroke">
 </div>
-<p>[[div_ class=&quot;page-sub-title strong stroke&quot;]] Game reviews and opinion!</p>
+<div class="page-sub-title strong stroke">
+<p>Game reviews and opinion!</p>
 </div>
-<p>[[div_ class=&quot;page-title strong stroke&quot;]] Articles</p>
+<div class="page-title strong stroke">
+<p>Articles</p>
 </div>
-<p>[[div_ class=&quot;row mb-4&quot;]][!<del> </del><del></del><del> Row Start </del><del></del><del> </del>] [[include component:list-page-item |container-class=col-xs-12 col-md-6 |image=http://capa.wdfiles.com/local--files/img:css/splash-article.avif |image-class=neutral |ratio=1x1 |link=home:article |title=Go to Articles |sub-title=@@@@ ]]</p>
-<p>[[module listpages tags=&quot;-wip&quot; category=&quot;article&quot; order=&quot;created_at desc&quot; limit=&quot;4&quot; separate=&quot;no&quot; wrapper=&quot;no&quot; ]] [[include component:list-page-item |container-class=col-xs-6 col-md-3 |image=http://capa.wdfiles.com/local<del>files/%%fullname%%/%%name%%.avif |image-class=neutral |ratio=1x1 |link=%%fullname%% |title=%%title%% |sub-title=Published on %%created_at%% ]] [[/module]] [[/div]][!</del> <del></del><del></del> Row Ends <del></del><del></del> --]</p>
+<div class="row mb-4 article-row">
+<div class="list-page-container col-12 col-md-6">
+<div class="list-page-image-container rounded aspect-1x1">
+<img class="img-fluid rounded" src="/assets/img/splash-articles.avif" alt="splash-articles.avif">
 </div>
-<p>[[/div]][!<del> </del><del></del><del> Close Custom Splash </del><del></del><del> </del>]</p>
-    </main>
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+<div class="list-page-text-container text-center">
+<p><span class="list-page-title strong small-caps"><a href="/articles/">Go to Articles</a></span><span class="list-page-time hidden"></span></p>
+</div>
+</div>
+<div class="col-12 col-md-6">
+<div class="row list-page-item-row">
+<div class="list-page-container col-6 col-md-6">
+<div class="list-page-image-container rounded ">
+<img class="img-fluid rounded" src="/assets//articles/kyoukotsu-no-yume/kyoukotsu-no-yume.avif" alt="kyoukotsu-no-yume.avif">
+</div>
+<div class="list-page-text-container text-center">
+<p><span class="list-page-title strong small-caps"><a href="/articles/kyoukotsu-no-yume">Kyoukotsu no Yume Review</a></span><span class="list-page-time ">Published on 2026-09-09</span></p>
+</div>
+</div>
+<div class="list-page-container col-6 col-md-6">
+<div class="list-page-image-container rounded ">
+<img class="img-fluid rounded" src="/assets//articles/mouryou-no-hako/mouryou-no-hako.avif" alt="mouryou-no-hako.avif">
+</div>
+<div class="list-page-text-container text-center">
+<p><span class="list-page-title strong small-caps"><a href="/articles/mouryou-no-hako">Mouryou no Hako Review</a></span><span class="list-page-time ">Published on 2026-09-08</span></p>
+</div>
+</div>
+<div class="list-page-container col-6 col-md-6">
+<div class="list-page-image-container rounded ">
+<img class="img-fluid rounded" src="/assets//articles/colon-cancer-in-titles/colon-cancer-in-titles.avif" alt="colon-cancer-in-titles.avif">
+</div>
+<div class="list-page-text-container text-center">
+<p><span class="list-page-title strong small-caps"><a href="/articles/colon-cancer-in-titles">Colon Cancer in Titles</a></span><span class="list-page-time ">Published on 2026-09-04</span></p>
+</div>
+</div>
+<div class="list-page-container col-6 col-md-6">
+<div class="list-page-image-container rounded ">
+<img class="img-fluid rounded" src="/assets//articles/summer-of-ubume/summer-of-ubume.avif" alt="summer-of-ubume.avif">
+</div>
+<div class="list-page-text-container text-center">
+<p><span class="list-page-title strong small-caps"><a href="/articles/summer-of-ubume">Summer of Ubume Review</a></span><span class="list-page-time ">Published on 2026-09-04</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                            CAPA
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/home:home">Home</a> · 
+                                <a href="/home:guide">Guide</a> · 
+                                <a href="/home:article">Article</a>
+                        </div>
+                            <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
 </body>
 </html>

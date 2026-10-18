@@ -460,46 +460,22 @@ Stages might have a Dim Sum which increases max Health by 10 or a Musou Wine whi
 **Musou Wine:** Northern portion of the small island after Zhuge Liang makes the waterway.
 **Wu Forces:** Zhang Bao, Guan Xing, Ma Dai, Guan Suo, Wang Ping.
 **Shu Forces:** Ding Feng, Zhu Ran, Jiang Qin, Taishi Ci, Zhou Tai.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ylmap.avif
-|title=Yi Ling Map
-]]
+[[image ylmap.avif| Yi Ling Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ylds.avif
-|title=Yi Ling Dim Sum
-]]
+[[image ylds.avif| Yi Ling Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ylmw.avif
-|title=Yi Ling Musou Wine
-]]
+[[image ylmw.avif| Yi Ling Musou Wine]]
 
 +++ The Campaign for Jing
 **Unlock:** Shu Act 4.
 **Dim Sum:** South of Wu Ling.
 **Musou Wine:** Outside of Gui Yang along the Southern wall.
 **Items:** Gong Zhi, Zhao Fan.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=jingmap.avif
-|title=Campaign for Jing Map
-]]
+[[image jingmap.avif| Campaign for Jing Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=jingds.avif
-|title=Campaign for Jing Dim Sum
-]]
+[[image jingds.avif| Campaign for Jing Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=jingmw.avif
-|title=Campaign for Jing Musou Wine
-]]
+[[image jingmw.avif| Campaign for Jing Musou Wine]]
 
 +++ Unification of Jing
 **Unlock:** In Wu Act 3 choose Unification of Jiang Dong first.
@@ -513,75 +489,35 @@ This stage has nothing to pick up.
 **Musou Wine:** Top right fort, top right corner.
 **Wei Forces:** Gao Xiang, Wei Yan.
 **Shu Forces:** Jia Kui, Xu Huang.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=jtmap.avif
-|title=Jie Ting Map
-]]
+[[image jtmap.avif| Jie Ting Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=jtds.avif
-|title=Jie Ting Dim Sum
-]]
+[[image jtds.avif| Jie Ting Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=jtmw.avif
-|title=Jie Ting Musou Wine
-]]
+[[image jtmw.avif| Jie Ting Musou Wine]]
 
 +++ Battle of Wu Zhang Plains
 **Unlock:** Wei or Shu Act 5/Final Act.
 **Dim Sum:** Bottom left area after supply unit clears the front lines (Shu Musou Mode only after clearing battle of Jie Ting).
 **Musou Wine 1:** Right fort in the top right corner.
 **Musou Wine 2:** Bottom left area after supply unit clears the front lines (Shu Musou Mode only after clearing battle of Jie Ting).
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=wzpmap.avif
-|title=Wu Zhang Plains Map
-]]
+[[image wzpmap.avif| Wu Zhang Plains Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=wzpds.avif
-|title=Wu Zhang Plains Dim Sum (Shu Musou Mode after Battle of Jie Ting)
-]]
+[[image wzpds.avif| Wu Zhang Plains Dim Sum (Shu Musou Mode after Battle of Jie Ting)]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=wzpmw1.avif
-|title=Wu Zhang Plains Musou Wine
-]]
+[[image wzpmw1.avif| Wu Zhang Plains Musou Wine]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=wzpmw2.avif
-|title=Wu Zhang Plains Musou Wine (Shu Musou Mode after Battle of Jie Ting)
-]]
+[[image wzpmw2.avif| Wu Zhang Plains Musou Wine (Shu Musou Mode after Battle of Jie Ting)]]
 
 +++ Battle of Tian Shui
 **Unlock:** In Shu Act 3 skip Battle of Bo Wan Po, during Battle of Chi Bi have Zhuge Liang & Huang Gai fail their tactics, either by having them retreat or completing the battle before they can go off by defeating Cao Cao immediately.
 **Dim Sum:** Left bridge, South shore top right corner.
 **Musou Wine:** Right bridge, dead end after the bridge from the top.
 **Items:** Wang Lang, Xiahou Mao
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=tsmap.avif
-|title=Tian Shui Map
-]]
+[[image tsmap.avif| Tian Shui Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=tsds.avif
-|title=Tian Shui Dim Sum
-]]
+[[image tsds.avif| Tian Shui Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=tsmw.avif
-|title=Tian Shui Musou Wine
-]]
+[[image tsmw.avif| Tian Shui Musou Wine]]
 
 ++ He Fei
 +++ Battle of He Fei
@@ -590,23 +526,11 @@ This stage has nothing to pick up.
 **Musou Wine:** Below of the house East from the Western entrance to the center.
 **Wei Forces:** Jiang Qin, Ding Feng, Dong Xi.
 **Wu Forces:** Pang De, Cao Hong, Xiahou Dun.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=hfmap.avif
-|title=He Fei Map
-]]
+[[image hfmap.avif| He Fei Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=hfds.avif
-|title=He Fei Dim Sum
-]]
+[[image hfds.avif| He Fei Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=hfmw.avif
-|title=He Fei Musou Wine
-]]
+[[image hfmw.avif| He Fei Musou Wine]]
 
 +++ Battle of Shi Ting
 **Unlock:** Wei or Wu Act 5/Final Act.
@@ -615,68 +539,32 @@ This stage has nothing to pick up.
 **Musou Wine:** Inside the castle in the bottom right corner.
 **Wei Forces:** Ding Feng, Zhu Huan, Zhou Fang (defect).
 **Wu Forces:** Cao Xiu, Zhou Fang (before defecting), Cao Zhang, Man Chong.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=stmap.avif
-|title=Shi Ting Map
-]]
+[[image stmap.avif| Shi Ting Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=stds.avif
-|title=Shi Ting Dim Sum
-]]
+[[image stds.avif| Shi Ting Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=stmw.avif
-|title=Shi Ting Musou Wine
-]]
+[[image stmw.avif| Shi Ting Musou Wine]]
 
 +++ Campaign against Sun Jian
 **Dim Sum 1:** Above the river in the bottom left corner.
 **Dim Sum 2:** Zhou Yu (extra warrior, can join after 13 minutes.)
 **Musou Wine:** Top right corner under the enemy Gate Captain.
 **Items:** Zhu Huan, Lu Meng, Zhu Zhi.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=casjmap.avif
-|title=Campaign against Sun Jian Map
-]]
+[[image casjmap.avif| Campaign against Sun Jian Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=casjds.avif
-|title=Campaign against Sun Jian Dim Sum
-]]
+[[image casjds.avif| Campaign against Sun Jian Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=casjmw.avif
-|title=Campaign against Sun Jian Musou Wine
-]]
+[[image casjmw.avif| Campaign against Sun Jian Musou Wine]]
 
 +++ The Two Qiaos
 **Unlock:** In Wu Act 1 choose Yellow Turban Fortress then Yellow Turban Rebellion.
 **Dim Sum:** Guo Si's area in the bottom halfway near the left corner, if Survival Guide requirement is met it is near it.
 **Musou Wine:** Top left area bottom corner leading to the Guard Captain.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ttqmap.avif
-|title=The Two Qiaos Map
-]]
+[[image ttqmap.avif| The Two Qiaos Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ttqds.avif
-|title=The Two Qiaos Dim Sum
-]]
+[[image ttqds.avif| The Two Qiaos Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ttqmw.avif
-|title=The Two Qiaos Musou Wine
-]]
+[[image ttqmw.avif| The Two Qiaos Musou Wine]]
 
 ++ Han Zhong
 +++ Battle of Mt. Ding Jun
@@ -686,46 +574,22 @@ This stage has nothing to pick up.
 **Musou Wine:** Bottom left fort in the top left corner.
 **Wei Forces:** Fa Zheng, Chen Shi, Huang Zhong, Guan Yu.
 **Shu Forces:** Xiahou Shang, Zhang He, Xiahou De, Cao Zhang.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=djmap.avif
-|title=Mt. Ding Jun Map
-]]
+[[image djmap.avif| Mt. Ding Jun Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=djds.avif
-|title=Mt. Ding Jun Dim Sum
-]]
+[[image djds.avif| Mt. Ding Jun Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=djmw.avif
-|title=Mt. Ding Jun Musou Wine
-]]
+[[image djmw.avif| Mt. Ding Jun Musou Wine]]
 
 +++ Battle of Han Zhong
 **Unlock:** In Shu's Musou Mode have less than 10 stages played. In Shu Act 2 during Battle of Hu Lao Gate let Dong Zhuo escape. In Shu Act 4 during Battle of Chi Bi have Zhuge Liang & Huang Gai's ploys fail, you can also finish the stage by beating Cao Cao before they have their ploys set. In Shu Act 5 Fall of Wei should be your Act 5, pick Battle of Wu Zhang Plains first.
 **Dim Sum:** By left middle ally Gate Captain.
 **Musou Wine:** Top left section before the staircase.
 **Items:** Zhao Cen, Niou Fu
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=hzmap.avif
-|title=Han Zhong Map
-]]
+[[image hzmap.avif| Han Zhong Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=hzds.avif
-|title=Han Zhong Dim Sum
-]]
+[[image hzds.avif| Han Zhong Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=hzmw.avif
-|title=Han Zhong Musou Wine
-]]
+[[image hzmw.avif| Han Zhong Musou Wine]]
 
 +++ Eliminate Zhang Jiao!
 **Wei Unlock:** In Wei Act 1 skip Yellow Turban Menace, but do Yellow Turban Fortress. During Yellow Turban Rebellion let Zhang Jiao escape.
@@ -735,29 +599,13 @@ This stage has nothing to pick up.
 **Dim Sum 2:** Platform Zhang Jiao is on in the bottom right corner.
 **Musou Wine:** South of the top right Gate Captain after the stairs start.
 **Items:** Zhang Liang, Xiahou Dun/Sun Shang Xiang/Zhang Fei
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ezjmap.avif
-|title=Eliminate Zhang Jiao! Map
-]]
+[[image ezjmap.avif| Eliminate Zhang Jiao! Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ezjds1.avif
-|title=Eliminate Zhang Jiao! Dim Sum 1
-]]
+[[image ezjds1.avif| Eliminate Zhang Jiao! Dim Sum 1]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ezjds2.avif
-|title=Eliminate Zhang Jiao! Dim Sum 2
-]]
+[[image ezjds2.avif| Eliminate Zhang Jiao! Dim Sum 2]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ezjmw.avif
-|title=Eliminate Zhang Jiao! Musou Wine
-]]
+[[image ezjmw.avif| Eliminate Zhang Jiao! Musou Wine]]
 
 ++ Guan Du
 +++ Battle of Guan Du
@@ -766,46 +614,22 @@ This stage has nothing to pick up.
 **Musou Wine:** At Wu Chao around the top.
 **Cao Cao's Forces:** Guo Tu, Han Meng, Xun Chen, Lu Wei Kuang.
 **Yuan Shao's Forces:** Cheng Yu, Jia Xu, Guo Jia, Xin You, Zhu Ling.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=gdmap.avif
-|title=Guan Du Map
-]]
+[[image gdmap.avif| Guan Du Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=gdds.avif
-|title=Guan Du Dim Sum
-]]
+[[image gdds.avif| Guan Du Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=gdmw.avif
-|title=Guan Du Musou Wine
-]]
+[[image gdmw.avif| Guan Du Musou Wine]]
 
 +++ Campaign against Cao Cao
 **Unlock:** Lu Bu Act 2.
 **Dim Sum:** Directly South of the Northernmost ally Gate Captain by the wooden platform.
 **Musou Wine:** Cao Cao's main camp, bottom right corner.
 **Items:** Yu Jin, Yue Jin.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=caccmap.avif
-|title=Campaign against Cao Cao Map
-]]
+[[image caccmap.avif| Campaign against Cao Cao Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=caccds.avif
-|title=Campaign against Cao Cao Dim Sum
-]]
+[[image caccds.avif| Campaign against Cao Cao Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=caccmw.avif
-|title=Campaign against Cao Cao Musou Wine
-]]
+[[image caccmw.avif| Campaign against Cao Cao Musou Wine]]
 
 +++ The Yellow Turban Fortress
 **Unlock:** Initial
@@ -813,40 +637,20 @@ This stage has nothing to pick up.
 **Musou Wine:** Near the right path's entrance to the lower road.
 **Han Forces:** Cheng Yuanzhi
 **Yellow Turbans:** Cao Cao, Liu Bei, Sun Jian
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ytfmap.avif
-|title=Yellow Turban Fortress Map
-]]
+[[image ytfmap.avif| Yellow Turban Fortress Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ytfds.avif
-|title=Yellow Turban Fortress Dim Sum
-]]
+[[image ytfds.avif| Yellow Turban Fortress Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ytfmw.avif
-|title=Yellow Turban Fortress Musou Wine
-]]
+[[image ytfmw.avif| Yellow Turban Fortress Musou Wine]]
 
 ++ Ji Province
 +++ Battle of Ji Province
 **Unlock:** In Wei Act 2 skip Battle of Si Shui Gate. In Wei Act 3 during Battle of Guan Du defeat all general and allow Yuan Shao to escape.
 **Musou Wine:** North of the castle wall on the furthest left.
 **Items:** Yuan Xi, Gao Gan, Lu Kuang.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=jiprovincemap.avif
-|title=Ji Province Map
-]]
+[[image jiprovincemap.avif| Ji Province Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=jiprovincemw.avif
-|title=Ji Province Musou Wine
-]]
+[[image jiprovincemw.avif| Ji Province Musou Wine]]
 
 +++ The Yellow Turban Rebellion
 **Unlock:** Initial
@@ -854,46 +658,22 @@ This stage has nothing to pick up.
 **Musou Wine:** Zhang Liang's area near the center on the Eastern side.
 **Han Forces:** Pei Yuan Shao, Zhang Man Cheng, Bo Zhang, Zhou Cang, Liu Pi.
 **Yellow Turbans:** He Jin, Zhao Yun, Guan Yu, Yuan Shao, Cao Cao.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ytrmap.avif
-|title=Yellow Turban Rebellion Map
-]]
+[[image ytrmap.avif| Yellow Turban Rebellion Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ytrds.avif
-|title=Yellow Turban Rebellion Dim Sum
-]]
+[[image ytrds.avif| Yellow Turban Rebellion Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ytrmw.avif
-|title=Yellow Turban Rebellion Musou Wine
-]]
+[[image ytrmw.avif| Yellow Turban Rebellion Musou Wine]]
 
 +++ Dong Zhuo in Ji
 **Unlock:** In Wei Act 2 during Battle of Hu Lao Gate let Dong Zhuo escape. In Wei Act 3 skip Battle of Wan Castle. In Wei Act 5 select Battle of He Fei/Wu Zhang Plains first.
 **Dim Sum:** Top left corner.
 **Musou Wine:** From Cao Cao's starting position it is around the right side of the fort along the center.
 **Items:** Niou Fu, Li Jue.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=dzjmap.avif
-|title=Dong Zhuo in Ji Map
-]]
+[[image dzjmap.avif| Dong Zhuo in Ji Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=dzjds.avif
-|title=Dong Zhuo in Ji Dim Sum
-]]
+[[image dzjds.avif| Dong Zhuo in Ji Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=dzjmw.avif
-|title=Dong Zhuo in Ji Musou Wine
-]]
+[[image dzjmw.avif| Dong Zhuo in Ji Musou Wine]]
 
 ++ Xu Chang
 +++ Guan Yu's Escape
@@ -902,23 +682,11 @@ This stage has nothing to pick up.
 **Dim Sum:** After the fourth gate on the bottom side.
 **Musou Wine:** After the first gate in the left corner.
 **Liu Bei's Forces:** Bian Xi, Hu Ban
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=gyemap.avif
-|title=Guan Yu's Escape Map
-]]
+[[image gyemap.avif| Guan Yu's Escape Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=gyeds.avif
-|title=Guan Yu's Escape Dim Sum
-]]
+[[image gyeds.avif| Guan Yu's Escape Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=gyemw.avif
-|title=Guan Yu's Escape Musou Wine
-]]
+[[image gyemw.avif| Guan Yu's Escape Musou Wine]]
 
 +++ Battle of Xu Chang
 **Wu Unlock:** During Battle of Chi Bi have Zhuge Liang pray for the wind succeed and Huang Gai's Fire Attack succeed.
@@ -926,23 +694,11 @@ This stage has nothing to pick up.
 **Dim Sum:** In between the castle Gate Captain outside and the second Southern bridge.
 **Musou Wine:** Bottom right corner of the Supply Depot.
 **Items:** Jia Xu, Sima Zhao, Hu Zhi, Cao Xiu, Man Chong.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=xcmap.avif
-|title=Xu Chang Map
-]]
+[[image xcmap.avif| Xu Chang Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=xcds.avif
-|title=Xu Chang Dim Sum
-]]
+[[image xcds.avif| Xu Chang Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=xcmw.avif
-|title=Xu Cuang Musou Wine
-]]
+[[image xcmw.avif| Xu Cuang Musou Wine]]
 
 +++ Battle of Si Shui Gate
 **Unlock:** Wei, Wu or Shu Act 2.
@@ -950,23 +706,11 @@ This stage has nothing to pick up.
 **Musou Wine:** West side of the fence near where Niou Fu starts.
 **Allies Forces:** Fan Chou, Zhao Cen, Zhang Liao/Dong Min.
 **Dong Zhuo Forces:** Yuan Shu, Xiahou Dun, Messenger.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ssgmap.avif
-|title=Si Shui Gate Map
-]]
+[[image ssgmap.avif| Si Shui Gate Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ssgds.avif
-|title=Si Shui Gate Dim Sum
-]]
+[[image ssgds.avif| Si Shui Gate Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ssgmw.avif
-|title=Si Shui Gate Musou Wine
-]]
+[[image ssgmw.avif| Si Shui Gate Musou Wine]]
 
 ++ Wu Territory
 +++ Battle of Jian Ye
@@ -975,23 +719,11 @@ This stage has nothing to pick up.
 **Dim Sum:** Against the inner wall of the Northern rampart before the stairs in the center fort.
 **Musou Wine:** From the bottom center fort's Gate Captain the house directly North on it's right side.
 **Items:** Ding Feng, Zhou Tai, Huang Gai, Sun Ce.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=jymap.avif
-|title=Jian Ye Map
-]]
+[[image jymap.avif| Jian Ye Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=jyds.avif
-|title=Jian Ye Dim Sum
-]]
+[[image jyds.avif| Jian Ye Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=jymw.avif
-|title=Jian Ye Musou Wine
-]]
+[[image jymw.avif| Jian Ye Musou Wine]]
 
 +++ Unification of Jiang Dong
 **Unlock:** Wu Act 3.
@@ -1000,58 +732,26 @@ This stage has nothing to pick up.
 **Musou Wine 1:** Left fort in the lower left corner of the inner fort.
 **Musou Wine 2:** Right of the lower entrance in the top fort (Musou Mode only after clearing Campaign for the Wu Territory).
 **Items:** Liu Ye, Liang Gong, Han Xian.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=jdmap.avif
-|title=Unification of Jiang Dong Map
-]]
+[[image jdmap.avif| Unification of Jiang Dong Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=jdds1.avif
-|title=Unification of Jiang Dong Dim Sum 1
-]]
+[[image jdds1.avif| Unification of Jiang Dong Dim Sum 1]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=jdds2.avif
-|title=Unification of Jiang Dong Dim Sum 2 (Musou Mode after Campaign for the Wu Territory)
-]]
+[[image jdds2.avif| Unification of Jiang Dong Dim Sum 2 (Musou Mode after Campaign for the Wu Territory)]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=jdmw1.avif
-|title=Unification of Jiang Dong Musou Wine 1
-]]
+[[image jdmw1.avif| Unification of Jiang Dong Musou Wine 1]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=jdmw2.avif
-|title=Unification of Jiang Dong Musou Wine 2 (Musou Mode after Campaign for the Wu Territory)
-]]
+[[image jdmw2.avif| Unification of Jiang Dong Musou Wine 2 (Musou Mode after Campaign for the Wu Territory)]]
 
 +++ Campaign for the Wu Territory
 **Unlock:** Wu Act 3.
 **Dim Sum:** Center left fort up the Southern set of stairs of the inner lower wall.
 **Musou Wine:** Bottom right fort in the top right corner.
 **Items:** Xue Li, Fan Neng, Wang Lang.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=wtmap.avif
-|title=Campaign for the Wu Territory Map
-]]
+[[image wtmap.avif| Campaign for the Wu Territory Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=wtds.avif
-|title=Campaign for the Wu Territory Dim Sum
-]]
+[[image wtds.avif| Campaign for the Wu Territory Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=wtmw.avif
-|title=Campaign for the Wu Territory Musou Wine
-]]
+[[image wtmw.avif| Campaign for the Wu Territory Musou Wine]]
 
 ++ Luo Yang
 +++ The Imperial Seal
@@ -1059,45 +759,21 @@ This stage has nothing to pick up.
 **Dim Sum:** Bottom right area, bottom right corner.
 **Musou Wine:** Bottom right area, a little East from the bottom left corner.
 **Items:** Diao Chan, Li Jue.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ismap.avif
-|title=The Imperial Seal Map
-]]
+[[image ismap.avif| The Imperial Seal Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=isds.avif
-|title=The Imperial Seal Dim Sum
-]]
+[[image isds.avif| The Imperial Seal Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ismw.avif
-|title=The Imperial Seal Musou Wine
-]]
+[[image ismw.avif| The Imperial Seal Musou Wine]]
 
 +++ Battle of Hu Lao Gate
 **Unlock:** Wei, Wu or Shu Act 2.
 **Dim Sum:** Lower half of Hu Lao Gate.
 **Musou Wine:** Upper half of Hu Lao Gate.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=hlgmap.avif
-|title=Hu Lao Gate Map
-]]
+[[image hlgmap.avif| Hu Lao Gate Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=hlgds.avif
-|title=Hu Lao Gate Dim Sum
-]]
+[[image hlgds.avif| Hu Lao Gate Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=hlgmw.avif
-|title=Hu Lao Gate Musou Wine
-]]
+[[image hlgmw.avif| Hu Lao Gate Musou Wine]]
 
 +++ Battle of Tong Gate
 **Wei Unlock:** In Wei Act 4 skip Battle of Chang Ban.
@@ -1106,198 +782,94 @@ This stage has nothing to pick up.
 **Musou Wine:** Lone pot on the river on the Western side.
 **Cao Cao's Forces:** Ma Dai, Han Shui, Cheng Yin.
 **Liu Bei's Forces:** Xu Huang, Xiahou Yuan.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=tgmap.avif
-|title=Tong Gate Map
-]]
+[[image tgmap.avif| Tong Gate Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=tgds.avif
-|title=Tong Gate Dim Sum
-]]
+[[image tgds.avif| Tong Gate Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=tgmw.avif
-|title=Tong Gate Musou Wine
-]]
+[[image tgmw.avif| Tong Gate Musou Wine]]
 
 ++ Xu Province
 +++ Battle of Xia Pi
 **Unlock:** Wei Act 3.
 **Dim Sum:** At the North end of the stream going through the Castle.
 **Musou Wine:** On the small island where Red Hare is located.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=xpmap.avif
-|title=Xia Pi Map
-]]
+[[image xpmap.avif| Xia Pi Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=xpds.avif
-|title=Xia Pi Dim Sum
-]]
+[[image xpds.avif| Xia Pi Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=xpmw.avif
-|title=Xia Pi Musou Wine
-]]
+[[image xpmw.avif| Xia Pi Musou Wine]]
 
 +++ The Yellow Turban Menace
 **Dim Sum:** Top area down the Western side.
 **Musou Wine:** Top area down the Eastern side.
 **Han Forces:** Gao Sheng
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ytmmap.avif
-|title=Yellow Turban Menace Map
-]]
+[[image ytmmap.avif| Yellow Turban Menace Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ytmds.avif
-|title=Yellow Turban Menace Dim Sum
-]]
+[[image ytmds.avif| Yellow Turban Menace Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ytmmw.avif
-|title=Yellow Turban Menace Musou Wine
-]]
+[[image ytmmw.avif| Yellow Turban Menace Musou Wine]]
 
 +++ Campaign against Liu Bei
 Dim Sum 1: North from Liu Bei's bottom Gate Captain between the two houses.
 Dim Sum 2: Defeat Zhuge Liang or Yue Ying (Joins after 10 minutes)
 Musou Wine: From the castles lower right entrance go East to find it near a house.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=calbmap.avif
-|title=Campaign Against Liu Bei Map
-]]
+[[image calbmap.avif| Campaign Against Liu Bei Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=calbds.avif
-|title=Campaign Against Liu Bei Dim Sum
-]]
+[[image calbds.avif| Campaign Against Liu Bei Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=calbmw.avif
-|title=Campaign Against Liu Bei Musou Wine
-]]
+[[image calbmw.avif| Campaign Against Liu Bei Musou Wine]]
 
 +++ Lu Bu's Offensive
 **Unlock:** In Wei Act 2 defeat Lu Bu at Battle of Hu Lao Gate, in Wei Act 3 skip Battle of Xia Pi and defeat Lu Bu in Battle of Guan Du, in Wei Act 4 clear Battle of Chang Ban.
 **Musou Wine 1:** Top right outside in the bend from the North Gate.
 **Musou Wine 2:** North of the bottom left ally Gate Captain.
 **Items:** Zang Ba.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=lbomap.avif
-|title=Lu Bu's Offensive Map
-]]
+[[image lbomap.avif| Lu Bu's Offensive Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=lbomw1.avif
-|title=Lu Bu's Offensive Musou Wine 1
-]]
+[[image lbomw1.avif| Lu Bu's Offensive Musou Wine 1]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=lbomw2.avif
-|title=Lu Bu's Offensive Musou Wine 2
-]]
+[[image lbomw2.avif| Lu Bu's Offensive Musou Wine 2]]
 
 ++ Cheng Du
 +++ Campaign for Cheng Du
 **Unlock:** Shu Act 4
 **Dim Sum:** Southeast from Wu Lan's starting position.
 **Musou Wine:** Along the middle road in the bottom right.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ccdmap.avif
-|title=Campaign for Cheng Du Map
-]]
+[[image ccdmap.avif| Campaign for Cheng Du Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ccdds.avif
-|title=Campaign for Cheng Du Dim Sum
-]]
+[[image ccdds.avif| Campaign for Cheng Du Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ccdmw.avif
-|title=Campaign for Cheng Du Musou Wine
-]]
+[[image ccdmw.avif| Campaign for Cheng Du Musou Wine]]
 
 +++ Battle of Cheng Du
 **Wei Unlock:** During Battle of Chi Bi foil Zhuge Liang's Prayer and Huang Gai's Fire Attack, finishing the battle before either happens also counts.
 **Wu Unlock:** During Battle of Chi Bi Zhuge Liang's Prayer and Huang Gai's Fire Attack must fail, finishing the stage before either happens also counts as their failure.
 **Dim Sum:** Along the secret path that opens up after Wei Yan defects.
 **Musou Wine:** Along the middle path that is filled with mines.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=bcdmap.avif
-|title=Battle of Cheng Du Map
-]]
+[[image bcdmap.avif| Battle of Cheng Du Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=bcdds.avif
-|title=Battle of Cheng Du Dim Sum
-]]
+[[image bcdds.avif| Battle of Cheng Du Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=bcdmw.avif
-|title=Battle of Cheng Du Musou Wine
-]]
+[[image bcdmw.avif| Battle of Cheng Du Musou Wine]]
 
 +++ Battle of Luo Castle
 **Unlock:** Shu Act 4.
 **Dim Sum:** Bottom right area outside of the fort in the top left corner.
 **Musou Wine:** In the dead end at Luo Feng Po after the ambush.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=lcmap.avif
-|title=Luo Castle Map
-]]
+[[image lcmap.avif| Luo Castle Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=lcds.avif
-|title=Luo Castle Dim Sum
-]]
+[[image lcds.avif| Luo Castle Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=lcmw.avif
-|title=Luo Castle Musou Wine
-]]
+[[image lcmw.avif| Luo Castle Musou Wine]]
 
 ++ Chi Bi
 +++ Battle of Xia Kou
 **Unlock:** Wu Act 4.
 **Musou Wine:** In the bottom right corner of the broken house section.
 **Items:** Deng Long.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=xkmap.avif
-|title=Xia Kou Map
-]]
+[[image xkmap.avif| Xia Kou Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=xkmw.avif
-|title=Xia Kou Musou Wine
-]]
+[[image xkmw.avif| Xia Kou Musou Wine]]
 
 +++ Battle of Chi Bi
 **Unlock:** Wei, Wu or Shu Act 4.
@@ -1305,46 +877,22 @@ Musou Wine: From the castles lower right entrance go East to find it near a hous
 **Musou Wine:** From Gan Ning's boat the one to the left in the North end.
 **Cao Cao's Forces:** Cheng Pu, Zhou Yu, Pan Zhang, Zhao Yun, Huang Gai.
 **Sun Jian/Liu Bei's Forces:** Xun Yu, Zhu Ling, Yu Jin, Cai Mao, Li Dian.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=chibimap.avif
-|title=Chi Bi Map
-]]
+[[image chibimap.avif| Chi Bi Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=chibids.avif
-|title=Chi Bi Dim Sum
-]]
+[[image chibids.avif| Chi Bi Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=chibimw.avif
-|title=Chi Bi Musou Wine
-]]
+[[image chibimw.avif| Chi Bi Musou Wine]]
 
 +++ Battle of Chang Jiang
 **Unlock:** In Wu Act 3 choose Unification of Jing first, in Wu Act 4 skip Defense of Nanman.
 **Dim Sum:** Small fort above Dong Zhuo's Southern Gate Captain in the top right corner.
 **Musou Wine:** Along the wall East of Dong Zhuo's Northern Gate Captain.
 **Items:** Meng Huo, Zhu Rong.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=cjmap.avif
-|title=Chang Jiang Map
-]]
+[[image cjmap.avif| Chang Jiang Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=cjds.avif
-|title=Chang Jiang Dim Sum
-]]
+[[image cjds.avif| Chang Jiang Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=cjmw.avif
-|title=Chang Jiang Musou Wine
-]]
+[[image cjmw.avif| Chang Jiang Musou Wine]]
 
 ++ Xiang Yang
 +++ The Siege of Fan Castle
@@ -1353,69 +901,33 @@ Musou Wine: From the castles lower right entrance go East to find it near a hous
 **Musou Wine:** Near the bottom right Wei Gate Captain in the castle.
 **Wei Forces:** Lu Xun, Zhou Tai.
 **Wu Forces:** Zhen Ji.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=sfcmap.avif
-|title=Siege of Fan Castle Map
-]]
+[[image sfcmap.avif| Siege of Fan Castle Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=sfcds.avif
-|title=Siege of Fan Castle Dim Sum
-]]
+[[image sfcds.avif| Siege of Fan Castle Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=sfcmw.avif
-|title=Siege of Fan Castle Musou Wine
-]]
+[[image sfcmw.avif| Siege of Fan Castle Musou Wine]]
 
 +++ Battle of Fan Castle
 **Unlock:** Shu Act 5/Final Act.
 **Dim Sum:** Top right of the center of Fan Castle.
 **Musou Wine:** Bottom left of the center of Fan Castle.
 **Items:** Pang De, Yu Jin
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=bfcmap.avif
-|title=Battle of Fan Castle Map
-]]
+[[image bfcmap.avif| Battle of Fan Castle Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=bfcds.avif
-|title=Battle of Fan Castle Dim Sum
-]]
+[[image bfcds.avif| Battle of Fan Castle Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=bfcmw.avif
-|title=Battle of Fan Castle Musou Wine
-]]
+[[image bfcmw.avif| Battle of Fan Castle Musou Wine]]
 
 +++ Assault on Liu Biao
 **Unlock:** Wu Act 3.
 **Dim Sum:** By the bottom ally Gate Captain.
 **Musou Wine:** Inside the top left fort in the top right corner.
 **Items:** Lu Gong, Huang Zu.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=lbmap.avif
-|title=Assault on Liu Biao Map
-]]
+[[image lbmap.avif| Assault on Liu Biao Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=lbds.avif
-|title=Assault on Liu Biao Dim Sum
-]]
+[[image lbds.avif| Assault on Liu Biao Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=lbmw.avif
-|title=Assault on Liu Biao Musou Wine
-]]
+[[image lbmw.avif| Assault on Liu Biao Musou Wine]]
 
 ++ Ru Nan
 +++ Battle of Bo Wan Po
@@ -1424,46 +936,22 @@ Musou Wine: From the castles lower right entrance go East to find it near a hous
 **Musou Wine:** Top left small room in the castle on the bottom left.
 **Liu Bei's Forces:** Xu Shu, Yu Jin, Yue Jin
 **Cao Cao's Forces:** Jian Yong, Liu Feng, Guan Ping
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=bwpmap.avif
-|title=Bo Wan Po Map
-]]
+[[image bwpmap.avif| Bo Wan Po Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=bwpds.avif
-|title=Bo Wan Po Dim Sum
-]]
+[[image bwpds.avif| Bo Wan Po Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=bwpmw.avif
-|title=Bo Wan Po Musou Wine
-]]
+[[image bwpmw.avif| Bo Wan Po Musou Wine]]
 
 +++ Battle of Ru Nan
 **Unlock:** In Shu Act 2 pick Hu Lao Gate first and defeat Dong Zhuo while keeping Lu Bu alive.
 **Dim Sum:** Top left small room in the castle on the top left corner.
 **Musou Wine:** Top left small room in the castle in the bottom right corner.
 **Items:** Yu Jin, Xiahou Dun
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=rnmap.avif
-|title=Ru Nan Map
-]]
+[[image rnmap.avif| Ru Nan Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=rnds.avif
-|title=Ru Nan Dim Sum
-]]
+[[image rnds.avif| Ru Nan Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=rnmw.avif
-|title=Ru Nan Musou Wine
-]]
+[[image rnmw.avif| Ru Nan Musou Wine]]
 
 ++ Nan Yang
 +++ Battle of Wan Castle
@@ -1471,44 +959,20 @@ Musou Wine: From the castles lower right entrance go East to find it near a hous
 **Dim Sum:** Bottom left corner of the bottom left room from where you start.
 **Musou Wine:** Bottom left corner of the bottom left most room.
 **Items:** Zhang Xiu (when he blocks escape), Hu Zhen
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=wcmap.avif
-|title=Wan Castle Map
-]]
+[[image wcmap.avif| Wan Castle Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=wcds.avif
-|title=Wan Castle Dim Sum
-]]
+[[image wcds.avif| Wan Castle Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=wcmw.avif
-|title=Wan Castle Musou Wine
-]]
+[[image wcmw.avif| Wan Castle Musou Wine]]
 
 +++ Lu Bu's Revolt
 **Dim Sum:** Bottommost right room in the lower right corner.
 **Musou Wine:** Room left of Dong Zhuo's starting position.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=lbrmap.avif
-|title=Lu Bu's Revolt Map
-]]
+[[image lbrmap.avif| Lu Bu's Revolt Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=lbrds.avif
-|title=Lu Bu's Revolt Dim Sum
-]]
+[[image lbrds.avif| Lu Bu's Revolt Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=lbrmw.avif
-|title=Lu Bu's Revolt Musou Wine
-]]
+[[image lbrmw.avif| Lu Bu's Revolt Musou Wine]]
 
 ++ Nan Zhong
 +++ The Nanman Campaign
@@ -1517,46 +981,22 @@ Musou Wine: From the castles lower right entrance go East to find it near a hous
 **Musou Wine:** The lower path of the two horizontal paths parallel on the bottom right end.
 **Wu/Shu:** Meng Huo 1, Meng You, Dailai Dongzhu, Wu Tugu, King Duosi.
 **Nanman:** Guan Suo, Wei Yan, Ma Chao, Pang Tong.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=nanmanmap.avif
-|title=Nanman Campaign Map
-]]
+[[image nanmanmap.avif| Nanman Campaign Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=nanmands.avif
-|title=Nanman Campaign Dim Sum
-]]
+[[image nanmands.avif| Nanman Campaign Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=nanmanmw.avif
-|title=Nanman Campaign Musou Wine
-]]
+[[image nanmanmw.avif| Nanman Campaign Musou Wine]]
 
 +++ Defense of Nanman
 **Unlock:** Wu Act 4.
 **Dim Sum:** Ally fortress, slightly South of the main encampment.
 **Musou Wine:** The lower path of the two horizontal paths parallel on the bottom right end.
 **Items:** Wu Tugu, Zhu Rong
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=dnmmap.avif
-|title=Defense of Nanman Map
-]]
+[[image dnmmap.avif| Defense of Nanman Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=dnmds.avif
-|title=Defense of Nanman Dim Sum
-]]
+[[image dnmds.avif| Defense of Nanman Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=dnmmw.avif
-|title=Defense of Nanman Musou Wine
-]]
+[[image dnmmw.avif| Defense of Nanman Musou Wine]]
 
 ++ Nan Territory
 +++ Battle of Chang Ban
@@ -1565,69 +1005,33 @@ Musou Wine: From the castles lower right entrance go East to find it near a hous
 **Musou Wine:** In the center, small walled room on the lower right.
 **Liu Bei's Forces:** Xiahou Dun, Zhang He, Xiahou Yuan, Li Dian, Xun Yu
 **Cao Cao's Forces:** Liao Hua, Zhao Yun, Sun Qian, Guan Yu, Liu Qi
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=changbanmap.avif
-|title=Chang Ban Map
-]]
+[[image changbanmap.avif| Chang Ban Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=changbands.avif
-|title=Chang Ban Dim Sum
-]]
+[[image changbands.avif| Chang Ban Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=changbanmw.avif
-|title=Chang Ban Musou Wine
-]]
+[[image changbanmw.avif| Chang Ban Musou Wine]]
 
 +++ Race for Nan Territory
 **Unlock:** Wu Act 5/Final Act.
 **Dim Sum:** From the top right corner of the castle go South and up the first flight of stairs.
 **Musou Wine:** In the lower right small walled room on the top.
 **Items:** Wang Lang, Man Chong, Cao Hong.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ntmap.avif
-|title=Nan Territory Map
-]]
+[[image ntmap.avif| Nan Territory Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ntds.avif
-|title=Nan Territory Dim Sum
-]]
+[[image ntds.avif| Nan Territory Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=ntmw.avif
-|title=Nan Territory Musou Wine
-]]
+[[image ntmw.avif| Nan Territory Musou Wine]]
 
 +++ Battle of Mai Castle
 **Unlock:** In Wu Act 4 skip Battle of Xia Kou, Fall of Shu must be Act 5 (Zhuge Liang & Huang Gai succeed) in Battle of Yi Ling win with Guan Yu still alive.
 **Dim Sum:** South of the right enemy Gate Captain in the castle.
 **Musou Wine:** South of the castle's top entrance, top left corner of the walled area.
 **Items:** Zhou Cang, Jian Yong.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=mcmap.avif
-|title=Mai Castle Map
-]]
+[[image mcmap.avif| Mai Castle Map]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=mcds.avif
-|title=Mai Castle Dim Sum
-]]
+[[image mcds.avif| Mai Castle Dim Sum]]
 
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=mcmw.avif
-|title=Mai Castle Musou Wine
-]]
+[[image mcmw.avif| Mai Castle Musou Wine]]
 
 + Items
 This will list all items in the game you can potentially equip to your characters. Note that some items can only be obtained during Musou Mode.
@@ -1639,11 +1043,7 @@ Mounts have been given a separate slot this time instead of taking one of your m
 * **Territory - Stage:** Xu Province - Battle of Xia Pi (Lu Bu Forces)
 * **Location:** Around where Red Hare is.
 * **Requirement:** Don't defeat any officers before Guan Yu meets Red Hare then defeat only him after the event.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=h1-redharemap.avif
-|title=Red Hare Harness Location
-]]
+[[image h1-redharemap.avif| Red Hare Harness Location]]
 
 ++ Hex Mark Harness
 * **Effect:** Begin stage mounted on Hex Mark (Luck up)
@@ -1652,11 +1052,7 @@ Mounts have been given a separate slot this time instead of taking one of your m
 * **Location:** Bottom right island.
 * **Requirement:** Defeat Zhao Yun & Guan Yu before all reinforcements arrive, then deplete Liu Bei's health to half. 
  * You must not defeat anyone else after Liu Bei's army charges to get the item message to appear.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=h2-hexmarkmap.avif
-|title=Hex Mark Harness Location
-]]
+[[image h2-hexmarkmap.avif| Hex Mark Harness Location]]
 
 ++ Storm Harness
 * **Effect:** Begin stage mounted on Storm Runner (Mount Attack Lv.6)
@@ -1666,11 +1062,7 @@ Mounts have been given a separate slot this time instead of taking one of your m
 * Get caught by Yue Jin (left of Xiahou Yuan's fort) or Xu Huang's ambush (circular area on the right).
 * Foil the one you didn't get caught in by circling around behind them.
 * Make Xiahou Dun appear then defeat him.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=h3-stormmap.avif
-|title=Storm Harness Location
-]]
+[[image h3-stormmap.avif| Storm Harness Location]]
 
 ++ Shadow Harness
 **Effect:** Begin stage mounted on Shadow Runner (Can't be knocked off)
@@ -1685,22 +1077,14 @@ Mounts have been given a separate slot this time instead of taking one of your m
 * Han Sui stays on Ma Chao's side.
 * Event involving horses.
  * This is the most irritating item to get in the game, here's how I was able to get this. Defeat the officers in order of Xiahou Yuan, Cao Ren, Dian Wei & Cao Hong, steal a horse from whoever doesn't duel you unless you brought your own horse. Enter the Ice Castle while you are mounted and seal the enemy Gate Captain in the upper left section. Wait for Han Sui & Cao Cao to meet, if Cao Cao is by the bridgelayer unit pass by and move toward Han Sui to get him to follow. Then defeat Yu Jin & Xu Huang, lower Cao Cao's morale to 1 star by defeating troops and his sub officers. Xiahou Dun appeared at the 10 minute mark whom I defeated and waited for Han Sui to stay on Ma Chao's side then the horse event happened. Cao Cao had no morale when the horse event happened, if you meet the requirements, but don't get the horse event to happen nudge Ma Chao inside the Ice Castle which should get the event to happen.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=h4-shadowmap.avif
-|title=Shadow Harness Location
-]]
+[[image h4-shadowmap.avif| Shadow Harness Location]]
 
 ++ Elephant Harness
 * **Effect:** Begin stage mounted on Elephant
 * **Territory - Stage:** Nan Zhong - The Nanman Campaign (Nanman Forces)
 * **Location:** Nanman main camp in front of the middle Southern wall.
 * **Requirement:** Ride an Elephant into the enemy main camp.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=h5-elephantmap.avif
-|title=Elephant Harness Location
-]]
+[[image h5-elephantmap.avif| Elephant Harness Location]]
 
 + Orbs
 These augment your charge attacks to have elemental power and add an extra effect based on the element when you have full musou with weapons that are Lv 1-9. Lv 10 weapons will be able to use these without a full musou bar. These max at Lv 4 and increase in strength/duration/chance the higher the level.
@@ -1721,7 +1105,7 @@ Others: Zhang Jiao, Meng Huo, Zhu Rong
 
 Cao Ren, Lu Bu & Dong Zhuo can also get an elemental hit from their True Musou, however it is only on the final hit (the stomp).
 
-[[include :asoh:component:video-youtube |video-id=YW8iW6exI_k]]
+[[youtube YW8iW6exI_k]]
 
 + Normal
 Normal items are ones that boost your characters stats, these will max at Lv 20.
@@ -1749,22 +1133,14 @@ These are items with specific effects that only need to be obtained once. The it
 * **Supply Unit:** Gate Captain behind Lu Meng that makes its way to the Gate Captain near the ally main camp that appears when Sun Jian moves from the castle.
 * **Requirement:** Defeat Sun Quan and enter the castle, afterward defeat 3 of either Lu Meng, Zhou Tai, Gan Ning & Sun Shang Xiang.
  * Lu Meng & Zhou Tai being defeated before entering the castle will count.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=u1-aowmap.avif
-|title=Art of War Location
-]]
+[[image u1-aowmap.avif| Art of War Location]]
 
 ++ Survival Guide
 * **Effect:** Attack x2 when near death (standing up when health bar is red gives Attack x2 for 30 seconds)
 * **Territory - Stage:** He Fei - The Two Qiaos (Sun Jian's Forces)
 * **Location:** Southwest of the center bridge.
 * **Requirement:** Rescue both Qiao's personally.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=u2-sgmap.avif
-|title=Survival Guide Location
-]]
+[[image u2-sgmap.avif| Survival Guide Location]]
 
 ++ Bodyguard Manual
 * **Effect:** Bodyguards become stronger (makes them more aggressive)
@@ -1772,66 +1148,42 @@ These are items with specific effects that only need to be obtained once. The it
 * **Location:** South of the 5th gate before the stage ends.
 * **Requirement:** Xiahou Dun encounters Guan Yu after passing the 5th gate.
  * This is better done playing as Guan Yu, you will want to wait for the carriage to catch up to you after defeating Bian Xi and clearing the 3rd gate to give ample time for it to null the potential ambush and for when you clear the 4th gate before Xiahou Dun catches up.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=u3-bmmap.avif
-|title=Bodyguard Manual Location
-]]
+[[image u3-bmmap.avif| Bodyguard Manual Location]]
 
 ++ Way of Musou
 * **Effect:** Can use True Musou Attack regardless of health (Musou will deal fire damage with an extended finisher)
 * **Territory - Stage:** Xu Chang - Guan Yu's Escape (Cao Cao's Forces)
 * **Supply Unit:** Top right corner of the area right of the double bridge from the 4th gate that makes its way East to the Southern notch between Gates 2 & 3.
 * **Requirement:** Pass the 5th gate.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=u4-wommap.avif
-|title=Way of Musou Location
-]]
+[[image u4-wommap.avif| Way of Musou Location]]
 
 ++ Power Scroll
 * **Effect:** Never lose weapon deadlocks (loss changes to draw)
 * **Stage:** The Yellow Turban Fortress (Yellow Turbans Forces)
 * **Supply Unit:** In the small pass in the top left that makes its way to the right Gate Captain in the upper area.
 * **Requirement:** Defeat Guan Yu & Zhao Yun
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=u5-psmap.avif
-|title=Power Scroll Location
-]]
+[[image u5-psmap.avif| Power Scroll Location]]
 
 ++ Wind Scroll
 * **Effect:** Attack range increase
 * **Territory - Stage:** Xu Chang - Battle of Xu Chang (Shu Forces)
 * **Location:** West of the left Gate Captain outside of Xu Chang's West side.
 * **Requirement:** When asked to choose to defend the Siege Ramp or the Supply Depot succeed in both.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=u6-wsmap.avif
-|title=Wind Scroll Location
-]]
+[[image u6-wsmap.avif| Wind Scroll Location]]
 
 ++ Fire Arrows
 * **Effect:** Can shoot fire arrows (burn targets dealing slightly more damage)
 * **Territory - Stage:** Yi Ling - Unification of Jing (Sun Jian's Forces)
 * **Supply Unit:** Eastern exit of the top left castle that makes its way to the top right.
 * **Requirement:** Defeat Zhou Xin before the enemy does a joint attack.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=u7-famap.avif
-|title=Fire Arrows Location
-]]
+[[image u7-famap.avif| Fire Arrows Location]]
 
 ++ Charge Bracer
 * **Effect:** Withstand attacks while performing Charge (as long as it doesn't make your character jump)
 * **Territory - Stage:** He Fei - Campaign against Sun Jian (Yuan Shao's Forces)
 * **Supply Unit:** Northwest corner outside the South entry that makes its way to the Gate Captain near the ally main camp that appears when Sun Jian moves from the castle.
 * **Requirement:** Enter the castle before backup troops arrive.
-[[include image-capa
-|page=guide:dynasty-warriors-4
-|image=u8-cbmap.avif
-|title=Charge Bracer Location
-]]
+[[image u8-cbmap.avif| Charge Bracer Location]]
 
 + Item Farming
 There are two stages you can choose from one being very fast (Battle of Yi Ling Wu Forces) the other requiring patience to run through the stage (Battle of Cheng Du Wei Forces). I prefer Battle of Cheng Du, Wei Forces is the safest as the only time anyone should get routed is at the start of the stage, after you clear the first waves before the castle no one should fall ever. I do this with all 3 forces that have this stage, though know that Nanman is the most dangerous, but also lowest difficulty rank of the three (by 1 flame mark). While Battle of Yi Ling Wu Forces is much faster, you are also limited to Ma Chao, Zhou Tai & a created warrior using Ma Chao's moveset, should you not like either of those this is doable by everyone. This stage has 5 item bags to collect, the 5 items bags are located at.
@@ -1844,7 +1196,7 @@ There are two stages you can choose from one being very fast (Battle of Yi Ling 
 
 Quit and save **before** you start picking up items as bags picked up before saving will already have the contents determined when you beat the stage. If you don't get an upgrade to your items press Start+Select, reload the save and try again, this will require patience specially for Elemental Orbs as they are pretty rare.
 
-[[include :asoh:component:video-youtube |video-id=wy_gdA1o73I]]
+[[youtube wy_gdA1o73I]]
 
 + Endings
 Each kingdom has 4 endings based on how well you do during Musou Mode, these will list the factors you have to check in order to achieve the endings in particular. Nanman is a special case as they only have 4 so their endings have to still abide by your performance rather than number of stages played. These can be done on any difficulty through if you have strong bodyguards playing on Easy or Novice with Mixjoy is acceptable to let them get your kills to drag out stages if needed.

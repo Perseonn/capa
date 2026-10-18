@@ -60,74 +60,58 @@ All stages have a Dim Sum which increases max Life & Musou by 10, certain sides 
 ++ Yellow Turban Rebellion
 After Cheng Yuanzi is defeated go through the gate and head North until you can climb the wall, it is located at the Northern end of the wall.
 Yellow Turbans: Liu Bei, Sun Jian, Cao Cao.
-[[include common:img-2
-|image-1=DW2YTRMap.webp
-|image-2=DW2YTRField.webp
-|title= Yellow Turban Rebellion Map
-]]
+
+[[image DW2YTRMap.webp]]
+[[image DW2YTRField.webp| Yellow Turban Rebellion Map]]
 
 ++ The Battle at Hu Lao Gate
 On Fan Shui Gate's East side.
 Dong Zhuo's Forces: Cao Cao, Liu Bei, Gongsun Zan, Sun Jian.
-[[include common:img-2
-|image-1=DW2HLGMap.webp
-|image-2=DW2HLGField.webp
-|title= Hu Lao Gate Map
-]]
+
+[[image DW2HLGMap.webp]]
+[[image DW2HLGField.webp| Hu Lao Gate Map]]
 
 ++ The Battle at Guan Du
 Before the bend leading to Chun Yuqiong it is near a set of houses by the river.
-[[include common:img-2
-|image-1=DW2GDMap.webp
-|image-2=DW2GDField.webp
-|title= Guan Du Map
-]]
+
+[[image DW2GDMap.webp]]
+[[image DW2GDField.webp| Guan Du Map]]
 
 ++ The Battle of Chang Ban
 Southeastern portion of the village near Liu Bei's Gate Captain.
 Liu Bei's Forces: Cao Pi (Cao Cao's sub general, appears after Cao Cao arrives Northeast of him heading through the village in the center of the map)
-[[include common:img-2
-|image-1=DW2ChangBanMap.webp
-|image-2=DW2ChangBanField.webp
-|title= Chang Ban Map
-]]
+
+[[image DW2ChangBanMap.webp]]
+[[image DW2ChangBanField.webp| Chang Ban Map]]
 
 ++ The Battle at Chi Bi
 Northeast corner of the map.
 Sun Quan's Forces: Cao Pi (Appears after Fire Attack succeeds)
-[[include common:img-2
-|image-1=DW2ChiBiMap.webp
-|image-2=DW2ChiBField.webp
-|title= Chi Bi Map
-]]
+
+[[image DW2ChiBiMap.webp]]
+[[image DW2ChiBField.webp| Chi Bi Map]]
 
 ++ The Battle at He Fei
 Island between Lu Xun & Xiahou Dun's starting positions.
 Sun Quan's Forces: Cao Pi (Cao Cao's sub general covering the West gate to his inner castle)
 Cao Cao's Forces: Sun Shang Xiang (Zhou Yu's sub general, starts near Dian Wei)
-[[include common:img-2
-|image-1=DW2HFMap.webp
-|image-2=DW2HFField.webp
-|title= He Fei Map
-]]
+
+[[image DW2HFMap.webp]]
+[[image DW2HFField.webp| He Fei Map]]
 
 ++ The Battle at Yi Ling
 Near the center of the Stone Sentinel Maze.
 Liu Bei's Forces: Sun Shang Xiang (Sun Quan's sub general, starts near the Northwest entrance to the Main Camp)
-[[include common:img-2
-|image-1=DW2YLMap.webp
-|image-2=DW2YLField.webp
-|title= Yi Ling Map
-]]
+
+[[image DW2YLMap.webp]]
+[[image DW2YLField.webp| Yi Ling Map]]
 
 ++ The Battle at Wu Zhang Plains
 The village near Dian Wei & Ma Chao's starting position in the East, between a small set of houses near the Eastern wall.
 Liu Bei's Forces: Cao Pi (Cao Cao's sub general to his West in the Main Camp) 
-[[include common:img-2
-|image-1=DW2WZPMap.webp
-|image-2=DW2WZPField.webp
-|title= Wu Zhang Plains Map
-]]
+
+[[image DW2WZPMap.webp]]
+[[image DW2WZPField.webp| Wu Zhang Plains Map]]
 
 + Luminous Sword
 This is a special sword drop which gives a higher than normal Attack increase at +10 regardless of the difficulty while others would go as high as +8, this sword is found in three instances.

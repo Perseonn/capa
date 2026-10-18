@@ -1199,10 +1199,6 @@ These codes, seems to be for informative use only. They don't change anything.
 
 
 + Doraemon
-[[[http://en.wikipedia.org/wiki/Doraemon | Doraemon]]] is a robotic cat featured in a Manga created by Fujiko Fujio. The cat made an appearance in the game anytime you use an Accession skill.
+[[link http://en.wikipedia.org/wiki/Doraemon | Doraemon]] is a robotic cat featured in a Manga created by Fujiko Fujio. The cat made an appearance in the game anytime you use an Accession skill.
 
-[[include common:image-css
-|image=http://capa.wikidot.com/local--files/game:breathoffire3/doraemon4.png
-|title=Although there are many sprite rippers for PlayStation game, none of which mentioned the robotic cat's appearance.
-|ratio=4x3
-]]
+[[image doraemon4.png | Although there are many sprite rippers for PlayStation game, none of which mentioned the robotic cat's appearance.]]

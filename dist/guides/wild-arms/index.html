@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Wild Arms</title>
+    <meta name="description" content="The first RPG I&#39;ve every played. It is plagued with incorrect translations and few inconsistencies, ...">
+    
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/css/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -13,9 +16,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
-
-    <title>Wild Arms</title>
-    <meta name="description" content="The first RPG I&#39;ve every played. It is plagued with incorrect translations and few inconsistencies, ...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
@@ -31,48 +31,85 @@
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
     <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
     <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
     <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
-    <header>
-        <nav>
-    <a href="/">Home</a>
-    <a href="/guides/">Guides</a>
-    <a href="/articles/">Articles</a>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-md-2 p-0">
+                <nav class="capa-navbar" aria-label="Main navigation">
+
+    <!-- Mobile-only Expand Button -->
+    <button
+        class="capa-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="capa-nav-content"
+        aria-label="Open navigation"
+    >
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    
+    <!-- Mobile-only Close Button -->
+    <button
+        class="capa-nav-overlay"
+        type="button"
+        aria-label="Close navigation"
+        tabindex="-1"
+        aria-hidden="true"
+    ></button>
+
+    <!-- Shared navigation and TOC -->
+    <div id="capa-nav-content">
+        <div class="nav-item">
+            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        </div>
+        <div class="nav-item">
+            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        </div>
+        <div class="nav-item">
+            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        </div>
+        <!-- TOC will be moved here by move-toc-to-nav.js -->
+    </div>
+
 </nav>
-    </header>
-    <main>
-        <div class="row m-0 p-0">
-<p>[[div class=&quot;col-md-2 hidden-xs hidden-sm guide table-of-contents p-0&quot; role=&quot;navigation&quot;]]</p>
-<p>[[include nav:main]]</p>
-<p>[[/div]][!<del> Close the role=navigation </del>]</p>
-<p>[!<del> </del><del></del><del> </del><del></del><del> Border between Nav and Main Content </del><del></del><del> </del><del></del><del> </del>]</p>
-<p>[[div_ class=&quot;col-md-10 col-md-offset-2 col-xs-12 main main-container p-0&quot;]]</p>
-<p>[[include component:splash |splash-class=full-height |splash-style=background-image:url(&#39;http://capa.wdfiles.com/local--files/guides%3Awild-arms/wild-arms-splash.avif&#39;); |text-title=Wild Arms |text-sub-title=Written by Perseonn Balthasaar |text-extra=Updated on %%updated_at%% |text-extra-icon=fa fa-clock ]]</p>
-<div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl">
-<p>[[collapsible show=&quot;Table of Contents&quot; hide=&quot;Collapse Table of Contents&quot;]]</p>
-<div class="table-of-contents">
-<a href="#heading-1">Miscellaneous Codes</a>
-<a href="#heading-2">Item Codes</a>
-<a href="#heading-3">Item Type</a>
-<a href="#heading-4">Item Amount</a>
-<a href="#heading-5">Item Digits</a>
-<a href="#heading-6">Rudy Codes</a>
-<a href="#heading-7">Arms Digits</a>
-<a href="#heading-8">Jack Codes</a>
-<a href="#heading-9">Fast Draw Digits</a>
-<a href="#heading-10">Cecilia Codes</a>
-<a href="#heading-11">Crest Magic Digits</a>
-<a href="#heading-12">The Heal Berry 255 Item Trick</a>
+            </header>
+            <div class="col-12 col-md-10 p-0">
+                <main class="capa-main">
+                    <div class="row m-0 p-0">
+<div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:url(&#39;/assets/guides/wild-arms/wild-arms-splash.avif&#39;);">
+<div class="title-container p-4">
+<div class="page-extra stroke ">
+<p><span class="visible fa fa-clock"> </span> Updated at 2015-03-27</p>
 </div>
-<p>[[/collapsible]]</p>
+<div class="page-sub-title strong stroke ">
+<p>Written by Perseonn Balthasaar</p>
+</div>
+<div class="page-title strong stroke ">
+<p>Wild Arms</p>
+</div>
+</div>
+</div>
+<div id="toc" class="table-of-contents">
+<a href="#heading-1" class="toc-h1">Miscellaneous Codes</a>
+<a href="#heading-2" class="toc-h1">Item Codes</a>
+<a href="#heading-3" class="toc-h2">Item Type</a>
+<a href="#heading-4" class="toc-h2">Item Amount</a>
+<a href="#heading-5" class="toc-h2">Item Digits</a>
+<a href="#heading-6" class="toc-h1">Rudy Codes</a>
+<a href="#heading-7" class="toc-h2">Arms Digits</a>
+<a href="#heading-8" class="toc-h1">Jack Codes</a>
+<a href="#heading-9" class="toc-h2">Fast Draw Digits</a>
+<a href="#heading-10" class="toc-h1">Cecilia Codes</a>
+<a href="#heading-11" class="toc-h2">Crest Magic Digits</a>
+<a href="#heading-12" class="toc-h1">The Heal Berry 255 Item Trick</a>
 </div>
 <div class="container drop-caps p-4 wild-arms">
-<p><p>The first RPG I&#39;ve every played. It is plagued with incorrect translations and few inconsistencies, but the story is very good, game play was simple and engaging, challenging bonus boss, thoughtful dungeon, and overall great gaming experience.</p>
+<p>The first RPG I&#39;ve every played. It is plagued with incorrect translations and few inconsistencies, but the story is very good, game play was simple and engaging, challenging bonus boss, thoughtful dungeon, and overall great gaming experience.</p>
 <p>It was remade later as &quot;Alter Code: F&quot;, which still has flawed translation (albeit the long translation time) and the voice over was butchered by its publisher, Agetec. The game also went badly with its new character and engine, rendering both Cecilia and Jack a burden the whole game, and become close to useless after you obtain the extra characters.</p>
 <p>The original PSX Wild Arms is available on PSN for a mere $5.99. On PSN Flash Sale event, the price can be as low as $0.96.</p>
 <p>Wild Arms&#39; randomizer is peculiar that your action will always have same outcome (e.g. hit/miss, damage, critical, Fast Draw leaned) during a turn unless you change a parameter. Example, if you order Jack to do an attack and save the state, then the attack does critical hit, no matter how many times you load the state, that attack will always be a critical. The same goes for enemy: if on the turn they use an attack on Jack for 60 damage, it will always do that to the same target, for the same damage.</p>
@@ -5561,7 +5598,7 @@
         <td></td>
     </tr>
 </table>
-<p>[[include :fiction:common:alert |text=Digit 32 / 20h is a placeholder skill when you mastered Psycho Crack, which does not happen in the game. Starting from this digit, all skills behave like &quot;????&quot; skills cycle from Psycho Crack, to Trump Card.]] [[include :fiction:common:alert |text=ATP are just estimation, and might not be completely accurate, but it gives an estimation on how strong the skill is. ATPs are estimated using full force Jack doing the skill 10 times and averaged, then compared to his normal attack on same condition. All tested on the same enemy.]]</p>
+<p>[[xinclude :fiction:common:alert |text=Digit 32 / 20h is a placeholder skill when you mastered Psycho Crack, which does not happen in the game. Starting from this digit, all skills behave like &quot;????&quot; skills cycle from Psycho Crack, to Trump Card.]] [[xinclude :fiction:common:alert |text=ATP are just estimation, and might not be completely accurate, but it gives an estimation on how strong the skill is. ATPs are estimated using full force Jack doing the skill 10 times and averaged, then compared to his normal attack on same condition. All tested on the same enemy.]]</p>
 <h1 id="heading-10">Cecilia Codes</h1>
 <table>
     <tr>
@@ -6748,18 +6785,38 @@
         <td></td>
     </tr>
 </table>
-<p>[[include :fiction:common:alert |text=ATP are just estimation, and might not be completely accurate, but it gives an estimation on how strong the skill is. ATPs are estimated using full force Cecilia doing the skill 10 times and averaged, then compared to her SOR, which at the time, was 39. Lucky Shot, for example, do average of 39 damage, which is same as Cecilia&#39;s SOR (thus, 100)]] [[include :fiction:common:alert |type=danger |icon=warning |text= Digits other than listed have no name, many have massive MP usage (&gt;100), and crashes the game.]]</p>
+<p>[[xinclude :fiction:common:alert |text=ATP are just estimation, and might not be completely accurate, but it gives an estimation on how strong the skill is. ATPs are estimated using full force Cecilia doing the skill 10 times and averaged, then compared to her SOR, which at the time, was 39. Lucky Shot, for example, do average of 39 damage, which is same as Cecilia&#39;s SOR (thus, 100)]] [[xinclude :fiction:common:alert |type=danger |icon=warning |text= Digits other than listed have no name, many have massive MP usage (&gt;100), and crashes the game.]]</p>
 <h1 id="heading-12">The Heal Berry 255 Item Trick</h1>
 <p>You probably already know how this trick is performed. If you wonder how does it work, I&#39;ll explain it here.</p>
 <p>: Requirements : You need to have 3 party members. _ You only have 1 item that you want to duplicate. _ You have 2 or more consumable item (Heal Berry preferred due to its abundance). _</p>
 <p>: Steps : Order first character use Heal Berry. _ Order second character use Heal Berry _ Order third character to swap heal berry with the item you want to duplicate, and then Defend. _ Let the battle commence. _ The item swapped with Heal Berry will now be 255.</p>
 <p>Let&#39;s say that the Heal Berry is in slot 1, and the item to be duplicated, Ambrosia, is in slot 2. Due to requirement, there&#39;s only 1 Ambrosia. : Order first character to use Heal Berry (Slot 1) : This orders the game to use Heal Berry and reduce Item in slot 1 by 1. Take note of how I write this. The game was not ordered to use Item 1, the game was ordered to use the Heal Berry instead. : Order second character to use Heal Berry (Slot 1) : This orders the game to use Heal Berry and reduce Item in slot 1 by 1. : Third character swap Heal Berry (Slot 1) With Ambrosia (Slot 2) and Defend : Different from previous two, this actually sort the item, not ordering just order the game to do it. Now Ambrosia is in Slot 1 and Heal Berry is in Slot 2. : Turn commence - Third Character : Third character defend (defend being a high priority move s/he goes first. Nothing changed. : Turn commence - First Character : First character uses Heal Berry as ordered, but reduces the item in slot 1, which is Ambrosia. Ambrosia is now 0. However, the game only reduce the amount, not clearing the Item Type itself, hence at this state, item slot 1 is occupied with 0 Ambrosia. : Turn commence - Second Character : Second character uses Heal Berry as ordered, but again reduces the item in slot 1, Since item slot 1 is occupied by 0 Ambrosia and the game only know how to reduce the amount using this mechanism, the item become -1 Ambrosia. This causes overflow, and since item amount is Integer 1 byte, it converts the signed value (-1) to its unsigned value (255). Hence you get the 255 Ambrosias.</p>
-<p>: What if the target duplicated item is more than 1? : Let&#39;s say you have 2 Ambrosias, at the end of battle, it will become 0 Ambrosia.  You can redo the trick by swapping Heal Berry with the empty slot and end with 254 item.</p></p>
+<p>: What if the target duplicated item is more than 1? : Let&#39;s say you have 2 Ambrosias, at the end of battle, it will become 0 Ambrosia.  You can redo the trick by swapping Heal Berry with the empty slot and end with 254 item.</p>
 </div>
 </div>
-</div>
-<p>[[module css]] .toc-bg {background-image: url(&#39;http://capa.wdfiles.com/local--files/guides:wild-arms/wild-arms-sidebar.avif&#39;);} .guide-article-hide {display:none;} .guide-article-only {display:block;} [[/module]]</p>
-    </main>
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                            CAPA
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/home:home">Home</a> · 
+                                <a href="/home:guide">Guide</a> · 
+                                <a href="/home:article">Article</a>
+                        </div>
+                            <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
 </body>
 </html>

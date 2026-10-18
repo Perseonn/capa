@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Soulcalibur III</title>
+    <meta name="description" content="The fourth installment of the //Soul// series, Soulcalibur III is, to the release of Soulcalibur V, ...">
+    
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/css/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -13,9 +16,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
-
-    <title>Soulcalibur III</title>
-    <meta name="description" content="The fourth installment of the //Soul// series, Soulcalibur III is, to the release of Soulcalibur V, ...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
@@ -31,53 +31,90 @@
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
     <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
     <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
     <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
-    <header>
-        <nav>
-    <a href="/">Home</a>
-    <a href="/guides/">Guides</a>
-    <a href="/articles/">Articles</a>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-md-2 p-0">
+                <nav class="capa-navbar" aria-label="Main navigation">
+
+    <!-- Mobile-only Expand Button -->
+    <button
+        class="capa-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="capa-nav-content"
+        aria-label="Open navigation"
+    >
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    
+    <!-- Mobile-only Close Button -->
+    <button
+        class="capa-nav-overlay"
+        type="button"
+        aria-label="Close navigation"
+        tabindex="-1"
+        aria-hidden="true"
+    ></button>
+
+    <!-- Shared navigation and TOC -->
+    <div id="capa-nav-content">
+        <div class="nav-item">
+            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        </div>
+        <div class="nav-item">
+            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        </div>
+        <div class="nav-item">
+            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        </div>
+        <!-- TOC will be moved here by move-toc-to-nav.js -->
+    </div>
+
 </nav>
-    </header>
-    <main>
-        <div class="row m-0 p-0">
-<p>[[div class=&quot;col-md-2 hidden-xs hidden-sm guide table-of-contents p-0&quot; role=&quot;navigation&quot;]]</p>
-<p>[[include nav:main]]</p>
-<p>[[/div]][!<del> Close the role=navigation </del>]</p>
-<p>[!<del> </del><del></del><del> </del><del></del><del> Border between Nav and Main Content </del><del></del><del> </del><del></del><del> </del>]</p>
-<p>[[div_ class=&quot;col-md-10 col-md-offset-2 col-xs-12 main main-container p-0&quot;]]</p>
-<p>[[include component:splash |splash-class=full-height |splash-style=background-image:url(&#39;http://capa.wdfiles.com/local--files/guides%3Asoulcalibur-3/soulcalibur-3-splash.avif&#39;); |text-title=Soulcalibur III |text-sub-title=Written by Perseonn Balthasaar |text-extra=Updated on %%updated_at%% |text-extra-icon=fa fa-clock ]]</p>
-<div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl">
-<p>[[collapsible show=&quot;Table of Contents&quot; hide=&quot;Collapse Table of Contents&quot;]]</p>
-<div class="table-of-contents">
-<a href="#heading-1">Master Codes</a>
-<a href="#heading-2">Joker Commands</a>
-<a href="#heading-3">Character Modifications</a>
-<a href="#heading-4">Play As Modifications</a>
-<a href="#heading-5">Color Modifications</a>
-<a href="#heading-6">Moveset &amp; Weapon Modifications</a>
-<a href="#heading-7">Weapon Swipe Color</a>
-<a href="#heading-8">Moveset Modifications</a>
-<a href="#heading-9">Weapon Modifications</a>
-<a href="#heading-10">Camera Limitation Release</a>
-<a href="#heading-11">Stage Modification</a>
-<a href="#heading-12">How to use Stage Modifier with Joker Command</a>
-<a href="#heading-13">Miscellaneous Codes</a>
-<a href="#heading-14">Weapon Parameter Codes</a>
-<a href="#heading-15">Figuring Out the Value Needed</a>
-<a href="#heading-16">CaS Profile &amp; Weapon Exhibition Guide</a>
-<a href="#heading-17">CaS Ending Guide</a>
+            </header>
+            <div class="col-12 col-md-10 p-0">
+                <main class="capa-main">
+                    <div class="row m-0 p-0">
+<div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:url(&#39;/assets/guides/soulcalibur-3/soulcalibur-3-splash.avif&#39;);">
+<div class="title-container p-4">
+<div class="page-extra stroke ">
+<p><span class="visible fa fa-clock"> </span> Updated at 2014-12-15</p>
 </div>
-<p>[[/collapsible]]</p>
+<div class="page-sub-title strong stroke ">
+<p>Written by Perseonn Balthasaar</p>
+</div>
+<div class="page-title strong stroke ">
+<p>Soulcalibur III</p>
+</div>
+</div>
+</div>
+<div id="toc" class="table-of-contents">
+<a href="#heading-1" class="toc-h1">Master Codes</a>
+<a href="#heading-2" class="toc-h1">Joker Commands</a>
+<a href="#heading-3" class="toc-h1">Character Modifications</a>
+<a href="#heading-4" class="toc-h2">Play As Modifications</a>
+<a href="#heading-5" class="toc-h2">Color Modifications</a>
+<a href="#heading-6" class="toc-h1">Moveset &amp; Weapon Modifications</a>
+<a href="#heading-7" class="toc-h2">Weapon Swipe Color</a>
+<a href="#heading-8" class="toc-h2">Moveset Modifications</a>
+<a href="#heading-9" class="toc-h2">Weapon Modifications</a>
+<a href="#heading-10" class="toc-h1">Camera Limitation Release</a>
+<a href="#heading-11" class="toc-h1">Stage Modification</a>
+<a href="#heading-12" class="toc-h2">How to use Stage Modifier with Joker Command</a>
+<a href="#heading-13" class="toc-h1">Miscellaneous Codes</a>
+<a href="#heading-14" class="toc-h1">Weapon Parameter Codes</a>
+<a href="#heading-15" class="toc-h2">Figuring Out the Value Needed</a>
+<a href="#heading-16" class="toc-h1">CaS Profile &amp; Weapon Exhibition Guide</a>
+<a href="#heading-17" class="toc-h1">CaS Ending Guide</a>
 </div>
 <div class="container drop-caps p-4 soulcalibur-3">
-<p><p>The fourth installment of the <em>Soul</em> series, Soulcalibur III is, to the release of Soulcalibur V, the installment with most content. It was unknown why the later series have less content, probably because Daishi is involved in the production.</p>
+<p>The fourth installment of the <em>Soul</em> series, Soulcalibur III is, to the release of Soulcalibur V, the installment with most content. It was unknown why the later series have less content, probably because Daishi is involved in the production.</p>
 <p>If you&#39;re interested in showcasing your character, you can visit [http://asoh.wikidot.com Another Stage of History].</p>
 <p>If you&#39;re using the most recent PCSX2, you can directly use the raw PS2 codes on the ArtMoney, since the address aligned perfectly, just change the code type identifier (first digit of a raw PS code) to 2.</p>
 <h1 id="heading-1">Master Codes</h1>
@@ -164,10 +201,14 @@
         <td>Left</td>
     </tr>
 </table>
-<p>[[include :fiction:common:alert |text=To use a combination of buttons instead of one single button, simply add all the buttons digits together (set to programmer HEX mode in calculator). Example, to use square + L3, add up: 8000 + 0002 = 8002. Subtract FFFF with this number: FFFF - 8002 = 7FFD.]]</p>
+<p>[[xinclude :fiction:common:alert |text=To use a combination of buttons instead of one single button, simply add all the buttons digits together (set to programmer HEX mode in calculator). Example, to use square + L3, add up: 8000 + 0002 = 8002. Subtract FFFF with this number: FFFF - 8002 = 7FFD.]]</p>
 <h1 id="heading-3">Character Modifications</h1>
 <h2 id="heading-4">Play As Modifications</h2>
-<p>Play as modifiers allows you to change your current character to any character available in the game. It will even let you play as Night Terror, Chronicles of the Sword characters, as well as other unplayables such as Colossus. [[include common:image-css |image=http://capa.wikidot.com/local--files/game:soulcalibur3/nightterror.jpg |title=Night Terror in Survival]]</p>
+<p>Play as modifiers allows you to change your current character to any character available in the game. It will even let you play as Night Terror, Chronicles of the Sword characters, as well as other unplayables such as Colossus.</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/soulcalibur-3/nightterror.jpg" alt="Night Terror in Survival">
+        <figcaption>Night Terror in Survival</figcaption>
+    </figure>
 <p><strong>Player 1 Character Modifier</strong> 104B4860 000000??</p>
 <p><strong>Player 2 Character Modifier</strong> 104D1FE0 000000??</p>
 <p>Replace Character Modifier ?? with the Character Modifier Digits below.</p>
@@ -227,7 +268,7 @@
         <td>Extra Color Edit 2</td>
     </tr>
 </table>
-<p>[[include :fiction:common:alert |type=warning |icon=warning |text=Costume 3 to 8 only works on certain character digits. Refer to the Character Modifier Digits below. Other than listed, the game will crash. Color Edits only work on standard characters.]]</p>
+<p>[[xinclude :fiction:common:alert |type=warning |icon=warning |text=Costume 3 to 8 only works on certain character digits. Refer to the Character Modifier Digits below. Other than listed, the game will crash. Color Edits only work on standard characters.]]</p>
 <table>
     <tr>
         <th>Hex</th>
@@ -1717,19 +1758,25 @@
     </tr>
 </table>
 <h2 id="heading-5">Color Modifications</h2>
-<p>[[include common:image-css |image=http://capa.wikidot.com/local--files/game:soulcalibur3/standardcolorchange.jpg |title=Cassandra with Color Restriction Remover, showing skin-colored stockings]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/soulcalibur-3/standardcolorchange.jpg" alt="Cassandra with Color Restriction Remover, showing skin-colored stockings">
+        <figcaption>Cassandra with Color Restriction Remover, showing skin-colored stockings</figcaption>
+    </figure>
 <p><strong>Universal Color Palette Changer</strong> 202D852C 460F7B00 This code changes all color palette to a secret palette that will allow you to:</p>
 <ol>
     <li>Freely alter your custom character&#39;s underwear/underclothing color to most available colors on the standard color palette (including skin tones).</li>
     <li>Use a set of new, multi shaded, and brighter colors for most clothing items. This also works on standard characters, though results are not till you exit.</li>
 </ol>
 
-<p>[[include :fiction:common:alert |type=warning |icon=warning |text=This code has very limited usage. It will screw up your current character&#39;s colors (rectifiable, at many times), and the individual shade colors on multi-shaded effect cannot be edited.]]</p>
-<p><strong>Standard Characters Color Restriction Remover</strong> 202D8E70 3C014000 202D8E78 44817000 Code that allows coloring all restricted parts in Standard Character Color Edit to skin tone or any other color. This will manipulate standard characters only. [[include :fiction:common:alert |type=warning |icon=warning |text=Coloring hair a bright color may have a side effect that changes the character&#39;s face skin color, either leaving the hair color at default or color it to a dark or white color is recommended when using this code.]]</p>
+<p>[[xinclude :fiction:common:alert |type=warning |icon=warning |text=This code has very limited usage. It will screw up your current character&#39;s colors (rectifiable, at many times), and the individual shade colors on multi-shaded effect cannot be edited.]]</p>
+<p><strong>Standard Characters Color Restriction Remover</strong> 202D8E70 3C014000 202D8E78 44817000 Code that allows coloring all restricted parts in Standard Character Color Edit to skin tone or any other color. This will manipulate standard characters only. [[xinclude :fiction:common:alert |type=warning |icon=warning |text=Coloring hair a bright color may have a side effect that changes the character&#39;s face skin color, either leaving the hair color at default or color it to a dark or white color is recommended when using this code.]]</p>
 <h1 id="heading-6">Moveset &amp; Weapon Modifications</h1>
 <h2 id="heading-7">Weapon Swipe Color</h2>
 <p>Activate character modifier code while in battle to get the desired swipe color.</p>
-<p>[[include common:image-css |image=http://capa.wikidot.com/local--files/game:soulcalibur3/swipecolor.jpg |title=Spica (left) using Cherry Blossom swipe and Sleipial (right) using Pink swipe.]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/soulcalibur-3/swipecolor.jpg" alt="Spica (left) using Cherry Blossom swipe and Sleipial (right) using Pink swipe.">
+        <figcaption>Spica (left) using Cherry Blossom swipe and Sleipial (right) using Pink swipe.</figcaption>
+    </figure>
 <table>
     <tr>
         <th>Color</th>
@@ -1790,21 +1837,27 @@
 </table>
 <h2 id="heading-8">Moveset Modifications</h2>
 <p>Moveset modifiers changes the moveset of your current character to another moveset. This is useful for CaS Profile and Weapon Exhibition.</p>
-<p>[[include common:image-css |image=http://capa.wikidot.com/local--files/game:soulcalibur3/movesetmod.jpg |title=Siegfried using Mitsurugi moveset and Nightmare using Setsuka&#39;s moveset.]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/soulcalibur-3/movesetmod.jpg" alt="Siegfried using Mitsurugi moveset and Nightmare using Setsuka&#39;s moveset.">
+        <figcaption>Siegfried using Mitsurugi moveset and Nightmare using Setsuka&#39;s moveset.</figcaption>
+    </figure>
 <p><strong>Player 1 Moveset Modifier</strong> &lt;Joker Command&gt; 004B4862 000000??</p>
 <p><strong>Player 2 Moveset Modifier</strong> &lt;Joker Command&gt; 004D1FE2 000000??</p>
 <p>Replace ?? with any Character Modifier Digits listed above.</p>
-<p>[[include :fiction:common:alert |text=Setting to 26 or 27 will not get you Abyss&#39; or Night Terror&#39;s movesets. To obtain their movesets, you must use the character modifier of Abyss and Night Terror, then activate them while using Soul of Zasalamel and Soul of Nightmare, respectively. Some aspect of their moveset won&#39;t work well unless you also use Abyss/Night Terror weapon. To obtain Olcadan&#39;s moveset and properties (i.e. changing move every round, special taunt, special weapon demonstration), activate his character modifier while using any of regular character&#39;s moveset.]]</p>
-<p>[[include :fiction:common:alert |text=When using Abyss, Night Terror, and Olcadan&#39;s moveset, your swipe color will be fixed to the respective characters.]]</p>
+<p>[[xinclude :fiction:common:alert |text=Setting to 26 or 27 will not get you Abyss&#39; or Night Terror&#39;s movesets. To obtain their movesets, you must use the character modifier of Abyss and Night Terror, then activate them while using Soul of Zasalamel and Soul of Nightmare, respectively. Some aspect of their moveset won&#39;t work well unless you also use Abyss/Night Terror weapon. To obtain Olcadan&#39;s moveset and properties (i.e. changing move every round, special taunt, special weapon demonstration), activate his character modifier while using any of regular character&#39;s moveset.]]</p>
+<p>[[xinclude :fiction:common:alert |text=When using Abyss, Night Terror, and Olcadan&#39;s moveset, your swipe color will be fixed to the respective characters.]]</p>
 <h2 id="heading-9">Weapon Modifications</h2>
 <p>Weapon modifier allows you to change the weapon of your current character with a desired different one. A special master code is required for this to fully work.</p>
-<p>[[include common:image-css |image=http://capa.wikidot.com/local--files/game:soulcalibur3/weaponmod.jpg |title=Nightmare using Night Terror&#39;s weapon.]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/soulcalibur-3/weaponmod.jpg" alt="Nightmare using Night Terror&#39;s weapon.">
+        <figcaption>Nightmare using Night Terror&#39;s weapon.</figcaption>
+    </figure>
 <p><strong>Weapon Modifier Master Code</strong> 204479B4 0803FFD0 200FFF40 3C02004B 200FFF50 3C02004D 200FFF5C 08111E6F</p>
 <p><strong>Weapon Modifier Disabler</strong> &lt;Joker Command&gt; 200FFF48 24010000 &lt;Joker Command&gt; 200FFF4C 00000000</p>
 <p><strong>Weapon Modifier</strong> &lt;Joker Command&gt; 200FFF48 240100?? &lt;Joker Command&gt; 200FFF4C A0414862</p>
 <p>Replace ?? with any Character Modifier Digits listed above.</p>
-<p>[[include :fiction:common:alert |text=The only purpose of using this code is to make Soul of Night Terror and Soul of Abyss fully functional. Otherwise, using this code also forces you to use the respective moveset.]]</p>
-<p>[[include :fiction:common:alert |type=warning |icon=warning |text=Using Olcadan&#39;s weapon could crash the game.]]</p>
+<p>[[xinclude :fiction:common:alert |text=The only purpose of using this code is to make Soul of Night Terror and Soul of Abyss fully functional. Otherwise, using this code also forces you to use the respective moveset.]]</p>
+<p>[[xinclude :fiction:common:alert |type=warning |icon=warning |text=Using Olcadan&#39;s weapon could crash the game.]]</p>
 <h1 id="heading-10">Camera Limitation Release</h1>
 <p>These codes will remove all limits of the camera during specified mode. Take note that this can screw your normal gameplay camera with prolonged usage.</p>
 <p><strong>Profile Screen Camera Release</strong> 20132DB0 10000016 202E6894 10000006 202E68C0 10000003 202E6828 10000003 202E68F0 50000004</p>
@@ -1813,7 +1866,7 @@
 <p><strong>Standard Character Color Edit Camera Release</strong> 202D3CE4 C60C0078 202D3CE8 46006006 202D3D14 E6000074 202D3D18 46006006</p>
 <h1 id="heading-11">Stage Modification</h1>
 <p>Allows you to play in a certain stage or an arena that&#39;s otherwise impossible to play in (e.g. ending scenery).</p>
-<p>[[include common:image-css |image=http://capa.wikidot.com/local--files/game:soulcalibur3/stagemod.jpg |title=Custom Assassin vs. Lizardmen in Badlands stage. ]]</p>
+<p>[[image stagemod.jpg| Custom Assassin vs. Lizardmen in Badlands stage. ]]</p>
 <p><strong>Stage Modifier</strong> &lt;Joker Command&gt; 004ED64C 000000??</p>
 <table>
     <tr>
@@ -2005,10 +2058,10 @@
         <td>Character creation background</td>
     </tr>
 </table>
-<p>[[include :fiction:common:alert |type=warning |icon=warning |text=If used without Joker Command, the code will also replace the intro screen, menu screen, and character creation background.]]</p>
-<p>[[include :fiction:common:alert |type=danger |icon=warning |text=Digits unlisted will cause game freeze.]]</p>
-<p>[[include :fiction:common:alert |type=warning |icon=warning |text=&lt;Camera!&gt; indicates the stage is hard to navigate due to camera problem.]]</p>
-<p>[[include :fiction:common:alert |type=danger |icon=warning |text=&lt;Crash!&gt; indicates the stage will crash the game if you attempt to do battles. They can still work on title screen.]]</p>
+<p>[[xinclude :fiction:common:alert |type=warning |icon=warning |text=If used without Joker Command, the code will also replace the intro screen, menu screen, and character creation background.]]</p>
+<p>[[xinclude :fiction:common:alert |type=danger |icon=warning |text=Digits unlisted will cause game freeze.]]</p>
+<p>[[xinclude :fiction:common:alert |type=warning |icon=warning |text=&lt;Camera!&gt; indicates the stage is hard to navigate due to camera problem.]]</p>
+<p>[[xinclude :fiction:common:alert |type=danger |icon=warning |text=&lt;Crash!&gt; indicates the stage will crash the game if you attempt to do battles. They can still work on title screen.]]</p>
 <h2 id="heading-12">How to use Stage Modifier with Joker Command</h2>
 <p>To ensure this code works for all stages is to use it with a joker command.</p>
 <ul>
@@ -2019,7 +2072,7 @@
 </ul>
 
 <p><strong>Stage Variant Modifier</strong> 004ED650 0000000? Only works on certain stages that have variants like Egyptian Temple, Eurydice Shrine, Lakeside Coliseum, and Grand Labyrinth. At normal, the value is 0. Change it to 1 or 2 will enable the stage variations.</p>
-<p>[[include :fiction:common:alert |type=warning |icon=warning |text=If used on stage without variation, you will end up in Highlands.]]</p>
+<p>[[xinclude :fiction:common:alert |type=warning |icon=warning |text=If used on stage without variation, you will end up in Highlands.]]</p>
 <h1 id="heading-13">Miscellaneous Codes</h1>
 <p><strong>Hide/Show Health Bar</strong> &lt;Joker Command&gt; 004ED7D8 0000000?</p>
 <p>Replace ? with the following: 0 - Hide 1 - Show</p>
@@ -2362,7 +2415,16 @@
 </table>
 <h1 id="heading-16">CaS Profile &amp; Weapon Exhibition Guide</h1>
 <p>You can have your own CaS in Profile and Weapon Exhibition with a usage of several modification codes and some light tinkering. Shown below is Spica (Tamborine) Weapon Demonstration using Xianghua&#39;s moveset.</p>
-<p>[[include :fiction:common:video |video-id=U7Q3pHI7HZI]]</p>
+ <div class="youtube-container">
+    <iframe
+        src="https://www.youtube-nocookie.com/embed/U7Q3pHI7HZI"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
+</div>
 <p>First set up a Character Modifier along with a Joker Command. For digits you use 60 for Memory Card 1 slot 1, or 61 for Memory Card 1 Slot 2.</p>
 <p><strong>Example</strong> Press select + R2 + L2 to select Memory Card 1 Slot 1 D046DBA2 0000FCFE ~&gt; This is the joker command 004B4860 00000060 ~&gt; This is the character modifier code</p>
 <div class="alert alert-warning">
@@ -2377,7 +2439,16 @@
 <p><strong>Pose Selection</strong> CaS pose is determined by their movesets. If you add extra joker command codes of Abyss and Night Terror, you can make Soul of Zasalamel and Soul of Nightmare to use Abyss and Nigt Terror&#39;s pose, respectively. Just press the button combination of Abyss/Night Terror once you are on the CaS&#39;s profile screen. Several non-souls discipline has poses. Most of them are victory pose. Discipline with poses includes: Chinese Sword, Grieve Edge, Kunai, Lance, Nunchaku, Rapier, Staff and Tambourines. If you want the character to use different pose, you must activate the Moveset Modifier code while on loading screen (approximately on second flash of &quot;NOW LOADING&quot; letters).</p>
 <h1 id="heading-17">CaS Ending Guide</h1>
 <p>Swapping out standard characters in endings and swapping them with CaS is possible, this is also true with standard character events. However, it is very difficult to execute with joker commands. In this guide I will be focusing on how to place up to 4 CaS in standard character&#39;s endings. Shown below is the &quot;Memory of Spica&quot;.</p>
-<p>[[include :fiction:common:video |video-id=-JtIC3r4QuQ]]</p>
+ <div class="youtube-container">
+    <iframe
+        src="https://www.youtube-nocookie.com/embed/-JtIC3r4QuQ"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
+</div>
 <p><strong>Before you start attempting</strong></p>
 <ul>
     <li>Use only the Character Modifier (Play As) codes. Using other modifiers such as moveset and/or weapon will guarantee to mess up the ending sequence.</li>
@@ -2397,12 +2468,32 @@
 <p><strong>Example 2, Kilik&#39;s ending setup, all immediate</strong> 1P: Kilik 2P: Xianghua 3P: Maxi</p>
 <p>From all endings that have been tested, 4P is only used for Siegfried&#39;s ending (there are three Nightmares there), unless you want to change the mooks.</p>
 <p>Fourth, you can only swap CaS in digit 60 and 61 into the endings. Swapping in CotS characters have been tried but it does not appear to be working. Also, all non-ending sequence 2P are not swappable. Example: if you try to swap the Tira who jump to your raft, the game will crash.</p>
-<p>Fifth, the memory limit for CaS in Soul Calibur III is only 2, and there is no way to increase it, as it&#39;s just how the game works. This makes the Kilik ending require post video editing if you want to make a 3rd CaS appearance there. In the example posted, there were 2 videos: one with Sauron and Spica, the other one with Spica and Perseonn. How will you splice the video depends your skill.</p></p>
+<p>Fifth, the memory limit for CaS in Soul Calibur III is only 2, and there is no way to increase it, as it&#39;s just how the game works. This makes the Kilik ending require post video editing if you want to make a 3rd CaS appearance there. In the example posted, there were 2 videos: one with Sauron and Spica, the other one with Spica and Perseonn. How will you splice the video depends your skill.</p>
 </div>
 </div>
-</div>
-<p>[[module css]] .toc-bg {background-image: url(&#39;http://capa.wdfiles.com/local--files/guides:soulcalibur-3/soulcalibur-3-sidebar.avif&#39;);} .guide-article-hide {display:none;} .guide-article-only {display:block;} [[/module]]</p>
-    </main>
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                            CAPA
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/home:home">Home</a> · 
+                                <a href="/home:guide">Guide</a> · 
+                                <a href="/home:article">Article</a>
+                        </div>
+                            <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
 </body>
 </html>

@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Phantasy Star Online 2: Etoile Guide</title>
+    <meta name="description" content="This is a laid-back guide intended to help people optimizing their Etoile usage! Rather than flail a...">
+    
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/css/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -13,9 +16,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
-
-    <title>Phantasy Star Online 2: Etoile Guide</title>
-    <meta name="description" content="This is a laid-back guide intended to help people optimizing their Etoile usage! Rather than flail a...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
@@ -31,69 +31,124 @@
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
     <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
     <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
     <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
-    <header>
-        <nav>
-    <a href="/">Home</a>
-    <a href="/guides/">Guides</a>
-    <a href="/articles/">Articles</a>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-md-2 p-0">
+                <nav class="capa-navbar" aria-label="Main navigation">
+
+    <!-- Mobile-only Expand Button -->
+    <button
+        class="capa-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="capa-nav-content"
+        aria-label="Open navigation"
+    >
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    
+    <!-- Mobile-only Close Button -->
+    <button
+        class="capa-nav-overlay"
+        type="button"
+        aria-label="Close navigation"
+        tabindex="-1"
+        aria-hidden="true"
+    ></button>
+
+    <!-- Shared navigation and TOC -->
+    <div id="capa-nav-content">
+        <div class="nav-item">
+            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        </div>
+        <div class="nav-item">
+            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        </div>
+        <div class="nav-item">
+            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        </div>
+        <!-- TOC will be moved here by move-toc-to-nav.js -->
+    </div>
+
 </nav>
-    </header>
-    <main>
-        <div class="row m-0 p-0">
-<p>[[div class=&quot;col-md-2 hidden-xs hidden-sm guide table-of-contents p-0&quot; role=&quot;navigation&quot;]]</p>
-<p>[[include nav:main]]</p>
-<p>[[/div]][!<del> Close the role=navigation </del>]</p>
-<p>[!<del> </del><del></del><del> </del><del></del><del> Border between Nav and Main Content </del><del></del><del> </del><del></del><del> </del>]</p>
-<p>[[div_ class=&quot;col-md-10 col-md-offset-2 col-xs-12 main main-container p-0&quot;]]</p>
-<p>[[include component:splash |splash-class=full-height |splash-style=background-image:url(&#39;http://capa.wdfiles.com/local--files/guides%3Aphantasy-star-online-2-etoile/phantasy-star-online-2-etoile-splash.avif&#39;); |text-title=Phantasy Star Online 2: Etoile Guide |text-sub-title=Written by Perseonn Balthasaar |text-extra=Updated on %%updated_at%% |text-extra-icon=fa fa-clock ]]</p>
-<div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl">
-<p>[[collapsible show=&quot;Table of Contents&quot; hide=&quot;Collapse Table of Contents&quot;]]</p>
-<div class="table-of-contents">
-<a href="#heading-1">Part 1: Basic Etoile</a>
-<a href="#heading-2">Basic Equipments</a>
-<a href="#heading-3">Etoile Mag</a>
-<a href="#heading-4">Skill Tree</a>
-<a href="#heading-5">About Etoile Boost</a>
-<a href="#heading-6">About Tech Arts Count Bonus</a>
-<a href="#heading-7">About Same Arts PP Save</a>
-<a href="#heading-8">Part 2: Intermediate Etoile</a>
-<a href="#heading-9">Rings</a>
-<a href="#heading-10">[[image wp-ds-27x.png class=&quot;h2-icon&quot;]] Double Saber</a>
-<a href="#heading-11">Double Saber Photon Arts</a>
-<a href="#heading-12">Double Saber Combo</a>
-<a href="#heading-13">[[image wp-db-27x.png class=&quot;h2-icon&quot;]] Dual Blade / Soaring Blade</a>
-<a href="#heading-14">Dual Blade Photon Arts</a>
-<a href="#heading-15">Dual Blade Combo</a>
-<a href="#heading-16">[[image wp-wa-27x.png class=&quot;h2-icon&quot;]] Wand</a>
-<a href="#heading-17">Wand Photon Arts</a>
-<a href="#heading-18">Wand Combo</a>
-<a href="#heading-19">Part 3: Advanced Etoile</a>
-<a href="#heading-20">Units</a>
-<a href="#heading-21">Weapons</a>
-<a href="#heading-22">FAQ</a>
-<a href="#heading-23">You seriously use Recommended Setting for Etoile skill tree?</a>
-<a href="#heading-24">I just got my first Graeae / Amphitrite / Key / Chronos, what weapon type should I make?</a>
-<a href="#heading-25">What attack augment/affix type should I use?</a>
-<a href="#heading-26">Demo Videos</a>
-<a href="#heading-27">Versus Varuna in Story Mode</a>
-<a href="#heading-28">Versus Varuna and Mitra in 30F Divide Quest</a>
-<a href="#heading-29">Versus Primoridal Darkness</a>
-<a href="#heading-30">Ultimate Quest Sodam 40F</a>
-<a href="#heading-31">Closing</a>
-<a href="#heading-32">Credits</a>
+            </header>
+            <div class="col-12 col-md-10 p-0">
+                <main class="capa-main">
+                    <div class="row m-0 p-0">
+<div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:url(&#39;/assets/guides/phantasy-star-online-2-etoile/phantasy-star-online-2-etoile-splash.avif&#39;);">
+<div class="title-container p-4">
+<div class="page-extra stroke ">
+<p><span class="visible fa fa-clock"> </span> Updated at 2020-06-14</p>
 </div>
-<p>[[/collapsible]]</p>
+<div class="page-sub-title strong stroke ">
+<p>Written by Perseonn Balthasaar</p>
+</div>
+<div class="page-title strong stroke ">
+<p>Phantasy Star Online 2: Etoile Guide</p>
+</div>
+</div>
+</div>
+<div id="toc" class="table-of-contents">
+<a href="#heading-1" class="toc-h1">Part 1: Basic Etoile</a>
+<a href="#heading-2" class="toc-h2">Basic Equipments</a>
+<a href="#heading-3" class="toc-h2">Etoile Mag</a>
+<a href="#heading-4" class="toc-h2">Skill Tree</a>
+<a href="#heading-5" class="toc-h3">About Etoile Boost</a>
+<a href="#heading-6" class="toc-h3">About Tech Arts Count Bonus</a>
+<a href="#heading-7" class="toc-h3">About Same Arts PP Save</a>
+<a href="#heading-8" class="toc-h1">Part 2: Intermediate Etoile</a>
+<a href="#heading-9" class="toc-h2">Rings</a>
+<a href="#heading-10" class="toc-h2">[[image wp-ds-27x.png class=&quot;h2-icon&quot;]] Double Saber</a>
+<a href="#heading-11" class="toc-h3">Double Saber Photon Arts</a>
+<a href="#heading-12" class="toc-h3">Double Saber Combo</a>
+<a href="#heading-13" class="toc-h2">[[image wp-db-27x.png class=&quot;h2-icon&quot;]] Dual Blade / Soaring Blade</a>
+<a href="#heading-14" class="toc-h3">Dual Blade Photon Arts</a>
+<a href="#heading-15" class="toc-h3">Dual Blade Combo</a>
+<a href="#heading-16" class="toc-h2">[[image wp-wa-27x.png class=&quot;h2-icon&quot;]] Wand</a>
+<a href="#heading-17" class="toc-h3">Wand Photon Arts</a>
+<a href="#heading-18" class="toc-h3">Wand Combo</a>
+<a href="#heading-19" class="toc-h1">Part 3: Advanced Etoile</a>
+<a href="#heading-20" class="toc-h2">Units</a>
+<a href="#heading-21" class="toc-h2">Weapons</a>
+<a href="#heading-22" class="toc-h3">Special Weapon Ingredients</a>
+<a href="#heading-23" class="toc-h3">Weapon Affix</a>
+<a href="#heading-24" class="toc-h2">Damage Evaluation</a>
+<a href="#heading-25" class="toc-h1">FAQ</a>
+<a href="#heading-26" class="toc-h2">You seriously use Recommended Setting for Etoile skill tree?</a>
+<a href="#heading-27" class="toc-h2">I just got my first Graeae / Amphitrite / Key / Chronos, what weapon type should I make?</a>
+<a href="#heading-28" class="toc-h2">What attack augment/affix type should I use?</a>
+<a href="#heading-29" class="toc-h1">Demo Videos</a>
+<a href="#heading-30" class="toc-h2">Versus Varuna in Story Mode</a>
+<a href="#heading-31" class="toc-h2">Versus Varuna and Mitra in 30F Divide Quest</a>
+<a href="#heading-32" class="toc-h2">Versus Primoridal Darkness</a>
+<a href="#heading-33" class="toc-h2">Ultimate Quest Sodam 40F</a>
+<a href="#heading-34" class="toc-h1">Closing</a>
+<a href="#heading-35" class="toc-h2">Credits</a>
 </div>
 <div class="container drop-caps p-4 phantasy-star-online-2-etoile">
-<p><p>This is a laid-back guide intended to help people optimizing their Etoile usage! Rather than flail around with Etoile weaponry, utilize combos to better your output!</p>
-<p>[[include component:pso2-nav]]</p>
+<p>This is a laid-back guide intended to help people optimizing their Etoile usage! Rather than flail around with Etoile weaponry, utilize combos to better your output!</p>
+<div class="pso2-nav">
+<div class="row m-0">
+<div class="hidden-xs hidden-sm hidden-md col-lg-2 pso2-logo-container pso2-logo-border-right">
+<img class="img-fluid " src="/assets/guides/phantasy-star-online-2-etoile/./img%3Apso2-other/nav-pso2-blank.png class=&quot;pso2-logo pso2-logo-lg&quot;" alt="nav-pso2-blank.png class=&quot;pso2-logo pso2-logo-lg&quot;">
+</div>
+<div class="hidden-lg col-xs-12 pso2-logo-container pso2-logo-border-bottom">
+<img class="img-fluid " src="/assets/guides/phantasy-star-online-2-etoile/./img%3Apso2-other/nav-pso2-blank.png class=&quot;pso2-logo pso2-logo-sm&quot;" alt="nav-pso2-blank.png class=&quot;pso2-logo pso2-logo-sm&quot;">
+</div>
+<div class="padding-b-0 col-xs-12 col-lg-10 pso2-nav-item-container">
+<p>[[ul class=&quot;nav nav-pills series-nav nav-justified&quot; role=&quot;tablist&quot;]] [[li class=&quot;&quot;]][[a href=&quot;/guide:phantasy-star-online-2-summoner&quot;]][[image ./img%3Apso2-ui/ui-class-su.png class=&quot;pso2-nav-icon&quot;]] Summoner[[/a]][[/li]] [[li class=&quot;&quot;]][[a href=&quot;/guide:phantasy-star-online-2-hero&quot;]][[image ./img%3Apso2-ui/ui-class-hr.png class=&quot;pso2-nav-icon&quot;]] Hero[[/a]][[/li]] [[li class=&quot;&quot;]][[a href=&quot;/guide:phantasy-star-online-2-etoile&quot;]][[image ./img%3Apso2-ui/ui-class-et.png class=&quot;pso2-nav-icon&quot;]] Etoile[[/a]][[/li]] [[/ul]]</p>
+</div>
+<div class="padding-t-0 col-xs-12 col-lg-10 pso2-nav-item-container">
+<p>[[ul class=&quot;nav nav-pills series-nav nav-justified&quot; role=&quot;tablist&quot;]] [[li class=&quot;&quot;]][[a href=&quot;/guide:phantasy-star-online-2-units&quot;]][[image ./img%3Apso2-ui/ui-unit-rear.png class=&quot;pso2-nav-icon&quot;]] Units[[/a]][[/li]] [[li class=&quot;&quot;]][[a href=&quot;/guide:phantasy-star-online-2-gathering&quot;]][[image ./img%3Apso2-item/item-boost-food-gathering.png class=&quot;pso2-nav-icon&quot;]] Gathering[[/a]][[/li]] [[li class=&quot;&quot;]][[a href=&quot;/article:puso-ni-anime-sub&quot;]][[image ./img%3Apso2-other/nav-puso.png class=&quot;pso2-nav-icon&quot;]] PuSo Ni Comi[[/a]][[/li]] [[/ul]]</p>
+</div>
+</div>
+</div>
 <div class="alert alert-info">
 <p><span class="fa fa-exclamation-circle">@&lt;&amp;nbsp;&gt;@</span> <strong>Changelog</strong></p>
 <table>
@@ -120,7 +175,11 @@
 </table>
 </div>
 <h1 id="heading-1">Part 1: Basic Etoile</h1>
-<p>[[include image |ratio=pso2-su-infographics |image=local--files/guide:phantasy-star-online-2-etoile/info-et-basics-1.avif |title=Etoile Basics]] Etoile is a successor class that uses <span class="icon wp-ds">Double Saber</span>, <span class="icon wp-db">Dual Blade (Soaring Blade)</span>, and <span class="icon wp-wa">Wand</span>. They have a lot of damage resistance (70%!) and can do a lot of damage as well. Due to the resistance, Etoile is one of the easiest class to use for &quot;high difficulty&quot; quests and end-game contents. _</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/phantasy-star-online-2-etoile/info-et-basics-1.avif" alt="Etoile Basics">
+        <figcaption>Etoile Basics</figcaption>
+    </figure>
+<p>Etoile is a successor class that uses <span class="icon wp-ds">Double Saber</span>, <span class="icon wp-db">Dual Blade (Soaring Blade)</span>, and <span class="icon wp-wa">Wand</span>. They have a lot of damage resistance (70%!) and can do a lot of damage as well. Due to the resistance, Etoile is one of the easiest class to use for &quot;high difficulty&quot; quests and end-game contents. _</p>
 <div class="alert alert-info">
 <p><span class="fa fa-exclamation-circle">@&lt;&amp;nbsp;&gt;@</span> <strong>This guide assumes that</strong>:</p>
 <ul>
@@ -198,7 +257,10 @@
     </tr>
 </table>
 <h2 id="heading-4">Skill Tree</h2>
-<p>[[include image |ratio=pso2-su-infographics |image=local--files/guide:phantasy-star-online-2-etoile/info-et-skill-tree.avif |title=Etoile Skill Tree]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/phantasy-star-online-2-etoile/info-et-skill-tree.avif" alt="Etoile Skill Tree">
+        <figcaption>Etoile Skill Tree</figcaption>
+    </figure>
 <p>Etoile&#39;s skill tree doesn&#39;t require too much details. For general purpose Main and Sub, the Recommended Setting available on the Class counter is already optimal, focusing on maxing Damage Balancer and Tech Arts Count Bonus, while getting just 3 points for Same Arts PP Save.</p>
 <p>[[a href=&quot;https://bit.ly/3c7IfYR&quot;]] For a Skill Simulator version, click here <span class="fa fa-external-link-square">@&lt;&amp;nbsp;&gt;@</span>[[/a]]</p>
 <h3 id="heading-5">About Etoile Boost</h3>
@@ -286,8 +348,10 @@
 <h2 id="heading-10">[[image wp-ds-27x.png class=&quot;h2-icon&quot;]] Double Saber</h2>
 <p>To know the basics of Double Saber, please do the Etoile Training Quest on Double Saber. Double Saber (DS) is a balanced weapon in both offense and defense. You&#39;re expected to counter each incoming attacks with its <strong>Weapon Action, Deflect</strong> which does a lot of damage. Getting hit a lot means you cannot spend gear to use Enhanced Normal or Enhanced Quick Take to inflict damage and restore PP.</p>
 <div class="row">
-<p>[[include component:pso2-pros-cons |pros=* Balanced damage among all PA, making it easier to pickup</p>
+<div class="col-xs-12 padding-t-0 padding-b-0">
+<p>[[table class=&quot;wiki-content-table border-top-none border-bottom-none&quot;]] [[row]] [[hcell class=&quot;border-top-none&quot;]] Strength [[/hcell]] [[hcell class=&quot;border-top-none&quot;]] Weakness [[/hcell]] [[/row]] [[row]] [[cell class=&quot;pros-cons-list pros w-50 border-bottom-none&quot;]]</p>
 <ul>
+    <li>Balanced damage among all PA, making it easier to pickup</li>
     <li>Has the only instant-point attack, the Shooting Star</li>
     <li>Able to counterattack anytime using Weapon Action, even in middle of PA</li>
     <li>Low PP Cost</li>
@@ -295,13 +359,15 @@
     <li>While having at least 1 gear, all damage taken will be reduced</li>
 </ul>
 
-<p>|cons=* While having at least 1 gear, each hit taken will automatically reduces gear by 1</p>
+<p>[[/cell]] [[cell class=&quot;pros-cons-list cons w-50 border-bottom-none&quot;]]</p>
 <ul>
+    <li>While having at least 1 gear, each hit taken will automatically reduces gear by 1</li>
     <li>DS Skip Arts can be awkward to use, while the strongest combo requires it</li>
     <li>Enhanced Quick Takes can be awkward to use, since you need to hold the normal attack button until the hit connects</li>
 </ul>
 
-<p>]]</p>
+<p>[[/cell]] [[/row]] [[/table]]</p>
+</div>
 </div>
 <h3 id="heading-11">Double Saber Photon Arts</h3>
 <table>
@@ -342,7 +408,16 @@
     </tr>
 </table>
 <h3 id="heading-12">Double Saber Combo</h3>
-<p>[[include :asoh:component:video-youtube |video-id=DTA2wnkFaSQ]]</p>
+ <div class="youtube-container">
+    <iframe
+        src="https://www.youtube-nocookie.com/embed/DTA2wnkFaSQ"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
+</div>
 <div class="pa-combo">
 <table>
     <tr>
@@ -524,14 +599,17 @@
 <h2 id="heading-13">[[image wp-db-27x.png class=&quot;h2-icon&quot;]] Dual Blade / Soaring Blade</h2>
 <p>To know the basics of Dual Blade, please do the Etoile Training Quest on Dual Blade. Dual Blade (DB) or Soaring Blade are a more defensive weapon, as it allows you to use its <strong>Weapon Action, Parry</strong> anytime to guard an attack and gain some invulnerability. Blocking an attack does minimum damage to enemy and restores PP. You are expected to build gear as fast as possible and dish out it&#39;s gear attack, Full Connect, as many as possible to do damage. Without using Full Connect often, Dual Blade becomes a weak weapon.</p>
 <div class="row">
-<p>[[include component:pso2-pros-cons |pros=* Able to guard attacks almost anytime using Weapon Action</p>
+<div class="col-xs-12 padding-t-0 padding-b-0">
+<p>[[table class=&quot;wiki-content-table border-top-none border-bottom-none&quot;]] [[row]] [[hcell class=&quot;border-top-none&quot;]] Strength [[/hcell]] [[hcell class=&quot;border-top-none&quot;]] Weakness [[/hcell]] [[/row]] [[row]] [[cell class=&quot;pros-cons-list pros w-50 border-bottom-none&quot;]]</p>
 <ul>
+    <li>Able to guard attacks almost anytime using Weapon Action</li>
     <li>Guarding attacks restores PP</li>
     <li>Normal attacks homes in on enemy</li>
 </ul>
 
-<p>|cons=* Requires using Connect and Full Connect to perform on par with DS and Wand</p>
+<p>[[/cell]] [[cell class=&quot;pros-cons-list cons w-50 border-bottom-none&quot;]]</p>
 <ul>
+    <li>Requires using Connect and Full Connect to perform on par with DS and Wand</li>
     <li>Full Connect is slow</li>
     <li>Full Connect is subject to damage cap</li>
     <li>Normal attacks are weak</li>
@@ -540,7 +618,8 @@
     <li>Parry cannot be used when performing Connect or Full Connect</li>
 </ul>
 
-<p>]]</p>
+<p>[[/cell]] [[/row]] [[/table]]</p>
+</div>
 </div>
 <h3 id="heading-14">Dual Blade Photon Arts</h3>
 <table>
@@ -581,7 +660,16 @@
     </tr>
 </table>
 <h3 id="heading-15">Dual Blade Combo</h3>
-<p>[[include :asoh:component:video-youtube |video-id=vRFiZwzCJs4]]</p>
+ <div class="youtube-container">
+    <iframe
+        src="https://www.youtube-nocookie.com/embed/vRFiZwzCJs4"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
+</div>
 <div class="pa-combo">
 <table>
     <tr>
@@ -739,8 +827,10 @@
 <h2 id="heading-16">[[image wp-wa-27x.png class=&quot;h2-icon&quot;]] Wand</h2>
 <p>To know the basics of Wand, please do the Etoile Training Quest on Wand. Wand is a more offensive weapon with high mobility, as it allows you to move anytime, even during normal attacks and PAs. Its <strong>Weapon Action, Protect</strong> can guard against attacks and enables natural PP regeneration when doing so, unlike DS or DB. Wand also depends on its gear attack, Protect Release, to do damage, but not as much as DB. Gear generation is fast as long as you keep moving around during attacks. If you&#39;re unwilling to move around with wand, consider using another weapon.</p>
 <div class="row">
-<p>[[include component:pso2-pros-cons |pros=* Able to move around even when using normal attacks and PAs making it easy to avoid damage when attacking</p>
+<div class="col-xs-12 padding-t-0 padding-b-0">
+<p>[[table class=&quot;wiki-content-table border-top-none border-bottom-none&quot;]] [[row]] [[hcell class=&quot;border-top-none&quot;]] Strength [[/hcell]] [[hcell class=&quot;border-top-none&quot;]] Weakness [[/hcell]] [[/row]] [[row]] [[cell class=&quot;pros-cons-list pros w-50 border-bottom-none&quot;]]</p>
 <ul>
+    <li>Able to move around even when using normal attacks and PAs making it easy to avoid damage when attacking</li>
     <li>Each PA has a different use: a suction, an approach, an altitude riser, and a power attack</li>
     <li>Has the only wide area attack</li>
     <li>All PAs have guard frames, and activating Focus PA provides additional guard frames</li>
@@ -749,14 +839,16 @@
     <li>Using or holding Protect allows PP regeneration, unlike the other two weapons</li>
 </ul>
 
-<p>|cons=* High PP consumption</p>
+<p>[[/cell]] [[cell class=&quot;pros-cons-list cons w-50 border-bottom-none&quot;]]</p>
 <ul>
+    <li>High PP consumption</li>
     <li>Few combo variety</li>
     <li>Protect cannot be performed anytime</li>
     <li>Sometimes requires manual aim: Luminous Flare is more effective with manual aim to prevent aiming loss when target dies, Prism Circular can be used to gain height when using manual aim.</li>
 </ul>
 
-<p>]]</p>
+<p>[[/cell]] [[/row]] [[/table]]</p>
+</div>
 </div>
 <h3 id="heading-17">Wand Photon Arts</h3>
 <table>
@@ -802,7 +894,16 @@
     </tr>
 </table>
 <h3 id="heading-18">Wand Combo</h3>
-<p>[[include :asoh:component:video-youtube |video-id=dxKfQ33LTXo]]</p>
+ <div class="youtube-container">
+    <iframe
+        src="https://www.youtube-nocookie.com/embed/dxKfQ33LTXo"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
+</div>
 <div class="pa-combo">
 <table>
     <tr>
@@ -957,7 +1058,12 @@
 </div>
 <h2 id="heading-21">Weapons</h2>
 <p>As with units, use whatever&#39;s available. The weapons listed below are more less, commonly used and/or easy to obtain. If you struggle to obtain a ★15, Atra Ex and Austere can be made easily.</p>
-<p>[[include component:pso2-manaka |content=Reminder to transfer your S-Class Abilities, not use the weapon as fodder! ]]</p>
+<p>[[div_ class=&quot;manaka-text-box-container&quot;]] [[div_ class=&quot;manaka-text-box&quot;]] Reminder to transfer your S-Class Abilities, not use the weapon as fodder!</p>
+</div>
+<p>[[div_ class=&quot;text-center manaka-icon-container&quot;]]</p>
+<img class="img-fluid " src="http://capa.wdfiles.com/local--files/img%3Apso2-other/manaka-icon.png class=&quot;manaka-icon&quot;" alt="manaka-icon.png class=&quot;manaka-icon&quot;">
+</div>
+</div>
 <div class="weapon-table">
 <table>
     <tr>
@@ -1028,39 +1134,321 @@
     </tr>
 </table>
 </div>
-<p>[[include guide-component:pso2-wp-mats]]</p>
-<p>[[include guide-component:pso2-wp-augment]]</p>
-<p>[[include guide-component:pso2-damage-evaluation]]</p>
-<h1 id="heading-22">FAQ</h1>
-<h2 id="heading-23">You seriously use Recommended Setting for Etoile skill tree?</h2>
+<h3 id="heading-22">Special Weapon Ingredients</h3>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Name</th>
+        <th>Uses</th>
+        <th>Location</th>
+    </tr>
+    <tr>
+        <td>[[image ./img%3Apso2-item/item-mat-chronos-stone.png class=&quot;pso2-icon double&quot;]]</td>
+        <td><span class="cell-item icon pixelate item-mats">[[span class=&quot;rear-icon flag-na&quot;]]Chronos Eternistone</span>[[/span]]<span class="cell-item icon pixelate item-mats">時還石クロノス</span><span class="cell-item icon pixelate item-mats">Time Reversal Stone Chronos</span></td>
+        <td>Atlas series</td>
+        <td><span class="cell-item">Title: Grind a Val to +35.</span><span class="cell-item">Title: Get 1100 Titles.</span><span class="cell-item">Title: Get 5M Points on Divide Quest.</span><span class="cell-item">Clear Episode 5 Chapter 6 Sub Story 4 (Basically clear all Episode 5).</span><span class="cell-item">Exchange 600 Sage&#39;s Crest on Zieg.</span><span class="cell-item unavailable">Road to Episode 6 Campaign.</span><span class="cell-item unavailable">Summer Vacation Get Kronos Campaign.</span></td>
+    </tr>
+    <tr>
+        <td>[[image ./img%3Apso2-item/item-mat-amphitrite-stone.png class=&quot;pso2-icon double&quot;]]</td>
+        <td><span class="cell-item icon pixelate item-mats">[[span class=&quot;rear-icon flag-na&quot;]]Founder&#39;s Amphirite</span>[[/span]]<span class="cell-item icon pixelate item-mats">創望石アンフィトリテ</span><span class="cell-item icon pixelate item-mats">Circular Amphitrite Stone</span></td>
+        <td>Xion series</td>
+        <td><span class="cell-item">Title: Defeat Dark Falz Persona 50 times.</span><span class="cell-item">Title: Get 1200 Titles.</span><span class="cell-item">Title: Get 7.2M total points on Armada of Demise.</span><span class="cell-item">Title: Get 50M Points on Divide Quest.</span><span class="cell-item">Exchange 900 Sage&#39;s Crest on Zieg.</span><span class="cell-item unavailable">Road to Etoile Campaign</span><span class="cell-item unavailable">Road to Luster Campaign</span></td>
+    </tr>
+    <tr>
+        <td>[[image ./img%3Apso2-item/item-mat-liberate-unlocker.png class=&quot;pso2-icon double&quot;]]</td>
+        <td><span class="cell-item icon pixelate item-mats">[[span class=&quot;rear-icon flag-na&quot;]]Key Rivalate</span>[[/span]]<span class="cell-item icon pixelate item-mats">解鍵リバレイト</span><span class="cell-item icon pixelate item-mats">Liberate Unlocker</span></td>
+        <td>Rivalate (Liberate) series</td>
+        <td><span class="cell-item">Title: Get 1300 Titles.</span><span class="cell-item">Title: Get 100M Points on Divide Quest.</span><span class="cell-item">Exchange 900 Sage&#39;s Crest on Zieg.</span><span class="cell-item unavailable">New Year Festival 2020 Limited Exchange</span><span class="cell-item unavailable">8th Anniversary Limited Exchange</span><span class="cell-item unavailable">Road to Luster Campaign</span><span class="cell-item unavailable">Mission Pass Season 2</span></td>
+    </tr>
+    <tr>
+        <td>[[image ./img%3Apso2-item/item-mat-grainne.png class=&quot;pso2-icon double&quot;]]</td>
+        <td><span class="cell-item icon pixelate item-mats">閃機晶グラーニア</span><span class="cell-item icon pixelate item-mats">Luminmech Grainne Crystal</span></td>
+        <td>Stil, Puras, Cras</td>
+        <td><span class="cell-item">Title: Divide Quest 3M points per week.</span><span class="cell-item">Title: Clear Divide Quest Step 35.</span><span class="cell-item">Divide Medal Shop.</span><span class="cell-item">Prize Medal Shop.</span><span class="cell-item">Mission Pass Season 3.</span><span class="cell-item unavailable">ARKS Connect Memories Individual Point Reward</span><span class="cell-item unavailable">Mission Pass Season 1</span><span class="cell-item unavailable">Mission Pass Season 2</span></td>
+    </tr>
+    <tr>
+        <td>[[image ./img%3Apso2-item/item-mat-graeae.png class=&quot;pso2-icon double&quot;]]</td>
+        <td><span class="cell-item icon pixelate item-mats">神眼石グライアイ</span><span class="cell-item icon pixelate item-mats">Divine Eyestone Graeae</span></td>
+        <td>Cras</td>
+        <td><span class="cell-item">Title:Defeat Primordial Darkness 50 times</span><span class="cell-item">50F first clear reward on Ultimate Quest Sodam</span><span class="cell-item">Mission Pass Season 4</span></td>
+    </tr>
+</table>
+<h3 id="heading-23">Weapon Affix</h3>
+<p>I personally go for a 6 to 7 slot easy-to-achieve affix. Adding damage like S1:Augment Intent is a common option, but I prefer increased PP efficiency, especially since Wand requires it.</p>
+<div class="unit-s-ability">
+<table>
+    <tr>
+        <th>Slot</th>
+        <th>Name / Item</th>
+        <th>Location</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-sclass-1">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-sclass">[[span class=&quot;rear-icon flag-na&quot;]]S1: Photon Descent 2</span>[[/span]]<span class="cell-item pixelate icon op-sclass">S1:光子縮減２</span><span class="cell-item pixelate icon op-sclass">S1:Photon Reduction 2</span><span class="cell-item pixelate icon item-pass">Ｓ１追加：光子縮減２</span><span class="cell-item pixelate icon item-pass">S1 Add:Photon Reduction 2</span></td>
+        <td><span class="cell-item">Endless Quests</span><span class="cell-item">UQ Masquerade</span></td>
+        <td><span class="cell-item">Grants -10% PP Cost.</span></td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-sclass-1">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-sclass">[[span class=&quot;rear-icon flag-na&quot;]]S1: Goliathslayer&#39;s Will</span>[[/span]]<span class="cell-item pixelate icon op-sclass">S1:強闘の志</span><span class="cell-item pixelate icon op-sclass">S1:Powering Intent</span></td>
+        <td></td>
+        <td><span class="cell-item">Grants 104% damage to bosses.</span><span class="cell-item">Considering most raid content is against boss, you can pick this as a cheap alternative to boost your damage.</span></td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-sclass-1">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-sclass">[[span class=&quot;rear-icon flag-na&quot;]]S1: Petalgleam</span>[[/span]]<span class="cell-item pixelate icon op-sclass">S1:花ノ赤閃</span><span class="cell-item pixelate icon op-sclass">S1:Red Petal Flash</span><span class="cell-item pixelate icon item-pass">Ｓ１追加：花ノ赤閃</span><span class="cell-item pixelate icon item-pass">S1 Add:Red Petal Flash</span></td>
+        <td><span class="cell-item">★15 [[span class=&quot;icon pixelate op-saf&quot;]]Hard Cross Bullet</span>[[/span]]</td>
+        <td><span class="cell-item">Increases damage by 3% for 30s after inflictiong 450K damage</span><span class="cell-item">Effect resets when you swap weapon, even to another Petalgleam weapon.</span></td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-sclass-2">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-sclass">[[span class=&quot;rear-icon flag-na&quot;]]S2: Timeflow Grace</span>[[/span]]<span class="cell-item pixelate icon op-sclass">S2:時流の恵</span><span class="cell-item pixelate icon op-sclass">S2:Flowing Grace</span><span class="cell-item pixelate icon item-pass">Ｓ２追加：時流の恵</span><span class="cell-item pixelate icon item-pass">S2 Add:Flowing Grace</span></td>
+        <td><span class="cell-item">UH E-Trial Reward</span><span class="cell-item">UH Mama-Deus</span><span class="cell-item">PSO2es Quick Search</span></td>
+        <td><span class="cell-item">Grants a persistent 10 PP regeneration every 4s.</span></td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-sclass-2">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-sclass">[[span class=&quot;rear-icon flag-na&quot;]]S2: Goliathslayer&#39;s Will</span>[[/span]]<span class="cell-item pixelate icon op-sclass">S2:強闘の志</span><span class="cell-item pixelate icon op-sclass">S2:Powering Intent</span></td>
+        <td><span class="cell-item">★13 [[span class=&quot;icon pixelate op-saf&quot;]]Mars Series</span>[[/span]]</td>
+        <td><span class="cell-item">Grants 103% damage to bosses.</span></td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-sclass-2">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-sclass">[[span class=&quot;rear-icon flag-na&quot;]]S2:Rainbow Will</span>[[/span]]<span class="cell-item pixelate icon op-sclass">S2:六色の志</span><span class="cell-item pixelate icon op-sclass">S2:Rainbow&#39;s Intent</span><span class="cell-item pixelate icon item-pass">Ｓ２追加：六色の志</span><span class="cell-item pixelate icon item-pass">S2 Add:Rainbow&#39;s Intent</span></td>
+        <td><span class="cell-item">Divide Quest</span></td>
+        <td><span class="cell-item">Grants 105% damage if Petalgleam (Red Petal Flash) is active.</span><span class="cell-item">Also works with any other Gleams.</span></td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-sclass-3">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item pixelate icon op-sclass">S3:時流の勇</span><span class="cell-item pixelate icon op-sclass">S3:Flowing Courage</span><span class="cell-item pixelate icon item-pass">Ｓ３追加：時流の勇</span><span class="cell-item pixelate icon item-pass">S3 Add:Flowing Courage</span></td>
+        <td><span class="cell-item">UH Armada</span></td>
+        <td><span class="cell-item">Grants automatic Shifta every 14s.</span></td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-sclass-3">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-sclass">[[span class=&quot;rear-icon flag-na&quot;]]S1: Goliathslayer&#39;s Will</span>[[/span]]<span class="cell-item pixelate icon op-sclass">S3:強闘の志</span><span class="cell-item pixelate icon op-sclass">S3:Powering Intent</span></td>
+        <td><span class="cell-item">White Day 2020</span></td>
+        <td><span class="cell-item">Grants 104% damage to bosses.</span></td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-sclass-3">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-sclass">[[span class=&quot;rear-icon flag-na&quot;]]S3: Axiom Will</span>[[/span]]<span class="cell-item pixelate icon op-sclass">S3:活実の志</span><span class="cell-item pixelate icon op-sclass">S3:Vital Intent</span><span class="cell-item pixelate icon item-pass">Ｓ３追加：活実の志</span><span class="cell-item pixelate icon item-pass">S3 Add:Vital Intent</span></td>
+        <td><span class="cell-item">★15 [[span class=&quot;icon pixelate op-saf&quot;]]Anacates Series</span>[[/span]]<span class="cell-item">UH E-Trial Reward</span><span class="cell-item">UH Mama-Deus</span></td>
+        <td><span class="cell-item">Grants 103% damage if HP is more than 80%.</span></td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-sclass-3">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-sclass">[[span class=&quot;rear-icon flag-na&quot;]]S3: Petalsea Song 2</span>[[/span]]<span class="cell-item pixelate icon op-sclass">S3:花海雪の歌２</span><span class="cell-item pixelate icon op-sclass">S3:Nature&#39;s Melody 2</span><span class="cell-item pixelate icon item-pass">Ｓ３追加：花海雪の歌２</span><span class="cell-item pixelate icon item-pass">S3 Add:Nature&#39;s Melody 2</span></td>
+        <td><span class="cell-item">Divide Quest</span></td>
+        <td><span class="cell-item">Grants a maximum of 107% damage over 15s if Petalgleam (Red Petal Flash) is active.</span><span class="cell-item">Also works with Seagleam (Blue Ocean Flash) and Snowgleam (White Snow Flash).</span><span class="cell-item">Currently very expensive.</span></td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-sclass-4">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item pixelate icon op-sclass">S4:強闘輝与</span><span class="cell-item pixelate icon op-sclass">S4:Colossal Radiance</span><span class="cell-item pixelate icon item-pass">Ｓ４追加：強闘輝与</span><span class="cell-item pixelate icon item-pass">S4 Add:Colossal Radiance</span></td>
+        <td><span class="cell-item">UH Elder</span></td>
+        <td><span class="cell-item">Grants a persistent 40 PP regeneration every 10s when there&#39;s a boss nearby.</span></td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-sclass-4">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-sclass">[[span class=&quot;rear-icon flag-na&quot;]]S4: Photon V Adaptation</span>[[/span]]<span class="cell-item pixelate icon op-sclass">S4:輝器応変</span><span class="cell-item pixelate icon op-sclass">S4:Radiant Response</span></td>
+        <td><span class="cell-item">★14 [[span class=&quot;icon pixelate op-saf&quot;]]Atlas Spear</span>[[/span]]</td>
+        <td><span class="cell-item">Grants increase in natural and active PP regen and reduce PP cost by (PP-120) * 0.1%.</span><span class="cell-item">A powerful S4 if you chose to have a giant amount of PP.</span></td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-sclass-4">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-sclass">[[span class=&quot;rear-icon flag-na&quot;]]S4: Rainbow Balance</span>[[/span]]<span class="cell-item pixelate icon op-sclass">S4:六色の輝秤</span><span class="cell-item pixelate icon op-sclass">S4:Harmonized Rainbow</span><span class="cell-item pixelate icon item-pass">Ｓ４追加：六色の輝秤</span><span class="cell-item pixelate icon item-pass">S4 Add:Harmonized Rainbow</span></td>
+        <td></td>
+        <td><span class="cell-item">Grants 30% PP cut, but also reduces natural PP regen by 30% when Petalgleam (Red Petal Flash) is active</span><span class="cell-item">Also works with any other Gleams.</span><span class="cell-item">This increases your PP efficiency a lot, especially on an Ayer.</span></td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-sclass-5">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-sclass">[[span class=&quot;rear-icon flag-na&quot;]]S5: Skillful Adept Will</span>[[/span]]<span class="cell-item pixelate icon op-sclass">S5:妙の巧志</span><span class="cell-item pixelate icon op-sclass">S5:Mysterious Intent</span></td>
+        <td><span class="cell-item">★15 [[span class=&quot;icon pixelate op-saf&quot;]]Liberate Gunslash</span>[[/span]]</td>
+        <td><span class="cell-item">Grants 102% critical damage, Increases critical hit rate by +20%, and drains 1% damage dealt as HP (30 max).</span><span class="cell-item">The HP recovery will not work on [[span class=&quot;icon class-et&quot;]]Et</span>, but the critical rate boost and damage will still help on Dual Saber.[[/span]]</td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-sclass-5">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-sclass">[[span class=&quot;rear-icon flag-na&quot;]]S5: Lightning Pursuit</span>[[/span]]<span class="cell-item pixelate icon op-sclass">S5:雷光追撃</span><span class="cell-item pixelate icon op-sclass">S5:Thundering Pursuit</span></td>
+        <td><span class="cell-item">★15 [[span class=&quot;icon pixelate op-saf&quot;]]Liberate Dual Blade</span>[[/span]]</td>
+        <td><span class="cell-item">Grants additional lightning-like attack when using PA.</span><span class="cell-item">Only works on Dual Blade.</span></td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-sclass-5">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-sclass">[[span class=&quot;rear-icon flag-na&quot;]]S5: Steadfast Harpoon</span>[[/span]]<span class="cell-item pixelate icon op-sclass">S5:静心衝杖</span><span class="cell-item pixelate icon op-sclass">S5:Calming Shockwave</span></td>
+        <td><span class="cell-item">★15 [[span class=&quot;icon pixelate op-saf&quot;]]Liberate Wand</span>[[/span]]</td>
+        <td><span class="cell-item">Grants 102% damage, an additonal attack on Normal Attack 3, and negates hitstop.</span><span class="cell-item">Only works on Wand.</span><span class="cell-item">The additional attack is similar to Lavis Cannon and recovers 15PP.</span></td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-reg">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-reg">[[span class=&quot;rear-icon flag-na&quot;]]Persona Reverie</span>[[/span]]<span class="cell-item pixelate icon op-reg">ペルソナ・レヴリー</span><span class="cell-item pixelate icon op-reg">Persona Reverie</span></td>
+        <td></td>
+        <td><span class="cell-item">Grants 40 [[span class=&quot;icon triple stat-aatk]]ATK</span>.[[/span]]</td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-saf">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-saf">[[span class=&quot;rear-icon flag-na&quot;]]Might VI</span>[[/span]]<span class="cell-item pixelate icon op-saf">パワーⅥ</span><span class="cell-item pixelate icon op-saf">Power VI</span></td>
+        <td><span class="cell-item">★14 [[span class=&quot;icon pixelate op-saf&quot;]]Dim Series (Strike)</span>[[/span]]</td>
+        <td><span class="cell-item">Grants 45 [[span class=&quot;icon stat-satk]]S-ATK</span>.[[/span]]</td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-saf">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-saf">[[span class=&quot;rear-icon flag-na&quot;]]Precision VI</span>[[/span]]<span class="cell-item pixelate icon op-saf">シュートⅥ</span><span class="cell-item pixelate icon op-saf">Shoot VI</span></td>
+        <td><span class="cell-item">★14 [[span class=&quot;icon pixelate op-saf&quot;]]Dim Series (Ranged) </span>[[/span]]</td>
+        <td><span class="cell-item">Grants 45 [[span class=&quot;icon stat-ratk]]R-ATK</span>.[[/span]]</td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-saf">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-saf">[[span class=&quot;rear-icon flag-na&quot;]]Casting VI</span>[[/span]]<span class="cell-item pixelate icon op-saf">テクニックⅥ</span><span class="cell-item pixelate icon op-saf">Technique VI</span></td>
+        <td><span class="cell-item">★14 [[span class=&quot;icon pixelate op-saf&quot;]]Dim Series (Tech)</span>[[/span]]</td>
+        <td><span class="cell-item">Grants 45 [[span class=&quot;icon stat-tatk]]T-ATK</span>.[[/span]]</td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-saf">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-saf">[[span class=&quot;rear-icon flag-na&quot;]]Astral Soul</span>[[/span]]<span class="cell-item pixelate icon op-saf">アストラル・ソール</span><span class="cell-item pixelate icon op-saf">Astral Soul</span></td>
+        <td><span class="cell-item">★13 [[span class=&quot;icon pixelate op-saf&quot;]]Ray series</span>[[/span]]<span class="cell-item">★13 [[span class=&quot;icon pixelate op-saf&quot;]]Union series</span>[[/span]]</td>
+        <td><span class="cell-item">Grants 35 [[span class=&quot;icon triple stat-aatk]]ATK</span>, 35 HP and 5 PP.[[/span]]</td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-saf">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-saf">[[span class=&quot;rear-icon flag-na&quot;]]Phrase Decay</span>[[/span]]<span class="cell-item pixelate icon op-saf">フレイズ・ディケイ</span><span class="cell-item pixelate icon op-saf">Phrase Decay</span></td>
+        <td><span class="cell-item">★13 [[span class=&quot;icon pixelate op-saf&quot;]]Basilis series</span>[[/span]]</td>
+        <td><span class="cell-item">Grants 105% damage against target with Jellen.</span><span class="cell-item">More preferable for party-content as there&#39;s bound to be a Phantom or Luster in the area.</span></td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-saf">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item icon pixelate op-saf">[[span class=&quot;rear-icon flag-na&quot;]]Phrase Weak</span>[[/span]]<span class="cell-item pixelate icon op-saf">フレイズ・ウィーク</span><span class="cell-item pixelate icon op-saf">Phrase Weak</span></td>
+        <td><span class="cell-item">★13 [[span class=&quot;icon pixelate op-saf&quot;]]Fornis series</span>[[/span]]<span class="cell-item">★13 [[span class=&quot;icon pixelate op-saf&quot;]]Homura series</span>[[/span]]</td>
+        <td><span class="cell-item">Grants 102% damage against target with matching elemental weakness as the weapon.</span></td>
+    </tr>
+    <tr>
+        <td><span class="icon pixelate op-reg">@&lt;&amp;nbsp;&gt;@</span></td>
+        <td><span class="cell-item pixelate icon op-reg">グランド・スピリタ</span><span class="cell-item pixelate icon op-reg">Grand Spirita</span><span class="cell-item pixelate icon item-pass">特殊能力(グランドPP)</span><span class="cell-item pixelate icon item-pass">Add Ability (Grand PP)</span></td>
+        <td></td>
+        <td><span class="cell-item">Grants 15 PP.</span></td>
+    </tr>
+</table>
+</div>
+<h2 id="heading-24">Damage Evaluation</h2>
+<p>You can evaluate how well you are doing damage by the following:</p>
+<table>
+    <tr>
+        <th>Parameter</th>
+        <th>Okay</th>
+        <th>Good</th>
+        <th>Great!</th>
+    </tr>
+    <tr>
+        <td><span class="cell-item">Damage Tally Practice Rockbear</span><span class="cell-item">20 seconds, Standing Still</span><span class="cell-item">No drinks or tree or any boosts.</span></td>
+        <td>3M Damage</td>
+        <td>4M Damage</td>
+        <td>5M Damage</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item">Damage Tally Practice Rockbear</span><span class="cell-item">Free, Standing Still</span><span class="cell-item">No drinks or tree or any boosts.</span></td>
+        <td>18M damage in 120s</td>
+        <td>24M damage in 120s</td>
+        <td>30M damage in 120s</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item">Clear XH Solo Trigger Profound Darkness</span> <span class="cell-item"> Tree boost and drink only.</span></td>
+        <td>Less than 9:30</td>
+        <td>Less than 7:00</td>
+        <td>Less than 5:30</td>
+    </tr>
+    <tr>
+        <td><span class="cell-item">Clear UQ Masquerade</span> <span class="cell-item"> Tree boost and drink only.</span></td>
+        <td>Less than 1:00</td>
+        <td>Less than 45s</td>
+        <td>Less than 30s</td>
+    </tr>
+</table>
+<h1 id="heading-25">FAQ</h1>
+<h2 id="heading-26">You seriously use Recommended Setting for Etoile skill tree?</h2>
 <p>Yes, it turned out to have exact same setup as my Et tree. I discovered it when I wanted to reset one of my alt character&#39;s Et tree: out of curiosity I picked Recommended Setting before intending to reset, but it turned out to be the exact same tree I am using for my main character. So hey, same tree! No need for reset pass!</p>
-<h2 id="heading-24">I just got my first Graeae / Amphitrite / Key / Chronos, what weapon type should I make?</h2>
+<h2 id="heading-27">I just got my first Graeae / Amphitrite / Key / Chronos, what weapon type should I make?</h2>
 <p>Make your favorite type, but do consider the possibility of said weapon being passed on to your alts: DS to Fighters, DB/Soaring Blades to Bouncers, and Wand to Techers.</p>
-<h2 id="heading-25">What attack augment/affix type should I use?</h2>
+<h2 id="heading-28">What attack augment/affix type should I use?</h2>
 <p>You should go full <span class="icon stat-satk">MEL/S-ATK</span>. Despite having Wand, all Etoile attacks are calculated using <span class="icon stat-satk">MEL/S-ATK</span>. Etoile do have innate skill to use which augment is higher on the Wand (it picks the highest between <span class="icon stat-satk">MEL/S-ATK</span> and <span class="icon stat-tatk">TEC/T-ATK</span>), but it&#39;s only for said Wand; the base calculation sill goes for your <span class="icon stat-satk">MEL/S-ATK</span> augments on units.</p>
-<h1 id="heading-26">Demo Videos</h1>
-<h2 id="heading-27">Versus Varuna in Story Mode</h2>
-<p>[[include :asoh:component:video-youtube |video-id=4SfKNDRwrpE]]</p>
-<h2 id="heading-28">Versus Varuna and Mitra in 30F Divide Quest</h2>
-<p>[[include :asoh:component:video-youtube |video-id=-AS4ubbdOCk]]</p>
-<h2 id="heading-29">Versus Primoridal Darkness</h2>
-<p>[[include :asoh:component:video-youtube |video-id=eGFazviXkAQ]]</p>
-<h2 id="heading-30">Ultimate Quest Sodam 40F</h2>
-<p>[[include :asoh:component:video-youtube |video-id=A5mWstYH6o8]]</p>
-<h1 id="heading-31">Closing</h1>
+<h1 id="heading-29">Demo Videos</h1>
+<h2 id="heading-30">Versus Varuna in Story Mode</h2>
+ <div class="youtube-container">
+    <iframe
+        src="https://www.youtube-nocookie.com/embed/4SfKNDRwrpE"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
+</div>
+<h2 id="heading-31">Versus Varuna and Mitra in 30F Divide Quest</h2>
+ <div class="youtube-container">
+    <iframe
+        src="https://www.youtube-nocookie.com/embed/-AS4ubbdOCk"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
+</div>
+<h2 id="heading-32">Versus Primoridal Darkness</h2>
+ <div class="youtube-container">
+    <iframe
+        src="https://www.youtube-nocookie.com/embed/eGFazviXkAQ"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
+</div>
+<h2 id="heading-33">Ultimate Quest Sodam 40F</h2>
+ <div class="youtube-container">
+    <iframe
+        src="https://www.youtube-nocookie.com/embed/A5mWstYH6o8"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
+</div>
+<h1 id="heading-34">Closing</h1>
 <p>Should you require aid in-game, you can contact Manaka, her player name is VateVierge. If you want to chat on discord, feel free to contact me at Perseonn#7731!</p>
-<h2 id="heading-32">Credits</h2>
+<h2 id="heading-35">Credits</h2>
 <ul>
     <li>[https://pso2.swiki.jp/index.php PSO2 ファンタシースターオンライン2 攻略 Wiki (PSO2 Capture Wiki)] for the main reference</li>
     <li>[https://pso2.arks-visiphone.com/wiki/Main_Page Arks-Visiphone] for a lot of PSO2 item and PA icons</li>
     <li>Apprentice(?) Safhier for initial feedback</li>
 </ul>
-</p>
+
 </div>
 </div>
-</div>
-<p>[[module css]] .toc-bg {background-image: url(&#39;http://capa.wdfiles.com/local--files/guides:phantasy-star-online-2-etoile/phantasy-star-online-2-etoile-sidebar.avif&#39;);} .guide-article-hide {display:none;} .guide-article-only {display:block;} [[/module]]</p>
-    </main>
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                            CAPA
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/home:home">Home</a> · 
+                                <a href="/home:guide">Guide</a> · 
+                                <a href="/home:article">Article</a>
+                        </div>
+                            <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
 </body>
 </html>

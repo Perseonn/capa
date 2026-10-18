@@ -48,7 +48,7 @@ As you would expect from a mansion a rather large area, but not too large. There
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2mf1.png |title=Mansion Floor 1 Map]]
+[[image lwr2mf1.png | Mansion Floor 1 Map]]
 
 C1 = 5 Remove Poison
 C2 = 100 Gold
@@ -77,7 +77,7 @@ A small maze with a lot of items to pick up, one required for a boss later so do
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2mb.png |title=Mansion Basement Map]]
+[[image lwr2mb.png | Mansion Basement Map]]
 
 C1 = Empty
 C2 = 3 Middle Heal Potion
@@ -133,7 +133,7 @@ A rather large collection of rooms here. Many of the rooms will fill up the map 
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2mf2.png |title=Mansion Floor 2 Map]]
+[[image lwr2mf2.png | Mansion Floor 2 Map]]
 
 C1 = Empty
 C2 = 5 Middle Heal Potion
@@ -185,7 +185,7 @@ A mazey area with a couple of fake walls. This floor is the introduction of enem
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df1.png |title=Dungeon Floor 1 Map]]
+[[image lwr2df1.png | Dungeon Floor 1 Map]]
 
 C1 = 600 Gold
 C2 = 5 Remove Poison
@@ -225,7 +225,7 @@ Can be rather annoying to navigate due to how often you need to turn to move one
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df2.png |title=Dungeon Floor 2 Map]]
+[[image lwr2df2.png | Dungeon Floor 2 Map]]
 
 C1 = 1000 Gold
 C2 = 5 Middle Heal Potion
@@ -260,7 +260,7 @@ All enemies will only do physical attacks, Lizard Man will tend to dodge attacks
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df3.png |title=Dungeon Floor 3 Map]]
+[[image lwr2df3.png | Dungeon Floor 3 Map]]
 
 
 **Boss**
@@ -297,7 +297,7 @@ A linear floor, the only obstacle is the 180 turn tiles which will make you turn
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df4.png |title=Dungeon Floor 4 Map]]
+[[image lwr2df4.png | Dungeon Floor 4 Map]]
 
 C1 = 5 Middle Heal Potion
 C2 = 1200 Gold
@@ -350,7 +350,7 @@ Return to the Healing Room and choose **Receive Treatment**, return again and ch
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df8.png |title=Dungeon Floor 8 Map]]
+[[image lwr2df8.png | Dungeon Floor 8 Map]]
 
 C1 = Empty
 C2 = Empty
@@ -391,7 +391,7 @@ Wanted a room full of fake walls? No? Well too bad, more than half of the floor 
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df7.png |title=Dungeon Floor 7 Map]]
+[[image lwr2df7.png | Dungeon Floor 7 Map]]
 
 C1 = 5 Heavy Heal Potion
 
@@ -428,7 +428,7 @@ Time for the obligatory teleporter maze, each room has a teleport pad located in
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df6.png |title=Dungeon Floor 6 Map]]
+[[image lwr2df6.png | Dungeon Floor 6 Map]]
 
 
 **Boss**
@@ -459,7 +459,7 @@ A lot of winding paths on this floor, all chests here are trapped so if you want
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df5.png |title=Dungeon Floor 5 Map]]
+[[image lwr2df5.png | Dungeon Floor 5 Map]]
 
 C1 = 5 Mental Charge Potions
 C2 = 5 Remove Poisons
@@ -500,7 +500,7 @@ A straightforward path with some fake walls here and there.
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2tf1.png |title=Temple Floor 1 Map]]
+[[image lwr2tf1.png | Temple Floor 1 Map]]
 
 C1 = 5 Heavy Heal Potion
 C2 = Empty
@@ -532,7 +532,7 @@ There are two ways you can go that will converge in the center so you can pick t
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2tf2.png |title=Temple Floor 2 Map]]
+[[image lwr2tf2.png | Temple Floor 2 Map]]
 
 C1 = 5 Heavy Heal Potion
 C2 = 5 Mental Charge Potion
@@ -568,7 +568,7 @@ Final area of the game (also the smallest), if you didn't hit the level cap (35)
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2tf3.png |title=Temple Floor 3 Map]]
+[[image lwr2tf3.png | Temple Floor 3 Map]]
 
 C1 = 5 Mental Charge Potion
 C2 = 5 Remove Poison

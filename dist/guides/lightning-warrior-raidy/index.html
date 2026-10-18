@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Lightning Warrior Raidy</title>
+    <meta name="description" content="Lightning Warrior Raidy is a first person dungeon crawler RPG, the game is pretty basic in its mecha...">
+    
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/css/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -13,9 +16,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
-
-    <title>Lightning Warrior Raidy</title>
-    <meta name="description" content="Lightning Warrior Raidy is a first person dungeon crawler RPG, the game is pretty basic in its mecha...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
@@ -31,45 +31,82 @@
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
     <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
     <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
     <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
-    <header>
-        <nav>
-    <a href="/">Home</a>
-    <a href="/guides/">Guides</a>
-    <a href="/articles/">Articles</a>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-md-2 p-0">
+                <nav class="capa-navbar" aria-label="Main navigation">
+
+    <!-- Mobile-only Expand Button -->
+    <button
+        class="capa-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="capa-nav-content"
+        aria-label="Open navigation"
+    >
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    
+    <!-- Mobile-only Close Button -->
+    <button
+        class="capa-nav-overlay"
+        type="button"
+        aria-label="Close navigation"
+        tabindex="-1"
+        aria-hidden="true"
+    ></button>
+
+    <!-- Shared navigation and TOC -->
+    <div id="capa-nav-content">
+        <div class="nav-item">
+            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        </div>
+        <div class="nav-item">
+            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        </div>
+        <div class="nav-item">
+            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        </div>
+        <!-- TOC will be moved here by move-toc-to-nav.js -->
+    </div>
+
 </nav>
-    </header>
-    <main>
-        <div class="row m-0 p-0">
-<p>[[div class=&quot;col-md-2 hidden-xs hidden-sm guide table-of-contents p-0&quot; role=&quot;navigation&quot;]]</p>
-<p>[[include nav:main]]</p>
-<p>[[/div]][!<del> Close the role=navigation </del>]</p>
-<p>[!<del> </del><del></del><del> </del><del></del><del> Border between Nav and Main Content </del><del></del><del> </del><del></del><del> </del>]</p>
-<p>[[div_ class=&quot;col-md-10 col-md-offset-2 col-xs-12 main main-container p-0&quot;]]</p>
-<p>[[include component:splash |splash-class=full-height |splash-style=background-image:url(&#39;http://capa.wdfiles.com/local--files/guides%3Alightning-warrior-raidy/lightning-warrior-raidy-splash.avif&#39;); |text-title=Lightning Warrior Raidy |text-sub-title=Written by Buster Wolf |text-extra=Updated on %%updated_at%% |text-extra-icon=fa fa-clock ]]</p>
-<div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl">
-<p>[[collapsible show=&quot;Table of Contents&quot; hide=&quot;Collapse Table of Contents&quot;]]</p>
-<div class="table-of-contents">
-<a href="#heading-1">Stats</a>
-<a href="#heading-2">Floor 1</a>
-<a href="#heading-3">Floor 2</a>
-<a href="#heading-4">Floor 3</a>
-<a href="#heading-5">Floor 4</a>
-<a href="#heading-6">Floor 5</a>
-<a href="#heading-7">Floor 6</a>
-<a href="#heading-8">Extra Info</a>
-<a href="#heading-9">Alternate Bad Ending</a>
+            </header>
+            <div class="col-12 col-md-10 p-0">
+                <main class="capa-main">
+                    <div class="row m-0 p-0">
+<div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:url(&#39;/assets/guides/lightning-warrior-raidy/lightning-warrior-raidy-splash.avif&#39;);">
+<div class="title-container p-4">
+<div class="page-extra stroke ">
+<p><span class="visible fa fa-clock"> </span> Updated at 2018-10-09</p>
 </div>
-<p>[[/collapsible]]</p>
+<div class="page-sub-title strong stroke ">
+<p>Written by Buster Wolf</p>
+</div>
+<div class="page-title strong stroke ">
+<p>Lightning Warrior Raidy</p>
+</div>
+</div>
+</div>
+<div id="toc" class="table-of-contents">
+<a href="#heading-1" class="toc-h1">Stats</a>
+<a href="#heading-2" class="toc-h1">Floor 1</a>
+<a href="#heading-3" class="toc-h1">Floor 2</a>
+<a href="#heading-4" class="toc-h1">Floor 3</a>
+<a href="#heading-5" class="toc-h1">Floor 4</a>
+<a href="#heading-6" class="toc-h1">Floor 5</a>
+<a href="#heading-7" class="toc-h1">Floor 6</a>
+<a href="#heading-8" class="toc-h1">Extra Info</a>
+<a href="#heading-9" class="toc-h2">Alternate Bad Ending</a>
 </div>
 <div class="container drop-caps p-4 lightning-warrior-raidy">
-<p><p>Lightning Warrior Raidy is a first person dungeon crawler RPG, the game is pretty basic in its mechanics so there&#39;s not much to worry about. You can move either from using the arrow keys or keys on the number pad, Up and Down will move you one tile in the direction you face while Left and Right will turn you in that direction. During battle Raidy can use her special attack Thunder Slash when you click the Thunder Bolt icon during battle, damage dealt is based on how much MP was used which will always be half of your current. There is no point to the Defend command as damage does not get reduced unless you want to lose to a boss for the lose scene. Running away from battle will move you back to the tile you were at before you got into a battle, if you find an enemy too tough you can choose to run. The material in this game is not meant players who are underage.</p>
+<p>Lightning Warrior Raidy is a first person dungeon crawler RPG, the game is pretty basic in its mechanics so there&#39;s not much to worry about. You can move either from using the arrow keys or keys on the number pad, Up and Down will move you one tile in the direction you face while Left and Right will turn you in that direction. During battle Raidy can use her special attack Thunder Slash when you click the Thunder Bolt icon during battle, damage dealt is based on how much MP was used which will always be half of your current. There is no point to the Defend command as damage does not get reduced unless you want to lose to a boss for the lose scene. Running away from battle will move you back to the tile you were at before you got into a battle, if you find an enemy too tough you can choose to run. The material in this game is not meant players who are underage.</p>
 <p>The amount of EXP monsters will give is <strong>EXP - Raidy&#39;s level</strong> for example Wererat will give you 20 EXP when you beat one at Level 1 (21-1) so you will get less EXP as you level up. Suggested level is mainly for a balanced playthrough not too high and not too low.</p>
 <h1 id="heading-1">Stats</h1>
 <p><strong>HP:</strong> Your health. If it runs out, it&#39;s Game Over. Whenever you gain a level, max HP increases by a random number ranging from 10 to 21.</p>
@@ -106,7 +143,10 @@
 <p><strong>Wererat</strong> - Her normal attack has a chance to poison you. <strong>Werebat</strong> - Nothing special about her. <strong>Weretiger</strong> - Can be a threat at early levels especially if she gets a critical.</p>
 <p><strong>Suggested event sequence</strong> 1. Find the Old Key and unlock the door leading to the Broad Sword (0 AP, +10 DMG). 2. Find the Captive Girls and find out how to defeat the Boss. 3. Find the 1st Floor Map. 4. Defeat the Boss.</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy/lwr1f1.png |title=Floor 1 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy/lwr1f1.png" alt="Floor 1 Map">
+        <figcaption>Floor 1 Map</figcaption>
+    </figure>
 <p>Ignore Empty Cells. Captive Girls will tell the bosses weakness after talking to them a couple of time. C1 = 5 Light Heal Potion &amp; 5 Remove Poison C2 = 5 Light Heal Potion &amp; 5 Remove Poison C3 = 5 Light Heal Potion, 5 Middle Heal Potion &amp; 5 Mental Potion C4 = 5 Light Heal Potion, 5 Mental Potion &amp; 5 Remove Poison</p>
 <p><strong>Boss</strong></p>
 <table>
@@ -151,7 +191,10 @@
 <p><strong>Skeleton</strong> - Nothing special about her. <strong>Chimera</strong> - She can Poison with her normal attack and is the introduction of fixed damage skills in the game, her Breath attack will do 21 damage. <strong>Minotaur</strong> - Can be a threat at early levels especially before getting the Chain Armor.</p>
 <p><strong>Suggested event sequence</strong> 1. Find the Key Ring. 2. Find the Captive Girls and find out how to defeat the Boss. 3. Find the Charmed Man and watch the scene. 4. Find the 2nd Floor Map. 5. Unlock the door leading to the Chain Armor (PP -3, DEF +10). 6. Defeat the Boss.</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy/lwr1f2.png |title=Floor 2 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy/lwr1f2.png" alt="Floor 2 Map">
+        <figcaption>Floor 2 Map</figcaption>
+    </figure>
 <p>Ignore Empty Cells. Captive Girls will tell the bosses weakness after talking to them a couple of time. The Orange colored area of the map will have a scene with a Charmed Man, after viewing the scene it becomes an Empty Cell. C1 = 5 Light Heal Potion &amp; 5 Remove Poison C2 = 5 Middle Heal Potion &amp; 5 Remove Poison C3 = 5 Light Heal Potion, 5 Middle Heal Potion &amp; 5 Mental Recovery</p>
 <p><strong>Boss</strong></p>
 <table>
@@ -196,7 +239,10 @@
 <p><strong>Ghost</strong> - Has the fixed damage skill Cold Hand which will drain 11 MP. <strong>Cerberus</strong> - Has the fixed damage skill Breath which will do 36 damage. <strong>Lamia</strong> - The hardest monster here even over leveled due to her high evade stat, her normal attack has a chance to Poison and she has the fixed damage skill Spell which will do 39 damage.</p>
 <p><strong>Suggested event sequence</strong> 1. Find the Charmed Man, watch the scene to get the Jail Key. 2. Use the Jail Key inside the empty cell to get the Morion Earrings. 3. Find the Bastard Sword (AP -3, DMG +20). You may not want to equip it right away since it tends to miss a lot until you reach level 14. 4. Find the 3rd Floor Map. 5. Defeat the Boss.</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy/lwr1f3.png |title=Floor 3 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy/lwr1f3.png" alt="Floor 3 Map">
+        <figcaption>Floor 3 Map</figcaption>
+    </figure>
 <p>Ignore Empty Cells. Poison Chests are chests that have no item in them and will spring a trap that will poison you. It is important that you view the event to get the Jail Key and investigate the cells with the Morion Earrings for the Floor 4 boss. C1 = 5 Middle Heal Potion &amp; 5 Remove Poison C2 = 5 Middle Heal Potion &amp; 5 Mental Heal C3 = 5 Middle Heal Potion, 5 Mental Recovery &amp; 5 Remove Poison</p>
 <p><strong>Boss</strong></p>
 <table>
@@ -241,7 +287,10 @@
 <p><strong>Salamander</strong> - Has the fixed damage skill Breath which will do 48 damage. <strong>Undine</strong> - Nothing special about her. <strong>Sylph</strong> - Will hurt quite a bit before you get the Plate Armor which will then make her attacks really weak even if she gets a critical.</p>
 <p><strong>Suggested event sequence</strong> 1. Find the Plate Armor (-7 PP, +20 DEF). 2. Find the 4th Floor Map. 3. Find the Golden Cross and unlock the door. 4. Find the Captive Girls and find out how to defeat the Boss. 5. Defeat the Boss. 6. Find the Charmed Man and watch the scene.</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy/lwr1f4.png |title=Floor 4 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy/lwr1f4.png" alt="Floor 4 Map">
+        <figcaption>Floor 4 Map</figcaption>
+    </figure>
 <p>Ignore Empty Cells. Captive Girls will tell the bosses weakness after talking to them a couple of time. Poison Chests are chests that have no item in them and will spring a trap that will poison you. It is important that you viewed the event to get the Jail Key and get the Morion Earrings from floor 3 for this boss. Teleports will transport you back and forth on this floor which is different from other floors with them. The Orange colored area of the map will have a scene with a Charmed Man, after viewing the scene it becomes an Empty Cell. C1 = 5 Middle Heal Potion &amp; 5 Remove Poison C2 = 5 Middle Heal Potion &amp; 5 Mental Recovery C3 = 5 Middle Heal Potion, 5 Heavy Heal Potion &amp; 5 Mental Recovery</p>
 <p><strong>Boss</strong></p>
 <table>
@@ -286,7 +335,10 @@
 <p><strong>Amazon</strong> - Has a chance to Poison with her normal attack at a pretty frequent rate due to how long battles will take initially. <strong>Grappler</strong> - Nothing special about her. <strong>Medusa</strong> (or more correctly Dullahan)  - Has the fixed damage skill Glare which will drain 23 MP, you may want to use this to your advantage before getting the Mithril Sword to take less damage from her.</p>
 <p><strong>Suggested event sequence</strong> 1. Find the Angel Statue. 2. Backtrack and place the Angel Statue on the correct Pedestal to unlock the door. 3. Find the Mithril Sword (AP +3, DMG +30). 4. Find the Captive Girls and find out how to defeat the Boss. 5. Find the 5th Floor Map. 6. Defeat the Boss.</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy/lwr1f5.png |title=Floor 5 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy/lwr1f5.png" alt="Floor 5 Map">
+        <figcaption>Floor 5 Map</figcaption>
+    </figure>
 <p>Ignore Empty Cells. Captive Girls will tell the bosses weakness after talking to them a couple of time. The Pedestal colored Green is where you will put the Angel Statue. C1 = 5 Middle Heal Potion &amp; 5 Remove Poison C2 = 5 Heavy Heal Potion &amp; 5 Mental Health C3 = 5 Heavy Heal Potion, 5 Mental Recovery &amp; 5 Remove Poison</p>
 <p><strong>Boss</strong></p>
 <table>
@@ -331,7 +383,10 @@
 <p><strong>Dragon</strong> - Has the fixed damage skill Breath which will do 78 damage. <strong>Death</strong> - Has the fixed damage skill Glare which will drain 27 MP. <strong>Sphinx</strong> - Has the fixed damage skill Spell which will do 84 damage.</p>
 <p><strong>Suggested event sequence</strong> 1. Find the Orgy and watch the hilarious scene. 2. Find the 6th Floor Map. 3. Find the Mithril Armor (PP-5, DEF+30). 4. Solve the riddle to unlock the door leading to the Boss. 5. Defeat the Boss.</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy/lwr1f6.png |title=Floor 6 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy/lwr1f6.png" alt="Floor 6 Map">
+        <figcaption>Floor 6 Map</figcaption>
+    </figure>
 <p>The Orange colored area of the map will have a scene with an Orgy happening. The clue to solving the puzzle reads &quot;MECWYS is the key...&quot; this was not re-translated as it should be &quot;REBWYS&quot; to better fit the English audience (clue was Magenta East, Cyan West, Yellow South. Magenta = Red, Cyan = Blue). C1 = 5 Heavy Heal Potion &amp; 5 Mental Health C2 = 5 Middle Heal Potion &amp; 5 Mental Recovery C3 = 5 Middle Heal Potion, 5 Heavy Heal Potion &amp; 5 Mental Recovery</p>
 <p><strong>Final Boss</strong> Sex Demon Cubust HP: 1600 Suggested Level: 26</p>
 <p>Cubust is no pushover as his physical attacks will hurt up to 40 at the max level (35), 80 should he get a critical hit. Use Thunder Slash to soften him up a bit then proceed to use physical attacks when it can do more than Thunder Slash. Since this is the battle you can use your Heavy Heal Potions and Mental Recovery potions as often as you need though make sure that you heal when you have double the highest damage he can deal incase he gets a lucky critical.</p>
@@ -339,12 +394,32 @@
 <p><strong>Give in to the pleasure</strong> which will lead to the bad ending (same scene as losing against Cubust unless...) <strong>Resist</strong> which will lead to the good ending</p>
 <h1 id="heading-8">Extra Info</h1>
 <h2 id="heading-9">Alternate Bad Ending</h2>
-<p>You will get this if you lose against each boss (auto-defeat doesn&#39;t count) during your climb and choose <strong>Give in to the pleasure</strong> after beating Cubust.</p></p>
+<p>You will get this if you lose against each boss (auto-defeat doesn&#39;t count) during your climb and choose <strong>Give in to the pleasure</strong> after beating Cubust.</p>
 </div>
 </div>
-</div>
-<p>[[module css]] .toc-bg {background-image: url(&#39;http://capa.wdfiles.com/local--files/guides:lightning-warrior-raidy/lightning-warrior-raidy-sidebar.avif&#39;);} .guide-article-hide {display:none;} .guide-article-only {display:block;} [[/module]]</p>
-    </main>
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                            CAPA
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/home:home">Home</a> · 
+                                <a href="/home:guide">Guide</a> · 
+                                <a href="/home:article">Article</a>
+                        </div>
+                            <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
 </body>
 </html>

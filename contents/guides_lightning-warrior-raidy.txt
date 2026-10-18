@@ -45,7 +45,7 @@ A rather easy floor to navigate through this is mainly to get you used to the co
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy/lwr1f1.png |title=Floor 1 Map]]
+[[image lwr1f1.png | Floor 1 Map]]
 
 Ignore Empty Cells.
 Captive Girls will tell the bosses weakness after talking to them a couple of time.
@@ -85,7 +85,7 @@ This floor introduces fake walls which are walls you can walk through. This map 
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy/lwr1f2.png |title=Floor 2 Map]]
+[[image lwr1f2.png | Floor 2 Map]]
 
 Ignore Empty Cells.
 Captive Girls will tell the bosses weakness after talking to them a couple of time.
@@ -124,7 +124,7 @@ This floor has a teleport maze you must get through which are number and color c
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy/lwr1f3.png |title=Floor 3 Map]]
+[[image lwr1f3.png | Floor 3 Map]]
 
 Ignore Empty Cells.
 Poison Chests are chests that have no item in them and will spring a trap that will poison you.
@@ -163,7 +163,7 @@ A breather compared to the floor before it, this floor has certain tiles which w
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy/lwr1f4.png |title=Floor 4 Map]]
+[[image lwr1f4.png | Floor 4 Map]]
 
 Ignore Empty Cells.
 Captive Girls will tell the bosses weakness after talking to them a couple of time.
@@ -208,7 +208,7 @@ While the previous floor had tiles that turn you 90 degrees to the right this fl
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy/lwr1f5.png |title=Floor 5 Map]]
+[[image lwr1f5.png | Floor 5 Map]]
 
 Ignore Empty Cells.
 Captive Girls will tell the bosses weakness after talking to them a couple of time.
@@ -247,7 +247,7 @@ This floor is filled to the brim with fake walls, however it is pretty linear so
 
 **Map**
 
-[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy/lwr1f6.png |title=Floor 6 Map]]
+[[image lwr1f6.png | Floor 6 Map]]
 
 The Orange colored area of the map will have a scene with an Orgy happening.
 The clue to solving the puzzle reads "MECWYS is the key..." this was not re-translated as it should be "REBWYS" to better fit the English audience (clue was Magenta East, Cyan West, Yellow South. Magenta = Red, Cyan = Blue).

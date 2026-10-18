@@ -1,0 +1,109 @@
+[[include component:pso2-pet-profile-1]]
+[[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/PetTorimIcon.png class="w-50 margin-b-half"]]
+[[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/PetAeroIcon.png class="w-100"]]
+[[include component:pso2-pet-profile-2
+|pet-name=Trim (//Torim//) / Aero
+|pet-description=A pet with high powered PAs, focusing on quality over quantity. They are best suited to pursuit agile enemies with their fast Stab and their double DoT attacks. Their main weakness is their lack of wide area attack, PP inefficiency, low defense, and weakest normal attacks (i.e. not worth for Spirited Parfait). If you can, switch to Trim or Aero during a boss' downtime, such as when Dragon drops its head, Deus showing its core etc. and perform Shout then Spiral to their weak points. In order to maximize their damage, try to land as many full-charged Shout-Spiral as you can.
+
+★14 Trim is more durable with higher HP and Def and less PP usage. ★14 Aero has higher Pwr, upgraded Aero Spriral (wider attack area) and Aero Slash (stronger). There are little reasons to use Trim, so the numbers listed on here are based on Aero.
+
+**Trim and Aero are currently having limited uses as they are outclassed by their glass cannon peers: Shinkuro and Popple; and fellow avian, Rappy.**
+|pet-stun-timer=60s (Trim)
+30s (Aero)
+|pet-normal-dps=Hold: 11 (6.9 PP/s)
+Auto: 18 (11.2 PP/s)
+|pet-overall-dps=71 (Stab)
+117 (Shouted Spiral Charge 2)
+]]
+||~ Personality ||~ Description ||
+|| [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]]Industrious (がんばりや //Diligent//) || 115% PA damage with 130% PP cost. Preferable for the big damage boost. ||
+|| [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]]Smart Cookie (おりこうさん //Docile//) || 121% damage on enemies with a status effect. Since EQ bosses does not get status effect like normal enemies, the boost will be useless there. ||
+|| [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]]//Elite// (エリート) || ★14 only. Combines Industrious and Smart Cookie, as well as having increased rare item drop rate.||
+[[include component:pso2-pet-profile-3
+|pet-pros=* Suitable for all player skills
+* Easy-to-use Boss killer
+* High Pwr
+* Stab is a low-risk, high damage PA
+|pet-cons=* Weakest normal attack
+* Third lowest DEF
+* High PP usage
+* Low PP regain from attacks
+* Low DPS rate in the long run because low PP regain.
+* Requires constant use of Shouted Spiral Charge 2 in order to reach full potential
+* Torim recovers long from stun
+|pet-box=Torim
+|pet-box-candies=* 1 Triple Stack Pancake (//3-Layer Pancake//)
+* 1 Double Stack Pancake (//2-Layer Pancake//)
+* Parfait choice:
+ * 1 **//Exquisite Deadly Parfait//**
+ * 1 //Deadly Parfait//
+ * 1 //Super Vigilant Parfait//
+ * 1 **//Super Luxury Parfait//**
+* 1 Support Roll
+* 1 Support Roll or 1 //Steadfast Roll//
+* 2 Critical Canes (//Critical Candy Sticks//)
+* 1 Vinculum Spir Canes (//Vin-Spi Candy Sticks//)
+* 1 Toughness Sandwich (//Body Sandwich//)
+* Cookie choice:
+ * **//3 Tech-Spi Cookies//**
+ * 3 Casting Cookies (//Tech Cookies//)
+ * 3 Spirit Cookies (//Spirita Cookies//)
+]]
+
+
++++* Photon Arts / Combo
+[[include component:pso2-pet-pa |pa-icon=PA-Torim-1|pa-name=Slam (//Stab//) |pa-damage=17912 |pa-pp=15 |pa-frame=44 |pa-dps-normal=66 |pa-dps-god=85 |pa-dps-god-plus=90 |pa-dpp-normal=35 |pa-dpp-god=45 |pa-dpp-god-plus=48 |pa-remarks=* Primary mook masher.
+* Quick attacks, but leans on the inefficient side.
+* Due to Industrious personality, this PA uses 20PP.
+]]
+[[include component:pso2-pet-pa |pa-icon=PA-Torim-2|pa-name=Slash |pa-damage=37717 |pa-pp=15 |pa-frame=123 |pa-dps-normal=49 |pa-dps-god=57 |pa-dps-god-plus=58 |pa-dpp-normal=79 |pa-dpp-god=90 |pa-dpp-god-plus=93 |pa-remarks=* **It is advised not to use this PA on its own, use this PA after Shout buff.**
+]]
+[[include component:pso2-pet-pa |pa-icon=PA-Torim-2|pa-name=Shouted Slash |pa-damage=45263 |pa-pp=15 |pa-frame=123 |pa-dps-normal=59 |pa-dps-god=66 |pa-dps-god-plus=68 |pa-dpp-normal=95 |pa-dpp-god=106 |pa-dpp-god-plus=109 |pa-remarks=* Use Slash after Shout to power up the move.
+* A 5-hit attack, mind the timing.
+* You can Jump after inputting the command to activate your natural PP regen; during a normal circumstance, you'll regain about 8PP back before the next input.
+* Due to Industrious personality, this PA uses 20PP.
+* At L17 Toim version costs 20PP (26 PP with Dilligent).
+]]
+[[include component:pso2-pet-pa |pa-icon=PA-Torim-3|pa-name=Barrage (//Bullet//) |pa-damage=32902 |pa-pp=5 |pa-frame=42 |pa-dps-normal=8 |pa-dps-god=10 |pa-dps-god-plus=10 |pa-dpp-normal=12 |pa-dpp-god=15 |pa-dpp-god-plus=15 |pa-remarks=* Recall PA.
+* Aero will send a projectile then return.
+* DoT lasts for 647f (10.8s).
+* Due to Industrious personality, this PA uses 7PP.
+* At L17 Trim version costs 15PP (20 PP with Dilligent)
+]]
+[[include component:pso2-pet-pa |pa-icon=PA-Torim-4|pa-name=Shouted Barrage (//Bullet//) |pa-damage=52657 |pa-pp=5 |pa-frame=42 |pa-dps-normal=13 |pa-dps-god=14 |pa-dps-god-plus=15 |pa-dpp-normal=20 |pa-dpp-god=22 |pa-dpp-god-plus=23 |pa-remarks=* Recall PA.
+* Use Bullet after Shout.
+* Regular and Shout DoT stacks, but it is hard to keep this stack.
+* Due to Industrious personality, this PA uses 7PP.
+* At L17 Trim version costs 15PP (20 PP with Dilligent)
+]]
+[[include component:pso2-pet-pa |pa-icon=PA-Torim-4|pa-name=Shout |pa-damage=14876 |pa-pp=20 |pa-frame=43 |pa-dps-normal=56 |pa-dps-god=76 |pa-dps-god-plus=81 |pa-dpp-normal=23 |pa-dpp-god=31 |pa-dpp-god-plus=33 |pa-remarks=* Small area attack.
+* Grants a 20s buff that enhances the power of Slash, Bullet, and Spiral.
+* Due to Industrious personality, this PA uses 26PP.
+*  At L17 Trim version costs 5PP (7PP with Dilligent)
+]]
+[[include component:pso2-pet-pa |pa-icon=PA-Torim-5|pa-name=Spiral |pa-damage=7749 |pa-pp=30 |pa-frame=63 |pa-dps-normal=20 |pa-dps-god=34 |pa-dps-god-plus=37 |pa-dpp-normal=9 |pa-dpp-god=14 |pa-dpp-god-plus=16 |pa-remarks=* **It is advised not to use this PA on its own and uncharged, use this PA after Shout buff and charge it for at least 2s.**
+* Charging increases power.
+* Due to Industrious personality, this PA uses 39PP.
+* At L17 Trim version costs 40PP (52PP with Dilligence)
+]]
+[[include component:pso2-pet-pa |pa-icon=PA-Torim-5|pa-name=Spiral Charge 1 |pa-damage=33931 |pa-pp=30 |pa-frame=162 |pa-dps-normal=34 |pa-dps-god=39 |pa-dps-god-plus=40 |pa-dpp-normal=36 |pa-dpp-god=41 |pa-dpp-god-plus=43 |pa-remarks=* **It is advised not to use this PA on its own, use this PA after Shout buff.**
+* Charge for 120f (2s).
+]]
+[[include component:pso2-pet-pa |pa-icon=PA-Torim-5|pa-name=Spiral Charge 2 |pa-damage=96929 |pa-pp=30 |pa-frame=350 |pa-dps-normal=45 |pa-dps-god=47 |pa-dps-god-plus=48 |pa-dpp-normal=101 |pa-dpp-god=107 |pa-dpp-god-plus=108 |pa-remarks=* **It is advised not to use this PA on its own, use this PA after Shout buff.**
+* Charge for 308f (5s).
+]]
+[[include component:pso2-pet-pa |pa-icon=PA-Torim-5|pa-name=Shouted Spiral Charge 1 |pa-damage=84784 |pa-pp=30 |pa-frame=162 |pa-dps-normal=84 |pa-dps-god=90 |pa-dps-god-plus=91 |pa-dpp-normal=89 |pa-dpp-god=95 |pa-dpp-god-plus=96 |pa-remarks=* Charge for 120f (2s) after Shout.
+* This is the minimum Charge level to use.
+]]
+[[include component:pso2-pet-pa |pa-icon=PA-Torim-5|pa-name=Shouted Spiral Charge 2 |pa-damage=242322 |pa-pp=30 |pa-frame=350 |pa-dps-normal=112 |pa-dps-god=114 |pa-dps-god-plus=115 |pa-dpp-normal=253 |pa-dpp-god=258 |pa-dpp-god-plus=260 |pa-remarks=* **This attack will be easily subjected to damage cap**
+* Charge for 308f (5s) after Shout.
+]]
+[[include component:pso2-pet-pa |pa-icon=NormalAttack|pa-name=Combo 1 |pa-damage=179399 |pa-pp=125 |pa-frame=394 |pa-dps-normal=73 |pa-dps-god=93 |pa-dps-god-plus=98 |pa-dpp-normal=45 |pa-dpp-god=57 |pa-dpp-god-plus=60 |pa-remarks=* Shouted Barrage (//Bullet//) - 8× Slam (//Stab//)
+* Due to Industrious personality, this combo uses 167 PP.
+]]
+[[include component:pso2-pet-pa |pa-icon=NormalAttack|pa-name=Combo 2 |pa-damage=247679 |pa-pp=48 |pa-frame=578 |pa-dps-normal=69 |pa-dps-god=74 |pa-dps-god-plus=75 |pa-dpp-normal=160 |pa-dpp-god=171 |pa-dpp-god-plus=173 |pa-remarks=* Shouted Barrage (//Bullet//) - Stab - 4× Shouted Slash
+* Due to Industrious personality, this combo uses 107 PP.
+* To attain it's 48PP usage or less (79PP or less with Industrious), you must jump immediately after using Shouted Slash. Otherwise, it will cost 80PP (107PP with Industrious).
+]]
+
+[[include component:pso2-pet-pa-notes]]

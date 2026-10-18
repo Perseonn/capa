@@ -1,0 +1,54 @@
+[[/div]]
+
+[[div class="col-xs-12 padding-t-0 padding-b-0"]]
+[[table class="wiki-content-table border-top-none border-bottom-none"]]
+[[row]]
+[[hcell class="border-top-none"]]
+Strength
+[[/hcell]]
+[[hcell class="border-top-none"]]
+Weakness
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell class="pros-cons-list pros w-50 border-bottom-none"]]
+{$pet-pros}
+[[/cell]]
+[[cell class="pros-cons-list cons w-50 border-bottom-none"]]
+{$pet-cons}
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="col-xs-12 padding-t-0"]]
+[[table class="wiki-content-table"]]
+[[row]]
+[[hcell]]
+Sweets Box / Candy Box
+[[/hcell]]
+[[hcell]]
+Recommended Sweets/Candy^^4^^
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/{$pet-box}Box.png class="w-100"]]
+[[/cell]]
+[[cell]]
+{$pet-box-candies}
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+
+[[/div]]
+
+
+[[div class="footnote"]]
+|| 1 || DPS: Damage Per Second, the higher the better. ||
+|| 2 || Normal Attack DPS Rating: The DPS rating of Normal Attacks. Hold is the DPS if you **hold** the normal attack button. Auto is the number if you let the pet attack freely. If only Hold exists, then the pet will do less if you don't hold the button. The number in bracket is the restored PP per second, disregarding natural PP regen.||
+|| 3 || Overall DPS Rating: The greater the number, the greater the pet's DPS potential is. This is calculated by using Glance of Darkness with Rykros Staff +30, during standard case scenario: Phantom sub, enemy is weak to pet's element, enemy isn't moving, a pair of 110% damage parfaits, using PA to deplete 200PP, then use Normal Attacks to get back 200PP (boosted natural PP regen and attack PP regen due to Phantom sub is calculated). ||
+|| 4 || Sweets in bold are currently what Manaka put on her pets. For more information about Sweets, see the [#recommended-candies Recommended Sweets] Section. ||
+[[/div]]

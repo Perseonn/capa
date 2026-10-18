@@ -1,0 +1,5 @@
+[[div class="footnote"]]
+|| 5 || GoD: Total DPS when using Glance of Darkness, the potential of Rykros Staff at +30 grind or more. Only applies to a single target. ||
+|| 6 || GoD Plus: Total DPS when using Glance of Darkness Plus, the Ultimate Booster potential of Rykros Staff at +30 grind or more. Only applies to a single target. ||
+|| 7 || Higher efficiency means lower PP consumption. An efficiency of 100 means you can sustain the attack for a long time. Remember that the most efficient attack doesn't mean that it will do decent DPS. ||
+[[/div]]

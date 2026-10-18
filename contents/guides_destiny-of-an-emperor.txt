@@ -153,7 +153,7 @@ Zhang Bao, Cheng Yuan Zhi ([https://koei.fandom.com/wiki/Cheng_Yuanzhi Cheng Yua
 Have Mi Zhe cast Wuo Jian at the beginning of the battle while your physical attackers go after Zhang Bao first with someone attacking the Rebel Force once to take it under 100 soldiers, on Mi Zhe's turns after cast Lian Huo on Cheng Yuan Zhi until you run out of TP and then take them out from top to bottom.
 * You can talk to the NPC's to learn where the final brother Zhang Jao ([https://koei.fandom.com/wiki/Zhang_Jiao Zhang Jiao]) is located.
 * Enter the big tent in the center and CHECK in the top right tile to get an Ax (A.P 20), give this to Zhang Fei and pass his Flail to Chen Deng and pass his Dagger to Mi Zhe.
-[[include image |image=http://capa.wikidot.com/local--files/guide:destiny-of-an-emperor/1-ax.png |ratio=nes |option=pixelate |title=The hidden Ax]]
+[[image 1-ax.png | The hidden Ax]]
 * Head back to Xu Zhou again to rest and save your progress, then leave and go South moving around the mountain side to reach Tia Man Xia.
 ++ Tia Man Xia
 **Boss**
@@ -201,7 +201,7 @@ Reduce each Rebel Force to be under 100 soldiers while you have either Mi Zhe or
 * The tent in the center is an Inn to heal up your soldiers and TP. Yang Jin is in the corner waiting to be recruited who you'll want as he's needed for another general we can recruit later.
 * The Northeast tent has a treasure chest which contains another Ax, you can give this to Yang Jin and pass Mi Zhe's gear over to him.
 * After rearranging your party leave Fan Shui Guan and make your way to Hu Lao Guan (Hu Lao Gate) by heading West, check the space 8 tiles West and 1 South of Fan Shui Guan to get Chi Tu Ma (Red Hare). You are told about this later so you can choose to take it or wait to be told about it, the character who has this in their inventory will have their agility boosted by 50% giving them better chances to go first in battle.
-[[include image |image=http://capa.wikidot.com/local--files/guide:destiny-of-an-emperor/2-cuituma.png |ratio=nes |option=pixelate |title=You're supposed to know about this later, but you can get it early.]]
+[[image 2-cuituma.png | You're supposed to know about this later, but you can get it early.]]
 * While heading West you will see a branching path North leading into a cave, I would save going here for after what we do at Hu Lao Guan rather than go there now so keep going to the West path that will lead to Hu Lao Guan. If you happen to met Hua Xiong in battle try to recruit him.
 ++ Hu Lao Guan
 **Boss**
@@ -212,7 +212,7 @@ You should learn Qi Shou which is a special tactic, which increases the agility 
 
 * The NPC's here give clues on how to get Lu Bu to defect to your side as well as Cao Cao being around in one of the tents.
 * The tent East of the main tent with Cao Cao has a set of 3 pots check the top left pot for another Ax which should be your 5th and last one for the entire party.
-[[include image |image=http://capa.wikidot.com/local--files/guide:destiny-of-an-emperor/3-ax.png |ratio=nes |option=pixelate |title=The last Ax you should need.]]
+[[image 3-ax.png | The last Ax you should need.]]
 * Huo Hu is at the Southeast waiting to be recruited, he has the higher INT than Chen Deng/Mi Zhu and should be made your tactician. I would advise heading back to Xu Zhou so you can drop off Mi Zhe & Chen Deng, also to sell excess gear you don't need and buy a Steed from the Merchant. Some generals you recruit may ask for an especially good horse which will make them join if you have this in someone's inventory, also the price in gold they would ask is much higher than what a Steed costs. You may also want to get 2 Leather's from the Armory, if you have enough for a third that's fine to.
 * Rest up and save your game then return back to Fan Shui Guan. If you remember the cave I said to save for later go in there now, though make sure you get a random battle before you go in to make sure you get Chapter 2 enemies inside.
 ++ Northern Cave
@@ -252,7 +252,7 @@ When Lu Bu joins your side he will give you the clue to finding Cui Tu Ma from F
 || Resurrect || Revive dead generals. || 100 ||
 || Gullwing || Transport to certain castles. || 200 ||
 * The house East of the Merchant is the Historian. Inside the house at the South end near the water has a Club (A.P 30) if you search the tile above the jar, equip it to Hua Xiong and sell his Ax at the Merchant.
-[[include image |image=http://capa.wikidot.com/local--files/guide:destiny-of-an-emperor/4-club.png |ratio=nes |option=pixelate |title=A secret Club to bludgeon enemies with.]]
+[[image 4-club.png | A secret Club to bludgeon enemies with.]]
 * The palace on the Southeast may seem empty with no one on the throne, but there is a passage to the East which leads to a small room with Cao Cao and the Emperor inside.
 * At the Historian save your game and reload your save so you have a free trip back to Xu Zhou to drop off Hua Xiong and get Lu Bu into your party immediately after to keep the gear from Hua Xiong equipped to Lu Bu if you recruited him, and also drop off Wang Gui.
 * Make your way back to Fan Sui Guan to get Chi Tu Ma if you didn't already then go all the way back to Yang Zhou to continue towards Chang An.

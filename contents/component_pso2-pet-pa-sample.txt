@@ -1,0 +1,256 @@
+[[div class="container"]]
+
+++ Pet Table
+[[div class="row pet-pa-table"]]
+
+[[div class="col-xs-12"]]
+[[table class="wiki-content-table"]]
+[[row]]
+[[hcell rowspan="4" class="text-center"]]
+[[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/PetWandaIcon.png class="icon-144px"]]
+[[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/PetJingaIcon.png class="icon-144px"]]
+[[/hcell]]
+[[hcell colspan="3"]]
+Wanda / Jinga
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell colspan="3"]]
+A pet without real weakness, dubbed "Almighty Pet" in Japan. They have a rather efficient PP usage (even more efficient on Wanda), solid DPS, powerful normal attacks, high HP, high defense, and easy to use PAs. When in doubt of what pet to use, Wanda or Jinga is never a wrong choice.
+
+14★ Wanda is more durable with higher HP and Def. 14★ Jinga has higher ATK and upgraded Jinga Assault, having a wider attack area and higher multiplier.
+
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[hcell]]
+Stun Timer
+[[/hcell]]
+[[hcell]]
+Normal Attack DPS Rating
+[[/hcell]]
+[[hcell]]
+Best DPS Rating
+[[/hcell]]
+[[/row]]
+
+[[row]]
+[[cell]]
+30s (Wanda)
+15s (Jinga)
+[[/cell]]
+[[cell]]
+20-33
+[[/cell]]
+[[cell]]
+108
+[[/cell]]
+[[/row]]
+
+[[/table]]
+[[/div]]
+
+[[div class="col-xs-12"]]
+||~ Personality ||~ Description ||
+|| [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]]Enjoys Sun (晴れ好き) || 112% damage during clear weather, does not work on EQs. Preferable if you use Jinga on regular quests. ||
+|| [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]]Fervent (こんじょう) || Small chance to endure damage that would otherwise killed it. Gains invulnerability when activated. Preferable on EQs, although Jinga itself is not easy to KO. ||
+|| [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]]Powerful (パワフル) || 14★ only. Combines the effect of Enjoys Sun and Fervent, as well as having increased rare item drop rate. ||
+[[/div]]
+
+[[div class="col-xs-12"]]
+[[table class="wiki-content-table"]]
+[[row]]
+[[hcell]]
+Pros
+[[/hcell]]
+[[hcell]]
+Cons
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell class="pros-cons-list pros w-50"]]
+* Suitable for all player skills
+* All-purpose pet
+* High ATK
+* High DEF
+* High-powered normal attacks
+* Has an area attack that Stuns
+* Has a knockdown attack
+* Efficient PP usage
+* Normal attack has a big hitbox
+* Jinga recovers fast from stun
+[[/cell]]
+[[cell class="pros-cons-list cons w-50"]]
+* None
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="col-xs-12"]]
+[[table class="wiki-content-table"]]
+[[row]]
+[[hcell]]
+Candy Box
+[[/hcell]]
+[[hcell]]
+Recommended Candies
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/WandaBox.png class="w-100"]]
+[[/cell]]
+[[cell]]
+* 1 3-Layer Pancake
+* 1 2-Layer Pancake
+* 1 Deadly Parfait
+* 1 Exquisite Deadly Parfait or 1 Super Megaton Parfait　or 1 Super Vigilant Parfait
+* 2 Support Rolls
+* 2 Critical Candy Sticks
+* 2 Vin-Spi Candy Sticks
+* 2 Spirita Cookies
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+
+[[div class="col-xs-12 pet-pa-table-legend"]]
+* DPS: Damage Per Second, the higher the better
+* Normal Attack DPS Rating: The DPS rating of Normal Attacks, notated in A-B. A is the DPS if you **hold** the normal attack button, B is the number if you let the pet attack freely.
+* Overall DPS Rating: DPS rating when using Glance of Darkness with Rykros Staff +30, during best case scenario.
+[[/div]]
+
+[[/div]]
+
+++ PA Table
+
+[[div class="row pet-pa-table"]]
+
+[[div class="col-xs-12"]]
+[[table class="wiki-content-table"]]
+[[row]]
+[[hcell rowspan="2" class="text-center"]]
+[[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/PA-Wanda-1.png class="icon-144px pixelate"]]
+[[/hcell]]
+[[hcell]]
+Slicer
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell]]
+* A two-hit attack, mind the timing between 2 attacks.
+* You can Jump after inputting the command for additional PP regen.
+* At L17 Wanda version costs 10 PP, and is 3.73% weaker (only 2.64% with GOD).
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+[[div class="col-xs-4 pet-pa-table-sub"]]
+||||~ Basic Info ||
+|| Damage || 6040 ||
+|| PP || 15 ||
+|| Frame || 68 ||
+[[/div]]
+
+[[div class="col-xs-4 pet-pa-table-sub"]]
+||||~ Damage Per Second Rating ||
+|| Normal || 61 ||
+|| [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Potential.png class="weapon-potential"]] GoD || 87 ||
+|| [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Potential.png class="weapon-potential"]] GoD Plus || 93 ||
+[[/div]]
+
+[[div class="col-xs-4 pet-pa-table-sub"]]
+||||~ Efficiency Rating ||
+|| Normal || 73 ||
+|| [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Potential.png class="weapon-potential"]] GoD  || 105 ||
+|| [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Potential.png class="weapon-potential"]] GoD Plus || 112 ||
+[[/div]]
+
+[[/div]]
+
+[[div class="col-xs-12 pet-pa-table-legend"]]
+* GoD: Requires Glance of Darkness, the potential of Rykros Staff at +30 grind or more.
+* GoD Plus: Requires Glance of Darkness Plus, the Ultimate Booster potential of Rykros Staff at +30 grind or more.
+* Efficiency of 100 means the PA can inflict 1M damage without PP dropping to 50.
+[[/div]]
+
+
+
+[[/div]]
+
+[[module css]]
+.pet-personality, .weapon-potential{
+    margin-right: 0.2rem;
+    margin-top: -0.6rem;
+    height: 1.20rem;
+}
+.pet-skill, .skill-icon, .tech-icon{
+    max-height: 2em;
+}
+.pet-icon, .weapon-icon, .item-icon{
+    max-height: 4em;
+}
+
+.nowrap{
+    white-space: nowrap;
+}
+
+.cell-cont{
+    display: table-row;
+    background: var(--color-generic-block);
+    border: 2px solid white;
+    font-size: calc(var(--base-font-size) * 0.9);
+}
+.cell-icon,
+.cell-desc {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 4px;
+}
+
+.pet-pa-table .wiki-content-table {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.pet-pa-table .wiki-content-table th.text-center {
+	text-align:center;
+}
+
+.pet-pa-table-legend{
+	font-size: calc(var(--base-font-size) * 0.9);
+	line-height: calc(var(--base-line-height) * 0.6);
+}
+
+.pixelate{
+	image-rendering: pixelated;
+}
+
+.icon-144px{
+	height: 114px;
+}
+
+.pros-cons-list ul {
+	list-style: none;
+	-webkit-padding-start: 0;
+}
+
+.pros-cons-list.pros ul li:before {
+	content: "\f067";
+}
+
+.pros-cons-list.cons ul li:before {
+	content: "\f068";
+}
+
+.pros-cons-list ul li:before {
+	font-family: "FontAwesome";
+	margin-right: 0.5rem;
+	font-size: calc(var(--base-font-size) * 0.9);
+}
+
+[[/module]]

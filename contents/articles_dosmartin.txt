@@ -1,4 +1,4 @@
-@title: Rose and Camellia Review
+@title: Martin and His WordStar 4.0
 @author: Perseonn Balthasaar
 @updated: 2014-05-19
 
@@ -9,14 +9,14 @@ The articles are from [http://www.eteknix.com/george-r-r-martin-uses-dos-pc-with
 +  Martin and WordStar 4.0
 If you do not know what a WordStar 4.0 is, you can read the article from [http://en.wikipedia.org/wiki/WordStar Wikipedia]. The interface is as follow:
 
-[[include common:image-css |ratio=16x9 |image=http://capa.wikidot.com/local--files/article:dosmartin/ws4hello.png |title=Very primitive.]]
+[[image ws4hello.png | Very primitive.]]
 
 I remember the program fully during my 90s computer class, thus are very aware of how the program works. This making  Martin's response, during interview with Conan O'Brien, weird. Martin said:
 > I hate spell-check, yes.
 
 WordStar 4.0 did come with spell-checking options. The command is even visible on the UI.
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:dosmartin/ws4spell.png |title=That two.]]
+[[image ws4spell.png | That two.]]
 
 
 So if he hates spellcheck, why he still bother using WordStar 4.0? When he was asked the reason for using WordStar, he said:
@@ -24,13 +24,13 @@ So if he hates spellcheck, why he still bother using WordStar 4.0? When he was a
 That does not make any sense. If all he does not like is the autocorrect function, why won't he just disable them? Or just use Notepad?
 
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:dosmartin/notepad.png |title=This program. Much cleaner than WordStar 4.0.]]
+[[image notepad.png | This program. Much cleaner than WordStar 4.0.]]
 
 
 : **Argument** : //Notepad cannot do Bold, Italic, or Underline!// _
 Just use freaking Wordpad.
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:dosmartin/wordpad.png |title=And this is an included program within Windows.]]
+[[image wordpad.png | And this is an included program within Windows.]]
 
 
 Although a minimum rich text word processor, Wordpad offers far higher advantage over WordStar 4.0.
@@ -51,7 +51,7 @@ How recent can an 80s PC read a hard disk? Due to the compatibility between file
 Martin does not publish //A Song of Ice and Fire//. Bantam Books did that. If the script really was made using WordStar 4.0, **how can the editor edit and print it?** To give you a better image, let's see the following comparison:
 
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:dosmartin/ws4hippo1.png |title=A bit werid, but otherwise normal.]]
+[[image ws4hippo1.png | A bit werid, but otherwise normal.]]
 
 
 This is the first paragraph of [http://en.wikipedia.org/wiki/Hippopotamus Hippopotamus] article from Wikipedia that I directly type to the program. You can see that the word "Hippopotamus" has a markup that appears as "{{^B}}", this is a bold markup. On the top-left of the screen you can see the file name, {{HIPPO.TXT}}. To clarify, WordStar does not have a standard file format, I just add the {{txt}} for easier opening in Windows.
@@ -59,7 +59,7 @@ This is the first paragraph of [http://en.wikipedia.org/wiki/Hippopotamus Hippop
 Next, I open the file on my preferred text editor, Notepad++:
 
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:dosmartin/npphippo1.png |title=You deserve a prize if you can edit that text without looking at the source text, and without losing your sanity.]]
+[[image npphippo1.png | You deserve a prize if you can edit that text without looking at the source text, and without losing your sanity.]]
 
 
 In other words, **files created in WordStar 4.0 are not compatible with standard text file**.
@@ -67,25 +67,25 @@ In other words, **files created in WordStar 4.0 are not compatible with standard
 Next comparison is using a {{SHIPPO.TXT}} file that I created in windows and edited in Notepad. I filled this file with the text from the same article:
 
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:dosmartin/npphippo2a.png |title=Very normal.]]
+[[image npphippo2a.png | Very normal.]]
 
 
 Then, I opened the file on WordStar:
 
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:dosmartin/ws4hippo2a.png |title=Also normal.]]
+[[image ws4hippo2a.png | Also normal.]]
 
 
 Then, I saved the file in WordStar and opened it on Notepad++:
 
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:dosmartin/npphippo2b.png |title=Quite normal.]]
+[[image npphippo2b.png | Quite normal.]]
 
 
 There's many unknown character added to the end of file. Take note that each line on these files are created manually using the {{Enter}} button, not the result of WordWrap. In case of the first file, {{HIPPO.TXT}}, WordStar automatically adds a [http://en.wikipedia.org/wiki/Newline Newline character], so it appears as a justified text. To better understand it, here's the second file, {{SHIPPO.TXT}}, opened in WordPad:
 
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:dosmartin/wphippo2a.png |title=Do I have to reconnect all that line?]]
+[[image wphippo2a.png | Do I have to reconnect all that line?]]
 
 
 Can you imagine how many lines that must be fixed so the whole text look tidy and ready to print? This is only one paragraph. What if there's one book worth of text that needs treatment like this. **Martin's editor must be very patient**.
@@ -110,7 +110,7 @@ Saya kira 2011 adalah tahun dimana dia tahu tentang MS-DOS? Tapi saya tidak akan
 Jika anda belum mengetahui seperti apa itu WordStar 4.0, anda bisa membaca artikelnya di [http://en.wikipedia.org/wiki/WordStar Wikipedia]. Singkatnya, tampilannya seperti ini:
 
 
-[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:dosmartin/ws4hello.png |title=Amat Primitif.]]
+[[image ws4hello.png | Amat Primitif.]]
 
 
 Dalam wawancaranya dengan Conan O'Brien, Martin berkata:
@@ -118,7 +118,7 @@ Dalam wawancaranya dengan Conan O'Brien, Martin berkata:
 Apakah Martin tahu bahwa WordStar 4.0 memiliki fungsi spell-check?
 
 
-[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:dosmartin/ws4spell.png |title=Yang itu.]]
+[[image ws4spell.png | Yang itu.]]
 
 
 Ketika ditanya alasan mengapa Martin menggunakan WordStar, ia berkata:
@@ -126,13 +126,13 @@ Ketika ditanya alasan mengapa Martin menggunakan WordStar, ia berkata:
 Jadi, apa alasannya dia pakai WordStar 4.0? Bukankah Notepad juga merupakan pengolah kata yang tidak melakukan hal lain? Bukankah Notepad tidak memiliki fungsi autocorrect?
 
 
-[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:dosmartin/notepad.png |title=Lebih bersih dari WordStar.]]
+[[imagenotepad.png | Lebih bersih dari WordStar.]]
 
 
 Jikalau ada dari Anda yang berargumen bahwa Notepad tidak bisa melakukan bold, italic, underline, bagaimana dengan Wordpad?
 
 
-[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:dosmartin/wordpad.png |title=Ini bawaan Windows, loh.]]
+[[imagewordpad.png | Ini bawaan Windows, loh.]]
 
 
 + Implikasi Penggunaaan WordStar 4.0
@@ -148,7 +148,7 @@ Sebaru apa harddisk yang bisa di pasang di PC tahun 1980an? Kalau mau harddisk t
 Martin tidak menerbikan //A Song of Ice and Fire//. Bantam Books yang menerbitkannya. Jika naskah memang dibuat dengan WordStar 4.0, **bagaimana menyunting dan mencetak naskah tersebut**? Mari kita lihat perbandingan berikut ini.
 
 
-[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:dosmartin/ws4hippo1.png |title=Tampak ada yang aneh?]]
+[[imagews4hippo1.png | Tampak ada yang aneh?]]
 
 
 Ini adalah paragraf pertama dari artikel [http://en.wikipedia.org/wiki/Hippopotamus Hippopotamus] dari Wikipedia yang saya ketik ulang. Pada gambar di atas, kata "Hippopotamus" dicetak tebal dan terlihat seperti {{^BHippopotamus^B}}. Ini adalah penanda umum di WordStar. Untungnya, penanda ini bisa disembunyikan. Terlihat di kiri atas, nama berkas ini adalah {{HIPPO.TXT}}. Sebagai catatan, {{txt}} bukanlah ekstensi standar WordStar, saya hanya menambahkan saja. WordStar sendiri tidak memiliki standar ekstensi berkas.
@@ -156,7 +156,7 @@ Ini adalah paragraf pertama dari artikel [http://en.wikipedia.org/wiki/Hippopota
 Berikutnya berkas ini saya buka di Notepad++:
 
 
-[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:dosmartin/npphippo1.png |title=Sumpah cuma saya buka.]]
+[[imagenpphippo1.png | Sumpah cuma saya buka.]]
 
 
 Anda layak dapat bintang jika Anda bisa mengedit tulisan tersebut tanpa melihat sumbernya. Ini tanda bahwa **berkas yang dibuat di WordStar 4.0 tidak bisa dibuka dengan benar di luar program.**
@@ -164,19 +164,19 @@ Anda layak dapat bintang jika Anda bisa mengedit tulisan tersebut tanpa melihat 
 Perbandingan berikutnya adalah menggunakan file {{txt}} yang saya buat di Windows, kemudian di edit di Notepad. Berkas ini saya isi dengan kopi paragraf pertama dari artikel yang sama. Berikut tampilannya di Notepad++:
 
 
-[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:dosmartin/npphippo2a.png |title=Tampak normal.]]
+[[imagenpphippo2a.png | Tampak normal.]]
 
 
 Berkas ini kemudian saya buka di WordStar 4.0. Hasilnya sebagai berikut:
 
 
-[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:dosmartin/ws4hippo2a.png |title=Tampak normal juga.]]
+[[imagews4hippo2a.png | Tampak normal juga.]]
 
 
 Selain spasi yang berbeda, tulisan tampilan berkas ini di Notepad++ dan WordStar 4.0 sama. Sekarang berkas ini saya simpan di WordStar 4.0 dan saya buka di Notepad++. Hasilnya sebagai berikut:
 
 
-[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:dosmartin/npphippo2b.png |title=Tampak normal?]]
+[[imagenpphippo2b.png | Tampak normal?]]
 
 
 Tulisan sama sekali tidak berubah, hanya ada tambahan karakter di akhir file. Perlu diingat bahwa tiap baris pada berkas yang dibuat oleh WordStar 4.0 maupun Notepad, bukan baris hasil dari fungsi word-wrap. Baris tersebut dipisahkan oleh [http://en.wikipedia.org/wiki/Newline karakter Newline], yang nama lainnya adalah linefeed ({{LF}}), mungkin Anda lebih kenal jika anda menekan tombol {{Enter}} saat mengetik di Microsoft Word.
@@ -184,7 +184,7 @@ Tulisan sama sekali tidak berubah, hanya ada tambahan karakter di akhir file. Pe
 Agar ada sedikit gambaran, berikut tampilan berkas yang dibuat di Notepad dan dibuka di Wordpad:
 
 
-[[include common:image-css |ratio=4x3 |image=http://capa.wikidot.com/local--files/article:dosmartin/wphippo2a.png |title=Tampilan teks yang sama di WordPad.]]
+[[imagewphippo2a.png | Tampilan teks yang sama di WordPad.]]
 
 
 Terbayang berapa banyak baris yang harus dibetulkan agar terlihat rapi dan siap cetak? Itu baru satu paragraf, bagaimana kalau satu buku? **Siapapun editornya Martin, orangnya pasti sangat sabar.**

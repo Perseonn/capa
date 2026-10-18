@@ -53,15 +53,13 @@ D046DC72 0000????
 || 0020 || Right ||
 || 0040 || Down ||
 || 0080 || Left ||
-[[include :fiction:common:alert |text=To use a combination of buttons instead of one single button, simply add all the buttons digits together (set to programmer HEX mode in calculator). Example, to use square + L3, add up: 8000 + 0002 = 8002. Subtract FFFF with this number: FFFF - 8002 = 7FFD.]]
+[[xinclude :fiction:common:alert |text=To use a combination of buttons instead of one single button, simply add all the buttons digits together (set to programmer HEX mode in calculator). Example, to use square + L3, add up: 8000 + 0002 = 8002. Subtract FFFF with this number: FFFF - 8002 = 7FFD.]]
 
 
 + Character Modifications
 ++ Play As Modifications
 Play as modifiers allows you to change your current character to any character available in the game. It will even let you play as Night Terror, Chronicles of the Sword characters, as well as other unplayables such as Colossus.
-[[include common:image-css
-|image=http://capa.wikidot.com/local--files/game:soulcalibur3/nightterror.jpg
-|title=Night Terror in Survival]]
+[[image nightterror.jpg| Night Terror in Survival]]
 
 **Player 1 Character Modifier**
 104B4860 000000??
@@ -90,7 +88,7 @@ Replace Character Modifier ?? with the Character Modifier Digits below.
 || 09 || Color Edit 2 ||
 || 16 || Extra Color Edit 1 ||
 || 17 || Extra Color Edit 2 ||
-[[include :fiction:common:alert |type=warning |icon=warning |text=Costume 3 to 8 only works on certain character digits. Refer to the Character Modifier Digits below. Other than listed, the game will crash. Color Edits only work on standard characters.]]
+[[xinclude :fiction:common:alert |type=warning |icon=warning |text=Costume 3 to 8 only works on certain character digits. Refer to the Character Modifier Digits below. Other than listed, the game will crash. Color Edits only work on standard characters.]]
 
 
 ||~ Hex ||||||||||||||||~ Costume ||||
@@ -230,9 +228,7 @@ Replace Character Modifier ?? with the Character Modifier Digits below.
 || [[size 65%]]EF[[/size]] || [[size 65%]]Ende[[/size]] || [[size 65%]]Ende (?)[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]<#Crash>[[/size]] ||
 
 ++ Color Modifications
-[[include common:image-css
-|image=http://capa.wikidot.com/local--files/game:soulcalibur3/standardcolorchange.jpg
-|title=Cassandra with Color Restriction Remover, showing skin-colored stockings]]
+[[image standardcolorchange.jpg| Cassandra with Color Restriction Remover, showing skin-colored stockings]]
 
 
 **Universal Color Palette Changer**
@@ -240,21 +236,19 @@ Replace Character Modifier ?? with the Character Modifier Digits below.
 This code changes all color palette to a secret palette that will allow you to:
 # Freely alter your custom character's underwear/underclothing color to most available colors on the standard color palette (including skin tones).
 # Use a set of new, multi shaded, and brighter colors for most clothing items. This also works on standard characters, though results are not till you exit.
-[[include :fiction:common:alert |type=warning |icon=warning |text=This code has very limited usage. It will screw up your current character's colors (rectifiable, at many times), and the individual shade colors on multi-shaded effect cannot be edited.]]
+[[xinclude :fiction:common:alert |type=warning |icon=warning |text=This code has very limited usage. It will screw up your current character's colors (rectifiable, at many times), and the individual shade colors on multi-shaded effect cannot be edited.]]
 
 **Standard Characters Color Restriction Remover**
 202D8E70 3C014000
 202D8E78 44817000
 Code that allows coloring all restricted parts in Standard Character Color Edit to skin tone or any other color. This will manipulate standard characters only.
-[[include :fiction:common:alert |type=warning |icon=warning |text=Coloring hair a bright color may have a side effect that changes the character's face skin color, either leaving the hair color at default or color it to a dark or white color is recommended when using this code.]]
+[[xinclude :fiction:common:alert |type=warning |icon=warning |text=Coloring hair a bright color may have a side effect that changes the character's face skin color, either leaving the hair color at default or color it to a dark or white color is recommended when using this code.]]
 
 + Moveset & Weapon Modifications
 ++ Weapon Swipe Color
 Activate character modifier code while in battle to get the desired swipe color.
 
-[[include common:image-css
-|image=http://capa.wikidot.com/local--files/game:soulcalibur3/swipecolor.jpg
-|title=Spica (left) using Cherry Blossom swipe and Sleipial (right) using Pink swipe.]]
+[[image swipecolor.jpg| Spica (left) using Cherry Blossom swipe and Sleipial (right) using Pink swipe.]]
 
 
 ||~ Color ||~ Character/Digit ||
@@ -275,9 +269,7 @@ Activate character modifier code while in battle to get the desired swipe color.
 ++ Moveset Modifications
 Moveset modifiers changes the moveset of your current character to another moveset. This is useful for CaS Profile and Weapon Exhibition.
 
-[[include common:image-css
-|image=http://capa.wikidot.com/local--files/game:soulcalibur3/movesetmod.jpg
-|title=Siegfried using Mitsurugi moveset and Nightmare using Setsuka's moveset.]]
+[[image movesetmod.jpg| Siegfried using Mitsurugi moveset and Nightmare using Setsuka's moveset.]]
 
 **Player 1 Moveset Modifier**
 <Joker Command>
@@ -289,17 +281,15 @@ Moveset modifiers changes the moveset of your current character to another moves
 
 Replace ?? with any Character Modifier Digits listed above.
 
-[[include :fiction:common:alert |text=Setting to 26 or 27 will not get you Abyss' or Night Terror's movesets. To obtain their movesets, you must use the character modifier of Abyss and Night Terror, then activate them while using Soul of Zasalamel and Soul of Nightmare, respectively. Some aspect of their moveset won't work well unless you also use Abyss/Night Terror weapon. To obtain Olcadan's moveset and properties (i.e. changing move every round, special taunt, special weapon demonstration), activate his character modifier while using any of regular character's moveset.]]
+[[xinclude :fiction:common:alert |text=Setting to 26 or 27 will not get you Abyss' or Night Terror's movesets. To obtain their movesets, you must use the character modifier of Abyss and Night Terror, then activate them while using Soul of Zasalamel and Soul of Nightmare, respectively. Some aspect of their moveset won't work well unless you also use Abyss/Night Terror weapon. To obtain Olcadan's moveset and properties (i.e. changing move every round, special taunt, special weapon demonstration), activate his character modifier while using any of regular character's moveset.]]
 
-[[include :fiction:common:alert |text=When using Abyss, Night Terror, and Olcadan's moveset, your swipe color will be fixed to the respective characters.]]
+[[xinclude :fiction:common:alert |text=When using Abyss, Night Terror, and Olcadan's moveset, your swipe color will be fixed to the respective characters.]]
 
 
 ++ Weapon Modifications
 Weapon modifier allows you to change the weapon of your current character with a desired different one. A special master code is required for this to fully work.
 
-[[include common:image-css
-|image=http://capa.wikidot.com/local--files/game:soulcalibur3/weaponmod.jpg
-|title=Nightmare using Night Terror's weapon.]]
+[[image weaponmod.jpg| Nightmare using Night Terror's weapon.]]
 
 **Weapon Modifier Master Code**
 204479B4 0803FFD0
@@ -321,9 +311,9 @@ Weapon modifier allows you to change the weapon of your current character with a
 
 Replace ?? with any Character Modifier Digits listed above.
 
-[[include :fiction:common:alert |text=The only purpose of using this code is to make Soul of Night Terror and Soul of Abyss fully functional. Otherwise, using this code also forces you to use the respective moveset.]]
+[[xinclude :fiction:common:alert |text=The only purpose of using this code is to make Soul of Night Terror and Soul of Abyss fully functional. Otherwise, using this code also forces you to use the respective moveset.]]
 
-[[include :fiction:common:alert |type=warning |icon=warning |text=Using Olcadan's weapon could crash the game.]]
+[[xinclude :fiction:common:alert |type=warning |icon=warning |text=Using Olcadan's weapon could crash the game.]]
 
 
 + Camera Limitation Release
@@ -358,9 +348,7 @@ These codes will remove all limits of the camera during specified mode. Take not
 + Stage Modification
 Allows you to play in a certain stage or an arena that's otherwise impossible to play in (e.g. ending scenery).
 
-[[include common:image-css
-|image=http://capa.wikidot.com/local--files/game:soulcalibur3/stagemod.jpg
-|title=Custom Assassin vs. Lizardmen in Badlands stage.
+[[image stagemod.jpg| Custom Assassin vs. Lizardmen in Badlands stage.
 ]]
 
 
@@ -416,13 +404,13 @@ Allows you to play in a certain stage or an arena that's otherwise impossible to
 || 32 || Soul Calibur III logo ||
 || 33 || Character creation background ||
 
-[[include :fiction:common:alert |type=warning |icon=warning |text=If used without Joker Command, the code will also replace the intro screen, menu screen, and character creation background.]]
+[[xinclude :fiction:common:alert |type=warning |icon=warning |text=If used without Joker Command, the code will also replace the intro screen, menu screen, and character creation background.]]
 
-[[include :fiction:common:alert |type=danger |icon=warning |text=Digits unlisted will cause game freeze.]]
+[[xinclude :fiction:common:alert |type=danger |icon=warning |text=Digits unlisted will cause game freeze.]]
 
-[[include :fiction:common:alert |type=warning |icon=warning |text=<Camera!> indicates the stage is hard to navigate due to camera problem.]]
+[[xinclude :fiction:common:alert |type=warning |icon=warning |text=<Camera!> indicates the stage is hard to navigate due to camera problem.]]
 
-[[include :fiction:common:alert |type=danger |icon=warning |text=<Crash!> indicates the stage will crash the game if you attempt to do battles. They can still work on title screen.]]
+[[xinclude :fiction:common:alert |type=danger |icon=warning |text=<Crash!> indicates the stage will crash the game if you attempt to do battles. They can still work on title screen.]]
 
 ++ How to use Stage Modifier with Joker Command
 To ensure this code works for all stages is to use it with a joker command.
@@ -435,7 +423,7 @@ To ensure this code works for all stages is to use it with a joker command.
 004ED650 0000000?
 Only works on certain stages that have variants like Egyptian Temple, Eurydice Shrine, Lakeside Coliseum, and Grand Labyrinth. At normal, the value is 0. Change it to 1 or 2 will enable the stage variations.
 
-[[include :fiction:common:alert |type=warning |icon=warning |text=If used on stage without variation, you will end up in Highlands.]]
+[[xinclude :fiction:common:alert |type=warning |icon=warning |text=If used on stage without variation, you will end up in Highlands.]]
 
 
 + Miscellaneous Codes
@@ -594,7 +582,7 @@ Some examples (decimal):
 + CaS Profile & Weapon Exhibition Guide
 You can have your own CaS in Profile and Weapon Exhibition with a usage of several modification codes and some light tinkering. Shown below is Spica (Tamborine) Weapon Demonstration using Xianghua's moveset.
 
-[[include :fiction:common:video |video-id=U7Q3pHI7HZI]]
+[[youtube U7Q3pHI7HZI]]
 
 First set up a Character Modifier along with a Joker Command. For digits you use 60 for Memory Card 1 slot 1, or 61 for Memory Card 1 Slot 2.
 
@@ -625,7 +613,7 @@ Several non-souls discipline has poses. Most of them are victory pose. Disciplin
 + CaS Ending Guide
 Swapping out standard characters in endings and swapping them with CaS is possible, this is also true with standard character events. However, it is very difficult to execute with joker commands. In this guide I will be focusing on how to place up to 4 CaS in standard character's endings. Shown below is the "Memory of Spica".
 
-[[include :fiction:common:video |video-id=-JtIC3r4QuQ]]
+[[youtube -JtIC3r4QuQ]]
 
 **Before you start attempting**
 * Use only the Character Modifier (Play As) codes. Using other modifiers such as moveset and/or weapon will guarantee to mess up the ending sequence.

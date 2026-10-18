@@ -1,0 +1,88 @@
+[[include component:pso2-pet-profile-1]]
+[[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/PetMelonIcon.png class="w-100"]]
+[[include component:pso2-pet-profile-2
+|pet-name=Melon
+|pet-description=Marron's counterpart, similar PAs with different Strike mechanic. Melon has lowest HP among all pets, but highest defense among all. Hold the Strike PA button after throwing melon to catch it back.
+
+Melon size's stage is reached faster, needing only 1 hit for 2nd Stage and 2 hits for 3rd Stage. Melon will revert to 1st Stage after spending 15 seconds on 3rd Stage, instead of blowing up the player. 
+
+A ★14 Melon will have 5000 MEL Def (//S-DEF//), along with 300 more Pwr compared to Maron.
+|pet-stun-timer=20s
+|pet-normal-dps=Hold: 22 (15.0 PP/s)
+Auto: 26 (12.3 PP/s)
+|pet-overall-dps=98 (Curse-Break-Strike)
+]]
+||~ Personality ||~ Description ||
+|| [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]]Underdog (逆境 //Adverse//) || 117% damage if HP drops below 25%. This is not activated during Melon Strike, unless Melon's HP is below 25% when using. ||
+|| [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]]Indefatigable (やせ我慢 //Fierce//) || A chance to recover 18% of max HP when taking damage. This is preferred to keep Melon on the defensive side. ||
+|| [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]]//Cute// (キュート) || ★14 only. Combines Underdog and Indefatigable, as well as having increased rare item drop rate.||
+[[include component:pso2-pet-profile-3
+|pet-pros=* Suitable against aggressive bosses
+* High Pwr
+* Highest Def
+* Has 5000 MEL Def at L130, reducing almost any Melee (//Strike//) damage to 1.
+* Can shield character from damage
+* High PP regain from normal attack
+* Has a high-powered DoT attack
+* Has a bouncing homing attack
+* Recovers quickly from stun
+|pet-cons=* Lowest HP
+* Not much use outside fighting boss
+* Somewhat not aggressive, despite being a melee pet
+|pet-box=Melon
+|pet-box-candies=* 1 Triple Stack Pancake (//3-Layer Pancake//)
+* 1 Double Stack Pancake (//2-Layer Pancake//)
+* Parfait choice:
+ * **//1 Exquisite Deadly Parfait//**
+ * 1 Deadly Parfait
+ * **//1 Super Megaton Parfait//**
+ * 1 Megaton Parfait
+* 1 Support Roll
+* 1 Steadfast Roll
+* 2 Critical Canes (//Critical Candy Sticks//)
+* 2 Vinculum Spir Canes (//Vin-Spi Candy Sticks//)
+* 1 Genius Sandwich (//Mind Sandwiches//)
+* Cookie choice:
+ * **//3 Tech-Spi Cookies//**
+ * 3 Casting Cookies (//Tech Cookies//)
+ * 3 Spirit Cookies (//Spirita Cookies//)
+]]
+
+
++++* Photon Arts / Combo
+[[include component:pso2-pet-pa |pa-icon=PA-Maron-1|pa-name=Strike 1 |pa-damage=12147 |pa-pp=10 |pa-frame=59 |pa-dps-normal=33 |pa-dps-god=33 |pa-dps-god-plus=33 |pa-dpp-normal=50 |pa-dpp-god=50 |pa-dpp-god-plus=50 |pa-remarks=* Stuns enemy.
+* Hold PA button to delay the throw.
+* Hold PA button after throwing to catch Melon.
+* Uncaught melon will be stunned.
+* This PA isn't affected by Glance of Darkness
+]]
+[[include component:pso2-pet-pa |pa-icon=PA-Maron-1|pa-name=Strike 2 |pa-damage=24293 |pa-pp=10 |pa-frame=59 |pa-dps-normal=66 |pa-dps-god=66 |pa-dps-god-plus=66 |pa-dpp-normal=101 |pa-dpp-god=101 |pa-dpp-god-plus=101 |pa-remarks=* Requires Melon to take 1 hit.
+* This PA isn't affected by Glance of Darkness
+]]
+[[include component:pso2-pet-pa |pa-icon=PA-Maron-1|pa-name=Strike 3 |pa-damage=30372 |pa-pp=10 |pa-frame=59 |pa-dps-normal=83 |pa-dps-god=83 |pa-dps-god-plus=83 |pa-dpp-normal=126 |pa-dpp-god=126 |pa-dpp-god-plus=126 |pa-remarks=* Requires Melon to take 2 hits.
+* This PA isn't affected by Glance of Darkness
+]]
+[[include component:pso2-pet-pa |pa-icon=PA-Maron-2|pa-name=Break |pa-damage=18541 |pa-pp=20 |pa-frame=43 |pa-dps-normal=70 |pa-dps-god=90 |pa-dps-god-plus=95 |pa-dpp-normal=37 |pa-dpp-god=48 |pa-dpp-god-plus=50 |pa-remarks=* Primary DPS attack.
+*  A rudimentary area attack with no added effect.
+* Unlike Jinga Break, Melon stays in place.
+]]
+[[include component:pso2-pet-pa |pa-icon=PA-Maron-3|pa-name=Shield |pa-damage=0 |pa-pp=5 |pa-frame=0 |pa-dps-normal=0 |pa-dps-god=0 |pa-dps-god-plus=0 |pa-dpp-normal=0 |pa-dpp-god=0 |pa-dpp-god-plus=0 |pa-remarks=* Recall PA.
+* Hold button to keep Melon in front of your character, draining your 1 PP every 2s.
+* Melon will take all damage from front at reduced rate. 
+* Shield might not be available if Melon is too far away, or obscured by walls.
+* This PA isn't affected by Glance of Darkness
+]]
+[[include component:pso2-pet-pa |pa-icon=PA-Maron-4|pa-name=Chaser |pa-damage=3495 |pa-pp=25 |pa-frame=44 |pa-dps-normal=13 |pa-dps-god=33 |pa-dps-god-plus=37 |pa-dpp-normal=5 |pa-dpp-god=14 |pa-dpp-god-plus=16 |pa-remarks=* A homing missile attack that bounces at every enemy in an area.
+* Can bounce back to the same enemy.
+]]
+[[include component:pso2-pet-pa |pa-icon=PA-Maron-5|pa-name=Curse |pa-damage=69255 |pa-pp=25 |pa-frame=44 |pa-dps-normal=20 |pa-dps-god=21 |pa-dps-god-plus=22 |pa-dpp-normal=8 |pa-dpp-god=9 |pa-dpp-god-plus=9 |pa-remarks=* DoT attack over 570f (9.5s).
+* Slow homing projectile.
+]]
+[[include component:pso2-pet-pa |pa-icon=NormalAttack|pa-name=Combo 1 |pa-damage=195526 |pa-pp=185 |pa-frame=388 |pa-dps-normal=81 |pa-dps-god=101 |pa-dps-god-plus=106 |pa-dpp-normal=43 |pa-dpp-god=54 |pa-dpp-god-plus=57 |pa-remarks=* Curse - 8× Break
+]]
+[[include component:pso2-pet-pa |pa-icon=NormalAttack|pa-name=Combo 2 |pa-damage=230423 |pa-pp=85 |pa-frame=398 |pa-dps-normal=93 |pa-dps-god=96 |pa-dps-god-plus=96 |pa-dpp-normal=110 |pa-dpp-god=113 |pa-dpp-god-plus=113 |pa-remarks=* Curse - 6× Strike 3
+]]
+[[include component:pso2-pet-pa |pa-icon=NormalAttack|pa-name=Combo 3 |pa-damage=121594 |pa-pp=-105 |pa-frame=564 |pa-dps-normal=35 |pa-dps-god=36 |pa-dps-god-plus=37 |pa-dpp-normal=0 |pa-dpp-god=0 |pa-dpp-god-plus=0 |pa-remarks=* Curse - 10× Normal 1
+]]
+
+[[include component:pso2-pet-pa-notes]]

@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Samurai Warriors 5</title>
+    <meta name="description" content="Samurai Warriors 5 is the fifth mainline Samurai Warriors game and the first time where the series h...">
+    
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/css/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -13,9 +16,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
-
-    <title>Samurai Warriors 5</title>
-    <meta name="description" content="Samurai Warriors 5 is the fifth mainline Samurai Warriors game and the first time where the series h...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
@@ -31,140 +31,177 @@
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
     <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
     <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
     <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
-    <header>
-        <nav>
-    <a href="/">Home</a>
-    <a href="/guides/">Guides</a>
-    <a href="/articles/">Articles</a>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-md-2 p-0">
+                <nav class="capa-navbar" aria-label="Main navigation">
+
+    <!-- Mobile-only Expand Button -->
+    <button
+        class="capa-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="capa-nav-content"
+        aria-label="Open navigation"
+    >
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    
+    <!-- Mobile-only Close Button -->
+    <button
+        class="capa-nav-overlay"
+        type="button"
+        aria-label="Close navigation"
+        tabindex="-1"
+        aria-hidden="true"
+    ></button>
+
+    <!-- Shared navigation and TOC -->
+    <div id="capa-nav-content">
+        <div class="nav-item">
+            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        </div>
+        <div class="nav-item">
+            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        </div>
+        <div class="nav-item">
+            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        </div>
+        <!-- TOC will be moved here by move-toc-to-nav.js -->
+    </div>
+
 </nav>
-    </header>
-    <main>
-        <div class="row m-0 p-0">
-<p>[[div class=&quot;col-md-2 hidden-xs hidden-sm guide table-of-contents p-0&quot; role=&quot;navigation&quot;]]</p>
-<p>[[include nav:main]]</p>
-<p>[[/div]][!<del> Close the role=navigation </del>]</p>
-<p>[!<del> </del><del></del><del> </del><del></del><del> Border between Nav and Main Content </del><del></del><del> </del><del></del><del> </del>]</p>
-<p>[[div_ class=&quot;col-md-10 col-md-offset-2 col-xs-12 main main-container p-0&quot;]]</p>
-<p>[[include component:splash |splash-class=full-height |splash-style=background-image:url(&#39;http://capa.wdfiles.com/local--files/guides%3Asamurai-warriors-5/samurai-warriors-5-splash.avif&#39;); |text-title=Samurai Warriors 5 |text-sub-title=Written by Buster Wolf |text-extra=Updated on %%updated_at%% |text-extra-icon=fa fa-clock ]]</p>
-<div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl">
-<p>[[collapsible show=&quot;Table of Contents&quot; hide=&quot;Collapse Table of Contents&quot;]]</p>
-<div class="table-of-contents">
-<a href="#heading-1">Character Unlocking</a>
-<a href="#heading-2">Musou Mode</a>
-<a href="#heading-3">Nobunaga’s Path</a>
-<a href="#heading-4">Chapter 1 Before the Dawn</a>
-<a href="#heading-5">1-1 Raid on the Imagawa</a>
-<a href="#heading-6">1-2 Assault on Mino</a>
-<a href="#heading-7">1-3 Turmoil on Mt. Inaba</a>
-<a href="#heading-8">1-4 Battle of Muraki Garrison</a>
-<a href="#heading-9">1-5 Battle of Nagara River</a>
-<a href="#heading-10">Chapter 2 The Vow</a>
-<a href="#heading-11">2-^1 Battle of Inō</a>
-<a href="#heading-12">2-^2 Battle of Okehazama</a>
-<a href="#heading-13">2-^3 Battle of Inabayama Castle</a>
-<a href="#heading-14">2-v1 Mayhem in Mikawa</a>
-<a href="#heading-15">2-v2 Battle to Build Sunomata Castle</a>
-<a href="#heading-16">Chapter 3 Soaring</a>
-<a href="#heading-17">3-^1 Battle of Northern Ōmi</a>
-<a href="#heading-18">3-^2 Battle of Kannonji Castle</a>
-<a href="#heading-19">3-^3 Battle of Rokujō</a>
-<a href="#heading-20">3-v Invasion of Suruga</a>
-<a href="#heading-21">Chapter 4 In Flux</a>
-<a href="#heading-22">4-^1 Battle of Kanegasaki</a>
-<a href="#heading-23">4-^2 Battle of Anegawa River</a>
-<a href="#heading-24">4-^3 The Scorching of Mt. Hiei</a>
-<a href="#heading-25">4-^4 Battle of Makishima Castle</a>
-<a href="#heading-26">4-^5 Battle of Tonezaka</a>
-<a href="#heading-27">4-^6 Battle of Odani Castle</a>
-<a href="#heading-28">4-v1 Battle of Mikatagahara</a>
-<a href="#heading-29">4-v2 Battle of Mikatagahara Takeda Army</a>
-<a href="#heading-30">Chapter 5 The Demon</a>
-<a href="#heading-31">5-^1 Battle of Nagashino</a>
-<a href="#heading-32">5-^2 Battle of Shigisan Castle</a>
-<a href="#heading-33">5-^3 The Subjugation of Harima</a>
-<a href="#heading-34">5-v1 Battle of Tetorigawa</a>
-<a href="#heading-35">5-v2 Battle of Kizugawaguchi</a>
-<a href="#heading-36">5-v3 Battle of Arioka Castle</a>
-<a href="#heading-37">5-v4 The Nobuyasu Affair</a>
-<a href="#heading-38">Chapter 6 Dawn’s First Light</a>
-<a href="#heading-39">6-^1 Battle of Takatenjin Castle</a>
-<a href="#heading-40">6-^2 Conquest of Kai</a>
-<a href="#heading-41">6-^3 The Incident at Honnōji</a>
-<a href="#heading-42">6-v1 Battle of Takamatsu Castle</a>
-<a href="#heading-43">6-v2 Journey Through Iga</a>
-<a href="#heading-44">Mitsuhide’s Path</a>
-<a href="#heading-45">Chapter 1 Promising Beginnings</a>
-<a href="#heading-46">1-1 Defense of Mino</a>
-<a href="#heading-47">1-2 Turmoil on Mt. Inaba</a>
-<a href="#heading-48">1-3 Battle of Nagara River</a>
-<a href="#heading-49">1-4 Battle of Akechi Castle</a>
-<a href="#heading-50">Chapter 2 The Quest for Truth</a>
-<a href="#heading-51">2-1 Defense of Echizen</a>
-<a href="#heading-52">2-2 Battle of Gassantoda Castle</a>
-<a href="#heading-53">2-3 Joint Struggle with the Uesugi</a>
-<a href="#heading-54">Chapter 3 The Morning Star</a>
-<a href="#heading-55">3-1 Battle of Northern Ōmi</a>
-<a href="#heading-56">3-2 Battle of Kannonji Castle</a>
-<a href="#heading-57">3-3 Revival of the Amago Clan</a>
-<a href="#heading-58">3-4 Battle of Rokujō</a>
-<a href="#heading-59">Chapter 4 Resolve</a>
-<a href="#heading-60">4-1 Battle of Kanegasaki</a>
-<a href="#heading-61">4-2 The Scorching of Mt. Hiei</a>
-<a href="#heading-62">4-3 Battle of Makishima Castle</a>
-<a href="#heading-63">4-4 Battle of Tonezaka</a>
-<a href="#heading-64">4-4 Battle of Odani Castle</a>
-<a href="#heading-65">Chapter 5 A Crescent Moon</a>
-<a href="#heading-66">5-^1 Invasion of Tanba</a>
-<a href="#heading-67">5-^2 Battle of Shigisan Castle</a>
-<a href="#heading-68">5-^3 Battle of Kōzuki Castle</a>
-<a href="#heading-69">5-^4 The Subjugation of Harima</a>
-<a href="#heading-70">5-^5 The Iga’s Revolt</a>
-<a href="#heading-71">5-v1 Escape from Odaka Castle</a>
-<a href="#heading-72">5-v2 Battle of Shigisan Castle Matsunaga Army</a>
-<a href="#heading-73">5-v3 Battle of Kōzuki Castle Mōri Army</a>
-<a href="#heading-74">Chapter 6 Eternal Rain</a>
-<a href="#heading-75">6-^1 The Incident at Honnōji</a>
-<a href="#heading-76">6-^2 Battle of Yamazaki</a>
-<a href="#heading-77">6-v Battle of Yamazaki Hashiba Army</a>
-<a href="#heading-78">Reverie</a>
-<a href="#heading-79">^1 Annihilation at Okehazama</a>
-<a href="#heading-80">^2 Match in Eiroku</a>
-<a href="#heading-81">^3 The Iga’s Great Uprising</a>
-<a href="#heading-82">v1 Final Battle for Kanegasaki</a>
-<a href="#heading-83">v2 Final Battle for Odani Castle</a>
-<a href="#heading-84">v3 Final Battle for Kōzuki Castle</a>
-<a href="#heading-85">v4 Nobuyasu’s Rebellion</a>
-<a href="#heading-86">v5 The Truth of Honnōji</a>
-<a href="#heading-87">v6 The Great Unifier</a>
-<a href="#heading-88">Rare Weapons</a>
-<a href="#heading-89">Ōdachi – The Great Serpent Slayer</a>
-<a href="#heading-90">Blade and Matchlock – Heaven’s Dread Star</a>
-<a href="#heading-91">Katana – Evil’s Demise</a>
-<a href="#heading-92">Twin Blade – Heavenly Twin Blade</a>
-<a href="#heading-93">Spear – Demon’s Revolt</a>
-<a href="#heading-94">Great Spear - Virtuous Wrath</a>
-<a href="#heading-95">Naginata – Sun Goddess</a>
-<a href="#heading-96">Sledge – Daikokuten’s Mallet</a>
-<a href="#heading-97">Gloves – Divine Thunder</a>
-<a href="#heading-98">Bow - Amenohajiyumi</a>
-<a href="#heading-99">Cannon – Sacred Flame Mortar</a>
-<a href="#heading-100">Kusarigama – Harbinger of Disaster</a>
-<a href="#heading-101">Ninja Blade – Gale Slicer</a>
-<a href="#heading-102">Drum – Sakura Princess</a>
-<a href="#heading-103">Talisman – The Moon’s Divine Providence</a>
-<a href="#heading-104">Showcase</a>
+            </header>
+            <div class="col-12 col-md-10 p-0">
+                <main class="capa-main">
+                    <div class="row m-0 p-0">
+<div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:url(&#39;/assets/guides/samurai-warriors-5/samurai-warriors-5-splash.avif&#39;);">
+<div class="title-container p-4">
+<div class="page-extra stroke ">
+<p><span class="visible fa fa-clock"> </span> Updated at 2026-01-24</p>
 </div>
-<p>[[/collapsible]]</p>
+<div class="page-sub-title strong stroke ">
+<p>Written by Buster Wolf</p>
+</div>
+<div class="page-title strong stroke ">
+<p>Samurai Warriors 5</p>
+</div>
+</div>
+</div>
+<div id="toc" class="table-of-contents">
+<a href="#heading-1" class="toc-h1">Character Unlocking</a>
+<a href="#heading-2" class="toc-h1">Musou Mode</a>
+<a href="#heading-3" class="toc-h2">Nobunaga’s Path</a>
+<a href="#heading-4" class="toc-h3">Chapter 1 Before the Dawn</a>
+<a href="#heading-5" class="toc-h4">1-1 Raid on the Imagawa</a>
+<a href="#heading-6" class="toc-h4">1-2 Assault on Mino</a>
+<a href="#heading-7" class="toc-h4">1-3 Turmoil on Mt. Inaba</a>
+<a href="#heading-8" class="toc-h4">1-4 Battle of Muraki Garrison</a>
+<a href="#heading-9" class="toc-h4">1-5 Battle of Nagara River</a>
+<a href="#heading-10" class="toc-h3">Chapter 2 The Vow</a>
+<a href="#heading-11" class="toc-h4">2-^1 Battle of Inō</a>
+<a href="#heading-12" class="toc-h4">2-^2 Battle of Okehazama</a>
+<a href="#heading-13" class="toc-h4">2-^3 Battle of Inabayama Castle</a>
+<a href="#heading-14" class="toc-h4">2-v1 Mayhem in Mikawa</a>
+<a href="#heading-15" class="toc-h4">2-v2 Battle to Build Sunomata Castle</a>
+<a href="#heading-16" class="toc-h3">Chapter 3 Soaring</a>
+<a href="#heading-17" class="toc-h4">3-^1 Battle of Northern Ōmi</a>
+<a href="#heading-18" class="toc-h4">3-^2 Battle of Kannonji Castle</a>
+<a href="#heading-19" class="toc-h4">3-^3 Battle of Rokujō</a>
+<a href="#heading-20" class="toc-h4">3-v Invasion of Suruga</a>
+<a href="#heading-21" class="toc-h3">Chapter 4 In Flux</a>
+<a href="#heading-22" class="toc-h4">4-^1 Battle of Kanegasaki</a>
+<a href="#heading-23" class="toc-h4">4-^2 Battle of Anegawa River</a>
+<a href="#heading-24" class="toc-h4">4-^3 The Scorching of Mt. Hiei</a>
+<a href="#heading-25" class="toc-h4">4-^4 Battle of Makishima Castle</a>
+<a href="#heading-26" class="toc-h4">4-^5 Battle of Tonezaka</a>
+<a href="#heading-27" class="toc-h4">4-^6 Battle of Odani Castle</a>
+<a href="#heading-28" class="toc-h4">4-v1 Battle of Mikatagahara</a>
+<a href="#heading-29" class="toc-h4">4-v2 Battle of Mikatagahara Takeda Army</a>
+<a href="#heading-30" class="toc-h3">Chapter 5 The Demon</a>
+<a href="#heading-31" class="toc-h4">5-^1 Battle of Nagashino</a>
+<a href="#heading-32" class="toc-h4">5-^2 Battle of Shigisan Castle</a>
+<a href="#heading-33" class="toc-h4">5-^3 The Subjugation of Harima</a>
+<a href="#heading-34" class="toc-h4">5-v1 Battle of Tetorigawa</a>
+<a href="#heading-35" class="toc-h4">5-v2 Battle of Kizugawaguchi</a>
+<a href="#heading-36" class="toc-h4">5-v3 Battle of Arioka Castle</a>
+<a href="#heading-37" class="toc-h4">5-v4 The Nobuyasu Affair</a>
+<a href="#heading-38" class="toc-h3">Chapter 6 Dawn’s First Light</a>
+<a href="#heading-39" class="toc-h4">6-^1 Battle of Takatenjin Castle</a>
+<a href="#heading-40" class="toc-h4">6-^2 Conquest of Kai</a>
+<a href="#heading-41" class="toc-h4">6-^3 The Incident at Honnōji</a>
+<a href="#heading-42" class="toc-h4">6-v1 Battle of Takamatsu Castle</a>
+<a href="#heading-43" class="toc-h4">6-v2 Journey Through Iga</a>
+<a href="#heading-44" class="toc-h2">Mitsuhide’s Path</a>
+<a href="#heading-45" class="toc-h3">Chapter 1 Promising Beginnings</a>
+<a href="#heading-46" class="toc-h4">1-1 Defense of Mino</a>
+<a href="#heading-47" class="toc-h4">1-2 Turmoil on Mt. Inaba</a>
+<a href="#heading-48" class="toc-h4">1-3 Battle of Nagara River</a>
+<a href="#heading-49" class="toc-h4">1-4 Battle of Akechi Castle</a>
+<a href="#heading-50" class="toc-h3">Chapter 2 The Quest for Truth</a>
+<a href="#heading-51" class="toc-h4">2-1 Defense of Echizen</a>
+<a href="#heading-52" class="toc-h4">2-2 Battle of Gassantoda Castle</a>
+<a href="#heading-53" class="toc-h4">2-3 Joint Struggle with the Uesugi</a>
+<a href="#heading-54" class="toc-h3">Chapter 3 The Morning Star</a>
+<a href="#heading-55" class="toc-h4">3-1 Battle of Northern Ōmi</a>
+<a href="#heading-56" class="toc-h4">3-2 Battle of Kannonji Castle</a>
+<a href="#heading-57" class="toc-h4">3-3 Revival of the Amago Clan</a>
+<a href="#heading-58" class="toc-h4">3-4 Battle of Rokujō</a>
+<a href="#heading-59" class="toc-h3">Chapter 4 Resolve</a>
+<a href="#heading-60" class="toc-h4">4-1 Battle of Kanegasaki</a>
+<a href="#heading-61" class="toc-h4">4-2 The Scorching of Mt. Hiei</a>
+<a href="#heading-62" class="toc-h4">4-3 Battle of Makishima Castle</a>
+<a href="#heading-63" class="toc-h4">4-4 Battle of Tonezaka</a>
+<a href="#heading-64" class="toc-h4">4-4 Battle of Odani Castle</a>
+<a href="#heading-65" class="toc-h3">Chapter 5 A Crescent Moon</a>
+<a href="#heading-66" class="toc-h4">5-^1 Invasion of Tanba</a>
+<a href="#heading-67" class="toc-h4">5-^2 Battle of Shigisan Castle</a>
+<a href="#heading-68" class="toc-h4">5-^3 Battle of Kōzuki Castle</a>
+<a href="#heading-69" class="toc-h4">5-^4 The Subjugation of Harima</a>
+<a href="#heading-70" class="toc-h4">5-^5 The Iga’s Revolt</a>
+<a href="#heading-71" class="toc-h4">5-v1 Escape from Odaka Castle</a>
+<a href="#heading-72" class="toc-h4">5-v2 Battle of Shigisan Castle Matsunaga Army</a>
+<a href="#heading-73" class="toc-h4">5-v3 Battle of Kōzuki Castle Mōri Army</a>
+<a href="#heading-74" class="toc-h3">Chapter 6 Eternal Rain</a>
+<a href="#heading-75" class="toc-h4">6-^1 The Incident at Honnōji</a>
+<a href="#heading-76" class="toc-h4">6-^2 Battle of Yamazaki</a>
+<a href="#heading-77" class="toc-h4">6-v Battle of Yamazaki Hashiba Army</a>
+<a href="#heading-78" class="toc-h2">Reverie</a>
+<a href="#heading-79" class="toc-h3">^1 Annihilation at Okehazama</a>
+<a href="#heading-80" class="toc-h3">^2 Match in Eiroku</a>
+<a href="#heading-81" class="toc-h3">^3 The Iga’s Great Uprising</a>
+<a href="#heading-82" class="toc-h3">v1 Final Battle for Kanegasaki</a>
+<a href="#heading-83" class="toc-h3">v2 Final Battle for Odani Castle</a>
+<a href="#heading-84" class="toc-h3">v3 Final Battle for Kōzuki Castle</a>
+<a href="#heading-85" class="toc-h3">v4 Nobuyasu’s Rebellion</a>
+<a href="#heading-86" class="toc-h3">v5 The Truth of Honnōji</a>
+<a href="#heading-87" class="toc-h3">v6 The Great Unifier</a>
+<a href="#heading-88" class="toc-h1">Rare Weapons</a>
+<a href="#heading-89" class="toc-h2">Ōdachi – The Great Serpent Slayer</a>
+<a href="#heading-90" class="toc-h2">Blade and Matchlock – Heaven’s Dread Star</a>
+<a href="#heading-91" class="toc-h2">Katana – Evil’s Demise</a>
+<a href="#heading-92" class="toc-h2">Twin Blade – Heavenly Twin Blade</a>
+<a href="#heading-93" class="toc-h2">Spear – Demon’s Revolt</a>
+<a href="#heading-94" class="toc-h2">Great Spear - Virtuous Wrath</a>
+<a href="#heading-95" class="toc-h2">Naginata – Sun Goddess</a>
+<a href="#heading-96" class="toc-h2">Sledge – Daikokuten’s Mallet</a>
+<a href="#heading-97" class="toc-h2">Gloves – Divine Thunder</a>
+<a href="#heading-98" class="toc-h2">Bow - Amenohajiyumi</a>
+<a href="#heading-99" class="toc-h2">Cannon – Sacred Flame Mortar</a>
+<a href="#heading-100" class="toc-h2">Kusarigama – Harbinger of Disaster</a>
+<a href="#heading-101" class="toc-h2">Ninja Blade – Gale Slicer</a>
+<a href="#heading-102" class="toc-h2">Drum – Sakura Princess</a>
+<a href="#heading-103" class="toc-h2">Talisman – The Moon’s Divine Providence</a>
+<a href="#heading-104" class="toc-h2">Showcase</a>
 </div>
 <div class="container drop-caps p-4 samurai-warriors-5">
-<p><p>Samurai Warriors 5 is the fifth mainline Samurai Warriors game and the first time where the series has had a major overhaul to its visual style as well as being the only entry in this era, this guide will go over character unlocking, stage objectives and where to go for the Rare Weapons.</p>
+<p>Samurai Warriors 5 is the fifth mainline Samurai Warriors game and the first time where the series has had a major overhaul to its visual style as well as being the only entry in this era, this guide will go over character unlocking, stage objectives and where to go for the Rare Weapons.</p>
 <h1 id="heading-1">Character Unlocking</h1>
 <p>This will list how to unlock all 39 (technically 37) characters.</p>
 <table>
@@ -1476,12 +1513,41 @@
 <h2 id="heading-103">Talisman – The Moon’s Divine Providence</h2>
 <p>Nobunaga 3-^2 Battle of Kannonji Castle – Oichi Nobunaga 6-v1 Battle of Takamatsu Castle – Kanbei Kuroda</p>
 <h2 id="heading-104">Showcase</h2>
-<p>[[include :asoh:component:video-youtube |video-id=LVvtLj9LAxQ]]</p></p>
+ <div class="youtube-container">
+    <iframe
+        src="https://www.youtube-nocookie.com/embed/LVvtLj9LAxQ"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
 </div>
 </div>
 </div>
-<p>[[module css]] .toc-bg {background-image: url(&#39;http://capa.wdfiles.com/local--files/guides:samurai-warriors-5/samurai-warriors-5-sidebar.avif&#39;);} .guide-article-hide {display:none;} .guide-article-only {display:block;} [[/module]]</p>
-    </main>
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                            CAPA
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/home:home">Home</a> · 
+                                <a href="/home:guide">Guide</a> · 
+                                <a href="/home:article">Article</a>
+                        </div>
+                            <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
 </body>
 </html>

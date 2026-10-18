@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Soulcalibur V</title>
+    <meta name="description" content="The sixth main installment of the Soul series, which came with a rather good battle system, but poor...">
+    
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/css/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -13,9 +16,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
-
-    <title>Soulcalibur V</title>
-    <meta name="description" content="The sixth main installment of the Soul series, which came with a rather good battle system, but poor...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
@@ -31,38 +31,75 @@
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
     <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
     <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
     <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
-    <header>
-        <nav>
-    <a href="/">Home</a>
-    <a href="/guides/">Guides</a>
-    <a href="/articles/">Articles</a>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-md-2 p-0">
+                <nav class="capa-navbar" aria-label="Main navigation">
+
+    <!-- Mobile-only Expand Button -->
+    <button
+        class="capa-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="capa-nav-content"
+        aria-label="Open navigation"
+    >
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    
+    <!-- Mobile-only Close Button -->
+    <button
+        class="capa-nav-overlay"
+        type="button"
+        aria-label="Close navigation"
+        tabindex="-1"
+        aria-hidden="true"
+    ></button>
+
+    <!-- Shared navigation and TOC -->
+    <div id="capa-nav-content">
+        <div class="nav-item">
+            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        </div>
+        <div class="nav-item">
+            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        </div>
+        <div class="nav-item">
+            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        </div>
+        <!-- TOC will be moved here by move-toc-to-nav.js -->
+    </div>
+
 </nav>
-    </header>
-    <main>
-        <div class="row m-0 p-0">
-<p>[[div class=&quot;col-md-2 hidden-xs hidden-sm guide table-of-contents p-0&quot; role=&quot;navigation&quot;]]</p>
-<p>[[include nav:main]]</p>
-<p>[[/div]][!<del> Close the role=navigation </del>]</p>
-<p>[!<del> </del><del></del><del> </del><del></del><del> Border between Nav and Main Content </del><del></del><del> </del><del></del><del> </del>]</p>
-<p>[[div_ class=&quot;col-md-10 col-md-offset-2 col-xs-12 main main-container p-0&quot;]]</p>
-<p>[[include component:splash |splash-class=full-height |splash-style=background-image:url(&#39;http://capa.wdfiles.com/local--files/guides%3Asoulcalibur-5/soulcalibur-5-splash.avif&#39;); |text-title=Soulcalibur V |text-sub-title=Written by Perseonn Balthasaar |text-extra=Updated on %%updated_at%% |text-extra-icon=fa fa-clock ]]</p>
-<div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl">
-<p>[[collapsible show=&quot;Table of Contents&quot; hide=&quot;Collapse Table of Contents&quot;]]</p>
-<div class="table-of-contents">
-<a href="#heading-1">Custom Character Data</a>
-<a href="#heading-2">Finding the Custom Character Moveset Data</a>
+            </header>
+            <div class="col-12 col-md-10 p-0">
+                <main class="capa-main">
+                    <div class="row m-0 p-0">
+<div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:url(&#39;/assets/guides/soulcalibur-5/soulcalibur-5-splash.avif&#39;);">
+<div class="title-container p-4">
+<div class="page-extra stroke ">
+<p><span class="visible fa fa-clock"> </span> Updated at 2014-05-21</p>
 </div>
-<p>[[/collapsible]]</p>
+<div class="page-sub-title strong stroke ">
+<p>Written by Perseonn Balthasaar</p>
+</div>
+<div class="page-title strong stroke ">
+<p>Soulcalibur V</p>
+</div>
+</div>
+</div>
+<div id="toc" class="table-of-contents">
+<a href="#heading-1" class="toc-h1">Custom Character Data</a>
+<a href="#heading-2" class="toc-h1">Finding the Custom Character Moveset Data</a>
 </div>
 <div class="container drop-caps p-4 soulcalibur-5">
-<p><p>The sixth main installment of the Soul series, which came with a rather good battle system, but poor movelist pool. The character creation aspect, which is the main reason I bought this game, is lacking in item variation. I can go on and on, but that&#39;s not the point of this page.</p>
+<p>The sixth main installment of the Soul series, which came with a rather good battle system, but poor movelist pool. The character creation aspect, which is the main reason I bought this game, is lacking in item variation. I can go on and on, but that&#39;s not the point of this page.</p>
 <p>As this is a save data hack, you&#39;re required to understand how to encrypt/decrypt your save data and manipulate it using hex editor (XVI32 preferred as hex editor).</p>
 <p>If you&#39;re interested in showcasing your character, you can visit [http://asoh.wikidot.com Another Stage of History].</p>
 <h1 id="heading-1">Custom Character Data</h1>
@@ -483,9 +520,9 @@
     </tr>
 </table>
 <p>Each slot has two moveset address, each using same digit. They have different function: : Moveset 1 : Character&#39;s pose during creation (including photo), menu weapon name, sometimes entry pose, sometimes win pose, and character&#39;s identity. This also governs the mimic character behavior. If you set this to mimic character&#39;s identity, they will ignore the second moveset data and weapon. : Moveset 2 : Character&#39;s moveset, weapon set, and roster slot (standard edit). This affects taunt if used with either Kilik with Xiba&#39;s move or Elysium with Pyrrha Omega&#39;s move, but neither will gain special moveset nor special Critical Edge. : Example : If you make a Siegfried custom, set Move 1 to &quot;01&quot; and Move 2 to &quot;02, the game will recognize the character as Maxi, will call &quot;Maxi&quot; upon selection, will have maxi&#39;s weapon name on creation mode, but will appear under Voldo&#39;s roster slot, have Voldo&#39;s moveset and weapon, while have Maxi&#39;s pose during creation.</p>
-<p>[[include :fiction:common:alert |text=Using Ezio style, apart from missing announcer voice, has no problem in all modes.]]</p>
-<p>[[include :fiction:common:alert |text=Voice digit is different from moveset digit, but somehow follows old numbering.]]</p>
-<p>[[include :fiction:common:alert |text=With weapon code, it is possible to assign 9th weapon for all characters. They are either SoulCalibur (female characters, Siegfried), or a more detailed version of their default weapon.]]</p>
+<p>[[xinclude :fiction:common:alert |text=Using Ezio style, apart from missing announcer voice, has no problem in all modes.]]</p>
+<p>[[xinclude :fiction:common:alert |text=Voice digit is different from moveset digit, but somehow follows old numbering.]]</p>
+<p>[[xinclude :fiction:common:alert |text=With weapon code, it is possible to assign 9th weapon for all characters. They are either SoulCalibur (female characters, Siegfried), or a more detailed version of their default weapon.]]</p>
 <table>
     <tr>
         <th>Move 1</th>
@@ -922,14 +959,40 @@
 <p>Using only half of <code>Logic 1</code>, I put the following code on Excel: [[code]] =IF(OR([@Bohb1]=[@Bohb2],[@Bohb2]=[@Bohb3],[@Bohb3]=[@Bohb4]),&quot;Same Value!&quot;,&quot;&quot;) [[/code]]</p>
 <p>Notice that Bohb 5 is not used on the algorithm because of <code>Logic 2</code>, thus Bohb5&#39;s moveset address <em>could be</em> in Bohb4&#39;s. This code compares Bohb1 to Bohb2, Bohb2 to Bohb3 and Bohb3 to Bohb4. If either of them are same, then the address are considered same, since by first moveset logic, neither Bohb can have save address.</p>
 <p>From the initial 29832, the algorithm allowed me to filter the table to a much manageable 63 addresses. After just a bit of looking, I found that address 16603 and 20780 possibly contain the character digit since they correspond to <code>Logic 1</code>. But here&#39;s the catch. The digit for Mitsurugi (00) appears on the blank slot before Bohb1.</p>
-<p>[[include image |image=/local--files/game:soulcalibur5/hackprocess.png |title=Note the vertical arrangement due to the limitation of Excel&#39;s horizontal cells. Apparently on Soulcalibur V, Cervantes (08) comes before Yoshimitsu (18). |ratio=4x3 ]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/soulcalibur-5/hackprocess.png" alt="Note the vertical arrangement due to the limitation of Excel&#39;s horizontal cells. Apparently on Soulcalibur V, Cervantes (08) comes before Yoshimitsu (18).">
+        <figcaption>Note the vertical arrangement due to the limitation of Excel&#39;s horizontal cells. Apparently on Soulcalibur V, Cervantes (08) comes before Yoshimitsu (18).</figcaption>
+    </figure>
 <p>Which means my speculation of <code>Logic 2</code> is proven. After editing both number, I succeeded in making my first Ezio Custom Character.</p>
-<p>[[include image |image=/local--files/game:soulcalibur5/sleipial-c3special.avif |title=Sleipial with Ezio&#39;s moveset. ]]</p></p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/soulcalibur-5/sleipial-c3special.avif" alt="Sleipial with Ezio&#39;s moveset.">
+        <figcaption>Sleipial with Ezio&#39;s moveset.</figcaption>
+    </figure>
 </div>
 </div>
-</div>
-<p>[[module css]] .toc-bg {background-image: url(&#39;http://capa.wdfiles.com/local--files/guides:soulcalibur-5/soulcalibur-5-sidebar.avif&#39;);} .guide-article-hide {display:none;} .guide-article-only {display:block;} [[/module]]</p>
-    </main>
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                            CAPA
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/home:home">Home</a> · 
+                                <a href="/home:guide">Guide</a> · 
+                                <a href="/home:article">Article</a>
+                        </div>
+                            <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
 </body>
 </html>

@@ -18,7 +18,7 @@ This is a laid-back guide intended to help people optimizing their Etoile usage!
 
 + Part 1: Basic Etoile
 
-[[include image |ratio=pso2-su-infographics |image=local--files/guide:phantasy-star-online-2-etoile/info-et-basics-1.avif |title=Etoile Basics]]
+[[image info-et-basics-1.avif | Etoile Basics]]
 Etoile is a successor class that uses [[span class="icon wp-ds"]]Double Saber[[/span]], [[span class="icon wp-db"]]Dual Blade (Soaring Blade)[[/span]], and [[span class="icon wp-wa"]]Wand[[/span]]. They have a lot of damage resistance (70%!) and can do a lot of damage as well. Due to the resistance, Etoile is one of the easiest class to use for "high difficulty" quests and end-game contents.
  _
 [[div class="alert alert-info"]]
@@ -51,7 +51,7 @@ Preferably your mag has this following setup:
 || Trigger Action || [[span class="cell-item"]]PP Restore J[[/span]] [[span class="cell-item"]]Mate Production[[/span]] [[span class="cell-item"]]Atomizer Production[[/span]] || [[span class="cell-item"]]Put multiple Mate and Atomizer Production.[[/span]] [[span class="cell-item"]]If you have 8 slots by using the [[span class="icon item-devc"]]Mag Support Expansion Kit (マグ支援枠拡張デバイス //Mag Support Extend Device//)[[/span]], you can have PP Restore J, 2 Mate Productions and 5 Atomizer Productions.[[/span]] [[span class="cell-item"]]You can get the production devices as E-Trial drops, or buy in Player Shop: [[span class="icon item-devc"]]Production Device/Mates (生産デバイス／HP回復系)[[/span]] and [[span class="icon item-devc"]]Production Device/Mizers (生産デバイス／範囲系)[[/span]].[[/span]] [[span class="cell-item"]]I personally went for all Atomizers since I rarely ran out of Monomates.[[/span]] ||
 
 ++ Skill Tree
-[[include image |ratio=pso2-su-infographics |image=local--files/guide:phantasy-star-online-2-etoile/info-et-skill-tree.avif |title=Etoile Skill Tree]]
+[[image info-et-skill-tree.avif | Etoile Skill Tree]]
 
 Etoile's skill tree doesn't require too much details. For general purpose Main and Sub, the Recommended Setting available on the Class counter is already optimal, focusing on maxing Damage Balancer and Tech Arts Count Bonus, while getting just 3 points for Same Arts PP Save.
 
@@ -169,7 +169,7 @@ To know the basics of Double Saber, please do the Etoile Training Quest on Doubl
 
 
 +++ Double Saber Combo
-[[include :asoh:component:video-youtube |video-id=DTA2wnkFaSQ]]
+[[youtube DTA2wnkFaSQ]]
 
 [[div class="pa-combo"]]
 ||||||||||||||||||~ Combo 1||
@@ -225,7 +225,7 @@ To know the basics of Dual Blade, please do the Etoile Training Quest on Dual Bl
 
 
 +++ Dual Blade Combo
-[[include :asoh:component:video-youtube |video-id=vRFiZwzCJs4]]
+[[youtube vRFiZwzCJs4]]
 
 [[div class="pa-combo"]]
 ||||||~ Combo 1||
@@ -289,7 +289,7 @@ To know the basics of Wand, please do the Etoile Training Quest on Wand. Wand is
 
 
 +++ Wand Combo
-[[include :asoh:component:video-youtube |video-id=dxKfQ33LTXo]]
+[[youtube dxKfQ33LTXo]]
 
 [[div class="pa-combo"]]
 ||||||||||~ Combo 1||
@@ -383,16 +383,16 @@ You should go full [[span class="icon stat-satk"]]MEL/S-ATK[[/span]]. Despite ha
 
 + Demo Videos
 ++ Versus Varuna in Story Mode
-[[include :asoh:component:video-youtube |video-id=4SfKNDRwrpE]]
+[[youtube 4SfKNDRwrpE]]
 
 ++ Versus Varuna and Mitra in 30F Divide Quest
-[[include :asoh:component:video-youtube |video-id=-AS4ubbdOCk]]
+[[youtube -AS4ubbdOCk]]
 
 ++ Versus Primoridal Darkness
-[[include :asoh:component:video-youtube |video-id=eGFazviXkAQ]]
+[[youtube eGFazviXkAQ]]
 
 ++ Ultimate Quest Sodam 40F
-[[include :asoh:component:video-youtube |video-id=A5mWstYH6o8]]
+[[youtube A5mWstYH6o8]]
 
 + Closing
 Should you require aid in-game, you can contact Manaka, her player name is VateVierge. If you want to chat on discord, feel free to contact me at Perseonn#7731!

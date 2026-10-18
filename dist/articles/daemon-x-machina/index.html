@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Daemon X Machina Review</title>
+    <meta name="description" content="Daemon X Machina is a spiritual fork of Armored Core, developed by former staff from the series too!...">
+    
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/css/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -13,9 +16,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
-
-    <title>Daemon X Machina Review</title>
-    <meta name="description" content="Daemon X Machina is a spiritual fork of Armored Core, developed by former staff from the series too!...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
@@ -31,58 +31,120 @@
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
     <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
     <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
     <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
-    <header>
-        <nav>
-    <a href="/">Home</a>
-    <a href="/guides/">Guides</a>
-    <a href="/articles/">Articles</a>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-md-2 p-0">
+                <nav class="capa-navbar" aria-label="Main navigation">
+
+    <!-- Mobile-only Expand Button -->
+    <button
+        class="capa-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="capa-nav-content"
+        aria-label="Open navigation"
+    >
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    
+    <!-- Mobile-only Close Button -->
+    <button
+        class="capa-nav-overlay"
+        type="button"
+        aria-label="Close navigation"
+        tabindex="-1"
+        aria-hidden="true"
+    ></button>
+
+    <!-- Shared navigation and TOC -->
+    <div id="capa-nav-content">
+        <div class="nav-item">
+            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        </div>
+        <div class="nav-item">
+            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        </div>
+        <div class="nav-item">
+            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        </div>
+        <!-- TOC will be moved here by move-toc-to-nav.js -->
+    </div>
+
 </nav>
-    </header>
-    <main>
-        <div class="row m-0 p-0">
-<div class="col-md-2 hidden-xs hidden-sm guide table-of-contents p-0">
+            </header>
+            <div class="col-12 col-md-10 p-0">
+                <main class="capa-main">
+                    <div class="row m-0 p-0">
+<div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:url(&#39;/assets/articles/daemon-x-machina/daemon-x-machina-splash.avif&#39;);">
+<div class="title-container p-4">
+<div class="page-extra stroke ">
+<p><span class="visible fa fa-clock"> </span> Published on 2025-04-06</p>
 </div>
-<div class="col-md-10 col-md-offset-2 col-xs-12 main main-container p-0">
-<p>[[include component:splash |splash-class=full-height |splash-style=background-image:url(&#39;http://capa.wdfiles.com/local--files/articles:daemon-x-machina/daemon-x-machina.avif&#39;); |text-title=Daemon X Machina Review |text-sub-title=Written by Perseonn Balthasaar |text-extra=Published on 2025-04-06 |text-extra-icon=fa fa-clock ]]</p>
-<div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl">
-<div class="table-of-contents">
-<a href="#heading-1">There Could Be a Lot More Story</a>
-<a href="#heading-2">Gundam Veterans!</a>
-<a href="#heading-3">Fast and Awesome Gameplay</a>
-<a href="#heading-4">Mecha-less Adventure</a>
-<a href="#heading-5">Waiting for a Sequel</a>
-<a href="#heading-6">You Can Get It Cheap</a>
-<a href="#heading-7">Summary</a>
+<div class="page-sub-title strong stroke ">
+<p>Written by Perseonn Balthasaar</p>
 </div>
+<div class="page-title strong stroke ">
+<p>Daemon X Machina Review</p>
+</div>
+</div>
+</div>
+<div id="toc" class="table-of-contents">
+<a href="#heading-1" class="toc-h1">There Could Be a Lot More Story</a>
+<a href="#heading-2" class="toc-h1">Gundam Veterans!</a>
+<a href="#heading-3" class="toc-h1">Fast and Awesome Gameplay</a>
+<a href="#heading-4" class="toc-h1">Mecha-less Adventure</a>
+<a href="#heading-5" class="toc-h1">Waiting for a Sequel</a>
+<a href="#heading-6" class="toc-h1">You Can Get It Cheap</a>
+<a href="#heading-7" class="toc-h1">Summary</a>
 </div>
 <div class="container drop-caps p-4 daemon-x-machina">
-<p><p>Daemon X Machina is a spiritual fork of Armored Core, developed by former staff from the series too! Not only is the mecha customisation deep—from body parts to weapons—you can also customise your pilot&#39;s appearance and even their mechanical implants!</p>
-<p>[[include image |image=/local--files/article:daemon-x-machina/custom-character.avif |title=It&#39;s a basic customisation, but very serviceable. Can&#39;t change body size, though.]]</p>
+<p>Daemon X Machina is a spiritual fork of Armored Core, developed by former staff from the series too! Not only is the mecha customisation deep—from body parts to weapons—you can also customise your pilot&#39;s appearance and even their mechanical implants!</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/articles/daemon-x-machina/custom-character.avif" alt="It&#39;s a basic customisation, but very serviceable. Can&#39;t change body size, though.">
+        <figcaption>It&#39;s a basic customisation, but very serviceable. Can&#39;t change body size, though.</figcaption>
+    </figure>
 <h1 id="heading-1">There Could Be a Lot More Story</h1>
 <p>The backstory of the apocalypse—moon fragments falling to Earth—is unfortunately barely mentioned in the game. Several plot points and character development moments feel rushed, even though they could have been expanded into a fuller narrative. It&#39;s a real shame, as the lore is genuinely interesting!</p>
-<p>[[include image |image=/local--files/article:daemon-x-machina/abyss-is-one-of-my-favorite.avif |title=The dialogue and cutscenes are fine, but more of them would be better.]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/articles/daemon-x-machina/abyss-is-one-of-my-favorite.avif" alt="The dialogue and cutscenes are fine, but more of them would be better.">
+        <figcaption>The dialogue and cutscenes are fine, but more of them would be better.</figcaption>
+    </figure>
 <h1 id="heading-2">Gundam Veterans!</h1>
 <p>The game features many veteran Gundam voice actors—some even play obvious expys, such as the rivalry between Toru Furuya (piloting a black mecha) and Shuichi Ikeda (piloting a red one)! Other notable VAs include Ayako Kawasumi, Ayumi Tsunematsu, and Yosuke Akimoto.</p>
-<p>[[include image |image=/local--files/article:daemon-x-machina/thus-spoke-char.avif |title=Totally not Amuro and Char.]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/articles/daemon-x-machina/thus-spoke-char.avif" alt="Totally not Amuro and Char.">
+        <figcaption>Totally not Amuro and Char.</figcaption>
+    </figure>
 <h1 id="heading-3">Fast and Awesome Gameplay</h1>
 <p>After playing Armored Core 6, it&#39;s hard not to compare. Honestly though, Daemon X Machina feels superior in many ways. The combat is faster, you feel genuinely powerful in your mech, the HUD is customisable, it&#39;s more beginner-friendly, and it&#39;s just more fun overall. While Armored Core 6 feels like a step back from Armored Core 5, Daemon X Machina feels like its natural evolution. The only thing missing is a ramming attack.</p>
-<p>[[include image |image=/local--files/article:daemon-x-machina/mecha-goodness.avif |title=You can wield anything that makes sense—there&#39;s even a weapon hangar!]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/articles/daemon-x-machina/mecha-goodness.avif" alt="You can wield anything that makes sense—there&#39;s even a weapon hangar!">
+        <figcaption>You can wield anything that makes sense—there&#39;s even a weapon hangar!</figcaption>
+    </figure>
 <h1 id="heading-4">Mecha-less Adventure</h1>
 <p>A unique feature in Daemon X Machina is the ability to dismount from your mecha, which makes co-op sessions more dynamic as you can swap machines. I even went a step further and replayed all the story missions using only the pilot—including the final boss!</p>
-<p>[[include image |image=/local--files/article:daemon-x-machina/on-foot-vs-dominator.avif |title=This took a while, but yes—you can defeat the final boss with a fully-augmented pilot!]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/articles/daemon-x-machina/on-foot-vs-dominator.avif" alt="This took a while, but yes—you can defeat the final boss with a fully-augmented pilot!">
+        <figcaption>This took a while, but yes—you can defeat the final boss with a fully-augmented pilot!</figcaption>
+    </figure>
 <h1 id="heading-5">Waiting for a Sequel</h1>
 <p>What will the sequel, Titanic Scion, bring? Since the Dominator (the final boss) is only the head of a gigantic mecha, will the story pick up from there? Will the customisation system be even better? Here&#39;s hoping!</p>
-<p>[[include image |image=/local--files/article:daemon-x-machina/waiting-for-sequel.avif |title=Can I look sexier in the future, please?]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/articles/daemon-x-machina/waiting-for-sequel.avif" alt="Can I look sexier in the future, please?">
+        <figcaption>Can I look sexier in the future, please?</figcaption>
+    </figure>
 <h1 id="heading-6">You Can Get It Cheap</h1>
 <p>Psst—for those who missed the free Epic Games version, Daemon X Machina is often on sale on Steam. For around USD 10, you can enjoy hours of mecha customisation, intense battles, raids, and dual-wielding swords—or even shields!</p>
-<p>[[include image |image=/local--files/article:daemon-x-machina/vierge-stat.avif |title=You can challenge me to a spar, but I wouldn&#39;t recommend it.]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/articles/daemon-x-machina/vierge-stat.avif" alt="You can challenge me to a spar, but I wouldn&#39;t recommend it.">
+        <figcaption>You can challenge me to a spar, but I wouldn&#39;t recommend it.</figcaption>
+    </figure>
 <h1 id="heading-7">Summary</h1>
 <div class="review hippo">
 <table>
@@ -140,11 +202,32 @@
     </tr>
 </table>
 </div>
-<p>This article has been or will be posted on my workplace&#39;s Instagram, @@@p<strong></strong><strong></strong>**e.@@</p></p>
+<p>This article has been or will be posted on my workplace&#39;s Instagram, @@@p<strong></strong><strong></strong>**e.@@</p>
 </div>
 </div>
-</div>
-    </main>
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                            CAPA
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/home:home">Home</a> · 
+                                <a href="/home:guide">Guide</a> · 
+                                <a href="/home:article">Article</a>
+                        </div>
+                            <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
 </body>
 </html>

@@ -37,60 +37,60 @@ Most map's names have been changed, here they are and their subtitles:
 + Falthemnar
 The story continues immediately after player decided to enlist Valadin's aid. After the event, player will recruit Karth and Izahra.
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/story-1.avif |title=Ellanese visits the headquarters.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/story-2.avif |title=Karth and Izahra introduction.]]
+[[image story-1.avif | Ellanese visits the headquarters.]]
+[[image story-2.avif | Karth and Izahra introduction.]]
 
 
 Karth is a speedy character, focusing on relentless attack against an enemy, while Izahra a tanker. With Izahra in party, player can utilize Valadin as a damage dealer.
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/story-3.avif |title=Karth the speedster.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/story-4.avif |title=Izahra the iron wall.]]
+[[image story-3.avif | Karth the speedster.]]
+[[image story-4.avif | Izahra the iron wall.]]
 
 
 + Northern Forest (Falthemnar Fenlands)
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/north-forest.avif |title=The North Forest.]]
+[[image north-forest.avif | The North Forest.]]
 
 
 The Northern Forest is a relatively small dungeon, serving as a hub between Falthemnar and the Dark Forest. At the end, a boss battle against Alphyn the Electric Beast took place. Like all the previous boss, Alphyn is no pushover, especially since Valadin is weak to thunder. It boasts clock up ability, which increases his turn ratio.
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/story-5.avif |title=Northern Forest event]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/story-6.avif |title=Alphyn the electric beast.]]
+[[image story-5.avif | Northern Forest event]]
+[[image story-6.avif | Alphyn the electric beast.]]
 
 
 After the battle, Karth and Izahra will leave party. Karth will create a shortcut should player decided to resupply to town.
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/story-7.avif |title=Battle aftermath.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/story-8.avif |title=Karth, hinting a shortcut he will make.]]
+[[image story-7.avif | Battle aftermath.]]
+[[image story-8.avif | Karth, hinting a shortcut he will make.]]
 
 
 + Dark Forest (Misty Moon Labyrinth)
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/dark-forest.avif |title=The Dark Forest.]]
+[[image dark-forest.avif | The Dark Forest.]]
 
 
 The dark forest features the same aura as the Atoll of Sorrows. Player must navigate until the find an accessible elvar gate. Being hard as it is, the dungeon will not feature Maximum HP reduction.
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/story-9.avif |title=First time in dark forest.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/story-a.avif |title=The accessible elvar gate.]]
+[[image story-9.avif | First time in dark forest.]]
+[[image story-a.avif | The accessible elvar gate.]]
 
 
 Another Alphyn will attack. This is a scripted battle since in no way a Valadin and Ellanese alone can fight the Alphyn, even though system wise it is the same Alphyn. Player will be teleported to the enchanted side of the forest. This is different than the original script in which Valadin and Ellanese jumped off a cliff into a swamp (which  would result in death).
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/story-b.avif |title=The second alphyn.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/story-c.avif |title=Escaped to the enchanted labyrinth.]]
+[[image story-b.avif | The second alphyn.]]
+[[image story-c.avif | Escaped to the enchanted labyrinth.]]
 
 
 The first appearance of Eizen. Different from the script, Eizen is only protected by a barrier instead of a boss. However, the boss will come much later when Valadin decided to come there.
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/story-d.avif |title=The incarcerated man.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/story-e.avif |title=The barrier.]]
+[[image story-d.avif | The incarcerated man.]]
+[[image story-e.avif | The barrier.]]
 
 
 The chapter ends after Ellanese explained the identity of the incarcerated man and Valadin wanting to discuss with the elders in Sanctum.
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/story-f.avif |title=Ellanese explained about the incarcerated man.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/story-g.avif |title=Valadin, resolved to return to Sanctum to persuade the elders.]]
+[[image story-f.avif | Ellanese explained about the incarcerated man.]]
+[[image story-g.avif | Valadin, resolved to return to Sanctum to persuade the elders.]]
 
 
 + Other System Changes
@@ -103,7 +103,7 @@ The chapter ends after Ellanese explained the identity of the incarcerated man a
 * Bug regarding Ellanese's Illusory Bloom to increase damage taken as opposed to decrease it has been fixed.
 
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-5/system-1.avif |title=Damage prediction pop-up]]
+[[image system-1.avif | Damage prediction pop-up]]
 
 
 Further system-based tasks:

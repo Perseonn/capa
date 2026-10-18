@@ -6,7 +6,7 @@ If you have ever woken up in a cold sweat, screaming, "I wonder what it's like t
 
 For the rest of us, it is an exquisite tale in how to turn potential tragedy into a bureaucratic nightmare. It is a game that has been clamored as a "Masterclass in Emotional Storytelling", delivers a "Digital Chore Simulator" and treats accountability like it's a contagious, lethal disease.
 
-[[include image |image=/local--files/article:a-space-for-the-unbound/bucket-list.avif |title=That's not a bucket list, that's a chore list]]
+[[image bucket-list.avif | That's not a bucket list, that's a chore list]]
 
 + The "Controller Mapping" Opening Gambit
 The irony is not lost on anyone. A game titled A Space for The Unbound begins with the rigidly-bound controller settings in modern history. You cannot remap your keys. You are locked in, much like the player is locked into a narrative that seems to have been written by a committee of people who have only ever experienced human emotions through the medium of mediocre anime and meme-laden fan fictions
@@ -18,7 +18,7 @@ You need a cake from a cafe. To get a cake, you must learn to fight, play algebr
 
 Do we get a bit of story in between? Not at all, the game purely gives you a list of errands disguised as a magical realist journey. It's the Warashibe Chouja (The Straw Millionaire) of video games, but instead of trading up to a mansion, you're trading your sanity for a bit of plot progression.
 
-[[include image |image=/local--files/article:a-space-for-the-unbound/no-cake-for-you.avif |title=Why can't you just buy a cake like a normal person? Because then you don't have to spent three hours walking left and right.]]
+[[image no-cake-for-you.avif | Why can't you just buy a cake like a normal person? Because then you don't have to spent three hours walking left and right.]]
 
 + The Courtroom Calamity
 Just when you think you've reached the peak of chain quest absurdity, the game decides to pivot into a discount Ace Attorney. Suddenly, you are in a courtroom, complete with "Objection!" shouting and cross-examinations. But let's be clear: this isn't Phoenix Wright; it's a high schooler's power fantasy written in the margins of a math notebook.
@@ -27,7 +27,7 @@ The game's true agenda reveals itself here: it's not interested in justice; it's
 
 To top it off, the world-building is historically questionable. We're in 90s Indonesia, yet street food costs four times its actual value, and local net cafes are equipped with color-printing dot-matrix printers—a technological marvel that apparently bypassed the rest of the world. It's as if the writers used the 90s as a vague aesthetic filter without ever bothering to learn what the decade actually felt like. Oh, wait, we can hand wave it as adult Raya's made-up world isn't it?
 
-[[include image |image=/local--files/article:a-space-for-the-unbound/dead-horse.avif |title=I think this was also used in the promotional material.]]
+[[image dead-horse.avif | I think this was also used in the promotional material.]]
 
 
 + The "Mood-Playlist" Score
@@ -35,7 +35,7 @@ Before we get more into the writing, there is the music. Or rather, the "generic
 
 There is no leitmotif, no recurring musical DNA that mutates to reflect Atma's or Raya's psychological decay. It's also a missed opportunity that the game does not utilize a more traditional Indonesian instruments during the mind dive or when going to the past.
 
-[[include image |image=/local--files/article:a-space-for-the-unbound/beautiul-really.avif |title=What the game dev think of any cozy generic music.]]
+[[image beautiul-really.avif | What the game dev think of any cozy generic music.]]
 
 + "I'm 14 and This Is Deep"
 The writing occupies that dangerous, swampy territory of "I'm 14 and this is deep." The characters (they are more of road blocks, really) are paper-thin archetypes whose dialogue sounds like it was translated by a robot that was only fed legal depositions and shounen manga.
@@ -49,7 +49,7 @@ The writers are also such writing conquerors: in an impending psychological coll
 
 Their willing to incinerate the tone of their own game just to prove they've seen a movie breaks immersion; it serves as a reminder that you aren't playing a cohesive narrative, but a collection of "cool things" the developers found on the internet.
 
-[[include image |image=/local--files/article:a-space-for-the-unbound/bleh-meme.avif |title=Because nothing hits tragedy like out of nowhere meme.]]
+[[image bleh-meme.avif | Because nothing hits tragedy like out of nowhere meme.]]
 
 + Drinking Gasoline
 A Space for The Unbound is the final boss of edgy teenager literature. The characters are little more than mouthpieces for the writer's internal monologue, and they are, to a person, utterly insufferable: Raya is a chaotic force of nature who treats reality like a personal toy box; Lulu is a shrill caricature of authority; and Marin is a self-appointed philosopher who speaks exclusively in CRYPTIC METAPHORS that mean absolutely nothing if you possess even a functioning grasp of basic syntax.
@@ -63,7 +63,7 @@ When she finally manages an apology, it is directed at a cat. The human beings s
 
 The game treats and insists that Raya's trauma is a sovereign nation: a law unto itself where accountability cannot enter. By the end, she isn't a person learning from mistakes; she's a reality-warping teenager who has successfully argued that because she is sad, the rest of the world is obligated to apologize to her. It took a whole lot of talent to be able to avoid accountability this much.
 
-[[include image |image=/local--files/article:a-space-for-the-unbound/not-your-fault.avif |title=It never is.]]
+[[image not-your-fault.avif | It never is.]]
 
 + Play Better Games and Read Better Story
 We have seen genuine, gut-wrenching stories that handle trauma and loss with grace. My Memory of Us, with the haunting narration of Sir Patrick Stewart, proves you can tell a devastating story of war and loss without turning the protagonist into an unaccountable force of nature. Even Junji Ito's Gentle Goodbye packs more emotional weight into a few manga panels than this ten-hour game manages to squeeze out of its entire, bloated runtime.

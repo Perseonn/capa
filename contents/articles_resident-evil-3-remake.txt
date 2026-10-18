@@ -4,14 +4,14 @@
 
 Resident Evil 2 Remake still has some redeeming qualities for me, but it's much harder to find positives in Resident Evil 3 Remake. While the western pandering is less prominent than in Resident Evil 2 Remake, the overall scale of the game is much smaller—even when compared to the original PlayStation-era version!  
 
-[[include image |image=/local--files/article:resident-evil-3-remake/bad-box-art-megaman.avif |title=I don't know whether to approve or sneer at this reference.]]
+[[image bad-box-art-megaman.avif | I don't know whether to approve or sneer at this reference.]]
 
 + Disappointing Scale  
 I was excited to explore Raccoon City, but the game turned out to have a tiny map, with most of the gameplay feeling like a corridor simulator! Playing blind, I finished it in just 4 hours — //far shorter than the original Resident Evil 3//, which took around 12 hours!
 
 To make matters worse, several key locations from the original were completely removed, particularly the park and clock tower. I wonder why Capcom cut them entirely instead of expanding these locations. It made the game feel like a TLDR version of the original.
 
-[[include image |image=/local--files/article:resident-evil-3-remake/yes-that-statue-is-gonna-fall.avif |title=Wow that sky is so dark. Wait, is that head gonna fall?]]
+[[image yes-that-statue-is-gonna-fall.avif | Wow that sky is so dark. Wait, is that head gonna fall?]]
 
 
 + Missing Enemy
@@ -21,17 +21,17 @@ Nemesis was one of the scariest parts of the original game, constantly following
 
 To be fair, the original also had him appear in predetermined spots, but at least his appearances had some randomness, keeping players on edge.  
 
-[[include image |image=/local--files/article:resident-evil-3-remake/press-x-to-not-die.avif |title=So much tension.]]
+[[image press-x-to-not-die.avif | So much tension.]]
 
 + The Scapegoat  
 Instead of including Mercenaries mode or other extra content, Resident Evil 3 Remake was bundled with Resident Evil Resistance, an online multiplayer game that wasn't well received. Rumours suggest Capcom rushed the Remake to push players toward Resistance, which was packed with microtransactions.
 
-[[include image |image=/local--files/article:resident-evil-3-remake/the-scapegoat.avif |title=Who the heck are all these people?]]
+[[image the-scapegoat.avif | Who the heck are all these people?]]
 
 + Back to the Original  
 The only real positive I got from playing Resident Evil 3 Remake? It made me want to go back and replay the original Resident Evil 3—which was bigger, tenser, and longer! Oh yeah... 😏
 
-[[include image |image=/local--files/article:resident-evil-3-remake/shove-it-nemesis.avif |title=Where's my iconic line?!]]
+[[image shove-it-nemesis.avif | Where's my iconic line?!]]
 
 + Summary
 [[div class="review hippo"]]

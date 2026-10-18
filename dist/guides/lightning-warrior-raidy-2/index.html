@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Lightning Warrior Raidy 2</title>
+    <meta name="description" content="Lightning Warrior Raidy II is the sequel to [http://capa.wikidot.com/guide:lightningwarriorraidy2 th...">
+    
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/css/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -13,9 +16,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
-
-    <title>Lightning Warrior Raidy 2</title>
-    <meta name="description" content="Lightning Warrior Raidy II is the sequel to [http://capa.wikidot.com/guide:lightningwarriorraidy2 th...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
@@ -31,52 +31,89 @@
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
     <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
     <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
     <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
-    <header>
-        <nav>
-    <a href="/">Home</a>
-    <a href="/guides/">Guides</a>
-    <a href="/articles/">Articles</a>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-md-2 p-0">
+                <nav class="capa-navbar" aria-label="Main navigation">
+
+    <!-- Mobile-only Expand Button -->
+    <button
+        class="capa-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="capa-nav-content"
+        aria-label="Open navigation"
+    >
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    
+    <!-- Mobile-only Close Button -->
+    <button
+        class="capa-nav-overlay"
+        type="button"
+        aria-label="Close navigation"
+        tabindex="-1"
+        aria-hidden="true"
+    ></button>
+
+    <!-- Shared navigation and TOC -->
+    <div id="capa-nav-content">
+        <div class="nav-item">
+            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        </div>
+        <div class="nav-item">
+            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        </div>
+        <div class="nav-item">
+            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        </div>
+        <!-- TOC will be moved here by move-toc-to-nav.js -->
+    </div>
+
 </nav>
-    </header>
-    <main>
-        <div class="row m-0 p-0">
-<p>[[div class=&quot;col-md-2 hidden-xs hidden-sm guide table-of-contents p-0&quot; role=&quot;navigation&quot;]]</p>
-<p>[[include nav:main]]</p>
-<p>[[/div]][!<del> Close the role=navigation </del>]</p>
-<p>[!<del> </del><del></del><del> </del><del></del><del> Border between Nav and Main Content </del><del></del><del> </del><del></del><del> </del>]</p>
-<p>[[div_ class=&quot;col-md-10 col-md-offset-2 col-xs-12 main main-container p-0&quot;]]</p>
-<p>[[include component:splash |splash-class=full-height |splash-style=background-image:url(&#39;http://capa.wdfiles.com/local--files/guides%3Alightning-warrior-raidy-2/lightning-warrior-raidy-2-splash.avif&#39;); |text-title=Lightning Warrior Raidy 2 |text-sub-title=Written by Buster Wolf |text-extra=Updated on %%updated_at%% |text-extra-icon=fa fa-clock ]]</p>
-<div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl">
-<p>[[collapsible show=&quot;Table of Contents&quot; hide=&quot;Collapse Table of Contents&quot;]]</p>
-<div class="table-of-contents">
-<a href="#heading-1">Stats</a>
-<a href="#heading-2">Start</a>
-<a href="#heading-3">Mansion Floor 1</a>
-<a href="#heading-4">Basement</a>
-<a href="#heading-5">Mansion Floor 2</a>
-<a href="#heading-6">Dungeon Floor 1</a>
-<a href="#heading-7">Dungeon Floor 2</a>
-<a href="#heading-8">Dungeon Floor 3</a>
-<a href="#heading-9">Dungeon Floor 4</a>
-<a href="#heading-10">Dungeon Floor 8</a>
-<a href="#heading-11">Dungeon Floor 7</a>
-<a href="#heading-12">Dungeon Floor 6</a>
-<a href="#heading-13">Dungeon Floor 5</a>
-<a href="#heading-14">Temple Floor 1</a>
-<a href="#heading-15">Temple Floor 2</a>
-<a href="#heading-16">Temple Floor 3</a>
+            </header>
+            <div class="col-12 col-md-10 p-0">
+                <main class="capa-main">
+                    <div class="row m-0 p-0">
+<div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:url(&#39;/assets/guides/lightning-warrior-raidy-2/lightning-warrior-raidy-2-splash.avif&#39;);">
+<div class="title-container p-4">
+<div class="page-extra stroke ">
+<p><span class="visible fa fa-clock"> </span> Updated at 2018-10-09</p>
 </div>
-<p>[[/collapsible]]</p>
+<div class="page-sub-title strong stroke ">
+<p>Written by Buster Wolf</p>
+</div>
+<div class="page-title strong stroke ">
+<p>Lightning Warrior Raidy 2</p>
+</div>
+</div>
+</div>
+<div id="toc" class="table-of-contents">
+<a href="#heading-1" class="toc-h1">Stats</a>
+<a href="#heading-2" class="toc-h1">Start</a>
+<a href="#heading-3" class="toc-h1">Mansion Floor 1</a>
+<a href="#heading-4" class="toc-h1">Basement</a>
+<a href="#heading-5" class="toc-h1">Mansion Floor 2</a>
+<a href="#heading-6" class="toc-h1">Dungeon Floor 1</a>
+<a href="#heading-7" class="toc-h1">Dungeon Floor 2</a>
+<a href="#heading-8" class="toc-h1">Dungeon Floor 3</a>
+<a href="#heading-9" class="toc-h1">Dungeon Floor 4</a>
+<a href="#heading-10" class="toc-h1">Dungeon Floor 8</a>
+<a href="#heading-11" class="toc-h1">Dungeon Floor 7</a>
+<a href="#heading-12" class="toc-h1">Dungeon Floor 6</a>
+<a href="#heading-13" class="toc-h1">Dungeon Floor 5</a>
+<a href="#heading-14" class="toc-h1">Temple Floor 1</a>
+<a href="#heading-15" class="toc-h1">Temple Floor 2</a>
+<a href="#heading-16" class="toc-h1">Temple Floor 3</a>
 </div>
 <div class="container drop-caps p-4 lightning-warrior-raidy-2">
-<p><p>Lightning Warrior Raidy II is the sequel to [http://capa.wikidot.com/guide:lightningwarriorraidy2 the first game].</p>
+<p>Lightning Warrior Raidy II is the sequel to [http://capa.wikidot.com/guide:lightningwarriorraidy2 the first game].</p>
 <p>Very few changes have been made from the first game notably there are no maps to collect, now as you walk through the area your mini map will fill in parts you have stepped on. Raidy can now have a Sword and Shield, 2 Swords or 2 Shields as her weapon choices, some swords are two handed though. Raidys Thunder Slash has been tweaked to now charge up to increase its damage in battle at the cost of 10 MP per charge, the damage being calculated as <strong>Level x 3 per charge</strong> for damage when unleashed. For example charging three times at level 10 then unleashing a Thunder Slash will deal 90 damage (10x3x3). Gold has been added to buy items from the shops though enemies will not always drop them.</p>
 <p>This guide will be going for all scenes &amp; graphics, I will attempt to minimize backtracking as much as possible since it is very easy to over level if you are going for all of them. The material in this game is not meant players who are underage. The amount of EXP monsters will give is <strong>EXP - Raidys level</strong> for example Mercenary will give you 20 EXP when you beat one at Level 1 (21-1) so you will get less EXP as you level up. Suggested level is mainly for a balanced playthrough not too high and not too low for safety or if you want an easier time feel free to be one level higher than the suggested level.</p>
 <h1 id="heading-1">Stats</h1>
@@ -119,7 +156,10 @@
 <p><strong>Mercenary</strong> - Has nothing special about her. <strong>Wererat</strong> - Returns from the first game with a slight tweak, her normal attack has a chance to Poison you like the previous game, but she can steal 15 Gold from you while running away. <strong>Rover</strong> - Can be a threat at early levels since she will tend to dodge often.</p>
 <p><strong>Suggested event sequence</strong> 1. Find the Long Sword (AP+0, DMG+10) from the fake wall. 2. Go see Junk, although nothing will happen yet. 3. Grind to Level 5.</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2mf1.png |title=Mansion Floor 1 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy-2/lwr2mf1.png" alt="Mansion Floor 1 Map">
+        <figcaption>Mansion Floor 1 Map</figcaption>
+    </figure>
 <p>C1 = 5 Remove Poison C2 = 100 Gold C3 = Empty C4 = 200 Gold C5 = 5 Light Heal Potion</p>
 <h1 id="heading-4">Basement</h1>
 <p>Suggested Level: 5 A small maze with a lot of items to pick up, one required for a boss later so don&#39;t miss it. <strong>Enemies</strong></p>
@@ -152,7 +192,10 @@
 <p><strong>Phantom Thief</strong> - Can be a bit hard to hit early levels and it doesn&#39;t help that she can occasionally steal 32 Gold while running away. <strong>Monk</strong> - Can hit pretty hard early, but otherwise nothing special. <strong>Killer Bee</strong> - Can be a threat at early levels since she will tend to dodge often and she has a chance to Poison you.</p>
 <p><strong>Suggested event sequence</strong> 1. Collect Large Shield (PP-1, DEF+4). 2. Find the Barrier Breaking Charm. 3. Bump into the door to the boss to find it is locked. 4. Talk to the Prisoners. 5. Find Magical Disk 1.</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2mb.png |title=Mansion Basement Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy-2/lwr2mb.png" alt="Mansion Basement Map">
+        <figcaption>Mansion Basement Map</figcaption>
+    </figure>
 <p>C1 = Empty C2 = 3 Middle Heal Potion C3 = 300 Gold</p>
 <p>When you finish and have walked into the boss room to see that it is locked go back up to Floor 1 and talk with Junk. Do what he says for him to fork over the <strong>Key to the Torture Chamber</strong> then walk back downstairs. Save before fighting Sudia as due to the game going off of sex if you win and sex if you lose you will want to lose to bosses on purpose if you are going for all scenes (which this guide is leading you towards), specially since Sudia is rather easy to defeat and hard to lose to.</p>
 <p><strong>Boss</strong></p>
@@ -219,7 +262,10 @@
 <p><strong>Grappler</strong> - Returns from the first game with as much treat as she was back then (not much at the level you get there at), she has nothing special about her. <strong>Rouge</strong> - While having the same HP as Grappler will hit slightly harder. <strong>Orc</strong> - Can be really dangerous if you fight her before getting the Breastplate as she deals as much damage as Sudia did if not slightly more.</p>
 <p><strong>Suggested event sequence</strong> 1. Find the Breastplate (PP-4, DEF+25). 2. Find the Earplug. 3. Bump into the door to the boss to find it is locked.</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2mf2.png |title=Mansion Floor 2 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy-2/lwr2mf2.png" alt="Mansion Floor 2 Map">
+        <figcaption>Mansion Floor 2 Map</figcaption>
+    </figure>
 <p>C1 = Empty C2 = 5 Middle Heal Potion C3 = Empty C4 = Empty C5 = 500 Gold C6 = Empty</p>
 <p>When you finish and have walked into the boss room to see that it is locked go back up to Floor 1 and talk with Junk. Do what he says for him to fork over the <strong>Pretty Key</strong>, however instead of going straight back to the boss room leave the mansion to go to Lake Blue.</p>
 <p><strong>Scenes</strong> Go to the Inn, if you got Magical Disk 1 (The Witch&#39;s Problem) choose <strong>Do something else</strong>, <strong>Look in the Magic Mirror</strong>, and <strong>Look</strong>. After it finishes choose <strong>Masturbate</strong>.</p>
@@ -273,7 +319,10 @@
 <p><strong>Imp</strong> - Her attack has a chance to Poison you and her Curse will hit for 33 damage. <strong>Evil Shaman</strong> - Has Curse which will hit for 36 damage. <strong>Dark Priest</strong> - Has Curse which will drain 13 MP from you.</p>
 <p><strong>Suggested event sequence</strong> 1. Bump into the door where the Tired Girl is located to find out it&#39;s locked. 2. Find Amura and talk to her till she gives you the Room Key. 3. Unlock the door to talk to the Tired Girl until she warns you of the bosses barrier. 4. Find the Mysterious Pillow.</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df1.png |title=Dungeon Floor 1 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy-2/lwr2df1.png" alt="Dungeon Floor 1 Map">
+        <figcaption>Dungeon Floor 1 Map</figcaption>
+    </figure>
 <p>C1 = 600 Gold C2 = 5 Remove Poison C3 = 5 Middle Heal Potion C4 = 800 Gold C5 = 5 Mental Heal Potion</p>
 <p><strong>Boss</strong></p>
 <table>
@@ -322,7 +371,10 @@
 <p><strong>Undine</strong> - Returns from the first game though not as much of a treat as she was back then, she has nothing special. <strong>Bloody Crab</strong> - Her attack has a chance to Poison you. <strong>Pirate</strong> - Has nothing special about her.</p>
 <p><strong>Suggested event sequence</strong> 1. Find the Shield +1 (PP+0, DEF+5).</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df2.png |title=Dungeon Floor 2 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy-2/lwr2df2.png" alt="Dungeon Floor 2 Map">
+        <figcaption>Dungeon Floor 2 Map</figcaption>
+    </figure>
 <p>C1 = 1000 Gold C2 = 5 Middle Heal Potion C3 = 1200 Gold C4 = Empty</p>
 <p><strong>Boss</strong></p>
 <table>
@@ -371,7 +423,10 @@
 <p>All enemies will only do physical attacks, Lizard Man will tend to dodge attacks a lot.</p>
 <p><strong>Suggested event sequence</strong> 1. Find the Rusty Key then go back to the locked room with Amura in it on Floor 2 to get the Thief&#39;s Lockpick. 2. Go back down to Floor 3 to look at the frozen men until Amura tells you about a Medusa. 3. Use the Thief&#39;s Lockpick to gain access to the room with the Mirror Shield (PP+0, DEF+3) and collect it.</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df3.png |title=Dungeon Floor 3 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy-2/lwr2df3.png" alt="Dungeon Floor 3 Map">
+        <figcaption>Dungeon Floor 3 Map</figcaption>
+    </figure>
 <p><strong>Boss</strong></p>
 <table>
     <tr>
@@ -419,7 +474,10 @@
 <p><strong>Shadow</strong> - Has Chilling Touch which will drain 17 MP. <strong>Werebat</strong> - Returns from the first game with much more bulk than before, her attack has a chance to Poison now which she didn&#39;t have in the previous game. <strong>Mummy</strong> - Has Chilling Touch which will drain 19 MP.</p>
 <p><strong>Suggested event sequence</strong> 1. Find the Plate Mail +1 (PP-6, DEF+35 called, Plate +1). 2. Find the Great Sword (AP-4, DMG+30, two handed sword). 3. Find Gav and talk to him until he tells you the boss is a Vampire. 4. Find Amura and keep talking to her until she reveals the Cross Sword (AP-5, ATK+25) and lets you keep it. 5. Find Magical Disk 2.</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df4.png |title=Dungeon Floor 4 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy-2/lwr2df4.png" alt="Dungeon Floor 4 Map">
+        <figcaption>Dungeon Floor 4 Map</figcaption>
+    </figure>
 <p>C1 = 5 Middle Heal Potion C2 = 1200 Gold</p>
 <p><strong>Boss</strong></p>
 <table>
@@ -478,7 +536,10 @@
 <p><strong>Suggested event sequence</strong> 1. Head to the Healing Room. 2. Head to the Potion Shop (gives 10 Light Heal Potions, 5 Medium Heal Potions, 5 Heavy Heal Potions, 10 Mental Heal Potions, 5 Mental Recovery Potions, 5 Mental Charge Potions &amp; 10 Remove Poisons). 3. Head to the Equipment Shop, monsters can be encountered once you have equipment so make sure to put your equipment on. 4. Head to the Door with a Soul and do as it tells you to get the Magic Mask.</p>
 <p><strong>Scenes</strong> Return to the Equipment Shop and choose <strong>Have her do it</strong>. Return to the Potion Shop and choose <strong>Have her do it</strong>. Return to the Healing Room and choose <strong>Receive Treatment</strong>, return again and choose <strong>Receive Sex</strong>, return once more and choose <strong>Receive Sex</strong> again (different text).</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df8.png |title=Dungeon Floor 8 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy-2/lwr2df8.png" alt="Dungeon Floor 8 Map">
+        <figcaption>Dungeon Floor 8 Map</figcaption>
+    </figure>
 <p>C1 = Empty C2 = Empty</p>
 <p><strong>Boss</strong></p>
 <table>
@@ -534,7 +595,10 @@
 <p><strong>Man Eater</strong> - A special encounter found in a chest, it is a really weak monster, its attack has a chance to Poison. <strong>Centaur</strong> - Has nothing special about her. <strong>Minotaur</strong> - Returns from the first game with much more bulk than before, not as threatening as she was back in the previous game. <strong>Harpy</strong> - Has Glare which will drain 23 MP.</p>
 <p><strong>Suggested event sequence</strong> 1. Find the Mythril Sword (AP+3 ,DMG+30). 2. Find Horn and save her. 3. Find the Resist Ring (PP+2, called Ring of Speed). 4. Find the Ice Shield (PP-3, DEF+6). 5. Head to the Door with a Soul and do as it tells you to get the Sexcalibur (AP+1, DMG+40).</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df7.png |title=Dungeon Floor 7 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy-2/lwr2df7.png" alt="Dungeon Floor 7 Map">
+        <figcaption>Dungeon Floor 7 Map</figcaption>
+    </figure>
 <p>C1 = 5 Heavy Heal Potion</p>
 <p><strong>Boss</strong></p>
 <table>
@@ -595,7 +659,10 @@
 <p><strong>Man Eater</strong> - A special encounter found in a chest, it is a really weak monster, its attack has a chance to Poison. <strong>Woman Eater</strong> - Another special encounter found in a chest, unlike Man Eater it is quite strong while still having the chance to Poison. However if you lose to this one (while not Poisoned) you will get a scene so make sure to save in front of the chest with it (as you&#39;ll have 1HP after the loss). <strong>Ninja</strong> - Her attack has a chance to Poison. <strong>Nekomata</strong> - Has nothing special about her. <strong>Nine-Tailed Fox</strong> - Has Curse which will do 75 damage.</p>
 <p><strong>Suggested event sequence</strong> 1. Find the Woman Eater and lose for an event (save beforehand). 2. Find Magical Disk 3. 3. Free the Girls from their cell.</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df6.png |title=Dungeon Floor 6 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy-2/lwr2df6.png" alt="Dungeon Floor 6 Map">
+        <figcaption>Dungeon Floor 6 Map</figcaption>
+    </figure>
 <p><strong>Boss</strong></p>
 <table>
     <tr>
@@ -642,7 +709,10 @@
 <p><strong>Lesser Demon</strong> - Her attack has a chance to Poison and her Curse will do 75 damage. <strong>Cursed Warrior</strong> - Has Glare which will drain 26 MP. <strong>Nightmare</strong> - Has Glare which will drain 27 MP.</p>
 <p><strong>Suggested event sequence</strong> 1. Find the Protect Ring (DEF+5, called Ring of Protection) 2. Save Jami. 3. Find the Mythril Plate Mail (PP-5, DEF+40, called Mythril Plate) 4. Find the Ice Shield (PP+0, DEF+8). 5. Find the Spirit Slayer (AP-2, DMG+45, two handed Sword).</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2df5.png |title=Dungeon Floor 5 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy-2/lwr2df5.png" alt="Dungeon Floor 5 Map">
+        <figcaption>Dungeon Floor 5 Map</figcaption>
+    </figure>
 <p>C1 = 5 Mental Charge Potions C2 = 5 Remove Poisons</p>
 <p><strong>Boss</strong></p>
 <table>
@@ -692,7 +762,10 @@
 <p><strong>Jester</strong> - Has Curse which will do 75 damage (50 with Magical Bandanna). <strong>Illusionist</strong> - Has Curse which will do 78 damage (52 with Magical Bandanna). <strong>Wisp</strong> - Has Flash which will drain 27 MP.</p>
 <p><strong>Suggested event sequence</strong> 1. Find the Magical Bandanna (Reduced fixed damage skill attacks by 30%). 2. Find the Dragon Scale Shield (PP-4, DEF+10). 3. Talk the Scared Prisoners. 4. Talk to the Scared Girl.</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2tf1.png |title=Temple Floor 1 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy-2/lwr2tf1.png" alt="Temple Floor 1 Map">
+        <figcaption>Temple Floor 1 Map</figcaption>
+    </figure>
 <p>C1 = 5 Heavy Heal Potion C2 = Empty</p>
 <p><strong>Boss</strong></p>
 <table>
@@ -740,7 +813,10 @@
 <p><strong>Unicorn</strong> - Has nothing special about her. <strong>Cupid</strong> - Has Curse which will do 84 damage (52 with Magical Bandanna). <strong>Gargoyle</strong> - Has nothing special about her.</p>
 <p><strong>Suggested event sequence</strong> 1. Find the Giant&#39;s Bracelet (PP-4, DEF+8). 2. Find Magical Disk 4. 3. Find the Bloodsucker (AP-6, DMG+60, two handed Sword). 4. Talk to the Prisoners.</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2tf2.png |title=Temple Floor 2 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy-2/lwr2tf2.png" alt="Temple Floor 2 Map">
+        <figcaption>Temple Floor 2 Map</figcaption>
+    </figure>
 <p>C1 = 5 Heavy Heal Potion C2 = 5 Mental Charge Potion</p>
 <p><strong>Boss</strong></p>
 <table>
@@ -789,18 +865,41 @@
 <p><strong>Dragon Knight</strong> - Has Bless which will do 87 damage (58 with Magical Bandanna). <strong>Manticore</strong> - Has Curse which will do 90 damage (60 with Magical Bandanna). <strong>Burghest</strong> - Has Bless which will do 90 damage (60 with Magical Bandanna).</p>
 <p><strong>Suggested event sequence</strong> 1. Find the Invincible Armor (PP-7, DEF+50). 2. Find the Desriot Figurine. 3. Find the Kutibe Figurine.</p>
 <p><strong>Map</strong></p>
-<p>[[include image |option=contain |image=/local--files/guide:lightningwarriorraidy2/lwr2tf3.png |title=Temple Floor 3 Map]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/lightning-warrior-raidy-2/lwr2tf3.png" alt="Temple Floor 3 Map">
+        <figcaption>Temple Floor 3 Map</figcaption>
+    </figure>
 <p>C1 = 5 Mental Charge Potion C2 = 5 Remove Poison C3 = 5 Heavy Heal Potion</p>
 <p><strong>Final Boss</strong> Priest Gav HP: 750</p>
 <p>His normal attack will hit for around 45 damage while his Curse does 96 damage (64 with Magical Bandanna). Use a Heavy Heal Potion at around 100 HP. After defeating him he will transform and begin the second phase of the battle.</p>
 <p>Gav HP: 1300</p>
 <p>His normal attack will hit for around 68 damage while his Bless does 105 damage (70 with Magical Bandanna). Use a Heavy Heal Potion at around 150 HP.</p>
-<p>Regardless which phase of Gav you lose to you will get the same lose scene. Enjoy the ending.</p></p>
+<p>Regardless which phase of Gav you lose to you will get the same lose scene. Enjoy the ending.</p>
 </div>
 </div>
-</div>
-<p>[[module css]] .toc-bg {background-image: url(&#39;http://capa.wdfiles.com/local--files/guides:lightning-warrior-raidy-2/lightning-warrior-raidy-2-sidebar.avif&#39;);} .guide-article-hide {display:none;} .guide-article-only {display:block;} [[/module]]</p>
-    </main>
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                            CAPA
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/home:home">Home</a> · 
+                                <a href="/home:guide">Guide</a> · 
+                                <a href="/home:article">Article</a>
+                        </div>
+                            <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
 </body>
 </html>

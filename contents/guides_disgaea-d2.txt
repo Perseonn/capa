@@ -1397,10 +1397,10 @@ This map is best for increasing Weapon Mastery. The area you want to be in is th
 
 **Cave of Ordeal 6**
 The repeated version of this map has 2 sets of Rahab's, one in a 2x3 formation with another behind them in a 3x3 formation. All are standing on EXP+100% and Mana+100% panels, a neat thing about them is as long as you stay 7 panels away from them they will not move which are detailed in the diagram below, this only works for magic users to have an easier time leveling up. If you are within 6 panels of them they will attack with Lorenzini which will hit 3 panels in front of their 3 movement range.
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:disgaead2 |image= dd2frontsafespot.png |title=Front 6 Rahab's]]
-[[include :fiction:common:article-image |page=guide:disgaead2 |image= dd2backsafespot.png |title=Back 9 Rahab's]]
-[[include :fiction:roster:end]]
+
+[[image dd2frontsafespot.png | Front 6 Rahab's]]
+[[image dd2backsafespot.png | Back 9 Rahab's]]
+
 
 **Normal setting**
 These are the stats the Rahab's can have when LoC Mode is set to Normal, Rasetsu Mode does not change the enemy stats. They aren't too hard to hit with a leveled Emblem as their SPD stat is quite low. Safe Damage is how much damage you will want to deal to every Rahab, in the case where you do not outright kill each one make sure to have 2 Mothman units with the Evility Full of Miasma and a Sorcerer so that you can put the ones who lived to sleep.

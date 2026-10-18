@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Cookie Run Kingdom</title>
+    <meta name="description" content="This guide is intended for newbies and returnee alike. If you have questions such as &quot;What cookie to...">
+    
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/css/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -13,9 +16,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
-
-    <title>Cookie Run Kingdom</title>
-    <meta name="description" content="This guide is intended for newbies and returnee alike. If you have questions such as &quot;What cookie to...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
@@ -31,57 +31,94 @@
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
     <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
     <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
     <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
-    <header>
-        <nav>
-    <a href="/">Home</a>
-    <a href="/guides/">Guides</a>
-    <a href="/articles/">Articles</a>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-md-2 p-0">
+                <nav class="capa-navbar" aria-label="Main navigation">
+
+    <!-- Mobile-only Expand Button -->
+    <button
+        class="capa-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="capa-nav-content"
+        aria-label="Open navigation"
+    >
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    
+    <!-- Mobile-only Close Button -->
+    <button
+        class="capa-nav-overlay"
+        type="button"
+        aria-label="Close navigation"
+        tabindex="-1"
+        aria-hidden="true"
+    ></button>
+
+    <!-- Shared navigation and TOC -->
+    <div id="capa-nav-content">
+        <div class="nav-item">
+            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        </div>
+        <div class="nav-item">
+            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        </div>
+        <div class="nav-item">
+            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        </div>
+        <!-- TOC will be moved here by move-toc-to-nav.js -->
+    </div>
+
 </nav>
-    </header>
-    <main>
-        <div class="row m-0 p-0">
-<p>[[div class=&quot;col-md-2 hidden-xs hidden-sm guide table-of-contents p-0&quot; role=&quot;navigation&quot;]]</p>
-<p>[[include nav:main]]</p>
-<p>[[/div]][!<del> Close the role=navigation </del>]</p>
-<p>[!<del> </del><del></del><del> </del><del></del><del> Border between Nav and Main Content </del><del></del><del> </del><del></del><del> </del>]</p>
-<p>[[div_ class=&quot;col-md-10 col-md-offset-2 col-xs-12 main main-container p-0&quot;]]</p>
-<p>[[include component:splash |splash-class=full-height |splash-style=background-image:url(&#39;http://capa.wdfiles.com/local--files/guides%3Acookie-run-kingdom/cookie-run-kingdom-splash.avif&#39;); |text-title=Cookie Run Kingdom |text-sub-title=Written by Perseonn Balthasaar |text-extra=Updated on %%updated_at%% |text-extra-icon=fa fa-clock ]]</p>
-<div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl">
-<p>[[collapsible show=&quot;Table of Contents&quot; hide=&quot;Collapse Table of Contents&quot;]]</p>
-<div class="table-of-contents">
-<a href="#heading-1">[[# important]] The Most Important Thing</a>
-<a href="#heading-2">[[# first-thing]]I&#39;m new / I just returned after months, what cookies should I get?</a>
-<a href="#heading-3">[[# toppings]] What Toppings?</a>
-<a href="#heading-4">Topping Grinding Strategy</a>
-<a href="#heading-5">[[# beascuits]] I keep failing attuning Beascuits!</a>
-<a href="#heading-6">[[# mota]] Who should I get from Might of the Ancients?</a>
-<a href="#heading-7">[[# best-legendary]] Who is the best Legendary?</a>
-<a href="#heading-8">[[# coins]] Where do I get coins?</a>
-<a href="#heading-9">[[# moolah]] What should I spend real money on?</a>
-<a href="#heading-10">[[# get-stronger]] How do I get stronger?</a>
-<a href="#heading-11">[[# exp]] How do I get more EXP?</a>
-<a href="#heading-12">[[# treasure]] Which treasure should I get?</a>
-<a href="#heading-13">[[# landmark]] Which landmark is the best?</a>
-<a href="#heading-14">[[# research]] Which Research should I do?</a>
-<a href="#heading-15">[[# statue]] What is the statue of Statue of Radiance?</a>
-<a href="#heading-16">[[# bonds]] What are Bonds?</a>
-<a href="#heading-17">[[# relics]] What are Guild Relics?</a>
-<a href="#heading-18">[[# resonant]] What&#39;s a Mysterious Toppings or Resonant Toppings?</a>
-<a href="#heading-19">Where to look for Guild Battles, Arena, and certain stages?</a>
-<a href="#heading-20">Closing</a>
-<a href="#heading-21">Changelog</a>
+            </header>
+            <div class="col-12 col-md-10 p-0">
+                <main class="capa-main">
+                    <div class="row m-0 p-0">
+<div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:url(&#39;/assets/guides/cookie-run-kingdom/cookie-run-kingdom-splash.avif&#39;);">
+<div class="title-container p-4">
+<div class="page-extra stroke ">
+<p><span class="visible fa fa-clock"> </span> Updated at 2025-04-06</p>
 </div>
-<p>[[/collapsible]]</p>
+<div class="page-sub-title strong stroke ">
+<p>Written by Perseonn Balthasaar</p>
+</div>
+<div class="page-title strong stroke ">
+<p>Cookie Run Kingdom</p>
+</div>
+</div>
+</div>
+<div id="toc" class="table-of-contents">
+<a href="#heading-1" class="toc-h1">[[# important]] The Most Important Thing</a>
+<a href="#heading-2" class="toc-h1">[[# first-thing]]I&#39;m new / I just returned after months, what cookies should I get?</a>
+<a href="#heading-3" class="toc-h1">[[# toppings]] What Toppings?</a>
+<a href="#heading-4" class="toc-h2">Topping Grinding Strategy</a>
+<a href="#heading-5" class="toc-h1">[[# beascuits]] I keep failing attuning Beascuits!</a>
+<a href="#heading-6" class="toc-h1">[[# mota]] Who should I get from Might of the Ancients?</a>
+<a href="#heading-7" class="toc-h1">[[# best-legendary]] Who is the best Legendary?</a>
+<a href="#heading-8" class="toc-h1">[[# coins]] Where do I get coins?</a>
+<a href="#heading-9" class="toc-h1">[[# moolah]] What should I spend real money on?</a>
+<a href="#heading-10" class="toc-h1">[[# get-stronger]] How do I get stronger?</a>
+<a href="#heading-11" class="toc-h2">[[# exp]] How do I get more EXP?</a>
+<a href="#heading-12" class="toc-h2">[[# treasure]] Which treasure should I get?</a>
+<a href="#heading-13" class="toc-h2">[[# landmark]] Which landmark is the best?</a>
+<a href="#heading-14" class="toc-h2">[[# research]] Which Research should I do?</a>
+<a href="#heading-15" class="toc-h2">[[# statue]] What is the statue of Statue of Radiance?</a>
+<a href="#heading-16" class="toc-h2">[[# bonds]] What are Bonds?</a>
+<a href="#heading-17" class="toc-h2">[[# relics]] What are Guild Relics?</a>
+<a href="#heading-18" class="toc-h1">[[# resonant]] What&#39;s a Mysterious Toppings or Resonant Toppings?</a>
+<a href="#heading-19" class="toc-h1">Where to look for Guild Battles, Arena, and certain stages?</a>
+<a href="#heading-20" class="toc-h1">Closing</a>
+<a href="#heading-21" class="toc-h2">Changelog</a>
 </div>
 <div class="container drop-caps p-4 cookie-run-kingdom">
-<p><p>This guide is intended for newbies and returnee alike. If you have questions such as &quot;What cookie to use&quot;, &quot;Please help make my team&quot;, &quot;Is this cookie good&quot;, &quot;Which is the best legendary&quot;, then this is the one stop for all your questions!</p>
+<p>This guide is intended for newbies and returnee alike. If you have questions such as &quot;What cookie to use&quot;, &quot;Please help make my team&quot;, &quot;Is this cookie good&quot;, &quot;Which is the best legendary&quot;, then this is the one stop for all your questions!</p>
 <div class="alert alert-danger">
 <p><span class="fa fa-warning">@&lt;&amp;nbsp;&gt;@</span> <strong>Obsolesce warning</strong> This guide is no longer maintained after March 2025. Only general information will be kept.</p>
 </div>
@@ -93,7 +130,10 @@
     <li>No more random people getting cookies messages!</li>
 </ul>
 
-<p>[[include image |image=/local--files/guide:cookie-run-kingdom/crk-global-notification.webp |title=For your piece of mind, turn this option off! ]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/cookie-run-kingdom/crk-global-notification.webp" alt="For your piece of mind, turn this option off!">
+        <figcaption>For your piece of mind, turn this option off!</figcaption>
+    </figure>
 <h1 id="heading-2">[[# first-thing]]I&#39;m new / I just returned after months, what cookies should I get?</h1>
 <ul>
     <li>Most Story Content, at least to Crispia 18, can be cleared with 3 cookies: <span class="icon cine">Cine (Fettuccine)</span>, <span class="icon creme-brulee">Creme Brulee</span>, and <span class="icon star-coral">Star Coral</span>.
@@ -111,7 +151,10 @@
     </li>
 </ul>
 
-<p>[[include common:image-css |image=http://capa.wikidot.com/local--files/guide:cookie-run-kingdom/crk-mileage-point.webp |title=Use your Mileage points to get the Epic cookies you don&#39;t have. ]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/cookie-run-kingdom/crk-mileage-point.webp" alt="Use your Mileage points to get the Epic cookies you don&#39;t have.">
+        <figcaption>Use your Mileage points to get the Epic cookies you don&#39;t have.</figcaption>
+    </figure>
 <h1 id="heading-3">[[# toppings]] What Toppings?</h1>
 <ul>
     <li>In general, Cookies&#39;s topping can be grouped by:
@@ -175,7 +218,10 @@
     </li>
 </ul>
 
-<p>[[include image |image=/local--files/guide:cookie-run-kingdom/crk-tree-of-wishes.webp |title=Tree of Wishes is your main source of coins. Please don&#39;t try to find alternatives. ]]</p>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/cookie-run-kingdom/crk-tree-of-wishes.webp" alt="Tree of Wishes is your main source of coins. Please don&#39;t try to find alternatives.">
+        <figcaption>Tree of Wishes is your main source of coins. Please don&#39;t try to find alternatives.</figcaption>
+    </figure>
 <h1 id="heading-9">[[# moolah]] What should I spend real money on?</h1>
 <ul>
     <li>Should you want to spend money, Passes like Kingdom Pass are well worth the price.</li>
@@ -321,62 +367,33 @@
 <p>If you need further assistance, you can go to contact me on Discord at Perseonn#7731. Have fun!</p>
 <h2 id="heading-21">Changelog</h2>
 <div class="alert alert-info">
-<table>
-    <tr>
-        <td>2025/03/15</td>
-        <td>Make the guide to be much more general and added obsolete warning.</td>
-    </tr>
-    <tr>
-        <td>2024/05/06</td>
-        <td>General update on Cookie List and removal of alternatives on Red Velvet Dragon.</td>
-    </tr>
-    <tr>
-        <td>2024/03/23</td>
-        <td>Streamlined Avatar of Destiny Battle</td>
-    </tr>
-    <tr>
-        <td>2024/02/27</td>
-        <td>Removed Macaron and Rockstar from Avatar of Destiny battle. Collapsed Abyss guide due to inefficiency.</td>
-    </tr>
-    <tr>
-        <td>2024/02/25</td>
-        <td>Separated Avatar of Destiny battle to Auto and Manual.</td>
-    </tr>
-    <tr>
-        <td>2024/02/23</td>
-        <td>Shuffled piority of damagers due to Creme being mileagable.</td>
-    </tr>
-    <tr>
-        <td>2024/02/17</td>
-        <td>Shifter Blackberry use to the lineup of Avatar of Destiny.</td>
-    </tr>
-    <tr>
-        <td>2024/01/28</td>
-        <td>Added Rebel to the lineup of Avatar of Destiny.</td>
-    </tr>
-    <tr>
-        <td>2024/01/21</td>
-        <td>Updated with anchors and revisions considering the addition of Beascuits.</td>
-    </tr>
-    <tr>
-        <td>2024/01/15</td>
-        <td>Updated Red Velvet Dragon with Rebel Cookie.</td>
-    </tr>
-    <tr>
-        <td>2023/12/23</td>
-        <td>Added images and expanded landmark explanations.</td>
-    </tr>
-    <tr>
-        <td>2023/12/23</td>
-        <td>Initial version, contains all information from the Reddit Discord.</td>
-    </tr>
-</table>
-</div></p>
+<p>| | 2025/03/15  | | Make the guide to be much more general and added obsolete warning. | | | | 2024/05/06  | | General update on Cookie List and removal of alternatives on Red Velvet Dragon. | | | | 2024/03/23  | | Streamlined Avatar of Destiny Battle  | | | | 2024/02/27  | | Removed Macaron and Rockstar from Avatar of Destiny battle. Collapsed Abyss guide due to inefficiency. | | | | 2024/02/25  | | Separated Avatar of Destiny battle to Auto and Manual.  | | | | 2024/02/23  | | Shuffled piority of damagers due to Creme being mileagable.  | | | | 2024/02/17  | | Shifter Blackberry use to the lineup of Avatar of Destiny.  | | | | 2024/01/28  | | Added Rebel to the lineup of Avatar of Destiny.  | | | | 2024/01/21  | | Updated with anchors and revisions considering the addition of Beascuits.  | | | | 2024/01/15  | | Updated Red Velvet Dragon with Rebel Cookie.  | | | | 2023/12/23  | | Added images and expanded landmark explanations.  | | | | 2023/12/23  | | Initial version, contains all information from the Reddit Discord.  | |</p>
 </div>
 </div>
 </div>
-<p>[[module css]] .toc-bg {background-image: url(&#39;http://capa.wdfiles.com/local--files/guides:cookie-run-kingdom/cookie-run-kingdom-sidebar.avif&#39;);} .guide-article-hide {display:none;} .guide-article-only {display:block;} [[/module]]</p>
-    </main>
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                            CAPA
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/home:home">Home</a> · 
+                                <a href="/home:guide">Guide</a> · 
+                                <a href="/home:article">Article</a>
+                        </div>
+                            <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
 </body>
 </html>

@@ -1,0 +1,862 @@
+[
+    {
+        "category": "articles",
+        "slug": "a-space-for-the-unbound",
+        "sourceName": "articles_a-space-for-the-unbound",
+        "url": "/articles/a-space-for-the-unbound/",
+        "title": "A Space for the Unbound Review",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-06-12",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "base-counting-trick",
+        "sourceName": "articles_base-counting-trick",
+        "url": "/articles/base-counting-trick/",
+        "title": "Base Counting Trick",
+        "author": "Perseonn Balthasaar",
+        "updated": "2015-12-18",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "clair-obscur-expedition-33",
+        "sourceName": "articles_clair-obscur-expedition-33",
+        "url": "/articles/clair-obscur-expedition-33/",
+        "title": "Clair Obscur - Expedition 33 Review",
+        "author": "Perseonn Balthasaar",
+        "updated": "2025-05-24",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "colon-cancer-in-titles",
+        "sourceName": "articles_colon-cancer-in-titles",
+        "url": "/articles/colon-cancer-in-titles/",
+        "title": "Colon Cancer in Titles",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-09-04",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "control",
+        "sourceName": "articles_control",
+        "url": "/articles/control/",
+        "title": "Control Review",
+        "author": "Perseonn Balthasaar",
+        "updated": "2025-04-03",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "daemon-x-machina",
+        "sourceName": "articles_daemon-x-machina",
+        "url": "/articles/daemon-x-machina/",
+        "title": "Daemon X Machina Review",
+        "author": "Perseonn Balthasaar",
+        "updated": "2025-04-06",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "devsin",
+        "sourceName": "articles_devsin",
+        "url": "/articles/devsin/",
+        "title": "Developer's Sin",
+        "author": "Perseonn Balthasaar",
+        "updated": "2014-05-12",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "dosmartin",
+        "sourceName": "articles_dosmartin",
+        "url": "/articles/dosmartin/",
+        "title": "Martin and His WordStar 4.0",
+        "author": "Perseonn Balthasaar",
+        "updated": "2014-05-19",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "kyoukotsu-no-yume",
+        "sourceName": "articles_kyoukotsu-no-yume",
+        "url": "/articles/kyoukotsu-no-yume/",
+        "title": "Kyoukotsu no Yume Review",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-09-09",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "mouryou-no-hako",
+        "sourceName": "articles_mouryou-no-hako",
+        "url": "/articles/mouryou-no-hako/",
+        "title": "Mouryou no Hako Review",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-09-08",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "puso-ni-anime-sub",
+        "sourceName": "articles_puso-ni-anime-sub",
+        "url": "/articles/puso-ni-anime-sub/",
+        "title": "Anime PuSo Ni Comi + Okawari English Subs (Completed)",
+        "author": "Perseonn Balthasaar",
+        "updated": "2019-02-12",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "recettear",
+        "sourceName": "articles_recettear",
+        "url": "/articles/recettear/",
+        "title": "Recettear Review",
+        "author": "Perseonn Balthasaar",
+        "updated": "2014-05-13",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "resident-evil-3-remake",
+        "sourceName": "articles_resident-evil-3-remake",
+        "url": "/articles/resident-evil-3-remake/",
+        "title": "Resident Evil 3 Remake Review",
+        "author": "Perseonn Balthasaar",
+        "updated": "2025-04-02",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "rose-and-camellia",
+        "sourceName": "articles_rose-and-camellia",
+        "url": "/articles/rose-and-camellia/",
+        "title": "Rose and Camellia Review",
+        "author": "Perseonn Balthasaar",
+        "updated": "2014-05-16",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "shin-megami-tensei-nocturne",
+        "sourceName": "articles_shin-megami-tensei-nocturne",
+        "url": "/articles/shin-megami-tensei-nocturne/",
+        "title": "Shin Megami Tensei Nocturne Review",
+        "author": "Perseonn Balthasaar",
+        "updated": "2014-05-14",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "summer-of-ubume",
+        "sourceName": "articles_summer-of-ubume",
+        "url": "/articles/summer-of-ubume/",
+        "title": "Summer of Ubume Review",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-09-04",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "tdcg",
+        "sourceName": "articles_tdcg",
+        "url": "/articles/tdcg/",
+        "title": "3D Custom Shoujo Review",
+        "author": "Perseonn Balthasaar",
+        "updated": "2014-10-09",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "ther-melian-1",
+        "sourceName": "articles_ther-melian-1",
+        "url": "/articles/ther-melian-1/",
+        "title": "Ther Melian RPG Progress (Prologue to Chapter 1)",
+        "author": "Perseonn Balthasaar",
+        "updated": "2016-05-28",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "ther-melian-2",
+        "sourceName": "articles_ther-melian-2",
+        "url": "/articles/ther-melian-2/",
+        "title": "Ther Melian RPG Progress (Chapter 2)",
+        "author": "Perseonn Balthasaar",
+        "updated": "2016-06-11",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "ther-melian-3",
+        "sourceName": "articles_ther-melian-3",
+        "url": "/articles/ther-melian-3/",
+        "title": "Ther Melian RPG Progress (Chapter 3)",
+        "author": "Perseonn Balthasaar",
+        "updated": "2016-06-26",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "ther-melian-4",
+        "sourceName": "articles_ther-melian-4",
+        "url": "/articles/ther-melian-4/",
+        "title": "Ther Melian RPG Progress (Chapter 4)",
+        "author": "Perseonn Balthasaar",
+        "updated": "2016-07-11",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "ther-melian-5",
+        "sourceName": "articles_ther-melian-5",
+        "url": "/articles/ther-melian-5/",
+        "title": "Ther Melian RPG Progress (Chapter 5)",
+        "author": "Perseonn Balthasaar",
+        "updated": "2016-07-24",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "ther-melian-6-7",
+        "sourceName": "articles_ther-melian-6-7",
+        "url": "/articles/ther-melian-6-7/",
+        "title": "Ther Melian RPG Progress (Chapter 6)",
+        "author": "Perseonn Balthasaar",
+        "updated": "2016-08-21",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "video-portfolio",
+        "sourceName": "articles_video-portfolio",
+        "url": "/articles/video-portfolio/",
+        "title": "Video Portfolio",
+        "author": "Perseonn Balthasaar",
+        "updated": "2024-03-30",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "yakuza-0",
+        "sourceName": "articles_yakuza-0",
+        "url": "/articles/yakuza-0/",
+        "title": "Yakuza 0 Review",
+        "author": "Perseonn Balthasaar",
+        "updated": "2025-04-04",
+        "wip": false
+    },
+    {
+        "category": "articles",
+        "slug": "zombiereverse",
+        "sourceName": "articles_zombiereverse",
+        "url": "/articles/zombiereverse/",
+        "title": "Zombie Apocalypse Antitheses",
+        "author": "Perseonn Balthasaar",
+        "updated": "2014-05-13",
+        "wip": false
+    },
+    {
+        "category": "component",
+        "slug": "list-page-item",
+        "sourceName": "component_list-page-item",
+        "url": "/component/list-page-item/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "component",
+        "slug": "pso2-manaka",
+        "sourceName": "component_pso2-manaka",
+        "url": "/component/pso2-manaka/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "component",
+        "slug": "pso2-nav",
+        "sourceName": "component_pso2-nav",
+        "url": "/component/pso2-nav/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "component",
+        "slug": "pso2-pet-pa-notes",
+        "sourceName": "component_pso2-pet-pa-notes",
+        "url": "/component/pso2-pet-pa-notes/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "component",
+        "slug": "pso2-pet-pa-sample",
+        "sourceName": "component_pso2-pet-pa-sample",
+        "url": "/component/pso2-pet-pa-sample/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "component",
+        "slug": "pso2-pet-pa",
+        "sourceName": "component_pso2-pet-pa",
+        "url": "/component/pso2-pet-pa/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "component",
+        "slug": "pso2-pet-profile-1",
+        "sourceName": "component_pso2-pet-profile-1",
+        "url": "/component/pso2-pet-profile-1/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "component",
+        "slug": "pso2-pet-profile-2",
+        "sourceName": "component_pso2-pet-profile-2",
+        "url": "/component/pso2-pet-profile-2/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "component",
+        "slug": "pso2-pet-profile-3",
+        "sourceName": "component_pso2-pet-profile-3",
+        "url": "/component/pso2-pet-profile-3/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "component",
+        "slug": "pso2-pros-cons",
+        "sourceName": "component_pso2-pros-cons",
+        "url": "/component/pso2-pros-cons/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "component",
+        "slug": "splash",
+        "sourceName": "component_splash",
+        "url": "/component/splash/",
+        "title": "Component - Splash",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "guide-component",
+        "slug": "pso2-damage-evaluation",
+        "sourceName": "guide-component_pso2-damage-evaluation",
+        "url": "/guide-component/pso2-damage-evaluation/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "guide-component",
+        "slug": "pso2-pet-cery",
+        "sourceName": "guide-component_pso2-pet-cery",
+        "url": "/guide-component/pso2-pet-cery/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "guide-component",
+        "slug": "pso2-pet-maron",
+        "sourceName": "guide-component_pso2-pet-maron",
+        "url": "/guide-component/pso2-pet-maron/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "guide-component",
+        "slug": "pso2-pet-melon",
+        "sourceName": "guide-component_pso2-pet-melon",
+        "url": "/guide-component/pso2-pet-melon/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "guide-component",
+        "slug": "pso2-pet-rappy",
+        "sourceName": "guide-component_pso2-pet-rappy",
+        "url": "/guide-component/pso2-pet-rappy/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "guide-component",
+        "slug": "pso2-pet-redran",
+        "sourceName": "guide-component_pso2-pet-redran",
+        "url": "/guide-component/pso2-pet-redran/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "guide-component",
+        "slug": "pso2-pet-synchro",
+        "sourceName": "guide-component_pso2-pet-synchro",
+        "url": "/guide-component/pso2-pet-synchro/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "guide-component",
+        "slug": "pso2-pet-torim",
+        "sourceName": "guide-component_pso2-pet-torim",
+        "url": "/guide-component/pso2-pet-torim/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "guide-component",
+        "slug": "pso2-pet-viola",
+        "sourceName": "guide-component_pso2-pet-viola",
+        "url": "/guide-component/pso2-pet-viola/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "guide-component",
+        "slug": "pso2-pet-wanda",
+        "sourceName": "guide-component_pso2-pet-wanda",
+        "url": "/guide-component/pso2-pet-wanda/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "guide-component",
+        "slug": "pso2-su-advanced",
+        "sourceName": "guide-component_pso2-su-advanced",
+        "url": "/guide-component/pso2-su-advanced/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "guide-component",
+        "slug": "pso2-su-basic",
+        "sourceName": "guide-component_pso2-su-basic",
+        "url": "/guide-component/pso2-su-basic/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "guide-component",
+        "slug": "pso2-su-intermediate",
+        "sourceName": "guide-component_pso2-su-intermediate",
+        "url": "/guide-component/pso2-su-intermediate/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "guide-component",
+        "slug": "pso2-wp-augment",
+        "sourceName": "guide-component_pso2-wp-augment",
+        "url": "/guide-component/pso2-wp-augment/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "guide-component",
+        "slug": "pso2-wp-mats",
+        "sourceName": "guide-component_pso2-wp-mats",
+        "url": "/guide-component/pso2-wp-mats/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "battle-arena-toshinden-3",
+        "sourceName": "guides_battle-arena-toshinden-3",
+        "url": "/guides/battle-arena-toshinden-3/",
+        "title": "Battle Arena Toshinden 3",
+        "author": "Perseonn Balthasaar",
+        "updated": "2025-12-22",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "breath-of-fire-3",
+        "sourceName": "guides_breath-of-fire-3",
+        "url": "/guides/breath-of-fire-3/",
+        "title": "Breath of Fire III",
+        "author": "Perseonn Balthasaar",
+        "updated": "2025-04-06",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "cookie-run-kingdom",
+        "sourceName": "guides_cookie-run-kingdom",
+        "url": "/guides/cookie-run-kingdom/",
+        "title": "Cookie Run Kingdom",
+        "author": "Perseonn Balthasaar",
+        "updated": "2025-04-06",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "destiny-of-an-emperor",
+        "sourceName": "guides_destiny-of-an-emperor",
+        "url": "/guides/destiny-of-an-emperor/",
+        "title": "Destiny of an Emperor",
+        "author": "Buster Wolf",
+        "updated": "2026-09-25",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "disgaea-1",
+        "sourceName": "guides_disgaea-1",
+        "url": "/guides/disgaea-1/",
+        "title": "Disgaea: Hour of Darkness",
+        "author": "Buster Wolf",
+        "updated": "2025-04-06",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "disgaea-2",
+        "sourceName": "guides_disgaea-2",
+        "url": "/guides/disgaea-2/",
+        "title": "Disgaea 2: Cursed Memories",
+        "author": "Buster Wolf",
+        "updated": "2025-04-01",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "disgaea-3",
+        "sourceName": "guides_disgaea-3",
+        "url": "/guides/disgaea-3/",
+        "title": "Disgaea 3: Absense of Justice",
+        "author": "Buster Wolf",
+        "updated": "2025-04-06",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "disgaea-4",
+        "sourceName": "guides_disgaea-4",
+        "url": "/guides/disgaea-4/",
+        "title": "Disgaea 4: A Promise Unforgotten",
+        "author": "Buster Wolf",
+        "updated": "2025-04-06",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "disgaea-d2",
+        "sourceName": "guides_disgaea-d2",
+        "url": "/guides/disgaea-d2/",
+        "title": "Disgaea 4: A Promise Unforgotten",
+        "author": "Buster Wolf",
+        "updated": "2025-04-06",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "dynasty-warriors-2",
+        "sourceName": "guides_dynasty-warriors-2",
+        "url": "/guides/dynasty-warriors-2/",
+        "title": "Dynasty Warriors 2",
+        "author": "Buster Wolf",
+        "updated": "2025-31-01",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "dynasty-warriors-3-xtreme-legends",
+        "sourceName": "guides_dynasty-warriors-3-xtreme-legends",
+        "url": "/guides/dynasty-warriors-3-xtreme-legends/",
+        "title": "Dynasty Warriors",
+        "author": "Buster Wolf",
+        "updated": "2025-04-06",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "dynasty-warriors-3",
+        "sourceName": "guides_dynasty-warriors-3",
+        "url": "/guides/dynasty-warriors-3/",
+        "title": "Dynasty Warriors 3",
+        "author": "Buster Wolf",
+        "updated": "2026-09-25",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "dynasty-warriors-4-xtreme-legends",
+        "sourceName": "guides_dynasty-warriors-4-xtreme-legends",
+        "url": "/guides/dynasty-warriors-4-xtreme-legends/",
+        "title": "Dynasty Warriors 4",
+        "author": "Buster Wolf",
+        "updated": "2026-09-25",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "dynasty-warriors-4",
+        "sourceName": "guides_dynasty-warriors-4",
+        "url": "/guides/dynasty-warriors-4/",
+        "title": "Dynasty Warriors 4",
+        "author": "Buster Wolf",
+        "updated": "2026-09-03",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "dynasty-warriors-9-empires",
+        "sourceName": "guides_dynasty-warriors-9-empires",
+        "url": "/guides/dynasty-warriors-9-empires/",
+        "title": "Dynasty Warriors 9: Empires",
+        "author": "Buster Wolf",
+        "updated": "2025-04-07",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "dynasty-warriors-psp",
+        "sourceName": "guides_dynasty-warriors-psp",
+        "url": "/guides/dynasty-warriors-psp/",
+        "title": "Dynasty Warriors (PSP)",
+        "author": "Buster Wolf",
+        "updated": "2025-03-15",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "dynasty-warriors",
+        "sourceName": "guides_dynasty-warriors",
+        "url": "/guides/dynasty-warriors/",
+        "title": "Dynasty Warriors",
+        "author": "Buster Wolf",
+        "updated": "2025-04-06",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "echo-night",
+        "sourceName": "guides_echo-night",
+        "url": "/guides/echo-night/",
+        "title": "Echo Night",
+        "author": "Perseonn Balthasaar",
+        "updated": "2023-10-21",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "final-fantasy-1",
+        "sourceName": "guides_final-fantasy-1",
+        "url": "/guides/final-fantasy-1/",
+        "title": "Final Fantasy 1",
+        "author": "Buster Wolf",
+        "updated": "2024-05-20",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "lightning-warrior-raidy-2",
+        "sourceName": "guides_lightning-warrior-raidy-2",
+        "url": "/guides/lightning-warrior-raidy-2/",
+        "title": "Lightning Warrior Raidy 2",
+        "author": "Buster Wolf",
+        "updated": "2018-10-09",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "lightning-warrior-raidy",
+        "sourceName": "guides_lightning-warrior-raidy",
+        "url": "/guides/lightning-warrior-raidy/",
+        "title": "Lightning Warrior Raidy",
+        "author": "Buster Wolf",
+        "updated": "2018-10-09",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "phantasy-star-online-2-etoile",
+        "sourceName": "guides_phantasy-star-online-2-etoile",
+        "url": "/guides/phantasy-star-online-2-etoile/",
+        "title": "Phantasy Star Online 2: Etoile Guide",
+        "author": "Perseonn Balthasaar",
+        "updated": "2020-06-14",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "phantasy-star-online-2-gathering",
+        "sourceName": "guides_phantasy-star-online-2-gathering",
+        "url": "/guides/phantasy-star-online-2-gathering/",
+        "title": "Phantasy Star Online 2: Gathering Guide",
+        "author": "Perseonn Balthasaar",
+        "updated": "2020-06-12",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "phantasy-star-online-2-hero",
+        "sourceName": "guides_phantasy-star-online-2-hero",
+        "url": "/guides/phantasy-star-online-2-hero/",
+        "title": "Phantasy Star Online 2: Hero Guide",
+        "author": "Perseonn Balthasaar",
+        "updated": "2020-12-12",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "phantasy-star-online-2-summoner",
+        "sourceName": "guides_phantasy-star-online-2-summoner",
+        "url": "/guides/phantasy-star-online-2-summoner/",
+        "title": "Phantasy Star Online 2: Summoner Guide",
+        "author": "Perseonn Balthasaar",
+        "updated": "2020-12-10",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "phantasy-star-online-2-units",
+        "sourceName": "guides_phantasy-star-online-2-units",
+        "url": "/guides/phantasy-star-online-2-units/",
+        "title": "Phantasy Star Online 2: Units Guide",
+        "author": "Perseonn Balthasaar",
+        "updated": "2020-10-02",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "phantom-brave",
+        "sourceName": "guides_phantom-brave",
+        "url": "/guides/phantom-brave/",
+        "title": "Phantom Brave",
+        "author": "Buster Wolf",
+        "updated": "2026-09-25",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "samurai-warriors-5",
+        "sourceName": "guides_samurai-warriors-5",
+        "url": "/guides/samurai-warriors-5/",
+        "title": "Samurai Warriors 5",
+        "author": "Buster Wolf",
+        "updated": "2026-01-24",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "soulcalibur-3",
+        "sourceName": "guides_soulcalibur-3",
+        "url": "/guides/soulcalibur-3/",
+        "title": "Soulcalibur III",
+        "author": "Perseonn Balthasaar",
+        "updated": "2014-12-15",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "soulcalibur-4",
+        "sourceName": "guides_soulcalibur-4",
+        "url": "/guides/soulcalibur-4/",
+        "title": "Soulcalibur IV",
+        "author": "Perseonn Balthasaar",
+        "updated": "2014-05-29",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "soulcalibur-5",
+        "sourceName": "guides_soulcalibur-5",
+        "url": "/guides/soulcalibur-5/",
+        "title": "Soulcalibur V",
+        "author": "Perseonn Balthasaar",
+        "updated": "2014-05-21",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "wild-arms-alter-code-f",
+        "sourceName": "guides_wild-arms-alter-code-f",
+        "url": "/guides/wild-arms-alter-code-f/",
+        "title": "Wild Arms",
+        "author": "Perseonn Balthasaar",
+        "updated": "2025-03-10",
+        "wip": false
+    },
+    {
+        "category": "guides",
+        "slug": "wild-arms",
+        "sourceName": "guides_wild-arms",
+        "url": "/guides/wild-arms/",
+        "title": "Wild Arms",
+        "author": "Perseonn Balthasaar",
+        "updated": "2015-03-27",
+        "wip": false
+    },
+    {
+        "category": "",
+        "slug": "",
+        "sourceName": "_index",
+        "url": "/",
+        "title": "Welcome to CAPA!",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-09-26",
+        "wip": false
+    }
+]

@@ -1282,6 +1282,6 @@ Repeated version removes Marjoly and replaces her with
 Unique to Afternoon of Darkness (PSP version) there is a bug involving the Glasses item Foresight, for some reason in this version Foresight is bugged in that it will have much higher than normal specialists inside as well as having messed up stats such as giving you negative Jm when equipped on someone which makes them unable to move. There is even a chance for there to be already subdued specialists that you can pass over that are well over the effective cap it's supposed to have as they appear at 10840. These are mainly Armsmaster (Weapon mastery up, effective cap 1900), Statistician (EXP up, effective cap 300), Manager (Mana up, effective cap 300) & Broker (HL up, effective cap 300). You can buy these by having the bill Eyewear Inventory passed and with your Customer Rank at 8. This also happens with the Staff item Tainted Staff, if you go in the Item World of these items all enemies will be replaced with Laharl's.
 
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/guide:disgaea1/D1PSPForesightGlitch.jpg |title=300K+ to never farm for these? Sign me up for that.]]
-[[include common:image-css |image=http://capa.wikidot.com/local--files/guide:disgaea1/D1PSPStaffGlitch.jpg |title=Well this staff truly is tainted.]]
-[[include common:image-css |image=http://capa.wikidot.com/local--files/guide:disgaea1/D1PSPIWGlitch.jpg |title=No clone panels were used in the making of this.]]
+[[image D1PSPForesightGlitch.jpg | 300K+ to never farm for these? Sign me up for that.]]
+[[image D1PSPStaffGlitch.jpg | Well this staff truly is tainted.]]
+[[image D1PSPIWGlitch.jpg | No clone panels were used in the making of this.]]

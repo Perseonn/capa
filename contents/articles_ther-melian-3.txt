@@ -23,67 +23,67 @@ This is the estimate time table, based on the worst possible scenario that each 
 Falthemnar is illustrated as a tree-top town, which is highly impossible to make good in currently available assets. I ended up making a raised-garden city with wooden tile. Falthemnar was entered at night automatically after the events at Grotto of Storms.
 
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-1.avif |title=Night time Falthemnar.]]
+[[image Falthemnar-1.avif | Night time Falthemnar.]]
 
 
 Come the next day, players are introduced to  Valadin's mother, Lianna; and Valadin's father, Vylar. I took my own liberty to rewrite their dialogue to show their personality more. Lianna is introduced as a caring mother, she speaks in 3rd person. Vylar is introduced as a distant father. Valadin refers to him in a very formal "Lourd Father".
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-2.avif |title=Lianna introduction.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-3.avif |title=Vylar introduction.]]
+[[image Falthemnar-2.avif | Lianna introduction.]]
+[[image Falthemnar-3.avif | Vylar introduction.]]
 
 
 Speaking of distant, I tried my best to make Vylar as a snob. This is one of his best moment, and certainly wont be the last.
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-4.avif |title=The best of Vylar.]]
+[[image Falthemnar-4.avif | The best of Vylar.]]
 
 
 After the event, player will be greeted by the Falthemnar title band. This title band also have been applied to past areas as well.
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-5.avif |title=Falthemnar title band.]]
+[[image Falthemnar-5.avif | Falthemnar title band.]]
 
 
 Being a hanging garden type of a city, Falthemnar boast a huge tree, visible in the center of the town. There are also a pair of tree houses to add some accent.
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-6.avif |title=The great tree.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-8.avif |title=One of the two tree houses.]]
+[[image Falthemnar-6.avif | The great tree.]]
+[[image Falthemnar-8.avif | One of the two tree houses.]]
 
 
 North of the great tree is the Falthemnar Legion Headquarters. Players may speak to clerk who is swamped with requests. West of the great tree is the hotel. I went by the standards of Persona 2 and put a steep price at a hotel.
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-7.avif |title=Falthemnar Legion headquarters.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-A.avif |title=Grandis Luxus Hotel.]]
+[[image Falthemnar-7.avif | Falthemnar Legion headquarters.]]
+[[image Falthemnar-A.avif | Grandis Luxus Hotel.]]
 
 
 Near the north-western exit is the item shop and equipment shop. I personally want to move the equipment shop to the Legion HQ and make this shop solely sell Orbs and Accessories.
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-B.avif |title=Item shop.]]
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-C.avif |title=Equipment shop.]]
+[[image Falthemnar-B.avif | Item shop.]]
+[[image Falthemnar-C.avif | Equipment shop.]]
 
 
 The north-western exit leads to Dark Forest, but it is blocked for the time being.
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/Falthemnar-9.avif |title=North-western exit, to Dark Forest.]]
+[[image Falthemnar-9.avif | North-western exit, to Dark Forest.]]
 
 
 + System Update
 Characters now has an icon based on their sprite during battle. The enemy formation also have been randomized. Also depicted in the screenshot below is the 'food' items. Foods work like curative items, except they are random, cheaper, and can only stack at 8 each. Speaking of stack, regular items have been given a stack limit too.
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/System-1.avif |title=Foods have been implemented, among other things.]]
+[[image System-1.avif | Foods have been implemented, among other things.]]
 
 
 Enemies now drop salable loots. This is the main economy source for players as all item prices and inns have been increased significantly.
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/System-2.avif |title=Enemy loot have been implemented.]]
+[[image System-2.avif | Enemy loot have been implemented.]]
 
 
 Valadin now has a complete moveset based on MP and AP. His healing skill now has a reraise effect (prevent death once).
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/System-3.avif |title=Valadin with most of his skills visible.]]
+[[image System-3.avif | Valadin with most of his skills visible.]]
 
 
 The game will show weakness, resistance, and critical hits.
 
-[[include image |image=http://capa.wikidot.com/local--files/article:ther-melian-3/System-4.avif |title=An example of a weakness hit.]]
+[[image System-4.avif | An example of a weakness hit.]]
 
 
 ++ Other system changes

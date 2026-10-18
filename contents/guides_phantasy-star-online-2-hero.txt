@@ -13,10 +13,6 @@ This is a laid-back guide intended to help people optimizing their Hero usage! R
 
 
 + Part 1: Basic Hero
-[!-- [[div class="row"]]
-[[include :fiction:common:article-image |page={$fullname} |image=info-hr-basics-1.jpg |title=Hero Basics]]
-[[/div]] --]
-
 
 Hero is a scion class that uses [[span class="icon wp-sw"]]Sword[[/span]], [[span class="icon wp-tm"]]TMG[[/span]], and [[span class="icon wp-tl"]]Talis[[/span]]. They have a huge damage boost as long as you can avoid losing 20% of you max HP in 5 second.
 

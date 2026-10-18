@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Phantasy Star Online 2: Gathering Guide</title>
+    <meta name="description" content="This guide is intended to be a reference for Phantasy Star Online 2&#39;s Gathering system. With gatheri...">
+    
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/css/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -13,9 +16,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
-
-    <title>Phantasy Star Online 2: Gathering Guide</title>
-    <meta name="description" content="This guide is intended to be a reference for Phantasy Star Online 2&#39;s Gathering system. With gatheri...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
@@ -31,47 +31,99 @@
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
     <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
     <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
     <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
-    <header>
-        <nav>
-    <a href="/">Home</a>
-    <a href="/guides/">Guides</a>
-    <a href="/articles/">Articles</a>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-md-2 p-0">
+                <nav class="capa-navbar" aria-label="Main navigation">
+
+    <!-- Mobile-only Expand Button -->
+    <button
+        class="capa-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="capa-nav-content"
+        aria-label="Open navigation"
+    >
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    
+    <!-- Mobile-only Close Button -->
+    <button
+        class="capa-nav-overlay"
+        type="button"
+        aria-label="Close navigation"
+        tabindex="-1"
+        aria-hidden="true"
+    ></button>
+
+    <!-- Shared navigation and TOC -->
+    <div id="capa-nav-content">
+        <div class="nav-item">
+            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        </div>
+        <div class="nav-item">
+            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        </div>
+        <div class="nav-item">
+            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        </div>
+        <!-- TOC will be moved here by move-toc-to-nav.js -->
+    </div>
+
 </nav>
-    </header>
-    <main>
-        <div class="row m-0 p-0">
-<p>[[div class=&quot;col-md-2 hidden-xs hidden-sm guide table-of-contents p-0&quot; role=&quot;navigation&quot;]]</p>
-<p>[[include nav:main]]</p>
-<p>[[/div]][!<del> Close the role=navigation </del>]</p>
-<p>[!<del> </del><del></del><del> </del><del></del><del> Border between Nav and Main Content </del><del></del><del> </del><del></del><del> </del>]</p>
-<p>[[div_ class=&quot;col-md-10 col-md-offset-2 col-xs-12 main main-container p-0&quot;]]</p>
-<p>[[include component:splash |splash-class=full-height |splash-style=background-image:url(&#39;http://capa.wdfiles.com/local--files/guides%3Aphantasy-star-online-2-gathering/phantasy-star-online-2-gathering-splash.avif&#39;); |text-title=Phantasy Star Online 2: Gathering Guide |text-sub-title=Written by Perseonn Balthasaar |text-extra=Updated on %%updated_at%% |text-extra-icon=fa fa-clock ]]</p>
-<div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl">
-<p>[[collapsible show=&quot;Table of Contents&quot; hide=&quot;Collapse Table of Contents&quot;]]</p>
-<div class="table-of-contents">
-<a href="#heading-1">Preface</a>
-<a href="#heading-2">Cuisine Boost Item</a>
-<a href="#heading-3">Translation</a>
-<a href="#heading-4">Gathering List</a>
-<a href="#heading-5">Daily Order</a>
-<a href="#heading-6">Yerkes&#39; Client Order</a>
-<a href="#heading-7">Ring</a>
-<a href="#heading-8">Cuisine List</a>
-<a href="#heading-9">Cuisine Material</a>
-<a href="#heading-10">Closing</a>
+            </header>
+            <div class="col-12 col-md-10 p-0">
+                <main class="capa-main">
+                    <div class="row m-0 p-0">
+<div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:url(&#39;/assets/guides/phantasy-star-online-2-gathering/phantasy-star-online-2-gathering-splash.avif&#39;);">
+<div class="title-container p-4">
+<div class="page-extra stroke ">
+<p><span class="visible fa fa-clock"> </span> Updated at 2020-06-12</p>
 </div>
-<p>[[/collapsible]]</p>
+<div class="page-sub-title strong stroke ">
+<p>Written by Perseonn Balthasaar</p>
+</div>
+<div class="page-title strong stroke ">
+<p>Phantasy Star Online 2: Gathering Guide</p>
+</div>
+</div>
+</div>
+<div id="toc" class="table-of-contents">
+<a href="#heading-1" class="toc-h1">Preface</a>
+<a href="#heading-2" class="toc-h2">Cuisine Boost Item</a>
+<a href="#heading-3" class="toc-h2">Translation</a>
+<a href="#heading-4" class="toc-h1">Gathering List</a>
+<a href="#heading-5" class="toc-h2">Daily Order</a>
+<a href="#heading-6" class="toc-h2">Yerkes&#39; Client Order</a>
+<a href="#heading-7" class="toc-h2">Ring</a>
+<a href="#heading-8" class="toc-h1">Cuisine List</a>
+<a href="#heading-9" class="toc-h2">Cuisine Material</a>
+<a href="#heading-10" class="toc-h1">Closing</a>
 </div>
 <div class="container drop-caps p-4 phantasy-star-online-2-gathering">
-<p><p>This guide is intended to be a reference for Phantasy Star Online 2&#39;s Gathering system. With gathering, you can earn a big amount of Meseta from Daily Order and Yerkes&#39; Client Order. The more characters you have, the better. If you want to know the basic of Gathering, Speak to Sophia on Franca&#39;s Cafe.</p>
-<p>[[include component:pso2-nav]]</p>
+<p>This guide is intended to be a reference for Phantasy Star Online 2&#39;s Gathering system. With gathering, you can earn a big amount of Meseta from Daily Order and Yerkes&#39; Client Order. The more characters you have, the better. If you want to know the basic of Gathering, Speak to Sophia on Franca&#39;s Cafe.</p>
+<div class="pso2-nav">
+<div class="row m-0">
+<div class="hidden-xs hidden-sm hidden-md col-lg-2 pso2-logo-container pso2-logo-border-right">
+<img class="img-fluid " src="/assets/guides/phantasy-star-online-2-gathering/./img%3Apso2-other/nav-pso2-blank.png class=&quot;pso2-logo pso2-logo-lg&quot;" alt="nav-pso2-blank.png class=&quot;pso2-logo pso2-logo-lg&quot;">
+</div>
+<div class="hidden-lg col-xs-12 pso2-logo-container pso2-logo-border-bottom">
+<img class="img-fluid " src="/assets/guides/phantasy-star-online-2-gathering/./img%3Apso2-other/nav-pso2-blank.png class=&quot;pso2-logo pso2-logo-sm&quot;" alt="nav-pso2-blank.png class=&quot;pso2-logo pso2-logo-sm&quot;">
+</div>
+<div class="padding-b-0 col-xs-12 col-lg-10 pso2-nav-item-container">
+<p>[[ul class=&quot;nav nav-pills series-nav nav-justified&quot; role=&quot;tablist&quot;]] [[li class=&quot;&quot;]][[a href=&quot;/guide:phantasy-star-online-2-summoner&quot;]][[image ./img%3Apso2-ui/ui-class-su.png class=&quot;pso2-nav-icon&quot;]] Summoner[[/a]][[/li]] [[li class=&quot;&quot;]][[a href=&quot;/guide:phantasy-star-online-2-hero&quot;]][[image ./img%3Apso2-ui/ui-class-hr.png class=&quot;pso2-nav-icon&quot;]] Hero[[/a]][[/li]] [[li class=&quot;&quot;]][[a href=&quot;/guide:phantasy-star-online-2-etoile&quot;]][[image ./img%3Apso2-ui/ui-class-et.png class=&quot;pso2-nav-icon&quot;]] Etoile[[/a]][[/li]] [[/ul]]</p>
+</div>
+<div class="padding-t-0 col-xs-12 col-lg-10 pso2-nav-item-container">
+<p>[[ul class=&quot;nav nav-pills series-nav nav-justified&quot; role=&quot;tablist&quot;]] [[li class=&quot;&quot;]][[a href=&quot;/guide:phantasy-star-online-2-units&quot;]][[image ./img%3Apso2-ui/ui-unit-rear.png class=&quot;pso2-nav-icon&quot;]] Units[[/a]][[/li]] [[li class=&quot;&quot;]][[a href=&quot;/guide:phantasy-star-online-2-gathering&quot;]][[image ./img%3Apso2-item/item-boost-food-gathering.png class=&quot;pso2-nav-icon&quot;]] Gathering[[/a]][[/li]] [[li class=&quot;&quot;]][[a href=&quot;/article:puso-ni-anime-sub&quot;]][[image ./img%3Apso2-other/nav-puso.png class=&quot;pso2-nav-icon&quot;]] PuSo Ni Comi[[/a]][[/li]] [[/ul]]</p>
+</div>
+</div>
+</div>
 <div class="alert alert-info">
 <p><span class="fa fa-exclamation-circle">@&lt;&amp;nbsp;&gt;@</span> <strong>Changelog</strong></p>
 <table>
@@ -1054,12 +1106,32 @@
 </div>
 <h1 id="heading-10">Closing</h1>
 <p>If you want to add or correct the table, especially if you want to supply the North American name, feel free to contact me at Discord: Perseonn#7731. Have fun gathering!</p>
-<p>[[module css]] .gathering-table img { width:100%; max-width: 64px; } [[/module]]</p></p>
+<p>[[module css]] .gathering-table img { width:100%; max-width: 64px; } [[/module]]</p>
 </div>
 </div>
-</div>
-<p>[[module css]] .toc-bg {background-image: url(&#39;http://capa.wdfiles.com/local--files/guides:phantasy-star-online-2-gathering/phantasy-star-online-2-gathering-sidebar.avif&#39;);} .guide-article-hide {display:none;} .guide-article-only {display:block;} [[/module]]</p>
-    </main>
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                            CAPA
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/home:home">Home</a> · 
+                                <a href="/home:guide">Guide</a> · 
+                                <a href="/home:article">Article</a>
+                        </div>
+                            <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
 </body>
 </html>

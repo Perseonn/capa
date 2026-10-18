@@ -1,0 +1,6 @@
+[[div class="row pet-pa-table"]]
+
+[[div class="col-xs-12 padding-b-0"]]
+[[table class="wiki-content-table border-bottom-none"]]
+[[row]]
+[[hcell rowspan="4" class="text-center w-25 border-bottom-none"]]

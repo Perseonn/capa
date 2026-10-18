@@ -258,7 +258,7 @@ Inside the Temple of Fiends / Chaos Shrine
 **GHOUL / Ghoul** - Has weaker attack than ZOMBIE / Zombie, but is a bit more durable. Their attack has a chance to Stun / Paralyze if they hit.
 
 **Map**
-[[include image |option=contain |image=/local--files/guide:ff1/chaosshrine.png |title=Temple of Fiends / Chaos Shrine Map]]
+[[image chaosshrine.png | Temple of Fiends / Chaos Shrine Map]]
 
 The Temple of Fiends / Chaos Shrine is not too large of an area, if you want to face Garland now and save Princess Sarah simply walk up and talk with him to initiate the battle, however if you want the treasure that you can get now you can choose to do that to. There are 4 rooms at the corners of the temple, however we are only able to access 2 of the 4 rooms those being the lower left and upper left. The lower left room has a Cap / Leather Cap any character can equip it, it provides 1 Defense with -1 Evade and a Weight of 1, I would suggest giving it to your main tank. The upper left room has a HEAL Potion / Potion in the chest in front of the door and a CABIN / Tent in the other chest. When you finish collecting the treasure head back to where the entrance was and head into the room in the center and speak with Garland to fight him.
 
@@ -594,17 +594,17 @@ Floor Encounters
 || GrWOLF / Warg Wolf || B2 & B3 ||
 
 **Map B1**
-[[include image |option=contain |image=/local--files/guide:ff1/marshcaveb1.png |title=Marsh Cave Floor B1 Map]]
+[[image marshcaveb1.png | Marsh Cave Floor B1 Map]]
 
 The Marsh Cave is one of a couple of dungeons that contain duplicate chests, these are chests that when opened in one area will be considered open in another and will be emptied. The first floor has two paths you can choose between, the upper path which leads to a small area with treasure or the lower path which progresses though the dungeon while containing some of the same treasure as the upper path.
 
 **Map B2**
-[[include image |option=contain |image=/local--files/guide:ff1/marshcaveb2.png |title=Marsh Cave Floor B2 Map]]
+[[image marshcaveb2.png | Marsh Cave Floor B2 Map]]
 
 Depending on the path you chose you'll either be on the top left room of this map or the bottom, the top is simply a treasure trove full of chests while the bottom will lead you further into the Marsh Cave. On the upper path you can find a Large Dagger / Dagger for your Black Mage if you are using one, 680 gil and a Short Sword / Broadsword. The Short Sword / Broadsword chest causes 2 other chests to be empty while the 680 gil chests causes 1 chest to be empty. The lower path only has 680 gil & a Short Sword / Broadsword in a chest (as 2 of them are in this area, but due to duplicate chests you can only get 1) so I would recommend going for the upper path first if you are going for all treasures.
 
 **Map B3**
-[[include image |option=contain |image=/local--files/guide:ff1/marshcaveb3.png |title=Marsh Cave Floor B3 Map]]
+[[image marshcaveb3.png | Marsh Cave Floor B3 Map]]
 
 This is a large floor made up with 4 rows and 4 columns of small room, the rooms on the lowest row (4,1-4,4) are all locked for us as we need a special key to unlock them. Room 1,1 contains Iron Armor (NES / PS) or Phoenix Down (DoS+) getting this chests empties one at room 2,2. Room 2,1 contains a Copper Bracelet / Copper Armlet which if you didn't buy one at Elfland / Elfheim you can use this one, preferably on one of your two lower members that need defense since it give more defense than the evade penalty. Room 2,2 contains a HOUSE / Cabin which will be useful for when we leave with the spoils from Room 3,2 which is the one we came here for as it has the Crown we need for the King at Western Keep, there is a fixed encounter tile in front of the treasure chest.
 
@@ -849,7 +849,7 @@ Floor Encounters
 || OOZE / Ochre Jelly || B3 ||
 
 **Map B1**
-[[include image |option=contain |image=/local--files/guide:ff1/cavernofearthb1.png |title=Earth Cave / Cavern of Earth B1 Map]]
+[[image cavernofearthb1.png | Earth Cave / Cavern of Earth B1 Map]]
 
 The Earth Cave / Cavern of Earth entrance sports 4 paths you can go through, the path to the left has a lot of fixed encounter points which will always feature a GIANT / Hill Gigas and occasionally an IGUANA / Lizard (for those who missed the bestiary entry at Pravoka). The North and second South paths have treasure which is guarded on a certain side by an EARTH / Earth Elemental.
 
@@ -860,12 +860,12 @@ The Earth Cave / Cavern of Earth entrance sports 4 paths you can go through, the
 The path East will lead to the next floor.
 
 **Map B2**
-[[include image |option=contain |image=/local--files/guide:ff1/cavernofearthb2.png |title=Earth Cave / Cavern of Earth B2 Map]]
+[[image cavernofearthb2.png | Earth Cave / Cavern of Earth B2 Map]]
 
 This floor features a labyrinth like maze which often have dead ends, the room at the East has 3 treasures none of which are guarded while the Southern room that branches near the stairs is guarded by an EARTH / Earth Elemental when you enter the room so you will have to fight it twice if you are going for the treasures. The Coral Sword from the Eastern room is another weapon the Thief can equip, though the Dragon Sword / Wyrmkiller has the exact same stats, the only difference (for non NES players) is that the Coral Sword deals extra damage to aquatic enemies.
 
 **Map B3**
-[[include image |option=contain |image=/local--files/guide:ff1/cavernofearthb3.png |title=Earth Cave / Cavern of Earth B3 Map]]
+[[image cavernofearthb3.png | Earth Cave / Cavern of Earth B3 Map]]
 
 This floor features many dangerous enemies ranging from Stun locking undead via SPECTER / Wight + GHAST / Ghast in large groups & IMAGE / Wraith, an enemy that is unrunable WIZARD / Piscodemon and the enemy that may give you a game over if unlucky COCTRICE / Cockatrice (uncommon encounter). Of the 3 floors we've been to this one is more linear compared to the other 2 since there's not too many branching paths. For NES players the chest labeled C4 on the map forces you to fight the EARTH guarding it as you can't go around it. Make your way to the center room to face the mini boss of the area.
 
@@ -932,7 +932,7 @@ Floor Encounters
 || EARTH / Earth Elemental || B5 ||
 
 **Map B4**
-[[include image |option=contain |image=/local--files/guide:ff1/cavernofearthb4.png |title=Earth Cave / Cavern of Earth B4 Map]]
+[[image cavernofearthb4.png | Earth Cave / Cavern of Earth B4 Map]]
 
 This floor has a couple of branching paths few leading to a dead end. The chests on this floor are guarded by new enemies all of which you can choose to skip except for one SPHINX / Sphinx encounter as it's between 2 chests.
 
@@ -943,7 +943,7 @@ This floor has a couple of branching paths few leading to a dead end. The chests
 **SPHINX / Sphinx** - Is not too tough when compared to other enemies in the Earth Cave / Cavern of Earth as their attack is pretty low though they have pretty high HP.
 
 **Map B5**
-[[include image |option=contain |image=/local--files/guide:ff1/cavernofearthb5.png |title=Earth Cave / Cavern of Earth B5 Map]]
+[[image cavernofearthb5.png | Earth Cave / Cavern of Earth B5 Map]]
 
 A very small floor with no treasure on it, keep towards the West side of the room and you will meet the first of the elemental Fiends.
 
@@ -1050,27 +1050,27 @@ Floor Encounters
 || Red D / Red Dragon || B4 & B5 ||
 
 **Map B1**
-[[include image |option=contain |image=/local--files/guide:ff1/mountgulgb1.png |title=Gurgu Volcano / Mount Gulg B1 Map]]
+[[image mountgulgb1.png | Gurgu Volcano / Mount Gulg B1 Map]]
 
 Not really much to this area, it introduces the dungeon gimmick of lava damage tiles which deal 1 HP damage per step and you will not get into encounters while in lava.
 
 **Map B2**
-[[include image |option=contain |image=/local--files/guide:ff1/mountgulgb2.png |title=Gurgu Volcano / Mount Gulg B2 Map]]
+[[image mountgulgb2.png | Gurgu Volcano / Mount Gulg B2 Map]]
 
 This floor has a large treasure trove which has some chest that are guarded by FIRE / Fire Elemental with one being guarded by a GREY W / Lava Worm. The only new equipment here is the Giant Sword / Great Sword it can be equipped by Fighter / Warrior, Red Mage & Ninja, however it is weaker than the Silver Sword / Mythril Sword (21 vs 23), but has more accuracy (20 vs 15), it also has the special effect of dealing more damage to giant type enemies (not on NES), when you finish getting treasure go down the stairs.
 
 **Map B3**
-[[include image |option=contain |image=/local--files/guide:ff1/mountgulgb3.png |title=Gurgu Volcano / Mount Gulg B3 Map]]
+[[image mountgulgb3.png | Gurgu Volcano / Mount Gulg B3 Map]]
 
 From B2 you will start on the upper map which is basically navigating to the stairs leading to B4.
 
 **Map B4**
-[[include image |option=contain |image=/local--files/guide:ff1/mountgulgb4.png |title=Gurgu Volcano / Mount Gulg B4 Map]]
+[[image mountgulgb4.png | Gurgu Volcano / Mount Gulg B4 Map]]
 
 You will originally start on the lower portion coming from B3 which is a heavily filled lava room, the stairs here lead to the lower map from B3 (points up) which is a straight shoot to the next set of stairs that lead back to the upper portion of B4. Back on this floor in the upper portion is a large amount of treasure rooms most having a GREY W / Lava Worm or AGAMA / Fire Lizard guarding the chest. New equipment here is the Ice Sword / Ice Brand which is stronger than the Silver Sword / Mythril Sword (and even Flame Sword if you went to Ice Cave / Cavern of Ice first) being equipable by Fighter / Warrior, Red Mage & Ninja having an Attack of 29 and Accuracy of 25, it will deal Ice elemental damage when attacking (not on NES). There are technically 2 Ice Sword / Ice Brands on this floor, but only one can be obtained due to dupe chests. Another new equipment here is the Ice Shield which can be equipped by Fighter / Warrior & Ninja, it is better than the Silver Shield / Mythril Shield by 6 points of defense (Flame Shield has the same defense) it also reduces damage from ice element attacks (which does work on NES(!)). This doesn't stack with AICE / NulFrost so remember that for later gear, if you did Ice Cave / Cavern of Ice it would be better to have the armor and shield of a different element.
 
 **Map B5**
-[[include image |option=contain |image=/local--files/guide:ff1/mountgulgb5.png |title=Gurgu Volcano / Mount Gulg B5 Map]]
+[[image mountgulgb5.png | Gurgu Volcano / Mount Gulg B5 Map]]
 
 If you collected the SOFT Potion / Gold Needle from the previous floor only one chest will be left for you to get here, head West and enter the room defeat the AGAMA / Fire Lizard blocking the way and heal up before facing the Red D / Red Dragon guarding the chest, in this one lies the Flame Mail which can be equipped by Fighter / Warrior & Ninja if you were using the Steel Armor / Knight Armor this provides the same amount of defense, but removes a lot of weight so you can dodge more attacks, additionally like the shield from the previous floor it provides ice resistance, if you did Ice Cave / Cavern of Ice first you can use the Ice Shield in combination to receive less damage from fire & ice attacks. The Fiend of Fire waits for your challenge in the bottom left room
 
@@ -1136,17 +1136,17 @@ Floor Encounters
 || GrPEDE / Remorazz || B3 ||
 
 **Map B1**
-[[include image |option=contain |image=/local--files/guide:ff1/cavernoficeb1.png |title=Ice Cave / Cavern of Ice B1 Map]]
+[[image cavernoficeb1.png | Ice Cave / Cavern of Ice B1 Map]]
 
 You start on the large stretch at the top left and must make your way to the stairs leading to B2.
 
 **Map B2**
-[[include image |option=contain |image=/local--files/guide:ff1/cavernoficeb2.png |title=Ice Cave / Cavern of Ice B2 Map]]
+[[image cavernoficeb2.png | Ice Cave / Cavern of Ice B2 Map]]
 
 You start in the outer rim, regardless which way you take to the stairs at the lower left is basically the same length. This leads to a very small trail (not mapped) which leads to the inner room. The chest on the right is guarded, but given enemy you fight (MAGE / Dark Wizard) it's not worth going for Clothes which is a basic armor piece, if you are going for all treasures I would suggest running from the battle. The Flame Sword from the other chest we can get to is a weapon that can be used by Fighter / Warrior, Red Mage & Ninja with 26 Attack and 20 Accuracy which is 3 Attack and 5 Accuracy higher than the Silver / Mythril Sword so give it to your better attacker, it can also deal fire elemental damage when attacking (not on NES). You will have no choice but to fall down one of the broken ice tiles to continue.
 
 **Map B3**
-[[include image |option=contain |image=/local--files/guide:ff1/cavernoficeb3.png |title=Ice Cave / Cavern of Ice B3 Map]]
+[[image cavernoficeb3.png | Ice Cave / Cavern of Ice B3 Map]]
 
 The area you start at has a forced encounter tile right below you which you have to step on as it's in front of the door which will have a WRAITH / Specter with possible other undead that could stun lock you. This floor has ice spike tiles that damage you when you walk over them which also makes it possible to not run into encounters on them, the upper left room is guarded by a FROST D / White Dragon in front of the chest so make sure to heal up before stepping on it. The chest it is guarding has an Ice Armor which can be equipped by Fighter / Warrior & Ninja it has 34 Defense with -10 Evade and a Weight of 10, if you were still using Iron Armor or Steel Armor / Knight's Armor this has better defense as well as not weighing too much so your Evade will increase, it also reduces damage from fire element attacks (which does work on NES(!)). This doesn't stack with AFIR / NulBlaze so remember that for later gear, if you did Gurgu Volcano / Mount Gulg it would be better to have the armor and shield of a different element. The room in the lower left is filled mostly with gil the last 2 chests being guarded in between by Winter Wolf who you may want to avoid. The stairs at the lower right of the room lead back to B1, but you will be on the lower left side.
 
@@ -1225,7 +1225,7 @@ Floor Encounters
 Not really much to this floor, walk up to the old man and speak with him. This allows you to go to 2F from the throne in the Northwest room since you have the Crown which is needed even though you have no way of getting here without it. Interestingly NES players do not need to speak with this man which would mean you could go through the area without the CROWN.
 
 **Map 2F**
-[[include image |option=contain |image=/local--files/guide:ff1/citadeloftrails2f.png |title=Castle of Ordeals / Citadel of Trials 2F Map]]
+[[image citadeloftrails2f.png | Castle of Ordeals / Citadel of Trials 2F Map]]
 
 This is basically a teleporter maze a rather simple one though, the room in the upper right has a chest that if you get here empties another chest later, those going for bestiary completion can choose to fight the enemy in a later dungeon, for those who choose to fight it now...
 
@@ -1236,7 +1236,7 @@ This is basically a teleporter maze a rather simple one though, the room in the 
 The chest he was guarding has the Zeus Gauntlet / Gauntlets which has the same stats as a Silver Gauntlet / Mythril Gloves, but can only be equipped by Knight, Ninja & Red Wizard all of which are class changes we currently don't have yet. However you won't be using it as equipment because this is the first instance of us getting an item that casts a spell when we use it during battle, this one in particular casts LIT2 / Thundara for free. If using a White Mage they no longer have a need for their physical attack as you should have them use this in battle from now on. After getting it continue on to 3F.
 
 **Map 3F**
-[[include image |option=contain |image=/local--files/guide:ff1/citadeloftrails3f.png |title=Castle of Ordeals / Citadel of Trials 3F Map]]
+[[image citadeloftrails3f.png | Castle of Ordeals / Citadel of Trials 3F Map]]
 
 A fairly linear path, the room in the top right corner is guarded by...
 
@@ -1426,7 +1426,7 @@ From Onrac head to the river and follow it to the North into the waterfall.
 **Gas D / Green Dragon** - A very rare encounter here much more common in the endgame dungeon, it has a strong physical attack and can use Poison Gas to damage the party, it is also flagged as unrunable.
 
 **Map**
-[[include image |option=contain |image=/local--files/guide:ff1/waterfallcavern.png |title=Waterfall Cavern Map]]
+[[image waterfallcavern.png | Waterfall Cavern Map]]
 
 A labyrinth with many dead ends, while here if you aren't already at 50,000 Gil (40,000 on Origins Easy and later remakes) you will want to get as close as you can for what we will buying after leaving. The forced encounter tile can have WzMUMMY / King Mummy, MUMMY / Mummy, COCTRICE / Cockatrice or PERILISK / Pyrolisk (as much as 9 will take) if you have EXIT / Exit you won't have to fight it twice, the robot walking around this room has a Warp Cube which we will need for later. The Wizard Staff can only be equipped by Black Wizard, it has 15 Attack and 15 Accuracy, when used as an item it will cast CONF / Confuse. The Ribbon is a headgear that everyone can equip, it has the same defense and evade as a Cap / Leather Cap, but it gives resistance to all elements including instant death (except for attacks from SORCERER / Mindflayer since its attack is counted as non-elemental with Death added). The Defend Sword / Defender is a weapon that can be equipped by Knight, Ninja & Red Wizard, it has 30 Attack and 35 Accuracy which is 1 Attack and 10 Accuracy more than the Ice Sword / Ice Brand, when used as an item it will cast RUSE / Blink.
 
@@ -1499,27 +1499,27 @@ Floor Encounters
 || BigEYE / Deepeyes || 1F, 2F & 4F ||
 
 **Map 3F**
-[[include image |option=contain |image=/local--files/guide:ff1/sunkenshrine3f.png |title=Sea Shrine / Sunken Shrine 3F Map]]
+[[image sunkenshrine3f.png | Sea Shrine / Sunken Shrine 3F Map]]
 
 Instead of starting at the top or bottom of the area we actually start in the middle, additionally unlike some previous dungeons there are no duplicate chests so you will get an item more than once, NES players will have to back out to sell stuff (or drop something) if you are going for all treasures. This area has 5 floors and we want to go up first so head to the Northeast section of the room while also getting the treasure along the way.
 
 **Map 4F**
-[[include image |option=contain |image=/local--files/guide:ff1/sunkenshrine4f.png |title=Sea Shrine / Sunken Shrine 4F Map]]
+[[image sunkenshrine4f.png | Sea Shrine / Sunken Shrine 4F Map]]
 
 We start at the top right and must make our way to the bottom right, however this floor has some treasure that is of value, namely the Opal Armor / Diamond Armor that can only be equipped by Knight, it provides 42 Defense 8 more than Flame Mail / Ice Armor and has the same weight as the Flame Mail / Ice Armor, this armor gives resistance to Lightning (which does work on NES(!)). This is the second best armor for Knight in the main game (3rd best on DoS in terms of pure defense, 4th on PSP counting the added superboss drops) and like the other elemental armors doesn't stack with ALIT / NulShock. Another item you will find on this floor is the Light Axe which can be equipped by Fighter / Warrior & Ninja it has 28 Attack and 15 Accuracy, when used as an item it will cast HRM2 / Diara. The last item is the Mage Staff / Mage's Staff it can be equipped by Black Mage & Ninja it has 12 Attack and 10 Accuracy, when used as an item it will cast FIR2 / Fira. After collecting the treasure make your way to the lower right to get to the next floor.
 
 **Map 5F**
-[[include image |option=contain |image=/local--files/guide:ff1/sunkenshrine5f.png |title=Sea Shrine / Sunken Shrine 5F Map]]
+[[image sunkenshrine5f.png | Sea Shrine / Sunken Shrine 5F Map]]
 
 This floor has no random encounters (the encounter table doesn't count this floor). This floor has a lot of rooms some with a mermaid inside and some with treasure, the new equipment we can find are the Opal Bracelet / Diamond Armlet, the Opal Helmet / Diamond Helm, Opal Gauntlets / Diamond Gloves and the Opal Shield / Diamond Shield. The Opal Bracelet / Diamond Armlet can be equipped by everyone, it provides 34 Defense which is 10 more than the Gold Bracelet / Ruby Armlet this should go to the second main tank as it's the only one in the game (remakes included). The Opal Helmet / Diamond Helm can only be equipped by Knight, it provides 8 Defense, 2 more than the Silver / Mythril one you've had for a long while and having the same Evade / Weight thus it is a slight defense upgrade. The Opal Gauntlets / Diamond Gloves can only be equipped by Knight, it provides 8 Defense like the ProRing / Protect Ring, but has 3 Weight hindering evade, it is better sold since it doesn't provide instant death protection. The Opal Shield / Diamond Shield can only be equipped by Knight, it provides 16 Defense 4 more than Flame / Ice Shield, but since the Lightning resistance doesn't stack the Armor is the better choice while this is better sold. There is a key item within these chests the SLAB / Rosetta Stone a certain famous doctor will be wanting to take a look at this, but that can wait until after we finish this dungeon. When you are done cast EXIT / Exit or WARP / Teleport (twice) to start back at 3F or manually go back down. Back at 3F this time we want to take the upper left set of stairs while getting the treasure along the way.
 
 **Map 2F**
-[[include image |option=contain |image=/local--files/guide:ff1/sunkenshrine2f.png |title=Sea Shrine / Sunken Shrine 2F Map]]
+[[image sunkenshrine2f.png | Sea Shrine / Sunken Shrine 2F Map]]
 
 We start on the lower right section and need to head to the stairs at the top, going up those stairs leads to a very small pathway (not mapped) which leads to another pair of stairs up into a room in the upper left of 4F (also not mapped), the room there has no treasure inside so head to the lower right portion of the room which leads to the right room mapped on 3F. In that room take the stairs on the lower section of the map which leads to the upper left section of this map. This floor has the second Ribbon (if you went to Waterfall Cavern), another Light Axe (not a dupe chest so there's your second one) and a new equipment piece. The Power Gauntlet / Giant's Gloves which can be equipped by Knight, Ninja & Red Mage it has the same stats as the Zeus Gauntlets / Gauntlets except that it casts the SABR / Saber on the user, those on NES may as well sell this as it is useless due to SABR doing nothing and ProRing being better, those on remakes will want to keep this for boss fights for their main physical damage dealer. The chests labeled C4 & C5 you will want to open from below C5 as it has the safer enemies guarding it. After finishing head to the Northwest portion of the floor to reach the stairs.
 
 **Map 1F**
-[[include image |option=contain |image=/local--files/guide:ff1/sunkenshrine1f.png |title=Sea Shrine / Sunken Shrine 1F Map]]
+[[image sunkenshrine1f.png | Sea Shrine / Sunken Shrine 1F Map]]
 
 A large floor with paths that lead mainly to the same area follow the path and head to the boos room where the Fiend of Water waits for your challenge.
 
@@ -1626,17 +1626,17 @@ Floor Encounters
 || WYRM / Wyrm || 3F ||
 
 **Map 1F**
-[[include image |option=contain |image=/local--files/guide:ff1/miragetower1f.png |title=Mirage Tower 1F Map]]
+[[image miragetower1f.png | Mirage Tower 1F Map]]
 
 A very short floor given that the stairs up are within view and you are able to take them through a massive shortcut that is the doors above you, however this floor has some nice treasure to get, NES players are likely going to have to drop armor since you are going to run out of space from the limited inventory. The new equipment available here are the Aegis Shield, Heal Helmet / Healing Helm & Vorpal Sword. The Aegis Shield can be equipped only by Knight, it has the same stats as the Opal Shield / Diamond Shield, however the Aegis Shield has the benefit of providing protection from Poison and Stone which is the best shield for the Knight in the main game. The Heal Helmet / Healing Helm can be equipped by Knight & Ninja it has the same stats as the Silver Helmet / Mythril Helm that was replaced by the Opal Helmet / Diamond Helm, however when used as an item it will cast the HEAL / Heal spell. The Vorpal Sword can be equipped by Knight, Ninja & Red Wizard it has 24 Attack with 25 Accuracy it is weaker than the weapons you likely have now (Defense Sword / Defender and Ice Sword / Ice Brand). After taking all the treasure take the stairs up to 2F.
 
 **Map 2F**
-[[include image |option=contain |image=/local--files/guide:ff1/miragetower2f.png |title=Mirage Tower 2F Map]]
+[[image miragetower2f.png | Mirage Tower 2F Map]]
 
 Unlike the previous floor we are forced to walk the perimeter to get to the stairs up and treasure trove. The new equipment available here are Thor's Hammer, Sun Blade and the Dragon Mail. Thor Hammer / Thor's Hammer can be equipped by Knight, Ninja & White Wizard is has 18 Attack with 15 Accuracy this is the strongest hammer in the game the White Wizard can equip (unless on DoS+ where War Hammer is much stronger), when used as an item it will cast LIT2 / Thundara similar to the Zeus Gauntlets / Gauntlets. The Sun Sword can be equipped by Fighter / Warrior, Red Mage & Ninja it has 32 Attack and 30 Accuracy while more powerful than the Defense Sword / Defender (32 vs 30) it has 5 less accuracy and should be given to whoever has the Ice Sword / Ice Brand. The Dragon Mail can only be equipped by Knight and has the same stats as the Opal Armor / Diamond Armor, but the Dragon Mail provides resistance to the primary 3 elements of Fire, Ice and Lightning compared to just Lightning from the Opal Armor / Diamond Armor, this is the best armor for the Knight in the main game. After taking the treasure exit the room and head upward to the stairs to 3F.
 
 **Map 3F**
-[[include image |option=contain |image=/local--files/guide:ff1/miragetower3f.png |title=Mirage Tower 3F Map]]
+[[image miragetower3f.png | Mirage Tower 3F Map]]
 
 An extremely small room head into the room to fight the forced battle against Blue D / Blue Dragon, then take the teleporter up to the next area. If you did not go to the Waterfall Cavern to get the Warp Cube you will not be able to go and have to leave Mirage Tower and go there then come back to proceed.
 
@@ -1700,27 +1700,27 @@ Floor Encounters
 || MudGOL / Clay Golem || 4F & 5F ||
 
 **Map 1F**
-[[include image |option=contain |image=/local--files/guide:ff1/flyingfortress1f.png |title=Sky Fortress / Flying Fortress 1F Map]]
+[[image flyingfortress1f.png | Sky Fortress / Flying Fortress 1F Map]]
 
 Four paths we can choose to go to the left, right and bottom having treasure while the top leads to the next floor. The only new equipment here is the Bane Sword / Razer, it can be equipped by Knight, Ninja & Red Wizard, it has 22 Attack and 20 Accuracy which is weaker than weapons you already have by now, however when used as an item it will cast BANE / Scourge, if lucky you can use that to kill the Fiend here and even KARY / Marilith and Kraken if you chose to not kill them yet. When you finish getting the treasure head up to the next floor.
 
 **Map 2F**
-[[include image |option=contain |image=/local--files/guide:ff1/flyingfortress2f.png |title=Sky Fortress / Flying Fortress 2F Map]]
+[[image flyingfortress2f.png | Sky Fortress / Flying Fortress 2F Map]]
 
 This time we have 7 directions to choose from with the Southern path being the exit, those who are using a Knight will want to get the item in the Southwest path as it will create one of the best weapons a Knight can equip (not counting DoS equipment & the PSP Superboss drop), this floor also has the 3rd and final Ribbon of the main game (4th if DoS+ players did Hellfire Chasm and defeated Rubicante). New equipment here are the White Robe & Black Robe. The White Robe can only be equipped by White Wizard, it provides 24 Defense and -2 Evade with a Weight of 2 if you are still using the Gold Bracelet / Ruby Armlet this has 1 less Evade while providing the same Defense, it also provides protection against Fire & Death, when used as an item it will cast INV2 / Invisira. The Black Robe similarly can only be equipped by Black Wizard, it has the same stats as White Robe, but provides protection against Ice & Time, when used as an item it will cast ICE2 / Blizzara. When you are finished go down the Southern path to go to the next floor.
 
 **Map 3F**
-[[include image |option=contain |image=/local--files/guide:ff1/flyingfortress3f.png |title=Sky Fortress / Flying Fortress 3F Map]]
+[[image flyingfortress3f.png | Sky Fortress / Flying Fortress 3F Map]]
 
 Another floor with 4 paths the exit this time being on a small split to the left and downward rather than being directly in a room, at this point NES players are likely out of space for armor so you will have to decide on if you want all chests open or throw away equipment you aren't using. The new equipment on this floor are Katana / Sasuke's Katana and ProCape / Protect Cloak. Katana / Sasuke's Katana can only be equipped by Ninja, it has 33 Attack and 35 Accuracy which is an upgrade to whatever weapon they have (unless those on DoS+ got Kikuichimonji as a drop from Kraken or Rubicante). The ProCape / Protect Cloak can be equipped by nearly every class (Black Belt / Monk & Master can't) it provides 8 Defense and has -2 Evade with a Weight of 2, it is the only shield the Mages can equip (unless on DoS+ and got Zephyr Cape or Elven Cloak). There is a lookout point you can check near the start of the floor on remakes to see 4 points converging on one location. When you are finished head to the left and go up to the next floor.
 
 **Map 4F**
-[[include image |option=contain |image=/local--files/guide:ff1/flyingfortress4f.png |title=Sky Fortress / Flying Fortress 4F Map]]
+[[image flyingfortress4f.png | Sky Fortress / Flying Fortress 4F Map]]
 
 This floor infinitely loops, but as long as you go 2 blocks vertical (up or down) and 2 blocks horizontal (left or right) you will reach the teleporter to the next floor.
 
 **Map 5F**
-[[include image |option=contain |image=/local--files/guide:ff1/flyingfortress5f.png |title=Sky Fortress / Flying Fortress 5F Map]]
+[[image flyingfortress5f.png | Sky Fortress / Flying Fortress 5F Map]]
 
 A long straight path that leads to the Fiend of this fortress, however there is a special encounter that you can only get on this bridge only. The Fiend of Wind will otherwise wait for your challenge.
 
@@ -1837,12 +1837,12 @@ Floor Encounters
 || IronGOL / Iron Golem || B4 ||
 
 **Map 1F**
-[[include image |option=contain |image=/local--files/guide:ff1/chaosshrine1f.png |title=Temple of Fiends / Chaos Shrine (Past) 1F Map]]
+[[image chaosshrine1f.png | Temple of Fiends / Chaos Shrine (Past) 1F Map]]
 
 Those on the NES version take note that this is a no turning back point for you, all other versions will have a symbol on the floor where you started which allows them to exit this area, NES players without the EXIT spell will not be able to leave this dungeon. Start by making your way to the Southeast corner as the stairs in the Southwest lead to an empty room that has no means of progressing in this dungeon. This will lead to a small area in Floor 2F in which you must get to the next set of stairs to the East of it which lead to the 3rd floor in the Northwest.
 
 **Map 3F**
-[[include image |option=contain |image=/local--files/guide:ff1/chaosshrine3f.png |title=Temple of Fiends / Chaos Shrine (Past) 3F Map]]
+[[image chaosshrine3f.png | Temple of Fiends / Chaos Shrine (Past) 3F Map]]
 
 A map was skipped, but it will appear below this one due to how little was explored. Our goal for this floor is to make it to the center room through the South of the area, when you have made you way to the door inside you will face a mini boss.
 
@@ -1861,12 +1861,12 @@ If you remember the EYE / Evil Eye this is basically the same thing, but slightl
 After the PHANTOM / Death Eye has been defeated you can help yourself to the treasure chests the left contains 45,000 Gil (NES) or a Dry Ether (PS+), while the right one contains 65,000 Gil (NES) or an Elixir (PS+). After you have collected the treasure (or decided to ignore it) go to the center slab and use the Lute Princess Sarah gave you (NES players if you didn't get it you will have to go back to Corneia castle to get it, if you don't have EXIT to get out you will have to reset your game.) which will open a path to 2F in the center room.
 
 **Map 2F**
-[[include image |option=contain |image=/local--files/guide:ff1/chaosshrine2f.png |title=Temple of Fiends / Chaos Shrine (Past) 2F Map]]
+[[image chaosshrine2f.png | Temple of Fiends / Chaos Shrine (Past) 2F Map]]
 
 On this floor we have to leave the room and go to the Northwest which leads back to 1F. On 1F we start at the Northeast and must make our way West to the stairs in the Northwest corner.
 
 **Map B1**
-[[include image |option=contain |image=/local--files/guide:ff1/chaosshrineb1.png |title=Temple of Fiends / Chaos Shrine (Past) B1 Map]]
+[[image chaosshrineb1.png | Temple of Fiends / Chaos Shrine (Past) B1 Map]]
 
 We start in the Southwest corner and must traverse all the way around to the Southeast of the room. **Warning** before approaching the stairs make sure you are fully healed in order to survive a nasty surprise.
 
@@ -1883,7 +1883,7 @@ Drop: None
 Lich has had a major update to his spell list only using Level 8 spell this time around with the cycle being NUKE / Flare > STOP / Stop > ZAP! / Warp > XXXX / Kill and losing the Fire Weakness he previously had. NUKE / Flare if he uses it on the first turn will deal hefty damage around 375 at the least. Go all out and hopefully kill him before your weaker mages drop.
 
 **Map B2**
-[[include image |option=contain |image=/local--files/guide:ff1/chaosshrineb2.png |title=Temple of Fiends / Chaos Shrine (Past) B2 Map]]
+[[image chaosshrineb2.png | Temple of Fiends / Chaos Shrine (Past) B2 Map]]
 
 In this area the exit is within view from where we start, however we have to travel all the way around to reach it. There are some extra treasures you can choose to go for before moving to the next floor. The room below to the left has another ProRing / Protect Ring in the chest near the entrance and in the room South and East of that section will have another Katana / Sasuke's Blade which we already got from Sky Fortress / Flying Fortress. The room below on the right has another ProCape / Protect Cloak which you can equip to your other Mage character if you have a second one (and haven't done bonus dungeons on GBA+ which have better cloaks for them) and the other room mostly East of there has 26,000 Gil (NES / PS) or another Megalixir (DoS+), when done collecting the treasure make your way back to the stairs leading the to next floor.
 
@@ -1900,7 +1900,7 @@ Drop: None
 Her spell cycle has been updated to have FIR3 / Firaga replace FIR2 / Fira, BLND / Blind replace DARK / Dark & STUN / Stun replace HOLD / Hold, same strategy as last time will still work.
 
 **Map B3**
-[[include image |option=contain |image=/local--files/guide:ff1/chaosshrineb3.png |title=Temple of Fiends / Chaos Shrine (Past) B3 Map]]
+[[image chaosshrineb3.png | Temple of Fiends / Chaos Shrine (Past) B3 Map]]
 
 A very simple floor where both paths converge into the same area in the South, there is no treasure here so you can book it to the stairs in the Southeastern room.
 
@@ -1917,7 +1917,7 @@ Drop: Eye Drops (Rare)
 Not much of a change compared to last time though now Kraken has access to LIT2 / Thudara, same strategy as last time still works.
 
 **Map B4**
-[[include image |option=contain |image=/local--files/guide:ff1/chaosshrineb4.png |title=Temple of Fiends / Chaos Shrine (Past) B4 Map]]
+[[image chaosshrineb4.png | Temple of Fiends / Chaos Shrine (Past) B4 Map]]
 
 You can choose to go straight for the exit by going to the East to go to the next floor, however this floor has not only a very rare enemy, but there is also a special weapon hidden at the very Southeast. The Masmune / Masamune is the strongest weapon in the game that can be used by every class including with an attack of 56 and accuracy of 40, it is recommended to give it to a weaker character so they can contribute better to normal encounters.
 
@@ -1934,7 +1934,7 @@ Drop: Rune Staff (Rare)
 It hasn't been too long since we fought Tiamat, this time however she has a spell cycle which she will use more over her skills her spells cycle between BANE / Scourge > ICE2 / Blizzara > LIT2 / Thundara > FIR2 / Fira. Other than her higher defense the old strategy will still work.
 
 **Map B5**
-[[include image |option=contain |image=/local--files/guide:ff1/chaosshrineb5.png |title=Temple of Fiends / Chaos Shrine (Past) B5 Map]]
+[[image chaosshrineb5.png | Temple of Fiends / Chaos Shrine (Past) B5 Map]]
 
 This floor offers much needed breathing room as it has no random encounters so feel free to use your Heal Potions / Megalixir to get back into tip top shape. There is only one room on this floor which houses...Garland? After revealing the plot of the game Garland will transform into.
 
@@ -2030,37 +2030,37 @@ Floor 4
 4. Endless Desert
 
 **Maps**
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=altarcave1.png |title=Altar Cave 1 Map]]
-[[include :fiction:roster:end]]
+
+[[image altarcave1.png | Altar Cave 1 Map]]
+
 This is the very first area of FF3 which shouldn't be too tough to traverse since you can't really get lost.
 
 Treasure: 2 (Always)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=altarcave2.png |title=Altar Cave 2 Map]]
-[[include :fiction:roster:end]]
+
+[[image altarcave2.png | Altar Cave 2 Map]]
+
 This area has 2 points where you can start at and a chest may not appear depending on what floor you are on.
 
 Treasure: 2 (F1 & 2), 3 (F3 & 4)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=darkforest.png |title=Dark Forest Map]]
-[[include :fiction:roster:end]]
+
+[[image darkforest.png | Dark Forest Map]]
+
 This is a large area that is somewhat of a maze, there are enemies that block your path that force you to fight to proceed further. There are some chests that may appear near an area where you are forced to fight, though the chest will generally be visible if it spawned on the floor.
 
 Treasure: 2 (F1 & 2), 3 (F3), 4 (F4)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=endlessdesert.png |title=Endless Desert Map]]
-[[include :fiction:roster:end]]
+
+[[image endlessdesert.png | Endless Desert Map]]
+
 A large area that feels infinite though it will loop on itself, your starting spot is randomized out of several points so you will have to walk around to figure where you could possibly be to find out where you are to be able to find the exit.
 
 Treasure: 2 (F1 & 2), 3 (F3), 4 (F4)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=bossroomearthgift.png |title=Boss Room of Earthgift Shrine Map]]
-[[include :fiction:roster:end]]
+
+[[image bossroomearthgift.png | Boss Room of Earthgift Shrine Map]]
+
 
 **Bosses**
 Echidna (#129)
@@ -2236,71 +2236,71 @@ Floor 9
 8. World Map
 
 **Maps**
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=trespassers.png |title=Trespassers Map]]
-[[include :fiction:roster:end]]
+
+[[image trespassers.png | Trespassers Map]]
+
 This map is unique in that there are no random encounters, spots where you see sparkles are the encounters that will happen for this area. You must maneuver through NPCs that move at differing speeds, if they run into you they won't turn around unless they reach a certain point in their cycle.
 
 Treasure: 2 (F1 & 2), 3 (F3, 4 & 6), 4 (F7-9)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=windingpath.png |title=Winding Path Map]]
-[[include :fiction:roster:end]]
+
+[[image windingpath.png | Winding Path Map]]
+
 A very simple map with the goal of reaching the bottom of the path.
 
 Treasure: 2 (F1 & 2), 3 (F3, 4 & 6-9)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=scaldingbats.png |title=Scalding Bats Map]]
-[[include :fiction:roster:end]]
+
+[[image scaldingbats.png | Scalding Bats Map]]
+
 This map is unique in that it introduces heat tiles, unlike lava tiles which damage you every step these tiles damage you every couple of seconds. This map is filled to the brim with annoying fast moving bats that will tend to block your way, due to the heat tiles you will want to move around them rather than force them to move out of your way.
 
 Treasure: 2 (F1 & 2), 3 (F3, 4 & 6), 4 (F7-9)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=firewallmaze.png |title=Firewall Maze Map]]
-[[include :fiction:roster:end]]
+
+[[image firewallmaze.png | Firewall Maze Map]]
+
 This is one large maze you have to go through in order to reach the exit and also get the treasure.
 
 Treasure: 2 (F1-4 & 6-8), 3 (F9)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=rocklabyrinth.png |title=Rock Labyrinth Map]]
-[[include :fiction:roster:end]]
+
+[[image rocklabyrinth.png | Rock Labyrinth Map]]
+
 There is a possibility that you will start on a lava tile instead of solid ground, speaking of there are very few tiles here that aren't lava so you will find your health going down quite fast here. You're also trying to get to exit near the middle left side of the map.
 
 Treasure: 2 (Always)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=zigzaglavaway.png |title=Zigzag Lavaway Map]]
-[[include :fiction:roster:end]]
+
+[[image zigzaglavaway.png | Zigzag Lavaway Map]]
+
 Of the volcano areas this one has the least amount of lava tiles and has a safe spot where the chests may appear in, there are two starting points that are close to the exit in the center of the map with one being farther away.
 
 Treasure: 2 (F1-4 & 6-8), 3 (F9)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=spirallavaway.png |title=Spiral Lavaway Map]]
-[[include :fiction:roster:end]]
+
+[[image spirallavaway.png | Spiral Lavaway Map]]
+
 A large loop requiring you to get to the outer wall to reach the exit at the lower left.
 
 Treasure: 2 (F1-4 & 6-8), 3 (F9)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=worldmap1.png |title=World Map 1]]
-[[include :fiction:roster:end]]
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=worldmap2.png |title=World Map 2]]
-[[include :fiction:roster:end]]
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=worldmap3.png |title=World Map 3]]
-[[include :fiction:roster:end]]
+
+[[image worldmap1.png | World Map 1]]
+
+
+[[image worldmap2.png | World Map 2]]
+
+
+[[image worldmap3.png | World Map 3]]
+
 3 different maps all counted as the same (you will get one of the 3 above). Each have a similar objective, find and talk to Thule to mention needing the Levistone to get an Airship, find a palm tree in a desert section to get the Airship and use the Airship to fly to the exit (not all maps need it to complete).
 
 Treasure: 2 (F1 & 2), 3 (F3, 4 & 6), 4 (F7 & 8), 5 (F9)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=bossroomhellfire5f.png |title=Boss Room of Hellfire Chasm 5F Map]]
-[[include :fiction:roster:end]]
+
+[[image bossroomhellfire5f.png | Boss Room of Hellfire Chasm 5F Map]]
+
 This floor gives you the option of fighting either Scarmiglione to the North or Cagnazzo to the South, after your victory you can choose to back out or continue to the next floor.
 
 **Bosses**
@@ -2328,9 +2328,9 @@ Resist: [[image Earth.png]][[image Ice.png]][[image Time.png]][[image Stone.png]
 Drop: Light Curtain (Always)
 He doesn't have his gimmick of raising water around himself or entering his shell like the original game so Thundaga will do a lot of damage to him. He will usually use Tsunami which will hit for around 300 damage so Healaga after to stay in shape, he may cast Haste to increase his attack or Curaga to heal himself.
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |image=bossroomhellfire10f.png |title=Boss Room of Hellfire Chasm 10F Map]]
-[[include :fiction:roster:end]]
+
+[[image bossroomhellfire10f.png | Boss Room of Hellfire Chasm 10F Map]]
+
 Like the previous boss room you are given the choice to either fight Barbariccia to the East or Rubicante to the West.
 
 **Bosses**
@@ -2659,121 +2659,121 @@ Floor 19
 17. Dark Bahamut's Challenge
 
 **Maps**
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=dancinggirls.png |title=Dancing Girls Maps]]
-[[include :fiction:roster:end]]
+
+[[image dancinggirls.png | Dancing Girls Maps]]
+
 Of these set of rooms you can only go through 3 of the 5 each trip. The first room will always be the same while the second and third rooms have 2 possible outcomes.
 
 Treasure: 2 (F1-4), 3 (F6-12), 4 (F13-19)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=library.png |title=Library Map]]
-[[include :fiction:roster:end]]
+
+[[image library.png | Library Map]]
+
 A very large area with a lot of NPCs that block your path, the exit is in the upper right section of the map.
 
 Treasure: 2 (F1-4), 3 (F6-19)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=floodedvillage.png |title=Flooded Village Map]]
-[[include :fiction:roster:end]]
+
+[[image floodedvillage.png | Flooded Village Map]]
+
 A fairly small area completely done on the raft. The exit is randomly chosen from the many houses you can enter.
 
 Treasure: 3 (F1-4), 4 (F6-19)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=shimmeringwalkways.png |title=Shimmering Walkways Map]]
-[[include :fiction:roster:end]]
+
+[[image shimmeringwalkways.png | Shimmering Walkways Map]]
+
 A large and unique map, the gimmick with this one is that there are periodic flashing tiles which are always solid, but aren't always revealed. This is the only map that has 10 chests and thus will have at least 1 stat increasing item. 
 
 Treasure: 10 (Always)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=lgsunkenshrine2f.png |title=Sunken Shrine 2F Map]]
-[[include :fiction:roster:end]]
+
+[[image lgsunkenshrine2f.png | Sunken Shrine 2F Map]]
+
 All start points except 1 are near a wall so is one way to know you are on this version of Sunken Shrine. This is somewhat similar to 2F of the Sunken Shrine ,the map is pretty big with the exit is along the Eastern section of the map.
 
 Treasure: 3 (Always)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=lgsunkenshrine4f.png |title=Sunken Shrine 4F Map]]
-[[include :fiction:roster:end]]
+
+[[image lgsunkenshrine4f.png | Sunken Shrine 4F Map]]
+
 Looks close to 4F from Sunken Shrine with minor changes. There are 3 rooms, though one will always be empty while the other two can possible have chests the exit is near the center room.
 
 Treasure: 2 (F1-8), 3 (F9-16), 4 (F17-19)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=lgsunkenshrine5f.png |title=Sunken Shrine 5F Map]]
-[[include :fiction:roster:end]]
+
+[[image lgsunkenshrine5f.png | Sunken Shrine 5F Map]]
+
 Looks very similar, but not completely like 5F from Sunken Shrine where you had to find the Rosetta Stone. Treasures are near the bottom and top right rooms on the map with the exit at the Northwest.
 
 Treasure: 2 (F1-8), 3 (F9-16), 4 (F17-19)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=sunkenshrinecaves.png |title=Sunken Shrine Caves Map]]
-[[include :fiction:roster:end]]
+
+[[image sunkenshrinecaves.png | Sunken Shrine Caves Map]]
+
 The smallest map with the exit in the Eastern section of the map which you have a chance of spawning by.
 
 Treasure: 2 (F1-8), 3 (F9-16), 4 (F17-19)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=remotesunkenshrine.png |title=Remote Sunken Shrine Map]]
-[[include :fiction:roster:end]]
+
+[[image remotesunkenshrine.png | Remote Sunken Shrine Map]]
+
 Distinct from the other Sunken Shrine maps as you either spawn right near the exit or near the room on the right which is partially visible.
 
 Treasure: 2 (F1-8), 3 (F9-19)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=windingsunkenshrine.png |title=Winding Sunken Shrine Map]]
-[[include :fiction:roster:end]]
+
+[[image windingsunkenshrine.png | Winding Sunken Shrine Map]]
+
 To reach the exit you have to make your way to the Southeastern section which you start either away from it in the North or close to it in the South.
 
 Treasure: 2 (F1-8), 3 (F9-16), 4 (F17-19)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=openareatemple.png |title=Open Area Temple Map]]
-[[include :fiction:roster:end]]
+
+[[image openareatemple.png | Open Area Temple Map]]
+
 You start in either the bottom which is next to the exit or the top which is further away. The exit is in the bottom right with two ways to get there while the treasures are around the various corners.
 
 Treasure: 2 (F1-4), 3 (F6-12), 4 (F13-19)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=roommazetemple.png |title=Room Maze Temple Map]]
-[[include :fiction:roster:end]]
+
+[[image roommazetemple.png | Room Maze Temple Map]]
+
 You start in either the bottom right corner of the top center and must make your way to the exit in the bottom left.
 
 Treasure: 2 (F1-4), 3 (F6-12), 4 (F13-19)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=pillarmazetemple.png |title=Pillar Maze Temple Map]]
-[[include :fiction:roster:end]]
+
+[[image pillarmazetemple.png | Pillar Maze Temple Map]]
+
 A pretty small map in which you start either in the center or near the bottom and must make your way to the exit in the Northeast. You have to make you way through the Northern side as that is the only section it is not blocked from.
 
 Treasure: 2 (F1-4), 3 (F6-12), 4 (F13-16), 5 (F17-19)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=pillarmazecave.png |title=Pillar Maze Cave Map]]
-[[include :fiction:roster:end]]
+
+[[image pillarmazecave.png | Pillar Maze Cave Map]]
+
 A large cave filled with pillars made to make a maze, regardless where you start (unless in the lower left) you will have to go counterclockwise to reach the exit, however the upper routes can potentially have a chest.
 
 Treasure: 3 (F1-4), 4 (F6-12), 5 (F13-19)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=icecavern.png |title=Ice Cavern Map]]
-[[include :fiction:roster:end]]
+
+[[image icecavern.png | Ice Cavern Map]]
+
 A large cave and the only one that is based on the Ice Cavern map, not too large of an area with the treasures on the left sides of the map. The exit is near the center of the map.
 
 Treasure: 2 (F1-2), 3 (F3-19)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=flyingfortresslg.png |title=Flying Fortress Map]]
-[[include :fiction:roster:end]]
+
+[[image flyingfortresslg.png | Flying Fortress Map]]
+
 If you haven't been to the Flying Fortress Dungeon this will easily standout due to the clouds. This is a pretty large floor that will always have 3 treasures, the exit is in the Southeast of the map.
 
 Treasure: 3 (Always)
 
-[[include :fiction:roster:begin]]
-[[include :fiction:common:article-image |page=guide:ff1ac |image=darkbahamutchallenge.png |title=Dark Bahamut's Challenge Map]]
-[[include :fiction:roster:end]]
+
+[[image darkbahamutchallenge.png | Dark Bahamut's Challenge Map]]
+
 You will start near Dark Bahamut and must speak to him to find out what dragons he wants you to defeat in order to open the door leading to the stairs to the next floor. This is a good place to get levels as you will gain at least 1 maybe 2 from all the dragons which are randomly picked when you talk to them (there are exactly 3 of each Dragon available), due note that if you beat the needed dragons and speak to Dark Bahamut you will not be able to defeat the remaining dragons, though you can talk to them for some dialogue.
 
 Treasure: 0 (Always)

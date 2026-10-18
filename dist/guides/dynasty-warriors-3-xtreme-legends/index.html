@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Dynasty Warriors</title>
+    <meta name="description" content="Dynasty Warriors 3: Xtreme Legends is the first ever expansion to a Warriors title, as with all Xtre...">
+    
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/css/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -13,9 +16,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
-
-    <title>Dynasty Warriors</title>
-    <meta name="description" content="Dynasty Warriors 3: Xtreme Legends is the first ever expansion to a Warriors title, as with all Xtre...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
@@ -31,129 +31,166 @@
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
     <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
     <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
     <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
-    <header>
-        <nav>
-    <a href="/">Home</a>
-    <a href="/guides/">Guides</a>
-    <a href="/articles/">Articles</a>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-md-2 p-0">
+                <nav class="capa-navbar" aria-label="Main navigation">
+
+    <!-- Mobile-only Expand Button -->
+    <button
+        class="capa-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="capa-nav-content"
+        aria-label="Open navigation"
+    >
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    
+    <!-- Mobile-only Close Button -->
+    <button
+        class="capa-nav-overlay"
+        type="button"
+        aria-label="Close navigation"
+        tabindex="-1"
+        aria-hidden="true"
+    ></button>
+
+    <!-- Shared navigation and TOC -->
+    <div id="capa-nav-content">
+        <div class="nav-item">
+            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        </div>
+        <div class="nav-item">
+            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        </div>
+        <div class="nav-item">
+            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        </div>
+        <!-- TOC will be moved here by move-toc-to-nav.js -->
+    </div>
+
 </nav>
-    </header>
-    <main>
-        <div class="row m-0 p-0">
-<p>[[div class=&quot;col-md-2 hidden-xs hidden-sm guide table-of-contents p-0&quot; role=&quot;navigation&quot;]]</p>
-<p>[[include nav:main]]</p>
-<p>[[/div]][!<del> Close the role=navigation </del>]</p>
-<p>[!<del> </del><del></del><del> </del><del></del><del> Border between Nav and Main Content </del><del></del><del> </del><del></del><del> </del>]</p>
-<p>[[div_ class=&quot;col-md-10 col-md-offset-2 col-xs-12 main main-container p-0&quot;]]</p>
-<p>[[include component:splash |splash-class=full-height |splash-style=background-image:url(&#39;http://capa.wdfiles.com/local--files/guides%3Adynasty-warriors-3-xtreme-legends/dynasty-warriors-3-xtreme-legends-splash.avif&#39;); |text-title=Dynasty Warriors |text-sub-title=Written by Buster Wolf |text-extra=Updated on %%updated_at%% |text-extra-icon=fa fa-clock ]]</p>
-<div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl">
-<p>[[collapsible show=&quot;Table of Contents&quot; hide=&quot;Collapse Table of Contents&quot;]]</p>
-<div class="table-of-contents">
-<a href="#heading-1">New Musou Modes</a>
-<a href="#heading-2">5th Weapons</a>
-<a href="#heading-3">Shu</a>
-<a href="#heading-4">Zhao Yun</a>
-<a href="#heading-5">Guan Yu</a>
-<a href="#heading-6">Zhang Fei</a>
-<a href="#heading-7">Zhuge Liang</a>
-<a href="#heading-8">Liu Bei</a>
-<a href="#heading-9">Ma Chao</a>
-<a href="#heading-10">Huang Zhong</a>
-<a href="#heading-11">Jiang Wei</a>
-<a href="#heading-12">Wei Yan</a>
-<a href="#heading-13">Pang Tong</a>
-<a href="#heading-14">Wei</a>
-<a href="#heading-15">Xiahou Dun</a>
-<a href="#heading-16">Dian Wei</a>
-<a href="#heading-17">Xu Zhu</a>
-<a href="#heading-18">Cao Cao</a>
-<a href="#heading-19">Xiahou Yuan</a>
-<a href="#heading-20">Zhang Liao</a>
-<a href="#heading-21">Sima Yi</a>
-<a href="#heading-22">Xu Huang</a>
-<a href="#heading-23">Zhang He</a>
-<a href="#heading-24">Zhen Ji</a>
-<a href="#heading-25">Wu</a>
-<a href="#heading-26">Zhou Yu</a>
-<a href="#heading-27">Lu Xun</a>
-<a href="#heading-28">Taishi Ci</a>
-<a href="#heading-29">Sun Shang Xiang</a>
-<a href="#heading-30">Sun Jian</a>
-<a href="#heading-31">Sun Quan</a>
-<a href="#heading-32">Lu Meng</a>
-<a href="#heading-33">Gan Ning</a>
-<a href="#heading-34">Huang Gai</a>
-<a href="#heading-35">Sun Ce</a>
-<a href="#heading-36">Da Qiao</a>
-<a href="#heading-37">Xiao Qiao</a>
-<a href="#heading-38">Others</a>
-<a href="#heading-39">Diao Chan</a>
-<a href="#heading-40">Lu Bu</a>
-<a href="#heading-41">Dong Zhuo</a>
-<a href="#heading-42">Yuan Shao</a>
-<a href="#heading-43">Zhang Jiao</a>
-<a href="#heading-44">Meng Huo</a>
-<a href="#heading-45">Zhu Rong </a>
-<a href="#heading-46">Fu Xi </a>
-<a href="#heading-47">Nu Wa</a>
-<a href="#heading-48">Dim Sum &amp; Musou Wine Locations</a>
-<a href="#heading-49">Battle of Ru Nan</a>
-<a href="#heading-50">The Battle at Hu Lao Gate</a>
-<a href="#heading-51">Surprise Attack on Liu Biao</a>
-<a href="#heading-52">The Battle at Wan Castle</a>
-<a href="#heading-53">Assault on the Wu Territory</a>
-<a href="#heading-54">The Battle at Guan Du</a>
-<a href="#heading-55">Diao Chan&#39;s Escape</a>
-<a href="#heading-56">The Battle of Chang Ban</a>
-<a href="#heading-57">The Battle at Chi Bi</a>
-<a href="#heading-58">Assault on Cheng Du</a>
-<a href="#heading-59">The Battle at Tong Gate</a>
-<a href="#heading-60">The Battle at He Fei</a>
-<a href="#heading-61">The Battle at Fan Castle</a>
-<a href="#heading-62">The Battle of Mt. Ding Jun</a>
-<a href="#heading-63">The Battle at Yi Ling</a>
-<a href="#heading-64">The Nanman Campaign</a>
-<a href="#heading-65">The Battle of Jie Ting</a>
-<a href="#heading-66">The Battle at You Ting</a>
-<a href="#heading-67">The Siege of He Fei Castle</a>
-<a href="#heading-68">The Battle at Wu Zhang Plains</a>
-<a href="#heading-69">The Mountain Bandit Campaign</a>
-<a href="#heading-70">Raid on the Rogue Fortress</a>
-<a href="#heading-71">Wu Navy Skirmish</a>
-<a href="#heading-72">New Items</a>
-<a href="#heading-73">Normal</a>
-<a href="#heading-74">Rare</a>
-<a href="#heading-75">Divine Helmet</a>
-<a href="#heading-76">Scroll of Accuracy</a>
-<a href="#heading-77">Imperial Harness</a>
-<a href="#heading-78">Seven Stars Blade</a>
-<a href="#heading-79">Lightning Bow</a>
-<a href="#heading-80">Seal of Darkness</a>
-<a href="#heading-81">Beast Harness</a>
-<a href="#heading-82">Marching Drum</a>
-<a href="#heading-83">Divine Gauntlet</a>
-<a href="#heading-84">Master’s Cloak</a>
-<a href="#heading-85">Legendary Scroll</a>
-<a href="#heading-86">Musou Armor</a>
-<a href="#heading-87">Bodyguard Items</a>
-<a href="#heading-88">BG Healing Scroll</a>
-<a href="#heading-89">Break Limit Items</a>
-<a href="#heading-90">Special Third costumes</a>
-<a href="#heading-91">Lu Bu</a>
-<a href="#heading-92">Sun Shang Xiang</a>
-<a href="#heading-93">5th Weapons Showcase</a>
+            </header>
+            <div class="col-12 col-md-10 p-0">
+                <main class="capa-main">
+                    <div class="row m-0 p-0">
+<div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:url(&#39;/assets/guides/dynasty-warriors-3-xtreme-legends/dynasty-warriors-3-xtreme-legends-splash.avif&#39;);">
+<div class="title-container p-4">
+<div class="page-extra stroke ">
+<p><span class="visible fa fa-clock"> </span> Updated at 2025-04-06</p>
 </div>
-<p>[[/collapsible]]</p>
+<div class="page-sub-title strong stroke ">
+<p>Written by Buster Wolf</p>
+</div>
+<div class="page-title strong stroke ">
+<p>Dynasty Warriors</p>
+</div>
+</div>
+</div>
+<div id="toc" class="table-of-contents">
+<a href="#heading-1" class="toc-h1">New Musou Modes</a>
+<a href="#heading-2" class="toc-h1">5th Weapons</a>
+<a href="#heading-3" class="toc-h2">Shu</a>
+<a href="#heading-4" class="toc-h3">Zhao Yun</a>
+<a href="#heading-5" class="toc-h3">Guan Yu</a>
+<a href="#heading-6" class="toc-h3">Zhang Fei</a>
+<a href="#heading-7" class="toc-h3">Zhuge Liang</a>
+<a href="#heading-8" class="toc-h3">Liu Bei</a>
+<a href="#heading-9" class="toc-h3">Ma Chao</a>
+<a href="#heading-10" class="toc-h3">Huang Zhong</a>
+<a href="#heading-11" class="toc-h3">Jiang Wei</a>
+<a href="#heading-12" class="toc-h3">Wei Yan</a>
+<a href="#heading-13" class="toc-h3">Pang Tong</a>
+<a href="#heading-14" class="toc-h2">Wei</a>
+<a href="#heading-15" class="toc-h3">Xiahou Dun</a>
+<a href="#heading-16" class="toc-h3">Dian Wei</a>
+<a href="#heading-17" class="toc-h3">Xu Zhu</a>
+<a href="#heading-18" class="toc-h3">Cao Cao</a>
+<a href="#heading-19" class="toc-h3">Xiahou Yuan</a>
+<a href="#heading-20" class="toc-h3">Zhang Liao</a>
+<a href="#heading-21" class="toc-h3">Sima Yi</a>
+<a href="#heading-22" class="toc-h3">Xu Huang</a>
+<a href="#heading-23" class="toc-h3">Zhang He</a>
+<a href="#heading-24" class="toc-h3">Zhen Ji</a>
+<a href="#heading-25" class="toc-h2">Wu</a>
+<a href="#heading-26" class="toc-h3">Zhou Yu</a>
+<a href="#heading-27" class="toc-h3">Lu Xun</a>
+<a href="#heading-28" class="toc-h3">Taishi Ci</a>
+<a href="#heading-29" class="toc-h3">Sun Shang Xiang</a>
+<a href="#heading-30" class="toc-h3">Sun Jian</a>
+<a href="#heading-31" class="toc-h3">Sun Quan</a>
+<a href="#heading-32" class="toc-h3">Lu Meng</a>
+<a href="#heading-33" class="toc-h3">Gan Ning</a>
+<a href="#heading-34" class="toc-h3">Huang Gai</a>
+<a href="#heading-35" class="toc-h3">Sun Ce</a>
+<a href="#heading-36" class="toc-h3">Da Qiao</a>
+<a href="#heading-37" class="toc-h3">Xiao Qiao</a>
+<a href="#heading-38" class="toc-h2">Others</a>
+<a href="#heading-39" class="toc-h3">Diao Chan</a>
+<a href="#heading-40" class="toc-h3">Lu Bu</a>
+<a href="#heading-41" class="toc-h3">Dong Zhuo</a>
+<a href="#heading-42" class="toc-h3">Yuan Shao</a>
+<a href="#heading-43" class="toc-h3">Zhang Jiao</a>
+<a href="#heading-44" class="toc-h3">Meng Huo</a>
+<a href="#heading-45" class="toc-h3">Zhu Rong </a>
+<a href="#heading-46" class="toc-h3">Fu Xi </a>
+<a href="#heading-47" class="toc-h3">Nu Wa</a>
+<a href="#heading-48" class="toc-h1">Dim Sum &amp; Musou Wine Locations</a>
+<a href="#heading-49" class="toc-h2">Battle of Ru Nan</a>
+<a href="#heading-50" class="toc-h2">The Battle at Hu Lao Gate</a>
+<a href="#heading-51" class="toc-h2">Surprise Attack on Liu Biao</a>
+<a href="#heading-52" class="toc-h2">The Battle at Wan Castle</a>
+<a href="#heading-53" class="toc-h2">Assault on the Wu Territory</a>
+<a href="#heading-54" class="toc-h2">The Battle at Guan Du</a>
+<a href="#heading-55" class="toc-h2">Diao Chan&#39;s Escape</a>
+<a href="#heading-56" class="toc-h2">The Battle of Chang Ban</a>
+<a href="#heading-57" class="toc-h2">The Battle at Chi Bi</a>
+<a href="#heading-58" class="toc-h2">Assault on Cheng Du</a>
+<a href="#heading-59" class="toc-h2">The Battle at Tong Gate</a>
+<a href="#heading-60" class="toc-h2">The Battle at He Fei</a>
+<a href="#heading-61" class="toc-h2">The Battle at Fan Castle</a>
+<a href="#heading-62" class="toc-h2">The Battle of Mt. Ding Jun</a>
+<a href="#heading-63" class="toc-h2">The Battle at Yi Ling</a>
+<a href="#heading-64" class="toc-h2">The Nanman Campaign</a>
+<a href="#heading-65" class="toc-h2">The Battle of Jie Ting</a>
+<a href="#heading-66" class="toc-h2">The Battle at You Ting</a>
+<a href="#heading-67" class="toc-h2">The Siege of He Fei Castle</a>
+<a href="#heading-68" class="toc-h2">The Battle at Wu Zhang Plains</a>
+<a href="#heading-69" class="toc-h2">The Mountain Bandit Campaign</a>
+<a href="#heading-70" class="toc-h2">Raid on the Rogue Fortress</a>
+<a href="#heading-71" class="toc-h2">Wu Navy Skirmish</a>
+<a href="#heading-72" class="toc-h1">New Items</a>
+<a href="#heading-73" class="toc-h2">Normal</a>
+<a href="#heading-74" class="toc-h2">Rare</a>
+<a href="#heading-75" class="toc-h3">Divine Helmet</a>
+<a href="#heading-76" class="toc-h3">Scroll of Accuracy</a>
+<a href="#heading-77" class="toc-h3">Imperial Harness</a>
+<a href="#heading-78" class="toc-h3">Seven Stars Blade</a>
+<a href="#heading-79" class="toc-h3">Lightning Bow</a>
+<a href="#heading-80" class="toc-h3">Seal of Darkness</a>
+<a href="#heading-81" class="toc-h3">Beast Harness</a>
+<a href="#heading-82" class="toc-h3">Marching Drum</a>
+<a href="#heading-83" class="toc-h3">Divine Gauntlet</a>
+<a href="#heading-84" class="toc-h3">Master’s Cloak</a>
+<a href="#heading-85" class="toc-h3">Legendary Scroll</a>
+<a href="#heading-86" class="toc-h3">Musou Armor</a>
+<a href="#heading-87" class="toc-h2">Bodyguard Items</a>
+<a href="#heading-88" class="toc-h3">BG Healing Scroll</a>
+<a href="#heading-89" class="toc-h2">Break Limit Items</a>
+<a href="#heading-90" class="toc-h1">Special Third costumes</a>
+<a href="#heading-91" class="toc-h2">Lu Bu</a>
+<a href="#heading-92" class="toc-h2">Sun Shang Xiang</a>
+<a href="#heading-93" class="toc-h1">5th Weapons Showcase</a>
 </div>
 <div class="container drop-caps p-4 dynasty-warriors-3-xtreme-legends">
-<p><p>Dynasty Warriors 3: Xtreme Legends is the first ever expansion to a Warriors title, as with all Xtreme Legends expansions it has its own content to separate itself from the <a href="/guide:dynasty-warriors-3">vanilla game</a>, but to have all the content from the vanilla game Mixjoy is needed.</p>
+<p>Dynasty Warriors 3: Xtreme Legends is the first ever expansion to a Warriors title, as with all Xtreme Legends expansions it has its own content to separate itself from the <a href="/guide:dynasty-warriors-3">vanilla game</a>, but to have all the content from the vanilla game Mixjoy is needed.</p>
 <p>Three words of warning before beginning</p>
 <ul>
     <li>First if you used Cheat Codes with the vanilla game your save cannot be transferred to Xtreme Legends due to anti cheating measures.</li>
@@ -265,20 +302,20 @@
     <li><strong>Precious Item:</strong> South of the Shu Main Camp on the right of the divider near the top of the center bridges.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhaoyun-ex.avif title=War Dragon Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhaoyun-ex.avif" alt="War Dragon Location">
+        <figcaption>War Dragon Location</figcaption>
+    </figure>
 <h3 id="heading-5">Guan Yu</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle at Fan Castle (Shu Forces) - Defeat Pang De, Lu Xun, Gan Ning &amp; Lu Meng in order. </li>
     <li><strong>Precious Item:</strong> Northeastern corner of the map.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-guanyu-ex.avif title=Divine Dragon Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-guanyu-ex.avif" alt="Divine Dragon Location">
+        <figcaption>Divine Dragon Location</figcaption>
+    </figure>
 <h3 id="heading-6">Zhang Fei</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle at Mt. Ding Jun (Shu Forces) – Mount a horse and charge down the trail on Huang Zhong’s side, go into the fork on the right path and make your way to the bridge then defeat Cao Hong.
@@ -290,10 +327,10 @@
     <li><strong>Precious Item:</strong> At the end of the right path you charged down from.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhangfei-ex.avif title=Serpent Blade Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhangfei-ex.avif" alt="Serpent Blade Location">
+        <figcaption>Serpent Blade Location</figcaption>
+    </figure>
 <h3 id="heading-7">Zhuge Liang</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle at Chi Bi (Liu Bei’s Forces) – Get 1,000 KO’s</li>
@@ -301,10 +338,10 @@
     <li><strong>Precious Item:</strong> Center of the Northwest landmass around Cao Pi’s starting position.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhugeliang-ex.avif title=Griffin Feather Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhugeliang-ex.avif" alt="Griffin Feather Location">
+        <figcaption>Griffin Feather Location</figcaption>
+    </figure>
 <h3 id="heading-8">Liu Bei</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle of Jie Ting (Shu Forces) – When Ma Su is surrounded defeat Xin Pi to save him.</li>
@@ -312,10 +349,10 @@
     <li><strong>Precious Item:</strong> South of Sima Yi’s camp in the small section on the West half.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-liubei-ex.avif title=Dragon Star Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-liubei-ex.avif" alt="Dragon Star Location">
+        <figcaption>Dragon Star Location</figcaption>
+    </figure>
 <h3 id="heading-9">Ma Chao</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) Assault on Cheng Du (Liu Bei’s Forces) – Defeat Liu Xun or Liu Han with Pang Tong alive.</li>
@@ -323,10 +360,10 @@
     <li><strong>Precious Item:</strong> Southwest corner of the map.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-machao-ex.avif title=Lightning Spear Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-machao-ex.avif" alt="Lightning Spear Location">
+        <figcaption>Lightning Spear Location</figcaption>
+    </figure>
 <h3 id="heading-10">Huang Zhong</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle at Yi Ling (Shu Forces) – Prevent Zhu Ran’s fire attack then defeat Lu Xun.</li>
@@ -334,10 +371,10 @@
     <li><strong>Precious Item:</strong> In the center of the bottom right encampment.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-huangzhong-ex.avif title=Mystic Blade Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-huangzhong-ex.avif" alt="Mystic Blade Location">
+        <figcaption>Mystic Blade Location</figcaption>
+    </figure>
 <h3 id="heading-11">Jiang Wei</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle at Yi Ling (Shu Forces) – After the Fire Attack wait for the enemy to trigger the Stone Warrior Formation ambush, then defeat Zhu Huan.
@@ -348,10 +385,10 @@
     <li><strong>Precious Item:</strong> Of the Northwestern encampment East of the Easternmost rectangle.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-jiangwei-ex.avif title=Starlight Pike Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-jiangwei-ex.avif" alt="Starlight Pike Location">
+        <figcaption>Starlight Pike Location</figcaption>
+    </figure>
 <h3 id="heading-12">Wei Yan</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle at Yi Ling (Shu Forces) – Defeat every general and gate captain.
@@ -362,10 +399,10 @@
     <li><strong>Precious Item:</strong> West of the path before the bridges to the Wu main camp.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-weiyan-ex.avif title=Twin Stars Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-weiyan-ex.avif" alt="Twin Stars Location">
+        <figcaption>Twin Stars Location</figcaption>
+    </figure>
 <h3 id="heading-13">Pang Tong</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle of Chi Bi (Liu Bei’s Forces) – After the Fire Attack succeeds defeat Xiahou Dun.</li>
@@ -373,10 +410,10 @@
     <li><strong>Precious Item:</strong> Near the bottom right ally Gate Captain.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-pangtong-ex.avif title=Lightning Staff Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-pangtong-ex.avif" alt="Lightning Staff Location">
+        <figcaption>Lightning Staff Location</figcaption>
+    </figure>
 <h2 id="heading-14">Wei</h2>
 <h3 id="heading-15">Xiahou Dun</h3>
 <ul>
@@ -389,10 +426,10 @@
     <li><strong>Precious Item:</strong> Behind a house on the corner of the L shape bend in the center.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-xiahoudun-ex.avif title=Tempest Sword Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-xiahoudun-ex.avif" alt="Tempest Sword Location">
+        <figcaption>Tempest Sword Location</figcaption>
+    </figure>
 <h3 id="heading-16">Dian Wei</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle at He Fei (Wei Forces) – After Taishi Ci’s death event defeat Lu Xun, later when Gan Ning’s surprise attack happens defeat him.
@@ -403,10 +440,10 @@
     <li><strong>Precious Item:</strong> South of Cao Cao’s main camp slightly North of where Gan Ning appears.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-dianwei-ex.avif title=Beast Axe Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-dianwei-ex.avif" alt="Beast Axe Location">
+        <figcaption>Beast Axe Location</figcaption>
+    </figure>
 <h3 id="heading-17">Xu Zhu</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Siege of He Fei Castle (Wei Forces) - Defeat Lu Xun, Lu Meng, Sun Shang Xiang &amp; Gan Ning.
@@ -418,20 +455,20 @@
     <li><strong>Precious Item:</strong> Fenced area North from the Southern boat.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-xuzhu-ex.avif title=Earthly Mace Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-xuzhu-ex.avif" alt="Earthly Mace Location">
+        <figcaption>Earthly Mace Location</figcaption>
+    </figure>
 <h3 id="heading-18">Cao Cao</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle of Mt. Ding Jun (Wei Forces) – Defeat Huang Zhong in 5 minutes.</li>
     <li><strong>Precious Item:</strong> At the corner Southwest of where Huang Zhong starts.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-caocao-ex.avif title=Blue Steel Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-caocao-ex.avif" alt="Blue Steel Location">
+        <figcaption>Blue Steel Location</figcaption>
+    </figure>
 <h3 id="heading-19">Xiahou Yuan</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle at Tong Gate (Cao Cao’s Forces) - Make Han Shui defect.</li>
@@ -439,10 +476,10 @@
     <li><strong>Precious Item:</strong> Northwest corner of Ma Chao&#39;s main camp.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-xiahouyuan-ex.avif title=Mystic Fang Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-xiahouyuan-ex.avif" alt="Mystic Fang Location">
+        <figcaption>Mystic Fang Location</figcaption>
+    </figure>
 <h3 id="heading-20">Zhang Liao</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (X) The Battle at Guan Du (Dong Zhuo’s Forces) – Defeat every archer in Archer Towers before the Castle Wall falls.</li>
@@ -450,10 +487,10 @@
     <li><strong>Precious Item:</strong> Northeast corner inside the castle.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhangliao-ex.avif title=Dragon God Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhangliao-ex.avif" alt="Dragon God Location">
+        <figcaption>Dragon God Location</figcaption>
+    </figure>
 <h3 id="heading-21">Sima Yi</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Siege of He Fei Castle (Wei Forces) – Defeat Lu Xun, Lu Meng, Sun Shang Xiang &amp; Gan Ning in order before Sima Yi gives the full attack message.
@@ -464,10 +501,10 @@
     <li><strong>Precious Item:</strong> Middle hall after the Wind Trap room.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-simayi-ex.avif title=Raven Feather Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-simayi-ex.avif" alt="Raven Feather Location">
+        <figcaption>Raven Feather Location</figcaption>
+    </figure>
 <h3 id="heading-22">Xu Huang</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle at Tong Gate (Cao Cao’s Forces) - Make Han Shui defect.</li>
@@ -475,10 +512,10 @@
     <li><strong>Precious Item:</strong> Under the top right Gate Captain.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-xuhuang-ex.avif title=Tiger Fang Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-xuhuang-ex.avif" alt="Tiger Fang Location">
+        <figcaption>Tiger Fang Location</figcaption>
+    </figure>
 <h3 id="heading-23">Zhang He</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (X) The Battle of Jie Ting (Yuan Shao’s Forces) – Defeat in order Xu Zhu, Xiahou Yuan, Zhang Liao, Cao Zhen, Dian Wei &amp; Xu Huang.
@@ -489,10 +526,10 @@
     <li><strong>Precious Item:</strong> South of Yuan Shao in the small valley on the East.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhanghe-ex.avif title=Phoenix Talon Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhanghe-ex.avif" alt="Phoenix Talon Location">
+        <figcaption>Phoenix Talon Location</figcaption>
+    </figure>
 <h3 id="heading-24">Zhen Ji</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle of Guan Du (Cao Cao’s Forces) – Find Wu Chao Supply depot on the 4th check then defeat Chun Yuqiong to burn the supplies.
@@ -504,10 +541,10 @@
     <li><strong>Precious Item:</strong> Along the Eastern outer wall of the castle near an Archer Tower.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhenji-ex.avif title=Half Moon Flute Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhenji-ex.avif" alt="Half Moon Flute Location">
+        <figcaption>Half Moon Flute Location</figcaption>
+    </figure>
 <h2 id="heading-25">Wu</h2>
 <h3 id="heading-26">Zhou Yu</h3>
 <ul>
@@ -520,10 +557,10 @@
     <li><strong>Precious Item:</strong> Southern section of the Northwestern encampment.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhouyu-ex.avif title=Elder Moon Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhouyu-ex.avif" alt="Elder Moon Location">
+        <figcaption>Elder Moon Location</figcaption>
+    </figure>
 <h3 id="heading-27">Lu Xun</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle at You Ting (Wu Forces) – Zhou Fang’s infiltration is discovered with Cao Xiu and either Zhang Pu or Zhang He still alive.</li>
@@ -531,20 +568,20 @@
     <li><strong>Precious Item:</strong> Zhou Fang’s starting position.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-luxun-ex.avif title=Flash Blade Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-luxun-ex.avif" alt="Flash Blade Location">
+        <figcaption>Flash Blade Location</figcaption>
+    </figure>
 <h3 id="heading-28">Taishi Ci</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle at He Fei (Wu Forces) – Defeat Zhang Liao after he ambushes the main camp.</li>
     <li><strong>Precious Item:</strong> Southwest of Cao Cao’s starting position.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-taishici-ex.avif title=Tiger Wolf Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-taishici-ex.avif" alt="Tiger Wolf Location">
+        <figcaption>Tiger Wolf Location</figcaption>
+    </figure>
 <h3 id="heading-29">Sun Shang Xiang</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle at Fan Castle (Wu Forces) - Defeat Guan Ping before the flood attack.
@@ -556,10 +593,10 @@
     <li><strong>Precious Item:</strong> Northwest corner of the platform protruding from the Southern castle wall, available after the flood.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-sunshangxiang-ex.avif title=Dragon Chakram Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-sunshangxiang-ex.avif" alt="Dragon Chakram Location">
+        <figcaption>Dragon Chakram Location</figcaption>
+    </figure>
 <h3 id="heading-30">Sun Jian</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Siege of He Fei Castle (Wu Forces) – Lead the troops through the Arrow and Wind trap rooms, defeat  Zhang He &amp; Xu Huang to open the gates, then defeat Man Chong and Cao Rui’s reinforcements and finally defeat Xu Zhu.
@@ -570,10 +607,10 @@
     <li><strong>Precious Item:</strong> Right side of Zhang He and Xu Huang’s area near the Eastern Wall.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-sunjian-ex.avif title=Wolf Blade Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-sunjian-ex.avif" alt="Wolf Blade Location">
+        <figcaption>Wolf Blade Location</figcaption>
+    </figure>
 <h3 id="heading-31">Sun Quan</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle at He Fei (Wu Forces) – Defeat Zhang Liao before he cutscene kills Taishi Ci, then defeat Xu Zhu.
@@ -585,20 +622,20 @@
     <li><strong>Precious Item:</strong> Northwest corner near the Southwestern Gate Captain.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-sunquan-ex.avif title=Heavenly Wolf Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-sunquan-ex.avif" alt="Heavenly Wolf Location">
+        <figcaption>Heavenly Wolf Location</figcaption>
+    </figure>
 <h3 id="heading-32">Lu Meng</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Siege of He Fei Castle (Wu Forces) – In order defeat Zhang He &amp; Xu Huang, then trigger the Archer ambush in the center, then defeat Xu Zhu all before reinforcements arrive then defeat the reinforcements.</li>
     <li><strong>Precious Item:</strong> Southwest corner from Zhang He’s starting position.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-lumeng-ex.avif title=Fighting Tiger Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-lumeng-ex.avif" alt="Fighting Tiger Location">
+        <figcaption>Fighting Tiger Location</figcaption>
+    </figure>
 <h3 id="heading-33">Gan Ning</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle at Yi Ling (Wu Forces) – Successfully navigate the Stone Warrior Formation and defeat Zhuge Liang.</li>
@@ -606,10 +643,10 @@
     <li><strong>Precious Item:</strong> In between the houses near the start of Zhu Ran’s path for the fire attack.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-ganning-ex.avif title=Seven Seas Blade Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-ganning-ex.avif" alt="Seven Seas Blade Location">
+        <figcaption>Seven Seas Blade Location</figcaption>
+    </figure>
 <h3 id="heading-34">Huang Gai</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Yellow Turban Rebellion (Han Forces) – Defeat He Yi then Zhang Bao in order before other enemy officers.</li>
@@ -617,10 +654,10 @@
     <li><strong>Precious Item:</strong> Bottom left corner between the bottom right Gate Captains.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-huanggai-ex.avif title=Spiked Mace Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-huanggai-ex.avif" alt="Spiked Mace Location">
+        <figcaption>Spiked Mace Location</figcaption>
+    </figure>
 <h3 id="heading-35">Sun Ce</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) Surprise Attack on Liu Biao (Sun Jian’s Forces) – After Sun Jian is killed defeat Cai Mao.</li>
@@ -628,10 +665,10 @@
     <li><strong>Precious Item:</strong> Encampment in front of Sun Ce’s ship.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-sunce-ex.avif title=God of War Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-sunce-ex.avif" alt="God of War Location">
+        <figcaption>God of War Location</figcaption>
+    </figure>
 <h3 id="heading-36">Da Qiao</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) Surprise Attack on Liu Biao (Sun Jian’s Forces) – After Sun Jian dies defeat Kuai Liang.
@@ -643,10 +680,10 @@
     <li><strong>Precious Item:</strong> Near the dead end by the Northwest Gate Captain.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-daqiao-ex.avif title=Yellow Beauty Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-daqiao-ex.avif" alt="Yellow Beauty Location">
+        <figcaption>Yellow Beauty Location</figcaption>
+    </figure>
 <h3 id="heading-37">Xiao Qiao</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) Assault on the Wu Territory (Sun Ce&#39;s Forces) - Defeat Yan Bai Hu &amp; Wang Lang.
@@ -657,10 +694,10 @@
     <li><strong>Precious Item:</strong> Near Liu Yong&#39;s starting position.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-xiaoqiao-ex.avif title=Blue Grace Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-xiaoqiao-ex.avif" alt="Blue Grace Location">
+        <figcaption>Blue Grace Location</figcaption>
+    </figure>
 <h2 id="heading-38">Others</h2>
 <h3 id="heading-39">Diao Chan</h3>
 <ul>
@@ -676,10 +713,10 @@
     <li><strong>Precious Item:</strong> Above the Wind Prayer shrine at the Southwestern corner of the map.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-lubu-ex.avif title=Demon Slayer Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-lubu-ex.avif" alt="Demon Slayer Location">
+        <figcaption>Demon Slayer Location</figcaption>
+    </figure>
 <h3 id="heading-41">Dong Zhuo</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (X) The Battle at Wu Zhang Plains (Dong Zhuo’s Forces) – Prevent bombardment of ally headquarters and keep Fan Chou alive for ally reinforcements to arrive.</li>
@@ -687,10 +724,10 @@
     <li><strong>Precious Item:</strong> Northeast of the right Gate Captain where ally reinforcements arrive.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-dongzhuo-ex.avif title=Black Steel Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-dongzhuo-ex.avif" alt="Black Steel Location">
+        <figcaption>Black Steel Location</figcaption>
+    </figure>
 <h3 id="heading-42">Yuan Shao</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (X) The Battle at Hu Lao Gate (Allied Forces) – With Liu Bei, Cao Cao, Sun Jian &amp; Lu Bu alive and before Dong Zhuo’s ambush defeat Diao Chan.</li>
@@ -698,10 +735,10 @@
     <li><strong>Precious Item:</strong> Northwest corner of Yuan Shao’s camp.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-yuanshao-ex.avif title=Imperial Saber Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-yuanshao-ex.avif" alt="Imperial Saber Location">
+        <figcaption>Imperial Saber Location</figcaption>
+    </figure>
 <h3 id="heading-43">Zhang Jiao</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (X) The Nanman Campaign (Yellow Turbans) – At least a good portion of Peasants escape through the Southern exit point.
@@ -713,10 +750,10 @@
     <li><strong>Precious Item:</strong> Short dead end East of the Western most bridge.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhangjiao-ex.avif title=Thunder Staff Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhangjiao-ex.avif" alt="Thunder Staff Location">
+        <figcaption>Thunder Staff Location</figcaption>
+    </figure>
 <h3 id="heading-44">Meng Huo</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (X) Assault on the Wu Territory (Nanman Forces) – Defeat in order Lu Xun, Taishi Ci, Gan Ning, Lu Meng.</li>
@@ -724,10 +761,10 @@
     <li><strong>Precious Item:</strong> South of the ally Gate Captain.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-menghuo-ex.avif title=Shadow Beast Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-menghuo-ex.avif" alt="Shadow Beast Location">
+        <figcaption>Shadow Beast Location</figcaption>
+    </figure>
 <h3 id="heading-45">Zhu Rong </h3>
 <ul>
     <li><strong>5th Weapon:</strong> (X) The Siege of He Fei Castle (Zhu Rong’s Forces) – Defeat Xiao Qiao, Zhou Yu, Zhen Ji, Cao Pi &amp; Diao Chan. A cutscene will play followed by the report.</li>
@@ -735,30 +772,30 @@
     <li><strong>Precious Item:</strong> Hall after the Wind Trap room.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhurong-ex.avif title=Tri Blade Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-zhurong-ex.avif" alt="Tri Blade Location">
+        <figcaption>Tri Blade Location</figcaption>
+    </figure>
 <h3 id="heading-46">Fu Xi </h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Battle of Wan Castle (Zhang Xiu’s Forces) – Defeat Dian Wei, Xu Zhu &amp; Xu Huang.</li>
     <li><strong>Precious Item:</strong> Southeast near Zhang Xiu’s starting position.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-fuxi-ex.avif title=Dragon Slayer Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-fuxi-ex.avif" alt="Dragon Slayer Location">
+        <figcaption>Dragon Slayer Location</figcaption>
+    </figure>
 <h3 id="heading-47">Nu Wa</h3>
 <ul>
     <li><strong>5th Weapon:</strong> (O) The Yellow Turban  Rebellion (Yellow Turban Forces) - Defeat Guan Yu, Zhang Fei &amp; Liu Bei in under 5 minutes.</li>
     <li><strong>Precious Item:</strong> Southwestern area of the castle.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-nuwa-ex.avif title=Dragon Rapier Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/5th-weapons-nuwa-ex.avif" alt="Dragon Rapier Location">
+        <figcaption>Dragon Rapier Location</figcaption>
+    </figure>
 <h1 id="heading-48">Dim Sum &amp; Musou Wine Locations</h1>
 <p>All stages may have a Dim Sum which increases max Health by 10 and a Musou Wine which increases max Musou by 10 somewhere in the stage, they are found in pots. While they share the same maps as the original, Dim Sum &amp; Musou Wine locations are different, unit placement based on force chosen doesn&#39;t matter.</p>
 <h2 id="heading-49">Battle of Ru Nan</h2>
@@ -769,18 +806,18 @@
     <li><strong>Items:</strong> (Yellow Turbans) Zhou Jing, Liu Yan, Zhang Chao, Huangfu Song, Lu Zhi. (Nanman) Ma Su, Zhang Yi, Xu Zhu, Zhu Huan, Jia Kui.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-1-rnmap.avif title=Ru Nan Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-1-rnds.avif title=Ru Nan Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-1-rnmw.avif title=Ru Nan Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-1-rnmap.avif" alt="Ru Nan Map">
+        <figcaption>Ru Nan Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-1-rnds.avif" alt="Ru Nan Dim Sum">
+        <figcaption>Ru Nan Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-1-rnmw.avif" alt="Ru Nan Musou Wine">
+        <figcaption>Ru Nan Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-50">The Battle at Hu Lao Gate</h2>
 <ul>
     <li><strong>Dim Sum:</strong> Near the bottom Gate Captain in the lower right corner.</li>
@@ -789,32 +826,32 @@
     <li><strong>Items:</strong> (Dong Zhuo) Wen Chou, Cao Hong, Cheng Pu. (Allied) Li Ru, Li Meng, Xu Rong. (Nanman) Guo Si, Li Ru.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-2-hlgmap.avif title=Hu Lao Gate Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-2-hlgds.avif title=Hu Lao Gate Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-2-hlgmw.avif title=Hu Lao Gate Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-2-hlgmap.avif" alt="Hu Lao Gate Map">
+        <figcaption>Hu Lao Gate Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-2-hlgds.avif" alt="Hu Lao Gate Dim Sum">
+        <figcaption>Hu Lao Gate Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-2-hlgmw.avif" alt="Hu Lao Gate Musou Wine">
+        <figcaption>Hu Lao Gate Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-51">Surprise Attack on Liu Biao</h2>
 <ul>
     <li><strong>Musou Wine:</strong> Near the top left all Gate Captain.</li>
     <li><strong>Items:</strong> Da Qiao.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-3-lbmap.avif title=Surprise Attack on Liu Biao Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-3-lbmw.avif title=Surprise Attack on Liu Biao Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-3-lbmap.avif" alt="Surprise Attack on Liu Biao Map">
+        <figcaption>Surprise Attack on Liu Biao Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-3-lbmw.avif" alt="Surprise Attack on Liu Biao Musou Wine">
+        <figcaption>Surprise Attack on Liu Biao Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-52">The Battle at Wan Castle</h2>
 <ul>
     <li><strong>Dim Sum:</strong> By the wall directly North of the center of the map.</li>
@@ -823,18 +860,18 @@
     <li><strong>Items:</strong> Jia Xu.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-4-wcmap.avif title=Wan Castle Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-4-wcds.avif title=Wan Castle Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-4-wcmw.avif title=Wan Castle Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-4-wcmap.avif" alt="Wan Castle Map">
+        <figcaption>Wan Castle Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-4-wcds.avif" alt="Wan Castle Dim Sum">
+        <figcaption>Wan Castle Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-4-wcmw.avif" alt="Wan Castle Musou Wine">
+        <figcaption>Wan Castle Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-53">Assault on the Wu Territory</h2>
 <ul>
     <li><strong>Dim Sum:</strong> Along the path to the Western enemy Gate Captain.</li>
@@ -843,18 +880,18 @@
     <li><strong>Items:</strong> Zhuge Jin, Jiang Qin.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-5-wtmap.avif title=Assault on Wu Territory Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-5-wtds.avif title=Assault on Wu Territory Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-5-wtmw.avif title=Assault on Wu Territory Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-5-wtmap.avif" alt="Assault on Wu Territory Map">
+        <figcaption>Assault on Wu Territory Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-5-wtds.avif" alt="Assault on Wu Territory Dim Sum">
+        <figcaption>Assault on Wu Territory Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-5-wtmw.avif" alt="Assault on Wu Territory Musou Wine">
+        <figcaption>Assault on Wu Territory Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-54">The Battle at Guan Du</h2>
 <ul>
     <li><strong>Dim Sum:</strong> Above the river below the upper left Gate Captain.</li>
@@ -863,18 +900,18 @@
     <li><strong>Items:</strong> (Dong Zhuo) Cao Hong, Liu Yan, Yu Jin. (Yuan Shao) Yu Jin, Cao Hong, Shi Huan.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-6-gdmap.avif title=Guan Du Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-6-gdds.avif title=Guan Du Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-6-gdmw.avif title=Guan Du Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-6-gdmap.avif" alt="Guan Du Map">
+        <figcaption>Guan Du Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-6-gdds.avif" alt="Guan Du Dim Sum">
+        <figcaption>Guan Du Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-6-gdmw.avif" alt="Guan Du Musou Wine">
+        <figcaption>Guan Du Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-55">Diao Chan&#39;s Escape</h2>
 <ul>
     <li><strong>Dim Sum:</strong> Against the wall before leaving the fourth gate.</li>
@@ -883,18 +920,18 @@
     <li><strong>Items:</strong> Wei Xu, Song Xian. </li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-7-dcemap.avif title=Diao Chan&#39;s Escape Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-7-dceds.avif title=Diao Chan&#39;s Escape Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-7-dcemw.avif title=Diao Chan&#39;s Escape Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-7-dcemap.avif" alt="Diao Chan&#39;s Escape Map">
+        <figcaption>Diao Chan&#39;s Escape Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-7-dceds.avif" alt="Diao Chan&#39;s Escape Dim Sum">
+        <figcaption>Diao Chan&#39;s Escape Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-7-dcemw.avif" alt="Diao Chan&#39;s Escape Musou Wine">
+        <figcaption>Diao Chan&#39;s Escape Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-56">The Battle of Chang Ban</h2>
 <ul>
     <li><strong>Dim Sum:</strong> Southwest of the small open area at the top center.</li>
@@ -903,18 +940,18 @@
     <li><strong>Items:</strong> (Dong Zhuo/Yuan Shao) Liu Feng, Sun Qian, Guan Ping. (Yellow Turbans) Yuan Tan, Yuan Shang, Chun Yuqiong, Lu Wei Kuang. (Nanman) Gao Xiang, Li Hui, Zhang Bao, Ma Dai, Meng Da.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-8-changbanmap.avif title=Chang Ban Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-8-changbands.avif title=Chang Ban Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-8-changbanmw.avif title=Chang Ban Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-8-changbanmap.avif" alt="Chang Ban Map">
+        <figcaption>Chang Ban Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-8-changbands.avif" alt="Chang Ban Dim Sum">
+        <figcaption>Chang Ban Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-8-changbanmw.avif" alt="Chang Ban Musou Wine">
+        <figcaption>Chang Ban Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-57">The Battle at Chi Bi</h2>
 <ul>
     <li><strong>Dim Sum:</strong> From the bottom right Gate Captain in front of it, if there are two boats due to Fire Attack event it is the right of the double boats.</li>
@@ -923,18 +960,18 @@
     <li><strong>Items:</strong> (Lu Bu) Jia Xu, Zhang Chao, Niou Fu, Taishi Ci. (Dong Zhuo) Wei Xu, Dian Wei. (Yellow Turbans) Zhu Zhi, Liu Bei, Wu Lan, Yuan Shao. (Nanman) Man Chong, Cao Zhang, Cao Hong.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-9-chibimap.avif title=Chi Bi Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-9-chibids.avif title=Chi Bi Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-9-chibimw.avif title=Chi Bi Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-9-chibimap.avif" alt="Chi Bi Map">
+        <figcaption>Chi Bi Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-9-chibids.avif" alt="Chi Bi Dim Sum">
+        <figcaption>Chi Bi Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-9-chibimw.avif" alt="Chi Bi Musou Wine">
+        <figcaption>Chi Bi Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-58">Assault on Cheng Du</h2>
 <ul>
     <li><strong>Dim Sum:</strong> On the upper path out of the forest it is on the middle of the lower portion.</li>
@@ -943,18 +980,18 @@
     <li><strong>Items:</strong> Fa Zheng, Ma Su.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-10-cdmap.avif title=Cheng Du Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-10-cdds.avif title=Cheng Du Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-10-cdmw.avif title=Cheng Du Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-10-cdmap.avif" alt="Cheng Du Map">
+        <figcaption>Cheng Du Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-10-cdds.avif" alt="Cheng Du Dim Sum">
+        <figcaption>Cheng Du Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-10-cdmw.avif" alt="Cheng Du Musou Wine">
+        <figcaption>Cheng Du Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-59">The Battle at Tong Gate</h2>
 <ul>
     <li><strong>Dim Sum:</strong> Indent on Tong Gate&#39;s Eastern side near the river.</li>
@@ -963,18 +1000,18 @@
     <li><strong>Items:</strong> Yang Qiu.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-11-tgmap.avif title=Tong Gate Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-11-tgds.avif title=Tong Gate Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-11-tgmw.avif title=Tong Gate Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-11-tgmap.avif" alt="Tong Gate Map">
+        <figcaption>Tong Gate Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-11-tgds.avif" alt="Tong Gate Dim Sum">
+        <figcaption>Tong Gate Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-11-tgmw.avif" alt="Tong Gate Musou Wine">
+        <figcaption>Tong Gate Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-60">The Battle at He Fei</h2>
 <ul>
     <li><strong>Dim Sum:</strong> South of the bridge in the bottom left forest.</li>
@@ -983,18 +1020,18 @@
     <li><strong>Items:</strong> Han Dang (Dong Zhuo/Nanman), Zhu Huan, Jiang Qin, Dong Xi (Yuan Shao), Lu Su (Nanman). </li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-12-hfmap.avif title=He Fei Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-12-hfds.avif title=He Fei Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-12-hfmw.avif title=He Fei Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-12-hfmap.avif" alt="He Fei Map">
+        <figcaption>He Fei Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-12-hfds.avif" alt="He Fei Dim Sum">
+        <figcaption>He Fei Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-12-hfmw.avif" alt="He Fei Musou Wine">
+        <figcaption>He Fei Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-61">The Battle at Fan Castle</h2>
 <ul>
     <li><strong>Dim Sum:</strong> Very bottom of the upper platform from where Guan Ping starts.</li>
@@ -1003,18 +1040,18 @@
     <li><strong>Items:</strong> Jiang Qin.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-13-fcmap.avif title=Fan Castle Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-13-fcds.avif title=Fan Castle Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-13-fcmw.avif title=Fan Castle Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-13-fcmap.avif" alt="Fan Castle Map">
+        <figcaption>Fan Castle Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-13-fcds.avif" alt="Fan Castle Dim Sum">
+        <figcaption>Fan Castle Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-13-fcmw.avif" alt="Fan Castle Musou Wine">
+        <figcaption>Fan Castle Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-62">The Battle of Mt. Ding Jun</h2>
 <ul>
     <li><strong>Dim Sum:</strong> West of Liu Bei&#39;s starting position.</li>
@@ -1023,18 +1060,18 @@
     <li><strong>Items:</strong> Guan Ping, Huang Zhong, Fa Zheng.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-14-djmap.avif title=Mt. Ding Jun Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-14-djds.avif title=Mt. Ding Jun Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-14-djmw.avif title=Mt. Ding Jun Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-14-djmap.avif" alt="Mt. Ding Jun Map">
+        <figcaption>Mt. Ding Jun Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-14-djds.avif" alt="Mt. Ding Jun Dim Sum">
+        <figcaption>Mt. Ding Jun Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-14-djmw.avif" alt="Mt. Ding Jun Musou Wine">
+        <figcaption>Mt. Ding Jun Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-63">The Battle at Yi Ling</h2>
 <ul>
     <li><strong>Dim Sum:</strong> Near the bottom right Gate Captain on the top right corner.</li>
@@ -1043,18 +1080,18 @@
     <li><strong>Items:</strong> Guan Suo (Dong Zhuo/Yellow Turbans), Lei Tong (Dong Zhuo/Yellow Turbans), Huang Zhong (Dong Zhuo), Wu Lan (Yellow Turbans), Jiang Qin (Nanman), Ling Tong (Nanman), Pan Zhang (Nanman)</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-15-ylmap.avif title=Yi Ling Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-15-ylds.avif title=Yi Ling Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-15-ylmw.avif title=Yi Ling Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-15-ylmap.avif" alt="Yi Ling Map">
+        <figcaption>Yi Ling Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-15-ylds.avif" alt="Yi Ling Dim Sum">
+        <figcaption>Yi Ling Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-15-ylmw.avif" alt="Yi Ling Musou Wine">
+        <figcaption>Yi Ling Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-64">The Nanman Campaign</h2>
 <ul>
     <li><strong>Dim Sum:</strong> Near the upper Gate Captain on the middle left side.</li>
@@ -1063,18 +1100,18 @@
     <li><strong>Items:</strong> (Yellow Turbans) Ahui Nan, Dong Tu Ne, Ma Su. (Nanman) Guan Xing, Chen Shi, Liu Feng, Meng Da, Yan Yan.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-16-nanmanmap.avif title=Nanman Campaign Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-16-nanmands.avif title=Nanman Campaign Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-16-nanmanmw.avif title=Nanman Campaign Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-16-nanmanmap.avif" alt="Nanman Campaign Map">
+        <figcaption>Nanman Campaign Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-16-nanmands.avif" alt="Nanman Campaign Dim Sum">
+        <figcaption>Nanman Campaign Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-16-nanmanmw.avif" alt="Nanman Campaign Musou Wine">
+        <figcaption>Nanman Campaign Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-65">The Battle of Jie Ting</h2>
 <ul>
     <li><strong>Musou Wine:</strong> South of the top right ally Gate Captain.</li>
@@ -1082,14 +1119,14 @@
     <li><strong>Items:</strong> Sima Zhao, Xin Pi, Cao Zhen.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-17-jtmap.avif title=Jie Ting Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-17-jtmw.avif title=Jie Ting Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-17-jtmap.avif" alt="Jie Ting Map">
+        <figcaption>Jie Ting Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-17-jtmw.avif" alt="Jie Ting Musou Wine">
+        <figcaption>Jie Ting Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-66">The Battle at You Ting</h2>
 <ul>
     <li><strong>Dim Sum:</strong> West of Meng Huo&#39;s starting position in the center camp.</li>
@@ -1098,18 +1135,18 @@
     <li><strong>Items:</strong> Sun Ce, Da Qiao, Lu Xun.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-18-ytmap.avif title=You Ting Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-18-ytds.avif title=You Ting Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-18-ytmw.avif title=You Ting Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-18-ytmap.avif" alt="You Ting Map">
+        <figcaption>You Ting Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-18-ytds.avif" alt="You Ting Dim Sum">
+        <figcaption>You Ting Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-18-ytmw.avif" alt="You Ting Musou Wine">
+        <figcaption>You Ting Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-67">The Siege of He Fei Castle</h2>
 <ul>
     <li><strong>Dim Sum:</strong> Northern main camp in the top right corner.</li>
@@ -1118,18 +1155,18 @@
     <li><strong>Items:</strong> (Dong Zhuo) Zhu Ran, Zhuge Jin. (Zhu Rong) Cao Pi.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-19-hfcmap.avif title=He Fei Castle Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-19-hfcds.avif title=He Fei Castle Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-19-hfcmw.avif title=He Fei Castle Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-19-hfcmap.avif" alt="He Fei Castle Map">
+        <figcaption>He Fei Castle Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-19-hfcds.avif" alt="He Fei Castle Dim Sum">
+        <figcaption>He Fei Castle Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-19-hfcmw.avif" alt="He Fei Castle Musou Wine">
+        <figcaption>He Fei Castle Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-68">The Battle at Wu Zhang Plains</h2>
 <ul>
     <li><strong>Dim Sum:</strong> South of the Northern left Gate Captain on the other side of the river.</li>
@@ -1138,49 +1175,49 @@
     <li><strong>Items:</strong> (Dong Zhuo) Gao Xiang, Guan Xing, Ma Chao. (Yuan Shao) Yue Jin, Xiahou Yuan, Xu Zhu.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-20-wzpmap.avif title=Wu Zhang Plains Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-20-wzpds.avif title=Wu Zhang Plains Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-20-wzpmw.avif title=Wu Zhang Plains Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-20-wzpmap.avif" alt="Wu Zhang Plains Map">
+        <figcaption>Wu Zhang Plains Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-20-wzpds.avif" alt="Wu Zhang Plains Dim Sum">
+        <figcaption>Wu Zhang Plains Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-20-wzpmw.avif" alt="Wu Zhang Plains Musou Wine">
+        <figcaption>Wu Zhang Plains Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-69">The Mountain Bandit Campaign</h2>
 <ul>
     <li><strong>Dim Sum:</strong> Behind where you start.</li>
     <li><strong>Musou Wine:</strong> Slightly North of the center of the map.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-21-mbcmap.avif title=Mountain Bandit Campaign Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-21-mbcds.avif title=Mountain Bandit Campaign Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-21-mbcmw.avif title=Mountain Bandit Campaign Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-21-mbcmap.avif" alt="Mountain Bandit Campaign Map">
+        <figcaption>Mountain Bandit Campaign Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-21-mbcds.avif" alt="Mountain Bandit Campaign Dim Sum">
+        <figcaption>Mountain Bandit Campaign Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-21-mbcmw.avif" alt="Mountain Bandit Campaign Musou Wine">
+        <figcaption>Mountain Bandit Campaign Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-70">Raid on the Rogue Fortress</h2>
 <ul>
     <li><strong>Dim Sum &amp; Musou Wine:</strong> Together in the top left corner of the center area of the map.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-22-rfmap.avif title=Rogue Fortress Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-22-rfdm.avif title=Rogue Fortress Dim Sum &amp; Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-22-rfmap.avif" alt="Rogue Fortress Map">
+        <figcaption>Rogue Fortress Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-22-rfdm.avif" alt="Rogue Fortress Dim Sum &amp; Musou Wine">
+        <figcaption>Rogue Fortress Dim Sum &amp; Musou Wine</figcaption>
+    </figure>
 <h2 id="heading-71">Wu Navy Skirmish</h2>
 <ul>
     <li><strong>Dim Sum:</strong> From the starting ship two ships East on it&#39;s Northern platform.</li>
@@ -1189,18 +1226,18 @@
     <li><strong>Items:</strong> Zhou Yu, Xiao Qiao, Cheng Pu.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-23-wnsmap.avif title=Wu Navy Skirmish Map" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-23-wnsds.avif title=Wu Navy Skirmish Dim Sum" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-23-wnsmw.avif title=Wu Navy Skirmish Musou Wine" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-23-wnsmap.avif" alt="Wu Navy Skirmish Map">
+        <figcaption>Wu Navy Skirmish Map</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-23-wnsds.avif" alt="Wu Navy Skirmish Dim Sum">
+        <figcaption>Wu Navy Skirmish Dim Sum</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/battle-23-wnsmw.avif" alt="Wu Navy Skirmish Musou Wine">
+        <figcaption>Wu Navy Skirmish Musou Wine</figcaption>
+    </figure>
 <h1 id="heading-72">New Items</h1>
 <h2 id="heading-73">Normal</h2>
 <p>These are new normal items that boost a specific value when equipped, like other Blue colored items they have differing maximum values.</p>
@@ -1236,14 +1273,14 @@
     <li><strong>Precious Item:</strong> Near the bottom right Gate Captain.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/item-u1-dhso.avif title=Sub Officer Locations" alt="">
-    
-</figure>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/item-u1-dhmap.avif title=Divine Helmet Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/item-u1-dhso.avif" alt="Sub Officer Locations">
+        <figcaption>Sub Officer Locations</figcaption>
+    </figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/item-u1-dhmap.avif" alt="Divine Helmet Location">
+        <figcaption>Divine Helmet Location</figcaption>
+    </figure>
 <h3 id="heading-76">Scroll of Accuracy</h3>
 <ul>
     <li><strong>Effect:</strong> Attack x2 but defense drops after getting knocked down (Double attack with reduced defense for 10 seconds after getting back up)</li>
@@ -1259,10 +1296,10 @@
     <li><strong>Precious Item:</strong> Top portion of the map on the Western dead end.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/item-u3-ihmap.avif title=Imperial Harness Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/item-u3-ihmap.avif" alt="Imperial Harness Location">
+        <figcaption>Imperial Harness Location</figcaption>
+    </figure>
 <h3 id="heading-78">Seven Stars Blade</h3>
 <ul>
     <li><strong>Effect:</strong> Makes it easier to receive high scores on your combos (combo timer stays up longer)</li>
@@ -1278,10 +1315,10 @@
     <li><strong>Supply Unit:</strong> Northeast camp that makes its way South.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/item-u5-lbmap.avif title=Lightning Bow Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/item-u5-lbmap.avif" alt="Lightning Bow Location">
+        <figcaption>Lightning Bow Location</figcaption>
+    </figure>
 <h3 id="heading-80">Seal of Darkness</h3>
 <ul>
     <li><strong>Effect:</strong> Imperial Seal has twice the effect (infinite Musou for 20 seconds)</li>
@@ -1290,10 +1327,10 @@
     <li><strong>Precious Item:</strong> East of the Northern Fort.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/item-u6-sodmap.avif title=Seal of Darkness Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/item-u6-sodmap.avif" alt="Seal of Darkness Location">
+        <figcaption>Seal of Darkness Location</figcaption>
+    </figure>
 <h3 id="heading-81">Beast Harness</h3>
 <ul>
     <li><strong>Effect:</strong> Shows position of the last horse you rode (shows last mounted position)</li>
@@ -1309,10 +1346,10 @@
     <li><strong>Precious Item:</strong> On the slope after the bridge from the center.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/item-u8-mdmap.avif title=Marching Drum Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/item-u8-mdmap.avif" alt="Marching Drum Location">
+        <figcaption>Marching Drum Location</figcaption>
+    </figure>
 <h3 id="heading-83">Divine Gauntlet</h3>
 <ul>
     <li><strong>Effect:</strong> Get the Attack x2 item and even guarding enemies take damage. (small chip damage against guarding enemies with Attack x2 active)</li>
@@ -1325,10 +1362,10 @@
     <li><strong>Supply Unit:</strong> East of Zhuge Liang’s starting position that makes its way to the Southwest Gate Captain.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/item-u9-dgmap.avif title=Divine Gauntlet Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/item-u9-dgmap.avif" alt="Divine Gauntlet Location">
+        <figcaption>Divine Gauntlet Location</figcaption>
+    </figure>
 <h3 id="heading-84">Master’s Cloak</h3>
 <ul>
     <li><strong>Effect:</strong> Automatically perform the mid-air evade (auto flip recovery)</li>
@@ -1348,10 +1385,10 @@
     <li><strong>Precious Item:</strong> The boat Zhu Rong starts by.</li>
 </ul>
 
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/item-u11-lsmap.avif title=Legendary Scroll Location" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/item-u11-lsmap.avif" alt="Legendary Scroll Location">
+        <figcaption>Legendary Scroll Location</figcaption>
+    </figure>
 <h3 id="heading-86">Musou Armor</h3>
 <ul>
     <li><strong>Effect:</strong> Prevents getting knocked back when hit by an arrow (unfazed by arrows)</li>
@@ -1536,28 +1573,66 @@
         <td>15</td>
     </tr>
 </table>
-<p>[[include :asoh:component:video-youtube |video-id=OBhHUUUi-tY]]</p>
+ <div class="youtube-container">
+    <iframe
+        src="https://www.youtube-nocookie.com/embed/OBhHUUUi-tY"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
+</div>
 <h1 id="heading-90">Special Third costumes</h1>
 <p>In addition to everyone getting second colors there are 2 special outfits that can be unlocked as well, those being for Lu Bu &amp; Sun Shang Xiang. These are picked by pressing <span class="controller">$</span> or <span class="controller">^</span> when on their second color.</p>
 <h2 id="heading-91">Lu Bu</h2>
 <p>To unlock this outfit you first need to complete all Xtreme Musou modes, afterward you must have the difficulty set to Very Hard and go to Free Mode &gt; Xtreme &gt; Normal Bodyguards and pick The Battle at Chi Bi under Dong Zhuo’s Forces, you must not pick Lu Bu as your character. If you did this Lu Bu’s portrait will change to have him with Silver armor, all you have to is beat this stage to unlock it, this also unlocks the unique song that plays for the stage Cham-Ba-Ra.</p>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/costume-ex-lubu.avif title=Dynasty Tactics Lu Bu" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/costume-ex-lubu.avif" alt="Dynasty Tactics Lu Bu">
+        <figcaption>Dynasty Tactics Lu Bu</figcaption>
+    </figure>
 <h2 id="heading-92">Sun Shang Xiang</h2>
 <p>To unlock this outfit you need all characters rank points to be maxed out at 99,999 and have every weapon in the game, every, single, one.</p>
-<figure>
-    <img class="img-fluid" src="/assets/guides/dynasty-warriors-3-xtreme-legends/costume-ex-sunshangxiang.avif title=Dynasty Tactics Sun Shang Xiang" alt="">
-    
-</figure>
+<figure class="img-container">
+        <img class="img-fluid " src="/assets/guides/dynasty-warriors-3-xtreme-legends/costume-ex-sunshangxiang.avif" alt="Dynasty Tactics Sun Shang Xiang">
+        <figcaption>Dynasty Tactics Sun Shang Xiang</figcaption>
+    </figure>
 <h1 id="heading-93">5th Weapons Showcase</h1>
-<p>[[include :asoh:component:video-youtube |video-id=E0SoQ0NNlTE]]</p></p>
+ <div class="youtube-container">
+    <iframe
+        src="https://www.youtube-nocookie.com/embed/E0SoQ0NNlTE"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
 </div>
 </div>
 </div>
-<p>[[module css]] .toc-bg {background-image: url(&#39;http://capa.wdfiles.com/local--files/guides:dynasty-warriors-3-xtreme-legends/dynasty-warriors-3-xtreme-legends-sidebar.avif&#39;);} .guide-article-hide {display:none;} .guide-article-only {display:block;} [[/module]]</p>
-    </main>
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                            CAPA
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/home:home">Home</a> · 
+                                <a href="/home:guide">Guide</a> · 
+                                <a href="/home:article">Article</a>
+                        </div>
+                            <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
 </body>
 </html>

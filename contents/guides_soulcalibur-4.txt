@@ -9,16 +9,11 @@ As this is a save data hack, you need to understand how to encrypt and decrypt y
 If you're interested in showcasing your character, you can visit [http://asoh.wikidot.com Another Stage of History].
 
 + Custom Character Moveset Data
-[[include :fiction:common:alert |type=warning |icon=warning |text=You can play your modified custom character just fine, but **you can no longer edit any of your characters if you want to keep modified characters around**. If you try to select the modified character slot in the character editor, they will disappear. If you make any changes to a character in Character Creation mode, they will disappear. **Always make a clone of your character to experiment.**  
-]]
+[[xinclude :fiction:common:alert |type=warning |icon=warning |text=You can play your modified custom character just fine, but **you can no longer edit any of your characters if you want to keep modified characters around**. If you try to select the modified character slot in the character editor, they will disappear. If you make any changes to a character in Character Creation mode, they will disappear. **Always make a clone of your character to experiment.**  ]]
 
 Due to how the save data is structured, the easiest way is to use XVI32. Find your character's name and take note of the address. Example:  
 
-[[include image
-|image=http://capa.wikidot.com/local--files/game:soulcalibur4/xvi32search1.png
-|title=In this case, the address is **2B8C0**.
-|ratio=4x3
-]]
+[[image xvi32search1.png| In this case, the address is **2B8C0**.]]
 
 Referring to the above image, the character name starts at **2B8C0**. The character digit address is 3872 addresses before this. To find it easily, open the XVI Script Editor and enter the following:  
 [[code]]
@@ -28,11 +23,7 @@ ADR- 3872
 
 You'll land on the character digit address. Take note of the three addresses before it, as they represent the slot digit. If your character has multiple costumes and you arrange them sequentially, this can help you identify them. 
 
-[[include image
-|image=http://capa.wikidot.com/local--files/game:soulcalibur4/xvi32search2.png
-|title=Remember, the slot digit starts at 0, so if this example shows 4, it is actually 5 in the game.  
-|ratio=4x3
-]]
+[[image xvi32search2.png| Remember, the slot digit starts at 0, so if this example shows 4, it is actually 5 in the game.  ]]
 
 
 The following is the digit for the guest and bonus characters:
@@ -60,20 +51,11 @@ Oddly, there was no data after the string "Bohb1," so I assumed that names are s
 Hacked custom characters can be played, but they cannot be edited.  
 
 
-[[include image
-|image=http://capa.wikidot.com/local--files/game:soulcalibur4/sauronspc1.avif
-|title=Sauron (Renn) with The Apprentice moveset
-]]
+[[image sauronspc1.avif| Sauron (Renn) with The Apprentice moveset]]
 
 
 + Algol's Alphecca I'klil Nath
 Algol's only unblockable move comes with a highly campy pose, which reminds me of a much older campy pose.
 
-[[include image
-|image=http://capa.wikidot.com/local--files/game:soulcalibur4/algol.avif
-|title=Algol
-]]
-[[include image
-|image=http://capa.wikidot.com/local--files/game:soulcalibur4/stroheim.avif
-|title=Rudol von Stroheim (Jojo's Bizarre Adventure)
-]]
+[[image algol.avif| Algol]]
+[[image stroheim.avif| Rudol von Stroheim (Jojo's Bizarre Adventure)]]

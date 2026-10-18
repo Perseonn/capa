@@ -13,33 +13,33 @@ Probably the number one reason why FPSs are dominant, the game puts you on first
 + Not Utilizing What A Machine Can Do
 A sore example is NIS's games for PS2 system. PS2 gave birth to graphically amazing Soul Calibur III, yet NIS doesn't bother utilizing the system and bought us Disgaea. Take a look at the Disgaea 2 screenshot (stock screenshot since I don't own the game):
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/disgaea2.jpg |title=That doesn't look so bad.]]
+[[image disgaea2.jpg | That doesn't look so bad.]]
 
 And compare it with a game released 6 months later, Odin Sphere
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/odinsphere.jpg |title=That's what you call Sprite Porn.]]
+[[image odinsphere.jpg | That's what you call Sprite Porn.]]
 
 
 Are NIS even trying to make a decent sprite? If we talk about Disgaea 1:
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/disgaea.jpg |title=Wait, this was on PS2?]]
+[[image disgaea.jpg | Wait, this was on PS2?]]
 
 
 Compare that with Final Fantasy Tactics from the good ol' PS:
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/fftactics.jpg |title=OK, now it's sad.]]
+[[image fftactics.jpg | OK, now it's sad.]]
 
 
 That's pretty tight. The sprite quality doesn't differ much. Disgaea 1's game size was around 1.1 GB. WTF? Isn't a DVD can hold up to 4.7 GB of data? For comparison, Odin Sphere uses 3.4 GB of data. 1.1 GB of data can be split into 2 CDs. Which means Disgaea 1 is still eligible for a PS game.
 
 NIS isn't the only one responsible. We got Capcom who brought us Megaman 9 in 2008:
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/rockman9.jpg |title=Believe it or not, it's on Wii, PS3, and Xbox 360. Image courtesy of Nintendolife.com]]
+[[image rockman9.jpg | Believe it or not, it's on Wii, PS3, and Xbox 360. Image courtesy of Nintendolife.com]]
 
 
 While, on 1998 we were brought this on the SNES:
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/rockmanandforte.jpg |title=Believe it or not, it's on SNES.]]
+[[image rockmanandforte.jpg | Believe it or not, it's on SNES.]]
 
 
 WTF? Why couldn't they make it like SNES? Shoving that aside, why didn't they make it with HD sprites like Street Fighter II Turbo HD Remix? Sure pretty graphics aren't everything, but they at least have to make the game appealing, at least!
@@ -48,8 +48,8 @@ WTF? Why couldn't they make it like SNES? Shoving that aside, why didn't they ma
 + Challenge vs. Tedious
 Old gamers here must remember the Edge Master mode, where we face a definite challenge for each chapter:
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/soulblade1.jpg |title=OK, let's see what I can tear the impostor with.]]
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/soulblade2.jpg |title=I guess, ring out him with diminishing life?]]
+[[image soulblade1.jpg | OK, let's see what I can tear the impostor with.]]
+[[image soulblade2.jpg | I guess, ring out him with diminishing life?]]
 
 That is what you call a challenge. In fighting game, a fair instruction on how you beat the opponent. How about SC4? Remember "Devote your strategy to a singular strike." when the actual command is to "Defeat your opponent with horizontal strikes"? What the hell? Singular strike equals A? What about using B? what about only poking the enemy once and not using a combo? Why did it have to be so cryptic? So SC4 resorts to trial and error to solve the challenge. That's tedious.
 
@@ -69,7 +69,7 @@ Not only on RPG, platforming games today suffered this too. Remember the fair ch
 
 What is the point of making tedious, fake difficulties? Isn't the selling point of a game is for everyone to be able to pick it up and play it?
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/chooo.jpg |title=Any level of people can play this fighting game!]]
+[[image chooo.jpg | Any level of people can play this fighting game!]]
 
 
 
@@ -79,48 +79,48 @@ As technology becomes cheaper, so does the price of internet subscription, and c
 
 Take a look at Soul Calibur III. How many fun way you can utilize the game? There's Chronicles of the Sword, Soul Arena, branching Tales of Souls that reminds you a bit of Edge Master, Custom Character Creation, Survival, Battle Theater, and Exhibition Theater.
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/soulcalibur3menu.jpg |title=Lots of mode for a single game!]]
+[[image soulcalibur3menu.jpg | Lots of mode for a single game!]]
 
 
 Soulcalibur IV? Arcade Mode, Story Mode, Character Creation, Tower of Lost Souls. That's not even half of Soul Calibur III's content. 
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/soulcalibur4menu.jpg |title=That's all the game has to offer.]]
+[[image soulcalibur4menu.jpg | That's all the game has to offer.]]
 
 
 So, in order to fit the Online capability, the game has to be butchered by more than 50%? What kind of game design is that?
 
 Let's go back to the notorious White Knight Chronicles. We're presented with this world map:
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/wkc2map.jpg |title=Reminds me of Final Fantasy Tactics]]
+[[image wkc2map.jpg | Reminds me of Final Fantasy Tactics]]
 
 
 What in God's name happened to these:
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/wildarmsmap.jpg |title=I spot Adlehyde to the southeast!]]
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/finalfantasy9map.jpg |title=I think I want to take a Chocobo Ride from this point.]]
+[[image wildarmsmap.jpg | I spot Adlehyde to the southeast!]]
+[[image finalfantasy9map.jpg | I think I want to take a Chocobo Ride from this point.]]
 
 
 Why they cut the explorable world map and replace it with just a simple map? All RPGs starting from middle sixth generation have no explorable world map. The last RPG I see with a world map is Wild Arms 5, after that none.
 
 However, they also can add more content using online mode. Sadly, these content came with bullshit. Take a look this Toshinden 3:
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/toshinden3.jpg |title=To get extra costumes, beat the game using Naru at "Impossible" difficulty]]
+[[image toshinden3.jpg | To get extra costumes, beat the game using Naru at "Impossible" difficulty]]
 
 
 How we all eager to see extra costumes that we finish the game several times to get it. This also same case on Tekken 3. How about now?
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/streetfighter4psn.jpg |title=IDR 181 000? We in Indonesia can eat decent meal for 2 people for FOUR days using that much money!]]
+[[image streetfighter4psn.jpg | IDR 181 000? We in Indonesia can eat decent meal for 2 people for FOUR days using that much money!]]
 
 
 I really mean it. While $1 = Rp 8500 here, with IDR 181 000, Luz and me can eat decent meal of stir fry meat and stir fry vegetables for four days, with each day eating twice. This is not what gaming like on the era of 5th generation game. You pay for the game, and you can enjoy all of the content.
 
 Still on same topic, what happened to the story? Back to the Soul Blade Edge Master mode, we were presented by in-depth story of each character, example, Mi-na:
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/soulblademina.jpg |title=Page 1 and 2.]]
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/soulblademina2.jpg |title=Page 3 and 4.]]
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/soulblademina3.jpg |title=Page 5 and 6.]]
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/soulblademina4.jpg |title=Page 7 and 8.]]
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/soulblademina5.jpg |title=10 pages from the character bio to fighting first enemy.]]
+[[image soulblademina.jpg | Page 1 and 2.]]
+[[image soulblademina2.jpg | Page 3 and 4.]]
+[[image soulblademina3.jpg | Page 5 and 6.]]
+[[image soulblademina4.jpg | Page 7 and 8.]]
+[[image soulblademina5.jpg | 10 pages from the character bio to fighting first enemy.]]
 
 
 So, the devs back then wants you to see how much work they put on making a character. And once you finished reading that book, you feel satisfied, having to know the character's journey from beginning to the end.
@@ -129,31 +129,31 @@ Compare to Soulcalibur IV, you get an overused artwork, along with a one page bi
 
 Let's not start with RPG story. Today's RPG have less twist than old RPGs. See that particular Final Fantasy IX screenshot up there? That was on middle of 3rd disc with 32 hours of gameplay. Today's RPG? most of then can be finished within 30 hours. Even more notorious, the White Knight Chronicles can be finished in less than 15 hours, with all regular sidequests finished.
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/ff9vswkc.jpg |ratio=4x3 |title=How can we get less?!]]
+[[image ff9vswkc.jpg |ratio=4x3 | How can we get less?!]]
 
 
 
 + Creativity is On The Edge Of A Horn.
 New games on 2010/2011 have become less and less diverse take a look at this image from Cracked.com:
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/crackedarticle.jpg |ratio=9x16 |title=You know that something gone wrong. 1990s gaming convention were never this dull.]]
+[[image crackedarticle.jpg |ratio=9x16 | You know that something gone wrong. 1990s gaming convention were never this dull.]]
 
 
 
 I wonder what happened to the platforming game? When we will experience a game like this:
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/crashbandicoot.jpg |title=I roll back to play this when I want some jumping action.]]
+[[image crashbandicoot.jpg | I roll back to play this when I want some jumping action.]]
 
 
 In era of PS2, decent platforming games suddenly disappear without any trace. Sure we have classic character like Crash Bandicoot on PS2, but the gameplay was so slow and sluggish, that even the old developer of Crash series despised the new game.
 I had given up hope, but PS3 gives me something: the Little Big Planet.
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/littlebigplanet.jpg |title=Whoa, at last... a platforming game!!]]
+[[image littlebigplanet.jpg | Whoa, at last... a platforming game!!]]
 
 
 The game has everything. Fair jumping physics, lush and colorful graphics, tranquil music, and user-generated content. I almost call it a perfect game until...
 
-[[include common:image-css |image=http://capa.wikidot.com/local--files/article:devsin/littlebigplanetmove.jpg |title=IT FUCKING BLURS.]]
+[[image littlebigplanetmove.jpg | IT FUCKING BLURS.]]
 
 
 I have to rest for 6 hours after playing the game for 30 minutes. I never feel this sick before, the closest I ever felt sick is when I play Rascal on PS. That was more than 10 years ago, I thought the gaming today have improved vastly. What were the dev thinking?

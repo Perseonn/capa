@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Echo Night</title>
+    <meta name="description" content="Echo Night is a supernatural survival horror for the good ol&#39; Sony PlayStation. It&#39;s delivered in a ...">
+    
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/css/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
     
     <!-- Canonical Link -->
     <link rel="canonical" href="https://capa.asoh.xyz">
@@ -13,9 +16,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
-
-    <title>Echo Night</title>
-    <meta name="description" content="Echo Night is a supernatural survival horror for the good ol&#39; Sony PlayStation. It&#39;s delivered in a ...">
 
     <!-- OG Card -->
     <meta property="og:type" content="website">
@@ -31,153 +31,190 @@
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller.css">
-    <link rel="stylesheet" href="https://perseonn.github.io/font-repository/controller-ps4.css">
     <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
     <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
     <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
-    <header>
-        <nav>
-    <a href="/">Home</a>
-    <a href="/guides/">Guides</a>
-    <a href="/articles/">Articles</a>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-md-2 p-0">
+                <nav class="capa-navbar" aria-label="Main navigation">
+
+    <!-- Mobile-only Expand Button -->
+    <button
+        class="capa-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="capa-nav-content"
+        aria-label="Open navigation"
+    >
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    
+    <!-- Mobile-only Close Button -->
+    <button
+        class="capa-nav-overlay"
+        type="button"
+        aria-label="Close navigation"
+        tabindex="-1"
+        aria-hidden="true"
+    ></button>
+
+    <!-- Shared navigation and TOC -->
+    <div id="capa-nav-content">
+        <div class="nav-item">
+            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        </div>
+        <div class="nav-item">
+            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        </div>
+        <div class="nav-item">
+            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        </div>
+        <!-- TOC will be moved here by move-toc-to-nav.js -->
+    </div>
+
 </nav>
-    </header>
-    <main>
-        <div class="row m-0 p-0">
-<p>[[div class=&quot;col-md-2 hidden-xs hidden-sm guide table-of-contents p-0&quot; role=&quot;navigation&quot;]]</p>
-<p>[[include nav:main]]</p>
-<p>[[/div]][!<del> Close the role=navigation </del>]</p>
-<p>[!<del> </del><del></del><del> </del><del></del><del> Border between Nav and Main Content </del><del></del><del> </del><del></del><del> </del>]</p>
-<p>[[div_ class=&quot;col-md-10 col-md-offset-2 col-xs-12 main main-container p-0&quot;]]</p>
-<p>[[include component:splash |splash-class=full-height |splash-style=background-image:url(&#39;http://capa.wdfiles.com/local--files/guides%3Aecho-night/echo-night-splash.avif&#39;); |text-title=Echo Night |text-sub-title=Written by Perseonn Balthasaar |text-extra=Updated on %%updated_at%% |text-extra-icon=fa fa-clock ]]</p>
-<div class="guide table-of-contents-small hidden-md hidden-lg hidden-xl">
-<p>[[collapsible show=&quot;Table of Contents&quot; hide=&quot;Collapse Table of Contents&quot;]]</p>
-<div class="table-of-contents">
-<a href="#heading-1">Tips</a>
-<a href="#heading-2">Prologue</a>
-<a href="#heading-3">House</a>
-<a href="#heading-4">Train</a>
-<a href="#heading-5">House</a>
-<a href="#heading-6">Captain&#39;s Order</a>
-<a href="#heading-7">Captain&#39;s Cabin</a>
-<a href="#heading-8">Passageway</a>
-<a href="#heading-9">Pilothouse (Optional)</a>
-<a href="#heading-10">Passageway (Upper)</a>
-<a href="#heading-11">Chart Room</a>
-<a href="#heading-12">Passageway</a>
-<a href="#heading-13">Compartment</a>
-<a href="#heading-14">Captain&#39;s Cabin</a>
-<a href="#heading-15">Observatory</a>
-<a href="#heading-16">Captain&#39;s Cabin</a>
-<a href="#heading-17">Passageway</a>
-<a href="#heading-18">Chart Room</a>
-<a href="#heading-19">Doll Exorcism</a>
-<a href="#heading-20">Passenger Hallway</a>
-<a href="#heading-21">Guest Hallway</a>
-<a href="#heading-22">Lounge</a>
-<a href="#heading-23">Guest Hallway</a>
-<a href="#heading-24">Guest Room C</a>
-<a href="#heading-25">Guest Room D</a>
-<a href="#heading-26">Guest Room C</a>
-<a href="#heading-27">Guest Hallway</a>
-<a href="#heading-28">Reading Room</a>
-<a href="#heading-29">Guest Hallway</a>
-<a href="#heading-30">Special Guest room</a>
-<a href="#heading-31">Abandoned Mine</a>
-<a href="#heading-32">Guest Hallway</a>
-<a href="#heading-33">Escaping the Theatre</a>
-<a href="#heading-34">Medical Office</a>
-<a href="#heading-35">Laboratory</a>
-<a href="#heading-36">Medical Office</a>
-<a href="#heading-37">Laboratory</a>
-<a href="#heading-38">Medical Office</a>
-<a href="#heading-39">Theater Hallway</a>
-<a href="#heading-40">Casino (Optional)</a>
-<a href="#heading-41">Theater Hallway</a>
-<a href="#heading-42">Theater</a>
-<a href="#heading-43">Theater Hallway</a>
-<a href="#heading-44">Child Room</a>
-<a href="#heading-45">Theater</a>
-<a href="#heading-46">Medical Office</a>
-<a href="#heading-47">Theater Hallway</a>
-<a href="#heading-48">Getting the Flying Fish Plate</a>
-<a href="#heading-49">Passenger Hallway</a>
-<a href="#heading-50">Dining Room Hallway</a>
-<a href="#heading-51">Castle</a>
-<a href="#heading-52">Grand Dining Room</a>
-<a href="#heading-53">Dining Room Hallway</a>
-<a href="#heading-54">Stairway</a>
-<a href="#heading-55">Stern Passageway</a>
-<a href="#heading-56">Corridor to Pool</a>
-<a href="#heading-57">Pool</a>
-<a href="#heading-58">Deck Terrace</a>
-<a href="#heading-59">Terrace Lazarette</a>
-<a href="#heading-60">Cemetery</a>
-<a href="#heading-61">Terrace Lazarette</a>
-<a href="#heading-62">Pool</a>
-<a href="#heading-63">Library</a>
-<a href="#heading-64">Getting the Forest Fire Plate</a>
-<a href="#heading-65">Grand Dining Room</a>
-<a href="#heading-66">Dining Room Galley</a>
-<a href="#heading-67">Mess Room</a>
-<a href="#heading-68">Crewman&#39;s Quarters</a>
-<a href="#heading-69">Crew&#39;s Quarters B</a>
-<a href="#heading-70">Crewman&#39;s Quarters</a>
-<a href="#heading-71">Crew&#39;s Quarters A</a>
-<a href="#heading-72">Crewman&#39;s Quarters</a>
-<a href="#heading-73">Starboard Corridor (Southern)</a>
-<a href="#heading-74">Engineer Hallway</a>
-<a href="#heading-75">Electrical Room</a>
-<a href="#heading-76">Crewman&#39;s Quarters</a>
-<a href="#heading-77">Starboard Corridor (Southern)</a>
-<a href="#heading-78">Engine Corridor</a>
-<a href="#heading-79">Engineer&#39;s Room</a>
-<a href="#heading-80">Engine Corridor</a>
-<a href="#heading-81">Radio Room</a>
-<a href="#heading-82">Cathedral</a>
-<a href="#heading-83">Radio Room</a>
-<a href="#heading-84">Engineer&#39;s Room</a>
-<a href="#heading-85">Starboard Corridor (Northern)</a>
-<a href="#heading-86">Cameo Exorcism</a>
-<a href="#heading-87">Dining Room Galley</a>
-<a href="#heading-88">Dining Room Hallway</a>
-<a href="#heading-89">Stairway</a>
-<a href="#heading-90">Private Quarters</a>
-<a href="#heading-91">Forest Room</a>
-<a href="#heading-92">Fire Room</a>
-<a href="#heading-93">Water Room</a>
-<a href="#heading-94">Private Quarters</a>
-<a href="#heading-95">Sky Room</a>
-<a href="#heading-96">Private Quarters</a>
-<a href="#heading-97">House</a>
-<a href="#heading-98">Owner&#39;s Quarters</a>
-<a href="#heading-99">Forest Room</a>
-<a href="#heading-100">Dining Room Hallway</a>
-<a href="#heading-101">Passenger Hallway</a>
-<a href="#heading-102">The Boiler</a>
-<a href="#heading-103">Starboard Corridor (Northern)</a>
-<a href="#heading-104">Boiler A</a>
-<a href="#heading-105">Engine Room A</a>
-<a href="#heading-106">Stern Passageway</a>
-<a href="#heading-107">Engine Room B</a>
-<a href="#heading-108">Boiler B</a>
-<a href="#heading-109">Fuel Storage</a>
-<a href="#heading-110">Compartment B</a>
-<a href="#heading-111">Fuel Storage</a>
-<a href="#heading-112">Boiler A</a>
-<a href="#heading-113">Engine Room B</a>
-<a href="#heading-114">Engine Room A</a>
-<a href="#heading-115">Stern Passageway</a>
-<a href="#heading-116">Compartment B</a>
-<a href="#heading-117">Ending</a>
+            </header>
+            <div class="col-12 col-md-10 p-0">
+                <main class="capa-main">
+                    <div class="row m-0 p-0">
+<div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:url(&#39;/assets/guides/echo-night/echo-night-splash.avif&#39;);">
+<div class="title-container p-4">
+<div class="page-extra stroke ">
+<p><span class="visible fa fa-clock"> </span> Updated at 2023-10-21</p>
 </div>
-<p>[[/collapsible]]</p>
+<div class="page-sub-title strong stroke ">
+<p>Written by Perseonn Balthasaar</p>
+</div>
+<div class="page-title strong stroke ">
+<p>Echo Night</p>
+</div>
+</div>
+</div>
+<div id="toc" class="table-of-contents">
+<a href="#heading-1" class="toc-h1">Tips</a>
+<a href="#heading-2" class="toc-h1">Prologue</a>
+<a href="#heading-3" class="toc-h2">House</a>
+<a href="#heading-4" class="toc-h2">Train</a>
+<a href="#heading-5" class="toc-h2">House</a>
+<a href="#heading-6" class="toc-h1">Captain&#39;s Order</a>
+<a href="#heading-7" class="toc-h2">Captain&#39;s Cabin</a>
+<a href="#heading-8" class="toc-h2">Passageway</a>
+<a href="#heading-9" class="toc-h2">Pilothouse (Optional)</a>
+<a href="#heading-10" class="toc-h2">Passageway (Upper)</a>
+<a href="#heading-11" class="toc-h2">Chart Room</a>
+<a href="#heading-12" class="toc-h2">Passageway</a>
+<a href="#heading-13" class="toc-h2">Compartment</a>
+<a href="#heading-14" class="toc-h2">Captain&#39;s Cabin</a>
+<a href="#heading-15" class="toc-h2">Observatory</a>
+<a href="#heading-16" class="toc-h2">Captain&#39;s Cabin</a>
+<a href="#heading-17" class="toc-h2">Passageway</a>
+<a href="#heading-18" class="toc-h2">Chart Room</a>
+<a href="#heading-19" class="toc-h1">Doll Exorcism</a>
+<a href="#heading-20" class="toc-h2">Passenger Hallway</a>
+<a href="#heading-21" class="toc-h2">Guest Hallway</a>
+<a href="#heading-22" class="toc-h2">Lounge</a>
+<a href="#heading-23" class="toc-h2">Guest Hallway</a>
+<a href="#heading-24" class="toc-h2">Guest Room C</a>
+<a href="#heading-25" class="toc-h2">Guest Room D</a>
+<a href="#heading-26" class="toc-h2">Guest Room C</a>
+<a href="#heading-27" class="toc-h2">Guest Hallway</a>
+<a href="#heading-28" class="toc-h2">Reading Room</a>
+<a href="#heading-29" class="toc-h2">Guest Hallway</a>
+<a href="#heading-30" class="toc-h2">Special Guest room</a>
+<a href="#heading-31" class="toc-h2">Abandoned Mine</a>
+<a href="#heading-32" class="toc-h2">Guest Hallway</a>
+<a href="#heading-33" class="toc-h1">Escaping the Theatre</a>
+<a href="#heading-34" class="toc-h2">Medical Office</a>
+<a href="#heading-35" class="toc-h2">Laboratory</a>
+<a href="#heading-36" class="toc-h2">Medical Office</a>
+<a href="#heading-37" class="toc-h2">Laboratory</a>
+<a href="#heading-38" class="toc-h2">Medical Office</a>
+<a href="#heading-39" class="toc-h2">Theater Hallway</a>
+<a href="#heading-40" class="toc-h2">Casino (Optional)</a>
+<a href="#heading-41" class="toc-h2">Theater Hallway</a>
+<a href="#heading-42" class="toc-h2">Theater</a>
+<a href="#heading-43" class="toc-h2">Theater Hallway</a>
+<a href="#heading-44" class="toc-h2">Child Room</a>
+<a href="#heading-45" class="toc-h2">Theater</a>
+<a href="#heading-46" class="toc-h2">Medical Office</a>
+<a href="#heading-47" class="toc-h2">Theater Hallway</a>
+<a href="#heading-48" class="toc-h1">Getting the Flying Fish Plate</a>
+<a href="#heading-49" class="toc-h2">Passenger Hallway</a>
+<a href="#heading-50" class="toc-h2">Dining Room Hallway</a>
+<a href="#heading-51" class="toc-h2">Castle</a>
+<a href="#heading-52" class="toc-h2">Grand Dining Room</a>
+<a href="#heading-53" class="toc-h2">Dining Room Hallway</a>
+<a href="#heading-54" class="toc-h2">Stairway</a>
+<a href="#heading-55" class="toc-h2">Stern Passageway</a>
+<a href="#heading-56" class="toc-h2">Corridor to Pool</a>
+<a href="#heading-57" class="toc-h2">Pool</a>
+<a href="#heading-58" class="toc-h2">Deck Terrace</a>
+<a href="#heading-59" class="toc-h2">Terrace Lazarette</a>
+<a href="#heading-60" class="toc-h2">Cemetery</a>
+<a href="#heading-61" class="toc-h2">Terrace Lazarette</a>
+<a href="#heading-62" class="toc-h2">Pool</a>
+<a href="#heading-63" class="toc-h2">Library</a>
+<a href="#heading-64" class="toc-h1">Getting the Forest Fire Plate</a>
+<a href="#heading-65" class="toc-h2">Grand Dining Room</a>
+<a href="#heading-66" class="toc-h2">Dining Room Galley</a>
+<a href="#heading-67" class="toc-h2">Mess Room</a>
+<a href="#heading-68" class="toc-h2">Crewman&#39;s Quarters</a>
+<a href="#heading-69" class="toc-h2">Crew&#39;s Quarters B</a>
+<a href="#heading-70" class="toc-h2">Crewman&#39;s Quarters</a>
+<a href="#heading-71" class="toc-h2">Crew&#39;s Quarters A</a>
+<a href="#heading-72" class="toc-h2">Crewman&#39;s Quarters</a>
+<a href="#heading-73" class="toc-h2">Starboard Corridor (Southern)</a>
+<a href="#heading-74" class="toc-h2">Engineer Hallway</a>
+<a href="#heading-75" class="toc-h2">Electrical Room</a>
+<a href="#heading-76" class="toc-h2">Crewman&#39;s Quarters</a>
+<a href="#heading-77" class="toc-h2">Starboard Corridor (Southern)</a>
+<a href="#heading-78" class="toc-h2">Engine Corridor</a>
+<a href="#heading-79" class="toc-h2">Engineer&#39;s Room</a>
+<a href="#heading-80" class="toc-h2">Engine Corridor</a>
+<a href="#heading-81" class="toc-h2">Radio Room</a>
+<a href="#heading-82" class="toc-h2">Cathedral</a>
+<a href="#heading-83" class="toc-h2">Radio Room</a>
+<a href="#heading-84" class="toc-h2">Engineer&#39;s Room</a>
+<a href="#heading-85" class="toc-h2">Starboard Corridor (Northern)</a>
+<a href="#heading-86" class="toc-h1">Cameo Exorcism</a>
+<a href="#heading-87" class="toc-h2">Dining Room Galley</a>
+<a href="#heading-88" class="toc-h2">Dining Room Hallway</a>
+<a href="#heading-89" class="toc-h2">Stairway</a>
+<a href="#heading-90" class="toc-h2">Private Quarters</a>
+<a href="#heading-91" class="toc-h2">Forest Room</a>
+<a href="#heading-92" class="toc-h2">Fire Room</a>
+<a href="#heading-93" class="toc-h2">Water Room</a>
+<a href="#heading-94" class="toc-h2">Private Quarters</a>
+<a href="#heading-95" class="toc-h2">Sky Room</a>
+<a href="#heading-96" class="toc-h2">Private Quarters</a>
+<a href="#heading-97" class="toc-h2">House</a>
+<a href="#heading-98" class="toc-h2">Owner&#39;s Quarters</a>
+<a href="#heading-99" class="toc-h2">Forest Room</a>
+<a href="#heading-100" class="toc-h2">Dining Room Hallway</a>
+<a href="#heading-101" class="toc-h2">Passenger Hallway</a>
+<a href="#heading-102" class="toc-h1">The Boiler</a>
+<a href="#heading-103" class="toc-h2">Starboard Corridor (Northern)</a>
+<a href="#heading-104" class="toc-h2">Boiler A</a>
+<a href="#heading-105" class="toc-h2">Engine Room A</a>
+<a href="#heading-106" class="toc-h2">Stern Passageway</a>
+<a href="#heading-107" class="toc-h2">Engine Room B</a>
+<a href="#heading-108" class="toc-h2">Boiler B</a>
+<a href="#heading-109" class="toc-h2">Fuel Storage</a>
+<a href="#heading-110" class="toc-h2">Compartment B</a>
+<a href="#heading-111" class="toc-h2">Fuel Storage</a>
+<a href="#heading-112" class="toc-h2">Boiler A</a>
+<a href="#heading-113" class="toc-h2">Engine Room B</a>
+<a href="#heading-114" class="toc-h2">Engine Room A</a>
+<a href="#heading-115" class="toc-h2">Stern Passageway</a>
+<a href="#heading-116" class="toc-h2">Compartment B</a>
+<a href="#heading-117" class="toc-h2">Ending</a>
 </div>
 <div class="container drop-caps p-4 echo-night">
-<p><p>Echo Night is a supernatural survival horror for the good ol&#39; Sony PlayStation. It&#39;s delivered in a first-person view, and it&#39;s clearly on the easy side. The mystery is good, and the horror is not overwhelming. This guide is intended as an easy-to-read to-do list rather than giving you unnecessary narration. Feel free to explore the game too!</p>
+<p>Echo Night is a supernatural survival horror for the good ol&#39; Sony PlayStation. It&#39;s delivered in a first-person view, and it&#39;s clearly on the easy side. The mystery is good, and the horror is not overwhelming. This guide is intended as an easy-to-read to-do list rather than giving you unnecessary narration. Feel free to explore the game too!</p>
 <h1 id="heading-1">Tips</h1>
 <p>Play on an emulator (DuckStation is recommended) and change the bindings, or use Custom Mapper like DS4 Windows. You can and should map your shoulder buttons to your right stick, typically:</p>
 <ul>
@@ -1040,12 +1077,32 @@
     <li>Ending 3: Take the <code>Knife</code></li>
     <li>Ending 4: Talk to the Blind Man, but don&#39;t take the <code>Knife</code></li>
 </ul>
-</p>
+
 </div>
 </div>
-</div>
-<p>[[module css]] .toc-bg {background-image: url(&#39;http://capa.wdfiles.com/local--files/guides:echo-night/echo-night-sidebar.avif&#39;);} .guide-article-hide {display:none;} .guide-article-only {display:block;} [[/module]]</p>
-    </main>
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                            CAPA
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/home:home">Home</a> · 
+                                <a href="/home:guide">Guide</a> · 
+                                <a href="/home:article">Article</a>
+                        </div>
+                            <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
 </body>
 </html>
