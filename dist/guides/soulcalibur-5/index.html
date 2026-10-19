@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Soulcalibur V</title>
-    <meta name="description" content="The sixth main installment of the Soul series, which came with a rather good battle system, but poor...">
+    <meta name="description" content="The sixth main installment of the Soul series, which came with a rather good battle system, but p...">
     
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="/assets/css/favicon.png">
@@ -21,13 +21,13 @@
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://capa.asoh.xyz/assets/guides/soulcalibur-5/soulcalibur-5-splash.jpg">
     <meta property="og:title" content="Soulcalibur V">
-    <meta property="og:description" content="The sixth main installment of the Soul series, which came with a rather good battle system, but poor...">
+    <meta property="og:description" content="The sixth main installment of the Soul series, which came with a rather good battle system, but p...">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="https://capa.asoh.xyz/assets/guides/soulcalibur-5/soulcalibur-5-splash.jpg">
     <meta name="twitter:title" content="Soulcalibur V">
-    <meta name="twitter:description" content="The sixth main installment of the Soul series, which came with a rather good battle system, but poor...">
+    <meta name="twitter:description" content="The sixth main installment of the Soul series, which came with a rather good battle system, but p...">
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
@@ -39,7 +39,7 @@
 <body>
     <div class="container-fluid">
         <div class="row">
-            <header class="capa-nav col-12 col-md-2 p-0">
+            <header class="capa-nav col-12 col-lg-2 p-0">
                 <nav class="capa-navbar" aria-label="Main navigation">
 
     <!-- Mobile-only Expand Button -->
@@ -64,21 +64,39 @@
 
     <!-- Shared navigation and TOC -->
     <div id="capa-nav-content">
-        <div class="nav-item">
-            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        <div class="site-title strong stroke text-center mt-4 mb-4">
+        CAPA
         </div>
-        <div class="nav-item">
-            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        <div class="nav-item nav-container gradient-line line-bottom-4 line-top-4">
+            <div class="nav-image-container main-splash-overlaid">
+                <a href="/" class="d-block"><img src="/assets/img/16x9.png" class="img-fluid aspect-4x1" title="Go to Home" alt="Go to Home"></a>
+            </div>
+            <div class="nav-text-container stroke ps-2">
+                <a href="/" class="d-block"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+            </div>
         </div>
-        <div class="nav-item">
-            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        <div class="nav-item nav-container gradient-line line-bottom-4">
+            <div class="nav-image-container guide-splash-overlaid">
+                <a href="/guides/" class="d-block"><img src="/assets/img/16x9.png" class="img-fluid aspect-4x1" title="Go to Guides" alt="Go to Guides"></a>
+            </div>
+            <div class="nav-text-container stroke ps-2">
+                <a href="/guides/" class="d-block"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+            </div>
+        </div>
+        <div class="nav-item nav-container gradient-line line-bottom-4">
+            <div class="nav-image-container guide-splash-overlaid">
+                <a href="/articles/" class="d-block"><img src="/assets/img/16x9.png" class="img-fluid aspect-4x1" title="Go to Articles" alt="Go to Articles"></a>
+            </div>
+            <div class="nav-text-container stroke ps-2">
+                <a href="/articles/" class="d-block"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+            </div>
         </div>
         <!-- TOC will be moved here by move-toc-to-nav.js -->
     </div>
 
 </nav>
             </header>
-            <div class="col-12 col-md-10 p-0">
+            <div class="col-12 col-lg-10 p-0">
                 <main class="capa-main">
                     <div class="row m-0 p-0">
 <div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:url(&#39;/assets/guides/soulcalibur-5/soulcalibur-5-splash.avif&#39;);">
@@ -94,7 +112,7 @@
 </div>
 </div>
 </div>
-<div id="toc" class="table-of-contents">
+<div id="toc" class="table-of-contents gradient-line line-bottom-4 ps-2 pe-2 pb-2">
 <a href="#heading-1" class="toc-h1">Custom Character Data</a>
 <a href="#heading-2" class="toc-h1">Finding the Custom Character Moveset Data</a>
 </div>
@@ -109,7 +127,7 @@
 </div>
 <p>Each slot has two name address, the second address is not listed here due to their adjacent location. You can utilize the name address to break the limit of 12 letter. <strong>For safety, use same name for both address</strong>. The longest name I&#39;ve tried is &quot;Cliche Incarnate Richter&quot; which is 24 characters and he is editable, usable in all modes, without breaking the name. The name will be truncated to 12 if I re-input his name during creation.</p>
 <p>Voice data is pretty-self explanatory.</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Position</th>
         <th>Name</th>
@@ -523,7 +541,7 @@
 <p>[[xinclude :fiction:common:alert |text=Using Ezio style, apart from missing announcer voice, has no problem in all modes.]]</p>
 <p>[[xinclude :fiction:common:alert |text=Voice digit is different from moveset digit, but somehow follows old numbering.]]</p>
 <p>[[xinclude :fiction:common:alert |text=With weapon code, it is possible to assign 9th weapon for all characters. They are either SoulCalibur (female characters, Siegfried), or a more detailed version of their default weapon.]]</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Move 1</th>
         <th>Move 2</th>
@@ -896,7 +914,7 @@
 <h1 id="heading-2">Finding the Custom Character Moveset Data</h1>
 <p>I found the data myself using an algorithm I built in Microsoft Office Excel. First I created 7 custom characters named Bohb1, Bohb2, Bohb3, Bohb4, Bohb5, Alice4, and Alice5. They are all just a copy of each other, no parameter changed, and their card blanked i.e. black background, maximum frame zoom, corner image). Blanking the card is essential to make the image as similar as possible, thus will not pollute the algorithm.</p>
 <p>The moveset was configured as follows:</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Slot</th>
         <th>Character</th>
@@ -971,16 +989,16 @@
 </div>
 </div>
                 </main>
-                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 ps-4 pe-4" role="contentinfo">
                     <div class="footer">
-                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                        <div class="footer-title capa-title serif-font strong stroke pe-4">
                             CAPA
                         </div>
                         <div class="footer-links strong">
                             <div class="nav-area">
-                                <a href="/home:home">Home</a> · 
-                                <a href="/home:guide">Guide</a> · 
-                                <a href="/home:article">Article</a>
+                                <a href="/">Home</a> · 
+                                <a href="/guides/">Guide</a> · 
+                                <a href="/articles/">Article</a>
                         </div>
                             <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
                             <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>

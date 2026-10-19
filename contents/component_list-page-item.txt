@@ -1,5 +1,5 @@
 [[div class="list-page-container {$container-class}"]]
-[[div class="list-page-image-container rounded "]]
+[[div class="list-page-image-container rounded {$image-container-class}"]]
 [[image /{$image} | | rounded {$image-class}]]
 [[/div]]
 [[div class="list-page-text-container text-center"]]

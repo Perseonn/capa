@@ -1,6 +1,7 @@
 @title: Dynasty Warriors (PSP)
 @author: Buster Wolf
 @updated: 2025-03-15
+@wip
 
 If you meant to look for [[[guide:dynastywarriors | Dynasty Warriors]]] the fighting game this is the wrong guide. Dynasty Warriors (PSP) is KOEI's first game that was made for the Playstation Portable, unlike Dynasty Warriors 4 which most of the assets are pulled from you go through a grid based map in attempts to eventually make it to the enemy main camp and take it over. Battles always start you at Lv.1 with 4 basic attacks, as you increase in level your moveset will upgrade at Lv.4 and again at Lv.7 which also has an updated weapon design for the next area you go into after reaching Lv.7, at Lv.10 your Musou Attack will always be a True Musou regardless how much health you have. There is quite a bit to cover, but it should be nice and neat with little clutter for the information you may want.
 

@@ -1,10 +1,11 @@
 @title: CAPA Articles
 @author: Perseonn Balthasaar
 @updated: 2026-09-26
+@description: Perseonn's Game reviews and opinion!
 
 [[include component:splash
 |splash-class=full-height
-|splash-style=background-image:url('/assets/img/splash-articles.avif');
+|splash-style=background-image:url('/assets/articles/articles-splash.avif');
 |text-title=Articles
 |text-sub-title=Game reviews and opinion!
 |text-extra-class=hidden

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Base Counting Trick</title>
-    <meta name="description" content="The final term exam problem I created have raised questions among my students, especially the base c...">
+    <meta name="description" content="The final term exam problem I created have raised questions among my students, especially the bas...">
     
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="/assets/css/favicon.png">
@@ -21,13 +21,13 @@
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://capa.asoh.xyz/assets/articles/base-counting-trick/base-counting-trick-splash.jpg">
     <meta property="og:title" content="Base Counting Trick">
-    <meta property="og:description" content="The final term exam problem I created have raised questions among my students, especially the base c...">
+    <meta property="og:description" content="The final term exam problem I created have raised questions among my students, especially the bas...">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="https://capa.asoh.xyz/assets/articles/base-counting-trick/base-counting-trick-splash.jpg">
     <meta name="twitter:title" content="Base Counting Trick">
-    <meta name="twitter:description" content="The final term exam problem I created have raised questions among my students, especially the base c...">
+    <meta name="twitter:description" content="The final term exam problem I created have raised questions among my students, especially the bas...">
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
@@ -39,7 +39,7 @@
 <body>
     <div class="container-fluid">
         <div class="row">
-            <header class="capa-nav col-12 col-md-2 p-0">
+            <header class="capa-nav col-12 col-lg-2 p-0">
                 <nav class="capa-navbar" aria-label="Main navigation">
 
     <!-- Mobile-only Expand Button -->
@@ -64,21 +64,39 @@
 
     <!-- Shared navigation and TOC -->
     <div id="capa-nav-content">
-        <div class="nav-item">
-            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        <div class="site-title strong stroke text-center mt-4 mb-4">
+        CAPA
         </div>
-        <div class="nav-item">
-            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        <div class="nav-item nav-container gradient-line line-bottom-4 line-top-4">
+            <div class="nav-image-container main-splash-overlaid">
+                <a href="/" class="d-block"><img src="/assets/img/16x9.png" class="img-fluid aspect-4x1" title="Go to Home" alt="Go to Home"></a>
+            </div>
+            <div class="nav-text-container stroke ps-2">
+                <a href="/" class="d-block"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+            </div>
         </div>
-        <div class="nav-item">
-            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        <div class="nav-item nav-container gradient-line line-bottom-4">
+            <div class="nav-image-container guide-splash-overlaid">
+                <a href="/guides/" class="d-block"><img src="/assets/img/16x9.png" class="img-fluid aspect-4x1" title="Go to Guides" alt="Go to Guides"></a>
+            </div>
+            <div class="nav-text-container stroke ps-2">
+                <a href="/guides/" class="d-block"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+            </div>
+        </div>
+        <div class="nav-item nav-container gradient-line line-bottom-4">
+            <div class="nav-image-container guide-splash-overlaid">
+                <a href="/articles/" class="d-block"><img src="/assets/img/16x9.png" class="img-fluid aspect-4x1" title="Go to Articles" alt="Go to Articles"></a>
+            </div>
+            <div class="nav-text-container stroke ps-2">
+                <a href="/articles/" class="d-block"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+            </div>
         </div>
         <!-- TOC will be moved here by move-toc-to-nav.js -->
     </div>
 
 </nav>
             </header>
-            <div class="col-12 col-md-10 p-0">
+            <div class="col-12 col-lg-10 p-0">
                 <main class="capa-main">
                     <div class="row m-0 p-0">
 <div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:url(&#39;/assets/articles/base-counting-trick/base-counting-trick-splash.avif&#39;);">
@@ -94,7 +112,7 @@
 </div>
 </div>
 </div>
-<div id="toc" class="table-of-contents">
+<div id="toc" class="table-of-contents gradient-line line-bottom-4 ps-2 pe-2 pb-2">
 <a href="#heading-1" class="toc-h1">Dreaded #7</a>
 <a href="#heading-2" class="toc-h2">Exam Problem</a>
 <a href="#heading-3" class="toc-h2">Trick 1: Time Soak</a>
@@ -133,7 +151,7 @@
 <p>However, students&#39; feedback was mostly negative to #7, the base counting problem. Below is the problem of #7 as well as the reason for the number itself.</p>
 <h2 id="heading-2">Exam Problem</h2>
 <p>Convert the following hexadecimal values into binary and decimal, conversion method must be provided (20 points)!</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>#</th>
         <th>Hexadecimal</th>
@@ -191,7 +209,7 @@
 <h2 id="heading-7">Hexadecimal to Binary: The Quick Conversion</h2>
 <h3 id="heading-8">Step 1</h3>
 <p>First, make a table to convert Decimal to Hexadecimal and Binary:</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Decimal</th>
         <th>Hexadecimal</th>
@@ -280,7 +298,7 @@
 </table>
 <h2 id="heading-9">Step 2: Notice the pattern on A to D</h2>
 <p>If you convert hexadecimal to decimal, to binary, here&#39;s what you get from the first 4 numbers:</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>#</th>
         <th>Hexadecimal</th>
@@ -314,7 +332,7 @@
 </table>
 <p>Noticed something? Here&#39;s a detailed table:</p>
 <h3 id="heading-10">Problem A</h3>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>0</th>
         <th>0</th>
@@ -339,7 +357,7 @@
     </tr>
 </table>
 <h3 id="heading-11">Problem B</h3>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>0</th>
         <th>0</th>
@@ -364,7 +382,7 @@
     </tr>
 </table>
 <h3 id="heading-12">Problem C</h3>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>0</th>
         <th>0</th>
@@ -389,7 +407,7 @@
     </tr>
 </table>
 <h3 id="heading-13">Problem D</h3>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>0</th>
         <th>0</th>
@@ -416,7 +434,7 @@
 <p>Each 4 binary digits exactly represents a single hexadecimal digits.</p>
 <h2 id="heading-14">Step 3: Crosschecks with E and F</h2>
 <p>You can crosscheck your theory with E and F as follows:</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>#</th>
         <th>Hexadecimal</th>
@@ -435,7 +453,7 @@
 </table>
 <p>Detailed table:</p>
 <h3 id="heading-15">Problem E</h3>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>0</th>
         <th>0</th>
@@ -460,7 +478,7 @@
     </tr>
 </table>
 <h3 id="heading-16">Problem F</h3>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>0</th>
         <th>0</th>
@@ -485,7 +503,7 @@
     </tr>
 </table>
 <h2 id="heading-17">Step 4: Solve the Remaining Problems</h2>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>#</th>
         <th>Hexadecimal</th>
@@ -515,7 +533,7 @@
 <p>This is an extremely quick way, since J&#39;s decimal value is 99 999 999. Imagine doing 99 999 999 MOD 2 all the way until you find the remaining dividend is 3 or 2 or 1.</p>
 <p>Here&#39;s a detailed table on problem J:</p>
 <h3 id="heading-18">Problem J</h3>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>0</th>
         <th>5</th>
@@ -543,16 +561,16 @@
 </div>
 </div>
                 </main>
-                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 ps-4 pe-4" role="contentinfo">
                     <div class="footer">
-                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                        <div class="footer-title capa-title serif-font strong stroke pe-4">
                             CAPA
                         </div>
                         <div class="footer-links strong">
                             <div class="nav-area">
-                                <a href="/home:home">Home</a> · 
-                                <a href="/home:guide">Guide</a> · 
-                                <a href="/home:article">Article</a>
+                                <a href="/">Home</a> · 
+                                <a href="/guides/">Guide</a> · 
+                                <a href="/articles/">Article</a>
                         </div>
                             <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
                             <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>

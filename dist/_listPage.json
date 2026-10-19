@@ -557,7 +557,7 @@
         "title": "Destiny of an Emperor",
         "author": "Buster Wolf",
         "updated": "2026-09-25",
-        "wip": false
+        "wip": true
     },
     {
         "category": "guides",
@@ -624,7 +624,7 @@
         "slug": "dynasty-warriors-3-xtreme-legends",
         "sourceName": "guides_dynasty-warriors-3-xtreme-legends",
         "url": "/guides/dynasty-warriors-3-xtreme-legends/",
-        "title": "Dynasty Warriors",
+        "title": "Dynasty Warriors 3: Xtreme Legends",
         "author": "Buster Wolf",
         "updated": "2025-04-06",
         "wip": false
@@ -644,10 +644,10 @@
         "slug": "dynasty-warriors-4-xtreme-legends",
         "sourceName": "guides_dynasty-warriors-4-xtreme-legends",
         "url": "/guides/dynasty-warriors-4-xtreme-legends/",
-        "title": "Dynasty Warriors 4",
+        "title": "Dynasty Warriors 4: Xtreme Legends",
         "author": "Buster Wolf",
         "updated": "2026-09-25",
-        "wip": false
+        "wip": true
     },
     {
         "category": "guides",
@@ -677,7 +677,7 @@
         "title": "Dynasty Warriors (PSP)",
         "author": "Buster Wolf",
         "updated": "2025-03-15",
-        "wip": false
+        "wip": true
     },
     {
         "category": "guides",
@@ -787,7 +787,7 @@
         "title": "Phantom Brave",
         "author": "Buster Wolf",
         "updated": "2026-09-25",
-        "wip": false
+        "wip": true
     },
     {
         "category": "guides",

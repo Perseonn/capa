@@ -1,6 +1,7 @@
 @title: Welcome to CAPA!
 @author: Perseonn Balthasaar
 @updated: 2026-09-26
+@description: A Website Dedicated to Guides and Codes for Games that We Love!
 
 [[include component:splash
 |splash-class=main-splash full-height
@@ -10,7 +11,7 @@
 |text-extra-class=hidden
 ]]
 
-[[div class="splash-container guide-splash gradient-line line-bottom-4"]]
+[[div class="splash-container guide-splash-overlaid gradient-line line-bottom-4"]]
 [[div class="title-container p-4"]]
 [[div class="page-extra stroke"]]
 [[/div]]
@@ -23,10 +24,10 @@ Guides
 
 [[div class="row mb-4 guides-row"]]
 
-[[div class="col-12 col-md-6 p-0"]]
+[[div class="col-12 col-lg-6 p-0"]]
 [[include component:list-page-item
-|container-class=large-cards
-|image=img/splash-guides.avif
+|container-class=large-cards d-grid
+|image=guides/guides-splash.avif
 |image-class=aspect-1x1
 |link=guides/
 |title=Go to Guides
@@ -34,12 +35,13 @@ Guides
 ]]
 [[/div]]
 
-[[div class="col-12 col-md-6 d-flex"]]
+[[div class="col-12 col-lg-6 d-flex"]]
 [[div class="row list-page-item-row"]]
 [[module ListPages category="guides" order="updated_at desc" limit="4"]]
 [[include component:list-page-item
-|container-class=col-6 col-md-6 small-cards
-|image-class=fit-contain
+|container-class=col-6 col-lg-6 small-cards d-grid
+|image-container-class=h-100
+|image-class=fit-contain h-100
 |image=%%fullname%%/%%name%%.avif
 |link=%%fullname%%
 |title=%%title%%
@@ -54,7 +56,7 @@ Guides
 [[/div]]
 
 
-[[div class="splash-container article-splash gradient-line line-bottom-4"]]
+[[div class="splash-container article-splash-overlaid gradient-line line-bottom-4"]]
 [[div class="title-container p-4"]]
 [[div class="page-extra stroke"]]
 [[/div]]
@@ -67,10 +69,10 @@ Articles
 
 [[div class="row mb-4 article-row"]]
 
-[[div class="col-12 col-md-6 p-0"]]
+[[div class="col-12 col-lg-6 p-0"]]
 [[include component:list-page-item
-|container-class=large-cards
-|image=img/splash-articles.avif
+|container-class=large-cards d-grid
+|image=articles/articles-splash.avif
 |image-class=aspect-1x1
 |link=articles/
 |title=Go to Articles
@@ -78,12 +80,13 @@ Articles
 ]]
 [[/div]]
 
-[[div class="col-12 col-md-6 d-flex"]]
+[[div class="col-12 col-lg-6 d-flex"]]
 [[div class="row flex-fill list-page-item-row"]]
 [[module ListPages category="articles" order="updated_at desc" limit="4"]]
 [[include component:list-page-item
-|container-class=col-6 col-md-6 small-cards
-|image-class=fit-cover
+|container-class=col-6 col-lg-6 small-cards d-grid
+|image-container-class=h-100
+|image-class=fit-cover h-100
 |image=%%fullname%%/%%name%%-splash.avif
 |link=%%fullname%%
 |title=%%title%%

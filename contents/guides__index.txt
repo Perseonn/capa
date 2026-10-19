@@ -1,10 +1,11 @@
 @title: CAPA Guides
 @author: Perseonn Balthasaar
 @updated: 2026-09-26
+@description: Game walkthroughs, cheat codes, or both!
 
 [[include component:splash
 |splash-class=full-height
-|splash-style=background-image:url('/assets/img/splash-guides.avif');
+|splash-style=background-image:url('/assets/guides/guides-splash.avif');
 |text-title=Guides
 |text-sub-title=Game walkthroughs, cheat codes, or both!
 |text-extra-class=hidden
@@ -12,7 +13,7 @@
 
 [[div class="row p-4 m-0"]]
 
-[[module ListPages category="guides" order="name" perPage="40"]]
+[[module ListPages category="guides" order="title" perPage="40"]]
 [[include component:list-page-item
 |container-class=col-xs-12 col-sm-6 col-md-4
 |image=%%fullname%%/%%name%%.avif

@@ -1,6 +1,7 @@
 @title: Destiny of an Emperor
 @author: Buster Wolf
 @updated: 2026-09-25
+@wip
 
 Destiny of an Emperor is an RPG loosely based off of the Romance of the Three Kingdoms novel, hearing that you probably though KOEI made this, but no this was in fact made by Capcom in 1989. As a Dynasty Warriors fan I will try to point out any naming mistakes on Capcom's side that I know (there are quite a lot) and who certain generals are meant to be, I won't name every single one mainly those you fight throughout the story and those as recommendations for your party. It should be noted that chapters are not announced in-game, but I will tell you when you hit chapter endpoints.
 

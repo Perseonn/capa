@@ -1,6 +1,7 @@
-@title: Dynasty Warriors 4
+@title: Dynasty Warriors 4: Xtreme Legends
 @author: Buster Wolf
 @updated: 2026-09-25
+@wip
 
 Dynasty Warriors 4: Xtreme Legends is the first expansion for Dynasty Warriors 4, as with all Xtreme Legends expansions it has its own content to separate itself from the vanilla game, but to have all the content from the vanilla game Mixjoy is needed. Unlike [[[guide:dynasty-warriors-3-xtreme-legends | the previous Xtreme Legends title]]] they had better foresight and this time you can get all the content without needing the vanilla game, however mixjoying with the vanilla game will have harder AI in the original content.
 

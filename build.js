@@ -191,8 +191,8 @@ function purgeStalePages(pages) {
  * @title: Sample Article / Guide
  * @author: Perseonn Balthasaar
  * @updated: 2026-09-25
- * @wip: any value. WIP accepts any value. To remove it, simply remove the line.
- * The first 100 characters on the next paragraph becomes description
+ * @wip
+ * @description: overrides description, else the first 100 characters on the paragraph after meta becomes description
  * ============================================================
  */
 
@@ -203,6 +203,7 @@ function parseMetadata(source) {
         title: null,
         author: null,
         updated: null,
+        description: null,
         wip: null
     };
 
@@ -215,17 +216,17 @@ function parseMetadata(source) {
             break;
         }
 
-        const match = line.match(/^@(\w+):\s*(.*)$/);
+        const match = line.match(/^@(\w+)(?::\s*(.*))?$/);
 
         if (!match) {
             break;
         }
 
         const key = match[1];
-        const value = match[2];
+        const value = match[2] ?? "";
 
         if (key in metadata) {
-            metadata[key] = value;
+            metadata[key] = key === "wip" ? true : value;
         }
 
         index++;
@@ -237,7 +238,11 @@ function parseMetadata(source) {
     };
 }
 
-function createMetaDescription(source) {
+function createMetaDescription(source, description = null) {
+    if (description?.trim()) {
+        return description.trim();
+    }
+
     const lines = source.split(/\r?\n/);
 
     for (const line of lines) {
@@ -258,7 +263,9 @@ function createMetaDescription(source) {
             continue;
         }
 
-        return text.slice(0, 100);
+        return text.length > 100
+            ? text.slice(0, 97) + "..."
+            : text;
     }
 
     return "";
@@ -269,6 +276,14 @@ function getSplashImage(page) {
 }
 
 function getSocialImage(page) {
+    if (page.type && !page.slug) {
+        return `${SITE_URL}/assets/${page.type}/${page.type}-splash.jpg`;
+    }
+
+    if (!page.slug) {
+        return `${SITE_URL}/assets/main-splash.jpg`;
+    }
+
     return `${SITE_URL}/assets/${page.type}/${page.slug}/${page.slug}-splash.jpg`;
 }
 
@@ -431,7 +446,7 @@ function build() {
 
         const splashImage = getSplashImage(page);
         const socialImage = getSocialImage(page);
-        const description = createMetaDescription(content);
+        const description = createMetaDescription(content, metadata.description);
 
         const pageContent = applyPageTemplate(
             page,

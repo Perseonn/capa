@@ -21,7 +21,7 @@ CAPA Engine is a proof-of-concept engine that generates static web pages from Wi
   * Example: `category__template.txt` = category template page
   * New Feature: `_index.txt` = homepage
   * New Feature: `category__index.txt` = category landing page (optional)
-  * Meta: Source files can have the following metas `@title: Page Title`, `@author: Page Author`, `@updated: 2026-01-01`. If no metas are assigned, default meta will be given from `build.js`. See **Customizable Files #9** below.
+  * Meta: Source files can have few metas see **Custom Meta** below.
 3. If there's a `_template`, e.g. `category__template.txt` (note the double underscore), then pages of that category will be wrapped in the `_template` first. The template is optional.
 4. All source will be wrapped by `_layout.html` inside `contents/` folder. Thus the flow is:
   * `category_page-name.txt` wrapped by `category__template.txt` (if present), and finally wrapped by `_layout.html`.
@@ -40,8 +40,8 @@ The workflow uses 3 active javascript files + 1 pending deletion:
 4. `assets/scripts/template.js`, a legacy template renderer from an earlier version of the engine.
 
 ### Available Syntax
-1. General in-line syntax: `**bold**`, `//italic//`, `__underline__`, `--strikethrough--`, `{{monospaced}}`, `^^superscript ^^`, `,,subscript,,`.
-2. HTML syntax: `[[div]]`, `[[/div]]`, `[[span]]`. Currently both only accepts `class=""` parameter.
+1. General in-line syntax: `**bold**`, `//italic//`, `__underline__`, `--strikethrough--`, `{{monospaced}}`, `^^superscript ^^`, `,,subscript,,`, `##f0f0f0 | hex-only colors##`.
+2. HTML syntax: `[[div]]`, `[[a]]`, `[[span]]`. Currently only accepts `class=""` parameter.
 3. Headings from + to ++++
 4. Tables, using `|| ||` for table data and and `||~ ||` for Table Heading.
 5. Unnumbered and Ordered List, starting line with `*` and `#`.
@@ -52,7 +52,7 @@ The workflow uses 3 active javascript files + 1 pending deletion:
 10. Include `[[include category:name]]`, as detailed below
 
 ### ListPages Syntax
-1. ListPages is available in **1 line only start** using `[[module ListPages parameters=""]]`
+1. ListPages is available in **1 line only start** using `[[module ListPages parameters=""]]`. Using multiple lines will not work.
 2. ListPages is closed using `[[/module]]`
 3. Anything between the lines are treated like template for the ListPages.
 4. Available commands example:
@@ -82,6 +82,16 @@ The workflow uses 3 active javascript files + 1 pending deletion:
 1. Link `[[link /sample | caption | class]]`.
 2. Image `[[image sample.png | caption | class]]`, by default uses the `assets/category/page-name/` structure as mentioned in Workflow #6.
 3. Youtube `[[youtube id]]`, customizable via `contents/_youtube.html`
+4. Anchor Target `[[#go-to-here]]` that generates empty `<span id="#go-to-here"></span>` that can be followed to using `[[a href="#go-to-here"]][[/a]]`, to reduce dependency to the ToC.
+5. Icon `[[icon | class]]` that generates `<i class="class"></i>`.
+
+### Custom Meta
+Source files can have custom metas. If no metas are assigned, default meta will be given from `build.js`. See **Customizable Files #9** below.
+* `@title: Page Title`: Page Title. Will also be used as HTM meta `<title>` and its related entries
+* `@author: Page Author`: Page Author.
+* `@updated: 2026-01-01`: Update date.
+* `@wip`: Sources with `@wip` will be rendered, but not included in ListPages.
+* `@description: something`: Overrides HTML meta `<title>` and its related entries. If not used, it will take first 100 characters from the page after meta.
 
 ### Customizable Files
 1. Page layout is customizable via `contents/_layout.html`.

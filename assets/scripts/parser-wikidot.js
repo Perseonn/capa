@@ -4,7 +4,10 @@
  */
 import path from "path";
 import fs from "fs";
-import { customInlineParsers } from "./parser-custom.js";
+import {
+    customInlineParsers,
+    parseYoutube
+} from "./parser-custom.js";
 
 export function escapeHtml(text) {
     return text
@@ -17,6 +20,44 @@ export function escapeHtml(text) {
 
 
 const wikidotInlineParsers = [
+    /*
+     * Custom Anchor Open [[a href="" class="" style=""]]text[[/a]]
+    */
+    {
+        name: "custom-anchor-open",
+        regex: /^\[\[a\s+([^\]]+)\]\]/,
+
+        render: (match) => {
+            const attributes = {};
+            const attributeRegex = /(\w+)\s*=\s*"([^"]*)"/g;
+            let attributeMatch;
+
+            while ((attributeMatch = attributeRegex.exec(match[1])) !== null) {
+                const [, name, value] = attributeMatch;
+
+                if (["href", "class", "style"].includes(name)) {
+                    attributes[name] = value;
+                }
+            }
+
+            if (!attributes.href) {
+                return match[0];
+            }
+
+            const renderedAttributes = Object.entries(attributes)
+                .map(([name, value]) => `${name}="${value}"`)
+                .join(" ");
+
+            return `<a ${renderedAttributes}>`;
+        }
+    },
+    {
+        name: "custom-anchor-close",
+        regex: /^\[\[\/a\]\]/,
+
+        render: () => "</a>"
+    },
+
     /*
      * Span [[span]]text[[/span]] [[span class="foo"]]text[[/span]]
      */
@@ -31,6 +72,21 @@ const wikidotInlineParsers = [
                 ? ` class="${escapeHtml(className)}"`
                 : "";
             return `<span${classAttribute}>${parseInline(content)}</span>`;
+        }
+    },
+
+    /*
+    * Color ##FAFAFF|text##
+    */
+    {
+        name: "color",
+        regex: /^##\s*([0-9a-fA-F]{3,8})\s*\|\s*([\s\S]*?)##/,
+
+        render: (match, { parseInline }) => {
+            const color = match[1];
+            const content = match[2];
+
+            return `<span style="color:#${color}">${parseInline(content)}</span>`;
         }
     },
 
@@ -288,21 +344,21 @@ function parseTable(lines, startIndex, customInlineParsers) {
         index++;
     }
 
-    let html = "<table>\n";
+    let html = '<table class="wiki-content-table">\n';
 
     for (const row of rows) {
-        html += "    <tr>\n";
+        html += '    <tr>\n';
 
         for (const cell of row) {
-            const tag = cell.isHeader ? "th" : "td";
+            const tag = cell.isHeader ? 'th' : 'td';
 
             html += `        <${tag}>${cell.content}</${tag}>\n`;
         }
 
-        html += "    </tr>\n";
+        html += '    </tr>\n';
     }
 
-    html += "</table>";
+    html += '</table>';
 
     return {
         html,
@@ -446,39 +502,6 @@ function parseImage(line, sourceName) {
     </figure>`;
 }
 
-/*
- * =============== =============== =============== ===============
- * YouTube [[youtube id]]
- * =============== =============== =============== ===============
- */
-function parseYoutube(line) {
-    const match = line.trim().match(
-        /^\[\[youtube\s+([A-Za-z0-9_-]+)\]\]$/
-    );
-
-    if (!match) {
-        return null;
-    }
-
-    const videoId = match[1];
-    const templatePath = "./contents/_youtube.html";
-
-    if (!fs.existsSync(templatePath)) {
-        throw new Error(
-            `YouTube template not found: ${templatePath}`
-        );
-    }
-
-    const template = fs.readFileSync(
-        templatePath,
-        "utf8"
-    );
-
-    return template.replaceAll(
-        "{{YOUTUBE_ID}}",
-        escapeHtml(videoId)
-    );
-}
 
 /* 
  * =============== =============== =============== ===============

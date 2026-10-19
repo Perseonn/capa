@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Final Fantasy 1</title>
-    <meta name="description" content="Final Fantasy is the first entry of the Final Fantasy series, it was initially Squaresoft&#39;s last hop...">
+    <meta name="description" content="Final Fantasy is the first entry of the Final Fantasy series, it was initially Squaresoft&#39;s last ...">
     
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="/assets/css/favicon.png">
@@ -21,13 +21,13 @@
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://capa.asoh.xyz/assets/guides/final-fantasy-1/final-fantasy-1-splash.jpg">
     <meta property="og:title" content="Final Fantasy 1">
-    <meta property="og:description" content="Final Fantasy is the first entry of the Final Fantasy series, it was initially Squaresoft&#39;s last hop...">
+    <meta property="og:description" content="Final Fantasy is the first entry of the Final Fantasy series, it was initially Squaresoft&#39;s last ...">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="https://capa.asoh.xyz/assets/guides/final-fantasy-1/final-fantasy-1-splash.jpg">
     <meta name="twitter:title" content="Final Fantasy 1">
-    <meta name="twitter:description" content="Final Fantasy is the first entry of the Final Fantasy series, it was initially Squaresoft&#39;s last hop...">
+    <meta name="twitter:description" content="Final Fantasy is the first entry of the Final Fantasy series, it was initially Squaresoft&#39;s last ...">
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
@@ -39,7 +39,7 @@
 <body>
     <div class="container-fluid">
         <div class="row">
-            <header class="capa-nav col-12 col-md-2 p-0">
+            <header class="capa-nav col-12 col-lg-2 p-0">
                 <nav class="capa-navbar" aria-label="Main navigation">
 
     <!-- Mobile-only Expand Button -->
@@ -64,21 +64,39 @@
 
     <!-- Shared navigation and TOC -->
     <div id="capa-nav-content">
-        <div class="nav-item">
-            <a href="/"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+        <div class="site-title strong stroke text-center mt-4 mb-4">
+        CAPA
         </div>
-        <div class="nav-item">
-            <a href="/guides/"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+        <div class="nav-item nav-container gradient-line line-bottom-4 line-top-4">
+            <div class="nav-image-container main-splash-overlaid">
+                <a href="/" class="d-block"><img src="/assets/img/16x9.png" class="img-fluid aspect-4x1" title="Go to Home" alt="Go to Home"></a>
+            </div>
+            <div class="nav-text-container stroke ps-2">
+                <a href="/" class="d-block"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+            </div>
         </div>
-        <div class="nav-item">
-            <a href="/articles/"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+        <div class="nav-item nav-container gradient-line line-bottom-4">
+            <div class="nav-image-container guide-splash-overlaid">
+                <a href="/guides/" class="d-block"><img src="/assets/img/16x9.png" class="img-fluid aspect-4x1" title="Go to Guides" alt="Go to Guides"></a>
+            </div>
+            <div class="nav-text-container stroke ps-2">
+                <a href="/guides/" class="d-block"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+            </div>
+        </div>
+        <div class="nav-item nav-container gradient-line line-bottom-4">
+            <div class="nav-image-container guide-splash-overlaid">
+                <a href="/articles/" class="d-block"><img src="/assets/img/16x9.png" class="img-fluid aspect-4x1" title="Go to Articles" alt="Go to Articles"></a>
+            </div>
+            <div class="nav-text-container stroke ps-2">
+                <a href="/articles/" class="d-block"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+            </div>
         </div>
         <!-- TOC will be moved here by move-toc-to-nav.js -->
     </div>
 
 </nav>
             </header>
-            <div class="col-12 col-md-10 p-0">
+            <div class="col-12 col-lg-10 p-0">
                 <main class="capa-main">
                     <div class="row m-0 p-0">
 <div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:url(&#39;/assets/guides/final-fantasy-1/final-fantasy-1-splash.avif&#39;);">
@@ -94,7 +112,7 @@
 </div>
 </div>
 </div>
-<div id="toc" class="table-of-contents">
+<div id="toc" class="table-of-contents gradient-line line-bottom-4 ps-2 pe-2 pb-2">
 <a href="#heading-1" class="toc-h1">Character Choice</a>
 <a href="#heading-2" class="toc-h2">Fighter / Warrior</a>
 <a href="#heading-3" class="toc-h2">Black Belt / Monk</a>
@@ -193,7 +211,7 @@
 <p><strong>Class Change: Black Wizard</strong> The class change for Black Mage is Black Wizard which allows for higher level Black Magic to be usable.</p>
 <h1 id="heading-8">Stats</h1>
 <p>Stats determine how well your characters will preform this is a basic overview in case you don&#39;t know what each stat does.</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Stat</th>
         <th>Effect</th>
@@ -237,7 +255,7 @@
 </table>
 <p>HIT% / ACC &amp; EVADE% / EVA is not percentage based, it is out of 255 not 100.</p>
 <h1 id="heading-9">Status Ailments</h1>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Ailment</th>
         <th>Player effect</th>
@@ -294,7 +312,7 @@
 <p><strong>DoS+:</strong> Unlike the NES &amp; Origins versions your characters have some equipment on so you can immediately grind to level 3 (which will take no time for you). If you are using a Monk remove his equipment as he will be better unequipped. Once you enter Cornelia you will not be allowed to leave unless you talk to a guard who will lead you to the King.</p>
 <h2 id="heading-11">Coneria / Cornelia Area</h2>
 <p><strong>Enemies</strong> South of Coneria / Cornelia</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -322,7 +340,7 @@
 </table>
 <p><strong>IMP / Goblin</strong> - Is nothing to be afraid of as you should be able to one shot them with any class (barring Black Mage) with weapons bought from Coneria / Cornelia.</p>
 <p>North of Coneria / Cornelia</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -387,7 +405,7 @@
 <p><strong>GrIMP / Goblin Guard</strong> - Stronger than the previous IMP / Goblin though they should still fall all the same. <strong>WOLF / Wolf</strong> - Might be a slight threat due to having more HP than GrIMP / Goblin Guard. <strong>MADPONY / Crazy Horse</strong> - Can be quite a deadly enemy if you fight it this early due to your lack of HP, if you have bought the Fire or Thunder Black Magic spell use it to defeat it faster.</p>
 <h2 id="heading-12">Town of Coneria / Cornelia</h2>
 <p><strong>Inn cost:</strong> 30 <strong>Weapon Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item</th>
         <th>Cost (NES / PS Normal)</th>
@@ -439,7 +457,7 @@
 </table>
 <p><strong>NES / PS:</strong> If using a Fighter, Thief or Red Mage buy a Rapier for each one of them. If you are using a Black Belt buy a Wooden Nunchaku for them. If using a White Mage buy an Iron Hammer for them. If using a Black Mage buy a Small Knife for them.</p>
 <p><strong>DoS+:</strong> If using a Warrior, Thief or Red Mage buy a Rapier for each one of them. If you are using a Monk remove all equipment from them. If using a White Mage buy a Hammer for them. If using a Black Mage buy a Knife for them. <del></del>-- <strong>Armor Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item</th>
         <th>Cost (NES / PS Normal)</th>
@@ -478,7 +496,7 @@
     </tr>
 </table>
 <p>When deciding what Armor to buy look at your party to see which members will be in the first two slots as they will take the most physical attacks. Those two should be the ones you buy for and leave the other two bare (or what they started with for those playing the DoS and onward ports.). <del></del>-- <strong>White Magic Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -526,7 +544,7 @@
     </tr>
 </table>
 <p>CURE / Cure - The lowest tier healing spell which is very useful in the long run, get this for your Red Mage &amp; White Mage if you are using one or both. HARM / Dia - The lowest tier undead damaging spell White Mages have to deal with undead enemies which are pretty prevalent in this game. FOG / Protect - Not a really worthwhile buffing spell which can be stacked up to a total of 255. You can skip this since 8 Defense for one party member doesn&#39;t make too much of a difference. RUSE / Blink - A good spell if you are planning to have your White Mage act as a tank since it can be stacked up to a total of 255. Later in the game the Knight can use this which is very beneficial for them. <del></del>-- <strong>Black Magic Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -574,7 +592,7 @@
     </tr>
 </table>
 <p>FIRE / Fire - The lowest tier Fire damaging spell which is very useful in the early game, this is a good early spell to get for Red Mage and Black Mage since you will want it for a tough enemy in the next area and around Coneria / Cornelia. SLEP / Sleep - A good crowd control spell if you want some enemies to get off your back, you can choose to get it if you want, though I would wait until after having FIRE / Fire &amp; LIT / Thunder first. LOCK / Focus - A pretty worthless spell since there is no reason to worry about lowering one enemies evade. LIT / Thunder - The lowest tier Lightning damaging spell which is very useful in the early game, this is a good early spell to get for Red Mage and Black Mage for when we eventually get the Ship. <del></del>-- <strong>Item Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -615,7 +633,7 @@
 <h1 id="heading-13">To the Temple of Fiends / Chaos Shrine</h1>
 <p><strong>Suggested Level:</strong> 3 When you are ready exit the town and head to the Northwest, those playing on DoS+ will notice a cave to the left, there is nothing we can do there yet as we are blocked off from entering due to a statue. The Temple of Fiends / Chaos Shrine is located at the northern most point of the area head inside to begin the rescue.</p>
 <p><strong>Enemies</strong> Outside of the Temple of Fiends / Chaos Shrine</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -703,7 +721,7 @@
 </table>
 <p><strong>BONE / Skeleton</strong> - A weak undead monster, you should have no trouble dispatching them, unless you fight against a group of 4 don&#39;t worry about using HARM / Dia. <strong>SPIDER / Black Widow</strong> - Not too much to worry about, despite its appearance you don&#39;t have to worry about being Poisoned as it can&#39;t do that. <strong>CREEP / Gigas Worm</strong> - A pretty nasty enemy to meet early, use Fire on it if you have the spare charge / MP as you don&#39;t want them getting too many attacks off.</p>
 <p>Inside the Temple of Fiends / Chaos Shrine</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -849,7 +867,7 @@
 <h1 id="heading-14">Gaining our Sea Legs</h1>
 <p><strong>Suggested Level:</strong> 4 Make sure you have rested up at the Inn to get your spell charges / MP back to full after getting to level 4 if you didn&#39;t already reach it. Make your way North to reach the newly built bridge and see a small cutscene. You can choose to go to the North to a cave or East to the next town.</p>
 <p>If you choose to go North <strong>Enemies</strong> Near Matoya&#39;s Cave</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -938,7 +956,7 @@
 <p><strong>ASP / Cobra</strong> - Has low attack, but has a chance to Poison you with their physical attack. <strong>OGRE / Ogre</strong> - Pretty durable as well as powerful and will often be paired with CREEP / Gigas Worm, while good for grinding later it can be a pain to fight before upgrading equipment. <strong>GrOGRE / Ogre Chief</strong> - Basically a stronger OGRE / Ogre.</p>
 <p>Head North into the mountains and then circle around through the West upward until you see a cave you can enter. This is Matoya&#39;s Cave the broom on the outside gives you a hint to access the World Map (B Button + Select). Entering the room you will see Matoya herself, apparently she is missing a crystal eye that was stolen from her, we are unable to help her at the moment. There are 3 chests in here from top to bottom they have a HEAL Potion / Potion, another one and a PURE Potion / Antidote. When you are done leave and make your way to the East.</p>
 <p>If you choose to go East <strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -1053,7 +1071,7 @@
 <h2 id="heading-15">Pravoka</h2>
 <p>Welcome to Pravoka, you will find that the town is in trouble as they are being attacked by pirates, you can choose to fight them now or after you do some shopping. Either way the Weapon, White &amp; Black Magic shops are on the right side of town while the Armor &amp; Item Shops are on the left.</p>
 <p><strong>Inn cost:</strong> 50 <strong>Weapon Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item</th>
         <th>Cost (NES / PS Normal)</th>
@@ -1097,7 +1115,7 @@
 </table>
 <p><strong>NES / PS:</strong> If you are using a Fighter / Warrior or Red Mage buy a Short Sword for them, if you have another member that can also equip it don&#39;t buy another one as there will be a large list of equipment you will want for the next dungeon. If you are using a Thief don&#39;t buy the Scimitar as the next town (which we go to immediately after this) has a better weapon.</p>
 <p><strong>DoS+:</strong> If you have a Warrior or Red Mage buy a Broadsword for them. If you are using a Thief don&#39;t buy the Scimitar as the next town (which we go to immediately after this) has a better weapon, additionally an enemy in the sea has a chance to drop the very same weapon we could buy. <del></del>-- <strong>Armor Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item</th>
         <th>Cost (NES / PS Normal)</th>
@@ -1154,7 +1172,7 @@
     </tr>
 </table>
 <p>If you are using a Fighter / Warrior don&#39;t buy the Shield here as a better one is sold in the next town (which we go to immediately after this). Since it is pretty cheap you can choose to buy Gloves / Leather Gloves for everyone except your Black Belt / Monk if you want. If you have the spare gil go ahead and buy the Iron Armor for your Fighter / Warrior. <del></del>-- <strong>White Magic Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -1202,7 +1220,7 @@
     </tr>
 </table>
 <p>LAMP / Blinda - Useless spell since the Darkness status doesn&#39;t work in all versions of this game. MUTE / Silence - A good spell to prevent enemies from using their special attacks. ALIT / NulShock - Not really worth getting unless you are on DoS+ where you will want this for the bonus dungeons if you go for them early. INVS / Invis - A good spell to help your tank take less hits from an enemy. <del></del>-- <strong>Black Magic Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -1250,7 +1268,7 @@
     </tr>
 </table>
 <p>ICE / Blizzard - You won&#39;t have much of a use for this unless on NES where the Black Mage won&#39;t have anything to do with level 2 spell charges. DARK / Dark - Useless spell since Darkness doesn&#39;t work on enemies. TMPR / Temper - Useless on NES due to a bug, very much needed to speed up boss fights on remakes, it stacks up to a total of 255 in battle. SLOW / Slow - Good for certain bosses to lower their hit count to make them more manageable. <del></del>-- <strong>Item Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -1313,7 +1331,7 @@
 <p>After you&#39;ve defeated them Bikke gets scared and offers his apologies and promises not to terrorize the town, as well as giving you control of his ship which will now belong to you, it will be docked outside of Pravoka waiting for you.</p>
 <h1 id="heading-16">Sailing the closed Sea</h1>
 <p><strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -1391,7 +1409,7 @@
 <p>Now we have access to the sea though all we have access to is the portion of the world we are in, if you didn&#39;t go to Matoya&#39;s Cave you can go now by passing under the bridge by Coneria / Cornelia. There is one new area we can go to now that we have the Ship (technically two, but we can&#39;t do anything in the other area), make your way West back to where Coneria / Cornelia is and from the dock head South until you hit a piece of land and go to the dock on the West and head Southward.</p>
 <h2 id="heading-17">Elfland / Elfheim</h2>
 <p><strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -1492,7 +1510,7 @@
 <p><strong>ARACHNID / Tarantula</strong> - Not very powerful, unlike SPIDER / Black Widow this one has a chance to inflict Poison on the party member they attack.</p>
 <p>You can enter the castle to find out what the problem for the area is, turns out the Prince has been cursed by the Dark Elf Astos and has been sleeping for 5 years (what?). The Healer next to his bed speaks of a medicine that will wake the Prince up, but he doesn&#39;t know where it is. Afterward you can visit the town and look at their shops, the weapon store is under the Inn with the Level 3 Black Magic shop next to the Inn and Level 3 White Magic shop above it. The upper left of the town features the level 4 magic shops with the item shop below them and the Armor shop at the bottom left. A little Easter egg if you check the left most grave near the level 3 White Magic shop in the NES &amp; Origins version it says &quot;Here lies Erdrick.&quot; Erdrick being a character in the Dragon Quest / Warrior series, however all other versions say &quot;Here lies Link.&quot; the same Link of Legend of Zelda fame.</p>
 <p><strong>Inn cost:</strong> 100 <strong>Weapon Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item</th>
         <th>Cost (NES / PS Normal)</th>
@@ -1544,7 +1562,7 @@
 </table>
 <p><strong>NES / PS:</strong> If you are using a Fighter / Warrior or Red Mage buy a Silver / Mythril Sword for them. If you are using a Thief buy the Saber for them. If you have a Black Mage don&#39;t buy the Large Dagger / Dagger for them as we can get it for free in the next dungeon.</p>
 <p><strong>DoS+:</strong> If you are using a Thief you can buy the Saber for them, though I would wait and see if Buccaneers in the sea drop one before you finish level grinding in case you get one for free. <del></del>-- <strong>Armor Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item</th>
         <th>Cost (NES / PS Normal)</th>
@@ -1601,7 +1619,7 @@
     </tr>
 </table>
 <p>If you are using a Fighter / Warrior buy the Iron Armor if you didn&#39;t already from Pravoka, also the Iron Shield &amp; Wooden Helmet and pass the Cap to the next character in line. <del></del>-- <strong>White Magic Shop</strong> (Level 3)</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -1649,7 +1667,7 @@
     </tr>
 </table>
 <p>CUR2 / Cura - The second tier healing spell, get for your Red Mage if you are using one since they can&#39;t learn HEAL / Heal, you can choose to buy this for White Mage, but HEAL / Heal will heal more for the same cost. HRM2 / Diara - The second tier undead damaging spell White Mages have to deal with undead enemies which are pretty prevalent in this game. AFIR / NulBlaze - A nice spell to have to reduce Fire elemental damage, though it should be saved for purchase later when you have more gil. HEAL / Heal - The lowest tier group healing spell for the White Mage which has the same cost as CUR2 / Cura, it will heal more overall than CUR2 / Cura since you are targeting you whole party instead of one member. <del></del>-- <strong>White Magic Shop</strong> (Level 4)</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -1697,7 +1715,7 @@
     </tr>
 </table>
 <p>PURE / Poisona - You won&#39;t really need spell as you can buy more than enough PURE Potion / Antidotes to cover the cost of this spell (if you get Poisoned more than 50 times per play through I don&#39;t know what to tell you, also DoS+ can get Antidotes as drops.) FEAR / Fear - An interesting spell which if used in succession will cause enemies to run away, won&#39;t work on undead as they resist it. AICE / NulFrost - A nice spell to have to reduce Ice elemental damage, though it should be saved for purchase later when you have more gil. AMUT / Vox - Don&#39;t bother with this spell, there are only 3 enemies in the main game that can Silence your party with 1 more on DoS / Anniversary, but those enemies will likely not use Silence (unless you purposely keep them alive long enough). The one on DoS / Anniversary will, but you will have Ribbons by then so it won&#39;t work and items that have the effect of spells, also it gets cured after battle making it even more worthless. <del></del>-- <strong>Black Magic Shop</strong> (Level 3)</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -1745,7 +1763,7 @@
     </tr>
 </table>
 <p>FIR2 / Fira - The mid tier Fire damaging spell which is very useful for most of the game with the abundance of undead present, this one hits all enemies instead of one. HOLD / Hold - Not too useful since it aims at one enemy rather than a group. LIT2 / Thundara - The mid tier Lightning damaging spell, this one hits all enemies instead of one. You will want this for the Marsh Cave since the enemy guarding an item we need doesn&#39;t resist this element while resisting all others. LOK2 / Focara - An upgrade to LOCK / Focus, but still not useful since you don&#39;t want to waste spell charges / MP lowering an enemies evade. <del></del>-- <strong>Black Magic Shop</strong> (Level 4)</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -1793,7 +1811,7 @@
     </tr>
 </table>
 <p>SLP2 / Sleepra - Has higher accuracy than SLEP / Sleep and can bypass enemies and even bosses who resist Sleep due to being Non-Elemental. FAST / Haste - A very nice buff you will want to get, though it should wait until after Marsh Cave. CONF / Confuse - A nice crowd control spell to have enemies hit themselves rather than your party. ICE2 / Blizzara - The mid tier Ice damaging spell, it is slightly more powerful than FIR2 / Fira &amp; LIT2 / Thundara. <del></del>-- <strong>Item Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -1860,7 +1878,7 @@
 <h1 id="heading-19">Treck through the Marsh</h1>
 <p><strong>Suggested Level:</strong> 9-10 (NES / PS), 13-15 (DoS+) When you feel ready and have rested up make your way though the mountains West of Elfland / Elfheim. There is a path that will lead West which you should pass up the first one as it will lead to a dead end, the second one will lead to the Marsh Cave with a path North which you can go to if you want to though there won&#39;t be much to do there, the King inside had his Crown taken by Astos that is hidden in the Marsh Cave and he is unable to retrieve it so he asks for you to get it. Continue South and you will be at the Marsh Cave.</p>
 <p><strong>Enemies</strong> Near Marsh Cave</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -1984,7 +2002,7 @@
 </table>
 <p><strong>GHAST / Ghast</strong> - Will often appear in large groups and are notorious for their chain Stun / Paralysis due to getting multiple attacks. <strong>SCORPION / Scorpion</strong> - Is pretty powerful for this point in the game and has a chance to Poison you with its physical attack.</p>
 <p>Inside Marsh Cave</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -2168,7 +2186,7 @@
 </table>
 <p><strong>SHADOW / Shadow</strong> - Is not too tough for this point in the game, their attack has a chance to cause the Darkness status which doesn&#39;t work so it is nothing to worry about. Oddly encounters with this enemy are programmed to be an ambush or preemptive never a normal battle. <strong>SCUM / Green Slime</strong> - Is a physical wall and will likely take 1 damage per hit from every physical attack, its physical attack is weak, but has a chance to Poison the member it hits. <strong>CRAWL / Crawler</strong> - Deals very low physical damage, but has a very high chance to Stun / Paralyze the member they hit since they can hit up to 8 times. <strong>MUCK / Gray Ooze</strong> - Contrary to SCUM / Green Slime this one has low physical defense, but has pretty high physical attack. It is a rare encounter so you are likely not going to encounter it often. <strong>GARGOYLE / Gargoyle</strong> - Doesn&#39;t look too strong though its agility is quite high thus it can deal nasty damage when it hits up to 3 times. <strong>R.BONE / Bloodbones</strong> - Can be a pretty nasty enemy due to its strength, however it will mostly appear with groups of other undead so a HARM / Dia with FIR2 / Fira should deal a lot of damage to it and its undead allies.</p>
 <p>Floor Encounters</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Enemy</th>
         <th>Floor Number</th>
@@ -2256,7 +2274,7 @@
 <p>Now that we are in possession of the Mystic Key we can go to a couple of old areas for some new goodies, let&#39;s start with Temple of Fiends / Chaos Shrine the first dungeon of the game. When we were here previously we only had access to the left half of the area, now we have access to the right half. Both areas are guarded by GARGOYLE / Gargoyles the same ones we fought at the Marsh Cave who should pose no threat, note the upper right room you have to fight them twice, once when you enter to get both chests and one more when you have to leave. The lower right room has a Rune Sword / Rune Blade in it this can be equipped by the Fighter / Warrior, Thief &amp; Red Mage it deals extra damage to spellcaster like monsters (not on NES due to a bug) it has 18 Attack and 15 Accuracy and is one of the strongest weapons the Thief can equip. The upper right room has a Were Sword / Werebuster in the chest leading into the room which is exactly like the Rune Blade except a Thief can&#39;t equip this, the Were Sword / Werebuster deals extra damage to enemies who are were type enemies (not on NES due to bug), and a SOFT Potion / Gold Needle. Those on NES / Origins can sell the swords if you have the Silver Sword / Mythril Sword for Fighter / Warrior &amp; Red Mage.</p>
 <p>Next area for our trip is Castle Coneria / Cornelia, at the castle take the Eastern path from where you start to enter the treasure room, you could&#39;ve come here earlier, but these doors were locked by the Mystic Key. The left room has an Iron Armor, an Iron Shield (NES / PS) / Tent (DoS+) &amp; TNT / Nitro Powder...why they would have that in the castle is beyond me, but it is important due to the fanfare. The right room contains a Iron Staff (NES / PS) / Cottage (DoS+), a Sabre / Saber &amp; Silver Knife / Mythril Knife if you were using a Black Mage this is a nice upgrade for them, the Mythril Knife has 10 Attack and 15 accuracy (3 &amp; 5 more respectively than the Large Dagger / Dagger found from the Marsh Cave). If you haven&#39;t done so yet since Astos sell excess equipment and rest up at Coneria / Cornelia and then head back to the Western Keep where we fought Astos.</p>
 <p>At Western Keep you should&#39;ve noticed the room Southwest from where we fought Astos, previously we didn&#39;t have the Mystic Key to access it though now we do so follow the path East of where the throne room is and circle around to the room at the bottom. The treasure room has 3 chests all guarded from the bottom, if you don&#39;t want to fight the enemies open the chests from the sides. The left chest contains a Power Staff which you can give to your Black Mage if you have one, though while more powerful than the Silver Knife / Mythril Knife (12 vs. 10) it does not provide boosted accuracy thus having lower damage (15 vs. 0), it is better sold since you can get a lot of gil for it. The middle chest contains a Falchon / Falchion if you already have the Rune Sword / Rune Blade you won&#39;t need this weapon other than extra gil for selling. The right chest contains Iron Gauntlets / Steel Gloves for the Fighter / Warrior this gives 4 Defense with -5 Evade and a Weight of 5, equip it on them as it is better than the Copper Gauntlets / Bronze Gloves.</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -2296,7 +2314,7 @@
 </table>
 <p><strong>MUMMY / Mummy</strong> - Guards the left and right chests since you have no reason to hold back use FIR2 / Fira and HARM / Dia or HRM2 / Diara (if you bought it) to take care of them, their physical attack has a chance to sleep the member it hits. <strong>IMAGE / Wraith</strong> - Guards the middle chest, their physical attack has a chance to stun / paralyze the member it hits. Strategy is the same as MUMMY / Mummy for it.</p>
 <p>With that done either rest at Elfland / Elfheim or make you way to the Marsh Cave and use a HOUSE / Cottage outside (NES players use a Tent afterward to keep your spell charges) and make you way back to B3 of the cave. With the Mystic Key we now have access to the bottom row of rooms we didn&#39;t on our previous visit. Room 4,1 has a WIZARD / Piscodemon encounter one tile right of the entrance so go around that, the chest has a new fixed encounter with COBRA / Anaconda if you approach from the top. The chest contains a Silver Bracelet / Silver Armlet which can be equipped by everyone, it gives 15 Defense with -1 Evade and a Weight of 1, you can give it to any member who doesn&#39;t already surpass 15 Defense already and needs it (including Black Belt / Monk if they aren&#39;t Lv. 15 on NES). Room 4,2 has a WIZARD / Piscodemon encounter to the left of the chest and COBRA / Anaconda encounter on the bottom, on NES you have to pick one of these two encounters while Origins onward can skip the encounters by taking the extra tile to the right, this chest contains a Silver Knife (NES / PS) / Antidote (DoS+). Room 4,4 has a fixed encounter with WIZARD / Piscodemon that you can&#39;t avoid, the chest contains 1,020 gil.</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -2329,7 +2347,7 @@
 <h2 id="heading-22">Melmond</h2>
 <p>Enemies around here from the dock upward are the same as those from Elfland / Elfheim. Those under the docks and to the West however have some new enemies.</p>
 <p><strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -2466,7 +2484,7 @@
 <p><strong>HYENA / Hyenadon</strong> - Is not too terribly strong of an enemy, they are an uncommon encounter though. <strong>TIGER / Lesser Tiger</strong> - Can be somewhat of a threat if it comes in groups of 3, they are a pretty rare encounter though.</p>
 <p>The town of Melmond is a pretty bleak place, the townspeople speak of a Vampire that destroyed the Clinic and Item Shop so you will not be able to stock up on items here. At the Northeast of the town you meet the &quot;famous&quot; Dr. Unne, at the moment he has nothing of importance for us. If you want to use the Magic for your White &amp; Black Mage you must be level 12 on NES / PS and 19 on DoS+.</p>
 <p><strong>Inn cost:</strong> 100 <strong>Weapon Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item</th>
         <th>Cost (NES / PS Normal)</th>
@@ -2509,7 +2527,7 @@
     </tr>
 </table>
 <p><strong>DoS+:</strong> While the Longsword seems like a good purchase for your Warrior or Red Mage we can get the same weapon NES / PS players have had since before Marsh Cave if you are using either of those 2 classes. <del></del>-- <strong>Armor Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item</th>
         <th>Cost (NES / PS Normal)</th>
@@ -2566,7 +2584,7 @@
     </tr>
 </table>
 <p>While the Steel Armor / Knight&#39;s Armor may seem like a worthwhile armor to have it&#39;s better to save gil as we will eventually get armor that is as powerful without the large weight hindrance. The Silver Bracelet / Silver Armlet is definitely worth the cost as everyone can equip it, those on NES whose Monk isn&#39;t at level 15 will get a slight boost to defense with a minimal evade drop. <del></del>-- <strong>White Magic Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -2614,7 +2632,7 @@
     </tr>
 </table>
 <p>CUR3 / Curaga - The third tier single target healing spell, a nice spell to get for party members who take a big hit and need healing fast. LIFE / Life - Necessary on NES &amp; PS where you don&#39;t have Phoenix Downs to revive members who die and don&#39;t want to walk back to a Clinic, do know that it won&#39;t work in-battle on the NES version. Remakes can decide if you want it or Phoenix Down for reviving dead members. HRM3 / Diaga - The third tier undead damaging spell White Mages have, this one is a bit overkill as not many undead have the HP to warrant buying unless on NES and you want to beat the next bosses in one round with a Red or Black Mage using FIR3 / Firaga. HEL2 / Healara - The second tier party healing spell for White Mages. HEL2 on NES is bugged as one would expect, however it&#39;s bugged in a good way, in battle it functions like the HEL3 spell instead, but outside it acts like it normally would. <del></del>-- <strong>Black Magic Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -2664,7 +2682,7 @@
 <p>FIR3 / Firaga - The high tier Fire damaging spell which is very useful for most of the game with the abundance of undead present. BANE / Scourge - An instant death spell that doesn&#39;t have too high of a hit rate so it will often miss. SLO2 / Slowra - Is good for lowering 1 enemies hit count since it will hit more often than SLOW / Slow, unlike SLOW / Slow it is counted as Non-Elemental so it can bypass enemies who have Time resistance. WARP / Teleport - Will take you back 1 floor when used in a dungeon.</p>
 <p>Those who have a Fighter / Warrior or a Red Mage will want to explore an area we can access with the Ship. From the dock at Melmond head South until you see the bottom tip of the island that looks like tail and head West until you see land and sail under it to dock your Ship.</p>
 <p><strong>Enemies</strong> Crescent Island</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -2756,7 +2774,7 @@
 <h2 id="heading-23">Crescent Lake</h2>
 <p>This area we aren&#39;t supposed to visit yet technically as we need to finish the Earth Cave / Cavern of Earth to get more access of the map, but you can shop here since the stores allow you to buy stuff barring the level 6 magic shops which we shouldn&#39;t worry about yet. You can visit the Circle of Sages on the Eastern part of town if you want to get info on what to do.</p>
 <p><strong>Inn cost:</strong> 200 <strong>Weapon Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item</th>
         <th>Cost (NES / PS Normal)</th>
@@ -2799,7 +2817,7 @@
     </tr>
 </table>
 <p><strong>DoS+:</strong> The Mythril Sword which we didn&#39;t have access to is finally in our grasp and is a much better weapon to use until you class change (if you choose to do so). <del></del>-- <strong>Armor Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item</th>
         <th>Cost (NES / PS Normal)</th>
@@ -2856,7 +2874,7 @@
     </tr>
 </table>
 <p>With the exception of Silver Armor / Mythril Mail all Silver / Mythril equipment is an upgrade for the Fighter / Warrior, if you have a Thief or Red Mage the Buckler is an option of a shield for them to increase their defense. <del></del>-- <strong>White Magic Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -2904,7 +2922,7 @@
     </tr>
 </table>
 <p>SOFT / Stona - You won&#39;t often find yourself using anywhere near enough SOFT Potion / Gold Needles to make this spell worth getting. EXIT / Exit - Is very nice for getting out of dungeons without the hassle of backtracking, and is also the only way NES players are able to leave the endgame dungeon. FOG2 / Protera - A good spell for buffing the groups defense, more useful on DoS+ where there are bosses worth using it for. INV2 / Invisira - A nice spell to buff the groups evade making more hits less likely to hit, I would not recommend buying since there is an item that casts this as a spell for free. <del></del>-- <strong>Black Magic Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -2952,7 +2970,7 @@
     </tr>
 </table>
 <p>LIT3 / Thundaga - The high tier Lightning damaging spell which is good to have another multi target option on a different spell charge / magic level. RUB / Death - The least accurate instant death spell, I wouldn&#39;t recommend it over doing damage which would secure a kill over this. QAKE / Quake - The worst of the instant death spells because a lot of enemies resist Quake and thus is not worth getting. STUN / Stun - An upgrade to HOLD / Hold though just as worthless. <del></del>-- <strong>Item Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -3015,7 +3033,7 @@
 <p><strong>Suggested Level:</strong> 12 (NES / PS), 19 (DoS+) From Melmond head West while hugging the South side of the continent, you will eventually come to an opening to the South and a choice of going West, the West leads to Titan&#39;s Tunnel / Giant&#39;s Cave though we won&#39;t be able to go far as the Titan blocking the path wants a Ruby. Follow the path South and follow in between the mountains to enter the Earth Cave / Cavern of Earth.</p>
 <h2 id="heading-25">Earth Cave / Cavern of Earth</h2>
 <p><strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -3261,7 +3279,7 @@
 </table>
 <p><strong>BULL / Minotaur</strong> - Can hit pretty hard and can hit twice per attack. <strong>GIANT / Hill Gigas</strong> - Is basically a stronger OGRE / Ogre. <strong>TROLL / Troll</strong> - Is about as dangerous as BULL / Minotaur with the added weakness of Fire, they regenerate 9 HP every round they are up (not on NES). <strong>OOZE / Ochre Jelly</strong> - Is a very rare encounter though shouldn&#39;t offer too much of a problem. <strong>COCTRICE / Cockatrice</strong> - Is the most dangerous enemy you&#39;ll face as they can come in large groups (as little as 2 to as much as 6) if they ambush you while appearing in a large group you may consider your run dead, unless on PR where they can still target a Petrified character, as their physical attack, while very weak, has a chance to Petrify your characters.</p>
 <p>Floor Encounters</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Enemy</th>
         <th>Floor Number</th>
@@ -3345,7 +3363,7 @@
         <figcaption>Earth Cave / Cavern of Earth B1 Map</figcaption>
     </figure>
 <p>The Earth Cave / Cavern of Earth entrance sports 4 paths you can go through, the path to the left has a lot of fixed encounter points which will always feature a GIANT / Hill Gigas and occasionally an IGUANA / Lizard (for those who missed the bestiary entry at Pravoka). The North and second South paths have treasure which is guarded on a certain side by an EARTH / Earth Elemental.</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -3389,7 +3407,7 @@
 <p>After you defeat the Vampire open the chest near him to get the Star Ruby. You can continue to the end of the room, but without a certain item we can&#39;t proceed forward so backtrack out of the cave and head back to where the path branched and go West to the Titan&#39;s Tunnel / Giant&#39;s Cave.</p>
 <h2 id="heading-26">Titan&#39;s Tunnel / Giant&#39;s Cave</h2>
 <p><strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -3467,7 +3485,7 @@
 <p>With the gil obtained from the Earth Cave / Cavern of Earth you may want to restock on items and if you want you can buy the Steel Armor / Knight&#39;s Armor from Melmond for your Fighter / Warrior, additionally those on the NES version using a Fighter with a Silver Sword as his weapon may want to grind to level 14 so that his HIT% is 64 so he can get an extra attack off, a good spot to do some grinding is in the path left of B1 of the Earth Cave as all encounters will have a GIANT and can be done quickly with little worry of healing. When you have finished your resupplying head back to B3 where we fought the VAMPIRE / Vampire and continue to the end of the hall and use the Earth Rod to open the path to B4, NES &amp; PS players have to actually use the ROD as an item from the menu.</p>
 <h2 id="heading-27">Earth Cave / Cavern of Earth revisit</h2>
 <p><strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -3651,7 +3669,7 @@
     </tr>
 </table>
 <p>Floor Encounters</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Enemy</th>
         <th>Floor Number</th>
@@ -3719,7 +3737,7 @@
         <figcaption>Earth Cave / Cavern of Earth B4 Map</figcaption>
     </figure>
 <p>This floor has a couple of branching paths few leading to a dead end. The chests on this floor are guarded by new enemies all of which you can choose to skip except for one SPHINX / Sphinx encounter as it&#39;s between 2 chests.</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -3771,7 +3789,7 @@
 <h2 id="heading-28">River encounters</h2>
 <p>With the Canoe in hand we can now travel in rivers, on the NES version there are 2 separate tables for battles in rivers, Southern Hemisphere (bottom half of the map) &amp; Northern Hemisphere (upper half of the map). All versions after the NES have these encounters bugged and thus you are able to fight the tougher Northern Hemisphere encounters on the Southern and vice versa.</p>
 <p><strong>Southern</strong> (NES only)</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -3835,7 +3853,7 @@
 </table>
 <p><strong>CARBINE / Piranha</strong> - Aren&#39;t too tough though appear in large groups. <strong>GATOR / Crocodile</strong> - Is pretty powerful, you will want to deal with them first. <strong>OCHO / Ochu</strong> - Has a lot of HP and isn&#39;t very strong, the only thing dangerous about it is that its physical attack can Poison. <strong>HYDRA / Hydra</strong> - Can hit pretty hard, but otherwise isn&#39;t too tough compared to other enemies.</p>
 <p><strong>Northern</strong> (NES, all continents on remakes)</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -3937,7 +3955,7 @@
 <h1 id="heading-29">Into the Frying Pan</h1>
 <p><strong>Suggested Level:</strong> 15 (NES / PS), 22 (DoS+) The difficulty of Gurgu Volcano / Mount Gulg depends more so on when you get to it, if you do it before class changing it will be a bit difficult without gear from the Ice Cave / Cavern of Ice &amp; Castle of Ordeals / Citadel of Trials, if you do it after you should have little difficulty. To get to the Volcano from Crescent Lake follow the river and head West at the first intersection, then head North and follow the path and turn East then North then West when the path branches, then head West and make your way to the volcano in the center of the area.</p>
 <p><strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -4182,7 +4200,7 @@
 </table>
 <p><strong>R.GOYLE / Horned Devil</strong> - The difficulty lies in what version you are playing, if NES you really don&#39;t want to see it as they will often use FIR2 which can be deadly for your party. From Origins onward they no longer are as threatening since they don&#39;t have Fira and will mostly stick to physical attacks which can paralyze as well as the spell Hold and Fire on a single member. <strong>PERILISK / Pyrolisk</strong> - Is more dangerous than its cousin COCTRICE / Cockatrice, but not in the same sense the Pyrolisk won&#39;t petrify with its physical attack instead it has a Gaze that will do that, in addition it has SQUINT / Gaze which can instantly kill a member. <strong>FIRE / Fire Elemental</strong> - Like its cousin EARTH / Earth Elemental has a strong physical attack and it also flagged as unrunable so keep your HP up incase you run into him when he&#39;s not guarding a chest. <strong>R.HYDRA / Fire Hydra</strong> - Doesn&#39;t deal a lot of damage with its physical attack, but can use CREMATE / Blaze to hit your entire party. <strong>GREY W / Lava Worm</strong> - Has a strong physical attack, but is quite slow so it should be dead before it gets to attack. <strong>CEREBUS / Hellhound</strong> - Is not physically strong and it has access to SCORCH / Blaze, but it will not deal too much damage. If it is encountered with WzOGRE / Ogre Mage the battle can be unrunable. <strong>AGAMA / Fire Lizard</strong> - Is not a big threat due to it always being by itself, it has HEAT / Blaze to hit your entire party, but it should be dead before it gets the chance to use it. <strong>R.GIANT / Fire Gigas</strong> - Is basically a stronger GIANT / Hill Gigas. <strong>Red D / Red Dragon</strong> - Is a very dangerous enemy, having a strong physical attack it has a mighty Blaze attack which will deal heavy damage to your party without AFIR / NulBlaze up.</p>
 <p>Floor Encounters</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Enemy</th>
         <th>Floor Number</th>
@@ -4299,7 +4317,7 @@
 <h1 id="heading-30">Beware of Frostbite</h1>
 <p><strong>Suggested Level:</strong> 15 (NES / PS), 22 (DoS+) The Ice Cave / Cavern of Ice is the next area where you can experience a game over, personally I would go through 2 trips on the NES version due to the abundance of enemies that can wipe your party (and no saving whenever you want). First trip being to go straight for the FLOATER and a second trip later to go for treasure. To get to the Ice Cave / Cavern of Ice from the port where you put the Ship follow the coast North hugging the the Western edge and enter the small opening Northward, you can dock your ship at the small port or use the river to dock you ship. Follow the path until you get to an intersection, then go North, East along the path, ignore the upper route you see and continue West. At the next intersection DoS+ players can go South, however this is a bonus dungeon that we have no access to due to the Fiend we need to defeat. From that intersection head West and follow the path to arrive at the Ice Cave / Cavern of Ice.</p>
 <p><strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -4483,7 +4501,7 @@
 </table>
 <p><strong>FROST D / White Dragon</strong> - A pretty scary monster to run into specially if there are two, not only is its physical attack strong it can do BLIZZARD / Icestorm which can deal major damage to your entire party. <strong>FrWOLF / Winter Wolf</strong> - While physically weak and frail it can be dangerous since they can appear in large groups and have FROST / Icestorm to hit your entire party which due to massive numbers can deal a lot of damage without AICE / NulFrost up, it&#39;s not as strong as FROST D / White Dragons BLIZZARD / Icestorm. <strong>SORCERER / Mindflayer</strong> - The most dangerous encounter in this area, do not let that low attack value fool you it can hit up to 3 times and its physical attack has the chance to instantly kill the member it hits which happens more often than you&#39;d expect, even with instant death protection it will still go through due to it being counted as a non elemental attack. Additionally they have TRANCE / Mind Blast which can paralyze your entire party leaving you at their mercy. If you get the chance you will want to run from this battle for now. <strong>FrGIANT / Ice Gigas</strong> - Basically a stronger GIANT / Hill Gigas, if they are paired with FrWOLF / Winter Wolf (which they usually are) the battle will be flagged as unrunable. <strong>WRAITH / Specter</strong> - A pretty powerful undead enemy that has a chance to stun / paralyze the member it hits, it will tend to come grouped with other undead enemies in an attempt to stun lock you into submission. <strong>GrPEDE / Remorazz</strong> - Is quite powerful, though it will appear by itself so it shouldn&#39;t be too much trouble to dispatch. <strong>MAGE / Dark Wizard</strong> - Another dangerous enemy, this one has access to FIR3 / Firaga &amp; LIT3 / Thundaga which can do major damage to your party specially since they can come in up to groups of 4. They also have BANE / Scourge &amp; RUB / Death to instantly kill your party or one member, there&#39;s also SLO2 / Slowra &amp; STUN / Stun which they will rarely use, like SORCERER / Mindflayer you will want to run if you get the chance.</p>
 <p>Floor Encounters</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Enemy</th>
         <th>Floor Number</th>
@@ -4572,7 +4590,7 @@
 <h1 id="heading-31">Road to Adulthood</h1>
 <p><strong>Suggested Level:</strong> 15 (NES / PS), 22 (DoS+) This portion talks about doing class change it is recommended that you have done the Ice Cave / Cavern of Ice as you will need the Airship to fully class change, if you did get the Airship leave it where it is if you are following this guide. From the dock leading to Crescent Lake head South while hugging the continent, skip the first river spot you can dock by and sail close to the second one that&#39;s closer to the desert, from here head straight South until you hit another continent, then head straight West until you hit another part of this continent. Follow the continent West while hugging it and you will eventually come to an open spot go in and hug the Southern portion while going North and East and dock you ship in the river head West and South to enter the Castle of Ordeals / Citadel of Trials.</p>
 <p><strong>Enemies</strong> Outside</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -4684,7 +4702,7 @@
 </table>
 <p><strong>Saber T / Sabertooth</strong> - Will appear with CATMAN / Weretiger, it is weaker and thus can be left for last after CATMAN / Weretigers are defeated. <strong>WYRM / Wyrm</strong> - A bit strong, but shouldn&#39;t be too hard to handle. <strong>SAURIA / Basilisk</strong> - Is not too terribly strong, but has Gaze attack that can petrify the member if it hits. <strong>CATMAN / Weretiger</strong> - May appear in groups with Saber T / Sabertooth and is the higher priority between the two.</p>
 <p>Inside</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -4796,7 +4814,7 @@
 </table>
 <p><strong>ZomBULL / Minotaur Zombie</strong> - A slightly tougher BULL / Minotaur with Undead characteristics, those who fought these at the Peninsula of Power should have no trouble with them, it is flagged as unrunable. <strong>WzMUMMY / King Mummy</strong> - Can hit pretty hard, though it is often grouped with weaker MUMMY / Mummies making it prime choice for physical attacks while mages take care of the weaker ones. <strong>MEDUSA / Medusa</strong> - Not too physically strong, the danger with her besides appearing in large groups is her Gaze attack may petrify a member, though the hit rate for her tends to be very low, she also has a chance to Poison with her physical attack. <strong>MANCAT / Rakshasa</strong> - Might not seem too powerful, but it has access to the spells FIRE / Fire, FIR2 / Fira, DARK / Dark, SLEP / Sleep, SLOW / Slow &amp; CURE / Cure. They tend to appear in as little as 3 which can be troublesome if a couple decide to do FIR2 / Fira on your entire party. <strong>ZombieD / Dragon Zombie</strong> - Has a strong physical attack that may Stun / Paralyze, unlike other Dragons it doesn&#39;t posses a breath attack to hit your party lowering how threatening it could be, however it is unrunable.</p>
 <p>Floor Encounters</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Enemy</th>
         <th>Floor Number</th>
@@ -4841,7 +4859,7 @@
         <figcaption>Castle of Ordeals / Citadel of Trials 2F Map</figcaption>
     </figure>
 <p>This is basically a teleporter maze a rather simple one though, the room in the upper right has a chest that if you get here empties another chest later, those going for bestiary completion can choose to fight the enemy in a later dungeon, for those who choose to fight it now...</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -4875,7 +4893,7 @@
         <figcaption>Castle of Ordeals / Citadel of Trials 3F Map</figcaption>
     </figure>
 <p>A fairly linear path, the room in the top right corner is guarded by...</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -4917,7 +4935,7 @@
 <p>!Red Wizard on NES / PS won&#39;t have access to spell charges until level 20. @Only if going for bonus dungeons on remakes.</p>
 <p>Those are all towns we&#39;ve been to so time for a new place. This area is the top right of the map from Crescent Lake head straight South you will eventually see the town on the right side in the Airship only accessible town of Gaia.</p>
 <p><strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -5054,7 +5072,7 @@
 <p><strong>WYVERN / Wyvern</strong> - A weaker version of WYRM / Wyrm their danger mainly comes from them being in groups of up to 3, its attack can potentially Poison a member it hits. <strong>MANTICOR / Manticore</strong> - Not terribly strong, the danger comes from its STINGER / Poison Darts attack which can potentially Poison your entire party.</p>
 <p>Gaia has a number of shops though they have very few things to buy, however there is a very important glove equipment you definitely want now (specially DoS / Anniversary players going to bonus dungeons). The residence speak of a faerie who was living in the spring, but she hasn&#39;t been seen for sometime. The level 7 magic shops are right in front of the entrance, the Inn is to the left of that with the Weapon / Armor shop to the left of that, above the Inn is the level 8 magic shops, the item shop is along the road leading up on the Western side of town.</p>
 <p><strong>Inn cost:</strong> 500 <strong>Weapon Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item</th>
         <th>Cost (NES / PS Normal)</th>
@@ -5073,7 +5091,7 @@
     </tr>
 </table>
 <p>This is simply too expensive to even consider buying when there are much better weapons we can get for free or already have, specially since these are exclusive to class changes. <del></del>-- <strong>Armor Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item</th>
         <th>Cost (NES / PS Normal)</th>
@@ -5103,7 +5121,7 @@
     </tr>
 </table>
 <p>Gold Bracelet / Ruby Armlet - If you have the spare gil go ahead and get them as it will last a pretty long time until it needs to be replaced. ProRing / Protect Ring - Definitely get this for everyone, this piece of equipment has the ability to resist death attacks (exception being QAKE / Quake &amp; CRACK / Earthquake) which you will really want (specially for those wanting to grind the EYE / Evil Eye later). <del></del>-- <strong>White Magic Shop</strong> (Level 7)</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -5133,7 +5151,7 @@
     </tr>
 </table>
 <p>CUR4 / Curaja - The ultimate single target healing spell, you will want this incase someone took too large of a hit and you want them back at full HP. HRM4 / Diaja - The ultimate undead damage spell for White Mage, not really necessary since HRM2 / Diara is the highest you&#39;ll really need (even on DoS+ in bonus dungeons). White Wizard on NES / PS won&#39;t have access to spell charges until level 20. <del></del>-- <strong>White Magic Shop</strong> (Level 8)</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -5172,7 +5190,7 @@
     </tr>
 </table>
 <p>FADE / Holy - Is Non-Elemental in this game and White Wizards shouldn&#39;t really be using Lv 8 Spell Charges or MP for damaging spells when equipment used as items suffice enough to kill everything, unless you are on DoS+ and are planning to get a certain Staff that doubles this spells power. WALL / NulAll - This gives one character resistance to all forms of elemental damage and instant death attacks (except SORCERER / Mindflayer), worthwhile to get if you don&#39;t have members without a Ribbon equipped. Dispel - From Origins onward removes beneficial buffs from the target which you won&#39;t find yourself doing often. White Wizard on NES / PS won&#39;t have access to spell charges until level 25. From DoS+ it&#39;s level 39 to learn these. <del></del>-- <strong>Black Magic Shop</strong> (Level 7)</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -5202,7 +5220,7 @@
     </tr>
 </table>
 <p>ICE3 / Blizzaga - The high tier Ice damaging spell which is good to have another multi target option on a different spell charge / magic level. BRAK / Break - An instant death spell on enemies, though spells this late are better used as a damage option on multiple rather than just one. Black Wizard on NES / PS won&#39;t have access to spell charges until level 20. Red Wizard on NES / PS won&#39;t have access to spell charges until level 26. <del></del>-- <strong>Black Magic Shop</strong> (Level 8)</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -5241,7 +5259,7 @@
     </tr>
 </table>
 <p>STOP / Stop - A party wide STUN / Stun, not really worth getting. ZAP! / Warp - An instant death spell that is more accurate than BANE / Scourge. XXXX / Kill - A more accurate RUB / Death. Black Wizard on NES / PS won&#39;t have access to spell charges until level 25. From DoS+ it&#39;s level 39 to learn these. <del></del>-- <strong>Item Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -5301,7 +5319,7 @@
 </table>
 <p>After you have done your shopping (or eyeing the wares for later) enter your Airship and head West you will see a lot of mountains and a river with a waterfall, we&#39;ll go there after the next shopping trip. Head South and you should see a town however you won&#39;t be able to land near it so head South a bit and find a spot to land near the river, then take the river up to the town and enter.</p>
 <p><strong>Enemies</strong> Desert</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -5402,7 +5420,7 @@
 <p><strong>ANKYLO / Desert Baretta</strong> - Can deal a lot of damage if its attack hits, later remakes give him high magic defense making physical the better option.</p>
 <p>Near Onrac has the same encounters as Gaia. The town of Onrac doesn&#39;t have too many shops available, though what they have something worth looking at. The item shop is North of the entrance, with the magic shops in the center of the town and Inn on the lower left.</p>
 <p><strong>Inn cost:</strong> 500 <strong>White Magic Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -5432,7 +5450,7 @@
     </tr>
 </table>
 <p>ARUB / NulDeath - Is good to have for enemies with with QAKE / Quake and CRACK / Earthquake that bypass a ProRing / Protect Ring, not told it also grants protection from all status ailments so it acts as a supplementary Ribbon for parties without said equipment. HEL3 / Healaga - The highest tier party healing spell, this is very much needed on remakes if you plan to do bonus dungeons. White Wizard on NES / PS won&#39;t have access to spell charges until level 20. Red Wizard on NES / PS won&#39;t have access to spell charges until level 26. From DoS+ it&#39;s level 37 to learn these. <del></del>-- <strong>Black Magic Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -5462,7 +5480,7 @@
     </tr>
 </table>
 <p>SABR / Saber - Would be a good spell...if you could choose the target, there is a piece of equipment that has this spells effect which you should aim to get on remakes since the spell does nothing on the NES version. BLND / Blind - Is useless cause the Darkness status ailment doesn&#39;t work. Black Mage / Wizard on NES / PS won&#39;t have access to spell charges until level 20. <del></del>-- <strong>Item Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -5531,7 +5549,7 @@
 <h1 id="heading-33">Under the Waterfall and the Sea</h1>
 <p>From Onrac head to the river and follow it to the North into the waterfall.</p>
 <p><strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -5625,7 +5643,7 @@
     </figure>
 <p>A labyrinth with many dead ends, while here if you aren&#39;t already at 50,000 Gil (40,000 on Origins Easy and later remakes) you will want to get as close as you can for what we will buying after leaving. The forced encounter tile can have WzMUMMY / King Mummy, MUMMY / Mummy, COCTRICE / Cockatrice or PERILISK / Pyrolisk (as much as 9 will take) if you have EXIT / Exit you won&#39;t have to fight it twice, the robot walking around this room has a Warp Cube which we will need for later. The Wizard Staff can only be equipped by Black Wizard, it has 15 Attack and 15 Accuracy, when used as an item it will cast CONF / Confuse. The Ribbon is a headgear that everyone can equip, it has the same defense and evade as a Cap / Leather Cap, but it gives resistance to all elements including instant death (except for attacks from SORCERER / Mindflayer since its attack is counted as non-elemental with Death added). The Defend Sword / Defender is a weapon that can be equipped by Knight, Ninja &amp; Red Wizard, it has 30 Attack and 35 Accuracy which is 1 Attack and 10 Accuracy more than the Ice Sword / Ice Brand, when used as an item it will cast RUSE / Blink.</p>
 <p>After leaving make your way back to your Airship or head into the desert that is West of Onrac, you will notice a small desert patch separated from the rest with a small forest next to it, those on NES can land in the center (due to a bug) where we will find a caravan selling a Bottle for 50,000 Gil (40,000 on Origins Easy and later remakes). After buying that bottle if you go back in, those on NES / PS will see HEAL Potion / Potion, PURE Potion / Antidote &amp; SOFT Potion / Gold Needle being sold. Those on DoS+ however will see</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Item</th>
         <th>Cost</th>
@@ -5670,7 +5688,7 @@
 <p>[[[http://capa.wikidot.com/guide:ff1 | We continue from page 1]]] where we used the submarine to dive into the Sea Shrine / Sunken Shrine.</p>
 <h1 id="heading-37">Sea Shrine / Sunken Shrine</h1>
 <p><strong>Suggested Level:</strong> 18 (NES / PS), 33 (DoS+) <strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -5818,7 +5836,7 @@
 </table>
 <p><strong>WzSAHAG / Sahagin Prince</strong> - They will always appear with 8 R.SAHAG / Sahagin Chiefs (7 if 2 happen to show), they have more attack than R.SAHAG / Sahagin Chief, but will likely be your main target for physical fighters while your Zeus Gauntlet / Gauntlets will wipe out the others. <strong>GrSHARK / White Shark</strong> - Is a stronger SHARK / Shark who they can often appear with, in later remakes they have high magic defense so a  Thundara may not kill them, though their physical defense is pretty low. <strong>BigEYE / Deepeyes</strong> - Like its cousin from the start of the game OddEYE / Bigeyes it will mainly use Gaze to Stun / Paralyze your members, in addition to that it has Flash to cause Darkness to your party which does not work. <strong>SeaSNAKE / Sea Snake</strong> - Will often appear in large groups though they aren&#39;t too much of a threat since a LIT2 / Thundara or Zeus Gauntlets / Gauntlets use should decimate them. <strong>LOBSTER / Sea Scorpion</strong> - Not too threatening specially due to having low HP of the enemies here coupled with the Lightning weakness, their attack has a chance to Poison. <strong>SeaTROLL / Sea Troll</strong> - Basically a slightly stronger TROLL / Troll, it having a weakness to Lightning makes them not as threatening. If they live they will recover 10 HP per turn (not on NES). <strong>GHOST / Ghost</strong> - Has a monstrously high physical attack, the strongest of non boss monsters within the main game and they will usually be in groups of 2 to 5. Their HP is very low so a HRM2 / Diara or FIR2 / Fira should be able to take them out before they do major damage to your group, it is flagged as unrunable. <strong>WATER / Water Elemental</strong> - It has a very high physical attack stat which can hurt, oddly unlike the other enemies it is weak to Ice instead of Lightning, it is flagged as unrunable. <strong>NAGA / Water Naga</strong> - While its attack is low, it has a slew of magic it can use such as LIT2 / Thundara, HOLD / Hold, SLOW / Slow, DARK / Dark, LIT / Thunder, LOCK / Focus &amp; SLEP / Sleep.</p>
 <p>Floor Encounters</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Enemy</th>
         <th>Floor Number</th>
@@ -5903,7 +5921,7 @@
 <h1 id="heading-38">Fortress in the Sky</h1>
 <p>While inside the Sea Shrine / Sunken Shrine there was an item called SLAB / Rosetta Stone in one of the chests on Floor 5, this item is needed to progress with the story as we need 2 items to be able to access the next dungeon one of them you need to be able to understand the residences in order to be given it. With the SLAB / Rosetta Stone head back to Melmond and speak to Dr. Unne who teaches us how to speak the language of Lufenian (despite that we never talk) so we are now able to understand them. Head back to Gaia and head South and park in the one tile that isn&#39;t a forest tile near the mountain.</p>
 <p><strong>Enemies</strong> Lufien / Lufenia area</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -5994,7 +6012,7 @@
 <h2 id="heading-39">Lufien / Lufenia</h2>
 <p>If you didn&#39;t not learn the language of the Lufeninan from Dr. Unne you will not be able to understand anyone, those on remakes get the obligatory Cid mention from the person at the entrance. The item we need to open the next area is given to us by the Lufenian to the right of us from the entrance, make your way to him to get the Chime which is needed to access the Mirage Tower. You may be wondering where the magic shops are since we&#39;ve had only 3 choice for level 8 spells, from the top right corner of the town you will notice a small space you are able to enter, go through it and head right until you see the White and Black magic shops.</p>
 <p><strong>White Magic Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -6015,7 +6033,7 @@
     </tr>
 </table>
 <p>LIF2 / Full-Life - A good spell to fully revive someone to get them back up with no extra healing. <del></del>-- <strong>Black Magic Shop</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Spell (NES / PS+)</th>
         <th>Cost (NES / PS Normal)</th>
@@ -6039,7 +6057,7 @@
 <p>After you are done head out of Lufien / Lufenia and head back to your Airship and fly to the desert South of where the Airship was parked and land on the single non desert tile then head West and slightly North to enter the Mirage Tower, make sure that you went to the Waterfall Cavern to get the Warp Cube because if you don&#39;t have it you will be forced to get it.</p>
 <h1 id="heading-40">Mirage Tower</h1>
 <p><strong>Suggested Level:</strong> 21 (NES / PS), 37 (DoS+) <strong>Enemies</strong> Outside</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -6127,7 +6145,7 @@
 </table>
 <p><strong>R.ANKYLO / Baretta</strong> - Weaker version of its cousin who you can also run into, like ANKYLO / Desert Baretta it has high magic defense so physical attacks are a better option. <strong>Sand W / Sand Worm</strong> - Not too terribly strong though it has access to CRACK / Earthquake which can possible kill party members that don&#39;t have a Ribbon equipped to protect from Quake elemental. <strong>T REX / Tyrannosaur</strong> - One of the two rarest monsters within the main game with an incredibly powerful physical attack, it has high magic defense so physical attacks are a better option.</p>
 <p>Inside</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -6335,7 +6353,7 @@
 </table>
 <p><strong>BADMAN / Black Knight</strong> - Not too terribly strong of an enemy so it should be no trouble to dispatch. <strong>CHIMERA / Chimera</strong> - It has access to Blaze which would be pretty nasty to party members who don&#39;t have fire resistance, specially if a group of 3 show up. <strong>GUARD / Guardian</strong> - A relatively weak enemy who should pose no threat. <strong>Blue D / Blue Dragon</strong> - A pretty dangerous enemy to find since it has access to THUNDER / Thunderbolt which can deal around 150 to members without Lightning resistance, it is flagged as unrunable.</p>
 <p>Floor Encounters</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Enemy</th>
         <th>Floor Number</th>
@@ -6425,7 +6443,7 @@
 <p>An extremely small room head into the room to fight the forced battle against Blue D / Blue Dragon, then take the teleporter up to the next area. If you did not go to the Waterfall Cavern to get the Warp Cube you will not be able to go and have to leave Mirage Tower and go there then come back to proceed.</p>
 <h1 id="heading-41">Sky Fortress / Flying Fortress</h1>
 <p><strong>Suggested Level:</strong> 21 (NES / PS), 37 (DoS+) <strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -6693,7 +6711,7 @@
 </table>
 <p><strong>RockGOL / Stone Golem</strong> - Not as threatening as MudGOL / Clay Golem since they have SLOW / Slow as their spell instead of FAST / Haste, like its cousin it is resistant to all elements making physical the better choice. <strong>AIR / Air Elemental</strong> - Weaker than the WATER / Water Elemental from Sea Shrine / Sunken Shrine so it shouldn&#39;t pose too much of a threat. <strong>GrNAGA / Spirit Naga</strong> - Is quite a threat to meet up with, it won&#39;t use its physical attack often and will generally use Magic such as SLOW / Slow, SLEP / Sleep, FIRE / Fire, LIT / Thunder, HEAL / Heal, RUSE / Blink, DARK / Dark, MUTE / Silence or the attack Poison Gas. This is the second enemy in the game that can use MUTE / Silence, but it&#39;s very rare for it to be cast and you likely have a Ribbon on everyone who could use magic anyway not counting battle items that cast spells. <strong>EVILMAN / Death Knight</strong> - This enemy can be pretty dangerous as he has access to NUKE / Flare &amp; XXXX / Kill, however he will tend to not use magic in favor of physical attacks. He also has XFER / Dispel &amp; BLND / Blind, but those are nothing to worry about. <strong>GrMEDUSA / Earth Medusa</strong> - Pretty weak though they may appear in large groups (up to 4), but otherwise can be threatening depending one how many members don&#39;t have Ribbon or Aegis Shield to protect from her petrifying Glance. <strong>SLIME / Black Flan</strong> - Like SCUM / Green Slime from Marsh Cave they are a physical wall, however they don&#39;t have anything special about them so a FIR2 / Fira or Mage Staff / Mage&#39;s Staff use should take it out easily. <strong>SENTRY / Soldier</strong> - Much more threatening than GUARD / Guardian having more attack and HP than it, there tend to only be 1 of it so it should be easy to take out with Lightning elemental attacks. <strong>WzVAMP / Vampire Lord</strong> - Has low level spells such as ICE / Blizzard, LIT / Thunder, SLEP / Sleep &amp; STUN / Stun all of which aren&#39;t very threatening, interestingly on NES there is a bug where if they cast AFIR due to them being weak to Fire it does nothing for them. <strong>FIGHTER / Dark Fighter</strong> - Despite its name it has a slew of spells to debuff your party (XFER / Dispel), buffs (WALL / NulAll, FOG2 / Protera &amp; INV2 / Invisira) and even healing (HEL3 / Healaga, CUR3 / Curaga &amp; CUR4 / Curaja), they can make a battle get out of hand if left alive long enough.</p>
 <p>Floor Encounters</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Enemy</th>
         <th>Floor Number</th>
@@ -6819,7 +6837,7 @@
 <p><strong>Suggested Level:</strong> 23 (NES / PS), 44 (DoS+) Our journey is coming to a close and it starts where our journey began, those on NES if you don&#39;t have the LUTE make sure to get it from Princess Sarah at Coneria Castle. We take our final visit into the Temple of Fiends / Chaos Shrine, those on the Anniversary Edition will notice a hooded figure appear who you may have seen in Cornelia make their way to the back of the temple, this opens an exclusive area for this version know as the Temple of Time which houses the new Superboss of this version. Make your way straight North and &quot;talk&quot; to the Purple orb which will leave behind a portal for us to walk into.</p>
 <h2 id="heading-43">Temple of Fiends / Chaos Shrine (Past)</h2>
 <p><strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary</th>
@@ -7267,7 +7285,7 @@
 </table>
 <p><strong>JIMERA / Rhyos</strong> - A slightly upgraded CHIMERA / Chimera whom they will often be in a group with them, its POISON / Stone Gas can petrify your party, though by this point everyone should have protection from Stone. <strong>Worm / Purple Worm</strong> - Has a pretty nasty physical attack and later remakes give it a lot of Magic Defense making physical a preferred option. <strong>IronGOL / Iron Golem</strong> - The rarest encounter in the game which has an instant death attack called Toxic which will hit anyone who doesn&#39;t have resistance to Poison, as you should have Ribbons on everyone you should not have to worry outside of him having more defense than other Golems.</p>
 <p>Floor Encounters</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Enemy</th>
         <th>Floor Number</th>
@@ -7482,7 +7500,7 @@
 <p><strong>Unlocked:</strong> After defeating Lich <strong>Location:</strong> Northwest of Cornelia <strong># of floors:</strong> 5</p>
 <p>Home of the original Final Fantasy 3 bosses, Echidna, Cerberus, Ahriman &amp; 2-Headed Dragon from the Dark World will await your challenge on Floor 5, though you can only fight them one at a time so you will have to take at minimum 4 visits.</p>
 <p><strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary #</th>
@@ -7582,7 +7600,7 @@
 </table>
 <p><strong>Abyss Worm</strong> - Is a very deadly enemy to face due to its power and bulk having the highest HP of non boss monsters, if going for the bestiary entry it&#39;s better to wait until endgame. <strong>Black Goblin</strong> - Is a pathetically weak monster that you should have no problem taking down even though they can appear in large groups (up to 9), if your levels are above 50 they will often flee. <strong>Desertpede</strong> - A relatively weak enemy that may appear in large groups, their attack has a chance to Poison. <strong>Gloom Widow</strong> - Is a slightly stronger Tarantula who should pose no threat outside of its attack being able to Poison. <strong>Catoblepas</strong> - Can be a threat as its Gaze attack can Petrify the member it hits. <strong>Wild Nakk</strong> - Like Black Goblin is pathetically weak and can appear in large groups, if your levels are above 50 they will often flee. <strong>Skuldier</strong> - Is not too big of a threat by this point.</p>
 <p><strong>Enemy Location</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Enemy</th>
         <th>Map(s)</th>
@@ -7679,7 +7697,7 @@
         <figcaption>Boss Room of Earthgift Shrine Map</figcaption>
     </figure>
 <p><strong>Bosses</strong> Echidna (#129) HP: 4,800 Attack: 50 Defense: 50 Weak: <del> Resist: [[image Earth.png]][[image Fire.png]][[image Lightning.png]][[image Ice.png]][[image Time.png]][[image Stone.png]][[image Paralysis.png]][[image Poison.png]][[image Blind.png]][[image Sleep.png]][[image Silence.png]][[image Confusion.png]][[image Mind.png]][[image Death.png]] Drop: X-Potion (Always) Echidna mainly focuses on instant death such as the Death spell which can kill one member and Earthquake which can potentially kill your entire party. While Protect Ring can protect you from the Death spell, Earthquake is counted as a Quake elemental attack which bypasses that and can still potentially kill you unless you have NulDeath or NulAll active from your White Wizard (Both) or Red Wizard (NulDeath only) or Ribbons on all characters. She will rarely use Flare which will deal around 250 damage to your entire party. Despite having resistance to Sleep, Sleepra can still land on her. </del><del></del> Cerberus (#130) HP: 4,000 Attack: 40 Defense: 50 Weak: <del> Resist: [[image Earth.png]][[image Fire.png]][[image Lightning.png]][[image Ice.png]][[image Time.png]][[image Stone.png]][[image Paralysis.png]][[image Poison.png]][[image Blind.png]][[image Sleep.png]][[image Silence.png]][[image Confusion.png]][[image Mind.png]][[image Death.png]] Drop: Kotetsu (Always) Cerberus will mainly do a physical attack which will hit in the low 100s and occasionally do Thunderbolt which will do around 300 damage to your party without NulShock/Blue Curtain (or Ribbon). Invisira can help low level parties if you are having trouble with his physical attack. Despite having resistance to Sleep, Sleepra can still land on him. </del><del></del> Ahriman (#131) HP: 5,000 Attack: 60 Defense: 50 Weak: <del> Resist: [[image Earth.png]][[image Fire.png]][[image Lightning.png]][[image Ice.png]][[image Time.png]][[image Stone.png]][[image Paralysis.png]][[image Poison.png]][[image Blind.png]][[image Sleep.png]][[image Silence.png]][[image Confusion.png]][[image Mind.png]][[image Death.png]] Drop: Dry Ether (Always) Of the 4 Ahriman is probably the hardest due to having a wide array of elements at its disposal which include Blaze, Icestorm &amp; Thunderstorm which can deal upward of 300 to your group without protection. Ahriman also has Earthquake which can bypass a Protect Rings protection from Instant Death so having a NulDeath spell active (or Ribbon) really helps. It also has Cura which will heal around 200 HP to it and a minor physical attack which shouldn&#39;t be too much of a problem. </del><del></del> 2-Headed Dragon (#132) HP: 4,500 Attack: 60 Defense: 50 Weak: <del> Resist: [[image Earth.png]][[image Fire.png]][[image Lightning.png]][[image Ice.png]][[image Time.png]][[image Stone.png]][[image Paralysis.png]][[image Poison.png]][[image Blind.png]][[image Sleep.png]][[image Silence.png]][[image Confusion.png]][[image Mind.png]][[image Death.png]] Drop: Bard&#39;s Tunic (Always) 2-Headed Dragon will only do one thing which is a physical attack. Those who played the original FF3 know in that game he could hit upward of 5000+ even on a fully equipped Onion Kid (with the best armor possible), here he hits just as hard as he can hit upwards of 500 damage to your character. One thing that wasn&#39;t possible in FF3 that you can do here however, is cast Slow/Slowra to reduce his hit count effectively trivializing the fight. </del><del></del> <strong>Note worthy Equipment</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Type</th>
@@ -7727,7 +7745,7 @@
 <p><strong>Unlocked:</strong> After defeating Marilith <strong>Location:</strong> East of Onrac, Cardia Island with 2 holes, but no forests on it, lower hole. <strong># of floors:</strong> 10</p>
 <p>Home of the Final Fantasy 4 (2 US SNES) bosses, Scarmiglione, Cagnazzo, Barbariccia &amp; Rubicante the elemental archfiends will await your challenge. Two on Floor 5 and the other two on Floor 10, though you can only fight them one at a time so you will have to take at minimum 2 visits.</p>
 <p><strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary #</th>
@@ -7923,7 +7941,7 @@
 </table>
 <p><strong>Elm Gigas</strong> - Is the weakest of the Gigas enemies and should be easy to dispatch. <strong>Yellow Ogre</strong> - Is not too much stronger than the regular Ogre from the beginning of the game. <strong>Silver Dragon</strong> - The weakest of the Dragon enemies, however it has high magic defense and resists all elements. <strong>Blue Troll</strong> - Despite its name and coloration is weak to Fire attacks thus a Fira will easily dispatch them. <strong>Poison Naga</strong> - Has a Poison Gas attack which can inflict quite a bit of damage to your party, if your levels are above 50 they will often flee. <strong>Dark Elemental</strong> - Due to being a color swap of Earth/Fire Elemental is flagged as unrunable, though by this point it should not be too much of a threat, they have a Flash attack that can cause the Darkness status to the party, but is negligible since it does nothing. <strong>Devil Hound</strong> - Is weaker than Hellhound which you may have fought at Mount Gulg and should pose no threat. <strong>Hundlegs</strong> - Has high magic defense so physical attacks are better to take it out. <strong>Death Elemental</strong> - Are weaker than Water/Air Elementals (whom you may have beaten by now depending on when you go to this area), they have high agility to is may be tough to run away from them. <strong>Sahagin Queen</strong> - Like other Sahagin&#39;s she has high evasion, but she has more magic defense, a Thundara should still be enough to defeat her. <strong>Python</strong> - Shouldn&#39;t pose too much of a threat, if your levels are above 50 they will often flee.</p>
 <p><strong>Enemy Location</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Enemy</th>
         <th>Map type(s)</th>
@@ -7990,7 +8008,7 @@
     </tr>
 </table>
 <p><strong>Map Types</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Type</th>
         <th>Map(s)</th>
@@ -8156,7 +8174,7 @@
     </figure>
 <p>Like the previous boss room you are given the choice to either fight Barbariccia to the East or Rubicante to the West.</p>
 <p><strong>Bosses</strong> Barbariccia (#136) HP: 12,954 Attack: 88 Defense: 10 Weak: <del> Resist: [[image Earth.png]][[image Lightning.png]][[image Time.png]][[image Stone.png]][[image Poison.png]][[image Death.png]] Drop: Braveheart (Always) She will not cover herself in her hair like in the original game. She will often deal around 200 damage with a physical attack and will usually use Ray which can petrify a member, though it will often miss so you will want NulDeath for members without a Ribbon. She can also use Cyclone which can deal 300 damage to the entire party. Her physical defense is much lower than her magic defense so boosting your attackers with a Red/Black Wizard is advised. </del><del></del> Rubicante (#137) HP: 15,000 Attack: 88 Defense: 40 Weak: <del> Resist: [[image Earth.png]][[image Fire.png]][[image Ice.png]][[image Time.png]][[image Stone.png]][[image Poison.png]][[image Death.png]] Drop: Kikuichimonji (Always) He does not have his gimmick of opening and closing his cloak like the original so in this incarnation he doesn&#39;t have a weakness to Ice. He will mainly use Fira, Firaga &amp; Scorch all Fire based moves which you should use NulBlaze/Red Curtain to reduce the damage of. A Red/Black Wizard can choose to cast Thundaga or Flare (Black Wizard only) though his magic defense is very high so you may want to focus on buffing your attackers. </del><del></del> <strong>Note worthy Equipment</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Type</th>
@@ -8225,7 +8243,7 @@
 <p><strong>Unlocked:</strong> After defeating Kraken <strong>Location:</strong> Whirlpool West of Mount Duergar and East of Melmond, you can only enter via the Ship. <strong># of floors:</strong> 20</p>
 <p>Home of the Final Fantasy 5 bosses Gilgamesh &amp; Atomos as well as the first real Superbosses of the series Omega &amp; Shinryu will await your challenge. Gilgamesh is on Floor 5, Atomos on Floor 10 and Omega &amp; Shinryu on Floor 20, though you can only fight either Omega or Shinryu on Floor 20 to leave so you will have to take at minimum 2 visits.</p>
 <p><strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary #</th>
@@ -8529,7 +8547,7 @@
 </table>
 <p><strong>Yellow Dragon</strong> - Relatively weak for this point in the game, it has access to Thunderbolt to deal Lightning damage to your party. <strong>Holy Dragon</strong> - Is quite powerful and may use Holy on your party. <strong>Killer Shark</strong> - Has a pretty powerful physical attack and high HP, but it shouldn&#39;t be too much trouble. <strong>Death Manticore</strong> - A very weak enemy that has access to Blaze to deal small Fire damage to your party, if your levels are above 50 they will often flee. <strong>Dark Eye</strong> - Its Gaze attack has a chance to Paralyze a member without a Ribbon. <strong>Black Dragon</strong> - Is a powerful enemy that has access to Kill which can instantly kill any members that don&#39;t have Death resistance. <strong>Revenant</strong> - A pathetically weak enemy whose attack may paralyze the member it hits, if your levels are above 50 they will often flee.</p>
 <p><strong>Enemy Location</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Enemy</th>
         <th>Map type(s)</th>
@@ -8601,7 +8619,7 @@
 </table>
 <p><strong>Note:</strong> Dragon enemies not listed are found in Dark Bahamut&#39;s Challenge only. Dancing Girls, Library, Flooded Village &amp; Shimmering Walkways have no encounters.</p>
 <p><strong>Map Types</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Type</th>
         <th>Map(s)</th>
@@ -8974,7 +8992,7 @@
 <p>Gilgamesh (#138) HP: 8,800 Attack: 70 Defense: 50 Weak: <del> Resist: [[image Earth.png]][[image Time.png]][[image Stone.png]][[image Poison.png]][[image Death.png]] Drop: Genji Gloves (Always) Gilgamesh can be pretty strong, though he will often use Excalipur which will only do 1 damage. He has access to Protect to raise his defense and NulAll to reduce damage from elemental spells. He can do Wind Slash which will hit all members. Casting Protera &amp; Invisira are recommended if his damage is a little high for your group. </del>--- On Floor 10 you simply need to walk to the right to encounter Atomos and defeat him to pass through the door it is blocking. The path to the right leads to a teleporter which leads outside to the surface while the left leads to the stairs to continue.</p>
 <p>Atomos (#141) HP: 13,000 Attack: 50 Defense: 70 Weak: <del> Resist: [[image Earth.png]][[image Time.png]][[image Stone.png]][[image Poison.png]][[image Death.png]] Drop: Judgement Staff (Always) Atomos&#39; main attack Wormhole has a chance of causing Instant Death on one member, at this point you should easily have a Protect Ring on everyone to negate it from happening, otherwise use a Lunar Curtain or NulDeath spell to null this attack. Atomos&#39; other attacks are Firaga which will deal around 300 damage to anyone without Fire protection and Comet which will deal the same amount to only one member. </del>--- On Floor 20 you have two choices between which boss to face Omega to the left, Shinryu to the right to leave you must defeat one of them or die trying.</p>
 <p>Omega (#139) HP: 35,000 Attack: 115 Defense: 190 Weak: <del> Resist: [[image Earth.png]][[image Fire.png]][[image Ice.png]][[image Time.png]][[image Stone.png]][[image Paralysis.png]][[image Poison.png]][[image Blind.png]][[image Sleep.png]][[image Silence.png]][[image Confusion.png]][[image Mind.png]][[image Death.png]] Drop: Murasame (Always) This is mainly a battle of attrition due to Omegas absurdly high defense stats. The difficulty of the fight depends on whether you did this as early as possible or after going through Whisperwind Cove. Omegas main attacks are Earthquake which can instantly kill if you have no protection against Earth and Wave Cannon which will deal around 200-300 damage. Melee fighters should not try attacking until a couple of Giant&#39;s Gloves/Temper buffs have been put up including Haste from a Ninja, Black Wizard or Red Wizard. Those using a Red Wizard will want to set up some Proteras to lighten Omegas psychical attack as it can deal a lot of damage. White Wizard should stick exclusively to Healara/Healaga while any extra healing from the Healing Staff or Rune Staff from any other units will be useful or damage via Judgement Staff for free Flare uses. </del><del>- Shinryu (#140) HP: 35,000 Attack: 220 Defense: 60 Weak: </del> Resist: [[image Earth.png]][[image Time.png]][[image Stone.png]][[image Poison.png]][[image Death.png]] Drop: Ragnarok (Always) Where Omega is a battle of attrition this is a straight up damage race as Shinryu is not afraid to wipe the party with its barrage of hard hitting moves. Any Giant&#39;s Tonic to increase a characters HP is great if they have less than 799 max. Shinryus moves are Icestorm dealing Ice elemental damage to everyone, Thunderbolt which deals Lightning elemental damage to everyone, Tsunami which deals non-elemental damage to everyone and it&#39;s most dangerous attack you don&#39;t want to see twice in a row Flare which deals hefty non-elemental damage to the party. Haste/Temper your strongest attacker while trying to keep them alive with the White Wizards Healara/Healaga and any spare help from the Healing Staff or Rune Staff. After defeating Shinryu you can open the chest it was guarding which has the best Shield in the game (unless on PSP) the Hero&#39;s Shield which has 16 Defense &amp; 40 Evasion with no Weight, its main perk is that it works like a Ribbon + Protect Ring in that it reduces elemental damage and protects from statuses, it can be equipped by a Knight and Ninja. <del></del>-- <strong>Note worthy Equipment</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Type</th>
@@ -9099,7 +9117,7 @@
 <p><strong>Unlocked:</strong> After defeating Tiamat <strong>Location:</strong> Near Cavern of Ice, South intersection on the path near where you had to go West to enter the Cavern. <strong># of floors:</strong> 40</p>
 <p>Home of the Final Fantasy 6 (3 US SNES) bosses Typhon, Orthros (Ultros), Phantom Train &amp; Death Gaze. Every x0th floor houses a boss to fight Typhon on 10, Orthros on 20, Phantom Train on 30 &amp; Death Gaze on 40.</p>
 <p><strong>Enemies</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Bestiary #</th>
@@ -9630,7 +9648,7 @@
     </tr>
 </table>
 <p><strong>Devil Wizard</strong> - Has access to the Flare spell which can deal a lot of damage if it gets it off. <strong>Flare Gigas</strong> - The strongest of the Gigas enemies with no special trait. <strong>Unicorn</strong> - Not too difficult of an enemy to deal with. <strong>Mage Chimera</strong> - Like other Chimera type enemies it has access to Blaze to deal fire damage to your entire party. <strong>Mythril Golem</strong> - Has nothing special unlike most Golem enemies. <strong>Blood Tiger</strong> - A very weak enemy with nothing noteworthy, if your levels are above 50 they will often flee. <strong>Blood Eye</strong> - Has the spell Death, though you should have Protect Rings by this point to neutralize it&#39;s chance of hitting. <strong>Flood Gigas</strong> - Has nothing special to other Worm enemies that look like it. <strong>Poison Eagle</strong> - Despite the name it&#39;s physical attack doesn&#39;t inflict the Poison status. <strong>Knocker</strong> - The strongest of the Goblin type enemies, shouldn&#39;t pose much of a threat if you have ways of dealing with their large groups. <strong>Duel Knight</strong> - Has nothing special about it. <strong>Squidraken</strong> - Unlike Mindflayer which can instant kill even through Protect Rings, Squidraken does not have that property with it&#39;s attack, however it still has Mind Blast to attempt to Paralyze your party. It has a very nice drop you may want to tray and farm. <strong>Pharaoh</strong> - Like other Mummy type enemies his physical attack has a chance to cause a party member to Sleep. <strong>Bonsesnatch</strong> - Has nothing special about it. <strong>Earth Troll</strong> - Has nothing special about it. <strong>Earth Plant</strong> - Has access to Poison Gas to deal a lot of damage to your party and potentially Poison anyone not resistant to it. <strong>Yamatano Orochi</strong> - Has access to Blaze to deal fire damage to your party. <strong>Sekhret</strong> - Has a pretty strong physical attack, but that&#39;s all it has going for it. <strong>Undergrounder</strong> - It has access to Quake which can potentially kill any party member without protection against Quake element. <strong>Dark Wolf</strong> - Not too threatening as it doesn&#39;t have a means to hit your party like Frost Wolf. <strong>Rock Gargoyle</strong> - Has nothing special about it. <strong>Reaper</strong> - Has access to Dispel to remove your buffs and its attack can paralyze if your member hit doesn&#39;t have protection against it, otherwise should not be to tough to deal with. <strong>Red Flan</strong> - Has perfect physical defense making physical attacks not deal too much damage, though you should have equipment that have spells to deal with them. <strong>Prototype</strong> - Has fairly high magic defense and can deal quite a bit of damage to the member it hits. <del></del>-- <strong>Enemy Equipment Drop</strong> (New)</p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Type</th>
@@ -9673,7 +9691,7 @@
     </tr>
 </table>
 <p><del></del>-- <strong>Note worthy Equipment</strong></p>
-<table>
+<table class="wiki-content-table">
     <tr>
         <th>Name</th>
         <th>Type</th>
@@ -9692,16 +9710,16 @@
 </div>
 </div>
                 </main>
-                <footer class="capa-footer footer-wrap gradient-line line-top-4 pl-4 pr-4" role="contentinfo">
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 ps-4 pe-4" role="contentinfo">
                     <div class="footer">
-                        <div class="footer-title capa-title serif-font strong stroke pr-4">
+                        <div class="footer-title capa-title serif-font strong stroke pe-4">
                             CAPA
                         </div>
                         <div class="footer-links strong">
                             <div class="nav-area">
-                                <a href="/home:home">Home</a> · 
-                                <a href="/home:guide">Guide</a> · 
-                                <a href="/home:article">Article</a>
+                                <a href="/">Home</a> · 
+                                <a href="/guides/">Guide</a> · 
+                                <a href="/articles/">Article</a>
                         </div>
                             <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
                             <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>

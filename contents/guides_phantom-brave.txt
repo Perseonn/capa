@@ -1,6 +1,7 @@
 @title: Phantom Brave
 @author: Buster Wolf
 @updated: 2026-09-25
+@wip
 
 Phantom Brave is a separate Strategy RPG IP from Nippon Ichi Software, if you are used to their quirky and zany humor you won't find as much here as this has a darker tone than they are known for. This was released on the PS2 in 2004, then it was later ported to the Wii (We Meet Again) in 2009 and then again on PSP (The Hermuda Triangle) both of which added Another Marona story and extra characters. The version this guide is based on is the Steam port Phantom Brave PC though most of it should still be doable other versions.
 
