@@ -1,3 +1,4 @@
+
 name: Build and Deploy CAPA
 
 on:
@@ -42,24 +43,37 @@ jobs:
         run: |
           echo "=== dist directory ==="
           find dist -maxdepth 4 -type f | sort
+
           echo "=== asset file count ==="
           find dist/assets -type f 2>/dev/null | wc -l
+
           echo "=== output size ==="
           du -sh dist
-          
+
       - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Assemble deployment site
         run: |
           mkdir -p dist/assets
           cp -a assets/. dist/assets/
 
+      - name: Inspect final deployment folder
+        run: |
+          echo "=== Final deployment files ==="
+          find dist -type f | sort
+
+          echo "=== Asset file count ==="
+          find dist/assets -type f 2>/dev/null | wc -l
+
+          echo "=== Deployment folder size ==="
+          du -sh dist
+
       - name: Upload generated website
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: dist
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
