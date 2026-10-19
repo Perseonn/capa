@@ -90,7 +90,7 @@ The workflow uses 3 active javascript files + 1 pending deletion:
 4. Homepage is customizable via `contents/_index.txt`. This follows Wikidot syntax.
 5. CSS is customizable via `assets/css/site.css`. This is a regular CSS files.
 6. Favicon, by default is stored in `assets/css/favicon.png`.
-7. Category templates are customizable via `contents/category__template.txt.` These follow Wikidot syntax and may contain the `%%content%%` placeholder where the page content is inserted. Other usable variable is `%%created_by_linked%%` (displays author name, but will not link, sadly) and `%%created_at%%`.
+7. Category templates are customizable via `contents/category__template.txt.` These follow Wikidot syntax and may contain the `%%content%%` placeholder where the page content is inserted. Other usable variable is `%%created_by%%` and `%%created_at%%`.
 8. Website's URL needs to be changed in `build.js`, line `const SITE_URL = "";`
 9. Default meta can be changed in `build.js`, line `const default_title = "";`, `const default_author = "";`, `const default_updated = "";`
 

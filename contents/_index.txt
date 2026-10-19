@@ -23,21 +23,24 @@ Guides
 
 [[div class="row mb-4 guides-row"]]
 
+[[div class="col-12 col-md-6 p-0"]]
 [[include component:list-page-item
-|container-class=col-12 col-md-6
+|container-class=large-cards
 |image=img/splash-guides.avif
 |image-class=aspect-1x1
 |link=guides/
 |title=Go to Guides
 |sub-title-class=hidden
 ]]
+[[/div]]
 
-[[div class="col-12 col-md-6"]]
+[[div class="col-12 col-md-6 d-flex"]]
 [[div class="row list-page-item-row"]]
-[[module ListPages category="guides" order="updated_at desc" limit="4" separate="no" wrapper="no"]]
+[[module ListPages category="guides" order="updated_at desc" limit="4"]]
 [[include component:list-page-item
-|container-class=col-6 col-md-6
-|image=/%%fullname%%/%%name%%.avif
+|container-class=col-6 col-md-6 small-cards
+|image-class=fit-contain
+|image=%%fullname%%/%%name%%.avif
 |link=%%fullname%%
 |title=%%title%%
 |sub-title=Published on %%updated_at%%]]
@@ -64,21 +67,24 @@ Articles
 
 [[div class="row mb-4 article-row"]]
 
+[[div class="col-12 col-md-6 p-0"]]
 [[include component:list-page-item
-|container-class=col-12 col-md-6
+|container-class=large-cards
 |image=img/splash-articles.avif
 |image-class=aspect-1x1
 |link=articles/
 |title=Go to Articles
 |sub-title-class=hidden
 ]]
+[[/div]]
 
-[[div class="col-12 col-md-6"]]
-[[div class="row list-page-item-row"]]
-[[module ListPages category="articles" order="updated_at desc" limit="4" separate="no" wrapper="no"]]
+[[div class="col-12 col-md-6 d-flex"]]
+[[div class="row flex-fill list-page-item-row"]]
+[[module ListPages category="articles" order="updated_at desc" limit="4"]]
 [[include component:list-page-item
-|container-class=col-6 col-md-6
-|image=/%%fullname%%/%%name%%.avif
+|container-class=col-6 col-md-6 small-cards
+|image-class=fit-cover
+|image=%%fullname%%/%%name%%-splash.avif
 |link=%%fullname%%
 |title=%%title%%
 |sub-title=Published on %%updated_at%%]]

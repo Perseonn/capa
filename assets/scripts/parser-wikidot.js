@@ -683,6 +683,7 @@ function renderListPages(attributes, body, sourceName) {
             "category": page.category,
             "fullname": fullname,
             "link": link,
+            "created_by": page.author || "",
             "updated_at": page.updated || "",
             "index": String(index + 1),
             "total": String(total),

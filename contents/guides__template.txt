@@ -4,7 +4,7 @@
 |splash-class=full-height
 |splash-style=background-image:url('/assets/%%category%%/%%name%%/%%name%%-splash.avif');
 |text-title=%%title%%
-|text-sub-title=Written by %%created_by_linked%%
+|text-sub-title=Written by %%created_by%%
 |text-extra=Updated at %%created_at%%
 |text-extra-icon=fa fa-clock
 ]]

@@ -306,6 +306,9 @@ footer .footer > div{
 .aspect-16x9{aspect-ratio: 16 / 9;}
 .aspect-9x16{aspect-ratio: 9 / 16;}
 
+.fit-cover{object-fit: cover;}
+.fit-contain{object-fit: contain;}
+
 .flex    {display: flex;}
 .flex li {display: inline-block; width: 100%;}
 
@@ -1274,12 +1277,14 @@ List page Layout
 .list-page-container{
 	padding: 1rem;
 	align-items: end;
-	/*display: grid;*/
-	/*grid-template-columns: 1fr;*/
 }
 
 .list-page-container:hover {
 	transform: scale(1.02);
+}
+
+.list-page-container.small-cards .list-page-image-container{
+	height: calc(100% - 2rem - 1rem - 3px);
 }
 
 .list-page-image-container{
@@ -1288,6 +1293,14 @@ List page Layout
 	background-repeat:no-repeat;
 	grid-column-start: 1;
 	grid-row-start: 1;
+}
+
+.list-page-container.small-cards img{
+	height: 100%;
+}
+
+.list-page-container.small-cards p{
+	margin-bottom: 0rem;
 }
 
 .list-page-text-container{

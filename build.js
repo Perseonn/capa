@@ -287,7 +287,7 @@ function validateMetadata(metadata, sourcePath) {
  */
 
 function applyPageTemplate(page, metadata, content, toc) {
-    if (!page.type) {
+    if (!page.type || !page.slug || page.slug.startsWith("_")) {
         return content;
     }
 
@@ -319,7 +319,7 @@ function applyPageTemplate(page, metadata, content, toc) {
                 : page.slug
         )
         .replaceAll(
-            "%%created_by_linked%%",
+            "%%created_by%%",
             metadata.author ?? ""
         )
         .replaceAll(
