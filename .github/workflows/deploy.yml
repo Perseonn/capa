@@ -41,6 +41,11 @@ jobs:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
+      - name: Assemble deployment site
+        run: |
+          mkdir -p dist/assets
+          cp -a assets/. dist/assets/
+
       - name: Upload generated website
         uses: actions/upload-pages-artifact@v4
         with:
