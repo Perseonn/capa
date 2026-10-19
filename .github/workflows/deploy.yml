@@ -38,6 +38,15 @@ jobs:
       - name: Build CAPA
         run: npm run build
 
+      - name: Inspect build output
+        run: |
+          echo "=== dist directory ==="
+          find dist -maxdepth 4 -type f | sort
+          echo "=== asset file count ==="
+          find dist/assets -type f 2>/dev/null | wc -l
+          echo "=== output size ==="
+          du -sh dist
+          
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
