@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
             : '<i class="fa-solid fa-bars" aria-hidden="true"></i>';
 
         const isMobile = window.matchMedia(
-            "(max-width: 960px)"
+            "(max-width: 991px)"
         ).matches;
 
         document.body.style.overflow =
@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     window.addEventListener("resize", () => {
-        if (window.matchMedia("(min-width: 959px)").matches) {
+        if (window.matchMedia("(min-width: 992px)").matches) {
             setOpen(false);
         }
     });

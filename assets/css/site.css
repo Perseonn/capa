@@ -592,7 +592,7 @@ nav .stroke.site-title a{
 
 /* =============== Mobile Drawer =============== */
 
-@media (max-width: 960px) {
+@media (max-width: 991px) {
 
     /* The header itself must not occupy a row above the article. */
     .capa-nav {
