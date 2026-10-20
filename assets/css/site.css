@@ -78,8 +78,11 @@ tt, .code,
 
 i{font-style: normal;}
 
-.list-page-title,
-b, strong, .strong {
+p:has(.a-target){
+	margin-bottom: 0rem;
+}
+
+.list-page-title,b, strong, .strong {
     font-weight: 700;
 }
 

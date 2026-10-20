@@ -38,7 +38,7 @@ export const customInlineParsers = [
         regex: /^\[\[#([a-zA-Z0-9_-]+)\]\]/,
 
         render: (match) => {
-            return `<span id="${match[1]}"></span>`;
+            return `<span class="a-target" id="${match[1]}"></span>`;
         }
     },
     {
