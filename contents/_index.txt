@@ -11,14 +11,14 @@
 |text-extra-class=hidden
 ]]
 
-[[div class="splash-container guide-splash-overlaid gradient-line line-bottom-4"]]
-[[div class="title-container p-4"]]
-[[div class="page-extra stroke"]]
+[[div_ class="splash-container guide-splash-overlaid gradient-line line-bottom-4"]]
+[[div_ class="title-container p-4"]]
+[[div_ class="page-extra stroke"]]
 [[/div]]
-[[div class="page-sub-title strong stroke"]]
+[[div_ class="page-sub-title strong stroke"]]
 Game walkthroughs, cheat codes, or both!
 [[/div]]
-[[div class="page-title strong stroke"]]
+[[div_ class="page-title strong stroke"]]
 Guides
 [[/div]]
 
@@ -40,8 +40,8 @@ Guides
 [[module ListPages category="guides" order="updated_at desc" limit="4"]]
 [[include component:list-page-item
 |container-class=col-6 col-lg-6 small-cards d-grid
-|image-container-class=h-100
-|image-class=fit-contain h-100
+|image-container-class=bg-white-50 p-1 h-100
+|image-class=fit-contain position-logo-front-page h-100
 |image=%%fullname%%/%%name%%.avif
 |link=%%fullname%%
 |title=%%title%%
@@ -56,14 +56,14 @@ Guides
 [[/div]]
 
 
-[[div class="splash-container article-splash-overlaid gradient-line line-bottom-4"]]
-[[div class="title-container p-4"]]
-[[div class="page-extra stroke"]]
+[[div_ class="splash-container article-splash-overlaid gradient-line line-bottom-4"]]
+[[div_ class="title-container p-4"]]
+[[div_ class="page-extra stroke"]]
 [[/div]]
-[[div class="page-sub-title strong stroke"]]
+[[div_ class="page-sub-title strong stroke"]]
 Game reviews and opinion!
 [[/div]]
-[[div class="page-title strong stroke"]]
+[[div_ class="page-title strong stroke"]]
 Articles
 [[/div]]
 

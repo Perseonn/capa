@@ -1,4 +1,4 @@
-@title: Disgaea: Hour of Darkness
+@title: Disgaea 1: Hour of Darkness
 @author: Buster Wolf
 @updated: 2025-04-06
 

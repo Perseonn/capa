@@ -338,7 +338,7 @@ function applyPageTemplate(page, metadata, content, toc) {
             metadata.author ?? ""
         )
         .replaceAll(
-            "%%created_at%%",
+            "%%updated_at%%",
             metadata.updated ?? ""
         );
 

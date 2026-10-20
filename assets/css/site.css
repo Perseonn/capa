@@ -76,6 +76,8 @@ tt, .code,
 	font-family: var(--mono-font);
 }
 
+i{font-style: normal;}
+
 .list-page-title,
 b, strong, .strong {
     font-weight: 700;
@@ -123,14 +125,9 @@ tt, .code{
 }
 
 
-
 .admins-only .nav-text-container {
 	font-size: calc( var(--base-font-size) * 1);
 }
-
-
-
-
 
 
 .splash-container .title-container .page-title,
@@ -274,8 +271,33 @@ footer .footer > div{
 .fit-cover{object-fit: cover;}
 .fit-contain{object-fit: contain;}
 
+.position-logo-front-page{
+	object-position: 50% 35%;
+}
+
 .flex    {display: flex;}
 .flex li {display: inline-block; width: 100%;}
+
+.no-p-margin p{
+	margin-bottom: 0rem;
+}
+
+.bg-white{
+	background-color: rgba(255,255,255,1);
+}
+
+.bg-white-90{
+	background-color: rgba(255,255,255,0.9);
+}
+
+.bg-white-75{
+	background-color: rgba(255,255,255,0.75);
+}
+
+.bg-white-50{
+	background-color: rgba(255,255,255,0.5);
+}
+
 
 a {
 	color: var(--color-capa);
@@ -534,19 +556,6 @@ CAPA NAV
 ==============================================================================
 */
 
-
-nav .site-title {
-	font-family: var(--serif-font);
-	font-size: calc( var(--base-font-size) * 1 + 4vw);
-	line-height: calc(var(--base-font-size) * 0 + 4vw);
-	color: var(--color-bg);
-}
-
-nav .stroke.site-title,
-nav .stroke.site-title a{
-	-webkit-text-stroke: 0.3rem var(--color-capa);
-}
-
 .capa-nav {
     min-width: 0;
 }
@@ -575,6 +584,44 @@ nav .stroke.site-title a{
 .nav-text-container a:hover {
 	color: var(--color-capa-5);
 }
+
+nav .site-title {
+	font-family: var(--serif-font);
+	font-size: calc(var(--base-font-size) * 1 + 4dvw);
+	/*line-height: calc(var(--base-font-size) * 4);*/
+}
+
+@media (max-width: 991px){
+	nav .site-title {
+		font-size: calc(var(--base-font-size) * 4);
+	}
+	.img-site-title{
+		aspect-ratio: 4/1;
+	}
+}
+
+
+
+nav .site-title a{
+	color: var(--color-bg);
+	transform: translateY(4px);
+}
+
+nav .stroke.site-title,
+nav .stroke.site-title a{
+	-webkit-text-stroke: 0.3rem var(--color-capa);
+}
+
+.nav-image-container:hover + .nav-text-container.site-title a,
+nav .site-title a:hover{
+	color: var(--color-capa);
+}
+
+.nav-image-container:hover + .nav-text-container.stroke.site-title a,
+nav .stroke.site-title a:hover{
+	-webkit-text-stroke: 0.3rem var(--color-capa-1);
+}
+
 
 
 
@@ -1097,7 +1144,7 @@ a#rename-hide-backlinks {
 
 /*
 ==============================================================================
-PAGE SPLASH, GRADIENT, FOOTER
+PAGE SPLASH, GRADIENT
 ==============================================================================
 */
 .splash-container{
@@ -1130,9 +1177,9 @@ PAGE SPLASH, GRADIENT, FOOTER
 	height: 100vh;
 }
 
-.generic-splash {
+.capa-tile {
 	background-image: url('/assets/img/capa-tile-v2.webp');
-	background-attachment: fixed;
+	background-repeat: repeat;
 }
 
 .main-splash{
@@ -1202,6 +1249,12 @@ PAGE SPLASH, GRADIENT, FOOTER
 	padding: 0;
 }
 
+/*
+==============================================================================
+FOOTER
+==============================================================================
+*/
+
 footer.footer-wrap {
 	background: var(--color-capa);
 }
@@ -1215,7 +1268,13 @@ footer .footer{
 	display: flex;
 	align-content: center;
 	flex-wrap: wrap;
-	padding-top: 0.5rem;
+}
+
+.footer-title a{
+	color: var(--color-capa)
+}
+.footer-title a:hover{
+	color: var(--color-capa-5)
 }
 
 .footer-links {
@@ -1242,7 +1301,7 @@ Unknown
 
 /*
 ==============================================================================
-List page Layout
+ListPages Layout
 ==============================================================================
 */
 .list-page-container{
@@ -1262,9 +1321,6 @@ List page Layout
 	grid-row-start: 1;
 }
 
-.list-page-container.small-cards p{
-	margin-bottom: 0rem;
-}
 
 .list-page-text-container{
 	grid-row-start: 1;
@@ -1278,7 +1334,7 @@ List page Layout
 
 .list-page-text-container {
 	overflow: hidden;
-    	text-overflow: ellipsis;
+    text-overflow: ellipsis;
 	white-space: nowrap;
 }
 
@@ -1287,11 +1343,9 @@ List page Layout
 	margin-top: -0.8rem;
 }
 
-/* Unused Version 1
-.list-page-text-container{margin-top:-0.5rem;}
-.list-page-title a::after {content: ' ☙';opacity: 0;transition-duration: 0.2s;}
-.list-page-title a:hover::after {opacity: 1;}
-*/
+.large-cards .list-page-text-container{
+	padding-bottom:1rem;
+}
 
 /*
 ==============================================================================
@@ -1967,10 +2021,11 @@ Cookie Run Kingdom / CRK Image CSS
 
 /*
 ==============================================================================
-Controller CSS
+Icon: Controller CSS
 ==============================================================================
 */
 
+.ct,
 .controller{
 	font-family: controller;
 	font-size: calc(var(--base-font-size) * 1.4);
@@ -2004,6 +2059,63 @@ Controller CSS
 
 .controller-ps4{font-family: controller-ps4;}
 
+.ct.dir,
+.ct.qcf::before,
+.ct.qcfqcf::before,
+.ct.qcb::before,
+.ct.hcf::before,
+.ct.hcb::before,
+.ct.dpf::before,
+.ct.dpfdpf::before,
+.ct.dpb::before,
+.ct.fcf::before,
+.ct.d9::before,
+.ct.d8::before,
+.ct.d7::before,
+.ct.d6::before,
+.ct.d4::before,
+.ct.d3::before,
+.ct.d2::before,
+.ct.d1::before{
+	font-weight:700;
+}
+
+.ct.qcf::before   {content:'@#^'}
+.ct.qcfqcf::before{content:'@#^@#^'}
+.ct.qcb::before   {content:'@!$'}
+.ct.hcf::before   {content:'$!@#^'}
+.ct.hcb::before   {content:'^#@!$'}
+.ct.dpf::before   {content:'^@#'}
+.ct.dpfdpf::before{content:'^@#^@#'}
+.ct.dpb::before   {content:'$@!'}
+.ct.fcf::before   {content:'^#@!$&*(^'}
+.ct.d6::before    {content:'^'}
+.ct.d2::before    {content:'@'}
+.ct.d4::before    {content:'$'}
+.ct.d8::before    {content:'*'}
+.ct.d3::before    {content:'#'}
+.ct.d1::before    {content:'!'}
+.ct.d7::before    {content:'&'}
+.ct.d9::before    {content:'('}
+.ct.s::before     {content:'A'}
+.ct.t::before     {content:'B'}
+.ct.o::before     {content:'C'}
+.ct.x::before     {content:'D'}
+.ct.l1::before    {content:'['}
+.ct.l2::before    {content:'{'}
+.ct.r1::before    {content:']'}
+.ct.r2::before    {content:'}'}
+.ct.sel::before   {content:'?'}
+.ct.sta::before   {content:'/'}
+.ct.plus::before  {content:'+'}
+.ct.dd6::before   {content:'6'}
+.ct.dd2::before   {content:'2'}
+.ct.dd4::before   {content:'4'}
+.ct.dd8::before   {content:'8'}
+.ct.dd3::before   {content:'3'}
+.ct.dd1::before   {content:'1'}
+.ct.dd7::before   {content:'7'}
+.ct.dd9::before   {content:'9'}
 
 /*
 ==============================================================================

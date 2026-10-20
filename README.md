@@ -41,7 +41,7 @@ The workflow uses 3 active javascript files + 1 pending deletion:
 
 ### Available Syntax
 1. General in-line syntax: `**bold**`, `//italic//`, `__underline__`, `--strikethrough--`, `{{monospaced}}`, `^^superscript ^^`, `,,subscript,,`, `##f0f0f0 | hex-only colors##`.
-2. HTML syntax: `[[div]]`, `[[a]]`, `[[span]]`. Currently only accepts `class=""` parameter.
+2. HTML syntax: `[[div]] [[/div]]`, `[[div_]] [[/div]]` (disables `<p>` wrappers), `[[a]] [[/a]]`, `[[span]] [[/span]]`. Currently only accepts `class=""` parameter.
 3. Headings from + to ++++
 4. Tables, using `|| ||` for table data and and `||~ ||` for Table Heading.
 5. Unnumbered and Ordered List, starting line with `*` and `#`.
@@ -80,10 +80,11 @@ The workflow uses 3 active javascript files + 1 pending deletion:
 
 ### Custom Syntax
 1. Link `[[link /sample | caption | class]]`.
-2. Image `[[image sample.png | caption | class]]`, by default uses the `assets/category/page-name/` structure as mentioned in Workflow #6.
+2. Image `[[image sample.png | caption | class]]`, by default uses the `assets/category/page-name/` structure as mentioned in Workflow #6. Images are not inline! if you want inline images such as for icons, use `[[icon]]`.
 3. Youtube `[[youtube id]]`, customizable via `contents/_youtube.html`
 4. Anchor Target `[[#go-to-here]]` that generates empty `<span id="#go-to-here"></span>` that can be followed to using `[[a href="#go-to-here"]][[/a]]`, to reduce dependency to the ToC.
-5. Icon `[[icon | class]]` that generates `<i class="class"></i>`.
+5. Icon `[[i | class]]` that generates `<i class="class"></i>`. Use with CSS `i{font-style: normal;}` to prevent italics.
+
 
 ### Custom Meta
 Source files can have custom metas. If no metas are assigned, default meta will be given from `build.js`. See **Customizable Files #9** below.
@@ -100,7 +101,7 @@ Source files can have custom metas. If no metas are assigned, default meta will 
 4. Homepage is customizable via `contents/_index.txt`. This follows Wikidot syntax.
 5. CSS is customizable via `assets/css/site.css`. This is a regular CSS files.
 6. Favicon, by default is stored in `assets/css/favicon.png`.
-7. Category templates are customizable via `contents/category__template.txt.` These follow Wikidot syntax and may contain the `%%content%%` placeholder where the page content is inserted. Other usable variable is `%%created_by%%` and `%%created_at%%`.
+7. Category templates are customizable via `contents/category__template.txt.` These follow Wikidot syntax and may contain the `%%content%%` placeholder where the page content is inserted. Other usable variable is `%%created_by%%` and `%%updated_at%%`.
 8. Website's URL needs to be changed in `build.js`, line `const SITE_URL = "";`
 9. Default meta can be changed in `build.js`, line `const default_title = "";`, `const default_author = "";`, `const default_updated = "";`
 
@@ -132,4 +133,11 @@ The following is the base HTML for `<nav>` on `_nav.html`
 ```
 <nav>
 </nav>
+```
+
+## Default Syntax for Linking Image
+```
+[[a href="/{$link}"]]
+[[image /{$image} | | {$image-class}]]
+[[/a]]
 ```

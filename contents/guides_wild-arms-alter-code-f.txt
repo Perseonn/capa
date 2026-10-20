@@ -1,4 +1,4 @@
-@title: Wild Arms
+@title: Wild Arms Alter Code F
 @author: Perseonn Balthasaar
 @updated: 2025-03-10
 

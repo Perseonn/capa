@@ -43,7 +43,7 @@ export const customInlineParsers = [
     },
     {
         name: "icon",
-        regex: /^\[\[icon(?:\s*\|\s*([^\]]*?))?\]\]/,
+        regex: /^\[\[i(?:\s*\|\s*([^\]]*?))?\]\]/,
 
         render: (match) => {
             const classes = (match[1] || "").trim();

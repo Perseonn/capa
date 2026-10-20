@@ -1,4 +1,4 @@
-@title: CAPA Articles
+@title: Articles
 @author: Perseonn Balthasaar
 @updated: 2026-09-26
 @description: Perseonn's Game reviews and opinion!
@@ -11,13 +11,14 @@
 |text-extra-class=hidden
 ]]
 
-[[div class="row p-4 m-0"]]
+[[div class="row p-4 m-0 capa-tile"]]
 
 [[module ListPages category="articles" order="updated_at desc" perPage="40"]]
 [[include component:list-page-item
-|container-class=col-xs-12 col-sm-6 col-md-4
+|container-class=col-12 col-xs-6 col-md-4
+|image-container-class=h-100
+|image-class=fit-cover h-100
 |image=%%fullname%%/%%name%%-splash.avif
-|image-class=aspect-16x9
 |link=%%fullname%%
 |title=%%title%%
 |sub-title=by %%created_by%%

@@ -505,30 +505,34 @@ function parseImage(line, sourceName) {
 
 /* 
  * =============== =============== =============== ===============
- * Parse Div [[div]] [[/div]]
+ * Parse Div [[div]] [[/div]] or [[div_]] [[/div]] for a variant that doesnt put paragraph in-between.
  * =============== =============== =============== ===============
  */
 function parseDivStart(line) {
     const match = line.trim().match(
-        /^\[\[div(?:\s+class="([^"]*)")?(?:\s+style="([^"]*)")?\]\]$/
+        /^\[\[div(_)?(?:\s+class="([^"]*)")?(?:\s+style="([^"]*)")?\]\]$/
     );
 
     if (!match) {
         return null;
     }
 
-    const className = match[1] ?? "";
-    const style = match[2] ?? "";
+    const isInline = match[1] === "_";
+    const className = match[2] ?? "";
+    const style = match[3] ?? "";
 
     const classAttribute = className
         ? ` class="${escapeHtml(className)}"`
         : "";
 
-    const styleAttribute = match[2] !== undefined
+    const styleAttribute = match[3] !== undefined
         ? ` style="${escapeHtml(style)}"`
         : "";
 
-    return `<div${classAttribute}${styleAttribute}>`;
+    return {
+        html: `<div${classAttribute}${styleAttribute}>`,
+        isInline
+    };
 }
 
 function parseDivEnd(line) {
@@ -913,7 +917,8 @@ export function parseWikidot(source, sourceName, customInlineParsers = [], tocOv
     const lines = source.split(/\r?\n/);
     const output = [];
     const toc = [];
-
+    
+    let insideDivUnderscore = false;
     let paragraph = [];
 
     function flushParagraph() {
@@ -930,7 +935,11 @@ export function parseWikidot(source, sourceName, customInlineParsers = [], tocOv
             return;
         }
 
-        output.push(`<p>${parsed}</p>`);
+        if (insideDivUnderscore) {
+            output.push(parsed);
+        } else {
+            output.push(`<p>${parsed}</p>`);
+        }
 
         paragraph = [];
     }
@@ -1012,7 +1021,10 @@ export function parseWikidot(source, sourceName, customInlineParsers = [], tocOv
 
         if (divStart !== null) {
             flushParagraph();
-            output.push(divStart);
+
+            output.push(divStart.html);
+            insideDivUnderscore = divStart.isInline;
+
             index++;
             continue;
         }
@@ -1024,8 +1036,13 @@ export function parseWikidot(source, sourceName, customInlineParsers = [], tocOv
         const divEnd = parseDivEnd(line);
 
         if (divEnd !== null) {
-            flushParagraph();
+            if (!insideDivUnderscore) {
+                flushParagraph();
+            }
+
             output.push(divEnd);
+            insideDivUnderscore = false;
+
             index++;
             continue;
         }
@@ -1142,7 +1159,16 @@ export function parseWikidot(source, sourceName, customInlineParsers = [], tocOv
         /*
          * Normal paragraph
          */
-        paragraph.push(line.trim());
+        if (insideDivUnderscore) {
+            const text = line.trim();
+            const parsed = parseInline(text, customInlineParsers);
+
+            if (parsed.trim() !== "") {
+                output.push(parsed);
+            }
+        } else {
+            paragraph.push(line.trim());
+        }
 
         index++;
     }

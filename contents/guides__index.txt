@@ -1,4 +1,4 @@
-@title: CAPA Guides
+@title: Guides
 @author: Perseonn Balthasaar
 @updated: 2026-09-26
 @description: Game walkthroughs, cheat codes, or both!
@@ -11,13 +11,14 @@
 |text-extra-class=hidden
 ]]
 
-[[div class="row p-4 m-0"]]
+[[div class="row p-4 m-0 capa-tile"]]
 
-[[module ListPages category="guides" order="title" perPage="40"]]
+[[module ListPages category="guides" order="title"]]
 [[include component:list-page-item
-|container-class=col-xs-12 col-sm-6 col-md-4
+|container-class=col-12 col-xs-6 col-md-4
+|image-container-class=bg-white-50 p-1
+|image-class=fit-cover aspect-16x9
 |image=%%fullname%%/%%name%%.avif
-|image-class=aspect-16x9
 |link=%%fullname%%
 |title=%%title%%
 |sub-title=by %%created_by%%

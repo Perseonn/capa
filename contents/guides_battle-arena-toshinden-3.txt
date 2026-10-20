@@ -17,676 +17,676 @@ Toshinden 3 is the third installment in one of the very first, if not the very f
 
 + Basic Commands
 ||~ Command ||~ Name ||~ Notes ||
-|| [[span class="controller "]]A[[/span]] || Weak Slash || ##CCC|――――――――## ||
-|| [[span class="controller "]]B[[/span]] || Strong Slash || ##CCC|――――――――## ||
-|| [[span class="controller "]]C[[/span]] || Weak Kick || ##CCC|――――――――## ||
-|| [[span class="controller "]]D[[/span]] || Strong Kick || ##CCC|――――――――## ||
-|| [[span class="controller "]]4[[/span]] || High Block || ##CCC|――――――――## ||
-|| [[span class="controller "]]1[[/span]] || Low Block || ##CCC|――――――――## ||
-|| Example [[span class="controller "]]**@@^@@**A[[/span]] || Tap input || You can tap the button with a certain delay, including motion inputs. ||
-|| Example [[span class="controller "]]**@@^@@**+A[[/span]] || Simultaneous input || You need to push the button together. ||
-|| Example [[span class="controller "]]6A[[/span]] || Hold input || Must hold the directional button; most of the time, simultaneous input will also work. ||
-|| [[span class="controller "]]**@@$@@**+B[[/span]] || Reversal Attack || Knockbacks your opponent. Has super armor on activation. Some characters have more than one reversal attack. ||
-|| [[span class="controller "]]B+D[[/span]] || Throw || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@$@@**B+D[[/span]] || Switch side throw || ##CCC|――――――――## ||
-|| [[span class="controller "]]A+C[[/span]] || Soul Bomb || Can also be done in air. ||
-|| [[span class="controller "]]**@@^@@**6[[/span]] || Dash || "While dashing" moves refers to this forward dashing or when character still in momentum after the forward button is no longer held. ||
-|| [[span class="controller "]]**@@$@@**4[[/span]] || Back Dash || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@**[[/span]] || Roll || You cannot choose direction. ||
-|| [[span class="controller "]][[[/span]] || Foreground Roll || Only usable if roll is on shoulder button ||
-|| [[span class="controller "]]{[[/span]] || Background Roll || Only usable if roll is on shoulder button ||
-|| While dashing [[span class="controller "]][[[/span]] or [[span class="controller"]]{[[/span]] || Sidestep || Only usable if roll is on shoulder button ||
-|| While hitting wall [[span class="controller "]]A[[/span]] or [[span class="controller"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Wall recovery bounce || ##CCC|――――――――## ||
-|| While hitting wall [[span class="controller "]]B[[/span]] || Wall recovery attack || You can comedically slam to another wall and fall down. ||
-|| While being knocked back airborne [[span class="controller "]]D[[/span]] || Mid-air recovery || ##CCC|――――――――## ||
-|| [[span class="controller "]]?[[/span]] || Taunt || Also the reload button, but some characters don't reload. ||
+|| [[i|ct s]] || Weak Slash || ##CCC|――――――――## ||
+|| [[i|ct t]] || Strong Slash || ##CCC|――――――――## ||
+|| [[i|ct x]] || Weak Kick || ##CCC|――――――――## ||
+|| [[i|ct o]] || Strong Kick || ##CCC|――――――――## ||
+|| [[i|ct dd4]] || High Block || ##CCC|――――――――## ||
+|| [[i|ct dd1]] || Low Block || ##CCC|――――――――## ||
+|| Example [[i|ct d6]][[i|ct s]] || Tap input || You can tap the button with a certain delay, including motion inputs. ||
+|| Example [[i|ct d6]][[i|ct plus]][[i|ct s]] || Simultaneous input || You need to push the button together. ||
+|| Example [[i|ct dd6]][[i|ct s]] || Hold input || Must hold the directional button; most of the time, simultaneous input will also work. ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] || Reversal Attack || Knockbacks your opponent. Has super armor on activation. Some characters have more than one reversal attack. ||
+|| [[i|ct t]][[i|ct plus]][[i|ct o]] || Throw || ##CCC|――――――――## ||
+|| [[i|ct d4]][[i|ct t]][[i|ct plus]][[i|ct o]] || Switch side throw || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct plus]][[i|ct x]] || Soul Bomb || Can also be done in air. ||
+|| [[i|ct d6]][[i|ct dd6]] || Dash || "While dashing" moves refers to this forward dashing or when character still in momentum after the forward button is no longer held. ||
+|| [[i|ct d4]][[i|ct dd4]] || Back Dash || ##CCC|――――――――## ||
+|| [[i|ct d2]][[i|ct d2]] || Roll || You cannot choose direction. ||
+|| [[i|ct l1]] || Foreground Roll || Only usable if roll is on shoulder button ||
+|| [[i|ct l2]] || Background Roll || Only usable if roll is on shoulder button ||
+|| While dashing [[i|ct l1]] or [[i|ct l2]] || Sidestep || Only usable if roll is on shoulder button ||
+|| While hitting wall [[i|ct s]] or [[i|ct x]] or [[i|ct o]] || Wall recovery bounce || ##CCC|――――――――## ||
+|| While hitting wall [[i|ct t]] || Wall recovery attack || You can comedically slam to another wall and fall down. ||
+|| While being knocked back airborne [[i|ct o]] || Mid-air recovery || ##CCC|――――――――## ||
+|| [[i|ct sel]] || Taunt || Also the reload button, but some characters don't reload. ||
 + Eiji and Leon
 ||~ Command ||~ Eiji Shinjo ||~ Leon ||
-|| [[span class="controller "]]**@@^@@**+A[[/span]] || Oni'uchi || Knuckle Purge ||
-|| [[span class="controller "]]**@@$@@**+D[[/span]] || ##CCC|――――――――## || Nightmare ||
-|| [[span class="controller "]]**@**B[[/span]] || Wata Age || Knuckle Shoot ||
-|| [[span class="controller "]]**@@!#@@**+B[[/span]] || Ashinagi || Grand Stalk ||
-|| [[span class="controller "]]**@@$@@**A[[/span]] || Tetsubishi || Knuckle Spark ||
-|| [[span class="controller "]]**@@$^@@**+B[[/span]] || Ago Nagi || Upper Stalk ||
-|| While dashing [[span class="controller "]]**@**+C[[/span]] || Shuugekidan || Big Shooter ||
-|| While dashing [[span class="controller "]]**@@$@@**+B[[/span]] || Kikaku || Iron Head ||
-|| Facing away [[span class="controller "]]A[[/span]] or [[span class="controller"]]B[[/span]] || Ura Oni'uchi || Rapid Knuckle ||
-|| Facing away [[span class="controller "]]C[[/span]] or [[span class="controller"]]D[[/span]] || Ryou'ashigeri || Big Wave ||
-|| [[span class="controller "]]**@@$@@**+B[[/span]] || Kakugo'kourin || Desperate Knuckle ||
-|| [[span class="controller qcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Rekkuuzan || Nitrogen Breath ||
-|| [[span class="controller dpf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Hishouzan || Midnight Beyond ||
-|| [[span class="controller dpb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Mukurowari || Skull Crush ||
-|| [[span class="controller hcb"]]B[[/span]] || Zenten Nage || Rolling Stone ||
-|| [[span class="controller dpfdpf"]]B[[/span]] || Enjinshuraha || Nitrogen Blast ||
-|| [[span class="controller "]]A+B[[/span]] or [[span class="controller"]]C+D, [[/span]] On last hit [[span class="controller"]]B[[/span]] || Jigokumon || Iron Heaven ||
-|| [[span class="controller "]]**@@^$^@@**B[[/span]] || Hyakkimoushuuken || Iron Maiden ||
-|| [[span class="controller "]]AAAA[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AAAB[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AABBB[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]AABB**@**B[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]AABB**@@$@@**B[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]AAB**@**A[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]ACA[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]A**@@^@@**AAA**@**A[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]A**@@^@@**AAA**@**A[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]A**@@^@@**AAA**@**B[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]A**@@^@@**ABBB[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]A**@@^@@**ABB**@**B[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]A**@@^@@**ABB**@@$@@**B[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]**@@^@@**AAAA[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@^@@**AAAB[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@^@@**AAA**@**A[[/span]] || ✔ || ##CCC|――――――――## ||
-|| Facing away [[span class="controller "]]AAAAA[[/span]] || ✔ || ##CCC|――――――――## ||
-|| Facing away [[span class="controller "]]AAAAB[[/span]] || ✔ || ##CCC|――――――――## ||
-|| Facing away [[span class="controller "]]AAABBB[[/span]] || ##CCC|――――――――## || ✔ ||
-|| Facing away [[span class="controller "]]AAABB**@**B[[/span]] || ##CCC|――――――――## || ✔ ||
-|| Facing away [[span class="controller "]]AAABB**@@$@@**B[[/span]] || ##CCC|――――――――## || ✔ ||
-|| Facing away [[span class="controller "]]AAAB**@**A[[/span]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct s]] || Oni'uchi || Knuckle Purge ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct o]] || ##CCC|――――――――## || Nightmare ||
+|| [[i|ct d2]][[i|ct t]] || Wata Age || Knuckle Shoot ||
+|| [[i|ct d1]][[i|ct d3]][[i|ct plus]][[i|ct t]] || Ashinagi || Grand Stalk ||
+|| [[i|ct d4]][[i|ct s]] || Tetsubishi || Knuckle Spark ||
+|| [[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || Ago Nagi || Upper Stalk ||
+|| While dashing [[i|ct d2]][[i|ct plus]][[i|ct x]] || Shuugekidan || Big Shooter ||
+|| While dashing [[i|ct d4]][[i|ct plus]][[i|ct t]] || Kikaku || Iron Head ||
+|| Facing away [[i|ct s]] or [[i|ct t]] || Ura Oni'uchi || Rapid Knuckle ||
+|| Facing away [[i|ct x]] or [[i|ct o]] || Ryou'ashigeri || Big Wave ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] || Kakugo'kourin || Desperate Knuckle ||
+|| [[i|ct qcf]][[i|ct s]] or [[i|ct t]] || Rekkuuzan || Nitrogen Breath ||
+|| [[i|ct dpf]][[i|ct s]] or [[i|ct t]] || Hishouzan || Midnight Beyond ||
+|| [[i|ct dpb]][[i|ct s]] or [[i|ct t]] || Mukurowari || Skull Crush ||
+|| [[i|ct hcb]][[i|ct t]] || Zenten Nage || Rolling Stone ||
+|| [[i|ct dpfdpf]][[i|ct t]] || Enjinshuraha || Nitrogen Blast ||
+|| [[i|ct s]][[i|ct plus]][[i|ct t]] or [[i|ct x]][[i|ct plus]][[i|ct o]] On last hit [[span class="controller"]]B[[/span]] || Jigokumon || Iron Heaven ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct t]] || Hyakkimoushuuken || Iron Maiden ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct t]][[i|ct t]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct t]][[i|ct t]][[i|ct d2]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct t]][[i|ct t]][[i|ct d4]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct t]][[i|ct d2]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct x]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct d6]][[i|ct s]][[i|ct s]][[i|ct s]][[i|ct d2]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct d6]][[i|ct s]][[i|ct s]][[i|ct s]][[i|ct d2]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct d6]][[i|ct s]][[i|ct s]][[i|ct s]][[i|ct d2]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct d6]][[i|ct s]][[i|ct t]][[i|ct t]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct d6]][[i|ct s]][[i|ct t]][[i|ct t]][[i|ct d2]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct d6]][[i|ct s]][[i|ct t]][[i|ct t]][[i|ct d4]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct d6]][[i|ct s]][[i|ct s]][[i|ct s]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct s]][[i|ct s]][[i|ct s]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct s]][[i|ct s]][[i|ct s]][[i|ct d2]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| Facing away [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct s]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| Facing away [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct s]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| Facing away [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct t]][[i|ct t]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| Facing away [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct t]][[i|ct t]][[i|ct d2]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| Facing away [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct t]][[i|ct t]][[i|ct d4]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| Facing away [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct t]][[i|ct d2]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
 + Kayin and Ten Count
 ||~ Command ||~ Kayin Amoh ||~ Ten Count ||
-|| [[span class="controller "]]**@@^@@**+C[[/span]] || Step-in Knee || Knee Crush ||
-|| [[span class="controller "]]**@@#@@**+B[[/span]] || Upper Grind || Upper Break ||
-|| While dashing [[span class="controller "]]**@**+C[[/span]] || Turn Slide || Turn Pick Slide ||
-|| While dashing [[span class="controller "]]**@@$@@**+D[[/span]] || Shoulder Charge || Shoulder Charge ||
-|| Facing away [[span class="controller "]]**@**A[[/span]] or [[span class="controller"]]B[[/span]] || Reverse Double Slash || Death Penalty ||
-|| Facing away [[span class="controller "]]C[[/span]] or [[span class="controller"]]D[[/span]] || Turn Middle Kick || Moon Shuffle ||
-|| [[span class="controller "]]**@**+D[[/span]] || ##CCC|――――――――## || Moon Reverse ||
-|| [[span class="controller "]]**@@$@@**+D[[/span]] || Farside Bolt || Shooting Planet ||
-|| [[span class="controller qcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Sonic Slash || Leg Driver ||
-|| While airborne [[span class="controller qcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || ##CCC|――――――――## || Aerial Leg Driver ||
-|| While airborne [[span class="controller qcf"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Terror Comets || Shooting Star ||
-|| [[span class="controller qcb"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Shoulder Crush || Moon Sobat ||
-|| While airborne [[span class="controller qcb"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Raging Sun || Full Moon Sobat ||
-|| [[span class="controller dpf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Deadly Raise || Break Rise ||
-|| [[span class="controller hcb"]]B[[/span]] || Rolling Through || Glory Dance ||
-|| Idle for 220 seconds [[span class="controller "]][[/span]] || ##CCC|――――――――## || Thriller Dance ||
-|| [[span class="controller "]]**@@^#@$!$^$@@**+D[[/span]] || Rainbow Splash || Spark Flare ||
-|| [[span class="controller "]]A+B[[/span]] or [[span class="controller"]]C+D, [[/span]] On last hit [[span class="controller"]]D[[/span]] || Hell's gate || Lunatic Pain ||
-|| [[span class="controller "]]**@@^$^@@**+B[[/span]] || ##CCC|――――――――## || Lunatic Explosion ||
-|| [[span class="controller "]]**@@^$^@@**+D[[/span]] || Hell's Inferno || ##CCC|――――――――## ||
-|| [[span class="controller "]]AA[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]ACC[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CCCB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CCCC[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CCCD[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CCC**@**+B[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CCD[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]CC**@**+C[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]C2CCB[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]C2CCC[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]C2CCD[[/span]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct x]] || Step-in Knee || Knee Crush ||
+|| [[i|ct d3]][[i|ct plus]][[i|ct t]] || Upper Grind || Upper Break ||
+|| While dashing [[i|ct d2]][[i|ct plus]][[i|ct x]] || Turn Slide || Turn Pick Slide ||
+|| While dashing [[i|ct d4]][[i|ct plus]][[i|ct o]] || Shoulder Charge || Shoulder Charge ||
+|| Facing away [[i|ct d2]][[i|ct s]] or [[i|ct t]] || Reverse Double Slash || Death Penalty ||
+|| Facing away [[i|ct x]] or [[i|ct o]] || Turn Middle Kick || Moon Shuffle ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct o]] || ##CCC|――――――――## || Moon Reverse ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct o]] || Farside Bolt || Shooting Planet ||
+|| [[i|ct qcf]][[i|ct s]] or [[i|ct t]] || Sonic Slash || Leg Driver ||
+|| While airborne [[i|ct qcf]][[i|ct s]] or [[i|ct t]] || ##CCC|――――――――## || Aerial Leg Driver ||
+|| While airborne [[i|ct qcf]][[i|ct x]] or [[i|ct o]] || Terror Comets || Shooting Star ||
+|| [[i|ct qcb]][[i|ct x]] or [[i|ct o]] || Shoulder Crush || Moon Sobat ||
+|| While airborne [[i|ct qcb]][[i|ct x]] or [[i|ct o]] || Raging Sun || Full Moon Sobat ||
+|| [[i|ct dpf]][[i|ct s]] or [[i|ct t]] || Deadly Raise || Break Rise ||
+|| [[i|ct hcb]][[i|ct t]] || Rolling Through || Glory Dance ||
+|| Idle for 220 seconds  || ##CCC|――――――――## || Thriller Dance ||
+|| [[i|ct d6]][[i|ct d3]][[i|ct d2]][[i|ct d4]][[i|ct d1]][[i|ct d4]][[i|ct d6]][[i|ct d4]][[i|ct plus]][[i|ct o]] || Rainbow Splash || Spark Flare ||
+|| [[i|ct s]][[i|ct plus]][[i|ct t]] or [[i|ct x]][[i|ct plus]][[i|ct o]] On last hit [[span class="controller"]]D[[/span]] || Hell's gate || Lunatic Pain ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || ##CCC|――――――――## || Lunatic Explosion ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct o]] || Hell's Inferno || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct x]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct x]][[i|ct x]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct x]][[i|ct x]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct x]][[i|ct x]][[i|ct o]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct x]][[i|ct x]][[i|ct d2]][[i|ct plus]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct x]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct x]][[i|ct x]][[i|ct d2]][[i|ct plus]][[i|ct x]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct x]][[i|ct dd2]][[i|ct x]][[i|ct x]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct x]][[i|ct dd2]][[i|ct x]][[i|ct x]][[i|ct x]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct x]][[i|ct dd2]][[i|ct x]][[i|ct x]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
 + Nagisa and Vermillion
 ||~ Command ||~ Nagisa Iwashiro ||~ Vermillion ||
-|| [[span class="controller "]]**@@^@@**+D[[/span]] || Knee Kick || ##CCC|――――――――## ||
-|| While airborne [[span class="controller "]]**@@$@@**+B[[/span]] || ##CCC|――――――――## || Trick Wire ||
-|| [[span class="controller "]]**@@*@@**+D[[/span]] || Backflip Kick || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@^@@**A[[/span]] || ##CCC|――――――――## || Upper 45 ||
-|| [[span class="controller "]]**@@^@@**B[[/span]] || Anti-air Firing || Mega Boom ||
-|| Facing away [[span class="controller "]]**@**A[[/span]] or [[span class="controller"]]B[[/span]] || ##CCC|――――――――## || Fake Magnum ||
-|| Facing away [[span class="controller "]]A[[/span]] or [[span class="controller"]]B[[/span]] || Meteor Bullet || Quick Shot ||
-|| Facing away [[span class="controller "]]**@**C[[/span]] or [[span class="controller"]]D[[/span]] || ##CCC|――――――――## || Back Foot Sweep ||
-|| [[span class="controller "]]**@@$@@**+B[[/span]] || Tackling Cop || Elbow Press ||
-|| At 0 Bullet [[span class="controller "]]?[[/span]] || Reload || ##CCC|――――――――## ||
-|| [[span class="controller "]]?[[/span]] || ##CCC|――――――――## || Reload ||
-|| [[span class="controller hcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || ##CCC|――――――――## || Sulphuric Acid ||
-|| [[span class="controller "]]A+B[[/span]] or [[span class="controller"]]C+D[[/span]] || Full Bullet Firing || Death Marionette ||
-|| [[span class="controller "]]**@@^$^@@**B[[/span]] || Iwashiro Special || Verm the Ripper ||
-|| [[span class="controller "]]AAAA[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AA2AA[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AA2CCC[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]A**@@^@@**+A[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]BBBBB[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]2CCC[[/span]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct o]] || Knee Kick || ##CCC|――――――――## ||
+|| While airborne [[i|ct d4]][[i|ct plus]][[i|ct t]] || ##CCC|――――――――## || Trick Wire ||
+|| [[i|ct d8]][[i|ct plus]][[i|ct o]] || Backflip Kick || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct s]] || ##CCC|――――――――## || Upper 45 ||
+|| [[i|ct d6]][[i|ct t]] || Anti-air Firing || Mega Boom ||
+|| Facing away [[i|ct d2]][[i|ct s]] or [[i|ct t]] || ##CCC|――――――――## || Fake Magnum ||
+|| Facing away [[i|ct s]] or [[i|ct t]] || Meteor Bullet || Quick Shot ||
+|| Facing away [[i|ct d2]][[i|ct x]] or [[i|ct o]] || ##CCC|――――――――## || Back Foot Sweep ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] || Tackling Cop || Elbow Press ||
+|| At 0 Bullet [[i|ct sel]] || Reload || ##CCC|――――――――## ||
+|| [[i|ct sel]] || ##CCC|――――――――## || Reload ||
+|| [[i|ct hcf]][[i|ct s]] or [[i|ct t]] || ##CCC|――――――――## || Sulphuric Acid ||
+|| [[i|ct s]][[i|ct plus]][[i|ct t]] or [[i|ct x]][[i|ct plus]][[i|ct o]] || Full Bullet Firing || Death Marionette ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct t]] || Iwashiro Special || Verm the Ripper ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct dd2]][[i|ct s]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct dd2]][[i|ct x]][[i|ct x]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct t]][[i|ct t]][[i|ct t]][[i|ct t]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct dd2]][[i|ct x]][[i|ct x]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
 + David and Judgement
 ||~ Command ||~ David ||~ Judgement ||
-|| [[span class="controller "]]**@@^@@**+A[[/span]] || Tomorrow's Upper || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@^@@**+C[[/span]] || Shoulder Attack || Skin Head ||
-|| [[span class="controller "]]**@@^@@**+D[[/span]] || Knee Kick || ##CCC|――――――――## ||
-|| While airborne [[span class="controller "]]**@**+B[[/span]] || Flame Stinger || Dozen Shadow ||
-|| [[span class="controller "]]**@**+D[[/span]] || Heel Drop || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@*@@**+D[[/span]] || Shower of Kicks || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@^@@**B[[/span]] || Gang Smasher || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@$^@@**+B[[/span]] || ##CCC|――――――――## || Evil Saw ||
-|| Facing away [[span class="controller "]]**@**A[[/span]] or [[span class="controller"]]B[[/span]] || Rise Saber || Demon Glide ||
-|| Facing away [[span class="controller "]]**@**C[[/span]] or [[span class="controller"]]D[[/span]] || Spin Drill || ##CCC|――――――――## ||
-|| Facing away [[span class="controller "]]C[[/span]] or [[span class="controller"]]D[[/span]] || ##CCC|――――――――## || Evil Tale ||
-|| [[span class="controller "]]**@@$@@**+B[[/span]] || Chainsaw || D. Chainsaw ||
-|| [[span class="controller "]]**@@$@@**+D[[/span]] || Violent Kick || ##CCC|――――――――## ||
-|| [[span class="controller "]]?[[/span]] || Fire Gun || ##CCC|――――――――## ||
-|| [[span class="controller qcb"]]A[[/span]] || Reversal Trap || Bloody Trap ||
-|| [[span class="controller qcb"]]B[[/span]] || Reversal Raze || Bloody Raze ||
-|| [[span class="controller dpf"]]A[[/span]] || Upper Boy || Cursed Upper ||
-|| [[span class="controller dpf"]]B[[/span]] || Upper Upper Boy || Poison Upper ||
-|| [[span class="controller "]]A+B[[/span]] or [[span class="controller"]]C+D[[/span]] || Flame Masher || Demon's Hand ||
-|| [[span class="controller "]]**@@^$^@@**B[[/span]] || Flame Crusher || Devil's Stinger ||
-|| [[span class="controller "]]A, A[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AAAA[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AAAB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AADDD[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AA**@**+A[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AA**@**+D[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AA**@@$@@**+D[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AA**@@*@@**+D[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]ABBA[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]ABBB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]ADD[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]A**@@^@@**+B[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CA[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]CCA[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]CCCA[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]CCCDDD[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]DDD[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@^@@**CBBA[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]**@@^@@**CBBB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]**@@^@@**CD[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]2CCC[[/span]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct s]] || Tomorrow's Upper || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct x]] || Shoulder Attack || Skin Head ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct o]] || Knee Kick || ##CCC|――――――――## ||
+|| While airborne [[i|ct d2]][[i|ct plus]][[i|ct t]] || Flame Stinger || Dozen Shadow ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct o]] || Heel Drop || ##CCC|――――――――## ||
+|| [[i|ct d8]][[i|ct plus]][[i|ct o]] || Shower of Kicks || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct t]] || Gang Smasher || ##CCC|――――――――## ||
+|| [[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || ##CCC|――――――――## || Evil Saw ||
+|| Facing away [[i|ct d2]][[i|ct s]] or [[i|ct t]] || Rise Saber || Demon Glide ||
+|| Facing away [[i|ct d2]][[i|ct x]] or [[i|ct o]] || Spin Drill || ##CCC|――――――――## ||
+|| Facing away [[i|ct x]] or [[i|ct o]] || ##CCC|――――――――## || Evil Tale ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] || Chainsaw || D. Chainsaw ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct o]] || Violent Kick || ##CCC|――――――――## ||
+|| [[i|ct sel]] || Fire Gun || ##CCC|――――――――## ||
+|| [[i|ct qcb]][[i|ct s]] || Reversal Trap || Bloody Trap ||
+|| [[i|ct qcb]][[i|ct t]] || Reversal Raze || Bloody Raze ||
+|| [[i|ct dpf]][[i|ct s]] || Upper Boy || Cursed Upper ||
+|| [[i|ct dpf]][[i|ct t]] || Upper Upper Boy || Poison Upper ||
+|| [[i|ct s]][[i|ct plus]][[i|ct t]] or [[i|ct x]][[i|ct plus]][[i|ct o]] || Flame Masher || Demon's Hand ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct t]] || Flame Crusher || Devil's Stinger ||
+|| [[i|ct s]], [[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct o]][[i|ct o]][[i|ct o]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct o]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct d4]][[i|ct plus]][[i|ct o]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct d8]][[i|ct plus]][[i|ct o]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct t]][[i|ct t]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct t]][[i|ct t]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct o]][[i|ct o]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct x]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct x]][[i|ct x]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct x]][[i|ct x]][[i|ct o]][[i|ct o]][[i|ct o]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct o]][[i|ct o]][[i|ct o]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct x]][[i|ct t]][[i|ct t]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct d6]][[i|ct x]][[i|ct t]][[i|ct t]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct d6]][[i|ct x]][[i|ct o]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct dd2]][[i|ct x]][[i|ct x]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
 + Sofia and Zola
 ||~ Command ||~ Sofia ||~ Zola ||
-|| [[span class="controller "]]**@@^@@**+A[[/span]] || Straight Whip || Snake Head ||
-|| [[span class="controller "]]**@@^@@**+D[[/span]] || Pleasure Arts || Cat Heel ||
-|| While airborne [[span class="controller "]]**@**+D[[/span]] || Sky Heels || Cat Dance ||
-|| [[span class="controller "]]**@@#@@**B[[/span]] || Upper Whip || Snake Upper ||
-|| [[span class="controller "]]**@@#@@**D[[/span]] || Velvet Scorpion || Cat Tail ||
-|| [[span class="controller "]]**@**B[[/span]] || Under Whip || Snake Under ||
-|| [[span class="controller "]]**@**C[[/span]] || Low Kick || Grand Dance ||
-|| [[span class="controller "]]**@@!@@**D[[/span]] || ##CCC|――――――――## || Double Bloody Claw ||
-|| [[span class="controller "]]**@@$@@**D[[/span]] || Upward Kick || Boot Leg ||
-|| [[span class="controller "]]**@@$^@@**+B[[/span]] || Italian Dessert || Bloody Claw ||
-|| While dashing [[span class="controller "]]AAA[[/span]] || Lightning Triplet || Masquerade Elbow ||
-|| Facing away [[span class="controller "]]**@**A[[/span]] or [[span class="controller"]]B[[/span]] || Back Elbow || Cat Reception ||
-|| Facing away [[span class="controller "]]**@**C[[/span]] or [[span class="controller"]]D[[/span]] || Ground Slider || Cat Through ||
-|| [[span class="controller "]]**@@$@@**+B[[/span]] || Plasma Ring || Moon Requiem ||
-|| [[span class="controller qcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Rattlesnake || Star Execution ||
-|| [[span class="controller qcb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Thunder Ring || Flash Prelude ||
-|| While airborne [[span class="controller qcb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Aerial Thunder Ring || Aerial Flash Prelude ||
-|| [[span class="controller dpf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || ##CCC|――――――――## || Splash Hold ||
-|| [[span class="controller hcf"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Love Shower || ##CCC|――――――――## ||
-|| [[span class="controller hcb"]]A[[/span]] or [[span class="controller"]]B, [[/span]] Repeat [[span class="controller"]]A[[/span]] || Aurora Revolution || Golden Ballerina ||
-|| While airborne [[span class="controller hcb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Aerial Aurora Revolution || Aerial Golden Ballerina ||
-|| [[span class="controller "]]**@@^#@$!$^$@@**B[[/span]] || Salamander || Hatred Waltz ||
-|| [[span class="controller "]]A+B[[/span]] or [[span class="controller"]]C+D[[/span]] || Love Lover || Jealousy Symphony ||
-|| [[span class="controller "]]**@@^$^@@**B[[/span]] || Call Me Queen || Jealousy Rondo ||
-|| [[span class="controller "]]AA[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]CCA[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CCB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CCC[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CC**@**+D[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]DC[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]2BB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]2B**@@$@@**+B[[/span]] || ✔ || ✔ ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct s]] || Straight Whip || Snake Head ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct o]] || Pleasure Arts || Cat Heel ||
+|| While airborne [[i|ct d2]][[i|ct plus]][[i|ct o]] || Sky Heels || Cat Dance ||
+|| [[i|ct d3]][[i|ct t]] || Upper Whip || Snake Upper ||
+|| [[i|ct d3]][[i|ct o]] || Velvet Scorpion || Cat Tail ||
+|| [[i|ct d2]][[i|ct t]] || Under Whip || Snake Under ||
+|| [[i|ct d2]][[i|ct x]] || Low Kick || Grand Dance ||
+|| [[i|ct d1]][[i|ct o]] || ##CCC|――――――――## || Double Bloody Claw ||
+|| [[i|ct d4]][[i|ct o]] || Upward Kick || Boot Leg ||
+|| [[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || Italian Dessert || Bloody Claw ||
+|| While dashing [[i|ct s]][[i|ct s]][[i|ct s]] || Lightning Triplet || Masquerade Elbow ||
+|| Facing away [[i|ct d2]][[i|ct s]] or [[i|ct t]] || Back Elbow || Cat Reception ||
+|| Facing away [[i|ct d2]][[i|ct x]] or [[i|ct o]] || Ground Slider || Cat Through ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] || Plasma Ring || Moon Requiem ||
+|| [[i|ct qcf]][[i|ct s]] or [[i|ct t]] || Rattlesnake || Star Execution ||
+|| [[i|ct qcb]][[i|ct s]] or [[i|ct t]] || Thunder Ring || Flash Prelude ||
+|| While airborne [[i|ct qcb]][[i|ct s]] or [[i|ct t]] || Aerial Thunder Ring || Aerial Flash Prelude ||
+|| [[i|ct dpf]][[i|ct s]] or [[i|ct t]] || ##CCC|――――――――## || Splash Hold ||
+|| [[i|ct hcf]][[i|ct x]] or [[i|ct o]] || Love Shower || ##CCC|――――――――## ||
+|| [[i|ct hcb]][[i|ct s]] or [[i|ct t]] Repeat [[span class="controller"]]A[[/span]] || Aurora Revolution || Golden Ballerina ||
+|| While airborne [[i|ct hcb]][[i|ct s]] or [[i|ct t]] || Aerial Aurora Revolution || Aerial Golden Ballerina ||
+|| [[i|ct d6]][[i|ct d3]][[i|ct d2]][[i|ct d4]][[i|ct d1]][[i|ct d4]][[i|ct d6]][[i|ct d4]][[i|ct t]] || Salamander || Hatred Waltz ||
+|| [[i|ct s]][[i|ct plus]][[i|ct t]] or [[i|ct x]][[i|ct plus]][[i|ct o]] || Love Lover || Jealousy Symphony ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct t]] || Call Me Queen || Jealousy Rondo ||
+|| [[i|ct s]][[i|ct s]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct x]][[i|ct x]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct x]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct x]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct x]][[i|ct d2]][[i|ct plus]][[i|ct o]] || ✔ || ✔ ||
+|| [[i|ct o]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct dd2]][[i|ct t]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct dd2]][[i|ct t]][[i|ct d4]][[i|ct plus]][[i|ct t]] || ✔ || ✔ ||
 + Tracy and Rachael
 ||~ Command ||~ Tracy ||~ Rachael ||
-|| [[span class="controller "]]**@@^@@**+DC[[/span]] || Middle Two Kick || Blow Kick ||
-|| [[span class="controller "]]**@**+DD[[/span]] || Trip || Screw Toe ||
-|| [[span class="controller "]]**@@^$@@**DD[[/span]] || Two Hammer Kick || Tiptoe Hopper ||
-|| [[span class="controller "]]**@@#@@**B[[/span]] || Hole Punch || Grand Punch ||
-|| [[span class="controller "]]**@@#@@**D[[/span]] || Upward Kick || Upward Kick ||
-|| While dashing [[span class="controller "]]**@@$@@**D[[/span]] || Gale Kick || Quick Slash ||
-|| Facing away [[span class="controller "]]C[[/span]] or [[span class="controller"]]D, D[[/span]] || Turn Middle Kick || ##CCC|――――――――## ||
-|| Facing away [[span class="controller "]]DD[[/span]] || ##CCC|――――――――## || Turn To Kick ||
-|| [[span class="controller "]]**@@$@@**+B[[/span]] || Atomic Dynamite || Proton Dynamite ||
-|| [[span class="controller "]]**@@$@@**+D[[/span]] || Atomic Kick || Proton Kick ||
-|| [[span class="controller qcf"]]DC[[/span]] || Sky Diver || Sky Scraper ||
-|| [[span class="controller qcb"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Jackpot || Two Cannon ||
-|| While airborne [[span class="controller qcb"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Aerial Jackpot || Aerial Two Cannon ||
-|| [[span class="controller dpf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Electro Spartan || Atomic Spartan ||
-|| [[span class="controller dpf"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Honey Moon || Green Corona ||
-|| [[span class="controller "]]**@@@^#@@**A[[/span]] or [[span class="controller"]]B[[/span]] || Electro Dynamites || Atomic Dynamites ||
-|| [[span class="controller dpb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Super Upper || Super Upper ||
-|| [[span class="controller dpb"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Kings Rave || Sky Splash ||
-|| [[span class="controller hcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Electro Shadow || Atomic Blow ||
-|| [[span class="controller hcb"]]+A[[/span]] or [[span class="controller"]]B[[/span]] || IMC - Iron Mount Claw || Rock Crusher ||
-|| [[span class="controller "]]A+B[[/span]] or [[span class="controller"]]C+D[[/span]] || Pale Slider || Twin Danger ||
-|| [[span class="controller "]]**@@^$^@@**B[[/span]] || Crazy Planet || Flash Sun ||
-|| [[span class="controller "]]AABB**@@^@@**+A[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AABDD[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AABD**@**+C[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AAB**@**+C[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AAB**@@$@@**+D[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AAC[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]ABBDD[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]ABBD**@**+C[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]ABB**@@$@@**+D[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]ABD[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]ADD[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AD**@**+C[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]A**@**+C[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CDD[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]CD**@**C[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]DD[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]2AB[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]2AD[[/span]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct o]][[i|ct x]] || Middle Two Kick || Blow Kick ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct o]][[i|ct o]] || Trip || Screw Toe ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct o]][[i|ct o]] || Two Hammer Kick || Tiptoe Hopper ||
+|| [[i|ct d3]][[i|ct t]] || Hole Punch || Grand Punch ||
+|| [[i|ct d3]][[i|ct o]] || Upward Kick || Upward Kick ||
+|| While dashing [[i|ct d4]][[i|ct o]] || Gale Kick || Quick Slash ||
+|| Facing away [[i|ct x]] or [[i|ct o]], [[i|ct o]] || Turn Middle Kick || ##CCC|――――――――## ||
+|| Facing away [[i|ct o]][[i|ct o]] || ##CCC|――――――――## || Turn To Kick ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] || Atomic Dynamite || Proton Dynamite ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct o]] || Atomic Kick || Proton Kick ||
+|| [[i|ct qcf]][[i|ct o]][[i|ct x]] || Sky Diver || Sky Scraper ||
+|| [[i|ct qcb]][[i|ct x]] or [[i|ct o]] || Jackpot || Two Cannon ||
+|| While airborne [[i|ct qcb]][[i|ct x]] or [[i|ct o]] || Aerial Jackpot || Aerial Two Cannon ||
+|| [[i|ct dpf]][[i|ct s]] or [[i|ct t]] || Electro Spartan || Atomic Spartan ||
+|| [[i|ct dpf]][[i|ct x]] or [[i|ct o]] || Honey Moon || Green Corona ||
+|| [[i|ct d2]][[i|ct d6]][[i|ct d3]][[i|ct s]] or [[i|ct t]] || Electro Dynamites || Atomic Dynamites ||
+|| [[i|ct dpb]][[i|ct s]] or [[i|ct t]] || Super Upper || Super Upper ||
+|| [[i|ct dpb]][[i|ct x]] or [[i|ct o]] || Kings Rave || Sky Splash ||
+|| [[i|ct hcf]][[i|ct s]] or [[i|ct t]] || Electro Shadow || Atomic Blow ||
+|| [[i|ct hcb]][[i|ct plus]][[i|ct s]] or [[i|ct t]] || IMC - Iron Mount Claw || Rock Crusher ||
+|| [[i|ct s]][[i|ct plus]][[i|ct t]] or [[i|ct x]][[i|ct plus]][[i|ct o]] || Pale Slider || Twin Danger ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct t]] || Crazy Planet || Flash Sun ||
+|| [[i|ct s]][[i|ct s]][[i|ct t]][[i|ct t]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct t]][[i|ct o]][[i|ct o]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct t]][[i|ct o]][[i|ct d2]][[i|ct plus]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct t]][[i|ct d2]][[i|ct plus]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct t]][[i|ct d4]][[i|ct plus]][[i|ct o]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct t]][[i|ct t]][[i|ct o]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct t]][[i|ct t]][[i|ct o]][[i|ct d2]][[i|ct plus]][[i|ct x]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct t]][[i|ct t]][[i|ct d4]][[i|ct plus]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct t]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct o]][[i|ct o]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct o]][[i|ct d2]][[i|ct plus]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct o]][[i|ct o]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct o]][[i|ct d2]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct o]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct dd2]][[i|ct s]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct dd2]][[i|ct s]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
 + Mondo and Toujin
 ||~ Command ||~ Mondo ||~ Toujin ||
-|| [[span class="controller "]]**@@^@@**+D[[/span]] || Hanekoma || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@**+B[[/span]] || Oni'tataki || Tenbatsu Tekichu ||
-|| Facing away [[span class="controller "]]A[[/span]] or [[span class="controller"]]B[[/span]] || Shin || Shunsoku Musasabi'uchi ||
-|| [[span class="controller "]]**@@$@@**+B[[/span]] || Tenjinbako || Taihou Kaenhousha ||
-|| [[span class="controller qcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Shippuu Joudantsuki || Shinreikantsuu Kamigata ||
-|| While airborne [[span class="controller qcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Gouriki Raijin || Jubaku no Jin ||
-|| [[span class="controller qcf"]]C[[/span]] or [[span class="controller"]]D[[/span]] || ##CCC|――――――――## || Toujin Hou ||
-|| [[span class="controller qcb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Shippuu Gedantsuki || Shinreikantsuu Shimokata ||
-|| [[span class="controller dpf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Gouriki Tenbu || Kuusatsu no Jin ||
-|| [[span class="controller dpb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Shipuu Tentsuki || Tentsuki ||
-|| [[span class="controller hcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Gouriki Fujin || Kamikaze no Jin ||
-|| [[span class="controller "]]**@@^*$^@@@**D[[/span]] || Kyouryoku Jakuretsubu || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@^*$^@@@**D, [[/span]] Repeat [[span class="controller"]]A[[/span]] or [[span class="controller"]]B[[/span]] or [[span class="controller"]]C[[/span]] or [[span class="controller"]]D[[/span]] || ##CCC|――――――――## || Ryuujin Tenshou ||
-|| [[span class="controller "]]A+B[[/span]] or [[span class="controller"]]C+D[[/span]] || Chouriki Domonhou || Taihou Yonrensha ||
-|| [[span class="controller "]]**@@^$^@@**B[[/span]] || Chouriki Daibutsumetsu || Tsutsumotase Midarezakura Ranbu ||
-|| [[span class="controller "]]AAA[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]AAB[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AAC[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AA**@@^@@**+A[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]AA**@**+A[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]AA**@**+B[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AA**@@$@@**+A[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]AA**@@$@@**+B[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AB[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]A**@@^@@**+A[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]CCC[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]CC**@@$@@**+C[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]C**@@^@@**+C[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]DD[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]2AAC[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]2AA**@@^@@**+C[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]2A**@@^@@**+A[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]2CC**@@$@@**+C[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]2C**@@^@@**+C[[/span]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct o]] || Hanekoma || ##CCC|――――――――## ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct t]] || Oni'tataki || Tenbatsu Tekichu ||
+|| Facing away [[i|ct s]] or [[i|ct t]] || Shin || Shunsoku Musasabi'uchi ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] || Tenjinbako || Taihou Kaenhousha ||
+|| [[i|ct qcf]][[i|ct s]] or [[i|ct t]] || Shippuu Joudantsuki || Shinreikantsuu Kamigata ||
+|| While airborne [[i|ct qcf]][[i|ct s]] or [[i|ct t]] || Gouriki Raijin || Jubaku no Jin ||
+|| [[i|ct qcf]][[i|ct x]] or [[i|ct o]] || ##CCC|――――――――## || Toujin Hou ||
+|| [[i|ct qcb]][[i|ct s]] or [[i|ct t]] || Shippuu Gedantsuki || Shinreikantsuu Shimokata ||
+|| [[i|ct dpf]][[i|ct s]] or [[i|ct t]] || Gouriki Tenbu || Kuusatsu no Jin ||
+|| [[i|ct dpb]][[i|ct s]] or [[i|ct t]] || Shipuu Tentsuki || Tentsuki ||
+|| [[i|ct hcf]][[i|ct s]] or [[i|ct t]] || Gouriki Fujin || Kamikaze no Jin ||
+|| [[i|ct d6]][[i|ct d8]][[i|ct d4]][[i|ct d6]][[i|ct d2]][[i|ct o]] || Kyouryoku Jakuretsubu || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct d8]][[i|ct d4]][[i|ct d6]][[i|ct d2]][[i|ct o]] Repeat [[span class="controller"]]A[[/span]] or [[span class="controller"]]B[[/span]] or [[span class="controller"]]C[[/span]] or [[span class="controller"]]D[[/span]] || ##CCC|――――――――## || Ryuujin Tenshou ||
+|| [[i|ct s]][[i|ct plus]][[i|ct t]] or [[i|ct x]][[i|ct plus]][[i|ct o]] || Chouriki Domonhou || Taihou Yonrensha ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct t]] || Chouriki Daibutsumetsu || Tsutsumotase Midarezakura Ranbu ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct s]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct d4]][[i|ct plus]][[i|ct s]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct d4]][[i|ct plus]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct x]][[i|ct x]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct x]][[i|ct d4]][[i|ct plus]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct d6]][[i|ct plus]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct o]][[i|ct o]] || ✔ || ✔ ||
+|| [[i|ct dd2]][[i|ct s]][[i|ct s]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct dd2]][[i|ct s]][[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct dd2]][[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct dd2]][[i|ct x]][[i|ct x]][[i|ct d4]][[i|ct plus]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct dd2]][[i|ct x]][[i|ct d6]][[i|ct plus]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
 + Bayhou and Cuiling
 ||~ Command ||~ Bayhou ||~ Cuiling ||
-|| [[span class="controller "]]**@@^@@**+C[[/span]] || Saruteki Zanreppuku || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@#@@**+B[[/span]] || ##CCC|――――――――## || Head Sliding ||
-|| [[span class="controller "]]**@@!@@**+B[[/span]] || ##CCC|――――――――## || Tachiha ||
-|| [[span class="controller "]]**@@$^@@**+A[[/span]] || Saruteki Shin'ensou 1 || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@$^@@**+B[[/span]] || Saruteki Shin'ensou 2 || ##CCC|――――――――## ||
-|| Facing away [[span class="controller "]]A[[/span]] or [[span class="controller"]]B[[/span]] || ##CCC|――――――――## || Shago ||
-|| Facing away [[span class="controller "]]C[[/span]] or [[span class="controller"]]D[[/span]] || Saru Mawashi || Shara ||
-|| [[span class="controller "]]**@@$@@**+B[[/span]] || Saru Kyakuten || Gekirippa ||
-|| [[span class="controller qcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || ##CCC|――――――――## || Tatsumakisou ||
-|| [[span class="controller qcf"]]C[[/span]] or [[span class="controller"]]D, [[/span]] Repeat [[span class="controller"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Saru Drill || ##CCC|――――――――## ||
-|| While airborne [[span class="controller qcf"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Aerial Saru Drill || ##CCC|――――――――## ||
-|| [[span class="controller qcb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Saruteki Donpa || Donpa ||
-|| [[span class="controller qcb"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Saruteki Kappore || Kappore ||
-|| [[span class="controller hcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Saruteki Dondokosho || Dondokosho ||
-|| [[span class="controller hcf"]]D[[/span]] || Saru Koufungimi || ##CCC|――――――――## ||
-|| [[span class="controller hcb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Saruteki Dondonpappa || Dondonpappa ||
-|| While airborne [[span class="controller hcb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Saruteki Donpappa || Donpappa ||
-|| [[span class="controller "]]D, A, C, **@@^@@**+B[[/span]] || Saruteki Dondonpanpandonpanpan || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@$&*(^@@**A+D, [[/span]] Repeat [[span class="controller"]]D[[/span]] || ##CCC|――――――――## || Donfuurei ||
-|| [[span class="controller qcfqcf"]]B[[/span]] || Saru Futatsu || ##CCC|――――――――## ||
-|| [[span class="controller "]]A+B[[/span]] or [[span class="controller"]]C+D[[/span]] || Saruteki Dododoon || Dododoon ||
-|| [[span class="controller "]]**@@^$^@@**+B, [[/span]] Repeat [[span class="controller"]]B[[/span]] || Saruteki Dododonpappa || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@^$^@@**+B[[/span]] || ##CCC|――――――――## || Dododonpappa ||
-|| [[span class="controller "]]AAAA[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]AAAB[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AAA**@@^@@**+A[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AAA**@@^@@**+B[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AAA**@**+A[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AAA**@@*@@**+B[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AAB[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]AA**@**+AA[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AA**@**+D[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]AB[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AC**@**+CC[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AD[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]A**@@^@@**+A[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]A**@@^@@**+C[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]CCC[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]2AA[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]2ADB[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]2AD**@@^@@**+B[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]2CC[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]2CD[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]2DDDDD[[/span]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct x]] || Saruteki Zanreppuku || ##CCC|――――――――## ||
+|| [[i|ct d3]][[i|ct plus]][[i|ct t]] || ##CCC|――――――――## || Head Sliding ||
+|| [[i|ct d1]][[i|ct plus]][[i|ct t]] || ##CCC|――――――――## || Tachiha ||
+|| [[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct s]] || Saruteki Shin'ensou 1 || ##CCC|――――――――## ||
+|| [[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || Saruteki Shin'ensou 2 || ##CCC|――――――――## ||
+|| Facing away [[i|ct s]] or [[i|ct t]] || ##CCC|――――――――## || Shago ||
+|| Facing away [[i|ct x]] or [[i|ct o]] || Saru Mawashi || Shara ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] || Saru Kyakuten || Gekirippa ||
+|| [[i|ct qcf]][[i|ct s]] or [[i|ct t]] || ##CCC|――――――――## || Tatsumakisou ||
+|| [[i|ct qcf]][[i|ct x]] or [[i|ct o]] Repeat [[span class="controller"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Saru Drill || ##CCC|――――――――## ||
+|| While airborne [[i|ct qcf]][[i|ct x]] or [[i|ct o]] || Aerial Saru Drill || ##CCC|――――――――## ||
+|| [[i|ct qcb]][[i|ct s]] or [[i|ct t]] || Saruteki Donpa || Donpa ||
+|| [[i|ct qcb]][[i|ct x]] or [[i|ct o]] || Saruteki Kappore || Kappore ||
+|| [[i|ct hcf]][[i|ct s]] or [[i|ct t]] || Saruteki Dondokosho || Dondokosho ||
+|| [[i|ct hcf]][[i|ct o]] || Saru Koufungimi || ##CCC|――――――――## ||
+|| [[i|ct hcb]][[i|ct s]] or [[i|ct t]] || Saruteki Dondonpappa || Dondonpappa ||
+|| While airborne [[i|ct hcb]][[i|ct s]] or [[i|ct t]] || Saruteki Donpappa || Donpappa ||
+|| [[i|ct o]], [[i|ct s]], [[i|ct x]], [[i|ct d6]][[i|ct plus]][[i|ct t]] || Saruteki Dondonpanpandonpanpan || ##CCC|――――――――## ||
+|| [[i|ct d4]][[i|ct d7]][[i|ct d8]][[i|ct d9]][[i|ct d6]][[i|ct s]][[i|ct plus]][[i|ct o]] Repeat [[span class="controller"]]D[[/span]] || ##CCC|――――――――## || Donfuurei ||
+|| [[i|ct qcfqcf]][[i|ct t]] || Saru Futatsu || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct plus]][[i|ct t]] or [[i|ct x]][[i|ct plus]][[i|ct o]] || Saruteki Dododoon || Dododoon ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] Repeat [[span class="controller"]]B[[/span]] || Saruteki Dododonpappa || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || ##CCC|――――――――## || Dododonpappa ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct s]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct d8]][[i|ct plus]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct s]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct x]][[i|ct d2]][[i|ct plus]][[i|ct x]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct o]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct x]][[i|ct x]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct dd2]][[i|ct s]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct dd2]][[i|ct s]][[i|ct o]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct dd2]][[i|ct s]][[i|ct o]][[i|ct d6]][[i|ct plus]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct dd2]][[i|ct x]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct dd2]][[i|ct x]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct dd2]][[i|ct o]][[i|ct o]][[i|ct o]][[i|ct o]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
 + Chaos and Schultz
 ||~ Command ||~ Chaos ||~ Schultz ||
-|| [[span class="controller "]]**@@^@@**+A[[/span]] || Tsukitsukitsuki || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@^@@**+B[[/span]] || Sasann || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@^@@**+C[[/span]] || Guru || Knee Kick ||
-|| [[span class="controller "]]**@@^@@**+D[[/span]] || ##CCC|――――――――## || Heel Drop ||
-|| [[span class="controller "]]**@**+A[[/span]] || Sassu || Side Mow ||
-|| [[span class="controller "]]**@**+B[[/span]] || ##CCC|――――――――## || Mow Upper ||
-|| [[span class="controller "]]**@**+C[[/span]] || ##CCC|――――――――## || Low Kick ||
-|| [[span class="controller "]]**@**+D[[/span]] || ##CCC|――――――――## || Back Reject ||
-|| [[span class="controller "]]**@@*@@**+B[[/span]] || ##CCC|――――――――## || Unjust Raise ||
-|| [[span class="controller "]]**@@*@@**+C[[/span]] || ##CCC|――――――――## || Moonsault ||
-|| [[span class="controller "]]**@@*@@**+D[[/span]] || ##CCC|――――――――## || Hell Phoenix ||
-|| [[span class="controller "]]**@@$^@@**+D[[/span]] || Mudou Pop || ##CCC|――――――――## ||
-|| While dashing [[span class="controller "]]C[[/span]] || ##CCC|――――――――## || Fanatic Judge ||
-|| Facing away [[span class="controller "]]**@**A[[/span]] or [[span class="controller"]]B[[/span]] || ##CCC|――――――――## || Mantis Cutter ||
-|| Facing away [[span class="controller "]]A[[/span]] or [[span class="controller"]]B[[/span]] || Gyouten Turn || Negative Blaze ||
-|| Facing away [[span class="controller "]]C[[/span]] or [[span class="controller"]]D[[/span]] || Meido Dive || Somersault ||
-|| [[span class="controller "]]**@@$@@**+B[[/span]] || Goodbye Gerogero Attack || Hell Executioner ||
-|| [[span class="controller "]]**@@$@@**+D[[/span]] || Ahosha no Tate || ##CCC|――――――――## ||
-|| [[span class="controller qcf"]]A[[/span]] || Gedou Gero || Padism Edge 1 ||
-|| [[span class="controller qcf"]]B[[/span]] || Gedou Gas || Padism Edge 2 ||
-|| While airborne [[span class="controller qcf"]]A[[/span]] || Jadou Suihei Wave || Aerial Padism Edge 1 ||
-|| While airborne [[span class="controller qcf"]]B[[/span]] || Jadou Wave || Aerial Padism Edge 2 ||
-|| [[span class="controller qcf"]]C[[/span]] || ##CCC|――――――――## || Padism Edge 3 ||
-|| [[span class="controller qcf"]]D[[/span]] || ##CCC|――――――――## || Padism Edge 4 ||
-|| [[span class="controller qcf"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Jadou Run || ##CCC|――――――――## ||
-|| While airborne [[span class="controller qcf"]]C[[/span]] or [[span class="controller"]]D[[/span]] || ##CCC|――――――――## || Devil's Dance ||
-|| [[span class="controller dpf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || ##CCC|――――――――## || Gospel Wave ||
-|| [[span class="controller hcf"]]C[[/span]] || Hidou Drill Shoumen || ##CCC|――――――――## ||
-|| [[span class="controller hcf"]]D[[/span]] || Hidou Drill Kuchuu || ##CCC|――――――――## ||
-|| [[span class="controller hcb"]]A[[/span]] || Zankoku Beigomagiri || ##CCC|――――――――## ||
-|| [[span class="controller hcb"]]B[[/span]] || Zankoku Cutter || ##CCC|――――――――## ||
-|| Idle for 11 seconds [[span class="controller "]][[/span]] || Gedou Gerogero || ##CCC|――――――――## ||
-|| [[span class="controller "]]A+B[[/span]] or [[span class="controller"]]C+D[[/span]] || Chou Muzan Shibori || Advent Blaze ||
-|| [[span class="controller "]]**@@^$^@@**+B[[/span]] || Koppamijin || Penitence Screw ||
-|| [[span class="controller "]]AAA[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AAAA[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]AAB[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]AACC[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AA**@@*@@**+D[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]A**@**+A[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]BA**@@*@@**+D[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]BB[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]B**@@*@@**+D[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]CC[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]CCCD[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]CC**@**+CD[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]CD[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]C**@**+C[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@**+CCCD[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]2CCC[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]2CD[[/span]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct s]] || Tsukitsukitsuki || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct t]] || Sasann || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct x]] || Guru || Knee Kick ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct o]] || ##CCC|――――――――## || Heel Drop ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct s]] || Sassu || Side Mow ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct t]] || ##CCC|――――――――## || Mow Upper ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct x]] || ##CCC|――――――――## || Low Kick ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct o]] || ##CCC|――――――――## || Back Reject ||
+|| [[i|ct d8]][[i|ct plus]][[i|ct t]] || ##CCC|――――――――## || Unjust Raise ||
+|| [[i|ct d8]][[i|ct plus]][[i|ct x]] || ##CCC|――――――――## || Moonsault ||
+|| [[i|ct d8]][[i|ct plus]][[i|ct o]] || ##CCC|――――――――## || Hell Phoenix ||
+|| [[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct o]] || Mudou Pop || ##CCC|――――――――## ||
+|| While dashing [[i|ct x]] || ##CCC|――――――――## || Fanatic Judge ||
+|| Facing away [[i|ct d2]][[i|ct s]] or [[i|ct t]] || ##CCC|――――――――## || Mantis Cutter ||
+|| Facing away [[i|ct s]] or [[i|ct t]] || Gyouten Turn || Negative Blaze ||
+|| Facing away [[i|ct x]] or [[i|ct o]] || Meido Dive || Somersault ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] || Goodbye Gerogero Attack || Hell Executioner ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct o]] || Ahosha no Tate || ##CCC|――――――――## ||
+|| [[i|ct qcf]][[i|ct s]] || Gedou Gero || Padism Edge 1 ||
+|| [[i|ct qcf]][[i|ct t]] || Gedou Gas || Padism Edge 2 ||
+|| While airborne [[i|ct qcf]][[i|ct s]] || Jadou Suihei Wave || Aerial Padism Edge 1 ||
+|| While airborne [[i|ct qcf]][[i|ct t]] || Jadou Wave || Aerial Padism Edge 2 ||
+|| [[i|ct qcf]][[i|ct x]] || ##CCC|――――――――## || Padism Edge 3 ||
+|| [[i|ct qcf]][[i|ct o]] || ##CCC|――――――――## || Padism Edge 4 ||
+|| [[i|ct qcf]][[i|ct x]] or [[i|ct o]] || Jadou Run || ##CCC|――――――――## ||
+|| While airborne [[i|ct qcf]][[i|ct x]] or [[i|ct o]] || ##CCC|――――――――## || Devil's Dance ||
+|| [[i|ct dpf]][[i|ct s]] or [[i|ct t]] || ##CCC|――――――――## || Gospel Wave ||
+|| [[i|ct hcf]][[i|ct x]] || Hidou Drill Shoumen || ##CCC|――――――――## ||
+|| [[i|ct hcf]][[i|ct o]] || Hidou Drill Kuchuu || ##CCC|――――――――## ||
+|| [[i|ct hcb]][[i|ct s]] || Zankoku Beigomagiri || ##CCC|――――――――## ||
+|| [[i|ct hcb]][[i|ct t]] || Zankoku Cutter || ##CCC|――――――――## ||
+|| Idle for 11 seconds  || Gedou Gerogero || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct plus]][[i|ct t]] or [[i|ct x]][[i|ct plus]][[i|ct o]] || Chou Muzan Shibori || Advent Blaze ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || Koppamijin || Penitence Screw ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct s]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct x]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct d8]][[i|ct plus]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct t]][[i|ct s]][[i|ct d8]][[i|ct plus]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct t]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct t]][[i|ct d8]][[i|ct plus]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct x]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct x]][[i|ct x]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct x]][[i|ct x]][[i|ct d2]][[i|ct plus]][[i|ct x]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct x]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct x]][[i|ct d2]][[i|ct plus]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct x]][[i|ct x]][[i|ct x]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct dd2]][[i|ct x]][[i|ct x]][[i|ct x]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct dd2]][[i|ct x]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
 + Rungo and Adam
 ||~ Command ||~ Rungo Iron ||~ Adam ||
-|| [[span class="controller "]]**@@^@@**+A[[/span]] || Oyaji No Kodzuki || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@#@@**+B[[/span]] || Oyaji No Kangeki || Elimination System ||
-|| [[span class="controller "]]**@**+C[[/span]] || Oyaji No Muchi || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@$^@@**+B[[/span]] || Ikari No Gigaton Tataki || Rolling System ||
-|| [[span class="controller "]]**@@$^@@**+A[[/span]] || Oyaji No Genkotsu || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@$^@@**+D[[/span]] || Oyaji No Dohyou || ##CCC|――――――――## ||
-|| While dashing [[span class="controller "]]B, [[/span]] Repeat [[span class="controller"]]B[[/span]] || Kyuu Kaze to Taiyou no Ikari || ##CCC|――――――――## ||
-|| While dashing [[span class="controller "]]D[[/span]] || Oyaji No Touritsu Nage || ##CCC|――――――――## ||
-|| Facing away [[span class="controller "]]C[[/span]] or [[span class="controller"]]D[[/span]] || ##CCC|――――――――## || Hyde Shock ||
-|| [[span class="controller "]]**@@$@@**+B[[/span]] || Daichi No Jougai Homerun || Feel Impetient System ||
-|| [[span class="controller "]]?[[/span]] || ##CCC|――――――――## || Reload ||
-|| [[span class="controller qcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Daichi no Ikari || Wave System ||
-|| [[span class="controller qcb"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Ganko Muchageri || ##CCC|――――――――## ||
-|| [[span class="controller dpf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Kaze to Taiyou no Ikari || ##CCC|――――――――## ||
-|| [[span class="controller dpf"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Daichi no Mezame || ##CCC|――――――――## ||
-|| [[span class="controller hcf"]]C[[/span]] or [[span class="controller"]]D[[/span]] || ##CCC|――――――――## || Split Second System ||
-|| [[span class="controller hcb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Daichi no Otakebi || Charge System ||
-|| [[span class="controller "]]**@@*&$!@#^@@**D[[/span]] || Bakuretsu Dai Shizen || ##CCC|――――――――## ||
-|| [[span class="controller "]]A+B[[/span]] or [[span class="controller"]]C+D[[/span]] || Tairiku Gekichindan || Sword Of Id ||
-|| [[span class="controller "]]**@@^$^@@**+B[[/span]] || Daichi Hyakusai || Hyperwave ||
-|| [[span class="controller "]]AAB[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]A**@@^@@**+B[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]CCCC[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]**@@^@@**+AA**@**+B[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]2AAB[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]2CC[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]2CCC[[/span]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct s]] || Oyaji No Kodzuki || ##CCC|――――――――## ||
+|| [[i|ct d3]][[i|ct plus]][[i|ct t]] || Oyaji No Kangeki || Elimination System ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct x]] || Oyaji No Muchi || ##CCC|――――――――## ||
+|| [[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || Ikari No Gigaton Tataki || Rolling System ||
+|| [[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct s]] || Oyaji No Genkotsu || ##CCC|――――――――## ||
+|| [[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct o]] || Oyaji No Dohyou || ##CCC|――――――――## ||
+|| While dashing [[i|ct t]] Repeat [[span class="controller"]]B[[/span]] || Kyuu Kaze to Taiyou no Ikari || ##CCC|――――――――## ||
+|| While dashing [[i|ct o]] || Oyaji No Touritsu Nage || ##CCC|――――――――## ||
+|| Facing away [[i|ct x]] or [[i|ct o]] || ##CCC|――――――――## || Hyde Shock ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] || Daichi No Jougai Homerun || Feel Impetient System ||
+|| [[i|ct sel]] || ##CCC|――――――――## || Reload ||
+|| [[i|ct qcf]][[i|ct s]] or [[i|ct t]] || Daichi no Ikari || Wave System ||
+|| [[i|ct qcb]][[i|ct x]] or [[i|ct o]] || Ganko Muchageri || ##CCC|――――――――## ||
+|| [[i|ct dpf]][[i|ct s]] or [[i|ct t]] || Kaze to Taiyou no Ikari || ##CCC|――――――――## ||
+|| [[i|ct dpf]][[i|ct x]] or [[i|ct o]] || Daichi no Mezame || ##CCC|――――――――## ||
+|| [[i|ct hcf]][[i|ct x]] or [[i|ct o]] || ##CCC|――――――――## || Split Second System ||
+|| [[i|ct hcb]][[i|ct s]] or [[i|ct t]] || Daichi no Otakebi || Charge System ||
+|| [[i|ct d8]][[i|ct d7]][[i|ct d4]][[i|ct d1]][[i|ct d2]][[i|ct d3]][[i|ct d6]][[i|ct o]] || Bakuretsu Dai Shizen || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct plus]][[i|ct t]] or [[i|ct x]][[i|ct plus]][[i|ct o]] || Tairiku Gekichindan || Sword Of Id ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || Daichi Hyakusai || Hyperwave ||
+|| [[i|ct s]][[i|ct s]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct x]][[i|ct x]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct s]][[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct dd2]][[i|ct s]][[i|ct s]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct dd2]][[i|ct x]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct dd2]][[i|ct x]][[i|ct x]][[i|ct x]] || ##CCC|――――――――## || ✔ ||
 + Gaia and Tau
 ||~ Command ||~ Gaia ||~ Tau ||
-|| [[span class="controller "]]**@@^@@**+A[[/span]] || Karasu || Eagle Crush ||
-|| [[span class="controller "]]**@@^@@**+C[[/span]] || Inu Hiki || Jackal Fang ||
-|| [[span class="controller "]]**@@^@@**+D[[/span]] || Inu Ate || Buffalo Horn ||
-|| [[span class="controller "]]**@**+A[[/span]] || Kanmuri || Climbing Curve ||
-|| [[span class="controller "]]**@**+C[[/span]] || Inu Harai || Wolf Dance ||
-|| [[span class="controller "]]**@**+D[[/span]] || Inu Maneki || Bear Killer ||
-|| [[span class="controller "]]**@@*@@**+A[[/span]] || Hane Kiri || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@^$@@**+B[[/span]] || Shishi no Mai || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@$^@@**+B[[/span]] || Tsuki no Wa || Jaguar Fang ||
-|| While dashing [[span class="controller "]]**@**+D[[/span]] || Inu Hashiri || Slasher Hawk ||
-|| [[span class="controller "]]**@@$@@**+B[[/span]] || Oni no Hi || Tiger Claw ||
-|| [[span class="controller qcb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Ougi || ##CCC|――――――――## ||
-|| [[span class="controller qcb"]]C[[/span]] or [[span class="controller"]]D[[/span]] || ##CCC|――――――――## || Eagle Beak ||
-|| While airborne [[span class="controller qcb"]]C[[/span]] or [[span class="controller"]]D[[/span]] || ##CCC|――――――――## || Raven Gazer ||
-|| [[span class="controller dpf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Tsubame || ##CCC|――――――――## ||
-|| [[span class="controller hcf"]]A[[/span]] || Botan || Dragon Breath ||
-|| [[span class="controller hcf"]]B[[/span]] || Botan Taikuu || Anti-air Dragon Breath ||
-|| [[span class="controller "]]A+B[[/span]] or [[span class="controller"]]C+D[[/span]] || Batsu || Eagle Fang ||
-|| [[span class="controller "]]**@@^$^@@**+B[[/span]] || Gouka No Kurenai || Eagle Fire ||
-|| [[span class="controller "]]AA**@@^@@**+A[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AA6B[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AA**@@^@@**+C[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AA6DD[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AA2AB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AA**@**+C[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AA**@@$@@**+D[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CC[[/span]] || ✔ || ✔ ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct s]] || Karasu || Eagle Crush ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct x]] || Inu Hiki || Jackal Fang ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct o]] || Inu Ate || Buffalo Horn ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct s]] || Kanmuri || Climbing Curve ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct x]] || Inu Harai || Wolf Dance ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct o]] || Inu Maneki || Bear Killer ||
+|| [[i|ct d8]][[i|ct plus]][[i|ct s]] || Hane Kiri || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct plus]][[i|ct t]] || Shishi no Mai || ##CCC|――――――――## ||
+|| [[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || Tsuki no Wa || Jaguar Fang ||
+|| While dashing [[i|ct d2]][[i|ct plus]][[i|ct o]] || Inu Hashiri || Slasher Hawk ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] || Oni no Hi || Tiger Claw ||
+|| [[i|ct qcb]][[i|ct s]] or [[i|ct t]] || Ougi || ##CCC|――――――――## ||
+|| [[i|ct qcb]][[i|ct x]] or [[i|ct o]] || ##CCC|――――――――## || Eagle Beak ||
+|| While airborne [[i|ct qcb]][[i|ct x]] or [[i|ct o]] || ##CCC|――――――――## || Raven Gazer ||
+|| [[i|ct dpf]][[i|ct s]] or [[i|ct t]] || Tsubame || ##CCC|――――――――## ||
+|| [[i|ct hcf]][[i|ct s]] || Botan || Dragon Breath ||
+|| [[i|ct hcf]][[i|ct t]] || Botan Taikuu || Anti-air Dragon Breath ||
+|| [[i|ct s]][[i|ct plus]][[i|ct t]] or [[i|ct x]][[i|ct plus]][[i|ct o]] || Batsu || Eagle Fang ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || Gouka No Kurenai || Eagle Fire ||
+|| [[i|ct s]][[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct dd6]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct dd6]][[i|ct o]][[i|ct o]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct dd2]][[i|ct s]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct d4]][[i|ct plus]][[i|ct o]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct x]] || ✔ || ✔ ||
 + Duke and Balga
 ||~ Command ||~ Duke Bartholomew Rambert ||~ Balga ||
-|| While airborne [[span class="controller "]]B[[/span]] || Croissant Tranche || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@^@@**+A[[/span]] || ##CCC|――――――――## || Rabbit Sword ||
-|| [[span class="controller "]]**@@^@@**+B[[/span]] || ##CCC|――――――――## || Left Shock ||
-|| [[span class="controller "]]**@@^@@**+C[[/span]] || Quick Thrust || ##CCC|――――――――## ||
-|| [[span class="controller "]]6B[[/span]] || Strong Float || ##CCC|――――――――## ||
-|| [[span class="controller "]]3D[[/span]] || Mowing Swing || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@**+B[[/span]] || ##CCC|――――――――## || Upper Shock ||
-|| While airborne [[span class="controller "]]**@**+B[[/span]] || ##CCC|――――――――## || Wind of Ogre ||
-|| [[span class="controller "]]1A[[/span]] || ##CCC|――――――――## || Front Slicer ||
-|| [[span class="controller "]]1B[[/span]] || ##CCC|――――――――## || Upper Sword ||
-|| [[span class="controller "]]**@@$^@@**+B[[/span]] || ##CCC|――――――――## || Round Slicer ||
-|| [[span class="controller "]]**@@$^@@**+A[[/span]] || ##CCC|――――――――## || Side Slicer ||
-|| [[span class="controller "]]**@@$@@**+D2B[[/span]] || Large Swing || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@$^@@**+D[[/span]] || Dear Laura || ##CCC|――――――――## ||
-|| [[span class="controller "]]4BB[[/span]] || ##CCC|――――――――## || Skull Destroyer ||
-|| While dashing [[span class="controller "]]D[[/span]] || Axe Volley || ##CCC|――――――――## ||
-|| While dashing [[span class="controller "]]**@**+B[[/span]] || Strong Attack || Earth Impact ||
-|| While dashing [[span class="controller "]]**@**+D[[/span]] || Ankle Hunt || Earth Slide ||
-|| [[span class="controller "]]**@@$@@**+B[[/span]] || Angel Tears || Ebony Slicer ||
-|| [[span class="controller qcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Death || Genocide Crusher ||
-|| While airborne [[span class="controller qcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Helm Crash || Killing Sword ||
-|| [[span class="controller qcf"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Coffin || ##CCC|――――――――## ||
-|| [[span class="controller qcb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Southern Cross || Nightmare Splash ||
-|| [[span class="controller dpf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Big Dipper || Blast Blade ||
-|| [[span class="controller hcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Hard Rose || ##CCC|――――――――## ||
-|| [[span class="controller hcb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || ##CCC|――――――――## || Crazy Blade ||
-|| [[span class="controller "]]A+B[[/span]] or [[span class="controller"]]C+D[[/span]] || Grand Cross || Berserker Blast ||
-|| [[span class="controller "]]**@@^$^@@**+B[[/span]] || The End || Dead End ||
-|| [[span class="controller "]]AAA[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]AA**@**+A[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]AB[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]A**@@^@@**+A[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]A**@@^@@**+C[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]A**@@^@@**+D[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]A**@**+A[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]CA[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]CCD[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]CC6B[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@^@@**+AA[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]**@@^@@**+AB[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]**@@^@@**+CD[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@^@@**+C6B[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]2AAAB[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]2AB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]2BB[[/span]] || ##CCC|――――――――## || ✔ ||
-|| [[span class="controller "]]2B4D[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]2CCCB[[/span]] || ✔ || ##CCC|――――――――## ||
+|| While airborne [[i|ct t]] || Croissant Tranche || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct s]] || ##CCC|――――――――## || Rabbit Sword ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct t]] || ##CCC|――――――――## || Left Shock ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct x]] || Quick Thrust || ##CCC|――――――――## ||
+|| [[i|ct dd6]][[i|ct t]] || Strong Float || ##CCC|――――――――## ||
+|| [[i|ct dd3]][[i|ct o]] || Mowing Swing || ##CCC|――――――――## ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct t]] || ##CCC|――――――――## || Upper Shock ||
+|| While airborne [[i|ct d2]][[i|ct plus]][[i|ct t]] || ##CCC|――――――――## || Wind of Ogre ||
+|| [[i|ct dd1]][[i|ct s]] || ##CCC|――――――――## || Front Slicer ||
+|| [[i|ct dd1]][[i|ct t]] || ##CCC|――――――――## || Upper Sword ||
+|| [[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || ##CCC|――――――――## || Round Slicer ||
+|| [[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ##CCC|――――――――## || Side Slicer ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct o]][[i|ct dd2]][[i|ct t]] || Large Swing || ##CCC|――――――――## ||
+|| [[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct o]] || Dear Laura || ##CCC|――――――――## ||
+|| [[i|ct dd4]][[i|ct t]][[i|ct t]] || ##CCC|――――――――## || Skull Destroyer ||
+|| While dashing [[i|ct o]] || Axe Volley || ##CCC|――――――――## ||
+|| While dashing [[i|ct d2]][[i|ct plus]][[i|ct t]] || Strong Attack || Earth Impact ||
+|| While dashing [[i|ct d2]][[i|ct plus]][[i|ct o]] || Ankle Hunt || Earth Slide ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] || Angel Tears || Ebony Slicer ||
+|| [[i|ct qcf]][[i|ct s]] or [[i|ct t]] || Death || Genocide Crusher ||
+|| While airborne [[i|ct qcf]][[i|ct s]] or [[i|ct t]] || Helm Crash || Killing Sword ||
+|| [[i|ct qcf]][[i|ct x]] or [[i|ct o]] || Coffin || ##CCC|――――――――## ||
+|| [[i|ct qcb]][[i|ct s]] or [[i|ct t]] || Southern Cross || Nightmare Splash ||
+|| [[i|ct dpf]][[i|ct s]] or [[i|ct t]] || Big Dipper || Blast Blade ||
+|| [[i|ct hcf]][[i|ct s]] or [[i|ct t]] || Hard Rose || ##CCC|――――――――## ||
+|| [[i|ct hcb]][[i|ct s]] or [[i|ct t]] || ##CCC|――――――――## || Crazy Blade ||
+|| [[i|ct s]][[i|ct plus]][[i|ct t]] or [[i|ct x]][[i|ct plus]][[i|ct o]] || Grand Cross || Berserker Blast ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || The End || Dead End ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct s]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct x]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct o]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct s]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct x]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct x]][[i|ct o]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct x]][[i|ct dd6]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct s]][[i|ct s]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct s]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct x]][[i|ct o]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct x]][[i|ct dd6]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct dd2]][[i|ct s]][[i|ct s]][[i|ct s]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct dd2]][[i|ct s]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct dd2]][[i|ct t]][[i|ct t]] || ##CCC|――――――――## || ✔ ||
+|| [[i|ct dd2]][[i|ct t]][[i|ct dd4]][[i|ct o]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct dd2]][[i|ct x]][[i|ct x]][[i|ct x]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
 + Ellis and Atahua
 ||~ Command ||~ Ellis ||~ Atahua ||
-|| [[span class="controller "]]**@@^@@**+A[[/span]] || Just a Moment! || Frontal Cut ||
-|| [[span class="controller "]]**@@^@@**+D[[/span]] || Pretty Hip || Hip Attack ||
-|| [[span class="controller "]]3B[[/span]] || Upper Slash || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@**+B[[/span]] || Knuckle Drop || Foot Punch ||
-|| [[span class="controller "]]**@@$^@@**+B[[/span]] || Finally! || Blowgun Attack ||
-|| Facing away [[span class="controller "]]DD[[/span]] || Hip Attack || Twin Hip ||
-|| [[span class="controller "]]**@@$@@**+B[[/span]] || Royal Baiser || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@$@@**+B, [[/span]] or [[span class="controller"]]D[[/span]] || ##CCC|――――――――## || Ancient Double Claw ||
-|| [[span class="controller "]]?[[/span]] || Sorry! || ##CCC|――――――――## ||
-|| [[span class="controller qcb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Lollipop || ##CCC|――――――――## ||
-|| While airborne [[span class="controller qcb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Arc Slash || Thump Thump! ||
-|| [[span class="controller qcb"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Homing Swallow || ##CCC|――――――――## ||
-|| While airborne [[span class="controller qcb"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Sickle Dancing || Round and Round ||
-|| [[span class="controller dpf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Soar Wind || Breaking Fast ||
-|| [[span class="controller dpf"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Cutie Hornet || Yea yea yea! ||
-|| [[span class="controller hcb"]]C[[/span]] || Sneeze! || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@#@!@#$^@@**B[[/span]] || Stardust Night || ##CCC|――――――――## ||
-|| [[span class="controller fcf"]]**@@#@!$@@**B[[/span]] || Love Ribbon || ##CCC|――――――――## ||
-|| [[span class="controller fcf"]]B[[/span]] || ##CCC|――――――――## || Ancient Giant Swing ||
-|| [[span class="controller "]]A+B[[/span]] or [[span class="controller"]]C+D[[/span]] || Kiss Kiss Kiss! || Kiss Kiss Kiss! ||
-|| [[span class="controller "]]**@@^$^@@**+B[[/span]] || French Kiss || French Kiss ||
-|| [[span class="controller "]]AABBB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AABB**@@^@@**+A[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AA**@@^@@**+A[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AA**@@$@@**+A[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]ACC[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]BBB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CBB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CCBB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CC**@@^@@**+A[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]C**@@^@@**+A[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]C**@@$@@**+A[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]D**@**+D[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]**@@^@@**+DD**@**+D[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]2AAA[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]2A**@@^@@**+A[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]2A**@@$@@**+A[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]2CAAA[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]2CA**@@^@@**+A[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]2CA**@**+B[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]2C**@@^@@**+A[[/span]] || ✔ || ✔ ||
-|| Facing away [[span class="controller "]]CA[[/span]] || ✔ || ✔ ||
-|| Facing away [[span class="controller "]]CB[[/span]] || ✔ || ✔ ||
-|| Facing away [[span class="controller "]]CCA[[/span]] || ✔ || ✔ ||
-|| Facing away [[span class="controller "]]CCB[[/span]] || ✔ || ✔ ||
-|| Facing away [[span class="controller "]]CDA[[/span]] || ✔ || ✔ ||
-|| Facing away [[span class="controller "]]CDB[[/span]] || ✔ || ✔ ||
-|| Facing away [[span class="controller "]]C**@**+C[[/span]] || ✔ || ✔ ||
-|| Facing away [[span class="controller "]]C**@**+D[[/span]] || ✔ || ✔ ||
-|| Facing away [[span class="controller "]]DB[[/span]] || ✔ || ✔ ||
-|| Facing away [[span class="controller "]]DDB[[/span]] || ✔ || ✔ ||
-|| Facing away [[span class="controller "]]D**@**+D[[/span]] || ✔ || ✔ ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct s]] || Just a Moment! || Frontal Cut ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct o]] || Pretty Hip || Hip Attack ||
+|| [[i|ct dd3]][[i|ct t]] || Upper Slash || ##CCC|――――――――## ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct t]] || Knuckle Drop || Foot Punch ||
+|| [[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || Finally! || Blowgun Attack ||
+|| Facing away [[i|ct o]][[i|ct o]] || Hip Attack || Twin Hip ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] || Royal Baiser || ##CCC|――――――――## ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] or [[span class="controller"]]D[[/span]] || ##CCC|――――――――## || Ancient Double Claw ||
+|| [[i|ct sel]] || Sorry! || ##CCC|――――――――## ||
+|| [[i|ct qcb]][[i|ct s]] or [[i|ct t]] || Lollipop || ##CCC|――――――――## ||
+|| While airborne [[i|ct qcb]][[i|ct s]] or [[i|ct t]] || Arc Slash || Thump Thump! ||
+|| [[i|ct qcb]][[i|ct x]] or [[i|ct o]] || Homing Swallow || ##CCC|――――――――## ||
+|| While airborne [[i|ct qcb]][[i|ct x]] or [[i|ct o]] || Sickle Dancing || Round and Round ||
+|| [[i|ct dpf]][[i|ct s]] or [[i|ct t]] || Soar Wind || Breaking Fast ||
+|| [[i|ct dpf]][[i|ct x]] or [[i|ct o]] || Cutie Hornet || Yea yea yea! ||
+|| [[i|ct hcb]][[i|ct x]] || Sneeze! || ##CCC|――――――――## ||
+|| [[i|ct d3]][[i|ct d2]][[i|ct d1]][[i|ct d2]][[i|ct d3]][[i|ct d4]][[i|ct d6]][[i|ct t]] || Stardust Night || ##CCC|――――――――## ||
+|| [[i|ct fcf]][[i|ct d3]][[i|ct d2]][[i|ct d1]][[i|ct d4]][[i|ct t]] || Love Ribbon || ##CCC|――――――――## ||
+|| [[i|ct fcf]][[i|ct t]] || ##CCC|――――――――## || Ancient Giant Swing ||
+|| [[i|ct s]][[i|ct plus]][[i|ct t]] or [[i|ct x]][[i|ct plus]][[i|ct o]] || Kiss Kiss Kiss! || Kiss Kiss Kiss! ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || French Kiss || French Kiss ||
+|| [[i|ct s]][[i|ct s]][[i|ct t]][[i|ct t]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct t]][[i|ct t]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct d4]][[i|ct plus]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct x]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct t]][[i|ct t]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct t]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct x]][[i|ct t]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct x]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct d4]][[i|ct plus]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct o]][[i|ct d2]][[i|ct plus]][[i|ct o]] || ✔ || ✔ ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct o]][[i|ct o]][[i|ct d2]][[i|ct plus]][[i|ct o]] || ✔ || ✔ ||
+|| [[i|ct dd2]][[i|ct s]][[i|ct s]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct dd2]][[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct dd2]][[i|ct s]][[i|ct d4]][[i|ct plus]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct dd2]][[i|ct x]][[i|ct s]][[i|ct s]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct dd2]][[i|ct x]][[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct dd2]][[i|ct x]][[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct dd2]][[i|ct x]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ✔ || ✔ ||
+|| Facing away [[i|ct x]][[i|ct s]] || ✔ || ✔ ||
+|| Facing away [[i|ct x]][[i|ct t]] || ✔ || ✔ ||
+|| Facing away [[i|ct x]][[i|ct x]][[i|ct s]] || ✔ || ✔ ||
+|| Facing away [[i|ct x]][[i|ct x]][[i|ct t]] || ✔ || ✔ ||
+|| Facing away [[i|ct x]][[i|ct o]][[i|ct s]] || ✔ || ✔ ||
+|| Facing away [[i|ct x]][[i|ct o]][[i|ct t]] || ✔ || ✔ ||
+|| Facing away [[i|ct x]][[i|ct d2]][[i|ct plus]][[i|ct x]] || ✔ || ✔ ||
+|| Facing away [[i|ct x]][[i|ct d2]][[i|ct plus]][[i|ct o]] || ✔ || ✔ ||
+|| Facing away [[i|ct o]][[i|ct t]] || ✔ || ✔ ||
+|| Facing away [[i|ct o]][[i|ct o]][[i|ct t]] || ✔ || ✔ ||
+|| Facing away [[i|ct o]][[i|ct d2]][[i|ct plus]][[i|ct o]] || ✔ || ✔ ||
 + Shizuku and Miss Til
 ||~ Command ||~ Shizuku Fuji ||~ Miss Til ||
-|| [[span class="controller "]]**@@*@@**+D[[/span]] || Kujaku || Crescent Kick ||
-|| Facing away [[span class="controller "]]C[[/span]] or [[span class="controller"]]D[[/span]] || Suzaku Otoshi || Furyon ||
-|| [[span class="controller "]]**@@$@@**+B[[/span]] || Hana Teppou || Holy Nymph ||
-|| [[span class="controller "]]**@@$@@**+D[[/span]] || Gen'ei Karin || Reversal Rave ||
-|| [[span class="controller "]]?[[/span]] || Kaen'zakura || ##CCC|――――――――## ||
-|| [[span class="controller qcf"]]D[[/span]] || Uzushio No Mai || Spirits Dance ||
-|| [[span class="controller qcb"]]B[[/span]] || Oroshi Shajou || Spirits Dagger (Upper) ||
-|| [[span class="controller qcb"]]A[[/span]] || Oroshi Suihei || Spirits Dagger (Lower) ||
-|| While airborne [[span class="controller qcb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Aerial Oroshi || ##CCC|――――――――## ||
-|| [[span class="controller dpf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Yume'zakura || Dance of Death ||
-|| [[span class="controller hcf"]]B[[/span]] || Jiraishin || Phantom Tale ||
-|| [[span class="controller hcb"]]**@@!$^$@@**B[[/span]] || Sanren'enka || Triangle Fire Breath ||
-|| [[span class="controller "]]A+B[[/span]] or [[span class="controller"]]C+D[[/span]] || Fushichou || Fascinate Vicious ||
-|| [[span class="controller "]]**@@^$^@@**+B[[/span]] || Kurenai Daikarin || Evil Fire ||
-|| [[span class="controller "]]AAAA[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AAAB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AAAC[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AAC[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AA2AA[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AA2AB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AA2AC[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AA6C[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]ACA[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AC6A[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]A**@**+CA[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]A2CA[[/span]] || ✔ || ✔ ||
+|| [[i|ct d8]][[i|ct plus]][[i|ct o]] || Kujaku || Crescent Kick ||
+|| Facing away [[i|ct x]] or [[i|ct o]] || Suzaku Otoshi || Furyon ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] || Hana Teppou || Holy Nymph ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct o]] || Gen'ei Karin || Reversal Rave ||
+|| [[i|ct sel]] || Kaen'zakura || ##CCC|――――――――## ||
+|| [[i|ct qcf]][[i|ct o]] || Uzushio No Mai || Spirits Dance ||
+|| [[i|ct qcb]][[i|ct t]] || Oroshi Shajou || Spirits Dagger (Upper) ||
+|| [[i|ct qcb]][[i|ct s]] || Oroshi Suihei || Spirits Dagger (Lower) ||
+|| While airborne [[i|ct qcb]][[i|ct s]] or [[i|ct t]] || Aerial Oroshi || ##CCC|――――――――## ||
+|| [[i|ct dpf]][[i|ct s]] or [[i|ct t]] || Yume'zakura || Dance of Death ||
+|| [[i|ct hcf]][[i|ct t]] || Jiraishin || Phantom Tale ||
+|| [[i|ct hcb]][[i|ct d1]][[i|ct d4]][[i|ct d6]][[i|ct d4]][[i|ct t]] || Sanren'enka || Triangle Fire Breath ||
+|| [[i|ct s]][[i|ct plus]][[i|ct t]] or [[i|ct x]][[i|ct plus]][[i|ct o]] || Fushichou || Fascinate Vicious ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || Kurenai Daikarin || Evil Fire ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct dd2]][[i|ct s]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct dd2]][[i|ct s]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct dd2]][[i|ct s]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct dd6]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct x]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct x]][[i|ct dd6]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct x]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct dd2]][[i|ct x]][[i|ct s]] || ✔ || ✔ ||
 + Shou
 ||~ Command ||||~ Shou Shinjo|| 
-|| [[span class="controller "]]**@@^@@**+C[[/span]] || Mizo'ochi Geri || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@#@@**+B[[/span]] || Gyaku Karatakewari || ##CCC|――――――――## ||
-|| While dashing [[span class="controller "]]**@@$@@**+D[[/span]] || Shipuuhadan || ##CCC|――――――――## ||
-|| Facing away [[span class="controller "]]A[[/span]] or [[span class="controller"]]B[[/span]] || Ura Oni'uchi || ##CCC|――――――――## ||
-|| Facing away [[span class="controller "]]C[[/span]] or [[span class="controller"]]D[[/span]] || Ura Ashikarigeri || ##CCC|――――――――## ||
-|| Facing away [[span class="controller "]]**@**A[[/span]] or [[span class="controller"]]B[[/span]] || Ura Setsunadzuki || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@$@@**+B[[/span]] || Gasetsuzan || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@$@@**+D[[/span]] || Ryuusenkyaku || ##CCC|――――――――## ||
-|| [[span class="controller qcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Rekkuuzan || ##CCC|――――――――## ||
-|| [[span class="controller qcf"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Zhuseigyo || ##CCC|――――――――## ||
-|| While airborne [[span class="controller qcf"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Suiseikyaku || ##CCC|――――――――## ||
-|| [[span class="controller qcb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Shishouzan || ##CCC|――――――――## ||
-|| [[span class="controller qcb"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Senkouga || ##CCC|――――――――## ||
-|| While airborne [[span class="controller qcb"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Gekkousen || ##CCC|――――――――## ||
-|| [[span class="controller dpf"]]A[[/span]] or [[span class="controller"]]B, [[/span]] During Strong Slash version [[span class="controller"]]C[[/span]] || Hishouzan Kai || ##CCC|――――――――## ||
-|| [[span class="controller dpb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Zetsumetsuzan || ##CCC|――――――――## ||
-|| [[span class="controller hcb"]]B[[/span]] || Zenten Nage 2 || ##CCC|――――――――## ||
-|| [[span class="controller hcb"]]D[[/span]] || Zenten Nage 1 || ##CCC|――――――――## ||
-|| [[span class="controller hcb"]]**@@!$^$@@**D[[/span]] || Enmaresshuusai || ##CCC|――――――――## ||
-|| [[span class="controller dpfdpf"]]B[[/span]] || Enjinshuraha || ##CCC|――――――――## ||
-|| [[span class="controller fcf"]]**@@#@!$@@**B[[/span]] || Mizukara o Tatsu || ##CCC|――――――――## ||
-|| [[span class="controller "]]A+B[[/span]] or [[span class="controller"]]C+D, [[/span]] Repeat [[span class="controller"]]B[[/span]] || Jigokugokurakumon || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@^$^@@**+B[[/span]] || Bankimoushuuken || ##CCC|――――――――## ||
-|| [[span class="controller "]]AAAA[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AAAB[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]AAA**@**+A[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]ACA[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]A**@@^@@**+AAA**@@^@@**+A[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]A**@@^@@**+AAA**@@^@@**+B[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]CCCB[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]CCCC[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]CCCD[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]CCC**@**+B[[/span]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct x]] || Mizo'ochi Geri || ##CCC|――――――――## ||
+|| [[i|ct d3]][[i|ct plus]][[i|ct t]] || Gyaku Karatakewari || ##CCC|――――――――## ||
+|| While dashing [[i|ct d4]][[i|ct plus]][[i|ct o]] || Shipuuhadan || ##CCC|――――――――## ||
+|| Facing away [[i|ct s]] or [[i|ct t]] || Ura Oni'uchi || ##CCC|――――――――## ||
+|| Facing away [[i|ct x]] or [[i|ct o]] || Ura Ashikarigeri || ##CCC|――――――――## ||
+|| Facing away [[i|ct d2]][[i|ct s]] or [[i|ct t]] || Ura Setsunadzuki || ##CCC|――――――――## ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] || Gasetsuzan || ##CCC|――――――――## ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct o]] || Ryuusenkyaku || ##CCC|――――――――## ||
+|| [[i|ct qcf]][[i|ct s]] or [[i|ct t]] || Rekkuuzan || ##CCC|――――――――## ||
+|| [[i|ct qcf]][[i|ct x]] or [[i|ct o]] || Zhuseigyo || ##CCC|――――――――## ||
+|| While airborne [[i|ct qcf]][[i|ct x]] or [[i|ct o]] || Suiseikyaku || ##CCC|――――――――## ||
+|| [[i|ct qcb]][[i|ct s]] or [[i|ct t]] || Shishouzan || ##CCC|――――――――## ||
+|| [[i|ct qcb]][[i|ct x]] or [[i|ct o]] || Senkouga || ##CCC|――――――――## ||
+|| While airborne [[i|ct qcb]][[i|ct x]] or [[i|ct o]] || Gekkousen || ##CCC|――――――――## ||
+|| [[i|ct dpf]][[i|ct s]] or [[i|ct t]] During Strong Slash version [[span class="controller"]]C[[/span]] || Hishouzan Kai || ##CCC|――――――――## ||
+|| [[i|ct dpb]][[i|ct s]] or [[i|ct t]] || Zetsumetsuzan || ##CCC|――――――――## ||
+|| [[i|ct hcb]][[i|ct t]] || Zenten Nage 2 || ##CCC|――――――――## ||
+|| [[i|ct hcb]][[i|ct o]] || Zenten Nage 1 || ##CCC|――――――――## ||
+|| [[i|ct hcb]][[i|ct d1]][[i|ct d4]][[i|ct d6]][[i|ct d4]][[i|ct o]] || Enmaresshuusai || ##CCC|――――――――## ||
+|| [[i|ct dpfdpf]][[i|ct t]] || Enjinshuraha || ##CCC|――――――――## ||
+|| [[i|ct fcf]][[i|ct d3]][[i|ct d2]][[i|ct d1]][[i|ct d4]][[i|ct t]] || Mizukara o Tatsu || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct plus]][[i|ct t]] or [[i|ct x]][[i|ct plus]][[i|ct o]] Repeat [[span class="controller"]]B[[/span]] || Jigokugokurakumon || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || Bankimoushuuken || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct s]][[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct x]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct s]][[i|ct s]][[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct s]][[i|ct s]][[i|ct s]][[i|ct d6]][[i|ct plus]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct x]][[i|ct x]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct x]][[i|ct x]][[i|ct x]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct x]][[i|ct x]][[i|ct o]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct x]][[i|ct x]][[i|ct d2]][[i|ct plus]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
 + Abel and Veil
 ||~ Command ||~ Abel ||~ Veil ||
-|| [[span class="controller "]]**@@^@@**+A[[/span]] || Upper Fist || Upper Sword ||
-|| [[span class="controller "]]**@@^@@**+C[[/span]] || Blue Rejection || Blue Rejection ||
-|| [[span class="controller "]]**@@^@@**+D[[/span]] || Fake Cyclone || Fake Tornado ||
-|| [[span class="controller "]]6B[[/span]] || Red Fist || Red Upper Sword ||
-|| [[span class="controller "]]**@**+AA[[/span]] || Down Beat || Down Beat ||
-|| [[span class="controller "]]**@**+BBBB[[/span]] || Black Sabbath || Black Sabbath ||
-|| [[span class="controller "]]**@**+C[[/span]] || Under Labor || Under Labor ||
-|| While dashing [[span class="controller "]]D[[/span]] || Heel Drop || Heel Drop ||
-|| While dashing [[span class="controller "]]**@**+C[[/span]] || Fake Slash || ##CCC|――――――――## ||
-|| While dashing [[span class="controller "]]**@@*@@**+C[[/span]] || Highest Groove || Highest Groove ||
-|| [[span class="controller "]]**@@$@@**+B[[/span]] || Maximum Knuckle || Excellent Sword ||
-|| [[span class="controller "]]**@@$@@**+D[[/span]] || Maximum Kick || Excellent Kick ||
-|| [[span class="controller qcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Hakidan || Hakidan ||
-|| [[span class="controller qcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || ##CCC|――――――――## || Aerial Hakidan ||
-|| [[span class="controller qcb"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Hell's Cyclone || Hell's Tornado ||
-|| [[span class="controller dpf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Ground Tackle || Ground Tackle ||
-|| [[span class="controller dpf"]]C[[/span]] or [[span class="controller"]]D[[/span]] || ##CCC|――――――――## || Invisible Move Forward ||
-|| [[span class="controller dpb"]]C[[/span]] or [[span class="controller"]]D[[/span]] || ##CCC|――――――――## || Invisible Move Backward ||
-|| [[span class="controller hcf"]]D[[/span]] || ##CCC|――――――――## || Skydive Revenge ||
-|| [[span class="controller qcfqcf"]]B, [[/span]] Repeat [[span class="controller"]]B[[/span]] || Kourin Hakidan || Kourin Hakidan ||
-|| While airborne [[span class="controller qcfqcf"]]B[[/span]] || ##CCC|――――――――## || Soumakidan ||
-|| [[span class="controller hcb"]]**@@!$^$@@**B[[/span]] || Triple Illusion || Veil Ultimate Phantom ||
-|| [[span class="controller hcb"]]B[[/span]] || ##CCC|――――――――## || Triple Illusion ||
-|| [[span class="controller "]]A+B[[/span]] or [[span class="controller"]]C+D[[/span]] || Abel Stardust Night || Fatal Meteor Blow ||
-|| [[span class="controller "]]**@@^$^@@**+B[[/span]] || Abel Ultimate Phantom || Fanatic Illusion ||
-|| [[span class="controller "]]AABB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AAB**@**+B[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]ABBAA[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]ABBACDB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]ABBACDD[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]ABCCCCB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]ABCCCC**@**+B[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]ABD[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]AB**@@^@@**+A[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]A**@**+AA[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]A**@**+A**@@$@@**+B[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]A2CD[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]A**@@$@@**+A[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CBD[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CB**@@^@@**+A[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CCC[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CCDD[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CCD**@@^@@**+D[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]CDB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]C**@@^@@**+C[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]DDD[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]**@@^@@**+AAB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]**@@^@@**+AA**@**+B[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]**@@^@@**+ADB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]**@@^@@**+ADC[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]**@**+AB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]2CCB[[/span]] || ✔ || ✔ ||
-|| [[span class="controller "]]2CCC[[/span]] || ✔ || ✔ ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct s]] || Upper Fist || Upper Sword ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct x]] || Blue Rejection || Blue Rejection ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct o]] || Fake Cyclone || Fake Tornado ||
+|| [[i|ct dd6]][[i|ct t]] || Red Fist || Red Upper Sword ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct s]][[i|ct s]] || Down Beat || Down Beat ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct t]][[i|ct t]][[i|ct t]][[i|ct t]] || Black Sabbath || Black Sabbath ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct x]] || Under Labor || Under Labor ||
+|| While dashing [[i|ct o]] || Heel Drop || Heel Drop ||
+|| While dashing [[i|ct d2]][[i|ct plus]][[i|ct x]] || Fake Slash || ##CCC|――――――――## ||
+|| While dashing [[i|ct d8]][[i|ct plus]][[i|ct x]] || Highest Groove || Highest Groove ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] || Maximum Knuckle || Excellent Sword ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct o]] || Maximum Kick || Excellent Kick ||
+|| [[i|ct qcf]][[i|ct s]] or [[i|ct t]] || Hakidan || Hakidan ||
+|| [[i|ct qcf]][[i|ct s]] or [[i|ct t]] || ##CCC|――――――――## || Aerial Hakidan ||
+|| [[i|ct qcb]][[i|ct x]] or [[i|ct o]] || Hell's Cyclone || Hell's Tornado ||
+|| [[i|ct dpf]][[i|ct s]] or [[i|ct t]] || Ground Tackle || Ground Tackle ||
+|| [[i|ct dpf]][[i|ct x]] or [[i|ct o]] || ##CCC|――――――――## || Invisible Move Forward ||
+|| [[i|ct dpb]][[i|ct x]] or [[i|ct o]] || ##CCC|――――――――## || Invisible Move Backward ||
+|| [[i|ct hcf]][[i|ct o]] || ##CCC|――――――――## || Skydive Revenge ||
+|| [[i|ct qcfqcf]][[i|ct t]] Repeat [[span class="controller"]]B[[/span]] || Kourin Hakidan || Kourin Hakidan ||
+|| While airborne [[i|ct qcfqcf]][[i|ct t]] || ##CCC|――――――――## || Soumakidan ||
+|| [[i|ct hcb]][[i|ct d1]][[i|ct d4]][[i|ct d6]][[i|ct d4]][[i|ct t]] || Triple Illusion || Veil Ultimate Phantom ||
+|| [[i|ct hcb]][[i|ct t]] || ##CCC|――――――――## || Triple Illusion ||
+|| [[i|ct s]][[i|ct plus]][[i|ct t]] or [[i|ct x]][[i|ct plus]][[i|ct o]] || Abel Stardust Night || Fatal Meteor Blow ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || Abel Ultimate Phantom || Fanatic Illusion ||
+|| [[i|ct s]][[i|ct s]][[i|ct t]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct s]][[i|ct t]][[i|ct d2]][[i|ct plus]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct t]][[i|ct t]][[i|ct s]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct t]][[i|ct t]][[i|ct s]][[i|ct x]][[i|ct o]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct t]][[i|ct t]][[i|ct s]][[i|ct x]][[i|ct o]][[i|ct o]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct t]][[i|ct x]][[i|ct x]][[i|ct x]][[i|ct x]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct t]][[i|ct x]][[i|ct x]][[i|ct x]][[i|ct x]][[i|ct d2]][[i|ct plus]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct t]][[i|ct o]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct t]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct s]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct s]][[i|ct d4]][[i|ct plus]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct dd2]][[i|ct x]][[i|ct o]] || ✔ || ✔ ||
+|| [[i|ct s]][[i|ct d4]][[i|ct plus]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct t]][[i|ct o]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct t]][[i|ct d6]][[i|ct plus]][[i|ct s]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct x]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct x]][[i|ct o]][[i|ct o]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct x]][[i|ct o]][[i|ct d6]][[i|ct plus]][[i|ct o]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct o]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct x]][[i|ct d6]][[i|ct plus]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct o]][[i|ct o]][[i|ct o]] || ✔ || ✔ ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct s]][[i|ct s]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct s]][[i|ct s]][[i|ct d2]][[i|ct plus]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct s]][[i|ct o]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct d6]][[i|ct plus]][[i|ct s]][[i|ct o]][[i|ct x]] || ✔ || ✔ ||
+|| [[i|ct d2]][[i|ct plus]][[i|ct s]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct dd2]][[i|ct x]][[i|ct x]][[i|ct t]] || ✔ || ✔ ||
+|| [[i|ct dd2]][[i|ct x]][[i|ct x]][[i|ct x]] || ✔ || ✔ ||
 + Naru
 ||~ Command ||||~ Naru Amoh|| 
-|| Facing away [[span class="controller "]]A[[/span]] or [[span class="controller"]]B[[/span]] || Upper Sword || ##CCC|――――――――## ||
-|| Facing away [[span class="controller "]]C[[/span]] or [[span class="controller"]]D[[/span]] || Princess Dance || ##CCC|――――――――## ||
-|| Facing away [[span class="controller "]]**@**A[[/span]] or [[span class="controller"]]B[[/span]] || Sharp Sword || ##CCC|――――――――## ||
-|| Facing away [[span class="controller "]]**@**C[[/span]] or [[span class="controller"]]D[[/span]] || Princess Kick || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@$@@**+B[[/span]] or [[span class="controller"]]D[[/span]] || Noble Play || ##CCC|――――――――## ||
-|| Idle for 3 seconds [[span class="controller "]][[/span]] || Restless Walk || ##CCC|――――――――## ||
-|| [[span class="controller qcf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Sonic Slash || ##CCC|――――――――## ||
-|| [[span class="controller qcb"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Little Princess || ##CCC|――――――――## ||
-|| [[span class="controller qcb"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Shoulder Crush || ##CCC|――――――――## ||
-|| While airborne [[span class="controller qcb"]]C[[/span]] or [[span class="controller"]]D[[/span]] || Raging Sun || ##CCC|――――――――## ||
-|| [[span class="controller dpf"]]A[[/span]] or [[span class="controller"]]B[[/span]] || Deadly Raise || ##CCC|――――――――## ||
-|| [[span class="controller "]]A+B[[/span]] or [[span class="controller"]]C+D[[/span]] || Innocent Fire || ##CCC|――――――――## ||
-|| [[span class="controller "]]**@@^$^@@**+B[[/span]] || Angel Art || ##CCC|――――――――## ||
-|| [[span class="controller "]]ABD[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]BBB[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]CBB[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]CCB[[/span]] || ✔ || ##CCC|――――――――## ||
-|| [[span class="controller "]]CCC[[/span]] || ✔ || ##CCC|――――――――## ||
+|| Facing away [[i|ct s]] or [[i|ct t]] || Upper Sword || ##CCC|――――――――## ||
+|| Facing away [[i|ct x]] or [[i|ct o]] || Princess Dance || ##CCC|――――――――## ||
+|| Facing away [[i|ct d2]][[i|ct s]] or [[i|ct t]] || Sharp Sword || ##CCC|――――――――## ||
+|| Facing away [[i|ct d2]][[i|ct x]] or [[i|ct o]] || Princess Kick || ##CCC|――――――――## ||
+|| [[i|ct d4]][[i|ct plus]][[i|ct t]] or [[i|ct o]] || Noble Play || ##CCC|――――――――## ||
+|| Idle for 3 seconds  || Restless Walk || ##CCC|――――――――## ||
+|| [[i|ct qcf]][[i|ct s]] or [[i|ct t]] || Sonic Slash || ##CCC|――――――――## ||
+|| [[i|ct qcb]][[i|ct s]] or [[i|ct t]] || Little Princess || ##CCC|――――――――## ||
+|| [[i|ct qcb]][[i|ct x]] or [[i|ct o]] || Shoulder Crush || ##CCC|――――――――## ||
+|| While airborne [[i|ct qcb]][[i|ct x]] or [[i|ct o]] || Raging Sun || ##CCC|――――――――## ||
+|| [[i|ct dpf]][[i|ct s]] or [[i|ct t]] || Deadly Raise || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct plus]][[i|ct t]] or [[i|ct x]][[i|ct plus]][[i|ct o]] || Innocent Fire || ##CCC|――――――――## ||
+|| [[i|ct d6]][[i|ct d4]][[i|ct d6]][[i|ct plus]][[i|ct t]] || Angel Art || ##CCC|――――――――## ||
+|| [[i|ct s]][[i|ct t]][[i|ct o]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct t]][[i|ct t]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct t]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct x]][[i|ct t]] || ✔ || ##CCC|――――――――## ||
+|| [[i|ct x]][[i|ct x]][[i|ct x]] || ✔ || ##CCC|――――――――## ||

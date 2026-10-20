@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>New Page</title>
+    <title>New Page - CAPA</title>
     <meta name="description" content="">
     
     <!-- Favicon -->
@@ -20,13 +20,13 @@
     <!-- OG Card -->
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://capa.asoh.xyz/assets/component/list-page-item/list-page-item-splash.jpg">
-    <meta property="og:title" content="New Page">
+    <meta property="og:title" content="New Page - CAPA">
     <meta property="og:description" content="">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="https://capa.asoh.xyz/assets/component/list-page-item/list-page-item-splash.jpg">
-    <meta name="twitter:title" content="New Page">
+    <meta name="twitter:title" content="New Page - CAPA">
     <meta name="twitter:description" content="">
     
     <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
@@ -64,15 +64,12 @@
 
     <!-- Shared navigation and TOC -->
     <div id="capa-nav-content">
-        <div class="site-title strong stroke text-center mt-4 mb-4">
-        CAPA
-        </div>
-        <div class="nav-item nav-container gradient-line line-bottom-4 line-top-4">
+        <div class="nav-item nav-container gradient-line line-top-4 line-bottom-4">
             <div class="nav-image-container main-splash-overlaid">
-                <a href="/" class="d-block"><img src="/assets/img/16x9.png" class="img-fluid aspect-4x1" title="Go to Home" alt="Go to Home"></a>
+                <a href="/" class="d-block"><img src="/assets/img/16x9.png" class="img-fluid aspect-16x9 img-site-title" title="Go to Home" alt="Go to Home"></a>
             </div>
-            <div class="nav-text-container stroke ps-2">
-                <a href="/" class="d-block"><i class="fa-solid fa-home" aria-hidden="true"></i>Home</a>
+            <div class="nav-text-container site-title strong stroke text-center">
+                <a href="/" class="d-block">CAPA</a>
             </div>
         </div>
         <div class="nav-item nav-container gradient-line line-bottom-4">
@@ -100,21 +97,22 @@
                 <main class="capa-main">
                     <div class="list-page-container {$container-class}">
 <div class="list-page-image-container rounded {$image-container-class}">
+<a href="/{$link}">
 <img class="img-fluid rounded {$image-class}" src="/assets/{$image}" alt="{$image}">
+</a>
 </div>
-<div class="list-page-text-container text-center">
-<p><span class="list-page-title strong small-caps"><a href="/{$link}">{$title}</a></span><span class="list-page-time {$sub-title-class}">{$sub-title}</span></p>
+<div class="list-page-text-container text-center {$text-container-class}">
+<span class="list-page-title strong small-caps"><a href="/{$link}">{$title}</a></span><span class="list-page-time {$sub-title-class}">{$sub-title}</span>
 </div>
 </div>
                 </main>
                 <footer class="capa-footer footer-wrap gradient-line line-top-4 ps-4 pe-4" role="contentinfo">
                     <div class="footer">
-                        <div class="footer-title capa-title serif-font strong stroke pe-4">
-                            CAPA
+                        <div class="footer-title serif-font strong stroke pt-2 pe-2">
+                            <a href="/">CAPA</a>
                         </div>
                         <div class="footer-links strong">
                             <div class="nav-area">
-                                <a href="/">Home</a> · 
                                 <a href="/guides/">Guides</a> · 
                                 <a href="/articles/">Articles</a>
                         </div>
