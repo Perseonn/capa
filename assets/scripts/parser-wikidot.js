@@ -601,9 +601,11 @@ export function renderToc(toc) {
         "utf8"
     );
 
-    const links = toc.map(item =>
-        `<a href="#${item.id}" class="toc-h${item.level}">${escapeHtml(item.text)}</a>`
-    ).join("\n");
+    const links = toc
+        .filter(item => item.level !== 4)
+        .map(item =>
+            `<a href="#${item.id}" class="toc-h${item.level}">${escapeHtml(item.text)}</a>`
+        ).join("\n");
 
     return template.replaceAll(
         "{{TOC}}",
@@ -926,8 +928,9 @@ export function parseWikidot(source, sourceName, customInlineParsers = [], tocOv
             return;
         }
 
-        const text = paragraph.join(" ");
-        const parsed = parseInline(text, customInlineParsers);
+        const text = paragraph.join("%%LINEBREAK%%"); // Trying to add <br> if lines are close to each other. default value was " "
+        const parsedFirst = parseInline(text, customInlineParsers);
+        const parsed = parsedFirst.replaceAll("%%LINEBREAK%%", "<br>\n");
 
         // Skip paragraphs that contain no meaningful content.
         if (parsed.trim() === "") {

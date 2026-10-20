@@ -125,7 +125,11 @@ Soulcalibur IV
         <img class="img-fluid " src="/assets/guides/soulcalibur-4/xvi32search1.png" alt="In this case, the address is **2B8C0**.">
         <figcaption>In this case, the address is **2B8C0**.</figcaption>
     </figure>
-<p>Referring to the above image, the character name starts at <strong>2B8C0</strong>. The character digit address is 3872 addresses before this. To find it easily, open the XVI Script Editor and enter the following: [[code]] ADR $2B8C0 ADR- 3872 [[/code]]</p>
+<p>Referring to the above image, the character name starts at <strong>2B8C0</strong>. The character digit address is 3872 addresses before this. To find it easily, open the XVI Script Editor and enter the following:<br>
+[[code]]<br>
+ADR $2B8C0<br>
+ADR- 3872<br>
+[[/code]]</p>
 <p>You&#39;ll land on the character digit address. Take note of the three addresses before it, as they represent the slot digit. If your character has multiple costumes and you arrange them sequentially, this can help you identify them.</p>
 <figure class="img-container">
         <img class="img-fluid " src="/assets/guides/soulcalibur-4/xvi32search2.png" alt="Remember, the slot digit starts at 0, so if this example shows 4, it is actually 5 in the game.">

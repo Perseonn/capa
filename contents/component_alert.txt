@@ -1,0 +1,8 @@
+[[div_ class="alert alert-{$type} d-flex"]]
+[[div_ class="alert-icon"]]
+[[i|{$icon}]]
+[[/div]]
+[[div_ class="alert-text-container"]]
+{$text}
+[[/div]]
+[[/div]]

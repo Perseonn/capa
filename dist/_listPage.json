@@ -261,6 +261,16 @@
     },
     {
         "category": "component",
+        "slug": "alert",
+        "sourceName": "component_alert",
+        "url": "/component/alert/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "component",
         "slug": "list-page-item",
         "sourceName": "component_list-page-item",
         "url": "/component/list-page-item/",

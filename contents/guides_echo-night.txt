@@ -607,7 +607,7 @@ This will make the control more in-line with modern games, and saves you the fru
  * (Optional) Take the {{Knife}}
 * Go to the east door 
 
-++ Ending
++ Ending
 * Ending 1: Obtained if you died during gameplay
 * Ending 2: Go to east door immediately without checking the Sun carving
 * Ending 3: Take the {{Knife}}

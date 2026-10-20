@@ -67,7 +67,7 @@ Repeated version removes Neutral Units.
 || **<S>**Emizel || President's Son || 1 || Glass Staff || Evilection Sash || Kung-Fu Muscle || ||
 || Cleric || Healer (T1) || 2 || Light Staff || Evilection Sash || Common Orb || ||
 || Bouncer || Abaddon/Bouncer (T1) || 4 || Toy Puppet || Evilection Sash || || ||
-If you lose this battle you will see [https://www.youtube.com/watch?v=3OPeNzw3ix0 Alt. Ending: Emizel (1)] which will lead to a new cycle.
+If you lose this battle you will see [[link https://www.youtube.com/watch?v=3OPeNzw3ix0 | Alt. Ending: Emizel (1)]] which will lead to a new cycle.
 
 Repeated version removes Emizel and replaces him with
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
@@ -116,7 +116,7 @@ The Magician and Valkyrie get removed after this map has been completed once.
 || Spirit || Boggart (T2) || 5 || Art. 4: Unjust || Overalls || Kung-Fu Muscle || ||
 || Zombie || Ghoul (T2) || 3 || Crab Claw || Jijo Outfit || || ||
 || Sludge || Red Blob (T2) || 3 || Crab Claw || Jijo Outfit || || ||
-If you lose this battle you will see [https://www.youtube.com/watch?v=KXQmFDzXGHY Alt. Ending: Emizel (2)] which will lead to a new cycle.
+If you lose this battle you will see [[link https://www.youtube.com/watch?v=KXQmFDzXGHY | Alt. Ending: Emizel (2)]] which will lead to a new cycle.
 Repeated version removes Emizel.
 
 **2-5 Plan of the Wicked**
@@ -125,7 +125,7 @@ Repeated version removes Emizel.
 || Heavy Knight || Heavy Knight (T1) || 4 || Battle Spear || Overalls || || ||
 || Eryngi || Matango (T2) || 4 || Slime Mucus || Jijo Outfit || || ||
 || Zombie || Ghoul (T2) || 2 || Slime Mucus || Overalls || || ||
-If you lose this battle you will see [https://www.youtube.com/watch?v=-b0sIS37Pd4 Alt. Ending: Fuka] which will lead to a new cycle.
+If you lose this battle you will see [[link https://www.youtube.com/watch?v=-b0sIS37Pd4 | Alt. Ending: Fuka]] which will lead to a new cycle.
 Repeated version removes Fuka.
 
 **2-6 Altar of Waste**
@@ -185,7 +185,7 @@ The Corpse will Magichange with the Hunter it is next to.
 || Gargoyle || Gargoyle (T1) || 2 || Wolf Fang || Dress Clothes || || ||
 || Mothman || Mothman (T1) || 3 || Kangaroo Punch || Hunting Cap || || ||
 || Zombie || Corpse (T3) || 3 || Kangaroo Punch || Dress Clothes || || ||
-If you lose this battle you will see [https://www.youtube.com/watch?v=IKGhmQzrrIM Alt. Ending: Desco] which will lead to a new cycle.
+If you lose this battle you will see [[link https://www.youtube.com/watch?v=IKGhmQzrrIM | Alt. Ending: Desco]] which will lead to a new cycle.
 Repeated version removes Desco.
 
 ++ Ep. 4: Death Emizel's Death
@@ -289,7 +289,7 @@ Repeated version removes Vulcanus.
 || **<S>**Vulcanus || Angel of Avarice || 1 || Catsaber Gun || Catsaber Gun || Mage Robe || Aero Sneakers ||
 || Prinny || Pvt. Prinny (T1) || 17 || Shark Head || Mage Robe || Falcon Shoes || ||
 Each Pvt. Prinny will attempt Demon Fusion with another (some may not reach another Prinny).
-If you lose this battle you will see [https://www.youtube.com/watch?v=bSBMoQAHVco Alt. Ending: Vulcanus (?)] which will lead to a new cycle.
+If you lose this battle you will see [[link https://www.youtube.com/watch?v=bSBMoQAHVco | Alt. Ending: Vulcanus (?)]] which will lead to a new cycle.
 Repeated version removes Vulcanus.
 
 ++ Ep. 6: The A-Virus Pandemic
@@ -344,7 +344,7 @@ Repeated version replaces Axels with a Tier 3 Orc using **Undead Embrace** as th
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
 || **<S>**Axel || Warden of Hades || 1 || White Tiger || Skele-mail || Aero Sneakers || Feather Token ||
 || Axel? || A-Virus Infected || 24 || Oven Mitts || || || ||
-If you lose this battle you will see [https://www.youtube.com/watch?v=cLIUOMRPjDI Alt. Ending: Axel] which will lead to a new cycle.
+If you lose this battle you will see [[link https://www.youtube.com/watch?v=cLIUOMRPjDI | Alt. Ending: Axel]] which will lead to a new cycle.
 All Axels get replaced by a Tier 2 Zombie, the main one having **Ogre Horn** as the weapon while the weaker ones with **Sardine Bone** as the weapon.
 
 ++ Ep. 7: Tyrant vs President
@@ -626,7 +626,7 @@ If you are on a new cycle and beat 10-6 with Valvatorez solo at level 500+ this 
 **Defying God** (Bad Ending)
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
 || Giant Eryngi || Part of God || 4 || Dragon Fang || Gilgamesh Armor || Aegis Shield || Royal Ring ||
-Beating this will lead to the [https://www.youtube.com/watch?v=asUXYaU-DHQ Epilogue: Battle Against God] ending which will start a new cycle.
+Beating this will lead to the [[link https://www.youtube.com/watch?v=asUXYaU-DHQ | Epilogue: Battle Against God]] ending which will start a new cycle.
 
 + Training: Mt. Ordeal
 To unlock this you need 7000 mana and pass the bill "Open Gates to Mt. Ordeal". On new cycles you will need to pass this bill again.
@@ -854,17 +854,17 @@ Unlocking the Land of Carnage in Disgaea 4 takes a bit more work compared to Dis
 Trademark of the Disgaea series there are multiple endings to the game. Due to the data shop not allowing endings to be re-viewable there will be a link to a YouTube video.
 
 ||~ Name ||~ Leads to ||~ Requirement ||
-|| [https://www.youtube.com/watch?v=3OPeNzw3ix0 Alt. Ending: Emizel] || New Cycle || Lose to Emizel in 1-5 (Disaster First) or 2-4 (Whispering Curse). ||
-|| [https://www.youtube.com/watch?v=-b0sIS37Pd4 Alt. Ending: Fuka] || New Cycle || Lose to Fuka in 2-5 Plan of the Wicked. ||
-|| [https://www.youtube.com/watch?v=IKGhmQzrrIM Alt. Ending: Desco] || New Cycle || Lose to Desco in 3-6 The Forbidden Cell. ||
-|| [https://www.youtube.com/watch?v=bSBMoQAHVco Alt. Ending: Vulcanus (?)] || New Cycle || Lose to Vulcanus in 5-6 Murder-Go-Round. ||
-|| [https://www.youtube.com/watch?v=cLIUOMRPjDI Alt. Ending: Axel] || New Cycle || Lose to Axel in 6-7 Infringement. ||
-|| [https://www.youtube.com/watch?v=ieNscKeMHeE Epilogue: Fenrich] || Post Game || Before completing 10-6 Boiling Point have Valvatorez be Comrades with Fenrich in the Legendary Tree Evil Symbol. ||
-|| [https://www.youtube.com/watch?v=ysCmw6J-VYY Epilogue: Fuka] || Post Game || Before completing 10-6 Boiling Point have Valvatorez be Fukas Mentor in the Legendary Tree Evil Symbol. ||
-|| [https://www.youtube.com/watch?v=s5t4qpOrNH8 Epilogue: Desco] || Post Game || Before completing 10-6 Boiling Point have Valvatorez be Stepsiblings with Desco in the Legendary Tree Evil Symbol. ||
-|| [https://www.youtube.com/watch?v=N_Ytmhcq0kY Epilogue: Emizel] || Post Game || Before completing 10-6 Boiling Point have Valvatorez be Rivals with Emizel in the Legendary Tree Evil Symbol.||
-|| [https://www.youtube.com/watch?v=BnoSo0pOJ10 Epilogue: Artina] || Post Game || Do not meet any other condition for an Epilogue. If all relationships are met this takes highest priority. ||
-|| [https://www.youtube.com/watch?v=asUXYaU-DHQ Epilogue: Battle Against God] || New Cycle || In 10-6 Boiling Point clear the map with Valvatorez alone at level 500+. Must have seen an Epilogue for this to trigger. ||
+|| [[link https://www.youtube.com/watch?v=3OPeNzw3ix0 | Alt. Ending: Emizel]] || New Cycle || Lose to Emizel in 1-5 (Disaster First) or 2-4 (Whispering Curse). ||
+|| [[link https://www.youtube.com/watch?v=-b0sIS37Pd4 | Alt. Ending: Fuka]] || New Cycle || Lose to Fuka in 2-5 Plan of the Wicked. ||
+|| [[link https://www.youtube.com/watch?v=IKGhmQzrrIM | Alt. Ending: Desco]] || New Cycle || Lose to Desco in 3-6 The Forbidden Cell. ||
+|| [[link https://www.youtube.com/watch?v=bSBMoQAHVco | Alt. Ending: Vulcanus (?)]] || New Cycle || Lose to Vulcanus in 5-6 Murder-Go-Round. ||
+|| [[link https://www.youtube.com/watch?v=cLIUOMRPjDI | Alt. Ending: Axel]] || New Cycle || Lose to Axel in 6-7 Infringement. ||
+|| [[link https://www.youtube.com/watch?v=ieNscKeMHeE | Epilogue: Fenrich]] || Post Game || Before completing 10-6 Boiling Point have Valvatorez be Comrades with Fenrich in the Legendary Tree Evil Symbol. ||
+|| [[link https://www.youtube.com/watch?v=ysCmw6J-VYY | Epilogue: Fuka]] || Post Game || Before completing 10-6 Boiling Point have Valvatorez be Fukas Mentor in the Legendary Tree Evil Symbol. ||
+|| [[link https://www.youtube.com/watch?v=s5t4qpOrNH8 | Epilogue: Desco]] || Post Game || Before completing 10-6 Boiling Point have Valvatorez be Stepsiblings with Desco in the Legendary Tree Evil Symbol. ||
+|| [[link https://www.youtube.com/watch?v=N_Ytmhcq0kY | Epilogue: Emizel]] || Post Game || Before completing 10-6 Boiling Point have Valvatorez be Rivals with Emizel in the Legendary Tree Evil Symbol.||
+|| [[link https://www.youtube.com/watch?v=BnoSo0pOJ10 | Epilogue: Artina]] || Post Game || Do not meet any other condition for an Epilogue. If all relationships are met this takes highest priority. ||
+|| [[link https://www.youtube.com/watch?v=asUXYaU-DHQ | Epilogue: Battle Against God]] || New Cycle || In 10-6 Boiling Point clear the map with Valvatorez alone at level 500+. Must have seen an Epilogue for this to trigger. ||
 || Post Game: All Cleared || More Post Game || Clear Asagis Post Game map. ||
 
 + Fun Weapons

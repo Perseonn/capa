@@ -2,9 +2,9 @@
 @author: Buster Wolf
 @updated: 2018-10-09
 
-Lightning Warrior Raidy II is the sequel to [http://capa.wikidot.com/guide:lightningwarriorraidy2 the first game].
+Lightning Warrior Raidy II is the sequel to [[link /guides/lightning-warrior-raidy | the first game]]. Very few changes have been made from the first game notably there are no maps to collect, now as you walk through the area your mini map will fill in parts you have stepped on.
 
-Very few changes have been made from the first game notably there are no maps to collect, now as you walk through the area your mini map will fill in parts you have stepped on. Raidy can now have a Sword and Shield, 2 Swords or 2 Shields as her weapon choices, some swords are two handed though. Raidys Thunder Slash has been tweaked to now charge up to increase its damage in battle at the cost of 10 MP per charge, the damage being calculated as **Level x 3 per charge** for damage when unleashed. For example charging three times at level 10 then unleashing a Thunder Slash will deal 90 damage (10x3x3). Gold has been added to buy items from the shops though enemies will not always drop them.
+Raidy can now have a Sword and Shield, 2 Swords or 2 Shields as her weapon choices, some swords are two handed though. Raidys Thunder Slash has been tweaked to now charge up to increase its damage in battle at the cost of 10 MP per charge, the damage being calculated as **Level x 3 per charge** for damage when unleashed. For example charging three times at level 10 then unleashing a Thunder Slash will deal 90 damage (10x3x3). Gold has been added to buy items from the shops though enemies will not always drop them.
 
 This guide will be going for all scenes & graphics, I will attempt to minimize backtracking as much as possible since it is very easy to over level if you are going for all of them. The material in this game is not meant players who are underage. The amount of EXP monsters will give is **EXP - Raidys level** for example Mercenary will give you 20 EXP when you beat one at Level 1 (21-1) so you will get less EXP as you level up. Suggested level is mainly for a balanced playthrough not too high and not too low for safety or if you want an easier time feel free to be one level higher than the suggested level.
 

@@ -39,7 +39,7 @@ Enemy
 Neutral
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
 || Almaz || Hero Wannabe || 1 || Toy Blade || Pot Lid ||  || ||
-If you lose this battle you will see the [https://www.youtube.com/watch?v=FWuEPuWRW9w Raspberyl Ending 1] which will lead to a new cycle.
+If you lose this battle you will see the [[link https://www.youtube.com/watch?v=FWuEPuWRW9w | Raspberyl Ending 1]] which will lead to a new cycle.
 
 Repeated version
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
@@ -76,7 +76,7 @@ Repeated version
 || Ring Finger || Overlords' Finger || 1 || Yaksa Sutra || Royal Orb || || ||
 || Pinky || Overlord's Finger || 1 || Yaksa Sutra || Royal Orb || || ||
 || Thumb || Overlord's Finger || 1 || Yaksa Sutra || Royal Orb || || ||
-If you win this battle at any point from Cycle 2 onward when it is available you will see the [https://www.youtube.com/watch?v=uPDSc5XmG-Q Mao's Ambition Ending] which will lead to a new cycle. Be warned you do not want to do this map on Cycle 1 as their level (and equipment) got a huge jump from the Story version.
+If you win this battle at any point from Cycle 2 onward when it is available you will see the [[link https://www.youtube.com/watch?v=uPDSc5XmG-Q | Mao's Ambition Ending]] which will lead to a new cycle. Be warned you do not want to do this map on Cycle 1 as their level (and equipment) got a huge jump from the Story version.
 
 ++ Ch.2 Mao's Heart
 **2-1 Childhood Memories**
@@ -86,7 +86,7 @@ If you win this battle at any point from Cycle 2 onward when it is available you
 || Asuka Cranekick || Raspberyl's Lackey || 1  || Crescent Glaive || Straw Hat ||  || ||
 || Warrior || Fighter (T1) || 3 || Nail Bat || || || ||
 || Valkyrie || Lady Fighter (T1) || 2 || Delta Sword || || || ||
-If you lose this battle you will see the [https://www.youtube.com/watch?v=ecR1Wd9yHEg Raspberyl Ending 2] which will lead to a new cycle.
+If you lose this battle you will see the [[link https://www.youtube.com/watch?v=ecR1Wd9yHEg | Raspberyl Ending 2]] which will lead to a new cycle.
 
 Repeated version removes Raspberyl, Kyoko & Asuka and replaces them with
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
@@ -496,7 +496,7 @@ Followed by this battle (also with Mao by himself)
 || Raspberyl || No.1 Delinquent || 1 || Basilisk Ninpo || Cat Suit || Astral Orb || ||
 || Kyoko Needleworker || Raspberyl's Lackey || 1 || White Tiger || Bushido Suit || Falcon Shoes || ||
 || Asuka Cranekick || Raspberyl's Lackey || 1 || Night Crier || Bushido Suit || Aura Belt || ||
-Winning this battle will lead to the [https://www.youtube.com/watch?v=XoRLuRVaWHk Human World Ending] which will lead to a new cycle.
+Winning this battle will lead to the [[link https://www.youtube.com/watch?v=XoRLuRVaWHk | Human World Ending]] which will lead to a new cycle.
 
 ++ Finale: Super Battle
 Once this chapter is completed you can never return to it during the Post Game.
@@ -540,16 +540,16 @@ Repeated version removes Prinny Mask and replaces with
 There are 3 possible endings (4 from cycle 2 onwards) you can get here.
 
 **Super Hero Ending**
-If Mao is above level 500 you will get [https://www.youtube.com/watch?v=WMn-67vWQds this ending] which will lead into Post Game.
+If Mao is above level 500 you will get [[link https://www.youtube.com/watch?v=WMn-67vWQds | this ending]] which will lead into Post Game.
 
 **Almaz Ending**
 If you solo **Last Battle** with just Almaz you will get a cutscene afterwards leading to this battle where you control Almaz alone
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
 || Mao || Overlord Spawn || 1 || Emperor's Sword || Breastplate || Aura Belt || Ace Muscle ||
-Winning this battle lead to [https://www.youtube.com/watch?v=AR-AMAGkb-4 this ending] which leads to a new cycle.
+Winning this battle lead to [[link https://www.youtube.com/watch?v=AR-AMAGkb-4 | this ending]] which leads to a new cycle.
 
 **Normal Ending**
-If you didn't meet any requirements for previous endings you will get [https://www.youtube.com/watch?v=Xh1-QUEekXs this ending] which leads into Post Game.
+If you didn't meet any requirements for previous endings you will get [[link https://www.youtube.com/watch?v=Xh1-QUEekXs | this ending]] which leads into Post Game.
 
 **Laharl Ending**
 From Cycle 2 onward when you get to chapter 8 there will be a topic called **Watch a Different Ending** that costs 9999 mana, pass that topic and complete **Final Battle** afterward which will eventually lead to this battle
@@ -560,7 +560,7 @@ From Cycle 2 onward when you get to chapter 8 there will be a topic called **Wat
 || Prinny || Prinny God (T6) || 1 || Dark Aura || Fullplate || || ||
 || Flonne || Fallen Angel || 1 || Angel Bow || Fullplate || Angel's Sandals || Crosshair ||
 || White Dragon || Divine Dragon (T6) || 1 || Vampire History || Fullplate || || ||
-Each monster unit will Magichange with the character they are by. After winning this battle you will be treated to [https://www.youtube.com/watch?v=VdAg9zI6qtQ the ending] which will lead to a new cycle. Note that this topic may still appear during the Post Game where it will have no effect when passed.
+Each monster unit will Magichange with the character they are by. After winning this battle you will be treated to [[link https://www.youtube.com/watch?v=VdAg9zI6qtQ | the ending]] which will lead to a new cycle. Note that this topic may still appear during the Post Game where it will have no effect when passed.
 -----
 + Training: House of Ordeals
 To unlock this you need 7000 mana and pass the topic **Open Gates to Ordeal Mansion**. On new cycles you will need to pass this bill again.

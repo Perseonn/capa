@@ -45,7 +45,7 @@ Town Fields
 || Warrior || Fighter (Sword) (T1) || 2 || Lazy Sword || || || ||
 || Valkyrie || Lady Fighter (T1) || 2 || Replica Spear || || || ||
 || Cleric || Healer (T1) || 1 || Training Staff || Common Orb || || ||
-If you lose this battle you will see the [https://www.youtube.com/watch?v=CtsOlemwY-4 Axel Ending] which will lead to a new cycle.
+If you lose this battle you will see the [[link https://www.youtube.com/watch?v=CtsOlemwY-4 | Axel Ending]] which will lead to a new cycle.
 
 Repeated version removes Axel and replaces him with
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
@@ -82,7 +82,7 @@ Repeated version
 || Magician || Red Skull (T1) || 2 || Wooden Staff || Common Orb || || ||
 || Magician || Green Skull (T2) || 1 || Wooden Staff || Common Orb || || ||
 || Magician || Blue Skull (T3) || 1 || Wooden Staff || Common Orb || || ||
-If you lose this battle you will see the [https://www.youtube.com/watch?v=CtsOlemwY-4 Axel Ending] which will lead to a new cycle.
+If you lose this battle you will see the [[link https://www.youtube.com/watch?v=CtsOlemwY-4 | Axel Ending]] which will lead to a new cycle.
 
 Repeated version removes Axel & the Cleric and replaces them with
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
@@ -110,7 +110,7 @@ Murderer's vault
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
 || Etna || Beauty Queen || 1 || Elder Spear || Testament || Brigandine || Falcon Shoes ||
 || Prinny || Prinny (T1) || 10 || Goblin Claw || || || ||
-If you win this battle you will see the [https://youtu.be/1ufLnqJ-m8Q?si=wFrIDVBVDR1LpYMu&t=35 Etna Ending] which will lead to a new cycle and mark Etna defeated in your Dark Records.
+If you win this battle you will see the [[link https://youtu.be/1ufLnqJ-m8Q?si=wFrIDVBVDR1LpYMu&t=35 | Etna Ending]] which will lead to a new cycle and mark Etna defeated in your Dark Records.
 
 Repeated version
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
@@ -147,7 +147,7 @@ Dallos River
 || Thief || Thief (T1) || 2 || Rapier || || || ||
 || Sinner || Togabito (T1) || 2 || Double Slap || || || ||
 || Heavy Knight || Heavy Knight (T1) || 2 || Pike || || || ||
-If you lose this battle you will see the [https://www.youtube.com/watch?v=CtsOlemwY-4 Axel Ending] which will lead to a new cycle.
+If you lose this battle you will see the [[link https://www.youtube.com/watch?v=CtsOlemwY-4 | Axel Ending]] which will lead to a new cycle.
 
 Repeated version removes Axel & the Thieves with Silver Bows and replaces them with
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
@@ -272,7 +272,7 @@ Repeated version replaces Yukimaru with
 || Archer || Archer (T1) || 4 || Elven Bow || || || ||
 || Gunner || Gunner (T1) || 4 || Steam Gun || || || ||
 || Magic Knight || Magic Knight (T1) || 2 || Spatha || Jijo Outfit || || ||
-If you lose this battle you will see the [https://www.youtube.com/watch?v=CtsOlemwY-4 Axel Ending] which will lead to a new cycle.
+If you lose this battle you will see the [[link https://www.youtube.com/watch?v=CtsOlemwY-4 | Axel Ending]] which will lead to a new cycle.
 
 ++ Episode 8 Zenon Appears!
 Colosseum Depths
@@ -430,7 +430,7 @@ Shinra Tower
 **11-7 Holy Tower**
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
 || Laharl || Overlord || 1 || Laser Blade || Majin Armor || Testament || Orion's Belt ||
-If you win the first battle you will see the [https://youtu.be/zLkE7MEFEH8?si=4vjRhrOM30hhTPsx&t=40 Laharl A ending] which will start a new cycle and mark Laharl A defeated in your Dark Records.
+If you win the first battle you will see the [[link https://youtu.be/zLkE7MEFEH8?si=4vjRhrOM30hhTPsx&t=40 | Laharl A ending]] which will start a new cycle and mark Laharl A defeated in your Dark Records.
 
 Repeated version
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
@@ -556,18 +556,18 @@ Repeated version removes Fubuki.
 **13-5 Viewing Room**
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
 || Zenon || Overlord || 1 || Envy || Large Shield || World Muscle || Royal Ring ||
-Based on your playthrough will determine your ending, if you met no requirements below you will get the [https://www.youtube.com/watch?v=IJYhlcZc7OE Good Ending].
+Based on your playthrough will determine your ending, if you met no requirements below you will get the [[link https://www.youtube.com/watch?v=IJYhlcZc7OE | Good Ending]].
 
-If you beat Zenon with Tink by himself over level 1000 you will see the [https://www.youtube.com/watch?v=ySPqipUIeKk Tink Ending].
+If you beat Zenon with Tink by himself over level 1000 you will see the [[link https://www.youtube.com/watch?v=ySPqipUIeKk | Tink Ending]].
 
-If you have at least 10 felonies on Adell while having 50 ally kills you will get the [https://www.youtube.com/watch?v=tF1RwBQQChE Bad Ending].
+If you have at least 10 felonies on Adell while having 50 ally kills you will get the [[link https://www.youtube.com/watch?v=tF1RwBQQChE | Bad Ending]].
 
 If you have at least 99 felonies on Adell while having over 99 ally kills, one being Rozalin, you will get an extra battle.
 
 The True Overlord Zenon
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
 || Rozalin? || Zenon's Child || 1 || || || || ||
-You will see the [https://www.youtube.com/watch?v=02XfTf874YY Worst Ending] which will start a new cycle and mark Rozalin defeated in your Dark Records, having Japanese voice adds extra creepiness to the ending after the credits.
+You will see the [[link https://www.youtube.com/watch?v=02XfTf874YY | Worst Ending]] which will start a new cycle and mark Rozalin defeated in your Dark Records, having Japanese voice adds extra creepiness to the ending after the credits.
 
 + Cave of Ordeals
 **Ordeal 1**
@@ -706,7 +706,7 @@ Ex 10 **Tragedy at Holt**
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
 || Laharl || Overlord || 1 || Infernal Sword || Infernal Armor || Exodus || Orion's Belt ||
 || Rifle Demon || Malchidel (T2) || 4 || Satan's Motor || Dragon Mail || || ||
-Winning this will give you the [https://www.youtube.com/watch?v=Z6T5O2C42B0 Laharl A ending] which starts a new cycle and mark Laharl D defeated in your Dark Records.
+Winning this will give you the [[link https://www.youtube.com/watch?v=Z6T5O2C42B0 | Laharl A ending]] which starts a new cycle and mark Laharl D defeated in your Dark Records.
 
 ++ Makai Kingdom
 **Requirement:** Clear 10 Dark World Stages, pass the Meet the strongest Overlord! bill.
@@ -1423,7 +1423,7 @@ Repeated version removes the Boss & Goon units.
 || Prism Red || Super Hero || 1 || Bear Claw || Traveler Mantle || Energy Belt || Dark Rosary ||
 || Laharl || Overlord || 1 || Heavy Sword || Black Outfit || Beastly Belt || Devil Ring ||
 || Flonne || Fallen Angel || 1 || Exorcist Bow || Magical Vest || Plastic Nose || Devil Ring ||
-Finishing this map gives the [https://www.youtube.com/watch?v=HawWKf8B32k Axel Mode Ending] which leads into a new cycle.
+Finishing this map gives the [[link https://www.youtube.com/watch?v=HawWKf8B32k | Axel Mode Ending]] which leads into a new cycle.
 
 + Dark World
 Axel's main hub doesn't have any hidden buttons to press so the NPC for the Dark World stages will not be around if you didn't spawn her in Adell Mode. Unless you are playing Dark Hero Days (PSP version) which does have buttons. Nevertheless like in Adell Mode, Axel has Dark World stages as well.

@@ -4,21 +4,22 @@
 
 The fourth installment of the //Soul// series, Soulcalibur III is, to the release of Soulcalibur V, the installment with most content. It was unknown why the later series have less content, probably because Daishi is involved in the production.
 
-If you're interested in showcasing your character, you can visit [http://asoh.wikidot.com Another Stage of History].
+If you're interested in showcasing your character, you can visit [[link http://asoh.wikidot.com | Another Stage of History]].
 
 If you're using the most recent PCSX2, you can directly use the raw PS2 codes on the ArtMoney, since the address aligned perfectly, just change the code type identifier (first digit of a raw PS code) to 2.
 
 + Master Codes
 These codes are only required if you're using a cheat device on real PS2.
-**Master Code (RAW)**
-F0422080 00422083
 
-**Alternate Master Code (RAW)**
-0CF49BDF A4E29C32
+++++ Master Code (RAW)
+{{F0422080 00422083}}
 
-**Master Code (AR MAX)**
-T5R4-XVHD-27GCX
-M7X7-GC8A-D2PHK
+++++ Alternate Master Code (RAW)
+{{0CF49BDF A4E29C32}}
+
+++++ Master Code (AR MAX)
+{{T5R4-XVHD-27GCX}}
+{{M7X7-GC8A-D2PHK}}
 
 
 + Joker Commands
@@ -30,12 +31,12 @@ Further on this guide, a //<Joker Command>// before a code indicates the line wh
 
 
 **Player 1 Joker Command**
-D046DBA2 0000????
+{{D046DBA2 0000????}}
 
 **Player 2 Joker Command**
-D046DC72 0000????
+{{D046DC72 0000????}}
 
-||||~ Change ???? with Desired button(s) ||
+||~ ???? Digit ||~ Buttons ||
 || 0000 || No Buttons ||
 || 0100 || L2 ||
 || 0200 || R2 ||
@@ -53,7 +54,12 @@ D046DC72 0000????
 || 0020 || Right ||
 || 0040 || Down ||
 || 0080 || Left ||
-[[xinclude :fiction:common:alert |text=To use a combination of buttons instead of one single button, simply add all the buttons digits together (set to programmer HEX mode in calculator). Example, to use square + L3, add up: 8000 + 0002 = 8002. Subtract FFFF with this number: FFFF - 8002 = 7FFD.]]
+
+[[include component:alert
+|type=info
+|icon=fa fa-info-circle
+|text=To use a combination of buttons instead of one single button, simply add all the buttons digits together. You can use Windows Calculator to help you, by setting it to Programmer mode, then HEX mode. Example, to use Square + L3, add up: 8000 + 0002 = 8002. Subtract FFFF with this number: FFFF - 8002 = 7FFD.
+]]
 
 
 + Character Modifications
@@ -62,20 +68,20 @@ Play as modifiers allows you to change your current character to any character a
 [[image nightterror.jpg| Night Terror in Survival]]
 
 **Player 1 Character Modifier**
-104B4860 000000??
+{{104B4860 000000??}}
 
 **Player 2 Character Modifier**
-104D1FE0 000000??
+{{104D1FE0 000000??}}
 
 Replace Character Modifier ?? with the Character Modifier Digits below.
 
 **Player 1 Costume Modifier**
-004B486E 000000??
+{{004B486E 000000??}}
 
 **Player 2 Costume Modifier**
-004D1FEE 000000??
+{{004D1FEE 000000??}}
 
-||||~ Replace Costume Modifier ?? with ||
+||~ Digit ||~ Costume ||
 || 00 || Costume 1 (Default) ||
 || 01 || Costume 2 ||
 || 02 || Costume 3 ||
@@ -88,159 +94,174 @@ Replace Character Modifier ?? with the Character Modifier Digits below.
 || 09 || Color Edit 2 ||
 || 16 || Extra Color Edit 1 ||
 || 17 || Extra Color Edit 2 ||
-[[xinclude :fiction:common:alert |type=warning |icon=warning |text=Costume 3 to 8 only works on certain character digits. Refer to the Character Modifier Digits below. Other than listed, the game will crash. Color Edits only work on standard characters.]]
 
+[[include component:alert
+|type=warning
+|icon=fa fa-warning
+|text=Costume 3 to 8 only works on certain character digits. Refer to the Character Modifier Digits below. Other than listed, the game will crash. Color Edits only work on standard characters.
+]]
 
-||~ Hex ||||||||||||||||~ Costume ||||
-||~ ||~ 0 ||~ 1 ||~ 2 ||~ 3 ||~ 4 ||~ 5 ||~ 6 ||~ 7 ||
-|| [[size 65%]]01[[/size]] || [[size 65%]]Mitsurugi[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]02[[/size]] || [[size 65%]]Seong Mi-na[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]03[[/size]] || [[size 65%]]Taki[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]04[[/size]] || [[size 65%]]Maxi[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]05[[/size]] || [[size 65%]]Voldo[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]06[[/size]] || [[size 65%]]Sophitia[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]07[[/size]] || [[size 65%]]Siegfried[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]08[[/size]] || [[size 65%]]Rock[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]0B[[/size]] || [[size 65%]]Ivy[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]0C[[/size]] || [[size 65%]]Kilik[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]0D[[/size]] || [[size 65%]]Xianghua[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]0E[[/size]] || [[size 65%]]Lizardman[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]0F[[/size]] || [[size 65%]]Yoshimitsu[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]11[[/size]] || [[size 65%]]Nightmare[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]12[[/size]] || [[size 65%]]Astaroth[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]14[[/size]] || [[size 65%]]Cervantes[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]15[[/size]] || [[size 65%]]Raphael[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]16[[/size]] || [[size 65%]]Talim[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]17[[/size]] || [[size 65%]]Cassandra[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]1A[[/size]] || [[size 65%]]Yun-Seong[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]1E[[/size]] || [[size 65%]]Lizardmen[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]22[[/size]] || [[size 65%]]Setsuka[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]23[[/size]] || [[size 65%]]Tira[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]24[[/size]] || [[size 65%]]Zasalamel[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]25[[/size]] || [[size 65%]]Olcadan[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]26[[/size]] || [[size 65%]]Abyss[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]27[[/size]] || [[size 65%]]Night Terror[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]28[[/size]] || [[size 65%]]Charade[[/size]] || [[size 65%]]Seong Mi-Na[[/size]] || [[size 65%]]Charade (29)[[/size]] || [[size 65%]]Seong Mi-Na[[/size]] ||  ||  ||  ||  ||
-|| [[size 65%]]29[[/size]] || [[size 65%]]Charade (legs)[[/size]] || [[size 65%]]Seong Mi-Na[[/size]] || [[size 65%]]Charade (2A)[[/size]] || [[size 65%]]Seong Mi-Na[[/size]] ||  ||  ||  ||  ||
-|| [[size 65%]]2A[[/size]] || [[size 65%]]Charade (eyeball)[[/size]] ||  || [[size 65%]]Wisp (green)[[/size]] || [[size 65%]]Seong Mi-Na[[/size]] ||  ||  ||  ||  ||
-|| [[size 65%]]2B[[/size]] || [[size 65%]]Will-o'-the-Wisp (orange)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]2C[[/size]] || [[size 65%]]Will-o'-the-Wisp (blue)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]2D[[/size]] || [[size 65%]]Doppelganger[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]2E[[/size]] || [[size 65%]]Shadow Master[[/size]] || [[size 65%]]Seong Mi-Na[[/size]] || [[size 65%]]Amy[[/size]] || [[size 65%]]Amy[[/size]] ||  ||  ||  ||  ||
-|| [[size 65%]]30[[/size]] || [[size 65%]]Amy[[/size]] || [[size 65%]]Amy[[/size]] || [[size 65%]]Colossus[[/size]] || [[size 65%]]Colossus[[/size]] ||  ||  ||  ||  ||
-|| [[size 65%]]31[[/size]] || [[size 65%]]Colossus[[/size]] || [[size 65%]]Colossus[[/size]] || [[size 65%]]Lizardmen[[/size]] || [[size 65%]]Lizardmen[[/size]] ||  ||  ||  ||  ||
-|| [[size 65%]]35[[/size]] || [[size 65%]]Zasalamel (Old)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]36[[/size]] || [[size 65%]]Lizardman (Crown)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]37[[/size]] || [[size 65%]]Lizardman (Masked)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]38[[/size]] || [[size 65%]]Lizardman (Tailess)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]41[[/size]] || [[size 65%]]Miser[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]42[[/size]] || [[size 65%]]Greed[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]43[[/size]] || [[size 65%]]Arthur[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]44[[/size]] || [[size 65%]]Hwang[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]45[[/size]] || [[size 65%]]Luna[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]46[[/size]] || [[size 65%]]Valeria[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]47[[/size]] || [[size 65%]]Hua-Lin[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]48[[/size]] || [[size 65%]]Girardot[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]4A[[/size]] || [[size 65%]]Demuth[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]4B[[/size]] || [[size 65%]]Aurelia[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]4C[[/size]] || [[size 65%]]Chester[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]4D[[/size]] || [[size 65%]]Strife[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]4E[[/size]] || [[size 65%]]Abelia[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]4F[[/size]] || [[size 65%]]Lynette[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]51[[/size]] || [[size 65%]]Li-Long[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]54[[/size]] || [[size 65%]]Revenant[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]60[[/size]] || [[size 65%]]Memory Card Slot 1 Custom Slot 1[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]61[[/size]] || [[size 65%]]Memory Card Slot 1 Custom Slot 2[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]81[[/size]] || [[size 65%]]Berserker (Lance)[[/size]] ||  || [[size 65%]]Samurai[[/size]] || [[size 65%]]Samurai[[/size]] ||  ||  ||  ||  ||
-|| [[size 65%]]82[[/size]] || [[size 65%]]Sophitia (Tamborines)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]83[[/size]] || [[size 65%]]Sophita (Kunai)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]84[[/size]] || [[size 65%]]Samurai (Katana)[[/size]] || [[size 65%]]Samurai[[/size]] || [[size 65%]]Samurai[[/size]] || [[size 65%]]Samurai[[/size]] ||  ||  ||  ||  ||
-|| [[size 65%]]85[[/size]] || [[size 65%]]Gladiator (Iron Sword)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]86[[/size]] || [[size 65%]]Gladiator (S & Shield)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]87[[/size]] || [[size 65%]]Unknown Soul (Li Long)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]88[[/size]] || [[size 65%]]Unknown Soul (Hwang)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]89[[/size]] || [[size 65%]]Unknown Soul (Arthur)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]8A[[/size]] || [[size 65%]]Fu-ma Ninja (Kunai)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]8B[[/size]] || [[size 65%]]Fu-ma Ninja (Sickle)[[/size]] || [[size 65%]]Fu-ma Ninja[[/size]] ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]8C[[/size]] || [[size 65%]]Fu-ma Ninja (K & Shuriken)[[/size]] || [[size 65%]]Fu-ma Ninja[[/size]] ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]8D[[/size]] || [[size 65%]]Bandit (Chinese Blade)[[/size]] || [[size 65%]]Fu-ma Ninja[[/size]] || [[size 65%]]Fu-ma Ninja[[/size]] || [[size 65%]]Fu-ma Ninja[[/size]] ||  ||  ||  ||  ||
-|| [[size 65%]]8E[[/size]] || [[size 65%]]Bandit (Sickle)[[/size]] || [[size 65%]]Bandit[[/size]] ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]8F[[/size]] || [[size 65%]]Thief (Dagger)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]90[[/size]] || [[size 65%]]Thief (Dagger)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]91[[/size]] || [[size 65%]]Pirate (Dagger)[[/size]] || [[size 65%]]Pirate[[/size]] || [[size 65%]]Pirate[[/size]] ||  ||  ||  ||  ||  ||
-|| [[size 65%]]92[[/size]] || [[size 65%]]Pirate (Chinese Sword)[[/size]] || [[size 65%]]Pirate (Male)[[/size]] || [[size 65%]]Pirate (Male)[[/size]] || [[size 65%]]Pirate (Male)[[/size]] ||  ||  ||  ||  ||
-|| [[size 65%]]93[[/size]] || [[size 65%]]Assassin (Kunai)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]94[[/size]] || [[size 65%]]Swordsman (Chinese Blade)[[/size]] || [[size 65%]]Swordsman[[/size]] ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]95[[/size]] || [[size 65%]]Foot Soldier (S & Shield)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]96[[/size]] || [[size 65%]]General (Iron Sword)[[/size]] || [[size 65%]]General[[/size]] ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]97[[/size]] || [[size 65%]]Sentry (Staff)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]98[[/size]] || [[size 65%]]Keres (Iron Sword)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]99[[/size]] || [[size 65%]]Dragon (Chinese Sword)[[/size]] ||  ||  ||  ||  ||  ||  ||  ||
-|| [[size 65%]]A0[[/size]] || [[size 65%]]Jinkai[[/size]] || [[size 65%]]Kagami[[/size]] || [[size 65%]]Shiun[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]A1[[/size]] || [[size 65%]]Shiina[[/size]] || [[size 65%]]Chikage[[/size]] || [[size 65%]]Konomi[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]A2[[/size]] || [[size 65%]]Cassius[[/size]] || [[size 65%]]Saizou[[/size]] || [[size 65%]]Ryouga[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]A3[[/size]] || [[size 65%]]Kimika[[/size]] || [[size 65%]]Syunna[[/size]] || [[size 65%]]Tomoe[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]A4[[/size]] || [[size 65%]]Meiga[[/size]] || [[size 65%]]Alastor[[/size]] || [[size 65%]]Shizuma[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]A5[[/size]] || [[size 65%]]Azumi[[/size]] || [[size 65%]]Yukina[[/size]] || [[size 65%]]Ouka[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]A6[[/size]] || [[size 65%]]Xiaoxin[[/size]] || [[size 65%]]Oruks[[/size]] || [[size 65%]]Agareth[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]A7[[/size]] || [[size 65%]]Jyuri[[/size]] || [[size 65%]]Shuyu[[/size]] || [[size 65%]]Mingyue[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]A8[[/size]] || [[size 65%]]Veles[[/size]] || [[size 65%]]Aether[[/size]] || [[size 65%]]Ixion[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]A9[[/size]] || [[size 65%]]Siulan[[/size]] || [[size 65%]]Fenglin[[/size]] || [[size 65%]]Philine[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]AA[[/size]] || [[size 65%]]Ignis[[/size]] || [[size 65%]]Notus[[/size]] || [[size 65%]]Azrael[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]AB[[/size]] || [[size 65%]]Mireille[[/size]] || [[size 65%]]Aglaia[[/size]] || [[size 65%]]Kanon[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]AC[[/size]] || [[size 65%]]Jyurai[[/size]] || [[size 65%]]Kureha[[/size]] || [[size 65%]]Xunyu[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]AD[[/size]] || [[size 65%]]Fengyu[[/size]] || [[size 65%]]Fenglei[[/size]] || [[size 65%]]Minlian[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]AE[[/size]] || [[size 65%]]Noel[[/size]] || [[size 65%]]Rudiger[[/size]] || [[size 65%]]Aeneas[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]AF[[/size]] || [[size 65%]]Annaretta[[/size]] || [[size 65%]]Iris[[/size]] || [[size 65%]]Brunhild[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]B0[[/size]] || [[size 65%]]Asrafil[[/size]] || [[size 65%]]Zifeng[[/size]] || [[size 65%]]Aeolos[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]B1[[/size]] || [[size 65%]]Amrita[[/size]] || [[size 65%]]Azalea[[/size]] || [[size 65%]]Yueliang[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]B2[[/size]] || [[size 65%]]Kanade[[/size]] || [[size 65%]]Domenthi[[/size]] || [[size 65%]]Marid[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]B3[[/size]] || [[size 65%]]Ambrose[[/size]] || [[size 65%]]Ailian[[/size]] || [[size 65%]]Aika[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]B4[[/size]] || [[size 65%]]Loki[[/size]] || [[size 65%]]Celestis[[/size]] || [[size 65%]]Beleth[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]B5[[/size]] || [[size 65%]]Karen[[/size]] || [[size 65%]]Lilian[[/size]] || [[size 65%]]Abigail[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]B6[[/size]] || [[size 65%]]Balduin[[/size]] || [[size 65%]]Aloces[[/size]] || [[size 65%]]Areon[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]B7[[/size]] || [[size 65%]]Juno[[/size]] || [[size 65%]]Eurydice[[/size]] || [[size 65%]]Ishtar[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]B8[[/size]] || [[size 65%]]Rufus[[/size]] || [[size 65%]]Raguel[[/size]] || [[size 65%]]Feofan[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]B9[[/size]] || [[size 65%]]Eunice[[/size]] || [[size 65%]]Acacia[[/size]] || [[size 65%]]Hilda[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]BA[[/size]] || [[size 65%]]Iblis[[/size]] || [[size 65%]]Alberic[[/size]] || [[size 65%]]Leshy[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]BB[[/size]] || [[size 65%]]Muriel[[/size]] || [[size 65%]]Wenli[[/size]] || [[size 65%]]Irene[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]BC[[/size]] || [[size 65%]]Yufeng[[/size]] || [[size 65%]]Yakumo[[/size]] || [[size 65%]]Dufeng[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]BD[[/size]] || [[size 65%]]Mayura[[/size]] || [[size 65%]]Meilan[[/size]] || [[size 65%]]Rhea[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]BE[[/size]] || [[size 65%]]Halphas[[/size]] || [[size 65%]]Gorus[[/size]] || [[size 65%]]Ilyusha[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]BF[[/size]] || [[size 65%]]Edith[[/size]] || [[size 65%]]Riese[[/size]] || [[size 65%]]Agave[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]C0[[/size]] || [[size 65%]]Haystir[[/size]] || [[size 65%]]Leraje[[/size]] || [[size 65%]]Ratziel[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]C1[[/size]] || [[size 65%]]Katina[[/size]] || [[size 65%]]Eris[[/size]] || [[size 65%]]Sizuku[[/size]] || [[size 65%]]Grandall[[/size]] || [[size 65%]]Dalkia[[/size]] || [[size 65%]]Brigand[[/size]] || [[size 65%]]Maletta[[/size]] || [[size 65%]]Rebel[[/size]] ||
-|| [[size 65%]]E0[[/size]] || [[size 65%]]Abelia[[/size]] || [[size 65%]]Abelia (2P)[[/size]] || [[size 65%]]Abelia (3P)[[/size]] || [[size 65%]]Abelia (?)[[/size]] || [[size 65%]]Luna[[/size]] || [[size 65%]]Luna[[/size]] || [[size 65%]]Luna[[/size]] || [[size 65%]]Abelia (?)[[/size]] ||
-|| [[size 65%]]E1[[/size]] || [[size 65%]]Luna[[/size]] || [[size 65%]]Luna (2P)[[/size]] || [[size 65%]]Luna (3P)[[/size]] || [[size 65%]]Luna (?)[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]<#Crash>[[/size]] ||
-|| [[size 65%]]E2[[/size]] || [[size 65%]]Girardot[[/size]] || [[size 65%]]Girardot (2P)[[/size]] || [[size 65%]]Girardot (?)[[/size]] || [[size 65%]]Strife[[/size]] || [[size 65%]]Strife[[/size]] || [[size 65%]]Chester[[/size]] || [[size 65%]]Chester[[/size]] || [[size 65%]]Chester[[/size]] ||
-|| [[size 65%]]E3[[/size]] || [[size 65%]]Strife[[/size]] || [[size 65%]]Strife 2P[[/size]] || [[size 65%]]Chester[[/size]] || [[size 65%]]Chester[[/size]] || [[size 65%]]Chester[[/size]] || [[size 65%]]Demuth[[/size]] || [[size 65%]]Demuth[[/size]] || [[size 65%]]Aurelia[[/size]] ||
-|| [[size 65%]]E4[[/size]] || [[size 65%]]Chester (CotS 1P)[[/size]] || [[size 65%]]Chester 2P[[/size]] || [[size 65%]]Chester 3P[[/size]] || [[size 65%]]Demuth[[/size]] || [[size 65%]]Demuth[[/size]] || [[size 65%]]Aurelia[[/size]] || [[size 65%]]Aurelia[[/size]] || [[size 65%]]Aege[[/size]] ||
-|| [[size 65%]]E5[[/size]] || [[size 65%]]Demuth[[/size]] || [[size 65%]]Demuth 2P[[/size]] || [[size 65%]]Aurelia[[/size]] || [[size 65%]]Aurelia[[/size]] || [[size 65%]]Aege[[/size]] || [[size 65%]]Aege[[/size]] || [[size 65%]]Aege[[/size]] || [[size 65%]]Heal・Do[[/size]] ||
-|| [[size 65%]]E6[[/size]] || [[size 65%]]Aurelia[[/size]] || [[size 65%]]Aurelia 2P[[/size]] || [[size 65%]]Aege[[/size]] || [[size 65%]]Aege[[/size]] || [[size 65%]]Aege[[/size]] || [[size 65%]]Heal・Do[[/size]] || [[size 65%]]Heal・Do[[/size]] || [[size 65%]]Heal・Do[[/size]] ||
-|| [[size 65%]]E7[[/size]] || [[size 65%]]Aege[[/size]] || [[size 65%]]Aege 2P[[/size]] || [[size 65%]]Aege 3P[[/size]] || [[size 65%]]Heal・Do[[/size]] || [[size 65%]]Heal・Do[[/size]] || [[size 65%]]Heal・Do[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]Elua[[/size]] ||
-|| [[size 65%]]E8[[/size]] || [[size 65%]]Heal・Do[[/size]] || [[size 65%]]Heal・Do 2P[[/size]] || [[size 65%]]Heal・Do 3P[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]Elua[[/size]] || [[size 65%]]Elua[[/size]] || [[size 65%]]Heal・Do (?)[[/size]] || [[size 65%]]Lupi[[/size]] ||
-|| [[size 65%]]E9[[/size]] || [[size 65%]]Elua[[/size]] || [[size 65%]]Elua 2P[[/size]] || [[size 65%]]Elua (?)[[/size]] || [[size 65%]]Lupi[[/size]] || [[size 65%]]Lupi[[/size]] || [[size 65%]]Lupi[[/size]] || [[size 65%]]Roin[[/size]] || [[size 65%]]Roin[[/size]] ||
-|| [[size 65%]]EA[[/size]] || [[size 65%]]Lupi[[/size]] || [[size 65%]]Lupi 2P[[/size]] || [[size 65%]]Lupi 3P[[/size]] || [[size 65%]]Roin[[/size]] || [[size 65%]]Roin[[/size]] || [[size 65%]]Kierkess[[/size]] || [[size 65%]]Kierkess[[/size]] || [[size 65%]]Hyle[[/size]] ||
-|| [[size 65%]]EB[[/size]] || [[size 65%]]Roin[[/size]] || [[size 65%]]Roin 2P[[/size]] || [[size 65%]]Kierkess[[/size]] || [[size 65%]]Kierkess[[/size]] || [[size 65%]]Hyle[[/size]] || [[size 65%]]Hyle[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]Mooncalf[[/size]] ||
-|| [[size 65%]]EC[[/size]] || [[size 65%]]Kierkess[[/size]] || [[size 65%]]Kierkess 2P[[/size]] || [[size 65%]]Hyle[[/size]] || [[size 65%]]Hyle[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]Mooncalf[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]Ende[[/size]] ||
-|| [[size 65%]]ED[[/size]] || [[size 65%]]Hyle[[/size]] || [[size 65%]]Hyle 2P[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]Mooncalf[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]Ende[[/size]] || [[size 65%]]Hyle (?)[[/size]] || [[size 65%]]<#Crash>[[/size]] ||
-|| [[size 65%]]EE[[/size]] || [[size 65%]]Mooncalf[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]Ende[[/size]] || [[size 65%]]Mooncalf (?)[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]<#Crash>[[/size]] ||
-|| [[size 65%]]EF[[/size]] || [[size 65%]]Ende[[/size]] || [[size 65%]]Ende (?)[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]<#Crash>[[/size]] || [[size 65%]]<#Crash>[[/size]] ||
+++++ Example 1
+{{104B4860 0000008D}} ➡️ Points to Bandit (Chinese Blade)
+{{004B486E 00000001}} ➡️ Points to Costume 2. Bandit (Chinese Blade)'s Costume 2 is Fu-ma Ninja.
+The result will be Fu-ma Ninja.
+
+++++ Example 2
+{{104B4860 000000A0}} ➡️ Points to Jinkai
+{{004B486E 00000002}} ➡️ Points to Costume 3. Jinkai's Costume 3 is Shiun.
+The result will be Shiun.
+
++++ Character Modifier Digits
+||~ ||~ Costume ||
+||~ Hex ||~ 00 ||~ 01 ||~ 02 ||~ 03 ||~ 04 ||~ 05 ||~ 06 ||~ 07 ||
+|| 01 || Mitsurugi ||  ||  ||  ||  ||  ||  ||  ||
+|| 02 || Seong Mi-na ||  ||  ||  ||  ||  ||  ||  ||
+|| 03 || Taki ||  ||  ||  ||  ||  ||  ||  ||
+|| 04 || Maxi ||  ||  ||  ||  ||  ||  ||  ||
+|| 05 || Voldo ||  ||  ||  ||  ||  ||  ||  ||
+|| 06 || Sophitia ||  ||  ||  ||  ||  ||  ||  ||
+|| 07 || Siegfried ||  ||  ||  ||  ||  ||  ||  ||
+|| 08 || Rock ||  ||  ||  ||  ||  ||  ||  ||
+|| 0B || Ivy ||  ||  ||  ||  ||  ||  ||  ||
+|| 0C || Kilik ||  ||  ||  ||  ||  ||  ||  ||
+|| 0D || Xianghua ||  ||  ||  ||  ||  ||  ||  ||
+|| 0E || Lizardman ||  ||  ||  ||  ||  ||  ||  ||
+|| 0F || Yoshimitsu ||  ||  ||  ||  ||  ||  ||  ||
+|| 11 || Nightmare ||  ||  ||  ||  ||  ||  ||  ||
+|| 12 || Astaroth ||  ||  ||  ||  ||  ||  ||  ||
+|| 14 || Cervantes ||  ||  ||  ||  ||  ||  ||  ||
+|| 15 || Raphael ||  ||  ||  ||  ||  ||  ||  ||
+|| 16 || Talim ||  ||  ||  ||  ||  ||  ||  ||
+|| 17 || Cassandra ||  ||  ||  ||  ||  ||  ||  ||
+|| 1A || Yun-Seong ||  ||  ||  ||  ||  ||  ||  ||
+|| 1E || Lizardmen ||  ||  ||  ||  ||  ||  ||  ||
+|| 22 || Setsuka ||  ||  ||  ||  ||  ||  ||  ||
+|| 23 || Tira ||  ||  ||  ||  ||  ||  ||  ||
+|| 24 || Zasalamel ||  ||  ||  ||  ||  ||  ||  ||
+|| 25 || Olcadan ||  ||  ||  ||  ||  ||  ||  ||
+|| 26 || Abyss ||  ||  ||  ||  ||  ||  ||  ||
+|| 27 || Night Terror ||  ||  ||  ||  ||  ||  ||  ||
+|| 28 || Charade || Seong Mi-Na || Charade (29) || Seong Mi-Na ||  ||  ||  ||  ||
+|| 29 || Charade (legs) || Seong Mi-Na || Charade (2A) || Seong Mi-Na ||  ||  ||  ||  ||
+|| 2A || Charade (eyeball) ||  || Wisp (green) || Seong Mi-Na ||  ||  ||  ||  ||
+|| 2B || Will-o'-the-Wisp (orange) ||  ||  ||  ||  ||  ||  ||  ||
+|| 2C || Will-o'-the-Wisp (blue) ||  ||  ||  ||  ||  ||  ||  ||
+|| 2D || Doppelganger ||  ||  ||  ||  ||  ||  ||  ||
+|| 2E || Shadow Master || Seong Mi-Na || Amy || Amy ||  ||  ||  ||  ||
+|| 30 || Amy || Amy || Colossus || Colossus ||  ||  ||  ||  ||
+|| 31 || Colossus || Colossus || Lizardmen || Lizardmen ||  ||  ||  ||  ||
+|| 35 || Zasalamel (Old) ||  ||  ||  ||  ||  ||  ||  ||
+|| 36 || Lizardman (Crown) ||  ||  ||  ||  ||  ||  ||  ||
+|| 37 || Lizardman (Masked) ||  ||  ||  ||  ||  ||  ||  ||
+|| 38 || Lizardman (Tailess) ||  ||  ||  ||  ||  ||  ||  ||
+|| 41 || Miser ||  ||  ||  ||  ||  ||  ||  ||
+|| 42 || Greed ||  ||  ||  ||  ||  ||  ||  ||
+|| 43 || Arthur ||  ||  ||  ||  ||  ||  ||  ||
+|| 44 || Hwang ||  ||  ||  ||  ||  ||  ||  ||
+|| 45 || Luna ||  ||  ||  ||  ||  ||  ||  ||
+|| 46 || Valeria ||  ||  ||  ||  ||  ||  ||  ||
+|| 47 || Hua-Lin ||  ||  ||  ||  ||  ||  ||  ||
+|| 48 || Girardot ||  ||  ||  ||  ||  ||  ||  ||
+|| 4A || Demuth ||  ||  ||  ||  ||  ||  ||  ||
+|| 4B || Aurelia ||  ||  ||  ||  ||  ||  ||  ||
+|| 4C || Chester ||  ||  ||  ||  ||  ||  ||  ||
+|| 4D || Strife ||  ||  ||  ||  ||  ||  ||  ||
+|| 4E || Abelia ||  ||  ||  ||  ||  ||  ||  ||
+|| 4F || Lynette ||  ||  ||  ||  ||  ||  ||  ||
+|| 51 || Li-Long ||  ||  ||  ||  ||  ||  ||  ||
+|| 54 || Revenant ||  ||  ||  ||  ||  ||  ||  ||
+|| 60 || Memory Card Slot 1 Custom Slot 1 ||  ||  ||  ||  ||  ||  ||  ||
+|| 61 || Memory Card Slot 1 Custom Slot 2 ||  ||  ||  ||  ||  ||  ||  ||
+|| 81 || Berserker (Lance) ||  || Samurai || Samurai ||  ||  ||  ||  ||
+|| 82 || Sophitia (Tamborines) ||  ||  ||  ||  ||  ||  ||  ||
+|| 83 || Sophita (Kunai) ||  ||  ||  ||  ||  ||  ||  ||
+|| 84 || Samurai (Katana) || Samurai || Samurai || Samurai ||  ||  ||  ||  ||
+|| 85 || Gladiator (Iron Sword) ||  ||  ||  ||  ||  ||  ||  ||
+|| 86 || Gladiator (S & Shield) ||  ||  ||  ||  ||  ||  ||  ||
+|| 87 || Unknown Soul (Li Long) ||  ||  ||  ||  ||  ||  ||  ||
+|| 88 || Unknown Soul (Hwang) ||  ||  ||  ||  ||  ||  ||  ||
+|| 89 || Unknown Soul (Arthur) ||  ||  ||  ||  ||  ||  ||  ||
+|| 8A || Fu-ma Ninja (Kunai) ||  ||  ||  ||  ||  ||  ||  ||
+|| 8B || Fu-ma Ninja (Sickle) || Fu-ma Ninja ||  ||  ||  ||  ||  ||  ||
+|| 8C || Fu-ma Ninja (K & Shuriken) || Fu-ma Ninja ||  ||  ||  ||  ||  ||  ||
+|| 8D || Bandit (Chinese Blade) || Fu-ma Ninja || Fu-ma Ninja || Fu-ma Ninja ||  ||  ||  ||  ||
+|| 8E || Bandit (Sickle) || Bandit ||  ||  ||  ||  ||  ||  ||
+|| 8F || Thief (Dagger) ||  ||  ||  ||  ||  ||  ||  ||
+|| 90 || Thief (Dagger) ||  ||  ||  ||  ||  ||  ||  ||
+|| 91 || Pirate (Dagger) || Pirate || Pirate ||  ||  ||  ||  ||  ||
+|| 92 || Pirate (Chinese Sword) || Pirate (Male) || Pirate (Male) || Pirate (Male) ||  ||  ||  ||  ||
+|| 93 || Assassin (Kunai) ||  ||  ||  ||  ||  ||  ||  ||
+|| 94 || Swordsman (Chinese Blade) || Swordsman ||  ||  ||  ||  ||  ||  ||
+|| 95 || Foot Soldier (S & Shield) ||  ||  ||  ||  ||  ||  ||  ||
+|| 96 || General (Iron Sword) || General ||  ||  ||  ||  ||  ||  ||
+|| 97 || Sentry (Staff) ||  ||  ||  ||  ||  ||  ||  ||
+|| 98 || Keres (Iron Sword) ||  ||  ||  ||  ||  ||  ||  ||
+|| 99 || Dragon (Chinese Sword) ||  ||  ||  ||  ||  ||  ||  ||
+|| A0 || Jinkai || Kagami || Shiun || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| A1 || Shiina || Chikage || Konomi || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| A2 || Cassius || Saizou || Ryouga || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| A3 || Kimika || Syunna || Tomoe || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| A4 || Meiga || Alastor || Shizuma || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| A5 || Azumi || Yukina || Ouka || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| A6 || Xiaoxin || Oruks || Agareth || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| A7 || Jyuri || Shuyu || Mingyue || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| A8 || Veles || Aether || Ixion || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| A9 || Siulan || Fenglin || Philine || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| AA || Ignis || Notus || Azrael || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| AB || Mireille || Aglaia || Kanon || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| AC || Jyurai || Kureha || Xunyu || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| AD || Fengyu || Fenglei || Minlian || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| AE || Noel || Rudiger || Aeneas || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| AF || Annaretta || Iris || Brunhild || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| B0 || Asrafil || Zifeng || Aeolos || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| B1 || Amrita || Azalea || Yueliang || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| B2 || Kanade || Domenthi || Marid || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| B3 || Ambrose || Ailian || Aika || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| B4 || Loki || Celestis || Beleth || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| B5 || Karen || Lilian || Abigail || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| B6 || Balduin || Aloces || Areon || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| B7 || Juno || Eurydice || Ishtar || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| B8 || Rufus || Raguel || Feofan || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| B9 || Eunice || Acacia || Hilda || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| BA || Iblis || Alberic || Leshy || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| BB || Muriel || Wenli || Irene || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| BC || Yufeng || Yakumo || Dufeng || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| BD || Mayura || Meilan || Rhea || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| BE || Halphas || Gorus || Ilyusha || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| BF || Edith || Riese || Agave || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| C0 || Haystir || Leraje || Ratziel || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| C1 || Katina || Eris || Sizuku || Grandall || Dalkia || Brigand || Maletta || Rebel ||
+|| E0 || Abelia || Abelia (2P) || Abelia (3P) || Abelia (?) || Luna || Luna || Luna || Abelia (?) ||
+|| E1 || Luna || Luna (2P) || Luna (3P) || Luna (?) || <#Crash> || <#Crash> || <#Crash> || <#Crash> ||
+|| E2 || Girardot || Girardot (2P) || Girardot (?) || Strife || Strife || Chester || Chester || Chester ||
+|| E3 || Strife || Strife 2P || Chester || Chester || Chester || Demuth || Demuth || Aurelia ||
+|| E4 || Chester (CotS 1P) || Chester 2P || Chester 3P || Demuth || Demuth || Aurelia || Aurelia || Aege ||
+|| E5 || Demuth || Demuth 2P || Aurelia || Aurelia || Aege || Aege || Aege || Heal・Do ||
+|| E6 || Aurelia || Aurelia 2P || Aege || Aege || Aege || Heal・Do || Heal・Do || Heal・Do ||
+|| E7 || Aege || Aege 2P || Aege 3P || Heal・Do || Heal・Do || Heal・Do || <#Crash> || Elua ||
+|| E8 || Heal・Do || Heal・Do 2P || Heal・Do 3P || <#Crash> || Elua || Elua || Heal・Do (?) || Lupi ||
+|| E9 || Elua || Elua 2P || Elua (?) || Lupi || Lupi || Lupi || Roin || Roin ||
+|| EA || Lupi || Lupi 2P || Lupi 3P || Roin || Roin || Kierkess || Kierkess || Hyle ||
+|| EB || Roin || Roin 2P || Kierkess || Kierkess || Hyle || Hyle || <#Crash> || Mooncalf ||
+|| EC || Kierkess || Kierkess 2P || Hyle || Hyle || <#Crash> || Mooncalf || <#Crash> || Ende ||
+|| ED || Hyle || Hyle 2P || <#Crash> || Mooncalf || <#Crash> || Ende || Hyle (?) || <#Crash> ||
+|| EE || Mooncalf || <#Crash> || Ende || Mooncalf (?) || <#Crash> || <#Crash> || <#Crash> || <#Crash> ||
+|| EF || Ende || Ende (?) || <#Crash> || <#Crash> || <#Crash> || <#Crash> || <#Crash> || <#Crash> ||
 
 ++ Color Modifications
 [[image standardcolorchange.jpg| Cassandra with Color Restriction Remover, showing skin-colored stockings]]
 
 
 **Universal Color Palette Changer**
-202D852C 460F7B00
+{{202D852C 460F7B00}}
 This code changes all color palette to a secret palette that will allow you to:
 # Freely alter your custom character's underwear/underclothing color to most available colors on the standard color palette (including skin tones).
 # Use a set of new, multi shaded, and brighter colors for most clothing items. This also works on standard characters, though results are not till you exit.
 [[xinclude :fiction:common:alert |type=warning |icon=warning |text=This code has very limited usage. It will screw up your current character's colors (rectifiable, at many times), and the individual shade colors on multi-shaded effect cannot be edited.]]
 
 **Standard Characters Color Restriction Remover**
-202D8E70 3C014000
-202D8E78 44817000
+{{202D8E70 3C014000}}
+{{202D8E78 44817000}}
 Code that allows coloring all restricted parts in Standard Character Color Edit to skin tone or any other color. This will manipulate standard characters only.
 [[xinclude :fiction:common:alert |type=warning |icon=warning |text=Coloring hair a bright color may have a side effect that changes the character's face skin color, either leaving the hair color at default or color it to a dark or white color is recommended when using this code.]]
 
@@ -273,18 +294,25 @@ Moveset modifiers changes the moveset of your current character to another moves
 
 **Player 1 Moveset Modifier**
 <Joker Command>
-004B4862 000000??
+{{004B4862 000000??}}
 
 **Player 2 Moveset Modifier**
 <Joker Command>
-004D1FE2 000000??
+{{004D1FE2 000000??}}
 
 Replace ?? with any Character Modifier Digits listed above.
 
-[[xinclude :fiction:common:alert |text=Setting to 26 or 27 will not get you Abyss' or Night Terror's movesets. To obtain their movesets, you must use the character modifier of Abyss and Night Terror, then activate them while using Soul of Zasalamel and Soul of Nightmare, respectively. Some aspect of their moveset won't work well unless you also use Abyss/Night Terror weapon. To obtain Olcadan's moveset and properties (i.e. changing move every round, special taunt, special weapon demonstration), activate his character modifier while using any of regular character's moveset.]]
+[[include component:alert
+|type=info
+|icon=fa fa-info-circle
+|text=Setting to 26 or 27 will not get you Abyss' or Night Terror's movesets. To obtain their movesets, you must use the character modifier of Abyss and Night Terror, then activate them while using Soul of Zasalamel and Soul of Nightmare, respectively. Some aspect of their moveset won't work well unless you also use Abyss/Night Terror weapon. To obtain Olcadan's moveset and properties (i.e. changing move every round, special taunt, special weapon demonstration), activate his character modifier while using any of regular character's moveset.
+]]
 
-[[xinclude :fiction:common:alert |text=When using Abyss, Night Terror, and Olcadan's moveset, your swipe color will be fixed to the respective characters.]]
-
+[[include component:alert
+|type=info
+|icon=fa fa-info-circle
+|text=When using Abyss, Night Terror, and Olcadan's moveset, your swipe color will be fixed to the respective characters.
+]]
 
 ++ Weapon Modifications
 Weapon modifier allows you to change the weapon of your current character with a desired different one. A special master code is required for this to fully work.
@@ -292,28 +320,36 @@ Weapon modifier allows you to change the weapon of your current character with a
 [[image weaponmod.jpg| Nightmare using Night Terror's weapon.]]
 
 **Weapon Modifier Master Code**
-204479B4 0803FFD0
-200FFF40 3C02004B
-200FFF50 3C02004D
-200FFF5C 08111E6F
+{{204479B4 0803FFD0}}
+{{200FFF40 3C02004B}}
+{{200FFF50 3C02004D}}
+{{200FFF5C 08111E6F}}
 
 **Weapon Modifier Disabler**
 <Joker Command>
-200FFF48 24010000
+{{200FFF48 24010000}}
 <Joker Command>
-200FFF4C 00000000
+{{200FFF4C 00000000}}
 
 **Weapon Modifier**
 <Joker Command>
-200FFF48 240100??
+{{200FFF48 240100??}}
 <Joker Command>
-200FFF4C A0414862
+{{200FFF4C A0414862}}
 
 Replace ?? with any Character Modifier Digits listed above.
 
-[[xinclude :fiction:common:alert |text=The only purpose of using this code is to make Soul of Night Terror and Soul of Abyss fully functional. Otherwise, using this code also forces you to use the respective moveset.]]
+[[include component:alert
+|type=info
+|icon=fa fa-info-circle
+|text=The only purpose of using this code is to make Soul of Night Terror and Soul of Abyss fully functional. Otherwise, using this code also forces you to use the respective moveset.
+]]
 
-[[xinclude :fiction:common:alert |type=warning |icon=warning |text=Using Olcadan's weapon could crash the game.]]
+[[include component:alert
+|type=warning
+|icon=fa fa-warning
+|text=Using Olcadan's weapon will crash the game.
+]]
 
 
 + Camera Limitation Release
@@ -321,42 +357,41 @@ These codes will remove all limits of the camera during specified mode. Take not
 
 
 **Profile Screen Camera Release**
-20132DB0 10000016
-202E6894 10000006
-202E68C0 10000003
-202E6828 10000003
-202E68F0 50000004
+{{20132DB0 10000016}}
+{{202E6894 10000006}}
+{{202E68C0 10000003}}
+{{202E6828 10000003}}
+{{202E68F0 50000004}}
 
 **Custom Character Creation Camera Release**
-2030ACA8 460C0301
-2030ACAC 46006006
-2030AD9C 46006006
+{{2030ACA8 460C0301}}
+{{2030ACAC 46006006}}
+{{2030AD9C 46006006}}
 
 **Battle Theatre Camera Release**
-20234A34 3C014700
-20234A58 3C014000
-20234A68 3C01C600
-20234A54 4614A301
+{{20234A34 3C014700}}
+{{20234A58 3C014000}}
+{{20234A68 3C01C600}}
+{{20234A54 4614A301}}
 
 **Standard Character Color Edit Camera Release**
-202D3CE4 C60C0078
-202D3CE8 46006006
-202D3D14 E6000074
-202D3D18 46006006
+{{202D3CE4 C60C0078}}
+{{202D3CE8 46006006}}
+{{202D3D14 E6000074}}
+{{202D3D18 46006006}}
 
 
 + Stage Modification
 Allows you to play in a certain stage or an arena that's otherwise impossible to play in (e.g. ending scenery).
 
-[[image stagemod.jpg| Custom Assassin vs. Lizardmen in Badlands stage.
-]]
+[[image stagemod.jpg| Custom Assassin vs. Lizardmen in Badlands stage.]]
 
 
 **Stage Modifier**
 <Joker Command>
-004ED64C 000000??
+{{004ED64C 000000??}}
 
-||||~ Replace ?? with the following: ||
+||~ Digits ||~ Stage ||
 || 00 || Highlands (Earthquake in Vs. Special) ||
 || 01 || Egyptian Temple ||
 || 02 || Clock Tower ||
@@ -404,13 +439,23 @@ Allows you to play in a certain stage or an arena that's otherwise impossible to
 || 32 || Soul Calibur III logo ||
 || 33 || Character creation background ||
 
-[[xinclude :fiction:common:alert |type=warning |icon=warning |text=If used without Joker Command, the code will also replace the intro screen, menu screen, and character creation background.]]
+[[include component:alert
+|type=info
+|icon=fa fa-info-circle
+|text=<Camera!> indicates the stage is hard to navigate due to camera problem.
+]]
 
-[[xinclude :fiction:common:alert |type=danger |icon=warning |text=Digits unlisted will cause game freeze.]]
+[[include component:alert
+|type=warning
+|icon=fa fa-warning
+|text=If used without Joker Command, the code will also replace the intro screen, menu screen, and character creation background.
+]]
 
-[[xinclude :fiction:common:alert |type=warning |icon=warning |text=<Camera!> indicates the stage is hard to navigate due to camera problem.]]
-
-[[xinclude :fiction:common:alert |type=danger |icon=warning |text=<Crash!> indicates the stage will crash the game if you attempt to do battles. They can still work on title screen.]]
+[[include component:alert
+|type=warning
+|icon=fa fa-warning
+|text=<Crash!> indicates the stage will crash the game if you attempt to do battles. They can still work on title screen. Unlisted digits will freeze the game.
+]]
 
 ++ How to use Stage Modifier with Joker Command
 To ensure this code works for all stages is to use it with a joker command.
@@ -423,13 +468,16 @@ To ensure this code works for all stages is to use it with a joker command.
 004ED650 0000000?
 Only works on certain stages that have variants like Egyptian Temple, Eurydice Shrine, Lakeside Coliseum, and Grand Labyrinth. At normal, the value is 0. Change it to 1 or 2 will enable the stage variations.
 
-[[xinclude :fiction:common:alert |type=warning |icon=warning |text=If used on stage without variation, you will end up in Highlands.]]
-
+[[include component:alert
+|type=info
+|icon=fa fa-info-circle
+|text=If used on stage without variation, you will end up in Highlands.
+]]
 
 + Miscellaneous Codes
 **Hide/Show Health Bar**
 <Joker Command>
-004ED7D8 0000000?
+{{004ED7D8 0000000?}}
 
 Replace ? with the following:
 0 - Hide
@@ -437,7 +485,7 @@ Replace ? with the following:
 
 **Hide/Show Game Text**
 <Joker Command>
-004ED7FC 0000000?
+{{004ED7FC 0000000?}}
 
 Replace ? with the following:
 0 - Hide all game texts, ending subtitle and some texts become Japanese
@@ -446,21 +494,21 @@ Replace ? with the following:
 
 **Invisible Player (except for weapon)**
 Player 1
-104B4874 00000000
+{{104B4874 00000000}}
 Player 2
-104D1FF8 00000000
+{{104D1FF8 00000000}}
 
 **Invisible Weapon**
 Player 1
-104B4878 00000000
+{{104B4878 00000000}}
 Player 2
-104D1FF8 00000000
+{{104D1FF8 00000000}}
 
 **Player Operation Change**
 Player 1
-004B4858 000000??
+{{004B4858 000000??}}
 Player 2
-004D1FD8 000000??
+{{004D1FD8 000000??}}
 
 Replace ?? with the following:
 01 - Controller
@@ -577,36 +625,39 @@ Some examples (decimal):
 || 189 || 136 || -7 (Drain) ||
 
 
-
-
 + CaS Profile & Weapon Exhibition Guide
-You can have your own CaS in Profile and Weapon Exhibition with a usage of several modification codes and some light tinkering. Shown below is Spica (Tamborine) Weapon Demonstration using Xianghua's moveset.
+You can have your own CaS in Profile and Weapon Exhibition with a usage of several modification codes and some light tinkering. Shown below is Spica (Tamborine) Weapon Demonstration. 
 
 [[youtube U7Q3pHI7HZI]]
 
-First set up a Character Modifier along with a Joker Command. For digits you use 60 for Memory Card 1 slot 1, or 61 for Memory Card 1 Slot 2.
+++ How-to Example
+Setup a joker command to select Memory Card 1 Slot 1. In the below case, [[i|ct sel]][[i|ct plus]][[i|ct l2]][[i|ct plus]][[i|ct r2]]:
+{{D046DBA2 0000FCFE}} ➡️ This is the Joker Command
+{{004B4860 00000060}} ➡️ This is the character modifier code
 
-**Example**
-Press select + R2 + L2 to select Memory Card 1 Slot 1
-D046DBA2 0000FCFE ~> This is the joker command
-004B4860 00000060 ~> This is the character modifier code
-[[div class="alert alert-warning"]]
-[[span class="fa fa-warning"]]@<&nbsp;>@[[/span]]Before performing this, ensure you view the CaS in Memory Card 1 Slot 1 at least once in any character selection screen, choosing a corresponding discipline as you do. If you edit the CaS in memory card 1 slot 1, you will need to re-view him/her once again. If you somehow forget this step, the internal memory will get screwed up and you may not be able select your CaS.
-[[/div]]
-[[div class="alert alert-info"]]
-[[span class="fa fa-warning"]]@<&nbsp;>@[[/span]]CaS's moveset is determined by the last CaS moveset you choose. Digit 60 and 61 are both independent and can store separate moveset.
-[[/div]]
+[[include component:alert
+|type=info
+|icon=fa fa-info-circle
+|text=CaS's moveset is determined by the last CaS moveset you choose. Digit 60 and 61 are both independent and can store separate moveset.
+]]
+
+[[include component:alert
+|type=warning
+|icon=fa fa-warning
+|text=Before performing this, ensure you view the CaS in Memory Card 1 Slot 1 at least once in any character selection screen, choosing a corresponding discipline as you do. If you edit the CaS in memory card 1 slot 1, you will need to re-view him/her once again. If you somehow forget this step, the internal memory will get screwed up and you may not be able select your CaS until you reset the game.
+]]
 
 Once you done with these set-ups, activate the code with the joker command on character selection screen on Character Profile or Weapon Exhibition. Your character should now be displayed instead of the standard character in both modes, simply select him/her to view the CaS Profile or Weapon Exhibition.
 
-**Stage Selection**
+++++ Stage Selection
 You can additionally select the target stage you want your character to appear in in Profile and Weapon Exhibition. First select any standard character whose arena is the one you want (e.g. select Nightmare will get Forsaken Sanctuary) and then activate the code (joker command) after the character finished saying their opening speech line.
 
-**Weapon Selection**
+++++ Weapon Selection
 Specific weapon selection is also possible. To do this, choose a corresponding weapon slot at the standard character prior to activating the code (joker command). For instance, to have a Soul of Raphael CaS wielding Queen's Guard at Forsaken Sanctuary: select Nightmare and select Soul Edge (Soul Edge is in the same slot as Queen's Guard for Soul of Raphael and Nightmare's stage is Forsaken Sanctuary), then activate the code (joker command).
 
-**Pose Selection**
-CaS pose is determined by their movesets. If you add extra joker command codes of Abyss and Night Terror, you can make Soul of Zasalamel and Soul of Nightmare to use Abyss and Nigt Terror's pose, respectively. Just press the button combination of Abyss/Night Terror once you are on the CaS's profile screen.
+++++ Pose Selection
+CaS pose is determined by their movesets. If you add extra joker command codes of Abyss and Night Terror, you can make Soul of Zasalamel and Soul of Nightmare to use Abyss and Night Terror's pose, respectively. Just press the button combination of Abyss/Night Terror once you are on the CaS's profile screen.
+
 Several non-souls discipline has poses. Most of them are victory pose. Discipline with poses includes: Chinese Sword, Grieve Edge, Kunai, Lance, Nunchaku, Rapier, Staff and Tambourines. If you want the character to use different pose, you must activate the Moveset Modifier code while on loading screen (approximately on second flash of "NOW LOADING" letters).
 
 
@@ -615,10 +666,11 @@ Swapping out standard characters in endings and swapping them with CaS is possib
 
 [[youtube -JtIC3r4QuQ]]
 
-**Before you start attempting**
+++ Before you start attempting
 * Use only the Character Modifier (Play As) codes. Using other modifiers such as moveset and/or weapon will guarantee to mess up the ending sequence.
 * All CaS in the ending sequence only speak nonsensical one liners like a broken record, so you may want to turn voice off and disable subtitles in options.
 * Since this is excruciatingly difficult to pull off, you might wish to prepare some aspirin and an extra controller.
+
 First, you will need to understand the basic mechanism of how Soul Calibur III assigns characters in the event viewer. The system assigns immediate appearing character when the black wipe starts to disappear. Some late appearing characters can be assigned after the ending sequence has started.
 
 Second, you must be familiar with the swap technique in CaS Profile and Weapon Exhibition Guide. You must activate the joker code as the black wipe starts to leave the left part of the screen. This needs to be a very precise timing; as if you're too early, the character won't swap and if you're too late, the game freezes, or your character is lying down somewhere.
@@ -631,24 +683,26 @@ Third, you must use 2P character modifier to make appearance for another charact
 **4P Character Modifier**
 00DDE8A0 00??
 
-[[div class="alert alert-warning"]]
-[[span class="fa fa-warning"]]@<&nbsp;>@[[/span]] Tampering with 3P and 4P code outside the event, will usually mess up your game.
-[[/div]]
+[[include component:alert
+|type=warning
+|icon=fa fa-warning
+|text=Tampering with 3P and 4P code outside the event, will usually mess up your game.
+]]
 
-**Example 1, Mitsurugi's ending setup**
+From all endings that have been tested, 4P is only used for Siegfried's ending (there are three Nightmares there), unless you want to change the mooks.
+
+Fourth, you can only swap CaS in digit 60 and 61 into the endings. Swapping in CotS characters have been tried but it does not appear to be working. Also, all non-ending sequence 2P are not swappable. Example: if you try to swap the Tira who jump to your raft, the game will crash.
+
+Fifth, the memory limit for CaS in Soul Calibur III is only 2, and there is no way to increase it, as it's just how the game works. This makes the Kilik ending require post video editing if you want to make a 3rd CaS appearance there. In the example posted, there were 2 videos: one with Sauron and Spica, the other one with Spica and Perseonn. The two footage was then spliced.
+
+++++ Example 1, Mitsurugi's ending setup
 1P: Mitsurugi
 2P: Mook #2
 3P (immediate): Mook #1 (that first mook you see flying)
 3P (after input): Taki
 So in order to swap Taki's appearance, you must activate the joker command just after the B ending input disappears.
 
-**Example 2, Kilik's ending setup, all immediate**
+++++ Example 2, Kilik's ending setup, all immediate
 1P: Kilik
 2P: Xianghua
 3P: Maxi
-
-From all endings that have been tested, 4P is only used for Siegfried's ending (there are three Nightmares there), unless you want to change the mooks.
-
-Fourth, you can only swap CaS in digit 60 and 61 into the endings. Swapping in CotS characters have been tried but it does not appear to be working. Also, all non-ending sequence 2P are not swappable. Example: if you try to swap the Tira who jump to your raft, the game will crash.
-
-Fifth, the memory limit for CaS in Soul Calibur III is only 2, and there is no way to increase it, as it's just how the game works. This makes the Kilik ending require post video editing if you want to make a 3rd CaS appearance there. In the example posted, there were 2 videos: one with Sauron and Spica, the other one with Spica and Perseonn. How will you splice the video depends your skill.

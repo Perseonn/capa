@@ -5613,7 +5613,8 @@ Wild Arms
         <td></td>
     </tr>
 </table>
-<p>[[xinclude :fiction:common:alert |text=Digit 32 / 20h is a placeholder skill when you mastered Psycho Crack, which does not happen in the game. Starting from this digit, all skills behave like &quot;????&quot; skills cycle from Psycho Crack, to Trump Card.]] [[xinclude :fiction:common:alert |text=ATP are just estimation, and might not be completely accurate, but it gives an estimation on how strong the skill is. ATPs are estimated using full force Jack doing the skill 10 times and averaged, then compared to his normal attack on same condition. All tested on the same enemy.]]</p>
+<p>[[xinclude :fiction:common:alert |text=Digit 32 / 20h is a placeholder skill when you mastered Psycho Crack, which does not happen in the game. Starting from this digit, all skills behave like &quot;????&quot; skills cycle from Psycho Crack, to Trump Card.]]<br>
+[[xinclude :fiction:common:alert |text=ATP are just estimation, and might not be completely accurate, but it gives an estimation on how strong the skill is. ATPs are estimated using full force Jack doing the skill 10 times and averaged, then compared to his normal attack on same condition. All tested on the same enemy.]]</p>
 <h1 id="heading-10">Cecilia Codes</h1>
 <table class="wiki-content-table">
     <tr>
@@ -6800,12 +6801,25 @@ Wild Arms
         <td></td>
     </tr>
 </table>
-<p>[[xinclude :fiction:common:alert |text=ATP are just estimation, and might not be completely accurate, but it gives an estimation on how strong the skill is. ATPs are estimated using full force Cecilia doing the skill 10 times and averaged, then compared to her SOR, which at the time, was 39. Lucky Shot, for example, do average of 39 damage, which is same as Cecilia&#39;s SOR (thus, 100)]] [[xinclude :fiction:common:alert |type=danger |icon=warning |text= Digits other than listed have no name, many have massive MP usage (&gt;100), and crashes the game.]]</p>
+<p>[[xinclude :fiction:common:alert |text=ATP are just estimation, and might not be completely accurate, but it gives an estimation on how strong the skill is. ATPs are estimated using full force Cecilia doing the skill 10 times and averaged, then compared to her SOR, which at the time, was 39. Lucky Shot, for example, do average of 39 damage, which is same as Cecilia&#39;s SOR (thus, 100)]]<br>
+[[xinclude :fiction:common:alert |type=danger |icon=warning |text= Digits other than listed have no name, many have massive MP usage (&gt;100), and crashes the game.]]</p>
 <h1 id="heading-12">The Heal Berry 255 Item Trick</h1>
 <p>You probably already know how this trick is performed. If you wonder how does it work, I&#39;ll explain it here.</p>
-<p>: Requirements : You need to have 3 party members. _ You only have 1 item that you want to duplicate. _ You have 2 or more consumable item (Heal Berry preferred due to its abundance). _</p>
-<p>: Steps : Order first character use Heal Berry. _ Order second character use Heal Berry _ Order third character to swap heal berry with the item you want to duplicate, and then Defend. _ Let the battle commence. _ The item swapped with Heal Berry will now be 255.</p>
-<p>Let&#39;s say that the Heal Berry is in slot 1, and the item to be duplicated, Ambrosia, is in slot 2. Due to requirement, there&#39;s only 1 Ambrosia. : Order first character to use Heal Berry (Slot 1) : This orders the game to use Heal Berry and reduce Item in slot 1 by 1. Take note of how I write this. The game was not ordered to use Item 1, the game was ordered to use the Heal Berry instead. : Order second character to use Heal Berry (Slot 1) : This orders the game to use Heal Berry and reduce Item in slot 1 by 1. : Third character swap Heal Berry (Slot 1) With Ambrosia (Slot 2) and Defend : Different from previous two, this actually sort the item, not ordering just order the game to do it. Now Ambrosia is in Slot 1 and Heal Berry is in Slot 2. : Turn commence - Third Character : Third character defend (defend being a high priority move s/he goes first. Nothing changed. : Turn commence - First Character : First character uses Heal Berry as ordered, but reduces the item in slot 1, which is Ambrosia. Ambrosia is now 0. However, the game only reduce the amount, not clearing the Item Type itself, hence at this state, item slot 1 is occupied with 0 Ambrosia. : Turn commence - Second Character : Second character uses Heal Berry as ordered, but again reduces the item in slot 1, Since item slot 1 is occupied by 0 Ambrosia and the game only know how to reduce the amount using this mechanism, the item become -1 Ambrosia. This causes overflow, and since item amount is Integer 1 byte, it converts the signed value (-1) to its unsigned value (255). Hence you get the 255 Ambrosias.</p>
+<p>: Requirements : You need to have 3 party members. _<br>
+You only have 1 item that you want to duplicate. _<br>
+You have 2 or more consumable item (Heal Berry preferred due to its abundance). _</p>
+<p>: Steps : Order first character use Heal Berry. _<br>
+Order second character use Heal Berry _<br>
+Order third character to swap heal berry with the item you want to duplicate, and then Defend. _<br>
+Let the battle commence. _<br>
+The item swapped with Heal Berry will now be 255.</p>
+<p>Let&#39;s say that the Heal Berry is in slot 1, and the item to be duplicated, Ambrosia, is in slot 2. Due to requirement, there&#39;s only 1 Ambrosia.<br>
+: Order first character to use Heal Berry (Slot 1) : This orders the game to use Heal Berry and reduce Item in slot 1 by 1. Take note of how I write this. The game was not ordered to use Item 1, the game was ordered to use the Heal Berry instead.<br>
+: Order second character to use Heal Berry (Slot 1) : This orders the game to use Heal Berry and reduce Item in slot 1 by 1.<br>
+: Third character swap Heal Berry (Slot 1) With Ambrosia (Slot 2) and Defend : Different from previous two, this actually sort the item, not ordering just order the game to do it. Now Ambrosia is in Slot 1 and Heal Berry is in Slot 2.<br>
+: Turn commence - Third Character : Third character defend (defend being a high priority move s/he goes first. Nothing changed.<br>
+: Turn commence - First Character : First character uses Heal Berry as ordered, but reduces the item in slot 1, which is Ambrosia. Ambrosia is now 0. However, the game only reduce the amount, not clearing the Item Type itself, hence at this state, item slot 1 is occupied with 0 Ambrosia.<br>
+: Turn commence - Second Character : Second character uses Heal Berry as ordered, but again reduces the item in slot 1, Since item slot 1 is occupied by 0 Ambrosia and the game only know how to reduce the amount using this mechanism, the item become -1 Ambrosia. This causes overflow, and since item amount is Integer 1 byte, it converts the signed value (-1) to its unsigned value (255). Hence you get the 255 Ambrosias.</p>
 <p>: What if the target duplicated item is more than 1? : Let&#39;s say you have 2 Ambrosias, at the end of battle, it will become 0 Ambrosia.  You can redo the trick by swapping Heal Berry with the empty slot and end with 254 item.</p>
 </div>
 </div>
