@@ -62,7 +62,7 @@ Vyers Castle
 || Witch || Green Mage (T2) || 1 || Light Staff || Protector || Protector || Protector ||
 || Archer || Archer (T1) || 1 || Hunter's Bow || Protector || Protector || Protector ||
 || Spirit || Boggart (T2) || 5 || || || || ||
-If you lose this battle you will see the [https://www.youtube.com/watch?v=GcIPZToWJDA Mid-Boss Ending].
+If you lose this battle you will see the [[link https://www.youtube.com/watch?v=GcIPZToWJDA | Mid-Boss Ending]].
 
 Repeated version removes Mid-Boss and replaces him with
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
@@ -126,7 +126,7 @@ Dinero Palace
 || Martial Artist || Pugilist (T2) || 1 || Bushido Lance || Chain Mail || Fancy Lid || ||
 || Fight Mistress || Pugilist (T2) || 1 || Bushido Lance || Chain Mail || Fancy Lid || ||
 || Martial Artist || Wall of Meat || 6 || || || || ||
-If you have 50 ally kills by this stage you will have a Kill or Don't Kill option for Hoggmeiser, if you choose Kill you will get the [https://www.youtube.com/watch?v=R6YNIgAWx5w Flonne Tragedy Ending].
+If you have 50 ally kills by this stage you will have a Kill or Don't Kill option for Hoggmeiser, if you choose Kill you will get the [[link https://www.youtube.com/watch?v=R6YNIgAWx5w | Flonne Tragedy Ending]].
 
 Repeated version removes Hoggmeiser and replaces him with
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
@@ -159,7 +159,7 @@ Blazing Core
 || Living Armor || Killer Armor (T1) || 4 || Bat Parasol || Chain Mail || || ||
 || Shadow || Nightmare (T1) || 2 || Cat's Claw || Dimensional Cape/Dimension Cape || || ||
 || Lantern || Mandrake (T3) || 1 || Bat Parasol || Bulletproof Vest/PASGT Armor || Fancy Lid || ||
-If you lose this battle you will see the [https://www.youtube.com/watch?v=GcIPZToWJDA Mid-Boss Ending].
+If you lose this battle you will see the [[link https://www.youtube.com/watch?v=GcIPZToWJDA | Mid-Boss Ending]].
 
 Repeated version removes Mid-Boss and replaces him with
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
@@ -188,7 +188,7 @@ Jotunheim
 || Golem || Golem (T1) || 1 || Cat's Claw || Bulletproof Vest/PASGT Armor || || ||
 || Succubus || Empusa (T1) || 4 || || || || ||
 || Succubus || Lilim (T2) || 2 || || || || ||
-If you have 100 ally kills by this stage you will get the [https://www.youtube.com/watch?v=g81dAOfd6nw Etna Heroine Ending].
+If you have 100 ally kills by this stage you will get the [[link https://www.youtube.com/watch?v=g81dAOfd6nw | Etna Heroine Ending]].
 
 Repeated version removes Maderas and replaces him with
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
@@ -280,7 +280,7 @@ Repeated version
 || *Mid-Boss || Mid-Boss || 1 || Lizard Tail || Dimensional Cape/Dimension Cape || Chain Mail || ||
 || Gargoyle || Gargoyle (T1) || 2 || Lizard Tail || Dimensional Cape/Dimension Cape || || ||
 || Faery || Puck (T2) || 10 || || Leather Jacket/Bomber Jacket || Fancy Lid || Bulletproof Vest/PASGT Armor ||
-If you lose this battle you will see the [https://www.youtube.com/watch?v=GcIPZToWJDA Mid-Boss Ending].
+If you lose this battle you will see the [[link https://www.youtube.com/watch?v=GcIPZToWJDA | Mid-Boss Ending]].
 *Removed on repeated version
 
 ++ Episode 7 Of Being an Overlord
@@ -407,7 +407,7 @@ Sea of Gehenna
 || Mid-Boss || Mid-Boss || 1 || Spiked Shell || Dandy Gown || Dimensional Cape/Dimension Cape || Falcon Shoes ||
 || Dragon || Fafnir (T2) || 2 || Porcu-Spine || Bushido Armor || || ||
 || Faerie || Puck (T2) || 8 || || || || ||
-If you lose this battle you will see the [https://www.youtube.com/watch?v=GcIPZToWJDA Mid-Boss Ending].
+If you lose this battle you will see the [[link https://www.youtube.com/watch?v=GcIPZToWJDA | Mid-Boss Ending]].
 
 Repeated version removes Mid-Boss and replaces him with
 ||~ Name ||~ Class (Tier) ||~ Quantity ||~ Weapon ||~ Armor 1 ||~ Armor 2 ||~ Armor 3 ||
@@ -576,10 +576,10 @@ Seraphic Sanctuary
 + Endings
 Depending on your actions through your current cycle it will determine which of the 4 endings you will get. As there is no technical Post Game finishing **Sacred Altar** will lead to a new cycle.
 ||~ Name ||~ Condition ||
-|| [https://youtu.be/tj332PoSwWA Good Ending] || Have no ally kills. ||
-|| [https://youtu.be/9zYQqxtQcIE Normal Ending] || Have at least 1 ally kill. ||
-|| [https://youtu.be/wfGsfWZh6Lw Bad Ending] || Pass 100 bills by force and have at least 1 ally kill. ||
-|| [https://youtu.be/S0HVX8WKSR0 Item God Ending] || Defeat an Item God of a Legendary Item World and have at least 1 ally kill. ||
+|| [[link https://youtu.be/tj332PoSwWA | Good Ending]] || Have no ally kills. ||
+|| [[link https://youtu.be/9zYQqxtQcIE | Normal Ending]] || Have at least 1 ally kill. ||
+|| [[link https://youtu.be/wfGsfWZh6Lw | Bad Ending]] || Pass 100 bills by force and have at least 1 ally kill. ||
+|| [[link https://youtu.be/S0HVX8WKSR0 | Item God Ending]] || Defeat an Item God of a Legendary Item World and have at least 1 ally kill. ||
 
 + Promotion Exam (Main Story)
 Promotion Exams must be taken to unlock more potential bills to pass in the Dark Assembly with the character chosen, which have their own set of enemies for you to fight. Characters that Reincarnate must retake exams as their promotion level gets reset to 0 (except for those playing Complete after a certain patch), most of the enemies in these exams don't have any equipment, in the case that they do it will be formatted like normal.
@@ -695,7 +695,7 @@ Promotion Exams must be taken to unlock more potential bills to pass in the Dark
 || Prism Ranger || Defender? || 2 || || Hero Cape || || ||
 || EDF Soldier || Space Police (T5) || 6 || Olympus || Platinum Tux || || ||
 ! Rank 40 Booster, always Legendary.
-Finishing this map will give the [https://youtu.be/xUBH6z6J00E?t=42 Human Conqueror ending] which lead into a new cycle.
+Finishing this map will give the [[link https://youtu.be/xUBH6z6J00E?t=42 | Human Conqueror ending]] which lead into a new cycle.
 
 ++ Alternate Netherworld
 **Bill to pass:** Alternate Netherworld
@@ -1099,7 +1099,7 @@ Grand North
 || Angel || Angel Cadet (T2) || 2 || Sprite Bow || Magic Vest || || ||
 || Angel (Spear) || Angel (T1) || 2 || Forgetful Spear || || || ||
 || Angel (Sword) || Angel (T1) || 2 || Magic Sword || Fur Coat || || ||
-Finishing this map will give the [https://youtu.be/aEYkgw5PPJE Etna Mode Ending] which lead into a new cycle.
+Finishing this map will give the [[link https://youtu.be/aEYkgw5PPJE | Etna Mode Ending]] which lead into a new cycle.
 
 + Promotion Exam (Etna Mode)
 These are largely the same as the main story, though some bills won't be added as they aren't accessible in Etna Mode. Characters that Reincarnate must retake exams as their promotion level gets reset to 0, most of the enemies in these exams don't have any equipment, in the case that they do it will be formatted like normal.
@@ -1255,7 +1255,7 @@ Beating this map for the first time gives a Rank 39 Fist **God's Hand**.
 ! Rank 40 Armor, always Legendary.
 @ Rank 41 Weapon, always Legendary.
 
-Finishing this map will give the [https://www.youtube.com/watch?v=nJo-HZQoG5A Tyrant Beauty Etna Ending] which lead into a new cycle.
+Finishing this map will give the [[link https://www.youtube.com/watch?v=nJo-HZQoG5A | Tyrant Beauty Etna Ending]] which lead into a new cycle.
 
 ++ Beauty Castle
 **Bill to pass:** The Mysterious Seal
