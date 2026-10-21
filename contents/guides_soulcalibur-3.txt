@@ -18,8 +18,8 @@ These codes are only required if you're using a cheat device on real PS2.
 {{0CF49BDF A4E29C32}}
 
 ++++ Master Code (AR MAX)
-{{T5R4-XVHD-27GCX}}
-{{M7X7-GC8A-D2PHK}}
+{{T5R4-XVHD-27GCX
+M7X7-GC8A-D2PHK}}
 
 
 + Joker Commands
@@ -81,7 +81,7 @@ Replace Character Modifier ?? with the Character Modifier Digits below.
 **Player 2 Costume Modifier**
 {{004D1FEE 000000??}}
 
-||~ Digit ||~ Costume ||
+||~ ?? Digit ||~ Costume ||
 || 00 || Costume 1 (Default) ||
 || 01 || Costume 2 ||
 || 02 || Costume 3 ||
@@ -391,7 +391,7 @@ Allows you to play in a certain stage or an arena that's otherwise impossible to
 <Joker Command>
 {{004ED64C 000000??}}
 
-||~ Digits ||~ Stage ||
+||~ ?? Digits ||~ Stage ||
 || 00 || Highlands (Earthquake in Vs. Special) ||
 || 01 || Egyptian Temple ||
 || 02 || Clock Tower ||

@@ -936,8 +936,12 @@ While it sounds annoying, it's still better than Devil Survivor's (every battle 
 || 31 || 1F || ???? ||  || Trump Card hint ||
 || 32 || 20 || Dark Sweep ||  || Not the real Dark Sweep. This is a placeholder skill when you mastered Psycho Crack, which does not happen in the game. Starting from this digit, all skills behave like "????" skills cycle from Psycho Crack, to Trump Card. ||
 || 255 || FF || Nothing ||  ||  ||
-[[xinclude :fiction:common:alert |text=Digit 32 / 20h is a placeholder skill when you mastered Psycho Crack, which does not happen in the game. Starting from this digit, all skills behave like "????" skills cycle from Psycho Crack, to Trump Card.]]
-[[xinclude :fiction:common:alert |text=ATP are just estimation, and might not be completely accurate, but it gives an estimation on how strong the skill is. ATPs are estimated using full force Jack doing the skill 10 times and averaged, then compared to his normal attack on same condition. All tested on the same enemy.]]
+
+[[include component:alert
+|type=info
+|icon=fa fa-info-circle
+|text=ATP are just estimation, and might not be completely accurate, but it gives an estimation on how strong the skill is. ATPs are estimated using full force Jack doing the skill 10 times and averaged, then compared to his normal attack on same condition. All tested on the same enemy.
+]]
 
 + Cecilia Codes
 ||~ Name ||~ Gameshark ||~ Size ||~ Remark ||
@@ -1094,7 +1098,7 @@ While it sounds annoying, it's still better than Devil Survivor's (every battle 
 || 81 || 51 || Anger ||  || All ability +10% to all ||
 || 82 || 52 || Hi-Screen ||  || Parry rate +25% to all ||
 || 83 || 53 || Hi-Dispell ||  || Dispell to all ||
-|| 84 || 54 || Chaos ||  || Confustion to all ||
+|| 84 || 54 || Chaos ||  || Confusion to all ||
 || 85 || 55 || Mute ||  || Silence to all ||
 || 86 || 56 || Hyper Plus ||  || Attack +100% to all ||
 || 87 || 57 || Hi-Remedy ||  || Moderate HP restore to all ||
@@ -1107,7 +1111,7 @@ While it sounds annoying, it's still better than Devil Survivor's (every battle 
 || 94 || 5E || Hi-Vanish ||  || Banish to all. Seems there's an inconsistent translation ||
 || 95 || 5F || Best Shot || 1240 || Greater damage lucky shot to all. When enemies are killed with this, items are guaranteed to drop. ||
 || 96 || 60 || Mega Break || 7470 || Ludicrous earth damage to all ||
-|| 97 || 61 || Blizard || 7470 || Ludicrous ice damage to all ||
+|| 97 || 61 || Blizzard || 7470 || Ludicrous ice damage to all ||
 || 98 || 62 || Mega Flame || 7470 || Ludicrous fire damage to all ||
 || 99 || 63 || Twister || 7470 || Ludicrous wind damage to all ||
 || 100 || 64 || Poison ||  || Unusable in battle, unknown effect ||
@@ -1121,29 +1125,43 @@ While it sounds annoying, it's still better than Devil Survivor's (every battle 
 || 108 || 6C || Heavy ||  || Unusable in battle, unknown effect ||
 || 109 || 6D || Senseless ||  || Unusable in battle, unknown effect ||
 || 255 || FF || Nothing ||  ||  ||
-[[xinclude :fiction:common:alert |text=ATP are just estimation, and might not be completely accurate, but it gives an estimation on how strong the skill is. ATPs are estimated using full force Cecilia doing the skill 10 times and averaged, then compared to her SOR, which at the time, was 39. Lucky Shot, for example, do average of 39 damage, which is same as Cecilia's SOR (thus, 100)]]
-[[xinclude :fiction:common:alert |type=danger |icon=warning |text= Digits other than listed have no name, many have massive MP usage (>100), and crashes the game.]]
 
+[[include component:alert
+|type=info
+|icon=fa fa-info-circle
+|text=ATP are just estimation, and might not be completely accurate, but it gives an estimation on how strong the skill is. ATPs are estimated using full force Cecilia doing the skill 10 times and averaged, then compared to her SOR, which at the time, was 39. For example, Lucky Shot, averages at 39 damage, which is 100% of Cecilia's SOR, thus 100 ATP. Something with absurd ATP like Hi-Saint, averages at 4032 damage.
+]]
+
+[[include component:alert
+|type=warning
+|icon=fa fa-warning
+|text=Digits other than listed have no name, many have massive MP usage (>100), and crashes the game.
+]]
 
 + The Heal Berry 255 Item Trick
 You probably already know how this trick is performed. If you wonder how does it work, I'll explain it here.
 
-: Requirements : You need to have 3 party members. _
-You only have 1 item that you want to duplicate. _
-You have 2 or more consumable item (Heal Berry preferred due to its abundance). _
+++++ Requirements
+* You need to have 3 party members.
+* You only have 1 item that you want to duplicate.
+* You have 2 or more consumable item (Heal Berry preferred due to its abundance).
 
-: Steps : Order first character use Heal Berry. _
-Order second character use Heal Berry _
-Order third character to swap heal berry with the item you want to duplicate, and then Defend. _
-Let the battle commence. _
-The item swapped with Heal Berry will now be 255.
+++++ Steps
+* Order first character use Heal Berry.
+* Order second character use Heal Berry.
+* Order third character to swap heal berry with the item you want to duplicate, and then Defend.
+* Let the battle commence.
+* The item swapped with Heal Berry will now be 255.
 
+++++ What happened?
 Let's say that the Heal Berry is in slot 1, and the item to be duplicated, Ambrosia, is in slot 2. Due to requirement, there's only 1 Ambrosia.
-: Order first character to use Heal Berry (Slot 1) : This orders the game to use Heal Berry and reduce Item in slot 1 by 1. Take note of how I write this. The game was not ordered to use Item 1, the game was ordered to use the Heal Berry instead.
-: Order second character to use Heal Berry (Slot 1) : This orders the game to use Heal Berry and reduce Item in slot 1 by 1.
-: Third character swap Heal Berry (Slot 1) With Ambrosia (Slot 2) and Defend : Different from previous two, this actually sort the item, not ordering just order the game to do it. Now Ambrosia is in Slot 1 and Heal Berry is in Slot 2.
-: Turn commence - Third Character : Third character defend (defend being a high priority move s/he goes first. Nothing changed.
-: Turn commence - First Character : First character uses Heal Berry as ordered, but reduces the item in slot 1, which is Ambrosia. Ambrosia is now 0. However, the game only reduce the amount, not clearing the Item Type itself, hence at this state, item slot 1 is occupied with 0 Ambrosia.
-: Turn commence - Second Character : Second character uses Heal Berry as ordered, but again reduces the item in slot 1, Since item slot 1 is occupied by 0 Ambrosia and the game only know how to reduce the amount using this mechanism, the item become -1 Ambrosia. This causes overflow, and since item amount is Integer 1 byte, it converts the signed value (-1) to its unsigned value (255). Hence you get the 255 Ambrosias.
+* Order first character to use Heal Berry (Slot 1): This orders the game to use Heal Berry and reduce Item in slot 1 by 1. Note that the game was not ordered to use Item 1, the game was ordered to use the Heal Berry instead.
+* Order second character to use Heal Berry (Slot 1): This orders the game to use Heal Berry and reduce Item in slot 1 by 1.
+* Third character swap Heal Berry (Slot 1) With Ambrosia (Slot 2) and Defend: Different from previous two, this actually sort the item, not ordering just order the game to do it. Now Ambrosia is in Slot 1 and Heal Berry is in Slot 2.
+* Turn commence - Third Character: Third character defend. Defend, being a high priority move, goes first. Nothing changed.
+* Turn commence - First Character: First character uses Heal Berry as ordered, but reduces the item in slot 1, which is Ambrosia. Ambrosia is now 0. The game only reduce the amount, not clearing the Item Type itself, hence at this state, item slot 1 is occupied with 0 Ambrosia.
+* Turn commence - Second Character: Second character uses Heal Berry as ordered, but again reduces the item in slot 1, Since item slot 1 is occupied by 0 Ambrosia and the game only know how to reduce the amount using this mechanism, the item become -1 Ambrosia. This causes an overflow, and since item amount is Integer 1 byte, it converts the signed value (-1) to its unsigned value (255). Hence you get the 255 Ambrosias.
 
-: What if the target duplicated item is more than 1? : Let's say you have 2 Ambrosias, at the end of battle, it will become 0 Ambrosia.  You can redo the trick by swapping Heal Berry with the empty slot and end with 254 item.
+++++ What if the target duplicated item is more than 1?
+* Let's say you have 2 Ambrosias and perform this trick. At the end of battle, you'll have 0 Ambrosia.
+* You can redo the trick by swapping Heal Berry with the empty slot where the Ambrosia was and end with 254 item.

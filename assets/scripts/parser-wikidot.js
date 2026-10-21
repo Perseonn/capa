@@ -4,6 +4,7 @@
  */
 import path from "path";
 import fs from "fs";
+import { CONTENT_DIR } from "../../config.js";
 import {
     customInlineParsers,
     parseYoutube
@@ -594,7 +595,7 @@ function parseBlockquote(lines, startIndex) {
  */
 
 export function renderToc(toc) {
-    const tocPath = "./contents/_toc.html";
+    const tocPath = path.join(CONTENT_DIR, "_toc.html");
 
     const template = fs.readFileSync(
         tocPath,
@@ -602,7 +603,8 @@ export function renderToc(toc) {
     );
 
     const links = toc
-        .filter(item => item.level !== 4)
+        //Hide H4 and above from ToC
+        .filter(item => item.level >= 4)
         .map(item =>
             `<a href="#${item.id}" class="toc-h${item.level}">${escapeHtml(item.text)}</a>`
         ).join("\n");

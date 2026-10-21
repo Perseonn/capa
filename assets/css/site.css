@@ -96,6 +96,10 @@ p:has(.a-target){
 	margin-bottom: 0rem;
 }
 
+p + ul{
+	margin-top: -1rem;
+}
+
 .list-page-title,b, strong, .strong {
     font-weight: 700;
 }

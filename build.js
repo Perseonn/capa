@@ -8,13 +8,14 @@ import {
     renderListingPage,
     renderHomePage
 } from "./assets/scripts/template.js";
-
-const CONTENT_DIR = "./contents";
-const DIST_DIR = "./dist";
-const SITE_URL = "https://capa.asoh.xyz";
-const default_title = "New Page";
-const default_author = "Perseonn Balthasaar";
-const default_updated = "2026-01-01";
+import {
+    DIST_DIR,
+    CONTENT_DIR,
+    SITE_URL,
+    default_title,
+    default_author,
+    default_updated
+} from "./config.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);

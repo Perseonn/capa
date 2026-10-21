@@ -10,7 +10,7 @@ CAPA Engine is a proof-of-concept engine that generates static web pages from Wi
 1. Clone or download the repository.
   * Please be aware that the source text files (`contents/*.txt`) are under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
   * Downloading and using them for testing is allowed, but publishing is not allowed. See License for details.
-2. Change website URL in `build.js`, line `const SITE_URL = "";` to the address of the future website.
+2. Change website URL in `config.js`, line `const SITE_URL = "";` to the address of the future website.
 3. Run `npm run build` on the root folder to start building the pages.
 
 ## Documentation
@@ -35,9 +35,10 @@ CAPA Engine is a proof-of-concept engine that generates static web pages from Wi
 ### Engine Files
 The workflow uses 3 active javascript files + 1 pending deletion:
 1. `build.js`, the main file for running the entire conversion engine.
-2. `assets/scripts/parser-wikidot.js`, the main parser that handles the syntax listed below.
-3. `assets/scripts/parser-custom.js`, the custom parser called by `assets/scripts/parser-wikidot.js`.
-4. `assets/scripts/template.js`, a legacy template renderer from an earlier version of the engine.
+2. `config.js`, the configuration files for certain variables.
+3. `assets/scripts/parser-wikidot.js`, the main parser that handles the syntax listed below.
+4. `assets/scripts/parser-custom.js`, the custom parser called by `assets/scripts/parser-wikidot.js`.
+5. `assets/scripts/template.js`, a legacy template renderer from an earlier version of the engine.
 
 ### Available Syntax
 1. General in-line syntax: `**bold**`, `//italic//`, `__underline__`, `--strikethrough--`, `{{monospaced}}`, `^^superscript ^^`, `,,subscript,,`, `##f0f0f0 | hex-only colors##`.
@@ -47,7 +48,7 @@ The workflow uses 3 active javascript files + 1 pending deletion:
 5. Unnumbered and Ordered List, starting line with `*` and `#`.
 6. Horizontal Rule / line, `----`
 7. Block quote, starting line with `>`
-8. Table of Contents `[[toc]]`, customizable via `contents/_toc.html`
+8. Table of Contents `[[toc]]`, customizable via `contents/_toc.html`. Currently H4 above will not show on Table of Contents. You can change in the line .`filter(item => item.level >= 4)` to `.filter(item => item.level >= 7)` in `parser-wikidot.js` if you want to include H4 and above.
 9. ListPages `[[module ListPages]]`, as detailed below
 10. Include `[[include category:name]]`, as detailed below
 
@@ -72,7 +73,7 @@ The workflow uses 3 active javascript files + 1 pending deletion:
 #### ListPages Workflow
 1. On generating the pages, `dist/_listPage.json` is created and used as a reference for ListPages.
 2. Page category and slug is based on its file name, while update and title is based on the `@updated:` and `@title:`
-3. If meta is not found, a default value will be assigned based on const `default_xxx` on the top of `build.js`.
+3. If meta is not found, a default value will be assigned based on `const default_xxx` on `config.js`.
 
 ### Include Syntax and Workflow
 1. Using `[[include category:page-name]]` will take all the contents of `category:page-name.txt`, strip the `@meta`, and put it on the page that uses the include.
@@ -87,7 +88,7 @@ The workflow uses 3 active javascript files + 1 pending deletion:
 
 
 ### Custom Meta
-Source files can have custom metas. If no metas are assigned, default meta will be given from `build.js`. See **Customizable Files #9** below.
+Source files can have custom metas. If no metas are assigned, default meta will be given from `config.js`. See **Customizable Files #9** below.
 * `@title: Page Title`: Page Title. Will also be used as HTM meta `<title>` and its related entries
 * `@author: Page Author`: Page Author.
 * `@updated: 2026-01-01`: Update date.
@@ -102,8 +103,8 @@ Source files can have custom metas. If no metas are assigned, default meta will 
 5. CSS is customizable via `assets/css/site.css`. This is a regular CSS files.
 6. Favicon, by default is stored in `assets/css/favicon.png`.
 7. Category templates are customizable via `contents/category__template.txt.` These follow Wikidot syntax and may contain the `%%content%%` placeholder where the page content is inserted. Other usable variable is `%%created_by%%` and `%%updated_at%%`.
-8. Website's URL needs to be changed in `build.js`, line `const SITE_URL = "";`
-9. Default meta can be changed in `build.js`, line `const default_title = "";`, `const default_author = "";`, `const default_updated = "";`
+8. Website's URL needs to be changed in `config.js`, line `const SITE_URL = "";`
+9. Default meta can be changed in `config.js`, line `const default_title = "";`, `const default_author = "";`, `const default_updated = "";`
 
 ### Additional Scripts and CSS Files
 These files are independent of the CAPA engine and not required outside the CAPA website itself.

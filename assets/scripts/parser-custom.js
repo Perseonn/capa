@@ -3,6 +3,7 @@
  * =============== =============== =============== ===============
  */
 import fs from "fs";
+import { CONTENT_DIR } from "../../config.js";
 
 export const customInlineParsers = [
 /* 
@@ -80,7 +81,7 @@ export function parseYoutube(line) {
     }
 
     const videoId = match[1];
-    const templatePath = "./contents/_youtube.html";
+    const templatePath = path.join(CONTENT_DIR, "_youtube.html");
 
     if (!fs.existsSync(templatePath)) {
         throw new Error(

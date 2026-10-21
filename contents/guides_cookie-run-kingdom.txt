@@ -4,10 +4,11 @@
 
 This guide is intended for newbies and returnee alike. If you have questions such as "What cookie to use", "Please help make my team", "Is this cookie good", "Which is the best legendary", then this is the one stop for all your questions!
 
-[[div_ class="alert alert-danger"]]
-[[span class="d-block"]][[i|fa fa-warning]]**Obsolesce warning**[[/span]]
-[[span class="d-block"]]This guide is no longer maintained after March 2025. Only general information will be kept.[[/span]]
-[[/div]]
+[[include component:alert
+|type=danger
+|icon=fa fa-skull
+|text=This guide is no longer maintained after March 2025. Only general information will be kept.
+]]
 
 [[#important]]
 + The Most Important Thing
