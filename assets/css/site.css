@@ -850,7 +850,6 @@ Standard Wiki-content table
 */
 
 .wiki-content-table{
-	margin-bottom: 2rem;
     width: 100%;
     max-width: 100%;
     border-collapse: collapse;
@@ -1536,60 +1535,67 @@ PSO2 Navigation
 .pso2-nav{
 	border: 2px solid #112e77;
 	margin: 1rem 0;
-	border-radius: 6px;
+	border-radius: var(--bs-border-radius);
 }
-.pso2-nav .row {
+.pso2-nav-outer-row {
 	border: 2px solid #327fcc;
 	background: linear-gradient(to bottom, #112e77 0%,#040f39 100%);
-	border-radius: 4px;
+	border-radius: calc(var(--bs-border-radius));
+
+}
+
+.pso2-nav-row{
+	height:100%;
 }
 
 .pso2-logo{
-	background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-other/nav-pso2.png');
+	background-image: url('/assets/img/pso2/other/nav-pso2.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
 	width:100%;
+	height:100%;
 }
 
-.pso2-logo-lg{
-	min-height: 10rem;
+@media (max-width: 991px) {
+	.pso2-logo{
+		height: 8rem;
+	}
+	.pso2-logo-container{
+		border-bottom: 2px solid #327fcc;
+	}
 }
 
-.pso2-logo-sm{
-	height: 8rem;
+@media (min-width: 992px) {
+	.pso2-logo{
+		min-height: 10rem;
+	}
+	.pso2-logo-container{
+		border-right: 2px solid #327fcc;
+	}
 }
 
-.pso2-logo-container{
-	text-align:center;
-}
-
-.pso2-logo-border-right{
-	border-right: 2px solid #327fcc;
-}
-
-.pso2-logo-border-bottom{
-	border-bottom: 2px solid #327fcc;
-}
 
 .pso2-nav-icon{
 	width: 36px;
 	margin-top: -0.5rem;
 }
 
-.pso2-nav-item-container .nav.series-nav>li>a{
+.pso2-nav-col a{
 	color: #92ffff;
 	transition: all 0s;
+	width:100%;
+	align-items: center;
+    justify-content: center;
+	min-height: 4rem;
 }
 
-.pso2-nav-item-container .nav.series-nav>li>a:hover{
+.pso2-nav-col a:hover{
 	background: linear-gradient(to bottom, #92ffff 49%,#09ffff 50%);
 	color: #112e77;
 	transition: all 0s;
-	border-radius: 4px;
+	border-radius: var(--bs-border-radius);
 }
-
-
 
 
 
@@ -1598,13 +1604,6 @@ PSO2 Navigation
 PSO2 Guide
 ==============================================================================
 */
-.splash.guide.phantasy-star-online-2-summoner{
-    background-image: url('http://capa.wikidot.com/local--files/guide:phantasy-star-online-2-summoner/phantasy-star-online-2-summoner.webp');
-}
-
-.alert > p + ul {
-    margin-top: 0px;
-}
 
 .small-icon{
     margin-top: -10px;
@@ -1670,7 +1669,7 @@ PSO2 Guide
     padding-left: calc(var(--base-font-size) + 0.2rem);
 }
 
-span.icon::before {
+i.pso2::before {
     content: "\00a0";
     background-size: var(--base-font-size);
     width: var(--base-font-size);
@@ -1680,6 +1679,12 @@ span.icon::before {
     background-position-y: center,center,center;
     background-position-x: center;
     margin-right: 0.2rem;
+}
+
+.pso2-nav-item i.pso2::before{
+	background-size: 2rem;
+	width: 2rem;
+	height: 2rem;
 }
 
 span.rear-icon::after {
@@ -1704,85 +1709,84 @@ span.icon.triple::before{
     background-position-x: left,center,right;
 }
 
-.icon.item-candy::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-item-candy.png'); image-rendering:pixelated;}
-.icon.item-tool::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-item-tool.png'); image-rendering:pixelated;}
-.icon.item-pass::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-item-pass.png'); image-rendering:pixelated;}
-.icon.item-mats::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-item-material.png'); image-rendering:pixelated;}
-.icon.item-food::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-item-food.png'); image-rendering:pixelated;}
-.icon.item-ingr::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-item-ingredient.png'); image-rendering:pixelated;}
-.icon.item-devc::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-item-device.png'); image-rendering:pixelated;}
-.icon.item-ring::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-ring.png'); image-rendering:pixelated;}
-.icon.pet::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-pet.png'); image-rendering:pixelated;}
-.icon.pet-persona::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-pet-personality.png'); image-rendering:pixelated;}
-.icon.op-reg::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-regular.png'); image-rendering:pixelated;}
-.icon.op-saf::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-saf.png'); image-rendering:pixelated;}
-.icon.op-pot::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-potential.png'); image-rendering:pixelated;}
-.icon.op-sclass::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass.png'); image-rendering:pixelated;}
-.icon.op-sclass-1::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass-1.png'); image-rendering:pixelated;}
-.icon.op-sclass-2::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass-2.png'); image-rendering:pixelated;}
-.icon.op-sclass-3::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass-3.png'); image-rendering:pixelated;}
-.icon.op-sclass-4::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass-4.png'); image-rendering:pixelated;}
-.icon.op-sclass-5::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass-5.png'); image-rendering:pixelated;}
-.icon.op-sclass-6::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass-6.png'); image-rendering:pixelated;}
-.icon.op-sclass-7::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass-7.png'); image-rendering:pixelated;}
-.icon.op-sclass-8::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-op-sclass-8.png'); image-rendering:pixelated;}
-.icon.stat-aatk::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-strike.png'),
-    url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-range.png'),
-    url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-tech.png'); image-rendering:pixelated;}
-.icon.stat-satk::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-strike.png'); image-rendering:pixelated;}
-.icon.stat-ratk::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-range.png'); image-rendering:pixelated;}
-.icon.stat-tatk::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-tech.png'); image-rendering:pixelated;}
-.icon.stat-satk-ratk::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-strike.png'),
-    url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-range.png'); image-rendering:pixelated;}
-.icon.stat-satk-tatk::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-strike.png'),
-    url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-tech.png'); image-rendering:pixelated;}
-.icon.stat-ratk-tatk::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-range.png'),
-    url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-tech.png'); image-rendering:pixelated;}
-.icon.stat-adef::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-strike-def.png'),
-    url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-range-def.png'),
-    url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-tech-def.png'); image-rendering:pixelated;}
-.icon.stat-sdef::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-strike-def.png'); image-rendering:pixelated;}
-.icon.stat-rdef::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-range-def.png'); image-rendering:pixelated;}
-.icon.stat-tdef::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-tech-def.png'); image-rendering:pixelated;}
-.icon.stat-sres::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-strike-resist.png'); image-rendering:pixelated;}
-.icon.stat-rres::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-range-resist.png'); image-rendering:pixelated;}
-.icon.stat-tres::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-tech-resist.png'); image-rendering:pixelated;}
-.icon.stat-dex::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-stat-dex.png'); image-rendering:pixelated;}
-.icon.class-hu::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-hu.png'); image-rendering:pixelated;}
-.icon.class-fi::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-fi.png'); image-rendering:pixelated;}
-.icon.class-fo::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-fo.png'); image-rendering:pixelated;}
-.icon.class-te::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-te.png'); image-rendering:pixelated;}
-.icon.class-ra::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-ra.png'); image-rendering:pixelated;}
-.icon.class-gu::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-gu.png'); image-rendering:pixelated;}
-.icon.class-br::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-br.png'); image-rendering:pixelated;}
-.icon.class-bo::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-bo.png'); image-rendering:pixelated;}
-.icon.class-su::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-su.png'); image-rendering:pixelated;}
-.icon.class-hr::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-hr.png'); image-rendering:pixelated;}
-.icon.class-ph::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-ph.png'); image-rendering:pixelated;}
-.icon.class-et::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-class-et.png'); image-rendering:pixelated;}
-.icon.sweets-2x2::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/cui-sweets-2x2.png');}
-.icon.sweets-1x2::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/cui-sweets-1x2.png');}
-.icon.sweets-1x4::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/cui-sweets-1x4.png');}
-.icon.sweets-2x1::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/cui-sweets-2x1.png');}
-.icon.sweets-4x1::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/cui-sweets-4x1.png');}
-.icon.sweets-1x1::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/cui-sweets-1x1.png');}
-.icon.unit-rear::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-unit-rear.png'); image-rendering:pixelated;}
-.icon.unit-arm::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-unit-arm.png'); image-rendering:pixelated;}
-.icon.unit-leg::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-unit-leg.png'); image-rendering:pixelated;}
-.icon.ring::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-ring.png'); image-rendering:pixelated;}
-.icon.wp-sw::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-sw.png'); image-rendering:pixelated;}
-.icon.wp-ds::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-ds.png'); image-rendering:pixelated;}
-.icon.wp-ka::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-ka.png'); image-rendering:pixelated;}
-.icon.wp-db::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-db.png'); image-rendering:pixelated;}
-.icon.wp-gs::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-gs.png'); image-rendering:pixelated;}
-.icon.wp-ar::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-ar.png'); image-rendering:pixelated;}
-.icon.wp-tm::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-tm.png'); image-rendering:pixelated;}
-.icon.wp-ro::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-ro.png'); image-rendering:pixelated;}
-.icon.wp-wa::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-wa.png'); image-rendering:pixelated;}
-.icon.wp-tl::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-tl.png'); image-rendering:pixelated;}
-.icon.wp-ta::before {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-wp-ta.png'); image-rendering:pixelated;}
-.rear-icon.flag-na::after {background-image: url('http://capa.wdfiles.com/local--files/img%3Apso2-ui/ui-flag-na.png'); image-rendering:auto;}
-
+i.pso2.item-candy::before {background-image: url('/assets/img/pso2/ui/ui-item-candy.png'); image-rendering:pixelated;}
+i.pso2.item-tool::before {background-image: url('/assets/img/pso2/ui/ui-item-tool.png'); image-rendering:pixelated;}
+i.pso2.item-pass::before {background-image: url('/assets/img/pso2/ui/ui-item-pass.png'); image-rendering:pixelated;}
+i.pso2.item-mats::before {background-image: url('/assets/img/pso2/ui/ui-item-material.png'); image-rendering:pixelated;}
+i.pso2.item-food::before {background-image: url('/assets/img/pso2/ui/ui-item-food.png'); image-rendering:pixelated;}
+i.pso2.item-ingr::before {background-image: url('/assets/img/pso2/ui/ui-item-ingredient.png'); image-rendering:pixelated;}
+i.pso2.item-devc::before {background-image: url('/assets/img/pso2/ui/ui-item-device.png'); image-rendering:pixelated;}
+i.pso2.item-ring::before {background-image: url('/assets/img/pso2/ui/ui-ring.png'); image-rendering:pixelated;}
+i.pso2.pet::before {background-image: url('/assets/img/pso2/ui/ui-pet.png'); image-rendering:pixelated;}
+i.pso2.pet-persona::before {background-image: url('/assets/img/pso2/ui/ui-pet-personality.png'); image-rendering:pixelated;}
+i.pso2.op-reg::before {background-image: url('/assets/img/pso2/ui/ui-op-regular.png'); image-rendering:pixelated;}
+i.pso2.op-saf::before {background-image: url('/assets/img/pso2/ui/ui-op-saf.png'); image-rendering:pixelated;}
+i.pso2.op-pot::before {background-image: url('/assets/img/pso2/ui/ui-op-potential.png'); image-rendering:pixelated;}
+i.pso2.op-sclass::before {background-image: url('/assets/img/pso2/ui/ui-op-sclass.png'); image-rendering:pixelated;}
+i.pso2.op-sclass-1::before {background-image: url('/assets/img/pso2/ui/ui-op-sclass-1.png'); image-rendering:pixelated;}
+i.pso2.op-sclass-2::before {background-image: url('/assets/img/pso2/ui/ui-op-sclass-2.png'); image-rendering:pixelated;}
+i.pso2.op-sclass-3::before {background-image: url('/assets/img/pso2/ui/ui-op-sclass-3.png'); image-rendering:pixelated;}
+i.pso2.op-sclass-4::before {background-image: url('/assets/img/pso2/ui/ui-op-sclass-4.png'); image-rendering:pixelated;}
+i.pso2.op-sclass-5::before {background-image: url('/assets/img/pso2/ui/ui-op-sclass-5.png'); image-rendering:pixelated;}
+i.pso2.op-sclass-6::before {background-image: url('/assets/img/pso2/ui/ui-op-sclass-6.png'); image-rendering:pixelated;}
+i.pso2.op-sclass-7::before {background-image: url('/assets/img/pso2/ui/ui-op-sclass-7.png'); image-rendering:pixelated;}
+i.pso2.op-sclass-8::before {background-image: url('/assets/img/pso2/ui/ui-op-sclass-8.png'); image-rendering:pixelated;}
+i.pso2.stat-aatk::before {background-image: url('/assets/img/pso2/ui/ui-stat-strike.png'),
+    url('/assets/img/pso2/ui/ui-stat-range.png'),
+    url('/assets/img/pso2/ui/ui-stat-tech.png'); image-rendering:pixelated;}
+i.pso2.stat-satk::before {background-image: url('/assets/img/pso2/ui/ui-stat-strike.png'); image-rendering:pixelated;}
+i.pso2.stat-ratk::before {background-image: url('/assets/img/pso2/ui/ui-stat-range.png'); image-rendering:pixelated;}
+i.pso2.stat-tatk::before {background-image: url('/assets/img/pso2/ui/ui-stat-tech.png'); image-rendering:pixelated;}
+i.pso2.stat-satk-ratk::before {background-image: url('/assets/img/pso2/ui/ui-stat-strike.png'),
+    url('/assets/img/pso2/ui/ui-stat-range.png'); image-rendering:pixelated;}
+i.pso2.stat-satk-tatk::before {background-image: url('/assets/img/pso2/ui/ui-stat-strike.png'),
+    url('/assets/img/pso2/ui/ui-stat-tech.png'); image-rendering:pixelated;}
+i.pso2.stat-ratk-tatk::before {background-image: url('/assets/img/pso2/ui/ui-stat-range.png'),
+    url('/assets/img/pso2/ui/ui-stat-tech.png'); image-rendering:pixelated;}
+i.pso2.stat-adef::before {background-image: url('/assets/img/pso2/ui/ui-stat-strike-def.png'),
+    url('/assets/img/pso2/ui/ui-stat-range-def.png'),
+    url('/assets/img/pso2/ui/ui-stat-tech-def.png'); image-rendering:pixelated;}
+i.pso2.stat-sdef::before {background-image: url('/assets/img/pso2/ui/ui-stat-strike-def.png'); image-rendering:pixelated;}
+i.pso2.stat-rdef::before {background-image: url('/assets/img/pso2/ui/ui-stat-range-def.png'); image-rendering:pixelated;}
+i.pso2.stat-tdef::before {background-image: url('/assets/img/pso2/ui/ui-stat-tech-def.png'); image-rendering:pixelated;}
+i.pso2.stat-sres::before {background-image: url('/assets/img/pso2/ui/ui-stat-strike-resist.png'); image-rendering:pixelated;}
+i.pso2.stat-rres::before {background-image: url('/assets/img/pso2/ui/ui-stat-range-resist.png'); image-rendering:pixelated;}
+i.pso2.stat-tres::before {background-image: url('/assets/img/pso2/ui/ui-stat-tech-resist.png'); image-rendering:pixelated;}
+i.pso2.stat-dex::before {background-image: url('/assets/img/pso2/ui/ui-stat-dex.png'); image-rendering:pixelated;}
+i.pso2.class-hu::before {background-image: url('/assets/img/pso2/ui/ui-class-hu.png'); image-rendering:pixelated;}
+i.pso2.class-fi::before {background-image: url('/assets/img/pso2/ui/ui-class-fi.png'); image-rendering:pixelated;}
+i.pso2.class-fo::before {background-image: url('/assets/img/pso2/ui/ui-class-fo.png'); image-rendering:pixelated;}
+i.pso2.class-te::before {background-image: url('/assets/img/pso2/ui/ui-class-te.png'); image-rendering:pixelated;}
+i.pso2.class-ra::before {background-image: url('/assets/img/pso2/ui/ui-class-ra.png'); image-rendering:pixelated;}
+i.pso2.class-gu::before {background-image: url('/assets/img/pso2/ui/ui-class-gu.png'); image-rendering:pixelated;}
+i.pso2.class-br::before {background-image: url('/assets/img/pso2/ui/ui-class-br.png'); image-rendering:pixelated;}
+i.pso2.class-bo::before {background-image: url('/assets/img/pso2/ui/ui-class-bo.png'); image-rendering:pixelated;}
+i.pso2.class-su::before {background-image: url('/assets/img/pso2/ui/ui-class-su.png'); image-rendering:pixelated;}
+i.pso2.class-hr::before {background-image: url('/assets/img/pso2/ui/ui-class-hr.png'); image-rendering:pixelated;}
+i.pso2.class-ph::before {background-image: url('/assets/img/pso2/ui/ui-class-ph.png'); image-rendering:pixelated;}
+i.pso2.class-et::before {background-image: url('/assets/img/pso2/ui/ui-class-et.png'); image-rendering:pixelated;}
+i.pso2.sweets-2x2::before {background-image: url('/assets/img/pso2/ui/cui-sweets-2x2.png');}
+i.pso2.sweets-1x2::before {background-image: url('/assets/img/pso2/ui/cui-sweets-1x2.png');}
+i.pso2.sweets-1x4::before {background-image: url('/assets/img/pso2/ui/cui-sweets-1x4.png');}
+i.pso2.sweets-2x1::before {background-image: url('/assets/img/pso2/ui/cui-sweets-2x1.png');}
+i.pso2.sweets-4x1::before {background-image: url('/assets/img/pso2/ui/cui-sweets-4x1.png');}
+i.pso2.sweets-1x1::before {background-image: url('/assets/img/pso2/ui/cui-sweets-1x1.png');}
+i.pso2.unit-rear::before {background-image: url('/assets/img/pso2/ui/ui-unit-rear.png'); image-rendering:pixelated;}
+i.pso2.unit-arm::before {background-image: url('/assets/img/pso2/ui/ui-unit-arm.png'); image-rendering:pixelated;}
+i.pso2.unit-leg::before {background-image: url('/assets/img/pso2/ui/ui-unit-leg.png'); image-rendering:pixelated;}
+i.pso2.ring::before {background-image: url('/assets/img/pso2/ui/ui-ring.png'); image-rendering:pixelated;}
+i.pso2.wp-sw::before {background-image: url('/assets/img/pso2/ui/ui-wp-sw.png'); image-rendering:pixelated;}
+i.pso2.wp-ds::before {background-image: url('/assets/img/pso2/ui/ui-wp-ds.png'); image-rendering:pixelated;}
+i.pso2.wp-ka::before {background-image: url('/assets/img/pso2/ui/ui-wp-ka.png'); image-rendering:pixelated;}
+i.pso2.wp-db::before {background-image: url('/assets/img/pso2/ui/ui-wp-db.png'); image-rendering:pixelated;}
+i.pso2.wp-gs::before {background-image: url('/assets/img/pso2/ui/ui-wp-gs.png'); image-rendering:pixelated;}
+i.pso2.wp-ar::before {background-image: url('/assets/img/pso2/ui/ui-wp-ar.png'); image-rendering:pixelated;}
+i.pso2.wp-tm::before {background-image: url('/assets/img/pso2/ui/ui-wp-tm.png'); image-rendering:pixelated;}
+i.pso2.wp-ro::before {background-image: url('/assets/img/pso2/ui/ui-wp-ro.png'); image-rendering:pixelated;}
+i.pso2.wp-wa::before {background-image: url('/assets/img/pso2/ui/ui-wp-wa.png'); image-rendering:pixelated;}
+i.pso2.wp-tl::before {background-image: url('/assets/img/pso2/ui/ui-wp-tl.png'); image-rendering:pixelated;}
+i.pso2.wp-ta::before {background-image: url('/assets/img/pso2/ui/ui-wp-ta.png'); image-rendering:pixelated;}
+i.pso2.puso::before {background-image: url('/assets/img/pso2/other/nav-puso.png');}
 
 .unavailable{
     text-decoration: line-through;
@@ -1886,26 +1890,28 @@ span.icon.triple::before{
     background-color: rgba(255, 0, 157, 0.7);
     border-radius: 2rem;
     border: 4px solid #ff009d;
-    color: white;
-    font-size: calc(var(--base-font-size) + .8vw);
-    display: inline-block;
     width:100%;
 }
 
 .manaka-text-box{
-    display: table-cell;
-    padding: 1rem;
-    vertical-align: middle;
     width: 100%;
+	color: white;
+    font-size: calc(var(--base-font-size) + .5vw);
+}
+
+.manaka-text-box a{
+	color: var(--color-capa-4);
+}
+
+.manaka-text-box a:hover{
+	color: var(--color-capa-5);
 }
 
 .manaka-icon-container{
-    display: table-cell;
-    vertical-align: middle;
+	align-items: center;
 }
 
 .manaka-icon{
-    display: table-cell;
     width: auto;
     max-height: calc(var(--base-font-size) * 6);
 }

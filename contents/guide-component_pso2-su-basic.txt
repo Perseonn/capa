@@ -12,7 +12,7 @@ Pietro is located on the Gate Area; he is mentor for Summoner Class. Activities 
  * Allows ★12 pet to attain L110, ★13 to L120, ★14 to L130
  * Pet will grow //depressingly slow// above L100
 
-++++* Pietro's Client Orders
+++++ Pietro's Client Orders
 ||~ Client Order ||~ Reward ||
 || [[span class="cell-item"]][[span class="rear-icon flag-na"]]How Quickly They Grow![[/span]][[/span]][[span class="cell-item"]]我が子の成長を見つめあおう！[[/span]][[span class="cell-item"]]They Grow Up So Fast![[/span]] || [[span class="cell-item"]]Pietro's Partner Card[[/span]] ||
 || [[span class="cell-item"]]一流サモナーの条件とは！[[/span]][[span class="cell-item"]]Become a Top-Notch Summoner[[/span]] || [[span class="cell-item"]]5 Summoner SP[[/span]] ||
@@ -51,14 +51,14 @@ Although Summoner can use [[span class="icon stat-satk"]]MEL/SATK[[/span]] or [[
 * Rappy Melody's heals depends on their and character's [[span class="icon stat-tatk"]]TEC[[/span]].
 * Rykros Staff's [[span class="icon op-pot"]]Sinister Stare (Glance of Darkness)[[/span]] depends on character's [[span class="icon stat-tatk"]]TEC[[/span]].
 
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=It's easier to just use TEC/T-ATK Mag! Just fill your Mag with tech weapon like Staff, Wand, Talis, or Jet Boots, and reduce its DEX by feeding it with Mates or ★6 Room Goods!]]
 
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=MEL/S-ATK Mag is not recommended! It will only support Fi's Crazy Beat and will be obsolete once you use Phantom sub! Don't make a special mag just to support 1 skill! For a bit more info please see [#mel-v-tec-mag the FAQ!] ]]
 
 ++ Fixing Mag
-[[image info-1-mag-2.jpg | Fixing Mag]]
+[[image info-1-mag-2.avif | Fixing Mag]]
 
 If you messed up your mag's stat, you can fix them by using a [[span class="icon item-devc"]]Mag Level Down Device[[/span]], which costs 5 [[span class="icon item-tool"]]Excubes[[/span]]. [[span class="icon item-devc"]]Excubes[[/span]] are rare commodities until you can do XH+ Quests which requires level 80+.
 
@@ -73,7 +73,7 @@ CF has few quirks including:
 * CF required item gauge will only increase if you clear the quest. If you kill enemies and abandon quest, the CF will not raise.
 * On normal circumstance, a CF required item will only drop if you start a quest at 100% gauge. Simply put, you need to have at least 2 runs for a CF item to drop: 1 run to max it to 100%, the other is to drop the items. If you start the quest with the gauge at 99.99%, the item will not drop and clearing the quest will simply put the gauge to 100%.
 
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=Wanda-Jinga has no particular weakness and is easy to use! If you see them on CF, grab them first!]]
 
 ++ Summoner Skill Tree
@@ -111,8 +111,8 @@ The table below lists all Summoner skills by priority.
 || [[image ./img%3Apso2-su-skill/skill-su-pb-advance.png class="pso2-icon double pixelate"]] || [[span class="cell-item"]][[span class="rear-icon flag-na"]]Advanced Photon Blast[[/span]][[/span]][[span class="cell-item"]]PB Advance[[/span]] || [[span class="cell-item"]]Increases PB power.[[/span]][[span class="cell-item"]]Does nothing if you have Ketos Proi.[[/span]] ||
 
 
-[[include component:pso2-manaka
-|content=Are you new? Checkout the recommended tree below or [[a href="http://bit.ly/38vhDik"]]click here to see the skill simulator version![[span class="fa fa-external-link-square"]]@<&nbsp;>@[[/span]][[/a]] ]]
+[[include comp:pso2-manaka
+|content=Are you new? Checkout the recommended tree below or [[a href="http://bit.ly/38vhDik"]]click here to see the skill simulator version!🔗[[/a]] ]]
 
 +++ Recommended Skill Tree
 You can follow this skill progression that's guaranteed to get all of the essential skills for Summoner main. This applies to both PSO2 NA and PSO2 Jp.
@@ -138,10 +138,10 @@ You can follow this skill progression that's guaranteed to get all of the essent
 || [[span class="cell-item"]]91 to 95[[/span]] || [[span class="cell-item"]]PP Up 2 (0 → 5)[[/span]] || 
 
 
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=Be wary! The table up there is different from the Recommended Setting found on the skill counter!]]
 
-+++ Dia Master (//Dear Master//) Exploit
++++ Dia Master (Dear Master) Exploit
 Exploiting the mechanic of Dear Master, can grant you //infinite HP//. I personally think this gives Summoner unfair advantage in "high difficulty quest" (which enemy just do excessive damage), but to each their own. Dear Master, as noted, transfers the damage to pet and gives you invulnerability, **essentially adding pet's HP to yours**. This redirected damage can be **mitigated**:
 * Triggering Maron/Melon's Fierce personality that recovers HP (by extension, also their Cute personality)
 * Triggering Jinga's Fervent personality (by extension, also their Powerful personality)
@@ -170,7 +170,7 @@ Pet has several important properties, from Rarity, Personality, Elemental Attrib
 [[image info-s-egg.avif | A window displaying egg information.]]
 
 
-++++* Rarity and Rarity Upgrade
+++++ Rarity and Rarity Upgrade
 [[image info-3-pet-evolution.avif | Pet Evolution]]
 
 A pet has a rarity that determines their highest level. Rarity can be upgraded at the Pet Lab if you have a higher rarity egg of the same species (i.e. You can only increase rarity of a ★7 Viola with a ★8 Viola). Once a pet reaches L100, you can Limit Break them by asking Pietro for free.
@@ -189,10 +189,10 @@ Rarity upgrade also allows you to change pet's personality, provided the fodder 
 
 Wanda, Trim, and Sally can be rarity upgraded to Jinga, Aero, and Popple, respectively. Be warned that if you say, evolve Wanda to Jinga, you need another Jinga Egg to rarity upgrade it. There are no reason to pick Wanda over Jinga, Trim over Aero, or Sally over Popple. Jinga, Aero, and Popple are superior in every aspects, unless your Wanda, Torim, and Cery are ★14.
 
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=Rarity upgrade and pet evolution can only be done on Ariel's Item Lab! Don't feed that expensive high evolution egg to your main pet, it will only raise it's EXP!]]
 
-++++* Personality
+++++ Personality
 Personality is similar to weapon potential. They have varied effect, but most prominent is increasing damage. Personality has 5 levels and is automatically raised as pet levels up (Pet L100 is where you can attain L5 Personality). Pets up to ★13 rarity have a preferred personality, as shown below; but this becomes irrelevant once pet reaches ★14 rarity, which gives it a third personality that combines both personality. Changing personality can be hard or impossible as it requires egg of at least the same rarity.
 
 ||~ Icon ||~ Pet ||~ Preferred ★13 Personality ||~ ★14 Personality ||
@@ -211,11 +211,11 @@ Personality is similar to weapon potential. They have varied effect, but most pr
 
 "Very/Total" (超 //Super//)" personality (e.g. Very Thoughtful) will have an additional effect of raising Rare Drop Rate by 5%. "Very" personality's effect is included on a pet's ★14 personality. Please note that "Very" personality is not worth the price. If you can get one for free, feel free use it (or sell it), else don't bother with it.
 
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=Ensure you have the personality you want! Changing personality requires rarity upgrade, which needs same or higher rarity egg!]]
 
 
-++++* Elemental Attribute
+++++ Elemental Attribute
 Pets starts with a 10 attribute value that is visible upon viewing the egg. Ideally, you will want the default attribute to be Light. You can change attribute by putting Lemonade in the Candy Box, but changing to Light Attribute is very costly. Attribute can be raised by putting Pancakes. Pets with ★12 rarity or below will have a maximum of 50 attribute, while a ★13 or above will have 60 attribute.
 
 Attribute directly affects pet damage. Let's say you have a pet with 1000 Pwr (any power type) with 50 Light attribute. While in the information screen the pet has 1000 ATK, it effectively has:
@@ -228,18 +228,18 @@ If the pet attacks a target which is weak to Light element, its effective attack
 
 And thus, raising element is the best way to increase overall pet's damage.
 
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=Always hatch a Light-attribute egg, since almost all raid bosses are weak to Light!]]
 
 
-++++* Level / Egg Synthesis
+++++ Level / Egg Synthesis
 Level up pet by using Egg Synthesis on Pet menu. L1 pet is only as frightening as a Rappy Doll room item. A pet can be fed (synthesized) with an EXP Egg or another pet egg. If you are a Summoner main, you will have a steady drop of EXP Eggs. The Pet Lab can exchange grinders for ★6 EXP egg or Photon Sphere for ★12 EXP Egg.
 
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=Use Synthesis Charge to boost the EXP gained from eggs! However, it will cost 10 SG each for the first 3 times, and also use high-rarity eggs only, like ★12 EXP Egg.]]
 
 
-++++* Pet Plus
+++++ Pet Plus
 A pet has extra HP, [[span class="icon triple stat-aatk]]MEL-RNG-TEC/S-R-T ATK[[/span]] and [[span class="icon stat-dex]]DEX[[/span]] to be raised. This is called Pet Plus, as seen on the figure below.
 
 [[image info-s-pet-plus.avif | A Pet Plus of a Rappy, not yet maximized.]]
@@ -249,7 +249,7 @@ Each pet type has a different plus value cap; any Wanda will have same the same 
 [[image info-s-egg-synthesis.avif | Feeding another pet egg to increase the Pet Plus.]]
 
 
-++++* Power Synthesis
+++++ Power Synthesis
 If you want to quickly raise your Pet Plus value, you can use this method:
 * Hatch a low rarity egg you don't use, lets call this fodder pet.
 * Feed the fodder pet with another egg to increase it's pet plus value.
@@ -259,8 +259,8 @@ If you want to quickly raise your Pet Plus value, you can use this method:
 [[image info-3-pet-power-synthesis.avif | Gain a lot of pet plus!]]
 
 
-++ Sweets Box (//Candy Box//)
-Sweets Box is akin to putting affix to regular weapons or units. A pet always starts with a 8x8 Sweets Box that is filled with Gelatin Cube (Blue), Caramel Cube (Orange), and Paper Cube (Gray). Each pet type has a different box layout, for the exception of Wanda-Jinga, Trim-Aero, and Sally-Popple, Redran-Herbie, and Shinkuro-Vulcan
+++ Sweets Box (Candy Box)
+S1 Box is akin to putting affix to regular weapons or units. A pet always starts with a 8x8 Sweets Box that is filled with Gelatin Cube (Blue), Caramel Cube (Orange), and Paper Cube (Gray). Each pet type has a different box layout, for the exception of Wanda-Jinga, Trim-Aero, and Sally-Popple, Redran-Herbie, and Shinkuro-Vulcan
 
 Below is an example of a fresh Wanda-Jinga box, note that it is filled with several cubes:
 * Blue Gelatin Cubes will be removed automatically once a pet reaches level 50 (or so).
@@ -272,7 +272,7 @@ Below is an example of a fresh Wanda-Jinga box, note that it is filled with seve
 
 
 
-+++* Sweets Types
++++ Sweets Types
 A Sweets Box can hold a limited amount of candies. It is a good idea to compress candies first before putting it to Sweets Box!
 
 ||~ Icon ||~ Sweets Type ||~ Description ||
@@ -290,7 +290,7 @@ A Sweets Box can hold a limited amount of candies. It is a good idea to compress
 
 
 
-+++* Sweets Box Tools
++++ Sweets Box Tools
 As you fill your Sweets Box, you might notice that you can remove a few sweets to add more useful ones. This is where these tools come in handy. Two of them can be found at Ariel's Pet Good Shop, and the Tongs that returns sweets to your inventory, are only available from the SG Shop.
 
 ||~ Icon ||~ Tool ||~ Description ||
@@ -301,8 +301,8 @@ As you fill your Sweets Box, you might notice that you can remove a few sweets t
 
 
 
-
-+++ [[# recommended-candies]] Recommended Sweets
+[[#recommended-candies]]
++++  Recommended Sweets
 These sweets are arranged from the highest priority to the lowest. Do check Collection File every list update. Many ★14 parfait are not really useful compared to their ★13 counterpart.
 [[div class="table-short-description table-icon-column"]]
 ||~ Icon ||~ Name ||~ Location ||~ Effect ||
@@ -365,11 +365,11 @@ Your main progress as a Summoner should be as follow:
  * You don't need 200 PP if you aren't using Ph sub.
 
 +++ Tips for Beginner ~ Don't make a Common Mistake!
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=If someone recommends you a MEL/S-ATK Mag for Summoner, most likely they are using old knowledge from 2017s! Use TEC/T-ATK Mag instead!]]
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=Did someone recommend you Marron as best pet? That's also an old knowledge from 2017! Marron have a limited use outside of some bosses!]]
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=Please level up your pet! Without a proper level, they don't do much damage and dies easily!]]
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=Parfaits are powerful but Pancakes are easier to obtain!]]

@@ -1,0 +1,27 @@
+[[div_ class="pso2-nav"]]
+[[div_ class="row pso2-nav-outer-row m-0"]]
+
+[[div_ class="col-12 col-lg-2 pso2-logo-container"]]
+[[image /img/pso2/other/nav-pso2-blank.png | | pso2-logo]]
+[[/div]]
+
+[[div_ class="col-12 col-lg-10"]]
+[[div_ class="row pso2-nav-row"]]
+
+[[div_ class="col-12 pso2-nav-col d-flex"]]
+[[a href="/guide:phantasy-star-online-2-summoner" class="pso2-nav-item d-flex"]][[i|pso2 class-su]] Summoner[[/a]]
+[[a href="/guide:phantasy-star-online-2-hero" class="pso2-nav-item d-flex"]][[i|pso2 class-hr]] Hero[[/a]]
+[[a href="/guide:phantasy-star-online-2-etoile" class="pso2-nav-item d-flex"]][[i|pso2 class-et]] Etoile[[/a]]
+[[/div]]
+[[div_ class="col-12 pso2-nav-col d-flex"]]
+[[a href="/guide:phantasy-star-online-2-units" class="pso2-nav-item d-flex"]][[i|pso2 unit-rear]] Units[[/a]]
+[[a href="/guide:phantasy-star-online-2-gathering" class="pso2-nav-item d-flex"]][[i|pso2 item-food]]  Gathering[[/a]]
+[[a href="/article:puso-ni-anime-sub" class="pso2-nav-item d-flex"]][[i|pso2 puso]] PuSo Ni Comi[[/a]]
+[[/div]]
+
+[[/div]]
+
+[[/div]]
+
+[[/div]]
+[[/div]]

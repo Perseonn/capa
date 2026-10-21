@@ -1,6 +1,6 @@
-[[include component:pso2-pet-profile-1]]
+[[include comp:pso2-pet-profile-1]]
 [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/PetViolaIcon.png class="w-100"]]
-[[include component:pso2-pet-profile-2
+[[include comp:pso2-pet-profile-2
 |pet-name=Viola
 |pet-description=A pet that is best for soloing, as it has an effective hate generation, unlike the Launcher PA Fake Silhouette. Bosses will even more likely to target Viola rather than other people in an EQ. Viola's regular PA are similar to Wanda, albeit lacking a reliable area attack. Viola's stats are not very impressive, and this including their defense. Using Viola Change, however, increases their defense and changes how their PA works: exerting high-powered damage, high DPS, and enormous hit box in expense of slower animation and sluggish PP regeneration. Due to how Change mechanic works, **Viola is the only pet that gets stronger by using Liberate Takt**.
 
@@ -15,7 +15,7 @@ Auto: 30 (21.9 PP/s)
 || [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]]Show-off (目立ちたがり //Poser//) || Takes 10% less damage and makes hate generation even more effective. This is the preferred personality. ||
 || [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]]Soothing (いやし系) || Increases healing rate of all unsummoned pets. Does not affect stunned pets. ||
 || [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]]Elegant (エレガント) || ★14 only. Combines Show-off and Soothing, as well as having increased rare item drop rate.||
-[[include component:pso2-pet-profile-3
+[[include comp:pso2-pet-profile-3
 |pet-pros=* Attracts enemies
 * High-powered normal attacks
 * High PP regain from normal attack
@@ -51,42 +51,42 @@ Auto: 30 (21.9 PP/s)
 
 
 +++* Photon Arts / Combo
-[[include component:pso2-pet-pa |pa-icon=PA-Viola-1|pa-name=Slicer |pa-damage=16756 |pa-pp=25 |pa-frame=60 |pa-dps-normal=45 |pa-dps-god=60 |pa-dps-god-plus=63 |pa-dpp-normal=27 |pa-dpp-god=36 |pa-dpp-god-plus=38 |pa-remarks=* A 2-hit attack.
+[[include comp:pso2-pet-pa |pa-icon=PA-Viola-1|pa-name=Slicer |pa-damage=16756 |pa-pp=25 |pa-frame=60 |pa-dps-normal=45 |pa-dps-god=60 |pa-dps-god-plus=63 |pa-dpp-normal=27 |pa-dpp-god=36 |pa-dpp-god-plus=38 |pa-remarks=* A 2-hit attack.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Viola-1|pa-name=Changed Slicer |pa-damage=56975 |pa-pp=25 |pa-frame=130 |pa-dps-normal=71 |pa-dps-god=77 |pa-dps-god-plus=79 |pa-dpp-normal=95 |pa-dpp-god=104 |pa-dpp-god-plus=106 |pa-remarks=* Use Slicer after Change.
+[[include comp:pso2-pet-pa |pa-icon=PA-Viola-1|pa-name=Changed Slicer |pa-damage=56975 |pa-pp=25 |pa-frame=130 |pa-dps-normal=71 |pa-dps-god=77 |pa-dps-god-plus=79 |pa-dpp-normal=95 |pa-dpp-god=104 |pa-dpp-god-plus=106 |pa-remarks=* Use Slicer after Change.
 * A 2-hit attack over a very wide area in front of Viola.
 * You can Jump after inputting the command to activate your natural PP regen; during a normal circumstances, you'll regain about 3PP back before the next input.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Viola-2|pa-name=Stomp (//Stamp//) |pa-damage=15079 |pa-pp=25 |pa-frame=42 |pa-dps-normal=58 |pa-dps-god=79 |pa-dps-god-plus=84 |pa-dpp-normal=25 |pa-dpp-god=33 |pa-dpp-god-plus=36 |pa-remarks=* Stuns enemies in an area.
+[[include comp:pso2-pet-pa |pa-icon=PA-Viola-2|pa-name=Stomp (//Stamp//) |pa-damage=15079 |pa-pp=25 |pa-frame=42 |pa-dps-normal=58 |pa-dps-god=79 |pa-dps-god-plus=84 |pa-dpp-normal=25 |pa-dpp-god=33 |pa-dpp-god-plus=36 |pa-remarks=* Stuns enemies in an area.
 * A 2-hit attack on the epicentrum.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Viola-2|pa-name=Changed Stomp (//Stamp//) |pa-damage=48256 |pa-pp=25 |pa-frame=90 |pa-dps-normal=87 |pa-dps-god=96 |pa-dps-god-plus=99 |pa-dpp-normal=79 |pa-dpp-god=88 |pa-dpp-god-plus=90 |pa-remarks=* Primary DPS attack.
+[[include comp:pso2-pet-pa |pa-icon=PA-Viola-2|pa-name=Changed Stomp (//Stamp//) |pa-damage=48256 |pa-pp=25 |pa-frame=90 |pa-dps-normal=87 |pa-dps-god=96 |pa-dps-god-plus=99 |pa-dpp-normal=79 |pa-dpp-god=88 |pa-dpp-god-plus=90 |pa-remarks=* Primary DPS attack.
 * Use Stamp after Change.
 * You can Jump after inputting the command to activate your natural PP regen; during a normal circumstances, you'll regain about 2PP back before the next input.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Viola-4|pa-name=Assault |pa-damage=7788 |pa-pp=10 |pa-frame=42 |pa-dps-normal=30 |pa-dps-god=51 |pa-dps-god-plus=56 |pa-dpp-normal=32 |pa-dpp-god=54 |pa-dpp-god-plus=59 |pa-remarks=* Return PA.
+[[include comp:pso2-pet-pa |pa-icon=PA-Viola-4|pa-name=Assault |pa-damage=7788 |pa-pp=10 |pa-frame=42 |pa-dps-normal=30 |pa-dps-god=51 |pa-dps-god-plus=56 |pa-dpp-normal=32 |pa-dpp-god=54 |pa-dpp-god-plus=59 |pa-remarks=* Return PA.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Viola-4|pa-name=Changed Assault |pa-damage=18692 |pa-pp=10 |pa-frame=55 |pa-dps-normal=55 |pa-dps-god=71 |pa-dps-god-plus=75 |pa-dpp-normal=75 |pa-dpp-god=97 |pa-dpp-god-plus=102 |pa-remarks=* Use Assault after Change.
+[[include comp:pso2-pet-pa |pa-icon=PA-Viola-4|pa-name=Changed Assault |pa-damage=18692 |pa-pp=10 |pa-frame=55 |pa-dps-normal=55 |pa-dps-god=71 |pa-dps-god-plus=75 |pa-dpp-normal=75 |pa-dpp-god=97 |pa-dpp-god-plus=102 |pa-remarks=* Use Assault after Change.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Viola-3|pa-name=Pulser (//Pulsar//) |pa-damage=48916 |pa-pp=30 |pa-frame=38 |pa-dps-normal=9 |pa-dps-god=10 |pa-dps-god-plus=11 |pa-dpp-normal=3 |pa-dpp-god=3 |pa-dpp-god-plus=3 |pa-remarks=* Stack both Pulsars if you can before doing normals to regain PP
+[[include comp:pso2-pet-pa |pa-icon=PA-Viola-3|pa-name=Pulser (//Pulsar//) |pa-damage=48916 |pa-pp=30 |pa-frame=38 |pa-dps-normal=9 |pa-dps-god=10 |pa-dps-god-plus=11 |pa-dpp-normal=3 |pa-dpp-god=3 |pa-dpp-god-plus=3 |pa-remarks=* Stack both Pulsars if you can before doing normals to regain PP
 * DoT attack over 843f (14.1s).
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Viola-3|pa-name=Changed Pulser (//Pulsar//) |pa-damage=83153 |pa-pp=30 |pa-frame=105 |pa-dps-normal=15 |pa-dps-god=16 |pa-dps-god-plus=16 |pa-dpp-normal=13 |pa-dpp-god=14 |pa-dpp-god-plus=15 |pa-remarks=* Stack both Pulsars if you can before doing normals to regain PP
+[[include comp:pso2-pet-pa |pa-icon=PA-Viola-3|pa-name=Changed Pulser (//Pulsar//) |pa-damage=83153 |pa-pp=30 |pa-frame=105 |pa-dps-normal=15 |pa-dps-god=16 |pa-dps-god-plus=16 |pa-dpp-normal=13 |pa-dpp-god=14 |pa-dpp-god-plus=15 |pa-remarks=* Stack both Pulsars if you can before doing normals to regain PP
 * Use Pulsar after Change.
 * DoT attack over 910f (15.2s).
 * Regular and Change DoT stacks.
 * Hitbox is very big compared to Regular.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Viola-5|pa-name=Change |pa-damage=0 |pa-pp=1 |pa-frame=40 |pa-dps-normal=0 |pa-dps-god=0 |pa-dps-god-plus=0 |pa-dpp-normal=0 |pa-dpp-god=0 |pa-dpp-god-plus=0 |pa-remarks=* 140% DEF (candies excluded), increases the power and enlarges the hitbox of all PAs; normal attacks are unaffected.
+[[include comp:pso2-pet-pa |pa-icon=PA-Viola-5|pa-name=Change |pa-damage=0 |pa-pp=1 |pa-frame=40 |pa-dps-normal=0 |pa-dps-god=0 |pa-dps-god-plus=0 |pa-dpp-normal=0 |pa-dpp-god=0 |pa-dpp-god-plus=0 |pa-remarks=* 140% DEF (candies excluded), increases the power and enlarges the hitbox of all PAs; normal attacks are unaffected.
 * Attack PP regain and natural PP regeneration will be set to 30% of normal value.
 * Viola will be in Change state until the art is used again, similar to Stance skills.
 * Viola is invulnerable during the Change animation.
 ]]
-[[include component:pso2-pet-pa |pa-icon=NormalAttack|pa-name=Combo 1 |pa-damage=286812 |pa-pp=130 |pa-frame=625 |pa-dps-normal=74 |pa-dps-god=81 |pa-dps-god-plus=83 |pa-dpp-normal=90 |pa-dpp-god=98 |pa-dpp-god-plus=101 |pa-remarks=* Change Pulser (//Pulsar//)  - 4× Change Slicer
+[[include comp:pso2-pet-pa |pa-icon=NormalAttack|pa-name=Combo 1 |pa-damage=286812 |pa-pp=130 |pa-frame=625 |pa-dps-normal=74 |pa-dps-god=81 |pa-dps-god-plus=83 |pa-dpp-normal=90 |pa-dpp-god=98 |pa-dpp-god-plus=101 |pa-remarks=* Change Pulser (//Pulsar//)  - 4× Change Slicer
 ]]
-[[include component:pso2-pet-pa |pa-icon=NormalAttack|pa-name=Combo 2 |pa-damage=350150 |pa-pp=180 |pa-frame=655 |pa-dps-normal=86 |pa-dps-god=96 |pa-dps-god-plus=98 |pa-dpp-normal=79 |pa-dpp-god=88 |pa-dpp-god-plus=90 |pa-remarks=* Change Pulser (//Pulsar//)  - 6× Change Stomp (//Stamp//)
+[[include comp:pso2-pet-pa |pa-icon=NormalAttack|pa-name=Combo 2 |pa-damage=350150 |pa-pp=180 |pa-frame=655 |pa-dps-normal=86 |pa-dps-god=96 |pa-dps-god-plus=98 |pa-dpp-normal=79 |pa-dpp-god=88 |pa-dpp-god-plus=90 |pa-remarks=* Change Pulser (//Pulsar//)  - 6× Change Stomp (//Stamp//)
 ]]
-[[include component:pso2-pet-pa |pa-icon=NormalAttack|pa-name=Combo 3 |pa-damage=154991 |pa-pp=-51 |pa-frame=599 |pa-dps-normal=42 |pa-dps-god=46 |pa-dps-god-plus=47 |pa-dpp-normal=0 |pa-dpp-god=0 |pa-dpp-god-plus=0 |pa-remarks=* Change Pulser (//Pulsar//)  - Change - Pulser (//Pulsar//) - 8× Normal 1
+[[include comp:pso2-pet-pa |pa-icon=NormalAttack|pa-name=Combo 3 |pa-damage=154991 |pa-pp=-51 |pa-frame=599 |pa-dps-normal=42 |pa-dps-god=46 |pa-dps-god-plus=47 |pa-dpp-normal=0 |pa-dpp-god=0 |pa-dpp-god-plus=0 |pa-remarks=* Change Pulser (//Pulsar//)  - Change - Pulser (//Pulsar//) - 8× Normal 1
 ]]
 
-[[include component:pso2-pet-pa-notes]]
+[[include comp:pso2-pet-pa-notes]]

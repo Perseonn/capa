@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>New Page - CAPA</title>
+    <meta name="description" content="{$pa-name}">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
+    
+    <!-- Canonical Link -->
+    <link rel="canonical" href="https://capa.asoh.xyz">
+    
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
+
+    <!-- OG Card -->
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://capa.asoh.xyz/assets/comp/pso2-pet-pa/pso2-pet-pa-splash.jpg">
+    <meta property="og:title" content="New Page - CAPA">
+    <meta property="og:description" content="{$pa-name}">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://capa.asoh.xyz/assets/comp/pso2-pet-pa/pso2-pet-pa-splash.jpg">
+    <meta name="twitter:title" content="New Page - CAPA">
+    <meta name="twitter:description" content="{$pa-name}">
+    
+    <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
+    <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
+    <link rel="stylesheet" href="/assets/css/site.css">
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-lg-2 p-0">
+                <nav class="capa-navbar" aria-label="Main navigation">
+
+    <!-- Mobile-only Expand Button -->
+    <button
+        class="capa-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="capa-nav-content"
+        aria-label="Open navigation"
+    >
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    
+    <!-- Mobile-only Close Button -->
+    <button
+        class="capa-nav-overlay"
+        type="button"
+        aria-label="Close navigation"
+        tabindex="-1"
+        aria-hidden="true"
+    ></button>
+
+    <!-- Shared navigation and TOC -->
+    <div id="capa-nav-content">
+        <div class="nav-item nav-container gradient-line line-top-4 line-bottom-4">
+            <div class="nav-image-container main-splash-overlaid">
+                <a href="/" class="d-block"><img src="/assets/img/16x9.png" class="img-fluid aspect-16x9 img-site-title" title="Go to Home" alt="Go to Home"></a>
+            </div>
+            <div class="nav-text-container site-title strong stroke text-center">
+                <a href="/" class="d-block">CAPA</a>
+            </div>
+        </div>
+        <div class="nav-item nav-container gradient-line line-bottom-4">
+            <div class="nav-image-container guide-splash-overlaid">
+                <a href="/guides/" class="d-block"><img src="/assets/img/16x9.png" class="img-fluid aspect-4x1" title="Go to Guides" alt="Go to Guides"></a>
+            </div>
+            <div class="nav-text-container stroke ps-2">
+                <a href="/guides/" class="d-block"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+            </div>
+        </div>
+        <div class="nav-item nav-container gradient-line line-bottom-4">
+            <div class="nav-image-container guide-splash-overlaid">
+                <a href="/articles/" class="d-block"><img src="/assets/img/16x9.png" class="img-fluid aspect-4x1" title="Go to Articles" alt="Go to Articles"></a>
+            </div>
+            <div class="nav-text-container stroke ps-2">
+                <a href="/articles/" class="d-block"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+            </div>
+        </div>
+        <!-- TOC will be moved here by move-toc-to-nav.js -->
+    </div>
+
+</nav>
+            </header>
+            <div class="col-12 col-lg-10 p-0">
+                <main class="capa-main">
+                    <div class="row pet-pa-table">
+<div class="col-xs-12 pet-pa-table-info padding-b-0">
+<p>[[table class=&quot;wiki-content-table border-bottom-none&quot;]]<br>
+[[row]]<br>
+[[hcell rowspan=&quot;2&quot; class=&quot;pet-pa-icon text-center border-bottom-none&quot;]]</p>
+<img class="img-fluid " src="http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/{$pa-icon}.png class=&quot;icon-76px pixelate&quot;" alt="{$pa-icon}.png class=&quot;icon-76px pixelate&quot;">
+<p>[[/hcell]]<br>
+[[hcell]]<br>
+{$pa-name}<br>
+[[/hcell]]<br>
+[[/row]]<br>
+[[row]]<br>
+[[cell class=&quot;pet-pa-remark border-bottom-none&quot;]]<br>
+{$pa-remarks}<br>
+[[/cell]]<br>
+[[/row]]</p>
+<p>[[/table]]</p>
+</div>
+<div class="col-xs-12 col-sm-4 pet-pa-table-sub padding-t-0 padding-b-0 border-bottom-none">
+<table class="wiki-content-table">
+    <tr>
+        <td></td>
+        <th>Basic Info</th>
+    </tr>
+    <tr>
+        <td>Damage</td>
+        <td>{$pa-damage}</td>
+    </tr>
+    <tr>
+        <td>PP</td>
+        <td>{$pa-pp}</td>
+    </tr>
+    <tr>
+        <td>Frame</td>
+        <td>{$pa-frame}</td>
+    </tr>
+</table>
+</div>
+<div class="col-xs-12 col-sm-4 pet-pa-table-sub padding-t-0 padding-b-0 border-bottom-none">
+<table class="wiki-content-table">
+    <tr>
+        <td></td>
+        <th>DPS Rating</th>
+    </tr>
+    <tr>
+        <td>Normal</td>
+        <td>{$pa-dps-normal}</td>
+    </tr>
+    <tr>
+        <td>[[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Potential.png class=&quot;weapon-potential&quot;]] GoD<sup>5</sup></td>
+        <td>{$pa-dps-god}</td>
+    </tr>
+    <tr>
+        <td>[[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Potential.png class=&quot;weapon-potential&quot;]] GoD Plus<sup>6</sup></td>
+        <td>{$pa-dps-god-plus}</td>
+    </tr>
+</table>
+</div>
+<div class="col-xs-12 col-sm-4 pet-pa-table-sub padding-t-0 padding-b-0 border-bottom-none">
+<table class="wiki-content-table">
+    <tr>
+        <td></td>
+        <th>Efficiency Rating<sup>7</sup></th>
+    </tr>
+    <tr>
+        <td>Normal</td>
+        <td>{$pa-dpp-normal}</td>
+    </tr>
+    <tr>
+        <td>[[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Potential.png class=&quot;weapon-potential&quot;]] GoD<sup>5</sup></td>
+        <td>{$pa-dpp-god}</td>
+    </tr>
+    <tr>
+        <td>[[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Potential.png class=&quot;weapon-potential&quot;]] GoD Plus<sup>6</sup></td>
+        <td>{$pa-dpp-god-plus}</td>
+    </tr>
+</table>
+</div>
+<div class="col-xs-12 padding-t-0">
+<div class="pet-pa-bottom">
+</div>
+</div>
+</div>
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 ps-4 pe-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title serif-font strong stroke pt-2 pe-2">
+                            <a href="/">CAPA</a>
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/guides/">Guides</a> · 
+                                <a href="/articles/">Articles</a>
+                        </div>
+                            <div class="powered-area">Converted by <a href="https://github.com/Perseonn/capa">CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
+</body>
+</html>

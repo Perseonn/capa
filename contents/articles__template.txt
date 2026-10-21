@@ -1,6 +1,6 @@
 [[div class="row m-0 p-0"]]
 
-[[include component:splash
+[[include comp:splash
 |splash-class=full-height
 |splash-style=background-image:url('/assets/%%category%%/%%name%%/%%name%%-splash.avif');
 |text-title=%%title%%

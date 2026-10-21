@@ -1,5 +1,5 @@
 + Intermediate Summoner
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=Hi, are you familiar yet with pet raising and sweets box? If not, please read it on the basics!]]
 
 ++ Class Combination
@@ -35,7 +35,7 @@ Recommended for all skill levels. SuFi has the highest stance multiplier and les
 
 
 
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=You can still use TEC/T-ATK Mag even if you're SuFi, and it's recommended to do so over MEL/S-ATK Mag!]]
 
 
@@ -136,7 +136,7 @@ If you don't have elemental Pets, SuBo is less effective on multi-elemental weak
 
 
 
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=SuBo may be able to provide smoother stransition to SuPh if you have DEX Mag, but it's difficult to use! ( ; ω ; )]]
 
 
@@ -160,14 +160,14 @@ Other than Fi, Ph, Br, and Bo, no other class combination works for Su:
  * Similarly, SuFo cannot activate any Tech Advance skills (Normal Tech Advance, Tech Charge Advance, Tech JA Advance)
 
 
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=Using SuFo and SuTe for casting attack Tech along with pet is a bad idea! You'll end up with weak tech and weak pet!]]
 
 
 ++ About Critical Hits
 While Su does not have JA, this is offset by pets having 70% minimum damage, as opposed to other weapon's 90% when using a ★13. Adding as much critical as possible allows pet to reach higher average damage, without compensating any aspects (maybe that 10 PP from 2 Spirit Canes).
 
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=Stack as many critical rate up as you can, it's a shortcut to high damage!]]
 
 [[collapsible show="Show Simplified Calculation" hide="Hide Simplified Calculation"]]
@@ -255,7 +255,7 @@ If you plan to use more than 1 L Skill Rings, then it is recommended that you us
 
 
 
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=Pet attacks are always Tech regardless of activated Switch skills, thus you need a Critical Strike Tech ring!]]
 
 
@@ -290,7 +290,7 @@ Please note the following glossary before reading the detailed description of ea
 || [[span class="icon op-pot"]]Sinister Stare (Glance of Darkness)[[/span]] || The potential icon on the DPS colum shows the DPS rating when [[span class="icon op-pot"]]Sinister Stare (Glance of Darkness)[[/span]] is used. ||
 
 
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=The DPS value is relative to another pet, use it only to compare one pet to another!]]
 
 

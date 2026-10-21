@@ -1,9 +1,0 @@
-[[div_ class="manaka-text-box-container"]]
-[[div_ class="manaka-text-box"]]
-{$content}
-[[/div]]
-[[div_ class="text-center manaka-icon-container"]]
-[[image http://capa.wdfiles.com/local--files/img%3Apso2-other/manaka-icon.png class="manaka-icon"]]
-[[/div]]
-
-[[/div]]

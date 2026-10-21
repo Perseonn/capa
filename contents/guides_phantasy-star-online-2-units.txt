@@ -4,7 +4,7 @@
 
 This is a laid-back guide to support my other Class Guides since units are, pretty much interchangeable. You'll find an assortment of sure fire affixes and the formula to make it.
 
-[[include component:pso2-nav]]
+[[include comp:pso2-nav]]
 
 [[div class="alert alert-info"]]
 [[span class="fa fa-exclamation-circle"]]@<&nbsp;>@[[/span]] **Changelog**

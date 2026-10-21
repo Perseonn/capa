@@ -4,7 +4,7 @@
 
 This guide is intended to be a reference for Phantasy Star Online 2's Gathering system. With gathering, you can earn a big amount of Meseta from Daily Order and Yerkes' Client Order. The more characters you have, the better. If you want to know the basic of Gathering, Speak to Sophia on Franca's Cafe.
 
-[[include component:pso2-nav]]
+[[include comp:pso2-nav]]
 
 [[div class="alert alert-info"]]
 [[span class="fa fa-exclamation-circle"]]@<&nbsp;>@[[/span]] **Changelog**

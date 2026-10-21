@@ -1,7 +1,7 @@
-[[include component:pso2-pet-profile-1]]
+[[include comp:pso2-pet-profile-1]]
 [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/PetWandaIcon.png class="w-50 margin-b-half"]]
 [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/PetJingaIcon.png class="w-100"]]
-[[include component:pso2-pet-profile-2
+[[include comp:pso2-pet-profile-2
 |pet-name=Wanda / Jinga
 |pet-description=A pet without real weakness, dubbed "Almighty Pet" in Japan. They have a rather efficient PP usage (even more efficient on Wanda), solid DPS, powerful normal attacks, high HP, high defense, and easy to use PAs. When in doubt of what pet to use, Wanda or Jinga is never a wrong choice.
 
@@ -16,7 +16,7 @@ Auto: 33 (15.4 PP/s)
 || [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]]Sunny (晴れ好き //Enjoys Sun//) || 112% damage during clear weather on fields, doesn't work on Extreme Quests or Boss EQ where the weather is non-existent. Preferable if you use Jinga on regular quests. ||
 || [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]]	Resolved (こんじょう //Fervent//) || Small chance to endure damage that would otherwise killed it. Gains few seconds of invulnerability when activated as well as 60s of 115% damage incease. Preferable on EQs. ||
 || [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]]Powerful (パワフル) || ★14 only. Combines the effect of Sunny and Resolved, as well as having increased rare item drop rate. ||
-[[include component:pso2-pet-profile-3
+[[include comp:pso2-pet-profile-3
 |pet-pros=* Suitable for all player skills
 * All-purpose pet
 * High Pwr
@@ -49,26 +49,26 @@ Auto: 33 (15.4 PP/s)
 
 
 +++* Photon Arts / Combo
-[[include component:pso2-pet-pa |pa-icon=PA-Wanda-1|pa-name=Slicer |pa-damage=25003 |pa-pp=15 |pa-frame=68 |pa-dps-normal=59 |pa-dps-god=72 |pa-dps-god-plus=75 |pa-dpp-normal=66 |pa-dpp-god=80 |pa-dpp-god-plus=84 |pa-remarks=* A two-hit attack, mind the timing between 2 attacks.
+[[include comp:pso2-pet-pa |pa-icon=PA-Wanda-1|pa-name=Slicer |pa-damage=25003 |pa-pp=15 |pa-frame=68 |pa-dps-normal=59 |pa-dps-god=72 |pa-dps-god-plus=75 |pa-dpp-normal=66 |pa-dpp-god=80 |pa-dpp-god-plus=84 |pa-remarks=* A two-hit attack, mind the timing between 2 attacks.
 * You can Jump after inputting the command to activate your natural PP regen; during a normal circumstances, you'll regain about 4PP back before the next input.
 * At L17 Wanda version costs 10 PP.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Wanda-2|pa-name=Break |pa-damage=16873 |pa-pp=10 |pa-frame=45 |pa-dps-normal=61 |pa-dps-god=80 |pa-dps-god-plus=85 |pa-dpp-normal=74 |pa-dpp-god=97 |pa-dpp-god-plus=103 |pa-remarks=* Area attack, knocks down enemies.
+[[include comp:pso2-pet-pa |pa-icon=PA-Wanda-2|pa-name=Break |pa-damage=16873 |pa-pp=10 |pa-frame=45 |pa-dps-normal=61 |pa-dps-god=80 |pa-dps-god-plus=85 |pa-dpp-normal=74 |pa-dpp-god=97 |pa-dpp-god-plus=103 |pa-remarks=* Area attack, knocks down enemies.
 * At L17 Wanda version costs 15 PP.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Wanda-3|pa-name=Assault |pa-damage=14088 |pa-pp=5 |pa-frame=45 |pa-dps-normal=51 |pa-dps-god=70 |pa-dps-god-plus=75 |pa-dpp-normal=123 |pa-dpp-god=170 |pa-dpp-god-plus=181 |pa-remarks=* Recall PA, has a wide linear area of effect.
+[[include comp:pso2-pet-pa |pa-icon=PA-Wanda-3|pa-name=Assault |pa-damage=14088 |pa-pp=5 |pa-frame=45 |pa-dps-normal=51 |pa-dps-god=70 |pa-dps-god-plus=75 |pa-dpp-normal=123 |pa-dpp-god=170 |pa-dpp-god-plus=181 |pa-remarks=* Recall PA, has a wide linear area of effect.
 * At L17 Wanda version costs 10 PP and has narrower area of attack.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Wanda-4|pa-name=Shock |pa-damage=12765 |pa-pp=20 |pa-frame=45 |pa-dps-normal=46 |pa-dps-god=65 |pa-dps-god-plus=70 |pa-dpp-normal=28 |pa-dpp-god=40 |pa-dpp-god-plus=42 |pa-remarks=* Wide-ranged area attack. Causes Stun.
+[[include comp:pso2-pet-pa |pa-icon=PA-Wanda-4|pa-name=Shock |pa-damage=12765 |pa-pp=20 |pa-frame=45 |pa-dps-normal=46 |pa-dps-god=65 |pa-dps-god-plus=70 |pa-dpp-normal=28 |pa-dpp-god=40 |pa-dpp-god-plus=42 |pa-remarks=* Wide-ranged area attack. Causes Stun.
 * At L17 Wanda version will also costs 20 PP and has smaller AoE
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Wanda-5|pa-name=Pulser (//Pulsar//) |pa-damage=52952 |pa-pp=10 |pa-frame=44 |pa-dps-normal=10 |pa-dps-god=11 |pa-dps-god-plus=11 |pa-dpp-normal=10 |pa-dpp-god=11 |pa-dpp-god-plus=12 |pa-remarks=* DoT attack over 877f (14.6s).
+[[include comp:pso2-pet-pa |pa-icon=PA-Wanda-5|pa-name=Pulser (//Pulsar//) |pa-damage=52952 |pa-pp=10 |pa-frame=44 |pa-dps-normal=10 |pa-dps-god=11 |pa-dps-god-plus=11 |pa-dpp-normal=10 |pa-dpp-god=11 |pa-dpp-god-plus=12 |pa-remarks=* DoT attack over 877f (14.6s).
 * At L17, Wanda version costs 30PP.
 ]]
-[[include component:pso2-pet-pa |pa-icon=NormalAttack|pa-name=Combo 1 |pa-damage=151642 |pa-pp=65 |pa-frame=384 |pa-dps-normal=64 |pa-dps-god=77 |pa-dps-god-plus=81 |pa-dpp-normal=95 |pa-dpp-god=116 |pa-dpp-god-plus=121 |pa-remarks=* Pulser (//Pulsar//) - 5× Slicer
+[[include comp:pso2-pet-pa |pa-icon=NormalAttack|pa-name=Combo 1 |pa-damage=151642 |pa-pp=65 |pa-frame=384 |pa-dps-normal=64 |pa-dps-god=77 |pa-dps-god-plus=81 |pa-dpp-normal=95 |pa-dpp-god=116 |pa-dpp-god-plus=121 |pa-remarks=* Pulser (//Pulsar//) - 5× Slicer
 * To attain it's 65PP usage or less, you must jump immediately after using Slicer. Otherwise, it will cost 85PP.
 ]]
-[[include component:pso2-pet-pa |pa-icon=NormalAttack|pa-name=Combo 2 |pa-damage=143030 |pa-pp=80 |pa-frame=352 |pa-dps-normal=66 |pa-dps-god=85 |pa-dps-god-plus=90 |pa-dpp-normal=74 |pa-dpp-god=96 |pa-dpp-god-plus=101 |pa-remarks=* Pulser (//Pulsar//) - 7× Break
+[[include comp:pso2-pet-pa |pa-icon=NormalAttack|pa-name=Combo 2 |pa-damage=143030 |pa-pp=80 |pa-frame=352 |pa-dps-normal=66 |pa-dps-god=85 |pa-dps-god-plus=90 |pa-dpp-normal=74 |pa-dpp-god=96 |pa-dpp-god-plus=101 |pa-remarks=* Pulser (//Pulsar//) - 7× Break
 ]]
 
-[[include component:pso2-pet-pa-notes]]
+[[include comp:pso2-pet-pa-notes]]

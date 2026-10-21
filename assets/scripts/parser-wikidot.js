@@ -2,8 +2,8 @@
  * The Great Wikidot Parser
  * =============== =============== =============== ===============
  */
-import path from "path";
 import fs from "fs";
+import path from "path";
 import { CONTENT_DIR } from "../../config.js";
 import {
     customInlineParsers,
@@ -604,7 +604,7 @@ export function renderToc(toc) {
 
     const links = toc
         //Hide H4 and above from ToC
-        .filter(item => item.level >= 4)
+        .filter(item => item.level < 4)
         .map(item =>
             `<a href="#${item.id}" class="toc-h${item.level}">${escapeHtml(item.text)}</a>`
         ).join("\n");

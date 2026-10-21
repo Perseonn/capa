@@ -4,10 +4,10 @@
 
 This guide is intended to be a comprehensive version of the infographics-like Summoner Guide I have made before. This expands the idea of sub classes, pet attacks, and equipment. Updates will be done regularly based on new material or discovery. Name will follow the official North American translation, and will also provide the Japanese name and the fan-translation name.
 
-[[include component:pso2-nav]]
+[[include comp:pso2-nav]]
 
-[[div class="alert alert-info"]]
-[[span class="fa fa-exclamation-circle"]]@<&nbsp;>@[[/span]] **Latest Update**
+[[div_ class="alert alert-info"]]
+[[i|fa-solid fa-info-circle]] **Latest Update**
 || 2020/12/10 || Added NA translations for Herbie and Vulcan-related things. ||
 || 2020/12/06 || Added FAQs about Harmonizers. ||
 || 2020/10/17 || Added information abut Vulcan. Added information about Luster sub. ||

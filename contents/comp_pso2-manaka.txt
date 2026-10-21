@@ -1,0 +1,9 @@
+[[div_ class="manaka-text-box-container d-flex mb-4"]]
+[[div_ class="manaka-text-box p-4"]]
+{$content}
+[[/div]]
+[[div_ class="manaka-icon-container d-flex pe-4"]]
+[[image /img/pso2/other/manaka-icon.png | | manaka-icon]]
+[[/div]]
+
+[[/div]]

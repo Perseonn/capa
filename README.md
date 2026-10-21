@@ -48,7 +48,7 @@ The workflow uses 3 active javascript files + 1 pending deletion:
 5. Unnumbered and Ordered List, starting line with `*` and `#`.
 6. Horizontal Rule / line, `----`
 7. Block quote, starting line with `>`
-8. Table of Contents `[[toc]]`, customizable via `contents/_toc.html`. Currently H4 above will not show on Table of Contents. You can change in the line .`filter(item => item.level >= 4)` to `.filter(item => item.level >= 7)` in `parser-wikidot.js` if you want to include H4 and above.
+8. Table of Contents `[[toc]]`, customizable via `contents/_toc.html`. Currently H4 above will not show on Table of Contents. You can change in the line .`filter(item => item.level < 4)` to `.filter(item => item.level < 7)` in `parser-wikidot.js` if you want to include H4 and above.
 9. ListPages `[[module ListPages]]`, as detailed below
 10. Include `[[include category:name]]`, as detailed below
 

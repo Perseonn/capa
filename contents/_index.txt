@@ -3,7 +3,7 @@
 @updated: 2026-09-26
 @description: A Website Dedicated to Guides and Codes for Games that We Love!
 
-[[include component:splash
+[[include comp:splash
 |splash-class=main-splash full-height
 |text-title-class=capa-title
 |text-title=CAPA
@@ -25,7 +25,7 @@ Guides
 [[div class="row mb-4 guides-row"]]
 
 [[div class="col-12 col-lg-6 p-0"]]
-[[include component:list-page-item
+[[include comp:list-page-item
 |container-class=large-cards d-grid
 |image=guides/guides-splash.avif
 |image-class=aspect-1x1
@@ -38,7 +38,7 @@ Guides
 [[div class="col-12 col-lg-6 d-flex"]]
 [[div class="row list-page-item-row"]]
 [[module ListPages category="guides" order="updated_at desc" limit="4"]]
-[[include component:list-page-item
+[[include comp:list-page-item
 |container-class=col-6 col-lg-6 small-cards d-grid
 |image-container-class=bg-white-50 p-1 h-100
 |image-class=fit-contain position-logo-front-page h-100
@@ -70,7 +70,7 @@ Articles
 [[div class="row mb-4 article-row"]]
 
 [[div class="col-12 col-lg-6 p-0"]]
-[[include component:list-page-item
+[[include comp:list-page-item
 |container-class=large-cards d-grid
 |image=articles/articles-splash.avif
 |image-class=aspect-1x1
@@ -83,7 +83,7 @@ Articles
 [[div class="col-12 col-lg-6 d-flex"]]
 [[div class="row flex-fill list-page-item-row"]]
 [[module ListPages category="articles" order="updated_at desc" limit="4"]]
-[[include component:list-page-item
+[[include comp:list-page-item
 |container-class=col-6 col-lg-6 small-cards d-grid
 |image-container-class=h-100
 |image-class=fit-cover h-100

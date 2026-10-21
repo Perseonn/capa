@@ -3,7 +3,7 @@
 @updated: 2026-09-26
 @description: Game walkthroughs, cheat codes, or both!
 
-[[include component:splash
+[[include comp:splash
 |splash-class=full-height
 |splash-style=background-image:url('/assets/guides/guides-splash.avif');
 |text-title=Guides
@@ -14,7 +14,7 @@
 [[div class="row p-4 m-0 capa-tile"]]
 
 [[module ListPages category="guides" order="title"]]
-[[include component:list-page-item
+[[include comp:list-page-item
 |container-class=col-12 col-xs-6 col-md-4
 |image-container-class=bg-white-50 p-1
 |image-class=fit-cover aspect-16x9

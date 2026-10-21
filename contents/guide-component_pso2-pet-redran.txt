@@ -1,6 +1,6 @@
-[[include component:pso2-pet-profile-1]]
+[[include comp:pso2-pet-profile-1]]
 [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/PetRedranIcon.png class="w-100"]]
-[[include component:pso2-pet-profile-2
+[[include comp:pso2-pet-profile-2
 |pet-name=Redran
 |pet-description=A long-range pet that can tear multi-part enemies, such as Ragne and Vibras, quickly. On the reverse side, they also can tear down Redran quickly. Redran has the highest Pwr among all pets, but also the lowest Def of all pets, with about 120 HP less than Synchro and only 60 DEF better.
 
@@ -21,7 +21,7 @@ Hold: 43 (10.4 PP/s, Maxed Rowdy)
 || [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]] Rambunctious (あばれんぼう //Rowdy//) || Raises damage by 2% for each enemy killed by Redran; capped at 50% or 150% damage total. **The bonus will be reset upon entering campship and unsummoning Redran.** This would be the preferred personality. ||
 || [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]]	Belligerent (とうそうしん //Hawkish//) || Raises damage depending on number of enemies near the Redran. 106% for 1-4 enemies, 112% for 5 enemies and above. Since Redran is a long-range pet that has a low durability, this skill becomes counterproductive for its survival, specially since it does not do much in boss EQs. ||
 || [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]] Rock (ロック) || ★14 only. Combines Rambunctious and Belligerent, as well as having increased rare item drop rate.||
-[[include component:pso2-pet-profile-3
+[[include comp:pso2-pet-profile-3
 |pet-pros=* Highest possible damage multiplier (150%) from personality
 * Decimates enemy with multiple parts quickly
 * High-powered normal attacks
@@ -58,34 +58,34 @@ Hold: 43 (10.4 PP/s, Maxed Rowdy)
 
 
 +++* Photon Arts / Combo
-[[include component:pso2-pet-pa |pa-icon=PA-Redran-1|pa-name=Laser |pa-damage=65936 |pa-pp=25 |pa-frame=127 |pa-dps-normal=84 |pa-dps-god=91 |pa-dps-god-plus=92 |pa-dpp-normal=107 |pa-dpp-god=116 |pa-dpp-god-plus=118 |pa-remarks=* Hold PA button to increase lock on.
+[[include comp:pso2-pet-pa |pa-icon=PA-Redran-1|pa-name=Laser |pa-damage=65936 |pa-pp=25 |pa-frame=127 |pa-dps-normal=84 |pa-dps-god=91 |pa-dps-god-plus=92 |pa-dpp-normal=107 |pa-dpp-god=116 |pa-dpp-god-plus=118 |pa-remarks=* Hold PA button to increase lock on.
 * Caps at 8 locks, which requires 72f and additional 55f for launch, totalling 127f (2.11s).
 * A target may be locked twice.
 * Becomes significantly weaker if an enemy has only 1 targetable point.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Redran-2|pa-name=Slash |pa-damage=11646 |pa-pp=5 |pa-frame=43 |pa-dps-normal=44 |pa-dps-god=64 |pa-dps-god-plus=69 |pa-dpp-normal=93 |pa-dpp-god=136 |pa-dpp-god-plus=147 |pa-remarks=* Recall PA.
+[[include comp:pso2-pet-pa |pa-icon=PA-Redran-2|pa-name=Slash |pa-damage=11646 |pa-pp=5 |pa-frame=43 |pa-dps-normal=44 |pa-dps-god=64 |pa-dps-god-plus=69 |pa-dpp-normal=93 |pa-dpp-god=136 |pa-dpp-god-plus=147 |pa-remarks=* Recall PA.
 * Has invulnerability frames and knocks enemy down.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Redran-3|pa-name=Burst |pa-damage=83936 |pa-pp=40 |pa-frame=164.5 |pa-dps-normal=82 |pa-dps-god=88 |pa-dps-god-plus=89 |pa-dpp-normal=84 |pa-dpp-god=90 |pa-dpp-god-plus=91 |pa-remarks=* **This PA has a lag if you try to follow it with another PA. Only a Normal could follow it up immediately.**
+[[include comp:pso2-pet-pa |pa-icon=PA-Redran-3|pa-name=Burst |pa-damage=83936 |pa-pp=40 |pa-frame=164.5 |pa-dps-normal=82 |pa-dps-god=88 |pa-dps-god-plus=89 |pa-dpp-normal=84 |pa-dpp-god=90 |pa-dpp-god-plus=91 |pa-remarks=* **This PA has a lag if you try to follow it with another PA. Only a Normal could follow it up immediately.**
 * Hold PA button to increase lock on.
 * Caps at 8 locks, which requires 112.5f and additional 52f for launch, totalling 164.5f (2.74s).
 * Only locks to a single target point.
 * Should the target dies or Redran lost target, the sphere will disappear and starts appearing when a new target is acquired.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Redran-4|pa-name=Gravity |pa-damage=0 |pa-pp=15 |pa-frame=44 |pa-dps-normal=0 |pa-dps-god=0 |pa-dps-god-plus=0 |pa-dpp-normal=0 |pa-dpp-god=0 |pa-dpp-god-plus=0 |pa-remarks=* Sends a bullet that clusters enemy upon impact.
+[[include comp:pso2-pet-pa |pa-icon=PA-Redran-4|pa-name=Gravity |pa-damage=0 |pa-pp=15 |pa-frame=44 |pa-dps-normal=0 |pa-dps-god=0 |pa-dps-god-plus=0 |pa-dpp-normal=0 |pa-dpp-god=0 |pa-dpp-god-plus=0 |pa-remarks=* Sends a bullet that clusters enemy upon impact.
 * The area is similar to Popple Fall, thus not much real use, except for detonating Mine.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Redran-5|pa-name=Mine |pa-damage=22546 |pa-pp=10 |pa-frame=44 |pa-dps-normal=15 |pa-dps-god=19 |pa-dps-god-plus=20 |pa-dpp-normal=16 |pa-dpp-god=20 |pa-dpp-god-plus=21 |pa-remarks=* Sends a needle that attaches to enemy's body part.
+[[include comp:pso2-pet-pa |pa-icon=PA-Redran-5|pa-name=Mine |pa-damage=22546 |pa-pp=10 |pa-frame=44 |pa-dps-normal=15 |pa-dps-god=19 |pa-dps-god-plus=20 |pa-dpp-normal=16 |pa-dpp-god=20 |pa-dpp-god-plus=21 |pa-remarks=* Sends a needle that attaches to enemy's body part.
 * The needle can be activated using Redran Laser, Burst, or Gravity.
 * Upon activation, the needle will explodes and does a 4-hit area damage over 4 seconds.
 * There can only be 1 needle active on an enemy, but the explosion can occur any number of times.
 * Try using Mine-Gravity-Mine-Gravity.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Redran-1|pa-name=Maxed Rowdy Laser |pa-damage=98904 |pa-pp=25 |pa-frame=127 |pa-dps-normal=126 |pa-dps-god=132 |pa-dps-god-plus=134 |pa-dpp-normal=160 |pa-dpp-god=169 |pa-dpp-god-plus=171 |pa-remarks=* Requires 25 kills by Redran.
+[[include comp:pso2-pet-pa |pa-icon=PA-Redran-1|pa-name=Maxed Rowdy Laser |pa-damage=98904 |pa-pp=25 |pa-frame=127 |pa-dps-normal=126 |pa-dps-god=132 |pa-dps-god-plus=134 |pa-dpp-normal=160 |pa-dpp-god=169 |pa-dpp-god-plus=171 |pa-remarks=* Requires 25 kills by Redran.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Redran-2|pa-name=Maxed Rowdy Slash |pa-damage=17469 |pa-pp=5 |pa-frame=43 |pa-dps-normal=66 |pa-dps-god=86 |pa-dps-god-plus=91 |pa-dpp-normal=140 |pa-dpp-god=182 |pa-dpp-god-plus=193 |pa-remarks=* Requires 25 kills by Redran.
+[[include comp:pso2-pet-pa |pa-icon=PA-Redran-2|pa-name=Maxed Rowdy Slash |pa-damage=17469 |pa-pp=5 |pa-frame=43 |pa-dps-normal=66 |pa-dps-god=86 |pa-dps-god-plus=91 |pa-dpp-normal=140 |pa-dpp-god=182 |pa-dpp-god-plus=193 |pa-remarks=* Requires 25 kills by Redran.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Redran-3|pa-name=Maxed Rowdy Burst |pa-damage=125903 |pa-pp=40 |pa-frame=164.5 |pa-dps-normal=124 |pa-dps-god=129 |pa-dps-god-plus=130 |pa-dpp-normal=127 |pa-dpp-god=132 |pa-dpp-god-plus=133 |pa-remarks=* Requires 25 kills by Redran.
+[[include comp:pso2-pet-pa |pa-icon=PA-Redran-3|pa-name=Maxed Rowdy Burst |pa-damage=125903 |pa-pp=40 |pa-frame=164.5 |pa-dps-normal=124 |pa-dps-god=129 |pa-dps-god-plus=130 |pa-dpp-normal=127 |pa-dpp-god=132 |pa-dpp-god-plus=133 |pa-remarks=* Requires 25 kills by Redran.
 ]]
 
-[[include component:pso2-pet-pa-notes]]
+[[include comp:pso2-pet-pa-notes]]

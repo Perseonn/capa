@@ -6,7 +6,14 @@ The fourth installment of the //Soul// series, Soulcalibur III is, to the releas
 
 If you're interested in showcasing your character, you can visit [[link http://asoh.wikidot.com | Another Stage of History]].
 
-If you're using the most recent PCSX2, you can directly use the raw PS2 codes on the ArtMoney, since the address aligned perfectly, just change the code type identifier (first digit of a raw PS code) to 2.
++ Cheat Engine Table
+If you are running Soulcalibur III on PCSX2, you can use this Cheat Engine Table file with Cheat Engine. Weapon Modifier still needs a PNACH, though.
+
+[[include comp:button
+|link=https://1drv.ms/u/c/1cf409ac535a4fe7/IQA1SpNxP9qpRLxh2MIVdOCMATraA51X7MNlhOmv1mtYOjI?e=UwUupf
+|icon-class=fa-solid fa-cloud-arrow-down
+|label=Download from OneDrive
+]]
 
 + Master Codes
 These codes are only required if you're using a cheat device on real PS2.
@@ -55,7 +62,7 @@ Further on this guide, a //<Joker Command>// before a code indicates the line wh
 || 0040 || Down ||
 || 0080 || Left ||
 
-[[include component:alert
+[[include comp:alert
 |type=info
 |icon=fa fa-info-circle
 |text=To use a combination of buttons instead of one single button, simply add all the buttons digits together. You can use Windows Calculator to help you, by setting it to Programmer mode, then HEX mode. Example, to use Square + L3, add up: 8000 + 0002 = 8002. Subtract FFFF with this number: FFFF - 8002 = 7FFD.
@@ -95,7 +102,7 @@ Replace Character Modifier ?? with the Character Modifier Digits below.
 || 16 || Extra Color Edit 1 ||
 || 17 || Extra Color Edit 2 ||
 
-[[include component:alert
+[[include comp:alert
 |type=warning
 |icon=fa fa-warning
 |text=Costume 3 to 8 only works on certain character digits. Refer to the Character Modifier Digits below. Other than listed, the game will crash. Color Edits only work on standard characters.
@@ -302,20 +309,20 @@ Moveset modifiers changes the moveset of your current character to another moves
 
 Replace ?? with any Character Modifier Digits listed above.
 
-[[include component:alert
+[[include comp:alert
 |type=info
 |icon=fa fa-info-circle
 |text=Setting to 26 or 27 will not get you Abyss' or Night Terror's movesets. To obtain their movesets, you must use the character modifier of Abyss and Night Terror, then activate them while using Soul of Zasalamel and Soul of Nightmare, respectively. Some aspect of their moveset won't work well unless you also use Abyss/Night Terror weapon. To obtain Olcadan's moveset and properties (i.e. changing move every round, special taunt, special weapon demonstration), activate his character modifier while using any of regular character's moveset.
 ]]
 
-[[include component:alert
+[[include comp:alert
 |type=info
 |icon=fa fa-info-circle
 |text=When using Abyss, Night Terror, and Olcadan's moveset, your swipe color will be fixed to the respective characters.
 ]]
 
 ++ Weapon Modifications
-Weapon modifier allows you to change the weapon of your current character with a desired different one. A special master code is required for this to fully work.
+Weapon modifier allows you to change the weapon of your current character with a desired different one. A special master code is required for this to fully work. The memory involved cannot be properly written in Cheat Engine, so on emulator, a PNACH file is necessary.
 
 [[image weaponmod.jpg| Nightmare using Night Terror's weapon.]]
 
@@ -324,33 +331,59 @@ Weapon modifier allows you to change the weapon of your current character with a
 {{200FFF40 3C02004B}}
 {{200FFF50 3C02004D}}
 {{200FFF5C 08111E6F}}
+{{100FFF4A 00002401}}
 
 **Weapon Modifier Disabler**
 <Joker Command>
-{{200FFF48 24010000}}
+{{000FFF48 00000000}}
 <Joker Command>
 {{200FFF4C 00000000}}
 
 **Weapon Modifier**
 <Joker Command>
-{{200FFF48 240100??}}
+{{000FFF48 000000??}}
 <Joker Command>
 {{200FFF4C A0414862}}
 
 Replace ?? with any Character Modifier Digits listed above.
 
-[[include component:alert
+[[include comp:alert
 |type=info
 |icon=fa fa-info-circle
-|text=The only purpose of using this code is to make Soul of Night Terror and Soul of Abyss fully functional. Otherwise, using this code also forces you to use the respective moveset.
+|text=The only purpose of using this code is to make Soul of Night Terror and Soul of Abyss fully functional.
 ]]
 
-[[include component:alert
+[[include comp:alert
 |type=warning
 |icon=fa fa-warning
 |text=Using Olcadan's weapon will crash the game.
 ]]
 
++++ Using Weapon Modifier with Cheat Engine
+The provided Cheat Table will adapt the weapon code value to moveset. You need to freeze the weapon modifier value and reselect a character to make them wield the modified weapon. Olcadan will refuse to work most of times.
+
+**Weapon Modifier Master Code for PCSX2 (SLUS21216)**
+{{//Weapon Modifier Master Code
+patch=1,EE,204479B4,extended,0803FFD0
+patch=1,EE,200FFF40,extended,3C02004B
+patch=1,EE,200FFF50,extended,3C02004D
+patch=1,EE,200FFF5C,extended,08111E6F
+patch=1,EE,100FFF4A,extended,00002401
+//Enable Weapon Modifier
+patch=1,EE,200FFF4C,extended,A0414862
+//Disable Weapon Modifier
+patch=0,EE,200FFF4C,extended,00000000}}
+
+To disable, set the {{patch=}} on the last 2 codes to:
+{{//Enable Weapon Modifier
+patch=0,EE,200FFF4C,extended,A0414862
+//Disable Weapon Modifier
+patch=1,EE,200FFF4C,extended,00000000}}
+
+
++ Buffs
+**Super Armor Buff**
+{{0004B4AF4 00000005}} ➡️ Set to 05 for Super Armor like Keres. Set to 06 for Invulnerability. Set to 00 to disable.
 
 + Camera Limitation Release
 These codes will remove all limits of the camera during specified mode. Take note that this can screw your normal gameplay camera with prolonged usage.
@@ -439,19 +472,19 @@ Allows you to play in a certain stage or an arena that's otherwise impossible to
 || 32 || Soul Calibur III logo ||
 || 33 || Character creation background ||
 
-[[include component:alert
+[[include comp:alert
 |type=info
 |icon=fa fa-info-circle
 |text=<Camera!> indicates the stage is hard to navigate due to camera problem.
 ]]
 
-[[include component:alert
+[[include comp:alert
 |type=warning
 |icon=fa fa-warning
 |text=If used without Joker Command, the code will also replace the intro screen, menu screen, and character creation background.
 ]]
 
-[[include component:alert
+[[include comp:alert
 |type=warning
 |icon=fa fa-warning
 |text=<Crash!> indicates the stage will crash the game if you attempt to do battles. They can still work on title screen. Unlisted digits will freeze the game.
@@ -465,10 +498,10 @@ To ensure this code works for all stages is to use it with a joker command.
 * The BGM will depend on where your cursor was during stage selection.
 
 **Stage Variant Modifier**
-004ED650 0000000?
+{{004ED650 0000000?}}
 Only works on certain stages that have variants like Egyptian Temple, Eurydice Shrine, Lakeside Coliseum, and Grand Labyrinth. At normal, the value is 0. Change it to 1 or 2 will enable the stage variations.
 
-[[include component:alert
+[[include comp:alert
 |type=info
 |icon=fa fa-info-circle
 |text=If used on stage without variation, you will end up in Highlands.
@@ -538,7 +571,7 @@ Weapons comes with a preloaded parameter and can actually be manipulated extensi
 || 004B4C4F || 1P Null Counter Hi || High byte. ||
 || 004B4C52 || 1P Guarding Damage || The damage received when guarding. If you set this to negative value, it will heal instead. ||
 || 004B4C53 || 1P Guarding Damage Hi || High byte. ||
-|| 004B4C56 || 1P Guard Impact Chance || The chance of automatic guard impact when guarding. This still has to be activated in-battle by unknown method. Crouching twice and sidestep seems to do the trick. ||
+|| 004B4C56 || 1P Guard Impact Chance || The chance of automatic guard impact when guarding. This still has to be activated in-battle by unknown ritual. Crouching twice and sidestep seems to do the trick. ||
 || 004B4C57 || 1P Guard Impact Chance Hi || High byte. ||
 || 004B4C5A || 1P Impact Damage || The damage done to enemy when guard impacting, according to enemy's attack base attack damage. ||
 || 004B4C5B || 1P Impact Damage Hi || High byte. ||
@@ -559,71 +592,155 @@ Weapons comes with a preloaded parameter and can actually be manipulated extensi
 
 ++ Figuring Out the Value Needed
 Soulcalibur III uses a multiplication of the power of 2. High value ({{HiByte}}) of 3F (63) and value ({{LoByte}}) of 80 (128), indicates 100%. With the exception of Regen and Swing Damage, the formula is as follows, in decimal:
-[[code]]
-IF ( LoByte < 128 ) THEN
-	VarA = (LoByte + 128) / 256
-	ELSE
-	VarA = (LoByte / 128)
-END IF
+{{IF ( LoByte < 128 ) THEN 	VarA = (LoByte + 128) / 256
+ELSE VarA = (LoByte / 128)}}
 
-Percentage =
-2 ^ ( ( HiByte - 63 ) * 2 *  VarA )
-[[/code]]
-
-Some examples (decimal):
-||~ HiByte||~ LoByte ||~ Percentage ||
-|| 61 || 204 || 10% ||
-|| 62 || 76 || 20% ||
-|| 62 || 153 || 30% ||
-|| 63 || 0 || 50% ||
-|| 63 || 25 || 60% ||
-|| 63 || 51 || 70% ||
-|| 63 || 76 || 80% ||
-|| 63 || 102 || 90% ||
-|| 63 || 128 || 100% ||
-|| 63 || 153 || 120% ||
-|| 63 || 166 || 130% ||
-|| 63 || 179 || 140% ||
-|| 153 || 190 || -30% ||
-
-For Swing Damage, the formula is same as above, but divided by 100 and discard the percentage. Some examples (decimal):
-||~ HiByte||~ LoByte ||~ Amount ||
-|| 63 || 128 || 1 (Swing damage) ||
-|| 64 || 128 || 4 (Swing damage) ||
-|| 64 || 160 || 5 (Swing damage) ||
-|| 192 || 64 || -3 (Swing heal) ||
-|| 192 || 0 || -2 (Swing heal) ||
+{{Percentage = 2 ^ ( ( HiByte - 63 ) * 2 *  VarA )}}
 
 For Regen, the formula is as follow, in decimal:
-[[code]]
-IF (HiByte>128) THEN
-	VarA = -1
-	ELSE
-	VarA = 1
-END IF
+{{IF (HiByte>128) THEN VarA = -1
+	ELSE VarA = 1}}
 
-IF(HiByte>128) THEN
-	VarB =128
-	ELSE
-	VarB = 0
-END IF
+{{IF(HiByte>128) THEN VarB =128
+ELSE VarB = 0}}
 
-IF ( LoByte < 128 ) THEN
-	VarC = (Byte + 128) / 256
-	ELSE
-	VarC = (LoByte / 128)
-END IF
+{{IF ( LoByte < 128 ) THEN VarC = (Byte + 128) / 256
+ELSE VarC = (LoByte / 128)}}
 
-Percentage = 100 * ROUNDUP( VarA * 2 ^ ( ( HiByte - 63 - VarB * 2 ) * VarC , 2 )
-[[/code]]
+{{RegenPercentage = 100 * ROUNDUP( VarA * 2 ^ ( ( HiByte - 63 - VarB * 2 ) * VarC , 2 )}}
 
-Some examples (decimal):
-||~ HiByte||~ LoByte ||~ Amount ||
-|| 61 || 8 || 4 (Regen) ||
-|| 61 || 76 || 5 (Regen) ||
-|| 189 || 76 || -5 (Drain) ||
-|| 189 || 136 || -7 (Drain) ||
++++ Percentage Example Values in Hexadecimal
+||~ LoByte||~ HiByte ||~ Percentage ||~ Regen ||
+|| 00 || BF || -50% || -50 ||
+|| E6 || BE || -45% || -45 ||
+|| E2 || BE || -44% || -44 ||
+|| CD || BE || -40% || -40 ||
+|| B3 || BE || -35% || -35 ||
+|| 99 || BE || -30% || -30 ||
+|| 80 || BE || -25% || -25 ||
+|| 4C || BE || -20% || -20 ||
+|| CC || BD || -10% || -10 ||
+|| 88 || BD || -7% || -7 ||
+|| 4C || BD || -5% || -5 ||
+|| 88 || BC || -2% || -2 ||
+|| 88 || 3C || 2% || 2 ||
+|| 08 || 3D || 3% || 3 ||
+|| 4C || 3D || 5% || 5 ||
+|| CC || 3D || 10% || 10 ||
+|| 19 || 3E || 15% || 15 ||
+|| 4C || 3E || 20% || 20 ||
+|| 80 || 3E || 25% || 25 ||
+|| 99 || 3E || 30% || 30 ||
+|| B3 || 3E || 35% || 35 ||
+|| CC || 3E || 40% || 40 ||
+|| E6 || 3E || 45% || 45 ||
+|| FF || 3E || 50% || 50 ||
+|| 0D || 3F || 55% || 55 ||
+|| 19 || 3F || 60% || 60 ||
+|| 26 || 3F || 65% || 65 ||
+|| 33 || 3F || 70% || 70 ||
+|| 40 || 3F || 75% || 75 ||
+|| 4C || 3F || 80% || 80 ||
+|| 59 || 3F || 85% || 85 ||
+|| 66 || 3F || 90% || 90 ||
+|| 73 || 3F || 95% || 95 ||
+|| 80 || 3F || 100% || 100 ||
+|| 86 || 3F || 105% || 105 ||
+|| 8C || 3F || 109% || 109 ||
+|| 8D || 3F || 110% || 110 ||
+|| 93 || 3F || 115% || 115 ||
+|| 99 || 3F || 120% || 120 ||
+|| A0 || 3F || 125% || 125 ||
+|| A6 || 3F || 130% || 130 ||
+|| AD || 3F || 135% || 135 ||
+|| B3 || 3F || 140% || 140 ||
+|| B9 || 3F || 145% || 145 ||
+|| C0 || 3F || 150% || 150 ||
+|| C7 || 3F || 155% || 155 ||
+|| CD || 3F || 160% || 160 ||
+|| D3 || 3F || 165% || 165 ||
+|| D9 || 3F || 170% || 170 ||
+|| E0 || 3F || 175% || 175 ||
+|| E6 || 3F || 180% || 180 ||
+|| ED || 3F || 185% || 185 ||
+|| F9 || 3F || 195% || 195 ||
+|| 00 || 40 || 200% || 200 ||
+|| 06 || 40 || 209% || 209 ||
 
+
++++ Percentage Example Codes
+++++ 1P Power at 200% 
+{{004B4C32 00000000}} ➡️ 1P Power LoByte
+{{004B4C33 00000040}} ➡️ 1P Power HiByte
+++++ 1P Defense at 50% (Takes 50% Damage)
+{{004B4C36 000000FF}} ➡️ 1P Defense LoByte
+{{004B4C37 0000003E}} ➡️ 1P Defense HiByte
+++++ 1P Impact Chance at 100%.
+This still has to be activated in-battle by unknown ritual. Crouching twice and sidestep seems to do the trick.
+{{004B4C56 00000080}} ➡️ 1P Impact Chance LoByte
+{{004B4C57 0000003F}} ➡️ 1P Impact Chance HiByte
+
++++ Regen Example Codes
+++++ 1P Regains 5 HP per tick
+{{004B4C6E 0000004C}} ➡️ 1P Regen LoByte
+{{004B4C6F 000000BD}} ➡️ 1P Regen HiByte
+++++ 1P Lose 5 HP per tick
+{{004B4C6E 0000004C}} ➡️ 1P Regen LoByte
+{{004B4C6F 0000003D}} ➡️ 1P Regen HiByte
+
++++ Swing Example Values in Hexadecimal
+For Swing Damage, the formula is same as above, but divided by 100 and discard the percentage. **Minus values is heal each swing**
+
+||~ LoByte||~ HiByte ||~ Amount ||
+|| A0 || C1 || -20 ||
+|| 98 || C1 || -19 ||
+|| 90 || C1 || -18 ||
+|| 88 || C1 || -17 ||
+|| 80 || C1 || -16 ||
+|| 70 || C1 || -15 ||
+|| 60 || C1 || -14 ||
+|| 50 || C1 || -13 ||
+|| 40 || C1 || -12 ||
+|| 30 || C1 || -11 ||
+|| 20 || C1 || -10 ||
+|| 10 || C1 || -9 ||
+|| 00 || C1 || -8 ||
+|| E0 || C0 || -7 ||
+|| C0 || C0 || -6 ||
+|| A0 || C0 || -5 ||
+|| 80 || C0 || -4 ||
+|| 40 || C0 || -3 ||
+|| 00 || C0 || -2 ||
+|| 80 || BF || -1 ||
+|| 00 || 0 || 0 ||
+|| 80 || 3F || 1 ||
+|| 00 || 40 || 2 ||
+|| 40 || 40 || 3 ||
+|| 80 || 40 || 4 ||
+|| A0 || 40 || 5 ||
+|| C0 || 40 || 6 ||
+|| E0 || 40 || 7 ||
+|| 00 || 41 || 8 ||
+|| 10 || 41 || 9 ||
+|| 20 || 41 || 10 ||
+|| 30 || 41 || 11 ||
+|| 40 || 41 || 12 ||
+|| 50 || 41 || 13 ||
+|| 60 || 41 || 14 ||
+|| 70 || 41 || 15 ||
+|| 80 || 41 || 16 ||
+|| 88 || 41 || 17 ||
+|| 90 || 41 || 18 ||
+|| 98 || 41 || 19 ||
+|| A0 || 41 || 20 ||
+
++++ Swing Example Codes
+++++ 1P Heals 10 HP per swing
+{{004B4C72 00000020}} ➡️ 1P Swing LoByte
+{{004B4C73 000000C1}} ➡️ 1P Swing HiByte
+++++ 1P Takes 10 HP per swing
+{{004B4C72 00000020}} ➡️ 1P Swing LoByte
+{{004B4C73 00000041}} ➡️ 1P Swing HiByte
 
 + CaS Profile & Weapon Exhibition Guide
 You can have your own CaS in Profile and Weapon Exhibition with a usage of several modification codes and some light tinkering. Shown below is Spica (Tamborine) Weapon Demonstration. 
@@ -635,16 +752,16 @@ Setup a joker command to select Memory Card 1 Slot 1. In the below case, [[i|ct 
 {{D046DBA2 0000FCFE}} ➡️ This is the Joker Command
 {{004B4860 00000060}} ➡️ This is the character modifier code
 
-[[include component:alert
+[[include comp:alert
 |type=info
 |icon=fa fa-info-circle
-|text=CaS's moveset is determined by the last CaS moveset you choose. Digit 60 and 61 are both independent and can store separate moveset.
+|text=CaS's moveset is determined by the last CaS moveset you choose. Digit 60 and 61 are both independent and can store separate moveset. Although digit 70 and 71 represent Memory Card 2 Slot 1 and 2, they aren't stored well cross-modes. More often then not, they will not work.
 ]]
 
-[[include component:alert
+[[include comp:alert
 |type=warning
 |icon=fa fa-warning
-|text=Before performing this, ensure you view the CaS in Memory Card 1 Slot 1 at least once in any character selection screen, choosing a corresponding discipline as you do. If you edit the CaS in memory card 1 slot 1, you will need to re-view him/her once again. If you somehow forget this step, the internal memory will get screwed up and you may not be able select your CaS until you reset the game.
+|text=Before performing the next step, ensure you view the CaS in Memory Card 1 Slot 1 at least once in any character selection screen. Training Mode, for example, choosing a corresponding discipline as you do. If you edit the CaS in Memory Card 1 Slot 1, you will need to view them in selection screen once again. If you skip this step, the internal memory will get screwed up and you may not be able select your CaS until you reset the game.
 ]]
 
 Once you done with these set-ups, activate the code with the joker command on character selection screen on Character Profile or Weapon Exhibition. Your character should now be displayed instead of the standard character in both modes, simply select him/her to view the CaS Profile or Weapon Exhibition.
@@ -678,18 +795,16 @@ Second, you must be familiar with the swap technique in CaS Profile and Weapon E
 Third, you must use 2P character modifier to make appearance for another character. In addition, there are also 3P and 4P character modifiers:
 
 **3P Character Modifier**
-00DC1120 00??
+{{00DC1120 00??}}
 
 **4P Character Modifier**
-00DDE8A0 00??
+{{00DDE8A0 00??}}
 
-[[include component:alert
+[[include comp:alert
 |type=warning
 |icon=fa fa-warning
 |text=Tampering with 3P and 4P code outside the event, will usually mess up your game.
 ]]
-
-From all endings that have been tested, 4P is only used for Siegfried's ending (there are three Nightmares there), unless you want to change the mooks.
 
 Fourth, you can only swap CaS in digit 60 and 61 into the endings. Swapping in CotS characters have been tried but it does not appear to be working. Also, all non-ending sequence 2P are not swappable. Example: if you try to swap the Tira who jump to your raft, the game will crash.
 

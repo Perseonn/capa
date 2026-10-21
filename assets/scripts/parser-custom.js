@@ -3,6 +3,7 @@
  * =============== =============== =============== ===============
  */
 import fs from "fs";
+import path from "path";
 import { CONTENT_DIR } from "../../config.js";
 
 export const customInlineParsers = [

@@ -937,7 +937,7 @@ While it sounds annoying, it's still better than Devil Survivor's (every battle 
 || 32 || 20 || Dark Sweep ||  || Not the real Dark Sweep. This is a placeholder skill when you mastered Psycho Crack, which does not happen in the game. Starting from this digit, all skills behave like "????" skills cycle from Psycho Crack, to Trump Card. ||
 || 255 || FF || Nothing ||  ||  ||
 
-[[include component:alert
+[[include comp:alert
 |type=info
 |icon=fa fa-info-circle
 |text=ATP are just estimation, and might not be completely accurate, but it gives an estimation on how strong the skill is. ATPs are estimated using full force Jack doing the skill 10 times and averaged, then compared to his normal attack on same condition. All tested on the same enemy.
@@ -1126,13 +1126,13 @@ While it sounds annoying, it's still better than Devil Survivor's (every battle 
 || 109 || 6D || Senseless ||  || Unusable in battle, unknown effect ||
 || 255 || FF || Nothing ||  ||  ||
 
-[[include component:alert
+[[include comp:alert
 |type=info
 |icon=fa fa-info-circle
 |text=ATP are just estimation, and might not be completely accurate, but it gives an estimation on how strong the skill is. ATPs are estimated using full force Cecilia doing the skill 10 times and averaged, then compared to her SOR, which at the time, was 39. For example, Lucky Shot, averages at 39 damage, which is 100% of Cecilia's SOR, thus 100 ATP. Something with absurd ATP like Hi-Saint, averages at 4032 damage.
 ]]
 
-[[include component:alert
+[[include comp:alert
 |type=warning
 |icon=fa fa-warning
 |text=Digits other than listed have no name, many have massive MP usage (>100), and crashes the game.

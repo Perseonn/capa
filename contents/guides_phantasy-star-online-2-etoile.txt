@@ -4,7 +4,7 @@
 
 This is a laid-back guide intended to help people optimizing their Etoile usage! Rather than flail around with Etoile weaponry, utilize combos to better your output!
 
-[[include component:pso2-nav]]
+[[include comp:pso2-nav]]
 
 [[div class="alert alert-info"]]
 [[span class="fa fa-exclamation-circle"]]@<&nbsp;>@[[/span]] **Changelog**
@@ -142,7 +142,7 @@ For example:
 To know the basics of Double Saber, please do the Etoile Training Quest on Double Saber. Double Saber (DS) is a balanced weapon in both offense and defense. You're expected to counter each incoming attacks with its **Weapon Action, Deflect** which does a lot of damage. Getting hit a lot means you cannot spend gear to use Enhanced Normal or Enhanced Quick Take to inflict damage and restore PP.
 
 [[div class="row"]]
-[[include component:pso2-pros-cons
+[[include comp:pso2-pros-cons
 |pros=* Balanced damage among all PA, making it easier to pickup
 * Has the only instant-point attack, the Shooting Star
 * Able to counterattack anytime using Weapon Action, even in middle of PA
@@ -197,7 +197,7 @@ To know the basics of Double Saber, please do the Etoile Training Quest on Doubl
 To know the basics of Dual Blade, please do the Etoile Training Quest on Dual Blade. Dual Blade (DB) or Soaring Blade are a more defensive weapon, as it allows you to use its **Weapon Action, Parry** anytime to guard an attack and gain some invulnerability. Blocking an attack does minimum damage to enemy and restores PP. You are expected to build gear as fast as possible and dish out it's gear attack, Full Connect, as many as possible to do damage. Without using Full Connect often, Dual Blade becomes a weak weapon.
 
 [[div class="row"]]
-[[include component:pso2-pros-cons
+[[include comp:pso2-pros-cons
 |pros=* Able to guard attacks almost anytime using Weapon Action
 * Guarding attacks restores PP
 * Normal attacks homes in on enemy
@@ -260,7 +260,7 @@ To know the basics of Wand, please do the Etoile Training Quest on Wand. Wand is
 
 
 [[div class="row"]]
-[[include component:pso2-pros-cons
+[[include comp:pso2-pros-cons
 |pros=* Able to move around even when using normal attacks and PAs making it easy to avoid damage when attacking
 * Each PA has a different use: a suction, an approach, an altitude riser, and a power attack
 * Has the only wide area attack
@@ -338,7 +338,7 @@ For damage purpose, Etoile uses S-ATK. If you want PP, you'll use the Liberate s
 ++ Weapons
 As with units, use whatever's available. The weapons listed below are more less, commonly used and/or easy to obtain. If you struggle to obtain a ★15, Atra Ex and Austere can be made easily.
 
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=Reminder to transfer your S-Class Abilities, not use the weapon as fodder!
 ]]
 

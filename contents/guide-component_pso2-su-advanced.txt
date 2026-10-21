@@ -1,6 +1,6 @@
 + Advanced Summoner
 
-[[include component:pso2-manaka
+[[include comp:pso2-manaka
 |content=Wow, you've reached this far! Have you been learning to do pet's PA combos? If not, they are up there!]]
 
 ++ Units

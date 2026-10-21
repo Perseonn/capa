@@ -6,7 +6,7 @@ Starting 2019, Phantasy Star Online 2 started a short anime series based on its 
 
 On 8 September 2020 PSO2 Station Plus stream, Sega announced their plan to remove all episode of Puso Ni Comi from both YouTube and Niconico.
 
-[[include component:pso2-nav]]
+[[include comp:pso2-nav]]
 
 + Downloads
 Without further ado, the button below will link to Dropbox where you can download the subbed anime in MKV format, under the banner of Manaka Sub. The source was the YouTube video, so please excuse the quality. The link was previously Google Drive, but I now use Drive solely for working, so I moved this to a more private Dropbox.

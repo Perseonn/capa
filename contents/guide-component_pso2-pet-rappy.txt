@@ -1,6 +1,6 @@
-[[include component:pso2-pet-profile-1]]
+[[include comp:pso2-pet-profile-1]]
 [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/PetRappyIcon.png class="w-100"]]
-[[include component:pso2-pet-profile-2
+[[include comp:pso2-pet-profile-2
 |pet-name=Rappy
 |pet-description=An all-rounder pet, very friendly to newbies, although obtaining their eggs is not newbie friendly (Rare drop from XH Deus, Dragon, Omega Luther). Rappy invokes the Magikarp Power: its stat before L120 are not impressive, and has 250 points to fill on each stat of Pet Plus; Level 100 and 120 Rappy has attack differences of almost 400 points. They notably have strongest normal attacks, albeit smaller hit box. This is both blessing and a curse since it is more accurate to hit a weak point, but easier to miss moving enemies. They are also the only pet to have a healing PA.
 
@@ -12,7 +12,7 @@ Rappy is the best pet to abuse Braver sub's Attack Advance. Stacking Attack Adva
 ]]
 ||~ Personality ||~ Description ||
 || [[image http://capa.wdfiles.com/local--files/guide:phantasy-star-online-2-summoner/Personality.png class="pet-personality"]]Early Bird (はやおき) || Reduces stunned duration by 33%. All obtained Rappy eggs so far has only Super Early Bird (超はやおき) personality, which also boosts Rare Drop Rate by 5%. The same applies to ★14 version. ||
-[[include component:pso2-pet-profile-3
+[[include comp:pso2-pet-profile-3
 |pet-pros=* Suitable for all player skills
 * All-purpose pet
 * Has high Pwr
@@ -46,22 +46,22 @@ Rappy is the best pet to abuse Braver sub's Attack Advance. Stacking Attack Adva
 
 
 +++* Photon Arts / Combo
-[[include component:pso2-pet-pa |pa-icon=PA-Rappy-1|pa-name=Melody |pa-damage=9869 |pa-pp=20 |pa-frame=40 |pa-dps-normal=40 |pa-dps-god=62 |pa-dps-god-plus=67 |pa-dpp-normal=21 |pa-dpp-god=33 |pa-dpp-god-plus=36 |pa-remarks=* Creates a healing field similar to Resta, but can be stacked over and over.
+[[include comp:pso2-pet-pa |pa-icon=PA-Rappy-1|pa-name=Melody |pa-damage=9869 |pa-pp=20 |pa-frame=40 |pa-dps-normal=40 |pa-dps-god=62 |pa-dps-god-plus=67 |pa-dpp-normal=21 |pa-dpp-god=33 |pa-dpp-god-plus=36 |pa-remarks=* Creates a healing field similar to Resta, but can be stacked over and over.
 * Does not count as support Tech cast by player.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Rappy-2|pa-name=Drop |pa-damage=19790 |pa-pp=20 |pa-frame=45 |pa-dps-normal=71 |pa-dps-god=90 |pa-dps-god-plus=95 |pa-dpp-normal=43 |pa-dpp-god=55 |pa-dpp-god-plus=58 |pa-remarks=* A rudimentary area attack.
+[[include comp:pso2-pet-pa |pa-icon=PA-Rappy-2|pa-name=Drop |pa-damage=19790 |pa-pp=20 |pa-frame=45 |pa-dps-normal=71 |pa-dps-god=90 |pa-dps-god-plus=95 |pa-dpp-normal=43 |pa-dpp-god=55 |pa-dpp-god-plus=58 |pa-remarks=* A rudimentary area attack.
 * Primary DPS during Alter Ego with Rykros Staff.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Rappy-3|pa-name=Canon |pa-damage=13349 |pa-pp=15 |pa-frame=45 |pa-dps-normal=48 |pa-dps-god=67 |pa-dps-god-plus=72 |pa-dpp-normal=39 |pa-dpp-god=54 |pa-dpp-god-plus=58 |pa-remarks=* Recall PA.
+[[include comp:pso2-pet-pa |pa-icon=PA-Rappy-3|pa-name=Canon |pa-damage=13349 |pa-pp=15 |pa-frame=45 |pa-dps-normal=48 |pa-dps-god=67 |pa-dps-god-plus=72 |pa-dpp-normal=39 |pa-dpp-god=54 |pa-dpp-god-plus=58 |pa-remarks=* Recall PA.
 * Homing projectile that requires a target.
 * If there's no target, the missile will lauch straight upward.
 * Rappy is slow to return after performing the PA.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Rappy-4|pa-name=Sonic |pa-damage=56926 |pa-pp=20 |pa-frame=123 |pa-dps-normal=75 |pa-dps-god=82 |pa-dps-god-plus=83 |pa-dpp-normal=119 |pa-dpp-god=130 |pa-dpp-god-plus=133 |pa-remarks=* 6-hit attack.
+[[include comp:pso2-pet-pa |pa-icon=PA-Rappy-4|pa-name=Sonic |pa-damage=56926 |pa-pp=20 |pa-frame=123 |pa-dps-normal=75 |pa-dps-god=82 |pa-dps-god-plus=83 |pa-dpp-normal=119 |pa-dpp-god=130 |pa-dpp-god-plus=133 |pa-remarks=* 6-hit attack.
 * The PA will not start if Rappy does not hit a target.
 ]]
-[[include component:pso2-pet-pa |pa-icon=PA-Rappy-5|pa-name=End |pa-damage=100593 |pa-pp=40 |pa-frame=205 |pa-dps-normal=79 |pa-dps-god=83 |pa-dps-god-plus=84 |pa-dpp-normal=102 |pa-dpp-god=108 |pa-dpp-god-plus=109 |pa-remarks=* Charge for 151f (2.5s).
+[[include comp:pso2-pet-pa |pa-icon=PA-Rappy-5|pa-name=End |pa-damage=100593 |pa-pp=40 |pa-frame=205 |pa-dps-normal=79 |pa-dps-god=83 |pa-dps-god-plus=84 |pa-dpp-normal=102 |pa-dpp-god=108 |pa-dpp-god-plus=109 |pa-remarks=* Charge for 151f (2.5s).
 * Listed DPS is for a full charge.
 ]]
 
-[[include component:pso2-pet-pa-notes]]
+[[include comp:pso2-pet-pa-notes]]
