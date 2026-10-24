@@ -151,6 +151,16 @@
     },
     {
         "category": "articles",
+        "slug": "slow-news-day-at-push-square",
+        "sourceName": "articles_slow-news-day-at-push-square",
+        "url": "/articles/slow-news-day-at-push-square/",
+        "title": "Slow News Day at Push Square",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-10-17",
+        "wip": false
+    },
+    {
+        "category": "articles",
         "slug": "summer-of-ubume",
         "sourceName": "articles_summer-of-ubume",
         "url": "/articles/summer-of-ubume/",

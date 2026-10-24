@@ -441,6 +441,7 @@ blockquote{
 	font-size:inherit;
 	color: var(--color-dark-50);
 	border-left: 5px solid var(--color-capa-5);
+	padding-left: 0.5rem;
 }
 
 .contain,
