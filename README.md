@@ -1,5 +1,8 @@
 # CAPA Engine
-CAPA Engine is a proof-of-concept engine that generates static web pages from Wikidot backup source files (.txt). Repository is named after my http://capa.wikidot.com since it is used as base.
+CAPA Engine is a proof-of-concept engine that generates static web pages from Wikidot backup source files (.txt). Repository is named after my https://capa.wikidot.com since it is used as base.
+
+## Result
+Visit https://capa.asoh.xyz for the conversion result. It's hosted on Github Pages.
 
 ## Requirements
 * [Node.js](https://nodejs.org/) 18 or newer
