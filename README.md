@@ -84,7 +84,7 @@ The workflow uses 3 active javascript files + 1 pending deletion:
 
 ### Custom Syntax
 1. Link `[[link /sample | caption | class]]`.
-2. Image `[[image sample.png | caption | class]]`, by default uses the `assets/category/page-name/` structure as mentioned in Workflow #6. Images are not inline! if you want inline images such as for icons, use `[[icon]]`.
+2. Image `[[image sample.png | caption | class]]`, by default uses the `assets/category/page-name/` structure as mentioned in Workflow #6. Images changes behavior when used as block or inline. If you use images at astart of a line, it will be considered block image and if there's caption, will be contained in a `<figure>`. If you use images in a middle of a line, including `[[a]]` it will be considered in-line image. Despite having a custom implementation, image codes are located in `scripts/parse-wikidot.js`
 3. Youtube `[[youtube id]]`, customizable via `contents/_youtube.html`
 4. Anchor Target `[[#go-to-here]]` that generates empty `<span id="#go-to-here"></span>` that can be followed to using `[[a href="#go-to-here"]][[/a]]`, to reduce dependency to the ToC.
 5. Icon `[[i | class]]` that generates `<i class="class"></i>`. Use with CSS `i{font-style: normal;}` to prevent italics.
@@ -109,13 +109,14 @@ Source files can have custom metas. If no metas are assigned, default meta will 
 8. Website's URL needs to be changed in `config.js`, line `const SITE_URL = "";`
 9. Default meta can be changed in `config.js`, line `const default_title = "";`, `const default_author = "";`, `const default_updated = "";`
 
-### Additional Scripts and CSS Files
+### Additional Files
 These files are independent of the CAPA engine and not required outside the CAPA website itself.
 1. Bootstrap is provided by `assets/css/bootstrap.min.css`, and `assets/scripts/bootstrap.bundle.min.js`. Both are loaded by `contents/_layout.html`.
 2. Font Awesome is provided by `assets/css/fontawesome-all.min.css`, and 4 font files under `assets/webfonts/fa-....woff2`. The CSS is loaded by `contents/_layout.html`.
 3. CAPA's custom move ToC to Nav is provided by `assets/scripts/capa-move-toc-to-nav.js`. Loaded by `contents/_layout.html`.
 4. CAPA's custom drawer navigation is provided by `assets/scripts/capa-nav-drawer.js`. Loaded by `contents/_layout.html`.
 5. CAPA's custom controller CSS is provided by `assets/css/capa-controller.css`, and 2 font files under `assets/webfonts/capa-controller-ps4.otf` and `assets/webfonts/capa-controller.ttf`
+6. `dist\google....html` is CAPA's Google Search Console files. Please remove it if you are using your own Google Search method.
 
 ## Default HTML for _layout.html
 The following is the base HTML for `<body>` on `_layout.html`

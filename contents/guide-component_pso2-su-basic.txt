@@ -240,7 +240,7 @@ Level up pet by using Egg Synthesis on Pet menu. L1 pet is only as frightening a
 
 
 ++++ Pet Plus
-A pet has extra HP, [[span class="icon triple stat-aatk]]MEL-RNG-TEC/S-R-T ATK[[/span]] and [[span class="icon stat-dex]]DEX[[/span]] to be raised. This is called Pet Plus, as seen on the figure below.
+A pet has extra HP, [[span class="icon triple stat-aatk"]]MEL-RNG-TEC/S-R-T ATK[[/span]] and [[span class="icon stat-dex"]]DEX[[/span]] to be raised. This is called Pet Plus, as seen on the figure below.
 
 [[image info-s-pet-plus.avif | A Pet Plus of a Rappy, not yet maximized.]]
 

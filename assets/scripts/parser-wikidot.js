@@ -22,10 +22,10 @@ export function escapeHtml(text) {
 
 const wikidotInlineParsers = [
     /*
-     * Custom Anchor Open [[a href="" class="" style=""]]text[[/a]]
+     * Anchor Open [[a href="" class="" style=""]]
     */
     {
-        name: "custom-anchor-open",
+        name: "anchor-open",
         regex: /^\[\[a\s+([^\]]+)\]\]/,
 
         render: (match) => {
@@ -52,30 +52,68 @@ const wikidotInlineParsers = [
             return `<a ${renderedAttributes}>`;
         }
     },
+    /*
+     * Anchor Close [[/a]]
+     */
     {
-        name: "custom-anchor-close",
+        name: "anchor-close",
         regex: /^\[\[\/a\]\]/,
 
         render: () => "</a>"
     },
-
     /*
-     * Span [[span]]text[[/span]] [[span class="foo"]]text[[/span]]
+     * Span Open [[span]]
      */
     {
-        name: "span",
-        regex: /^\[\[span(?:\s+class="([^"]+)")?\]\]([\s\S]*?)\[\[\/span\]\]/,
+        name: "span-open",
+        regex: /^\[\[span(?:\s+(?:class|style)="[^"]*")*\s*\]\]/,
 
-        render: (match, { parseInline, escapeHtml }) => {
-            const className = match[1];
-            const content = match[2];
-            const classAttribute = className
-                ? ` class="${escapeHtml(className)}"`
-                : "";
-            return `<span${classAttribute}>${parseInline(content)}</span>`;
+        render: (match, { escapeHtml }) => {
+            const attributes = {};
+            const attributeRegex = /(?:^|\s)(class|style)="([^"]*)"/g;
+
+            let attributeMatch;
+
+            while (
+                (attributeMatch = attributeRegex.exec(
+                    match[0].slice(6, -2)
+                )) !== null
+            ) {
+                attributes[attributeMatch[1]] = attributeMatch[2];
+            }
+
+            const classAttribute =
+                attributes.class !== undefined
+                    ? ` class="${escapeHtml(attributes.class)}"`
+                    : "";
+
+            const styleAttribute =
+                attributes.style !== undefined
+                    ? ` style="${escapeHtml(attributes.style)}"`
+                    : "";
+
+            return `<span${classAttribute}${styleAttribute}>`;
         }
     },
+    /*
+    * Span Close [[/span]]
+    */
+    {
+        name: "span-close",
+        regex: /^\[\[\/span\]\]/,
 
+        render: () => "</span>"
+    },
+    /*
+    * Inline Image [[image]] when followed by any characters
+    */
+    {
+        name: "image",
+        regex: /^\[\[image\s+(.+?)\]\]/,
+        render: (match, { sourceName }) => {
+            return parseImage(match[0], sourceName, true);
+        }
+    },
     /*
     * Color ##FAFAFF|text##
     */
@@ -179,12 +217,34 @@ const wikidotInlineParsers = [
 ];
 
 
-export function parseInline(text) {
+export function parseInline(text, customParsers = customInlineParsers, sourceName = "") {
     let result = "";
     let remaining = text;
 
     while (remaining.length > 0) {
         let matched = false;
+
+        /*
+         * ----------------------------------------------------
+         * Inline images
+         * ----------------------------------------------------
+         */
+
+        const imageMatch = remaining.match(/^\[\[image\s+(.+?)\]\]/);
+
+        if (imageMatch) {
+            const image = parseImage(
+                imageMatch[0],
+                sourceName,
+                true
+            );
+
+            if (image !== null) {
+                result += image;
+                remaining = remaining.slice(imageMatch[0].length);
+                continue;
+            }
+        }
 
         /*
          * ----------------------------------------------------
@@ -202,13 +262,12 @@ export function parseInline(text) {
             result += parser.render(
                 match,
                 {
-                    parseInline,
+                    parseInline: content => parseInline(content, sourceName),
                     escapeHtml
                 }
             );
 
             remaining = remaining.slice(match[0].length);
-
             matched = true;
             break;
         }
@@ -216,7 +275,6 @@ export function parseInline(text) {
         if (matched) {
             continue;
         }
-
 
         /*
          * ----------------------------------------------------
@@ -232,15 +290,14 @@ export function parseInline(text) {
             }
 
             result += parser.render(
-                match, 
+                match,
                 {
-                    parseInline,
+                    parseInline: content => parseInline(content, sourceName),
                     escapeHtml
                 }
             );
 
             remaining = remaining.slice(match[0].length);
-
             matched = true;
             break;
         }
@@ -249,16 +306,10 @@ export function parseInline(text) {
             continue;
         }
 
-
         /*
          * ----------------------------------------------------
          * Plain text
          * ----------------------------------------------------
-         *
-         * Consume one character.
-         *
-         * This guarantees that syntax appearing later in the
-         * string can still be detected.
          */
 
         result += escapeHtml(remaining[0]);
@@ -304,7 +355,7 @@ function parseHeading(line, customInlineParsers) {
 }
 
 
-/* 
+/*
  * =============== =============== =============== ===============
  * Tables
  * =============== =============== =============== ===============
@@ -324,24 +375,36 @@ function parseTable(lines, startIndex, customInlineParsers) {
         const line = lines[index].trim();
 
         const inner = line.slice(2, -2);
-        const cells = inner.split("||");
+        const rawCells = inner.split("||");
 
-        rows.push(
-            cells.map(cell => {
-                const trimmed = cell.trim();
+        const cells = [];
+        let colspan = 1;
 
-                const isHeader = trimmed.startsWith("~");
-                const content = isHeader
-                    ? trimmed.slice(1).trim()
-                    : trimmed;
+        for (const rawCell of rawCells) {
+            const trimmed = rawCell.trim();
 
-                return {
-                    isHeader,
-                    content: parseInline(content, customInlineParsers)
-                };
-            })
-        );
+            // An empty segment represents an additional colspan.
+            if (trimmed === "") {
+                colspan++;
+                continue;
+            }
 
+            const isHeader = trimmed.startsWith("~");
+            const content = isHeader
+                ? trimmed.slice(1).trim()
+                : trimmed;
+
+            cells.push({
+                isHeader,
+                colspan,
+                content: parseInline(content, customInlineParsers)
+            });
+
+            // Reset for the next cell.
+            colspan = 1;
+        }
+
+        rows.push(cells);
         index++;
     }
 
@@ -352,8 +415,11 @@ function parseTable(lines, startIndex, customInlineParsers) {
 
         for (const cell of row) {
             const tag = cell.isHeader ? 'th' : 'td';
+            const span = cell.colspan > 1
+                ? ` colspan="${cell.colspan}"`
+                : '';
 
-            html += `        <${tag}>${cell.content}</${tag}>\n`;
+            html += `        <${tag}${span}>${cell.content}</${tag}>\n`;
         }
 
         html += '    </tr>\n';
@@ -451,11 +517,12 @@ function parseList(lines, startIndex, customInlineParsers) {
 
 /* 
  * =============== =============== =============== ===============
- * Images [[image | title | class]]
+ * Images [[image | title | class]] Image changes behavior when used as inline or block
  * =============== =============== =============== ===============
  */
 
-function parseImage(line, sourceName) {
+
+function parseImage(line, sourceName, inline = false) {
     const match = line.match(
         /^\[\[image\s+(.+?)\]\]$/
     );
@@ -487,13 +554,15 @@ function parseImage(line, sourceName) {
     }
 
     const classAttribute = className
-        ? `${escapeHtml(className)}`
+        ? escapeHtml(className)
         : "";
 
     const alt = title || filename.split("/").pop();
+
     const img = `<img class="img-fluid ${classAttribute}" src="${escapeHtml(src)}" alt="${escapeHtml(alt)}">`;
 
-    if (!title) {
+    // Inline images must not generate block-level figures.
+    if (inline || !title) {
         return img;
     }
 
@@ -931,7 +1000,7 @@ export function parseWikidot(source, sourceName, customInlineParsers = [], tocOv
         }
 
         const text = paragraph.join("%%LINEBREAK%%"); // Trying to add <br> if lines are close to each other. default value was " "
-        const parsedFirst = parseInline(text, customInlineParsers);
+        const parsedFirst = parseInline(text, customInlineParsers, sourceName);
         const parsed = parsedFirst.replaceAll("%%LINEBREAK%%", "<br>\n");
 
         // Skip paragraphs that contain no meaningful content.
@@ -1166,7 +1235,7 @@ export function parseWikidot(source, sourceName, customInlineParsers = [], tocOv
          */
         if (insideDivUnderscore) {
             const text = line.trim();
-            const parsed = parseInline(text, customInlineParsers);
+            const parsed = parseInline(text, customInlineParsers,sourceName);
 
             if (parsed.trim() !== "") {
                 output.push(parsed);
