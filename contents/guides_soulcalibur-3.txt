@@ -264,13 +264,21 @@ The result will be Shiun.
 This code changes all color palette to a secret palette that will allow you to:
 # Freely alter your custom character's underwear/underclothing color to most available colors on the standard color palette (including skin tones).
 # Use a set of new, multi shaded, and brighter colors for most clothing items. This also works on standard characters, though results are not till you exit.
-[[xinclude :fiction:common:alert |type=warning |icon=warning |text=This code has very limited usage. It will screw up your current character's colors (rectifiable, at many times), and the individual shade colors on multi-shaded effect cannot be edited.]]
+[[include comp:alert
+|type=warning
+|icon=fa fa-warning
+|text=This code has very limited usage. It will screw up your current character's colors (rectifiable, at many times), and the individual shade colors on multi-shaded effect cannot be edited.
+]]
 
 **Standard Characters Color Restriction Remover**
 {{202D8E70 3C014000}}
 {{202D8E78 44817000}}
 Code that allows coloring all restricted parts in Standard Character Color Edit to skin tone or any other color. This will manipulate standard characters only.
-[[xinclude :fiction:common:alert |type=warning |icon=warning |text=Coloring hair a bright color may have a side effect that changes the character's face skin color, either leaving the hair color at default or color it to a dark or white color is recommended when using this code.]]
+[[include comp:alert
+|type=warning
+|icon=fa fa-warning
+|text=Coloring hair a bright color may have a side effect that changes the character's face skin color, either leaving the hair color at default or color it to a dark or white color is recommended when using this code.]
+]]
 
 + Moveset & Weapon Modifications
 ++ Weapon Swipe Color

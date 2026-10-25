@@ -46,7 +46,7 @@ The workflow uses 4 active javascript files:
 4. `assets/scripts/parser-custom.js`, the custom parser called by `assets/scripts/parser-wikidot.js`.
 
 ### Available Syntax
-1. General in-line syntax: `**bold**`, `//italic//`, `__underline__`, `--strikethrough--`, `{{monospaced}}`, `^^superscript ^^`, `,,subscript,,`, `##f0f0f0 | hex-only colors##`.
+1. General in-line syntax: `**bold**`, `//italic//`, `__underline__`, `--strikethrough--`, `{{monospaced}}`, `^^superscript^^`, `,,subscript,,`, `##f0f0f0 | hex-only colors##`.
 2. HTML syntax: `[[div]] [[/div]]`, `[[div_]] [[/div]]` (disables `<p>` wrappers), `[[a]] [[/a]]`, `[[span]] [[/span]]`. Currently only accepts `class=""` parameter.
 3. Headings from + to ++++
 4. Tables, using `|| ||` for table data and and `||~ ||` for Table Heading.
