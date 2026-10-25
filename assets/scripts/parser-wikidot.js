@@ -22,6 +22,23 @@ export function escapeHtml(text) {
 
 const wikidotInlineParsers = [
     /*
+    * HTML Comment Open [!--
+    */
+    {
+        name: "html-comment-open",
+        regex: /^\[!--/,
+        render: () => "<!--"
+    },
+
+    /*
+    * HTML Comment Close --]
+    */
+    {
+        name: "html-comment-close",
+        regex: /^--\]/,
+        render: () => "-->"
+    },
+    /*
      * Anchor Open [[a href="" class="" style=""]]
     */
     {
@@ -1273,10 +1290,11 @@ export function parseWikidot(source, sourceName, customInlineParsers = [], tocOv
 
         /*
          * Normal paragraph
+         * Give exception to things between [[div_]] and [[/div]], [!-- comment open, and comment close --]
          */
-        if (insideDivUnderscore) {
+        if (insideDivUnderscore || /^\[!--|--\]/.test(line.trim())) {
             const text = line.trim();
-            const parsed = parseInline(text, customInlineParsers,sourceName);
+            const parsed = parseInline(text, customInlineParsers, sourceName);
 
             if (parsed.trim() !== "") {
                 output.push(parsed);
