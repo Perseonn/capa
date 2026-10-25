@@ -62,11 +62,11 @@ Further on this guide, a //<Joker Command>// before a code indicates the line wh
 || 0040 || Down ||
 || 0080 || Left ||
 
-[[include comp:alert
+[[[include comp:alert
 |type=info
 |icon=fa fa-info-circle
-|text=To use a combination of buttons instead of one single button, simply add all the buttons digits together. You can use Windows Calculator to help you, by setting it to Programmer mode, then HEX mode. Example, to use Square + L3, add up: 8000 + 0002 = 8002. Subtract FFFF with this number: FFFF - 8002 = 7FFD.
-]]
+|text=To use a combination of buttons instead of one single button, simply add all the buttons digits together. You can use Windows Calculator to help you, by setting it to Programmer mode, then HEX mode. Example, to use [[i|ct s]][[i|ct plus]][[i|ct l2]], add up: 8000 + 0100 = 8100. Subtract FFFF with this number: FFFF - 8100 = 7EFF.
+]]]
 
 
 + Character Modifications

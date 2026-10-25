@@ -11,10 +11,13 @@ Visit https://capa.asoh.xyz for the conversion result. It's hosted on Github Pag
 
 ## Usage
 1. Clone or download the repository.
-  * Please be aware that the source text files (`contents/*.txt`) are under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
-  * Downloading and using them for testing is allowed, but publishing is not allowed. See License for details.
 2. Change website URL in `config.js`, line `const SITE_URL = "";` to the address of the future website.
-3. Run `npm run build` on the root folder to start building the pages.
+3. Run `npm run build` on the root folder to start building the pages into `/dist` folder.
+
+### Usage Notes on CAPA Source files
+* Please be aware that the source text files (`contents/*.txt`) are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+* You may download and use these files for testing. However, redistribution must comply with the license terms. See the License section for details.
+* CAPA Engine can be used with your own Wikidot backup files. The licensing restrictions above apply to the included CAPA source content, not automatically to content you supply yourself.
 
 ## Documentation
 ### Engine Workflow
@@ -36,12 +39,11 @@ Visit https://capa.asoh.xyz for the conversion result. It's hosted on Github Pag
 9. `dist/_listPage.json`  will be generated automatically and will be used as a reference for ListPages.
 
 ### Engine Files
-The workflow uses 3 active javascript files + 1 pending deletion:
+The workflow uses 4 active javascript files:
 1. `build.js`, the main file for running the entire conversion engine.
 2. `config.js`, the configuration files for certain variables.
 3. `assets/scripts/parser-wikidot.js`, the main parser that handles the syntax listed below.
 4. `assets/scripts/parser-custom.js`, the custom parser called by `assets/scripts/parser-wikidot.js`.
-5. `assets/scripts/template.js`, a legacy template renderer from an earlier version of the engine.
 
 ### Available Syntax
 1. General in-line syntax: `**bold**`, `//italic//`, `__underline__`, `--strikethrough--`, `{{monospaced}}`, `^^superscript ^^`, `,,subscript,,`, `##f0f0f0 | hex-only colors##`.
@@ -81,12 +83,13 @@ The workflow uses 3 active javascript files + 1 pending deletion:
 ### Include Syntax and Workflow
 1. Using `[[include category:page-name]]` will take all the contents of `category:page-name.txt`, strip the `@meta`, and put it on the page that uses the include.
 2. Includes can be nested between `[[module ListPages]]` and `[[/module]]`
+3. Triple bracket include `[[[include category:page-name]]]` is provided for people who want to use double-bracket functions like `[[span]]` inside the include.
 
 ### Custom Syntax
 1. Link `[[link /sample | caption | class]]`.
-2. Image `[[image sample.png | caption | class]]`, by default uses the `assets/category/page-name/` structure as mentioned in Workflow #6. Images changes behavior when used as block or inline. If you use images at astart of a line, it will be considered block image and if there's caption, will be contained in a `<figure>`. If you use images in a middle of a line, including `[[a]]` it will be considered in-line image. Despite having a custom implementation, image codes are located in `scripts/parse-wikidot.js`
+2. Image `[[image sample.png | caption | class]]`, by default uses the `assets/category/page-name/` structure as mentioned in Workflow #6. Image changes behavior when used as block or inline. If you use images at a start of a line, it will be considered block image and if there's caption, will be contained in a `<figure>`. If you use images in a middle of a line, including `[[a]]` it will be considered inline image, and no `<figure>` will be generated if using caption. Despite having a custom implementation, image codes are located in `scripts/parse-wikidot.js`
 3. Youtube `[[youtube id]]`, customizable via `contents/_youtube.html`
-4. Anchor Target `[[#go-to-here]]` that generates empty `<span id="#go-to-here"></span>` that can be followed to using `[[a href="#go-to-here"]][[/a]]`, to reduce dependency to the ToC.
+4. Anchor Target `[[#go-to-here]]` that generates empty `<span id="go-to-here"></span>` that can be followed to using `[[a href="#go-to-here"]][[/a]]`, to reduce dependency to the ToC.
 5. Icon `[[i | class]]` that generates `<i class="class"></i>`. Use with CSS `i{font-style: normal;}` to prevent italics.
 
 
@@ -96,7 +99,7 @@ Source files can have custom metas. If no metas are assigned, default meta will 
 * `@author: Page Author`: Page Author.
 * `@updated: 2026-01-01`: Update date.
 * `@wip`: Sources with `@wip` will be rendered, but not included in ListPages.
-* `@description: something`: Overrides HTML meta `<title>` and its related entries. If not used, it will take first 100 characters from the page after meta.
+* `@description: something`: Overrides HTML meta `<meta name="description">` and its related entries. If not used, it will take first 100 characters from the page after meta.
 
 ### Customizable Files
 1. Page layout is customizable via `contents/_layout.html`.
@@ -142,7 +145,5 @@ The following is the base HTML for `<nav>` on `_nav.html`
 
 ## Default Syntax for Linking Image
 ```
-[[a href="/{$link}"]]
-[[image /{$image} | | {$image-class}]]
-[[/a]]
+[[a href="/{$link}"]][[image /{$image} | | {$image-class}]][[/a]]
 ```

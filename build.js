@@ -4,11 +4,6 @@ import { fileURLToPath } from "url";
 
 import { parseWikidot, escapeHtml } from "./assets/scripts/parser-wikidot.js";
 import {
-    renderArticlePage,
-    renderListingPage,
-    renderHomePage
-} from "./assets/scripts/template.js";
-import {
     DIST_DIR,
     CONTENT_DIR,
     SITE_URL,

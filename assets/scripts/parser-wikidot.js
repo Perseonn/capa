@@ -841,37 +841,67 @@ function stripIncludeMetadata(source) {
 }
 
 function parseIncludeParameters(includeContent) {
-    const sections = includeContent.split("|");
-    const pageSpec = sections.shift().trim();
-
-    // The target is the first word in the initial section.
-    const [target, ...inlineParameters] = pageSpec.split(/\s+/);
-
     const parameters = {};
 
-    function addParameter(parameterText) {
-        const equalsIndex = parameterText.indexOf("=");
+    // Find the target, ending at the first whitespace or pipe.
+    const targetMatch = includeContent.match(/^\s*([^|\s]+)/);
 
-        if (equalsIndex === -1) {
-            return;
+    if (!targetMatch) {
+        return { target: "", parameters };
+    }
+
+    const target = targetMatch[1];
+    const remainder = includeContent.slice(targetMatch[0].length);
+
+    // Split parameters on pipes outside nested [[...]] syntax.
+    const sections = [];
+    let current = "";
+    let bracketDepth = 0;
+
+    for (let i = 0; i < remainder.length; i++) {
+        if (remainder.startsWith("[[", i)) {
+            bracketDepth++;
+            current += "[[";
+            i++;
+            continue;
         }
 
-        const name = parameterText.slice(0, equalsIndex).trim();
-        const value = parameterText.slice(equalsIndex + 1).trim();
+        if (remainder.startsWith("]]", i) && bracketDepth > 0) {
+            bracketDepth--;
+            current += "]]";
+            i++;
+            continue;
+        }
+
+        if (remainder[i] === "|" && bracketDepth === 0) {
+            if (current.trim()) {
+                sections.push(current.trim());
+            }
+
+            current = "";
+            continue;
+        }
+
+        current += remainder[i];
+    }
+
+    if (current.trim()) {
+        sections.push(current.trim());
+    }
+
+    for (const section of sections) {
+        const equalsIndex = section.indexOf("=");
+
+        if (equalsIndex === -1) {
+            continue;
+        }
+
+        const name = section.slice(0, equalsIndex).trim();
+        const value = section.slice(equalsIndex + 1).trim();
 
         if (name) {
             parameters[name] = value;
         }
-    }
-
-    // Also accept parameters written beside the target.
-    for (const parameter of inlineParameters) {
-        addParameter(parameter);
-    }
-
-    // Wikidot-style pipe-separated parameters, including multiline ones.
-    for (const section of sections) {
-        addParameter(section);
     }
 
     return { target, parameters };
@@ -909,7 +939,7 @@ function resolveIncludePath(target) {
 
 function expandIncludes(source, includeStack = []) {
     const includePattern =
-        /(^|\n)([ \t]*)(\[\[include\b[\s\S]*?\]\])[ \t]*(?=\n|$)/gi;
+        /(^|\n)([ \t]*)(\[\[\[include\b[\s\S]*?\]\]\]|\[\[include\b[\s\S]*?\]\])[ \t]*(?=\n|$)/gi;
 
     return source.replace(
         includePattern,
@@ -919,8 +949,19 @@ function expandIncludes(source, includeStack = []) {
                 return wholeMatch;
             }
 
+            // Triple-bracket includes end with ]]].
+            // Double-bracket includes end with ]].
+            const isTripleBracket =
+                includeTag.startsWith("[[[include");
+
+            const prefixLength = isTripleBracket
+                ? "[[[include".length
+                : "[[include".length;
+
+            const suffixLength = isTripleBracket ? 3 : 2;
+
             const includeContent = includeTag
-                .slice("[[include".length, -2)
+                .slice(prefixLength, -suffixLength)
                 .trim();
 
             const { target, parameters } =
@@ -959,7 +1000,7 @@ function expandIncludes(source, includeStack = []) {
             includedSource = stripIncludeMetadata(includedSource);
 
             // Substitute {$parameter} placeholders.
-            // Wikidot parameter names may contain hyphens.
+            // Parameter names may contain hyphens.
             includedSource = includedSource.replace(
                 /\{\$([A-Za-z_][\w-]*)\}/g,
                 (placeholder, name) => parameters[name] ?? ""
