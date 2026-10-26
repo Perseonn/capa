@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://capa.asoh.xyz/sitemap.xml

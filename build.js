@@ -360,7 +360,9 @@ function applyPageTemplate(page, metadata, content, toc) {
 function buildSitemap(pages) {
     const urls = pages.map(page => ({
         url: page.type
-            ? `${SITE_URL}/${page.type}/${page.slug}/`
+            ? page.slug
+                ? `${SITE_URL}/${page.type}/${page.slug}/`
+                : `${SITE_URL}/${page.type}/`
             : `${SITE_URL}/`,
         updated: page.metadata?.updated ?? null
     }));
