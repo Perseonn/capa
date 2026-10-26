@@ -301,6 +301,16 @@
     },
     {
         "category": "comp",
+        "slug": "pso2-damage-evaluation",
+        "sourceName": "comp_pso2-damage-evaluation",
+        "url": "/comp/pso2-damage-evaluation/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "comp",
         "slug": "pso2-manaka",
         "sourceName": "comp_pso2-manaka",
         "url": "/comp/pso2-manaka/",
@@ -381,9 +391,19 @@
     },
     {
         "category": "comp",
-        "slug": "pso2-pros-cons",
-        "sourceName": "comp_pso2-pros-cons",
-        "url": "/comp/pso2-pros-cons/",
+        "slug": "pso2-wp-augment",
+        "sourceName": "comp_pso2-wp-augment",
+        "url": "/comp/pso2-wp-augment/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "comp",
+        "slug": "pso2-wp-mats",
+        "sourceName": "comp_pso2-wp-mats",
+        "url": "/comp/pso2-wp-mats/",
         "title": "New Page",
         "author": "Perseonn Balthasaar",
         "updated": "2026-01-01",
@@ -395,156 +415,6 @@
         "sourceName": "comp_splash",
         "url": "/comp/splash/",
         "title": "Component - Splash",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "guide-component",
-        "slug": "pso2-damage-evaluation",
-        "sourceName": "guide-component_pso2-damage-evaluation",
-        "url": "/guide-component/pso2-damage-evaluation/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "guide-component",
-        "slug": "pso2-pet-cery",
-        "sourceName": "guide-component_pso2-pet-cery",
-        "url": "/guide-component/pso2-pet-cery/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "guide-component",
-        "slug": "pso2-pet-maron",
-        "sourceName": "guide-component_pso2-pet-maron",
-        "url": "/guide-component/pso2-pet-maron/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "guide-component",
-        "slug": "pso2-pet-melon",
-        "sourceName": "guide-component_pso2-pet-melon",
-        "url": "/guide-component/pso2-pet-melon/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "guide-component",
-        "slug": "pso2-pet-rappy",
-        "sourceName": "guide-component_pso2-pet-rappy",
-        "url": "/guide-component/pso2-pet-rappy/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "guide-component",
-        "slug": "pso2-pet-redran",
-        "sourceName": "guide-component_pso2-pet-redran",
-        "url": "/guide-component/pso2-pet-redran/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "guide-component",
-        "slug": "pso2-pet-synchro",
-        "sourceName": "guide-component_pso2-pet-synchro",
-        "url": "/guide-component/pso2-pet-synchro/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "guide-component",
-        "slug": "pso2-pet-torim",
-        "sourceName": "guide-component_pso2-pet-torim",
-        "url": "/guide-component/pso2-pet-torim/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "guide-component",
-        "slug": "pso2-pet-viola",
-        "sourceName": "guide-component_pso2-pet-viola",
-        "url": "/guide-component/pso2-pet-viola/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "guide-component",
-        "slug": "pso2-pet-wanda",
-        "sourceName": "guide-component_pso2-pet-wanda",
-        "url": "/guide-component/pso2-pet-wanda/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "guide-component",
-        "slug": "pso2-su-advanced",
-        "sourceName": "guide-component_pso2-su-advanced",
-        "url": "/guide-component/pso2-su-advanced/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "guide-component",
-        "slug": "pso2-su-basic",
-        "sourceName": "guide-component_pso2-su-basic",
-        "url": "/guide-component/pso2-su-basic/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "guide-component",
-        "slug": "pso2-su-intermediate",
-        "sourceName": "guide-component_pso2-su-intermediate",
-        "url": "/guide-component/pso2-su-intermediate/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "guide-component",
-        "slug": "pso2-wp-augment",
-        "sourceName": "guide-component_pso2-wp-augment",
-        "url": "/guide-component/pso2-wp-augment/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "guide-component",
-        "slug": "pso2-wp-mats",
-        "sourceName": "guide-component_pso2-wp-mats",
-        "url": "/guide-component/pso2-wp-mats/",
-        "title": "New Page",
         "author": "Perseonn Balthasaar",
         "updated": "2026-01-01",
         "wip": false

@@ -26,7 +26,7 @@ Guides
 
 [[div class="col-12 col-lg-6 p-0"]]
 [[include comp:list-page-item
-|container-class=large-cards d-grid
+|container-class=large-cards
 |image=guides/guides-splash.avif
 |image-class=aspect-1x1
 |link=guides/
@@ -39,7 +39,7 @@ Guides
 [[div class="row list-page-item-row"]]
 [[module ListPages category="guides" order="updated_at desc" limit="4"]]
 [[include comp:list-page-item
-|container-class=col-6 col-lg-6 small-cards d-grid
+|container-class=col-6 col-lg-6 small-cards
 |image-container-class=bg-white-50 p-1 h-100
 |image-class=fit-contain position-logo-front-page h-100
 |image=%%fullname%%/%%name%%.avif
@@ -71,7 +71,7 @@ Articles
 
 [[div class="col-12 col-lg-6 p-0"]]
 [[include comp:list-page-item
-|container-class=large-cards d-grid
+|container-class=large-cards
 |image=articles/articles-splash.avif
 |image-class=aspect-1x1
 |link=articles/
@@ -84,7 +84,7 @@ Articles
 [[div class="row flex-fill list-page-item-row"]]
 [[module ListPages category="articles" order="updated_at desc" limit="4"]]
 [[include comp:list-page-item
-|container-class=col-6 col-lg-6 small-cards d-grid
+|container-class=col-6 col-lg-6 small-cards
 |image-container-class=h-100
 |image-class=fit-cover h-100
 |image=%%fullname%%/%%name%%-splash.avif

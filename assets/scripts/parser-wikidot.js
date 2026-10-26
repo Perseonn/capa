@@ -234,7 +234,7 @@ const wikidotInlineParsers = [
 ];
 
 
-export function parseInline(text, customParsers = customInlineParsers, sourceName = "") {
+export function parseInline(text, customParsers = customInlineParsers, sourceName="") {
     let result = "";
     let remaining = text;
 
@@ -340,7 +340,7 @@ export function parseInline(text, customParsers = customInlineParsers, sourceNam
 
 /* 
  * =============== =============== =============== ===============
- * Headings: H1 to H4
+ * Headings: H1 to H6
  * =============== =============== =============== ===============
  */
 
@@ -351,8 +351,8 @@ function createHeadingId() {
     return `heading-${headingIdCounter}`;
 }
 
-function parseHeading(line, customInlineParsers) {
-    const match = line.match(/^(\++)\s+(.+)$/);
+function parseHeading(line, customInlineParsers, sourceName) {
+    const match = line.match(/^(\+{1,6})\s+(.+)$/);
 
     if (!match) {
         return null;
@@ -360,14 +360,15 @@ function parseHeading(line, customInlineParsers) {
 
     const level = match[1].length;
     const rawText = match[2];
-    const text = parseInline(match[2], customInlineParsers);
+    const text = parseInline(match[2], customInlineParsers, sourceName);
     const id = createHeadingId();
 
     return {
         html: `<h${level} id="${id}">${text}</h${level}>`,
         level,
         id,
-        text: rawText
+        text: rawText,
+        parsedText: text
     };
 }
 
@@ -384,7 +385,7 @@ function isTableLine(line) {
 }
 
 
-function parseTable(lines, startIndex, customInlineParsers) {
+function parseTable(lines, startIndex, customInlineParsers, sourceName) {
     const rows = [];
     let index = startIndex;
 
@@ -414,7 +415,7 @@ function parseTable(lines, startIndex, customInlineParsers) {
             cells.push({
                 isHeader,
                 colspan,
-                content: parseInline(content, customInlineParsers)
+                content: parseInline(content, customInlineParsers, sourceName)
             });
 
             // Reset for the next cell.
@@ -692,7 +693,7 @@ export function renderToc(toc) {
         //Hide H4 and above from ToC
         .filter(item => item.level < 4)
         .map(item =>
-            `<a href="#${item.id}" class="toc-h${item.level}">${escapeHtml(item.text)}</a>`
+            `<a href="#${item.id}" class="toc-h${item.level}">${item.parsedText ?? escapeHtml(item.text)}</a>`
         ).join("\n");
 
     return template.replaceAll(
@@ -1180,7 +1181,7 @@ export function parseWikidot(source, sourceName, customInlineParsers = [], tocOv
         }
 
         /*
-         * Toc end
+         * Toc
          */
         if (line.trim() === "[[toc]]") {
             flushParagraph();
@@ -1198,7 +1199,8 @@ export function parseWikidot(source, sourceName, customInlineParsers = [], tocOv
          */
         const heading = parseHeading(
             line,
-            customInlineParsers
+            customInlineParsers,
+            sourceName
         );
 
         if (heading !== null) {
@@ -1207,7 +1209,8 @@ export function parseWikidot(source, sourceName, customInlineParsers = [], tocOv
             toc.push({
                 level: heading.level,
                 id: heading.id,
-                text: heading.text
+                text: heading.text,
+                parsedText: heading.parsedText
             });
             index++;
             continue;
@@ -1261,7 +1264,8 @@ export function parseWikidot(source, sourceName, customInlineParsers = [], tocOv
             const table = parseTable(
                 lines,
                 index,
-                customInlineParsers
+                customInlineParsers,
+                sourceName
             );
 
             output.push(table.html);
