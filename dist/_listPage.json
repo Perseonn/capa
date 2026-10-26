@@ -331,66 +331,6 @@
     },
     {
         "category": "comp",
-        "slug": "pso2-pet-pa-notes",
-        "sourceName": "comp_pso2-pet-pa-notes",
-        "url": "/comp/pso2-pet-pa-notes/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "comp",
-        "slug": "pso2-pet-pa-sample",
-        "sourceName": "comp_pso2-pet-pa-sample",
-        "url": "/comp/pso2-pet-pa-sample/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "comp",
-        "slug": "pso2-pet-pa",
-        "sourceName": "comp_pso2-pet-pa",
-        "url": "/comp/pso2-pet-pa/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "comp",
-        "slug": "pso2-pet-profile-1",
-        "sourceName": "comp_pso2-pet-profile-1",
-        "url": "/comp/pso2-pet-profile-1/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "comp",
-        "slug": "pso2-pet-profile-2",
-        "sourceName": "comp_pso2-pet-profile-2",
-        "url": "/comp/pso2-pet-profile-2/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "comp",
-        "slug": "pso2-pet-profile-3",
-        "sourceName": "comp_pso2-pet-profile-3",
-        "url": "/comp/pso2-pet-profile-3/",
-        "title": "New Page",
-        "author": "Perseonn Balthasaar",
-        "updated": "2026-01-01",
-        "wip": false
-    },
-    {
-        "category": "comp",
         "slug": "pso2-wp-augment",
         "sourceName": "comp_pso2-wp-augment",
         "url": "/comp/pso2-wp-augment/",
