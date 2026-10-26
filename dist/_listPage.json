@@ -631,6 +631,26 @@
     },
     {
         "category": "guides",
+        "slug": "samurai-warriors-1-xtreme-legends",
+        "sourceName": "guides_samurai-warriors-1-xtreme-legends",
+        "url": "/guides/samurai-warriors-1-xtreme-legends/",
+        "title": "Samurai Warriors: Xtreme Legends",
+        "author": "Buster Wolf",
+        "updated": "2026-10-21",
+        "wip": true
+    },
+    {
+        "category": "guides",
+        "slug": "samurai-warriors-1",
+        "sourceName": "guides_samurai-warriors-1",
+        "url": "/guides/samurai-warriors-1/",
+        "title": "Samurai Warriors",
+        "author": "Buster Wolf",
+        "updated": "2026-10-23",
+        "wip": true
+    },
+    {
+        "category": "guides",
         "slug": "samurai-warriors-5",
         "sourceName": "guides_samurai-warriors-5",
         "url": "/guides/samurai-warriors-5/",

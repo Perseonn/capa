@@ -1,0 +1,199 @@
+@title: Samurai Warriors: Xtreme Legends
+@author: Buster Wolf
+@updated: 2026-10-21
+@wip
+
+Samurai Warriors: Xtreme Legends is the first expansion for Samurai Warriors, as with all Xtreme Legends expansions it has its own content to separate itself from the vanilla game, this also marks the first time that new characters are added in an expansion instead of just the main vanilla game. To have all the content from the [[link /guide:samurai-warriors-1 | vanilla game]] Mixjoy is needed.
+
+Things to note
+* Enemies are now scaled by difficulty instead of by your characters level & stats.
+* Mixjoying with the vanilla game will change Hideyoshi, Yoshimoto & Tadakatsu to their playable appearance in the vanilla content.
+
++ Characters
+This will list the new characters added in Xtreme Legends, their titles as you level them up and what their initial and max stats are before purchasing the Character Level perk in the Special menu to break the limit.
+
+++ Hideyoshi Hashiba
+**Titles:** Humble Peasant, Crafty Warrior, 
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 150/ || 165/ || 52/ || 48/ || 60/ || 46/ || 60/ || 54/ || 120/ || 165/ || 155/ ||
+
+++ Yoshimoto Imagawa
+**Titles:** Royal Lord, Regal General, 
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 170/ || 180/ || 52/ || 50/ || 60/ || 48/ || 60/ || 48/ || 65/ || 100/ || 80/ ||
+
+++ Tadakatsu Honda
+**Titles:** Mikawa Warrior, War Master, 
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 165/ || 170/ || 58/ || 64/ || 60/ || 84/ || 64/ || 84/ || 90/ || 110/ || 100/ ||
+
+++ Ina
+**Titles:** Bow Maiden, Great Archer, 
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 155/ || 135/ || 52/ || 56/ || 70/ || 68/ || 52/ || 54/ || 105/ || 150/ || 135/ ||
+
++ Missions
+This will list the missions you are given during a stage for the new characters only, this will also detail how to go through the split path of the character to get each path in their Story Mode. Some battles are inside a castle rather than the field which is denoted after the stage name.
+++ Hideyoshi Hashiba
+
+++ Yoshimoto Imagawa
+
+++ Tadakatsu Honda
+
+++ Ina
+
++ 5th Weapons
+This will list how to get the 5th weapons of the new characters only, these must be done on Hard or Chaos unless you used bonus points to lower the difficulty to Normal or they are the "Lucky" character which also lower the difficulty by one.
+++ Hideyoshi Hashiba
+
+++ Yoshimoto Imagawa
+
+++ Tadakatsu Honda
+
+++ Ina
+
++ Ultimate Weapons
+this will list how to get the Ultimate (6th) weapons, these must be done on Chaos unless you used bonus points to lower the difficulty to Hard or they are the "Lucky" character which also lower the difficulty by one. The vanilla game is needed for anyone who isn't any of the new 4 characters added in this game. Note that once you earn a characters 6th weapon their 5th weapon will now have a chance to drop with different stats than what it originally had, it can potentially be better than the original or even better than their 6th.
+
+Yukimura Sanada
+
+Keiji Maeda
+
+Nobunaga Oda
+
+Mitsuhide Akechi
+
+Goemon Ishikawa
+
+Kenshin Uesugi
+
+Oichi
+
+Okuni
+
+++ Kunoichi
+* **Weapon Name:** Kaisen Kokuan Tennyo (Dark Heavenly Maiden of Destruction)
+* **Stats:** Base Attack 55, Ice Element, Life +44, Defense +66, Jump +42, Musou Charge +71
+* **Stage:** Summer Campaign of Osaka
+* **Requirement:** Fulfill all of the missions that show up with all of your generals still alive. Matsukaze Saddle and War Drum are a must. The supply team will appear from the map's center and head south; defeat the team captain for the weapon.
+
+Magoichi Saika
+
+Shingen Takeda
+
+Masamune Date
+
+Noh
+
+Hanzo Hattori
+
+Ranmaru Mori
+
+++ Hideyoshi Hashiba
+
+++ Yoshimoto Imagawa
+
+++ Tadakatsu Honda
+
+++ Ina
+
+New Officer (Sword)
+
+New Officer (Spear)
+
+New Officer (Naginata)
+
++ Items
+++ Normal
+Normal items are ones that boost your characters stats when equipped, these have had their cap increased from the vanilla game of +50 to +75.
+
+* Solar Gem (Life)
+* Moon Stone (Musou)
+* Power Bracer (Attack)
+* Himiko's Rune (Defense)
+* Vixen Tail (Musou Charge)
+* Tengu Sandals (Speed)
+* Hare Greaves (Jump)
+* Kappa Amulet (Luck)
+* Wind Gloves (Ranged Attack)
+* Cloak of Might (Ranged Defense)
+* Demon Staff (Horse Attack)
+* Serpent Bracer (Horse Defense)
+* Saddle (Horse Life), only works in Field maps.
+
+++ Unique (New)
+This is for the new Unique Items added in this game, for the other Unique Items you need the vanilla game in order to obtain them.
+Shinobi Shouzou 忍装束 Ninja Outfit
+Effect: Trap damage is nullified.
+How obtained: In Hashiba Hideyoshi's bottom route's Attack on Azuchi Castle
+              安土城攻-ｪ戦, on the third floor you will find a mission
+              where you must defeat one out of the 6 generals on the
+              floor to open the gate. To get this item, you must defeat
+              all five of the 'wrong' generals before defeating the right
+              one. Both times I did this, the 'right' general was Shibata
+              Katsuie, but it may be random. Once you defeat the 5 'wrong'
+              generals, defeat the 'right' one, and a precious item report
+              will appear. The item will be in the room with the spiral
+              staircase (ground level).
+
+Garyuu no Hirika 陰流之私 Shadow Flow
+Effect: Weapon deadlocks occur more easily.
+How obtained: In Imagawa Yoshimoto's bottom route's Dare at Honganji 本願寺
+              肝試, defeat Date Masamune and Maeda Keiji, then defeat Uesugi
+              Kenshin's generals. The Oda army will show up; defeat Oda
+              Nobunaga. Now Uesugi Kenshin will challenge you personally.
+              Simply start a weapon deadlock with him and win (there is no
+              need to win the whole way). The supply team will appear from
+              the eastern gate inside the castle and head southwards.
+
+++ War Baton
+* **Effect:** Attack increases, but Defense decreases.
+* **Requirement:** Play Versus mode (any type) 25 times.
+
+Wahou Honzousho 和方本草書 Japanese Medicine Guide
+Effect: Healing items dropped more often.
+How obtained: In Inahime's Attack on Osaka Castle 大阪城攻略戦, defeat
+              Takigawa Kazumasu 滝川一益, then defeat Kunoichi before she
+              traverses the ninja route close to your home base. The supply
+              team will appear at the east gate point just outside the
+              castle and head west.
+
+Ama no Iwatachi 天磐楯 Heaven's Rock Shield
+Effect: Ally commander much harder to kill.
+How obtained: In Honda Tadakatsu's Battle of Komaki Nagakute 小牧長久手の
+              戦い, complete all missions normally and the supply team
+              will appear from the east gate. Defeat the captain for the
+              win.
+
+
+Nigimitama 和御魂 Spirit of Japan
+Effect: Elemental attacks trigger even without full musou gauge.
+How obtained: In the Training Hall 練武館 mode of the Infinite Castle, you
+              can purchase this item for 50,000 ryou.
++ Bonus Points
+As you play the game completing stages, getting 100% mission completion and obtaining 5th & Ultimate weapons you are awarded bonus points which can be spent in the Special option in the Options menu. If you transfer your save from vanilla you will have the bonus points accumulated throughout your playtime, having 100% mission completion of vanilla will give a massive amount of bonus points.
+||~ Perk ||~ Effect ||~ Cost ||
+|| Character Level || Continue to increase stats past the normal max stats, Life/Musou can reach 300 while the rest can reach 200. || 1,000,000 ||
+|| Ultimate Weapon || 6th Weapons can now be obtainable on Hard instead of Chaos. || 100,000 ||
+|| 5th Weapon || 5th Weapons can now be obtainable on Normal instead of Hard or Chaos. || 20,000 ||
+|| Enemy Character Model || Playing in Costume 2 will show enemy officers in their Costume 2. || 10,000 ||
+|| Character Model || Unlock Costume 2 for everyone. || 2,000 ||
+|| Voice Test || Character quotes can be heard in the Sound menu. || 1,000 ||
+|| Save Icon || Save icon for the game will be changed when viewed in your memory card. || 500 ||
+You receive Bonus points based on what you do as you're playing.
+||~ What you do ||~ How many Bonus Points you get ||
+|| Lose in battle. || 200 ||
+|| Play VS Mode. || 200 ||
+|| Complete a battle victorious. || 400 ||
+|| Obtain a Rare Item. || 500 ||
+|| Complete New Officer Mode successfully. || 5,000 ||
+|| Unlock an Ending. ||  ||
+|| Get a 5th Weapon. ||  ||
+|| Get an Ultimate Weapon. ||  ||
+|| 100% Mission Completion total. ||  ||
++ Lucky Character
+A feature exclusive to Samurai Warriors: Xtreme Legends is that when the game is booted up someone will be considered "Lucky" and when hovering over them their character portrait will be Green instead of the normal Blue. This lucky character will generally get better items, weapons, and also during that playtime only can earn their 5th and 6th weapons at one difficulty level lower than normal. Thus, even if you did not spend the 100,000 points to lower the difficulty required to earn sixth weapons, the lucky character can still earn their weapon on Hard.

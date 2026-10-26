@@ -1,0 +1,565 @@
+@title: Samurai Warriors
+@author: Buster Wolf
+@updated: 2026-10-23
+@wip
+
+Samurai Warriors is the first mainline Samurai Warriors game being the sister series to Dynasty Warriors, this guide will go through mostly everything you can unlock throughout the game. A thing to know about this game unlike other Warriors game to date is that enemy stats scale to your level regardless of difficulty so they will always be a challenge, if I mention anything for [[link /guides/samurai-warriors-1-xtreme-legends | Xtreme Legends]] and you are on the vanilla game ignore it.
+
++ Stats
+While not all stats have been shown in the Dynasty Warriors games Samurai Warriors has it all visible, even the ones that would be internally kept like Range and Horse stats. Life & Musou cap at 300 while the rest all cap at 200, once a character hits Level 20 they can't gain anymore stats or Skill Points for learning skills. Unless you are on Xtreme Legends with the Character Level perk unlocked you can go past the characters normal limits listed below and can eventually reach every stat cap and hit the 99,999 Skill Points cap after Level 20. Everyone's initial stat will be on the left and their cap on the right, the stats are as followed.
+
+* Life - Your characters vitality, when it reach 0 you lose.
+* Musou - Unlike Dynasty Warriors, Musou slows down the action around you and can be done with your normal attacks as well instead of just holding the Musou Attack button, this determines the length of time Musou is active.
+* Attack - Damage dealt from the weapon in your hand.
+* Defense - Damage reduced from others weapons in their hands.
+* Ranged ATK - Damage dealt with projectiles such as Arrows, Shurikens, Cannon Fire & Musket Fire.
+* Ranged DEF - Damage reduced by projectiles such as Arrows, Shurikens, Cannon Fire & Musket Fire.
+* Horse ATK - Damage dealt while on Horseback.
+* Horse DEF - Damage reduced while on Horseback.
+* Speed - How fast you move.
+* Jump - How high you jump.
+* Agility - How far you roll when pressing evade.
+++ Raising Stats
+Your stats will increase based on your performance on the stage you have chosen with higher difficulty giving bigger bonuses, you are rated on the following
+* Clear Time - Horse Attack, Horse Defense & Speed
+* Item Exp Bonus - Ranged Attack & Ranged Defense
+* Mission Completion - Jump & Agility
+* Musou KOs - Attack & Defense
+This is also scaled with difficulty meaning playing on Chaos will give you the most stat gains, recommended after getting the character's 4th weapon and having items above +40. If you want the best stages for stats after resetting your character level Hanzo's ??? stage () for Clear Time and Mission Completion then Mitsuhide's 1st stage (Defense of Inabayama Castle) for Item Exp Bonus and Musou KOs.
++ Characters
+This will list how to unlock all 18 characters, while the order you unlock characters are shown in your select screen the characters are listed by index order as they're listed in Xtreme Legends. This goes over their titles as you level them up and what their initial and max stats are as well. For titles each character has 8 titles they can have these are at Level 1, Level 2-4, Level 5-7, Level 8-10, Level 11-13, Level 14-16, Level 17-19 & Level 20.
+++ Yukimura Sanada
+**Unlock:** Initial Unlock.
+**Titles:** Warrior in Red, Sanada's Hope, , Immortal Legend
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 150/270 || 170/295 || 50/172 || 60/194 || 56/170 || 60/190 || 56/170 || 60/190 || 100/180 || 135/175 || 130/180 ||
+
+++ Keiji Maeda
+**Unlock:** Clear Kenshin Uesugi's Story Mode.
+**Titles:** Wild One, Beast of Chaos, , Unbelievable
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 170/295 || 155/270 || 60/200 || 56/176 || 68/182 || 60/178 || 70/200 || 60/178 || 90/180 || 150/200 || 120/190 ||
+
+++ Nobunaga Oda
+**Unlock:** Clear Oichi, Magoichi Saika & Noh's Story Modes.
+**Titles:** Fool of Owari, The Upstart, , Demon Lord
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 150/270 || 170/295 || 54/176 || 56/190 || 60/174 || 56/186 || 64/178 || 68/198 || 100/180 || 135/175 || 120/170 ||
+
+++ Mitsuhide Akechi
+**Unlock:** Initial Unlock.
+**Titles:** Mino Nobleman, Man of Culture, Man of Honor, , Bringer of Peace
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 160/280 || 160/285 || 52/174 || 58/192 || 52/166 || 64/194 || 60/174 || 64/194 || 95/175 || 130/170 || 130/180 ||
+
+++ Goemon Ishikawa
+**Unlock:** Clear Kenshin Uesugi, Keiji Maeda & Okuni's story Modes.
+**Titles:** Outlaw, Rogue Ninja, , King of Thieves
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 175/300 || 135/250 || 58/196 || 50/170 || 76/200 || 44/162 || 56/186 || 44/162 || 50/140 || 115/165 || 80/150 ||
+
+++ Kenshin Uesugi
+**Unlock:** Initial Unlock.
+**Titles:** Adept General, Hero of Kasuga, , War God
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 165/290 || 140/255 || 56/194 || 54/174 || 68/166 || 48/166 || 70/200 || 48/166 || 60/150 || 105/155 || 80/150 ||
+
+++ Oichi
+**Unlock:** Initial Unlock.
+**Titles:** Tomboy Princess, Maiden of Owari, , Light of Hope
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 130/245 || 160/280 || 44/146 || 60/186 || 56/186 || 86/200 || 44/142 || 56/180 || 125/195 || 165/195 || 160/190 ||
+
+++ Okuni
+**Unlock:** Clear Keiji Maeda's Story Mode.
+**Titles:** Ingenue, Kyoto Dancer, , Diva
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 160/285 || 185/300 || 52/186 || 52/172 || 48/146 || 52/170 || 60/190 || 52/170 || 65/155 || 105/155 || 75/145 ||
+
+++ Kunoichi
+**Unlock:** Clear Yukimura Sanada & Shingen Takeda's Story Modes.
+**Titles:** Ueda Ninja, Elite Ninja, , Moon Goddess
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 125/240 || 140/260 || 44/148 || 48/174 || 60/190 || 64/188 || 52/150 || 64/188 || 130/200 || 180/200 || 170/200 ||
+
+++ Magoichi Saika
+**Unlock:** Clear a Story Mode.
+**Titles:** Loner, Mercenary, , Perfect Shot
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 150/270 || 135/250 || 50/170 || 56/190 || 72/200 || 70/200 || 56/170 || 60/190 || 90/170 || 125/165 || 120/170 ||
+
+++ Shingen Takeda
+**Unlock:** Clear Yukimura Sanada's Story Mode.
+**Titles:** Monk Lord, Koushuu Warlord, , Chosen Leader
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 170/295 || 130/245 || 52/188 || 62/200 || 44/142 || 82/200 || 52/182 || 82/200 || 55/145 || 90/140 || 75/145 ||
+
+++ Masamune Date
+**Unlock:** Complete 2 different Story Modes.
+**Titles:** Young Lord, Imp of Dewa, , Overlord
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 135/250 || 145/265 || 46/152 || 54/180 || 56/186 || 52/176 || 60/158 || 76/200 || 125/195 || 160/190 || 165/195 ||
+
+++ Noh
+**Unlock:** Clear Ranmaru Mori's Story Mode.
+**Titles:** Viper's Daughter, Siren of Mino, , Demon's Wife
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 155/275 || 165/290 || 50/166 || 54/188 || 64/178 || 68/198 || 56/170 || 68/198 || 100/180 || 130/170 || 120/170 ||
+
+++ Hanzo Hattori
+**Unlock:** Initial Unlock.
+**Titles:** Iga Ninja, Mikawa Agent, , Lord of Shadow
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 130/245 || 145/265 || 54/160 || 46/172 || 64/194 || 56/180 || 56/154 || 56/180 || 125/195 || 180/195 || 165/195 ||
+
+++ Ranmaru Mori
+**Unlock:** Clear Mitsuhide Akechi's Story Mode.
+**Titles:** Squire, Loyal Servant, , Lion of Owari
+Stats
+||~ Life ||~ Musou ||~ Attack ||~ Defense ||~ Ranged ATK ||~ Ranged DEF ||~ Horse ATK ||~ Horse DEF ||~ Speed ||~ Jump ||~ Agility ||
+|| 140/255 || 155/275 || 52/158 || 54/180 || 60/190 || 64/188 || 52/150 || 64/188 || 125/190 || 155/185 || 160/190 ||
+
+++ New Officer
+**Unlock:** Pass the Trial of Acceptance in New Officer Mode with the character created.
+**Titles (Male):** Ambitious Soul, Lone Warrior, 
+**Titles (Female):** Wanderer, Woman Warrior, 
+Their stats vary on your performance in New Officer Mode so there's no clear indication on what their max stats will become, you will have to go through New Officer Mode again if you wish to "delete" the character.
+
++ New Officer Mode
+Unlike Dynasty Warriors 4 to "create" a character you have to train them in the New Officer Mode before they can be made useable for combat. At first you get the choice between 4 male models and 4 female models, there are 2 extras of each that can be unlocked later. After naming the character you will then begin your 12 months of training them, the training that is picked has an effect on your stats both positive and negative, the more +'s or -'s you see give that much of an impact on what will eventually be your initial stats the higher your grade for that exercise. As you complete exercises with at least a Good grade or Fair twice they increase in difficulty starting at Novice, then Veteran and finally Expert. The grades you can get are from lowest to highest are Poor, Fair, Good, Great, Perfect.
+
+++ Melee
+* **Available:** Always
+* **Increase:** Weapon Attack ++++, Life ++, Jump +
+* **Decrease:** Unused Weapon Defense -, Horse Defense -, Ranged Defense -
+* **Objective:** Defeat as many enemies as you can.
+* **Time Limit:** 1:00, every 50 KO's adds 5 seconds, a 5-hit combo adds 3 seconds. 
+* **Judged on:** KO Count & Longest Combo.
+* **Progression:** 200 to 400 KOs.
+500+ KO's is needed for a Perfect grade.
+
+++ Combo
+* **Available:** Melee Expert rank
+* **Increase:** Weapon Attack +++, Horse Attack +++, Ranged Attack +++, Life ++, Speed ++, Jump +, Agility +
+* **Decrease:** Unused Weapon Defense -, Horse Defense -, Ranged Defense -
+* **Objective:** Defeat as many enemies as you can.
+* **Time Limit:** 1:00, you will get 5 seconds for every multiple of 10-hit combos.
+* **Judged on:** Count Points & Longest Combo.
+* **Progression:** At least 10 to 12 in the score (about six 5-hit combos)
+You have to try and get as high of a combo as you can, if you kill every enemy on the map the exercise will end immediately. Enemies are passive and won't do anything, every hit after 4 will give a point with it increasing by an extra point every 5th hit (10-14 = 2, 15-19 = 3 etc.). Every 5-hit combo will spawn more enemies, however from a 20-hit combo enemies who attack will start to spawn. A good combo to use is SST~SSSS~Musou if available, if you are in Red Life you will have an easier time with your True Musou adding more hits. Naginata is bad here so use with Sword or Spear for this.
+
+++ Musou
+* **Available:** Combo Veteran Rank
+* **Increase:** Musou ++++, Weapon Attack +++, Agility ++, Speed +
+* **Decrease:** Unused Weapon Defense -, Horse Defense -, Ranged Defense -
+* **Objective:** Defeat as many enemies during your Musou Attack.
+* **Time Limit:** 0:30, time is frozen during Musou. 
+* **Judged on:** KO Count & Longest Combo.
+* **Progression:** 300 to 500 KOs.
+Enemies can only be damaged by your Musou Attack, your normal & charge attack buttons do nothing during this exercise, the leader of the groups will drop Musou Sake to refill your Musou with an occasional Copper Mirror that gives you 5 seconds of full Musou.
+
+++ Archery
+* **Available:** Melee Veteran rank
+* **Increase:** Range Attack ++++, Life ++, Ranged Defense ++, Horse Attack +
+* **Decrease:** Unused Weapon Defense -, Speed -
+* **Objective:** Use Bow Attacks to defeat enemies while staying on the bridge.
+* **Time Limit:** 1:00, every 10 KOs adds 5 seconds.
+* **Judged on:** KO Count & Accuracy (100% gives +30 evaluation points).
+* **Progression:** 80% accuracy and at least 12 KOs.
+Being knocked off or an enemy reaches the other side instantly ends this training, Press R1 to go into ranged attack mode to attack the enemy.
+
+++ Deflect
+* **Available:** Melee Veteran rank
+* **Increase:** Range Defense ++++, Musou +++, Weapon Defense +++, Range Attack +++, Horse Defense ++, Agility ++, Jump +
+* **Decrease:** Unused Weapon Attack -, Speed -
+* **Objective:** Deflect enemy projectiles back at them.
+* **Time Limit:** 1:00, the first 4 squads defeated add 10 seconds, every 50 KOs adds 15 seconds.
+* **Judged on:** KO Count & Accuracy.
+* **Progression:** 80% accuracy and at least 12 KOs.
+You have to knock back enemy arrows back at them to defeat them, in Veteran and Expert you will be against Riflemen whose bullets you can't reflect and will break your guard.
+
+++ Burst
+* **Available:** Always
+* **Increase:** Speed ++++, Life ++++, Musou ++, Weapon Defense +, Jump +
+* **Decrease:** Unused Weapon Attack -, Horse Attack -, Ranged Attack -
+* **Objective:** Reach the end as quick as possible.
+* **Time Limit:** 2:00.
+* **Judged on:** Clear Time & KO Count.
+* **Progression:** At least 1:00 remaining.
+The first squad will drop War Sandals doubling your speed and the next squad will drop health, besides these ignore everyone and book it to the end. KO count is not worth it as you get a measly 10 points for 30 KOs, reaching the end with over 1:16 left will score a Perfect. Below is the suggested route to go through.
+
+++ Riding
+* **Available:** Burst Veteran rank
+* **Increase:** Horse Attack ++++, Horse Defense ++++, Life +++, Musou ++, Weapon Attack & Defense +
+* **Decrease:** Unused Weapon Attack -, Ranged Attack -, Jump -, Agility -
+* **Objective:** Reach the end as quick as possible.
+* **Time Limit:** 3:00, 1 minute is added on lap 2 and 30 seconds when you reopen the gate at the top left corner.
+* **Judged on:** Clear Time & KO Count.
+* **Progression:** At least 1:00 remaining.
+
+++ Random Events
+During your training for the trial to pass towards being a playable character events will happen every now and then as your officer, events that lead to a battle will have you with a randomized weapon rather than the one you are best with.
+
++++ Strike Ninja
+If you have an Attack of at least 55 in any category before the 4th month (8 trials left) a Strike Ninja will challenge you to a fight, beating him will unlock one of the other character skins for creation. The 1st time gives a fully armored male with a face mask, the 2nd time gives a fully armored female with a face mask, the 3rd time gives you a priest like male, the 4th and final one gives you a priest like female, from the 5th time onward he won't give anything else. He tends to heal himself and is mainly damaged by Musou Attacks, the Master will drop a Spirit Mirror after your second Musou Attack which is how you should beat him.
+
++++ Dokkimaru
+He will forcefully administer Chiropracy on you, him doing so will lower your Sword Attack between 3 to 5 and very rarely give you 20 more Sword Attack.
+
++++ Saya
+Saya will sometimes cleanse your equipment and they will have the temporary effect for the month to increase your Attack and Defense by 20, if this happens it's generally a good idea to do Melee. Another event that can happen with her is her giving you Musou Sake to increase you Musou by 5. After her introduction in the second month if you wait for about 5 minutes before choosing your next exercise she will speak with you as she thinks you are distant staring at the sky, the small chat will increase your Musou by 5 and won't take a month away from your remaining trials.
+
++++ Missing Weapon
+If your preferred weapon has over 60 Attack there may be a chance that it will be unavailable to use for the month, this can happen when trying to get the Strike Ninja for character skins and skip that event.
+
++++ Sickness
+There is a chance that your character will feel ill and be forced to drink a medicine that will lower their Life & Musou by 10 each, if you are on Vanilla you may consider restarting, but if you are on Xtreme Legends you can ignore this event if you get it.
+
++++ Exhaustion
+If you get defeated multiple times without taking a rest your character will feel exhausted or dizzy, the next time it happens they will lose 3 Life & 2 Musou.
+
++++ Resting
+Upon taking a rest some after feeling dizzy other event may happen, such as Dokkimaru waking you up abruptly and forcing you into a Melee training instead, or the Master giving you a Rice Ball that will give increase your life by 1.
+
++++ Master
+There is a small chance that after an exercise the Master will forcefully make you do another exercise or the same exercise again, however the bonus given will be doubled for it. On the final month the Master will focus your chi doubling the bonus you gain from your next and final exercise.
+
++++ Keiji Maeda
+If you have an Attack stat of at least 80 and choose Melee for training Keiji can appear and challenge you to a fight. Defeating him will give the created character Reach 1 Growth Skill for free.
+
++++ Goemon Ishikawa
+If you have a Speed stat of at least 140 and choose Burst for training Goemon can appear and challenge you to a fight. Defeating him will give the created character Discern 1 Growth Skill for free.
+ 
++++ Okuni
+If you have at least gotten Good or higher in a majority of your exercises while never scoring lower and pick Melee there's a chance Okuni will show up. Your task with her will be to hit a drum 100 to fulfill her request, clearing her challenge will give the created character Drive 1 Growth Skill for free.
+
++++ Kunoichi
+If you have a Ranged Defense stat of at least 65 (60 potentially if you suffered dizziness) and choose Deflect for training Kunoichi can appear and challenge you to a fight. Defeating her will give the created character Focus 1 Growth Skill for free.
+
++++ Magoichi Saika
+If you have a Ranged Attack stat of at least 75 and choose Archery for training Magoichi can appear and challenge you to a fight. Defeating him will give the created character a Musket when going into ranged attack mode with guard breaking musket fire.
+
++++ Masamune Date
+If you have a Horse Attack or Horse Defense stat of at least 65 and choose Riding for training Masamune can appear and challenge you to a fight. Defeating him will give the created character Rage 1 Growth Skill for free.
+
++++ Hanzo Hattori
+If you have a Jump stat of at least 130 and choose Combo for training Hanzo can appear and challenge you to a fight. Defeating him will give the rare item War Rations which will revive you once when your Life hits 0.
+
++++ Ranmaru Mori
+If you have an Attack stat of at least 75 and choose Musou for training Ranmaru can appear and challenge you to a fight. Defeating him will give the created character Frenzy 1 Growth Skill for free.
+
+++ Trials of Acceptance
+When you have completed your training you will then be given a choice of which Daimyo to serve, this has no impact other than what your final tests will be to promote to being on the playable roster which are set to Veteran difficulty. You must get a combined total score of 100 to pass the trial, if you fail the character will be deleted and you will have to try again. Even if you score 100 on the first trial you still have to do the second one, New Officers are accessed by pressing down when selecting from the roster.
+
++++ Final Trials
+||~ Clan ||~ Trial 1 ||~ Trial 2 ||
+|| Oda || Melee || Musou ||
+|| Takeda || Burst || Riding ||
+|| Uesugi || Riding || Melee ||
+|| Tokugawa || Deflect || Burst ||
+|| Date || Musou || Combo ||
+|| Honganji || Deflect || Musou ||
+|| Azai || Archery || Deflect ||
+|| Imagawa || Combo || Archery ||
+|| Hojo || Burst || Melee ||
+
++ Missions
+This will list the missions you are given during a stage for the character, this will also detail how to go through the split path of the character to get each path in their Story Mode. Battles fall into 3 categories, Field, Castle & Siege (Field then Castle), for Siege they will be split into which missions count for their respective portion. 
+
+Yukimura Sanada
+
+Keiji Maeda
+
+Nobunaga Oda
+
+++ Mitsuhide Akechi
++++ 1. Defense of Inabayama Castle (Field)
+# **Inabayama** - Defeat the enemy advance force!
+# **Lumber** - Defeat the enemy unit by the storehouse! [Triggers when Koroku Hachisuka reaches the timber stores in the East.]
+# **Resolution** - Take Sunomata Castle, and silence its Cannons!
+# **Prove Yourself** - Defeat all Oda officers! [Triggers when Noh encounters you.]
+# **Hanbei's Revolt** - Prevent Hanbei Takenaka's Revolt! [Triggers after **Inabayama**, **Lumber** & **Resolution** are cleared with Hanbei alive.]
++++ 2. The Battle of Ise (Field)
+# **Ready Fire Attack** - Eliminate the fortress defense troops! [Succeeds if two Pilgrims are defeated, fails if 8 minutes pass.]
+# **Ready Cannons** - Protect the cannon unit until it can attack! [Fails if Yoshitaka Kuki is defeated.]
+# **Rekindling** - Protect and secure a path for the task force! [Fails is Hideyoshi is defeated.]
+# ** - 
+# ** - 
+# **Surrender** - Prevent the enemy from surrendering! [Triggers after **Rekindling**, or succeed.]
+# **Life is Power** - Defeat Tomosada Hattori, and secure an escape route! [Triggers after **Surrender**.]
+# **Peasants' Escape** - Make the peasant troops retreat! [Triggers after **Surrender**, this will fail if two Pilgrims are defeated.]
++++ 3. Betrayal at Honnouji (Field)
+# **Saying Goodbye** - Defeat Ranmaru Mori, and clear the south gate! [Fails if the fire attack unit is defeated.]
+# **Bellflower** - Protect the fire attack unit!
+# ** - 
+# ** - 
+# ** - 
++++ v4. Defense of Azuchi Castle (Siege)
+**Requirement:** During Betrayal at Honnouji let Nobunaga escape.
+# ** - 
+# ** - 
+# ** - 
+# ** - 
+# ** - 
+# ** - 
+# ** - 
+# ** - 
+Goemon Ishikawa
+
+Kenshin Uesugi
+
+Oichi
+
+Okuni
+
+++ Kunoichi
++++ 1. The Battle of Kawanakajima (Field)
+# ** -
+# ** -
+# ** -
+# ** -
+# ** -
+# ** -
+# ** -
+# ** -
+Magoichi Saika
+
+Shingen Takeda
+
+Masamune Date
+
+Noh
+
+Hanzo Hattori
+
+Ranmaru Mori
+
+New Officer
+
++ 5th Weapons
+For 5th weapons the following apply.
+* The difficulty must be set to Hard or Chaos. Or Normal on Xtreme Legends if you purchased the 5th Weapon perk to lower the difficulty or the character is the "Lucky" one having a Green portrait which also lowers it by one difficulty level.
+* The stage is one from the characters Story Mode which can be done in Free Mode, specific missions are required to lead to the weapon, they will be listed in order of when to do them.
+* In this version (vanilla) is it suggested to character reset to go back to level 1 so that enemies are weaker to beat since they scale with you, make sure to have a high level Tengu Sandals of at least 40 to offset the lower speed or use Matsukaze Saddle.
+* If using 2 players as long as one player meets the requirements the weapon will appear, unless the requirement is specifically for player 1 to defeat an officer.
+
+Yukimura Sanada
+
+Keiji Maeda
+
+Nobunaga Oda
+
+Mitsuhide Akechi
+
+Goemon Ishikawa
+
+Kenshin Uesugi
+
+Oichi
+
+Okuni
+
+++ Kunoichi
+* **Weapon Name:** Kushinada 琥死那蛇 (Kushinada)
+* **Stats:** Base Attack +45, Ice Element, Life +37, Musou +45, Ranged Defense +49, Jump +29
+* **Stage:** Rescue of Ueda Castle
+* **Requirement:** Reach the fifth floor in less than 3 minutes 45 seconds, without defeating any enemies.
+* **Precious Item:** Go to the northwest, and the weapon will be in one of the rooms there.
+
+Magoichi Saika
+
+Shingen Takeda
+
+Masamune Date
+
+Noh
+
+Hanzo Hattori
+
+Ranmaru Mori
+
+New Officer (Sword)
+
+New Officer (Spear)
+
+New Officer (Naginata)
+
++ Items
+++ Normal
+Normal items are ones that boost your characters stats when equipped, these all cap at +50.
+
+* Solar Gem (Life)
+* Moon Stone (Musou)
+* Power Bracer (Attack)
+* Himiko's Rune (Defense)
+* Vixen Tail (Musou Charge)
+* Tengu Sandals (Speed)
+* Hare Greaves (Jump)
+* Kappa Amulet (Luck)
+* Wind Gloves (Ranged Attack)
+* Cloak of Might (Ranged Defense)
+* Demon Staff (Horse Attack)
+* Serpent Bracer (Horse Defense)
+* Saddle (Horse Life), only works in Field maps.
+
+++ Unique
++++ Kankestuba Saddle
+* **Effect:** Start stages mounted on Kanketsuba, only works in Field maps.
+* **Stage:** Campaign for Osaka (Yukimura Sanada)
+* **Requirement:** Within 15 minutes complete all missions
+* **Supply Unit:** From the gate in the West of the center and move towards the gate East of center.
+
++++ Matsukaze Saddle
+* **Effect:** Start stages mounted on Matsukaze, only works in Field maps.
+* **Stage:** Attack on Azuchi Castle (Shingen Takeda)
+* **Requirement:** Within 15 minutes complete all missions
+* **Supply Unit:**
+
+Kanketsubakura 汗血馬鞍 Kankestuba Saddle
+(Field Only)
+Effect: Start stages mounted on Kanketsuba
+How obtained: In Sanada Yukimura's Summer Campaign at Osaka 大坂夏の陣, 
+              follow all the missions up to and including preventing Date
+              Masamune from entering the castle. A supply team will appear 
+              from the gate in the west of the center and move towards the 
+              gate east of center. There appears to be a time limit for
+              getting this item, possibly around 15 minutes. If you play
+              as Yukimura yourself, the mission to convince your commander
+              will be easier.
+
+Matsukazekura 松風鞍 Matsukaze Saddle
+(Field Only)
+Effect: Start stages mounted on Matsukaze
+How obtained: In Takeda Shingen's stage Attack on Azuchi Castle 安土城攻略,
+              defeat Akechi Mitsuhide, then enter the castle from the east
+              side. Defeat Maeda Keiji within one minute of when he shows up. 
+              As soon as you do, the supply team will appear next to Maeda
+              Katsuie's position and head towards the gate next to Niwa
+              Nagahide's position. Head there and cut them off (they 
+              disappear rather quickly so you'll want to run there, ignoring 
+              all other enemies).
+
+Uma Tekkou 馬鉄甲 Horse Armor
+(Field Only)
+Effect: Damage taken to horse gauge reduced by half
+How obtained: In Edit Character's stage Battle of Nagashino 長篠の戦い, 
+              capture Nagashino Castle, then defeat Sakai Tadamasa 酒井忠正
+              when he ambushes the main camp. Defeat Hattori Hanzou when he
+              tries to take Nagashino Castle, and Maeda Keiji when he
+              charges. Finally when the mission to defeat Nobunaga
+              shows up, charge into his camp within 1 minute. This will cause 
+              the supply team to appear near the camp. Defeat the captain for 
+              the item.
+
+Musha Monogatari 武者物語 Warrior Story
+Effect: Bodyguards become stronger
+How obtained: In Edit Character's stage Summer Campaign at Osaka 大坂夏の陣,
+              finish missions up to and including preventing Date Masamune 
+              from invading your castle, then assist Sanada Yukimura in his 
+              charge on the enemy camp. After you've successfully protected 
+              him once he gets locked in (you'll need to defeat around 100
+              enemies and be near him), the supply team will show up. Like
+              the Kanketsuba saddle, the supply team appears near the gate
+              west of center and moves towards the gate east of the center.
+              Defeat the captain for the item. Note that you must have
+              started the stage with 4 bodyguards assigned to you and they
+              must all still be alive when you finish the Protect Sanada
+              mission.
+
+Jindaiko 陣太鼓 Battle Drum
+Effect: Ally morale goes up
+How obtained: In Okuni's Dance of Kawanakajima stage 川中島の舞, beat the
+              drum in the fortress on the southeast of the map 50 times to
+              bring out the supply team. They'll appear in the southeast and
+              move towards the northeast exit. Defeat the captain for the 
+              item.
+
+Oujukukou 黄熟香 Ripe Fragrance
+Effect: Battlefield items last 50% longer
+How obtained: In Nouhime's Infiltration of Gifu Castle stage 岐阜城潜入, 
+              pass the first floor without defeating Kunoichi, then pass the
+              second floor without defeating Magoichi or Kunoichi. Finally
+              defeat Kunoichi on the third floor. There will be a precious
+              item report; the item will be in the northwest of the map.
+
+++ War Rations
+* **Effect:** Replenish the Life meter one time when it goes to zero.
+* **Requirement:** In New Officer Mode train your character to have at least 130 Jump then pick Combo, Hanzo may show up and you must defeat him to get the item.
+
+Annai Ningyou 案内人形 Guidance Doll
+(Castle Only)
+Effect: Shows the location of treasures in castles (pink marks)
+How obtained: In Ishikawa Goemon's Invasion of Osaka Castle 大坂城無断進入, 
+              defeat both generals on the first floor and obtain all four
+              treasures. A precious item report will show up and the item
+              will appear near the beginning of the floor. 
+
+Rokujinkou 六神膏 Six Gods Ointment
+Effect: For one time only, your bodyguards are automatically healed back to
+        full health when they die
+How obtained: Clear the 30th floor of the Infinite Castle 無限城 in Kokuu
+              虎空 (Tower) mode.
+
+Hachiman Suzu 八幡鈴 Hachiman's Bell
+(Castle Only)
+Effect: Shows the location of traps in castles (purple X's)
+How obtained: In Date Masamune's Intrusion of Odawara Castle 小田原城乱入, 
+              break all of the fake stairs on the third floor for a precious
+              item report. Since finding the real stairs takes you up and
+              doesn't let you return, use the following strategy: find each
+              stairway then slowly edge forward until your foot hits the 
+              second stair, then back off. Repeat for all 6 stairways; for
+              some reason this counts as 'testing' the stairs and you'll
+              get a precious item report. The item will be slightly to the
+              southeast of the middle stairways.
+
+Onmyou Teshoku  陰陽手燭 Light and Shadow Candle
+(Castle Only)
+Effect: Displays the entire castle map
+How obtained: In Kunoichi's Rescue from Ueda Castle stage 上田城救出戦, 
+              reach the fifth floor once less than 20 minutes are left on the
+              clock. It will be in the room that Hattori Hanzou and
+              Sanada Yukimura are fighting in.
+
+Aramitama 荒御魂 Rough Spirit
+Effect: All elements one level up
+How obtained: In Uesugi Kenshin's Mortal Enemy Battle of Kawanakajima 
+              川中島宿敵戦, defeat 1000 enemies and the supply team will show
+              up in the northeast, running towards the south. Defeat the 
+              captain for the item.
+
+Gorinsho "Chi" 五輪書 土 Book of Five Rings "Earth"
+Gorinsho "Mizu" 五輪書 水 Book of Five Rings "Water"
+Gorinsho "Hi" 五輪書 火 Book of Five Rings "Fire"
+Gorinsho "Kaze" 五輪書 風 Book of Five Rings "Wind"
+Gorinsho "Kuu" 五輪書 空 Book of Five Rings "Void"
+Effect: When all five books are equipped, elemental attacks become instant
+        death instead of their normal property
+How obtained: One found every six floors in the Naraku 奈落 mode of the
+              Infinite Castle 無限城 (Abyss) mode of play.
+
++ Item & Weapon Farming
+Having some trouble and need a boost in your items or weapons to take on some stages? These should be good spots to get them. As no character has Luck on their 5th (and 6th for XL) weapons this is purely based on who you like using other than whoever has a Green portrait in XL.
+
+++ Early Item Farming (Betrayal at Honnouji - Mitsuhide 3)
+This stage is meant purely for items, while it has a potential 8 you can safely get 4 of them while the other 4 can be dangerous to try getting if you are low on stats in Xtreme Legends (vanilla game the enemies scale with your levels), if you wait at the top for when Nobunaga retreats you can try to snag the 2 items in there, though it is not advised to endanger the attempt going for more than 4. This stage will give 820 to 870 character EXP and 360 Skill Points making it a good spot to try and learn skills if you are on the Vanilla version.
+
+++ Weapon Farming (Rescue at Ueda Castle - Kunoichi 4)
+This is meant for getting a good 4th weapon if you need some extra push for getting the 5th weapon, or a brand new 5th after you get the 6th in Xtreme Legends. This can be done at anytime by anyone and requires no KOs so you can safely do it on Chaos difficulty for the best possible drops.
+
+++ Late Item Farming (Oichi 5^)
+This is the same stage as the one from Mitsuhide, and is later thus it can give even better items. This also has all 8 items being obtainable right off the bat and even though 2 officers drop an item which would make it 10, only 8 are counted maximum. For this one you want your favorite character after maxing their stats
