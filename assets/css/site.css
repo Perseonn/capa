@@ -635,29 +635,18 @@ TABLE OF CONTENTS
 ==============================================================================
 */
 
-.table-of-contents{
-	line-height: calc(var(--base-line-height) / 1.5);
+.toc-container{
+	
 }
 
-.table-of-contents a{
+.toc-container a{
 	display:block;
 }
 
 .toc-container{
-	display:grid;
 	align-content: start;
 	grid-template-columns: 1fr;
-}
-
-.toc-bg{
-	background-size: contain;
-	background-attachment: fixed;
-	background-position-x: -8%;
-	background-repeat: no-repeat;
-	opacity: 0.1;
-	height: 100%;
-	min-height: 100vh;
-	z-index:-1;
+	line-height: calc(var(--base-line-height) / 1.5);
 }
 
 .toc-navigation,
@@ -719,6 +708,47 @@ TABLE OF CONTENTS
 #toc-action-bar{
 	display:none;
 }
+
+/*
+==============================================================================
+TABLE OF CONTENTS BACKGROUND CUSTOMIZE
+==============================================================================
+*/
+
+.toc-bg{
+	background-size: cover;
+	/*background-attachment: fixed;*/
+	background-position-x: center;
+	background-repeat: no-repeat;
+	opacity: 0.1;
+	height: 100%;
+	z-index:-1;
+}
+
+div[data-page-slug="battle-arena-toshinden-3"] .toc-bg{background-image: url('/assets/guides/battle-arena-toshinden-3/battle-arena-toshinden-3-sidebar.avif');}
+div[data-page-slug="breath-of-fire-3"] .toc-bg{background-image: url('/assets/guides/breath-of-fire-3/breath-of-fire-3-sidebar.avif');}
+div[data-page-slug="cookie-run-kingdom"] .toc-bg{background-image: url('/assets/guides/cookie-run-kingdom/cookie-run-kingdom-sidebar.avif');}
+div[data-page-slug="disgaea-1"] .toc-bg{background-image: url('/assets/guides/disgaea-1/disgaea-1-sidebar.avif');}
+div[data-page-slug="disgaea-3"] .toc-bg{background-image: url('/assets/guides/disgaea-3/disgaea-3-sidebar.avif');}
+div[data-page-slug="disgaea-4"] .toc-bg{background-image: url('/assets/guides/disgaea-4/disgaea-4-sidebar.avif');}
+div[data-page-slug="disgaea-d2"] .toc-bg{background-image: url('/assets/guides/disgaea-d2/disgae-ad2-sidebar.avif');}
+div[data-page-slug="dynasty-warriors"] .toc-bg{background-image: url('/assets/guides/dynasty-warriors/dynasty-warriors-sidebar.avif');}
+div[data-page-slug="dynasty-warriors-2"] .toc-bg{background-image: url('/assets/guides/dynasty-warriors-2/dynasty-warriors-2-sidebar.avif');}
+div[data-page-slug="dynasty-warriors-9-empires"] .toc-bg{background-image: url('/assets/guides/dynasty-warriors-9-empires/dynasty-warriors-9-empires-sidebar.avif');}
+div[data-page-slug="echo-night"] .toc-bg{background-image: url('/assets/guides/echo-night/echo-night-sidebar.avif');}
+div[data-page-slug="final-fantasy-1"] .toc-bg{background-image: url('/assets/guides/final-fantasy-1/ff1-2-sidebar.avif');}
+div[data-page-slug="final-fantasy-1"] .toc-bg{background-image: url('/assets/guides/final-fantasy-1/ff1-sidebar.avif');}
+div[data-page-slug="lightning-warrior-raidy"] .toc-bg{background-image: url('/assets/guides/lightning-warrior-raidy/lightning-warrior-raidy-sidebar.avif');}
+div[data-page-slug="lightning-warrior-raidy-2"] .toc-bg{background-image: url('/assets/guides/lightning-warrior-raidy-2/lightning-warrior-raidy-2-sidebar.avif');}
+div[data-page-slug="phantasy-star-online-2-etoile"] .toc-bg{background-image: url('/assets/guides/phantasy-star-online-2-etoile/phantasy-star-online-2-etoile-sidebar.avif');}
+div[data-page-slug="phantasy-star-online-2-gathering"] .toc-bg{background-image: url('/assets/guides/phantasy-star-online-2-gathering/phantasy-star-online-2-gathering-sidebar.avif');}
+div[data-page-slug="phantasy-star-online-2-hero"] .toc-bg{background-image: url('/assets/guides/phantasy-star-online-2-hero/phantasy-star-online-2-hero-sidebar.avif');}
+div[data-page-slug="phantasy-star-online-2-summoner"] .toc-bg{background-image: url('/assets/guides/phantasy-star-online-2-summoner/phantasy-star-online-2-summoner-sidebar.avif');}
+div[data-page-slug="phantasy-star-online-2-units"] .toc-bg{background-image: url('/assets/guides/phantasy-star-online-2-units/phantasy-star-online-2-units-sidebar.avif');}
+div[data-page-slug="soulcalibur-3"] .toc-bg{background-image: url('/assets/guides/soulcalibur-3/soulcalibur-3-sidebar.avif');}
+div[data-page-slug="soulcalibur-4"] .toc-bg{background-image: url('/assets/guides/soulcalibur-4/soulcalibur-4-sidebar.avif');}
+div[data-page-slug="soulcalibur-5"] .toc-bg{background-image: url('/assets/guides/soulcalibur-5/soulcalibur-5-sidebar.avif');}
+div[data-page-slug="wild-arms"] .toc-bg{background-image: url('/assets/guides/wild-arms/wild-arms-sidebar.avif');}
 
 
 /*
@@ -907,6 +937,7 @@ ListPages Layout
 .large-cards .list-page-text-container{
 	padding-bottom:1rem;
 }
+
 
 
 /*
