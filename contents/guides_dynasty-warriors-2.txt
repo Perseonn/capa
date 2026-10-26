@@ -2,7 +2,7 @@
 @author: Buster Wolf
 @updated: 2025-31-01
 
-Unlike [[[guide:dynastywarriors | Dynasty Warriors]]] which was a fighting game Dynasty Warriors 2 was the start of the 1 vs 100 Musou style of game play you are familiar with nowadays. There is not much to unlock or cover with Dynasty Warriors 2 so this guide encompasses all you can do in it.
+Unlike [[link guide:dynastywarriors | Dynasty Warriors]] which was a fighting game Dynasty Warriors 2 was the start of the 1 vs 100 Musou style of game play you are familiar with nowadays. There is not much to unlock or cover with Dynasty Warriors 2 so this guide encompasses all you can do in it.
 
 + Character Unlocking
 This will detail how to unlock all 28 characters for use in Free Mode.

@@ -661,6 +661,16 @@
     },
     {
         "category": "guides",
+        "slug": "soul-edge",
+        "sourceName": "guides_soul-edge",
+        "url": "/guides/soul-edge/",
+        "title": "Soul Edge",
+        "author": "Perseonn Balthasaar",
+        "updated": "2014-10-10",
+        "wip": false
+    },
+    {
+        "category": "guides",
         "slug": "soulcalibur-3",
         "sourceName": "guides_soulcalibur-3",
         "url": "/guides/soulcalibur-3/",
