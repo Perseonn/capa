@@ -1,0 +1,18 @@
+[[div class="portfolio item-container"]]
+[[div class="row"]]
+[[div class="col-md-6"]]
+[[div_ class="portfolio embed-responsive video-container video-1x1"]]
+[[image {$image} | | img-fluid rounded w-100]]
+[[/div]]
+[[/div]]
+[[div class="col-md-6 portfolio video-description"]]
++ {$title}
+* Software used: {$software}
+* Duration: {$duration}
+* Ratio: {$ratio}
+* Size: {$size}
+* {$note}
+[[a href="{$link-one-drive}" class="btn btn-lg btn-primary btn-block {$button-class}"]][[i|fa-solid fa-cloud-arrow-down]] Preview/Download from OneDrive[[/a]] [[a href="{$link}" class="btn btn-lg btn-primary btn-block {$button-class}"]][[i|fa-brands fa-google-drive]] Preview/Download from Google Drive[[/a]]
+[[/div]]
+[[/div]]
+[[/div]]

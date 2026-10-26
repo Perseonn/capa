@@ -2,7 +2,7 @@
 @author: Perseonn Balthasaar
 @updated: 2014-05-16
 
-You ever think about action-packed visual novel? If that thought ever cross your mind once, here's a game you might want to check out. It's called Rose and Camellia, a flash-based visual novel available from http://nigoro.jp/ja/games/rose/
+You ever think about action-packed visual novel? If that thought ever cross your mind once, here's a game you might want to check out. It's called Rose and Camellia, a flash-based visual novel available from [[link http://nigoro.jp/ja/games/rose/ | http://nigoro.jp/ja/games/rose/🔗]].
 
 
 [[image title.jpg | Title screen.]]
@@ -40,11 +40,9 @@ The most challenging part of this game is not to take too many hits, since you d
 
 I won't spoil much more than this. It's a short game, and the rest of the House of Camelia member need to be seen by your own eyes to be believed.
 
-====
-Indonesian
-====
-Sering main visual novel? Sesekali terpikir agar visual novel memiliki elemen aksi untuk menyegarkan pikiran? Mungkin anda ingin mencoba Rose and Camellia, game berbasis flash yang tersedia di http://nigoro.jp/ja/games/rose/
-====
++ Indonesian Version
+
+Sering main visual novel? Sesekali terpikir agar visual novel memiliki elemen aksi untuk menyegarkan pikiran? Mungkin anda ingin mencoba Rose and Camellia, game berbasis flash yang tersedia di [[link http://nigoro.jp/ja/games/rose/ | http://nigoro.jp/ja/games/rose/🔗]].
 
 [[image title.jpg | Layar judul.]]
 
@@ -81,6 +79,3 @@ Tantangan di game ini adalah melawan 5 musuh beruntun tanpa disembuhkan. Usahaka
 
 
 Jika anda penggemar visual novel, game ini layak dicoba. Anggota lain dari Keluarga Camelia perlu disaksikan sendiri untuk dipercaya.
-
-====
-@@

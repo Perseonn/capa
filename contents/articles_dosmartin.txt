@@ -4,10 +4,10 @@
 
 I was told by my friend that apparently George R. R. Martin, the author of //A Song of Ice and Fire//, did his work on an outdated machine, using WordStar 4.0. Feeling that it is highly implausible, I searched the internet and found several articles confirming it. Although people may refer this feat as wonderful, I call this feat a complete nonsense.
 
-The articles are from [http://www.eteknix.com/george-r-r-martin-uses-dos-pc-with-wordstar-4-0-to-write-game-of-thrones/ e-Teknik],  [http://www.cnet.com/news/george-r-r-martin-writes-with-a-dos-word-processor/ CNET], [http://www.theverge.com/2014/5/14/5716232/george-r-r-martin-uses-dos-wordstar-to-write The Verge], [http://techcrunch.com/2014/05/14/george-r-r-martin-writes-everything-in-wordstar-4-0-on-a-dos-machine/ TechCrunch], and [http://www.slate.com/blogs/future_tense/2014/05/14/george_r_r_martin_writes_on_dos_based_wordstar_4_0_software_from_the_1980s.html Slate]. Question is: //why?//
+The articles are from [[link http://www.eteknix.com/george-r-r-martin-uses-dos-pc-with-wordstar-4-0-to-write-game-of-thrones/ | e-Teknik🔗]],  [[link http://www.cnet.com/news/george-r-r-martin-writes-with-a-dos-word-processor/ | CNET🔗]], [[link http://www.theverge.com/2014/5/14/5716232/george-r-r-martin-uses-dos-wordstar-to-write | The Verge🔗]], [[link http://techcrunch.com/2014/05/14/george-r-r-martin-writes-everything-in-wordstar-4-0-on-a-dos-machine/ | TechCrunch🔗]], and [[[link http://www.slate.com/blogs/future_tense/2014/05/14/george_r_r_martin_writes_on_dos_based_wordstar_4_0_software_from_the_1980s.html | Slate🔗]]. Question is: //why?//
 
 +  Martin and WordStar 4.0
-If you do not know what a WordStar 4.0 is, you can read the article from [http://en.wikipedia.org/wiki/WordStar Wikipedia]. The interface is as follow:
+If you do not know what a WordStar 4.0 is, you can read the article from [[[link http://en.wikipedia.org/wiki/WordStar | Wikipedia🔗]]. The interface is as follow:
 
 [[image ws4hello.png | Very primitive.]]
 
@@ -27,8 +27,8 @@ That does not make any sense. If all he does not like is the autocorrect functio
 [[image notepad.png | This program. Much cleaner than WordStar 4.0.]]
 
 
-: **Argument** : //Notepad cannot do Bold, Italic, or Underline!// _
-Just use freaking Wordpad.
+**Argument**: Notepad cannot do Bold, Italic, or Underline!
+**Counter-argument**: Just use freaking Wordpad.
 
 [[image wordpad.png | And this is an included program within Windows.]]
 
@@ -41,11 +41,11 @@ Let's say that Martin indeed uses WordStar 4.0 to do his works. Doing so will ha
 ++ The risk of Old PC
 According to the e-Teknic article, Martin uses a 30 year old PC, which means that he owns it since the 80s. From my knowledge as a PC technician, the older the PC, the higher the appearance of X factor (unknown factor that can make PC not working as intended, such as disk write error). Which means the higher the chance of him losing his entire work. Would a person like him, whose life is from writing stories, can take a risk like that?
 
-: **Argumen** : //What if he is just that brave?// _
-I dare you to write your Theses on a 80286 computer. If you're lucky, you can get the 25 MHz model.
+**Argument**: What if he is just that brave?
+**Counter-argument**: I dare you to write your Theses on a 80286 computer. If you're lucky, you can get the 25 MHz model.
 
-: **Argumen** : //What if the hard disk is new?// _
-How recent can an 80s PC read a hard disk? Due to the compatibility between file system and the DOS, it's probably a relatively small hard disk around 504 MB - 4 GB tops (depending on BIOS). Theoretically, he can use larger hard disk and let only 2-4GB being used out of the total size, but that sounds really, really wasteful. Also, theoretical.
+**Argument**: What if the hard disk is new?//
+**Counter-argument**: How recent can an 80s PC read a hard disk? Due to the compatibility between file system and the DOS, it's probably a relatively small hard disk around 504 MB - 4 GB tops (depending on BIOS). Theoretically, he can use larger hard disk and let only 2-4GB being used out of the total size, but that sounds really, really wasteful. Also, theoretical.
 
 ++ Writing Aftermath
 Martin does not publish //A Song of Ice and Fire//. Bantam Books did that. If the script really was made using WordStar 4.0, **how can the editor edit and print it?** To give you a better image, let's see the following comparison:
@@ -54,7 +54,7 @@ Martin does not publish //A Song of Ice and Fire//. Bantam Books did that. If th
 [[image ws4hippo1.png | A bit werid, but otherwise normal.]]
 
 
-This is the first paragraph of [http://en.wikipedia.org/wiki/Hippopotamus Hippopotamus] article from Wikipedia that I directly type to the program. You can see that the word "Hippopotamus" has a markup that appears as "{{^B}}", this is a bold markup. On the top-left of the screen you can see the file name, {{HIPPO.TXT}}. To clarify, WordStar does not have a standard file format, I just add the {{txt}} for easier opening in Windows.
+This is the first paragraph of [[link http://en.wikipedia.org/wiki/Hippopotamus Hippopotamus🔗]] article from Wikipedia that I directly type to the program. You can see that the word "Hippopotamus" has a markup that appears as "{{^B}}", this is a bold markup. On the top-left of the screen you can see the file name, {{HIPPO.TXT}}. To clarify, WordStar does not have a standard file format, I just add the {{txt}} for easier opening in Windows.
 
 Next, I open the file on my preferred text editor, Notepad++:
 
@@ -82,7 +82,7 @@ Then, I saved the file in WordStar and opened it on Notepad++:
 [[image npphippo2b.png | Quite normal.]]
 
 
-There's many unknown character added to the end of file. Take note that each line on these files are created manually using the {{Enter}} button, not the result of WordWrap. In case of the first file, {{HIPPO.TXT}}, WordStar automatically adds a [http://en.wikipedia.org/wiki/Newline Newline character], so it appears as a justified text. To better understand it, here's the second file, {{SHIPPO.TXT}}, opened in WordPad:
+There's many unknown character added to the end of file. Take note that each line on these files are created manually using the {{Enter}} button, not the result of WordWrap. In case of the first file, {{HIPPO.TXT}}, WordStar automatically adds a [[link http://en.wikipedia.org/wiki/Newline Newline character🔗]], so it appears as a justified text. To better understand it, here's the second file, {{SHIPPO.TXT}}, opened in WordPad:
 
 
 [[image wphippo2a.png | Do I have to reconnect all that line?]]
@@ -93,21 +93,19 @@ Can you imagine how many lines that must be fixed so the whole text look tidy an
 + Closing
 There's no logical reason why Martin uses WordStar 4.0, unless he has secret reason, or just want to piss off his editor.
 
++ Indonesian Version
+Saya dikabari oleh teman saya mengenai bagaimana George R. R. Martin, pengarang //A Song of Ice and Fire//, menulis karyanya tersebut di MS-DOS. Teman saya kemudian memberikan pranala ke [[link http://tekno.kompas.com/read/2014/05/17/1926488/.Game.of.Thrones.Ditulis.Menggunakan.MS-DOS?utm_source=WP&utm_medium=box&utm_campaign=Ktkwp artikel Kompas🔗]]. Dalam artikel yang bersumber dari BBC Indonesia ini, dikatakan bagaimana Martin telah menggunakan sistem operasi kuno tersebut sejak 2011.
 ====
-Indonesian
-====
-Saya dikabari oleh teman saya mengenai bagaimana George R. R. Martin, pengarang //A Song of Ice and Fire//, menulis karyanya tersebut di MS-DOS. Teman saya kemudian memberikan pranala ke [http://tekno.kompas.com/read/2014/05/17/1926488/.Game.of.Thrones.Ditulis.Menggunakan.MS-DOS?utm_source=WP&utm_medium=box&utm_campaign=Ktkwp artikel Kompas]. Dalam artikel yang bersumber dari BBC Indonesia ini, dikatakan bagaimana Martin telah menggunakan sistem operasi kuno tersebut sejak 2011.
-====
-Pikiran pertama saya adalah, **omong kosong besar**. Anda **tidak bisa menggunakan MS-DOS untuk mengolah kata**. MS-DOS adalah sistem operasi, bukan aplikasi pengolah kata. Apakah Martin menggunakan [http://en.wikipedia.org/wiki/MS-DOS_Editor MS-DOS Editor]? Saya rasa tidak mungkin mengingat aplikasi tersebut memiliki fungsi yang amat sangat terbatas.
+Pikiran pertama saya adalah, **omong kosong besar**. Anda **tidak bisa menggunakan MS-DOS untuk mengolah kata**. MS-DOS adalah sistem operasi, bukan aplikasi pengolah kata. Apakah Martin menggunakan [[link http://en.wikipedia.org/wiki/MS-DOS_Editor MS-DOS Editor🔗]]? Saya rasa tidak mungkin mengingat aplikasi tersebut memiliki fungsi yang amat sangat terbatas.
 
 Satu hal lagi yang membuat saya geli:
 > Martin menggunakan sistem operasi kuno tersebut sejak 2011.
 Saya kira 2011 adalah tahun dimana dia tahu tentang MS-DOS? Tapi saya tidak akan gali lebih dalam, bisa saja ini salah penulisan tahun, karena artikel lain tidak mengatakan demikian.
 
-[http://www.eteknix.com/george-r-r-martin-uses-dos-pc-with-wordstar-4-0-to-write-game-of-thrones/ Menurut e-Teknik], Martin mengetik menggunakan WordStar 4.0 di mesin berbasis MS-DOS yang berusia 30 tahun. Dalam artikel lain, semua mengatakan bahwa Martin menggunakan WordStar 4.0 (contohnya dari [http://www.cnet.com/news/george-r-r-martin-writes-with-a-dos-word-processor/ CNET], [http://www.theverge.com/2014/5/14/5716232/george-r-r-martin-uses-dos-wordstar-to-write The Verge], [http://techcrunch.com/2014/05/14/george-r-r-martin-writes-everything-in-wordstar-4-0-on-a-dos-machine/ TechCrunch], dan [http://www.slate.com/blogs/future_tense/2014/05/14/george_r_r_martin_writes_on_dos_based_wordstar_4_0_software_from_the_1980s.html Slate]), jadi saya rasa dia menggunakan WordStar 4.0 untuk mengetik, bukan MS-DOS. Nah, jika memang beliau menggunakan WordStar 4.0, pertanyaan berikutnya, __mengapa__.
+[[link http://www.eteknix.com/george-r-r-martin-uses-dos-pc-with-wordstar-4-0-to-write-game-of-thrones/ Menurut e-Teknik🔗]], Martin mengetik menggunakan WordStar 4.0 di mesin berbasis MS-DOS yang berusia 30 tahun. Dalam artikel lain, semua mengatakan bahwa Martin menggunakan WordStar 4.0 (contohnya dari [[link http://www.cnet.com/news/george-r-r-martin-writes-with-a-dos-word-processor/ CNET🔗]], [[link http://www.theverge.com/2014/5/14/5716232/george-r-r-martin-uses-dos-wordstar-to-write The Verge🔗]], [[link http://techcrunch.com/2014/05/14/george-r-r-martin-writes-everything-in-wordstar-4-0-on-a-dos-machine/ TechCrunch🔗]], dan [[link http://www.slate.com/blogs/future_tense/2014/05/14/george_r_r_martin_writes_on_dos_based_wordstar_4_0_software_from_the_1980s.html Slate🔗]]), jadi saya rasa dia menggunakan WordStar 4.0 untuk mengetik, bukan MS-DOS. Nah, jika memang beliau menggunakan WordStar 4.0, pertanyaan berikutnya, __mengapa__.
 
 +  Martin dan WordStar 4.0
-Jika anda belum mengetahui seperti apa itu WordStar 4.0, anda bisa membaca artikelnya di [http://en.wikipedia.org/wiki/WordStar Wikipedia]. Singkatnya, tampilannya seperti ini:
+Jika anda belum mengetahui seperti apa itu WordStar 4.0, anda bisa membaca artikelnya di [[link http://en.wikipedia.org/wiki/WordStar Wikipedia🔗]]. Singkatnya, tampilannya seperti ini:
 
 
 [[image ws4hello.png | Amat Primitif.]]
@@ -126,13 +124,13 @@ Ketika ditanya alasan mengapa Martin menggunakan WordStar, ia berkata:
 Jadi, apa alasannya dia pakai WordStar 4.0? Bukankah Notepad juga merupakan pengolah kata yang tidak melakukan hal lain? Bukankah Notepad tidak memiliki fungsi autocorrect?
 
 
-[[imagenotepad.png | Lebih bersih dari WordStar.]]
+[[image notepad.png | Lebih bersih dari WordStar.]]
 
 
 Jikalau ada dari Anda yang berargumen bahwa Notepad tidak bisa melakukan bold, italic, underline, bagaimana dengan Wordpad?
 
 
-[[imagewordpad.png | Ini bawaan Windows, loh.]]
+[[image wordpad.png | Ini bawaan Windows, loh.]]
 
 
 + Implikasi Penggunaaan WordStar 4.0
@@ -148,15 +146,15 @@ Sebaru apa harddisk yang bisa di pasang di PC tahun 1980an? Kalau mau harddisk t
 Martin tidak menerbikan //A Song of Ice and Fire//. Bantam Books yang menerbitkannya. Jika naskah memang dibuat dengan WordStar 4.0, **bagaimana menyunting dan mencetak naskah tersebut**? Mari kita lihat perbandingan berikut ini.
 
 
-[[imagews4hippo1.png | Tampak ada yang aneh?]]
+[[image ws4hippo1.png | Tampak ada yang aneh?]]
 
 
-Ini adalah paragraf pertama dari artikel [http://en.wikipedia.org/wiki/Hippopotamus Hippopotamus] dari Wikipedia yang saya ketik ulang. Pada gambar di atas, kata "Hippopotamus" dicetak tebal dan terlihat seperti {{^BHippopotamus^B}}. Ini adalah penanda umum di WordStar. Untungnya, penanda ini bisa disembunyikan. Terlihat di kiri atas, nama berkas ini adalah {{HIPPO.TXT}}. Sebagai catatan, {{txt}} bukanlah ekstensi standar WordStar, saya hanya menambahkan saja. WordStar sendiri tidak memiliki standar ekstensi berkas.
+Ini adalah paragraf pertama dari artikel [[link http://en.wikipedia.org/wiki/Hippopotamus Hippopotamus🔗]] dari Wikipedia yang saya ketik ulang. Pada gambar di atas, kata "Hippopotamus" dicetak tebal dan terlihat seperti {{^BHippopotamus^B}}. Ini adalah penanda umum di WordStar. Untungnya, penanda ini bisa disembunyikan. Terlihat di kiri atas, nama berkas ini adalah {{HIPPO.TXT}}. Sebagai catatan, {{txt}} bukanlah ekstensi standar WordStar, saya hanya menambahkan saja. WordStar sendiri tidak memiliki standar ekstensi berkas.
 
 Berikutnya berkas ini saya buka di Notepad++:
 
 
-[[imagenpphippo1.png | Sumpah cuma saya buka.]]
+[[image npphippo1.png | Sumpah cuma saya buka.]]
 
 
 Anda layak dapat bintang jika Anda bisa mengedit tulisan tersebut tanpa melihat sumbernya. Ini tanda bahwa **berkas yang dibuat di WordStar 4.0 tidak bisa dibuka dengan benar di luar program.**
@@ -164,32 +162,30 @@ Anda layak dapat bintang jika Anda bisa mengedit tulisan tersebut tanpa melihat 
 Perbandingan berikutnya adalah menggunakan file {{txt}} yang saya buat di Windows, kemudian di edit di Notepad. Berkas ini saya isi dengan kopi paragraf pertama dari artikel yang sama. Berikut tampilannya di Notepad++:
 
 
-[[imagenpphippo2a.png | Tampak normal.]]
+[[image npphippo2a.png | Tampak normal.]]
 
 
 Berkas ini kemudian saya buka di WordStar 4.0. Hasilnya sebagai berikut:
 
 
-[[imagews4hippo2a.png | Tampak normal juga.]]
+[[image ws4hippo2a.png | Tampak normal juga.]]
 
 
 Selain spasi yang berbeda, tulisan tampilan berkas ini di Notepad++ dan WordStar 4.0 sama. Sekarang berkas ini saya simpan di WordStar 4.0 dan saya buka di Notepad++. Hasilnya sebagai berikut:
 
 
-[[imagenpphippo2b.png | Tampak normal?]]
+[[image npphippo2b.png | Tampak normal?]]
 
 
-Tulisan sama sekali tidak berubah, hanya ada tambahan karakter di akhir file. Perlu diingat bahwa tiap baris pada berkas yang dibuat oleh WordStar 4.0 maupun Notepad, bukan baris hasil dari fungsi word-wrap. Baris tersebut dipisahkan oleh [http://en.wikipedia.org/wiki/Newline karakter Newline], yang nama lainnya adalah linefeed ({{LF}}), mungkin Anda lebih kenal jika anda menekan tombol {{Enter}} saat mengetik di Microsoft Word.
+Tulisan sama sekali tidak berubah, hanya ada tambahan karakter di akhir file. Perlu diingat bahwa tiap baris pada berkas yang dibuat oleh WordStar 4.0 maupun Notepad, bukan baris hasil dari fungsi word-wrap. Baris tersebut dipisahkan oleh [[link http://en.wikipedia.org/wiki/Newline karakter Newline🔗]], yang nama lainnya adalah linefeed ({{LF}}), mungkin Anda lebih kenal jika anda menekan tombol {{Enter}} saat mengetik di Microsoft Word.
 
 Agar ada sedikit gambaran, berikut tampilan berkas yang dibuat di Notepad dan dibuka di Wordpad:
 
 
-[[imagewphippo2a.png | Tampilan teks yang sama di WordPad.]]
+[[image wphippo2a.png | Tampilan teks yang sama di WordPad.]]
 
 
 Terbayang berapa banyak baris yang harus dibetulkan agar terlihat rapi dan siap cetak? Itu baru satu paragraf, bagaimana kalau satu buku? **Siapapun editornya Martin, orangnya pasti sangat sabar.**
 
 + Penutup
 Bagi saya, tidak ada alasan logis mengapa Martin menggunakan WordStar 4.0, kecuali beliau memiliki alasan terselubung, atau cuma ingin bikin kesal editornya.
-
-====

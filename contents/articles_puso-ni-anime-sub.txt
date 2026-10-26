@@ -11,17 +11,16 @@ On 8 September 2020 PSO2 Station Plus stream, Sega announced their plan to remov
 + Downloads
 Without further ado, the button below will link to Dropbox where you can download the subbed anime in MKV format, under the banner of Manaka Sub. The source was the YouTube video, so please excuse the quality. The link was previously Google Drive, but I now use Drive solely for working, so I moved this to a more private Dropbox.
 
-[[xinclude :asoh:common:button-base
+[[include comp:button
 |link=https://www.dropbox.com/sh/akkb2ge7cs0r4bk/AADU3KbaCHWuQtMe1Jm49vova?dl=0
-|icon-class=fa fa-cloud
-|style=font-size: calc(var(--base-font-size) * 1 + .4vw);
-|label=Download PuSo Ni Comi + Okawari with English Subtitles]]
+|icon-class=fa-solid fa-cloud-arrow-down
+|label=Download PuSo Ni Comi + Okawari with English Subtitles
+]]
 
 ++ Keywords
 At the end of each episode, there's a keyword to be typed in PSO2's chat box. Doing so will yield a PuSo Ni Comi Memory (PuSo Ni Comi Memory 3 for the Okawari), redeemable from the Visiphone. The translation provided is contextual on how the keyword is used on the short anime.
 
 +++ First Season Keywords (Expired)
-[[collapsible show="Show 1st Season keywords" hide="Hide keywords"]]
 ||~ Week ||~ Keyword ||~ Translation ||
 || 1 || アニメぷそ煮コミ配信中 || PuSo Ni Comi Anime is on air! ||
 || 2 || 年齢はファンタジー || Age is a fantasy! || 
@@ -43,10 +42,8 @@ At the end of each episode, there's a keyword to be typed in PSO2's chat box. Do
 || 18 || 夜食テロ || Terror of the midnight snack. ||
 || 19 || ぷそ煮オリジナル回 || PuSo Ni Original Episode. ||
 || 20 || 煮コミュニケーション || Stewed Communication. ||
-[[/collapsible]]
 
 +++ Second Season Keywords (Expired)
-[[collapsible show="Show 2nd Season keywords" hide="Hide keywords"]]
 ||~ Week ||~ Keyword ||~ Translation ||
 || 1 || アニメぷそ煮コミおかわり || More PuSo Ni Comi Anime ||
 || 2 || キャラクリデータはとっておこう || Save your Character Creation data! ||
@@ -74,40 +71,12 @@ At the end of each episode, there's a keyword to be typed in PSO2's chat box. Do
 ||24 || 大川さんってＪＫなの？ || Is Clerk Ookawa a Schoolgirl?||
 ||25 || みたらしさん卒業するってよ || Mitarashi said she's going to graduate! ||
 ||26 || ぷそ煮コミおかわり最終回みた？ || Have you watched the last episode?||
-[[/collapsible]]
 
 ++ Related Links
-[[div_ class="row"]]
-[[div_ class="col-sm-6"]]
-[[xinclude :asoh:common:button-base
-|link=https://www.youtube.com/playlist?list=PLjx5erVEp9GGdEaujGRW2xDJuY_ru19PH
-|icon-class=fa-brands fa-youtube
-|label=PuSo Ni Comi on YouTube]]
-[[/div]]
-
-
-[[div_ class="col-sm-6"]]
-[[xinclude :asoh:common:button-base
-|link=https://www.youtube.com/playlist?list=PLjx5erVEp9GFyxo9l0otfzsi3nShElXeA
-|icon-class=fa-brands fa-youtube
-|label=PuSo Ni Comi Okawari on YouTube]]
-[[/div]]
-
-[[div_ class="col-sm-6"]]
-[[xinclude :asoh:common:button-base
-|link=http://pso2.jp/players/community/comic/pso2comi/01/
-|icon-class=fa fa-link
-|label=Puso Ni Comi Webcomic]]
-[[/div]]
-
-[[div_ class="col-sm-6"]]
-[[xinclude :asoh:common:button-base
-|link=https://www.pixiv.net/member.php?id=967677
-|icon-class=fa fa-link
-|label=Pekeko on Pixiv]]
-[[/div]]
-
-[[/div]]
+* [[link https://www.youtube.com/playlist?list=PLjx5erVEp9GGdEaujGRW2xDJuY_ru19PH | PuSo Ni Comi on YouTube🔗]]
+* [[link https://www.youtube.com/playlist?list=PLjx5erVEp9GFyxo9l0otfzsi3nShElXeA | PuSo Ni Comi Okawari on YouTube🔗]]
+* [[link http://pso2.jp/players/community/comic/pso2comi/01/ | Puso Ni Comi Webcomic🔗]]
+* [[link https://www.pixiv.net/member.php?id=967677 | Pekeko on Pixiv🔗]]
 
 + About PuSo Ni Comi
 PuSo tells the story about a character named Mitarashi and her daily interactions in the PSO2 game. She has a close friend named Tetra, and both of them has a friend named Ichika. It's full of in-game jokes that is surprisingly relatable. If you are a player of PSO2, I think you'll find PuSo to be quite funny, and frankly, better than the whole mess of PSO2 story mode.

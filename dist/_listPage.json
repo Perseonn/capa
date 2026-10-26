@@ -11,16 +11,6 @@
     },
     {
         "category": "articles",
-        "slug": "base-counting-trick",
-        "sourceName": "articles_base-counting-trick",
-        "url": "/articles/base-counting-trick/",
-        "title": "Base Counting Trick",
-        "author": "Perseonn Balthasaar",
-        "updated": "2015-12-18",
-        "wip": false
-    },
-    {
-        "category": "articles",
         "slug": "clair-obscur-expedition-33",
         "sourceName": "articles_clair-obscur-expedition-33",
         "url": "/articles/clair-obscur-expedition-33/",
@@ -355,6 +345,16 @@
         "sourceName": "comp_splash",
         "url": "/comp/splash/",
         "title": "Component - Splash",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "comp",
+        "slug": "video-portfolio",
+        "sourceName": "comp_video-portfolio",
+        "url": "/comp/video-portfolio/",
+        "title": "New Page",
         "author": "Perseonn Balthasaar",
         "updated": "2026-01-01",
         "wip": false
