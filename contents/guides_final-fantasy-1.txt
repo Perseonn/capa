@@ -877,7 +877,7 @@ Defense: 10 (NES) / 26 (PS+)
 EXP: 1,200
 Gil: 2,000
 Weak: [[i|ff1 fire]][[i|ff1 holy]]
-Resist: [[i|ff1 earth.png]][[i|ff1 ice]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 ice]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
 Drop: None
 Pretty much a pushover for the point of the game he is at, more so due to having a weakness to Fire and HARM / Dia spells the battle shouldn't last more than one round. In the off chance he lives, he has a DAZZLE / Gaze attack that may Stun / Paralyze a party member, he will recover 14 HP every round he's alive (not on NES).
 
@@ -1527,7 +1527,7 @@ Defense: 10 (NES) / 60 (PS+)
 EXP: 4,245
 Gil: 5,000
 Weak: [[i|ff1 lightning]]
-Resist: [[i|ff1 earth.png]][[i|ff1 fire]]
+Resist: [[i|ff1 earth]][[i|ff1 fire]]
 Drop: Kikuichimonji (Rare)
 He has a pretty nasty physical attack as he can hit up to 8 times (having 8 tentacles and all), he has a special attack called Ink that he can use occasionally which can cause Darkness to your party, but since Darkness doesn't work this is a free turn for you. He has pretty high magic defense so Thundaga would be your best bet to exploit his elemental weakness.
 
@@ -1728,7 +1728,7 @@ Defense: 80
 EXP: 32,000
 Gil: 32,000
 Weak: —
-Resist: [[i|ff1 earth.png]][[i|ff1 fire.png]][[i|ff1 lightning.png]][[i|ff1 ice.png]][[i|ff1 stone.png]][[i|ff1 paralysis.png]][[i|ff1 poison.png]][[i|ff1 blind.png]][[i|ff1 sleep.png]][[i|ff1 silence.png]][[i|ff1 confusion.png]][[i|ff1 mind.png]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 fire.png]][[i|ff1 lightning.png]][[i|ff1 ice.png]][[i|ff1 stone.png]][[i|ff1 paralysis.png]][[i|ff1 poison.png]][[i|ff1 blind.png]][[i|ff1 sleep.png]][[i|ff1 silence.png]][[i|ff1 confusion.png]][[i|ff1 mind.png]][[i|ff1 death]]
 Drop: Genji Armor (Rare)
 This can be a tough battle, moreso if it ambushes you and uses NUCLEAR / Nuke / Atomize which will deal around 300+ damage to your party. Depending on your party and level a White Wizard should stick exclusively to HEL3 / Healaga to keep everyone alive while you FAST / Haste your damage dealers and use White Robe if not on White Wizard for INV2 / Invisira to reduce hits taken. The NES version was meant to recover 2 HP per round, but doesn't due to a bug, from Origins onward it recovers 100 HP per turn it is alive. Most don't know that you can run (since unrunable battles don't tend to have a chance of preemptive or ambush) if you feel your party can't handle it. The encounter rate on NES is higher (3 / 64) compared to remakes (1 / 64).
 
@@ -1850,7 +1850,7 @@ Defense: 60
 EXP: 1
 Gil: 1
 Weak: [[i|ff1 fire.png]][[i|ff1 holy]]
-Resist: [[i|ff1 earth.png]][[i|ff1 ice.png]][[i|ff1 stone.png]][[i|ff1 paralysis.png]][[i|ff1 poison.png]][[i|ff1 blind.png]][[i|ff1 sleep.png]][[i|ff1 silence.png]][[i|ff1 confusion.png]][[i|ff1 mind.png]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 ice.png]][[i|ff1 stone.png]][[i|ff1 paralysis.png]][[i|ff1 poison.png]][[i|ff1 blind.png]][[i|ff1 sleep.png]][[i|ff1 silence.png]][[i|ff1 confusion.png]][[i|ff1 mind.png]][[i|ff1 death]]
 Drop: Elixir (Rare)
 If you remember the EYE / Evil Eye this is basically the same thing, but slightly stronger. Like that enemy it has access to a lot of spells which it will use in order of STOP / Stop > ZAP! / Warp > XFER / Dispell > BRAK / Break > RUB / Death > HOLD / Hold > MUTE / Silence > SLOW / Slow. This is the 3rd and last enemy in the main game that will try to silence you, but it's far down the list to worry about. Its Gaze attack can instant kill, but everyone should be protected from it. In the off chance you don't kill it in one turn it will recover 18 HP (not on NES).
 
@@ -1908,7 +1908,7 @@ Defense: 70 (NES / PS) / 80 (DoS+)
 EXP: 2,000
 Gil: 1
 Weak: —
-Resist: [[i|ff1 earth.png]][[i|ff1 fire]]
+Resist: [[i|ff1 earth]][[i|ff1 fire]]
 Drop: Eye Drops (Rare)
 Not much of a change compared to last time though now Kraken has access to LIT2 / Thudara, same strategy as last time still works.
 
@@ -1925,7 +1925,7 @@ Defense: 90
 EXP: 2,000
 Gil: 1
 Weak: —
-Resist: [[i|ff1 earth.png]][[i|ff1 fire.png]][[i|ff1 ice.png]][[i|ff1 lightning]]
+Resist: [[i|ff1 earth]][[i|ff1 fire.png]][[i|ff1 ice.png]][[i|ff1 lightning]]
 Drop: Rune Staff (Rare)
 It hasn't been too long since we fought Tiamat, this time however she has a spell cycle which she will use more over her skills her spells cycle between BANE / Scourge > ICE2 / Blizzara > LIT2 / Thundara > FIR2 / Fira. Other than her higher defense the old strategy will still work.
 
@@ -1942,7 +1942,7 @@ Defense: 100
 EXP: 0
 Gil: 0
 Weak: —
-Resist: [[i|ff1 earth.png]][[i|ff1 fire.png]][[i|ff1 lightning.png]][[i|ff1 ice.png]][[i|ff1 time.png]][[i|ff1 stone.png]][[i|ff1 paralysis.png]][[i|ff1 poison.png]][[i|ff1 blind.png]][[i|ff1 sleep.png]][[i|ff1 silence.png]][[i|ff1 confusion.png]][[i|ff1 mind.png]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 fire.png]][[i|ff1 lightning.png]][[i|ff1 ice.png]][[i|ff1 time.png]][[i|ff1 stone.png]][[i|ff1 paralysis.png]][[i|ff1 poison.png]][[i|ff1 blind.png]][[i|ff1 sleep.png]][[i|ff1 silence.png]][[i|ff1 confusion.png]][[i|ff1 mind.png]][[i|ff1 death]]
 Drop: None
 In all versions this fight is basically a damage race to hopefully defeat him before he uses CUR4 / Curaja in his spell cycle to fully heal himself. His physical attack has a chance to Stun / Paralyze the member he hits.
 
@@ -2064,7 +2064,7 @@ HP: 4,800
 Attack: 50
 Defense: 50
 Weak: —
-Resist: [[i|ff1 earth.png]][[i|ff1 fire]][[i|ff1 lightning]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 fire]][[i|ff1 lightning]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
 Drop: X-Potion (Always)
 Echidna mainly focuses on instant death such as the Death spell which can kill one member and Earthquake which can potentially kill your entire party. While Protect Ring can protect you from the Death spell, Earthquake is counted as a Quake elemental attack which bypasses that and can still potentially kill you unless you have NulDeath or NulAll active from your White Wizard (Both) or Red Wizard (NulDeath only) or Ribbons on all characters. She will rarely use Flare which will deal around 250 damage to your entire party. Despite having resistance to Sleep, Sleepra can still land on her.
 
@@ -2073,7 +2073,7 @@ HP: 4,000
 Attack: 40
 Defense: 50
 Weak: —
-Resist: [[i|ff1 earth.png]][[i|ff1 fire]][[i|ff1 lightning]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 fire]][[i|ff1 lightning]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
 Drop: Kotetsu (Always)
 Cerberus will mainly do a physical attack which will hit in the low 100s and occasionally do Thunderbolt which will do around 300 damage to your party without NulShock/Blue Curtain (or Ribbon). Invisira can help low level parties if you are having trouble with his physical attack. Despite having resistance to Sleep, Sleepra can still land on him.
 
@@ -2082,7 +2082,7 @@ HP: 5,000
 Attack: 60
 Defense: 50
 Weak: —
-Resist: [[i|ff1 earth.png]][[i|ff1 fire]][[i|ff1 lightning]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 fire]][[i|ff1 lightning]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
 Drop: Dry Ether (Always)
 Of the 4 Ahriman is probably the hardest due to having a wide array of elements at its disposal which include Blaze, Icestorm & Thunderstorm which can deal upward of 300 to your group without protection. Ahriman also has Earthquake which can bypass a Protect Rings protection from Instant Death so having a NulDeath spell active (or Ribbon) really helps. It also has Cura which will heal around 200 HP to it and a minor physical attack which shouldn't be too much of a problem.
 
@@ -2091,7 +2091,7 @@ HP: 4,500
 Attack: 60
 Defense: 50
 Weak: —
-Resist: [[i|ff1 earth.png]][[i|ff1 fire]][[i|ff1 lightning]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 fire]][[i|ff1 lightning]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
 Drop: Bard's Tunic (Always)
 2-Headed Dragon will only do one thing which is a physical attack. Those who played the original FF3 know in that game he could hit upward of 5000+ even on a fully equipped Onion Kid (with the best armor possible), here he hits just as hard as he can hit upwards of 500 damage to your character. One thing that wasn't possible in FF3 that you can do here however, is cast Slow/Slowra to reduce his hit count effectively trivializing the fight.
 
@@ -2305,7 +2305,7 @@ HP: 4,000/7,046
 Attack: 19/46
 Defense: 10/20
 Weak: —/[[i|ff1 fire]][[i|ff1 holy]]
-Resist: [[i|ff1 earth.png]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[image death.png]]/[[image earth.png]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[image death.png]]/[[image earth.png]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[i|ff1 death]]
 Drop: None/Lunar Curtain (Always)
 I would not recommend fighting Scarmiglione unless you have a Ribbon on your White Wizard because of the second portion of the battle.
 
@@ -2320,7 +2320,7 @@ HP: 7,968
 Attack: 44
 Defense: 20
 Weak: [[i|ff1 lightning]]
-Resist: [[i|ff1 earth.png]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[i|ff1 death]]
 Drop: Light Curtain (Always)
 He doesn't have his gimmick of raising water around himself or entering his shell like the original game so Thundaga will do a lot of damage to him. He will usually use Tsunami which will hit for around 300 damage so Healaga after to stay in shape, he may cast Haste to increase his attack or Curaga to heal himself.
 
@@ -2335,7 +2335,7 @@ HP: 12,954
 Attack: 88
 Defense: 10
 Weak: —
-Resist: [[i|ff1 earth.png]][[i|ff1 lightning]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 lightning]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[i|ff1 death]]
 Drop: Braveheart (Always)
 She will not cover herself in her hair like in the original game. She will often deal around 200 damage with a physical attack and will usually use Ray which can petrify a member, though it will often miss so you will want NulDeath for members without a Ribbon. She can also use Cyclone which can deal 300 damage to the entire party. Her physical defense is much lower than her magic defense so boosting your attackers with a Red/Black Wizard is advised.
 
@@ -2344,7 +2344,7 @@ HP: 15,000
 Attack: 88
 Defense: 40
 Weak: —
-Resist: [[i|ff1 earth.png]][[i|ff1 fire]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 fire]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[i|ff1 death]]
 Drop: Kikuichimonji (Always)
 He does not have his gimmick of opening and closing his cloak like the original so in this incarnation he doesn't have a weakness to Ice. He will mainly use Fira, Firaga & Scorch all Fire based moves which you should use NulBlaze/Red Curtain to reduce the damage of. A Red/Black Wizard can choose to cast Thundaga or Flare (Black Wizard only) though his magic defense is very high so you may want to focus on buffing your attackers.
 
@@ -2782,7 +2782,7 @@ HP: 8,800
 Attack: 70
 Defense: 50
 Weak: —
-Resist: [[i|ff1 earth.png]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[i|ff1 death]]
 Drop: Genji Gloves (Always)
 Gilgamesh can be pretty strong, though he will often use Excalipur which will only do 1 damage. He has access to Protect to raise his defense and NulAll to reduce damage from elemental spells. He can do Wind Slash which will hit all members. Casting Protera & Invisira are recommended if his damage is a little high for your group.
 
@@ -2793,7 +2793,7 @@ HP: 13,000
 Attack: 50
 Defense: 70
 Weak: —
-Resist: [[i|ff1 earth.png]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[i|ff1 death]]
 Drop: Judgement Staff (Always)
 Atomos' main attack Wormhole has a chance of causing Instant Death on one member, at this point you should easily have a Protect Ring on everyone to negate it from happening, otherwise use a Lunar Curtain or NulDeath spell to null this attack. Atomos' other attacks are Firaga which will deal around 300 damage to anyone without Fire protection and Comet which will deal the same amount to only one member.
 
@@ -2804,7 +2804,7 @@ HP: 35,000
 Attack: 115
 Defense: 190
 Weak: —
-Resist: [[i|ff1 earth.png]][[i|ff1 fire]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 fire]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
 Drop: Murasame (Always)
 This is mainly a battle of attrition due to Omegas absurdly high defense stats. The difficulty of the fight depends on whether you did this as early as possible or after going through Whisperwind Cove. Omegas main attacks are Earthquake which can instantly kill if you have no protection against Earth and Wave Cannon which will deal around 200-300 damage. Melee fighters should not try attacking until a couple of Giant's Gloves/Temper buffs have been put up including Haste from a Ninja, Black Wizard or Red Wizard. Those using a Red Wizard will want to set up some Proteras to lighten Omegas psychical attack as it can deal a lot of damage. White Wizard should stick exclusively to Healara/Healaga while any extra healing from the Healing Staff or Rune Staff from any other units will be useful or damage via Judgement Staff for free Flare uses.
 
@@ -2813,7 +2813,7 @@ HP: 35,000
 Attack: 220
 Defense: 60
 Weak: —
-Resist: [[i|ff1 earth.png]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[i|ff1 death]]
 Drop: Ragnarok (Always)
 Where Omega is a battle of attrition this is a straight up damage race as Shinryu is not afraid to wipe the party with its barrage of hard hitting moves. Any Giant's Tonic to increase a characters HP is great if they have less than 799 max. Shinryus moves are Icestorm dealing Ice elemental damage to everyone, Thunderbolt which deals Lightning elemental damage to everyone, Tsunami which deals non-elemental damage to everyone and it's most dangerous attack you don't want to see twice in a row Flare which deals hefty non-elemental damage to the party. Haste/Temper your strongest attacker while trying to keep them alive with the White Wizards Healara/Healaga and any spare help from the Healing Staff or Rune Staff. After defeating Shinryu you can open the chest it was guarding which has the best Shield in the game (unless on PSP) the Hero's Shield which has 16 Defense & 40 Evasion with no Weight, its main perk is that it works like a Ribbon + Protect Ring in that it reduces elemental damage and protects from statuses, it can be equipped by a Knight and Ninja.
 
