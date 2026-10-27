@@ -355,68 +355,67 @@ This will list the requirements to get the characters Lv. 11 weapon as well as s
 All Lv. 11 weapons have Power +60 and will come with 4 items attached to them, the items can combine with your equipped ones, some may hit the cap and some may pass it [[link guide:dw4xl-items |refer to this section for more info]]. The images below will have the Dim Sum and Musou Wine locations, as well as the location of Item Boxes in the characters respective stage.
 + Shu Weapons
 +++ Zhao Yun
-[[image w11-zhaoyun.avif | Zhao Yun's Raging Dragon]]
 * **Restrictions:** No bodyguards.
 * **Requirement:** Find Liu Chan in under 2 minutes, defeat all officers, get 200 KOs and reach the retreat point with Liu Bei within 13 minutes & 30 seconds.
 * **Suggested Items:** Orb: Ice, Tiger Amulet, Wind Scroll, Tortoise Amulet + your choices.
+[[image w11-zhaoyun.avif | Zhao Yun's Raging Dragon]]
 
 +++ Guan Yu
-[[image w11-guanyu.avif | Guan Yu's Divine Dragon]]
 * **Lv. 11 Weapon:** Divine Dragon
 * **Restrictions:** No items.
 * **Requirement:** Get 200 KOs and defeat Yue Jin, Yu Jin & Li Dian while having the Carriage in danger less than 4 times.
  * If the Carriage driver (not the soldier) calls for help the weapon is lost. Additionally it doesn't matter if you defeat the officers when they first appear or when they are ambush units. It is possible to get the weapon with more KOs and not all officers defeated as I got it with 350 KOs and only 2 of the 3 officers defeated when the Carriage left the castle.
+[[image w11-guanyu.avif | Guan Yu's Divine Dragon]]
 
 +++ Zhang Fei
-[[image w11-zhangfei.avif | Zhang Fei's Venom]]
 * **Requirement:** Defeat Cao Cao with no more than 1 unit clearing Chang Ban Bridge before he appears.
 * **Restrictions:** No bodyguards.
  * To get Cao Cao to appear you need to defeat the playable officers (Xiahou Dun, Xiahou Yuan, Zhang He, Cao Ren, Xu Huang & Xu Zhu). While making this guide I had 1 unit clear the bridge before Cao Cao arrived and 2 after he arrived and got the weapon.
+[[image w11-zhangfei.avif | Zhang Fei's Venom]]
 
 +++ Zhuge Liang
-[[image w11-zhugeliang.avif | Zhuge Liang's Divine Feather]]
 * **Restrictions:** No bodyguards.
 * **Requirement:** Defeat Yue Ying 6 times, each time quickly enough to get a "won by a wide margin!" message, also defeat 2 of the other officers.
 * **Suggested Items:** Orb: Vorpal, Master of Musou, Way of Musou, Tiger Amulet, Wind Scroll, Tortoise Amulet & Elixir.
  * A "won by a wide margin!" message will happen if you take less than 2 minutes to defeat Yue Ying in each appearance. This setup allows for Zhuge Liang's musou to deal Vorpal damage which speeds up the process of defeating Yue Ying, if lucky you can defeat her with one musou.
+[[image w11-zhugeliang.avif | Zhuge Liang's Divine Feather]]
 
 +++ Liu Bei
-[[image w11-liubei.avif | Liu Bei's King of Shu]]
 * **Restrictions:** None.
 * **Requirement:** Within 10 minutes defeat all enemy officers with less than 4 retreat and returns while killing less than 15 peasants.
 * **Suggested Items:** Orb: Ice, Power Rune, Tiger Amulet, Tortoise Amulet, Peacock Urn & Bodyguard Manual.
  * One of the few stages where bodyguards are useful as KOs they get do not count towards yours. If you get the cutscene with Liu Bei from killing too many peasants you will lose the weapon. If you are in a group with peasants you will want to wait for your bodyguards to defeat them so you don't accidentally do it. Alternatively you can get player 2 to do the requirement as the KOs against peasants only count for Liu Bei.
+[[image w11-liubei.avif | Liu Bei's King of Shu]]
 
 +++ Ma Chao
-* **Lv. 11 Weapon:** Last Stallion
 * **Restrictions:** No items & No bodyguards.
 * **Requirement:** Finish the stage with at least 500 KOs while having double the KOs of the officer in second.
  * This weapon can be pretty fickle to unlock as it is luck based on the other officer KO counts in relation to yours. The best place to get KOs is North of the Gate Captain near Huang Zhong.
+[[image w11-machao.avif | Ma Chao's Last Stallion]]
 
 +++ Huang Zhong
-* **Lv. 11 Weapon:** Venerable Master
 * **Restrictions:** No items.
 * **Requirements:** 
 * Shoot Guan Yu off of his horse before he taunts the first time (30 seconds).
 * Defeat all 4 enemy generals except Guan Yu and get 100 KOs.
- * Shooting Guan Yu off of his horse at the start is the real hard part for the weapon since you have soo little time and Guan Yu will tend to move a lot. This can be remedied by keeping track of where he went and going into bow view where he left the screen, when Guan Yu is visible again he will wait for a short while before he starts moving again which gives you the chance to shoot him. Alternatively you can choose to defeat 3 of either Zhou Cang, Guan Ping, Zhang Fei & Zhao Yun while getting 200 KOs after shooting him.
+ * Shooting Guan Yu off of his horse at the start is the real hard part for the weapon since you have soo little time and Guan Yu will tend to move a lot. This can be remedied by keeping track of where he went and going into bow view where he left the screen, when Guan Yu is visible again he will wait for a short while before he starts moving again which gives you the chance to shoot him.
+[[image w11-huangzhong.avif | Huang Zhong's Venerable Master]]
 
 +++ Jiang Wei
-* **Lv. 11 Weapon:** Prodigal
 * **Restrictions:** None.
 * **Requirement:** Defeat Xu Zhu, Xu Huang, Cao Ren & Zhang He, also defeat either Zhong Hui or Deng Ai while keeping Liu Chan's HP above half.
+[[image w11-jiangwei.avif | Jiang Wei's Prodigal]]
 
 +++ Wei Yan
-* **Lv. 11 Weapon:** Meteor Strike
 * **Restrictions:** No bodyguards.
 * **Requirement:**
 * Method 1: Defeat the 3 Xiahou's before Zhuge Liang orders to attack Wei Yan (2 minutes & 30 seconds).
 * Method 2: After failing Method 1 defeat all Shu officers and sub-officers, encounter Zhuge Liang and get 200 KOs.
 * **Suggested Items:** (Method 1) Orb: Vorpal, Power Rune, Tiger Amulet, Wind Scroll & Herbal Remedy. (Method 2) Orb: Vorpal, Tiger Amulet, Wind Scroll, Tortoise Amulet & Peacock Urn.
  * For Method 2 if you didn't defeat Wang Ping increase the KO count to 300.
+[[image w11-weiyan.avif | Wei Yan's Meteor Strike]]
 
 +++ Pang Tong
-* **Lv. 11 Weapon:** Great Phoenix
 * **Restrictions:** No bodyguards.
 * **Requirements:** 
 * Defeat the Gate Captains at the Northwest & Southwest on the outside.
@@ -426,6 +425,7 @@ All Lv. 11 weapons have Power +60 and will come with 4 items attached to them, t
 * Defend the Siege Ramps until they have setup and meet with Zhuge Liang then get 450 KOs.
 * **Suggested Items:** Orb: Vorpal, Master of Musou, Way of Musou, Tiger Amulet, Wind Scroll, Tortoise Amulet & Elixir.
  * If you did everything correctly the troops who attack the Siege Ramps should defect to your side and you should get the weapon message at 450 KOs, if you didn't then go for 550. If your favor goes down at all you will lose the weapon. This setup allows for Pang Tong's musou to deal Vorpal damage which makes getting troop KOs easier.
+[[image w11-pangtong.avif | Pang Tong's Great Phoenix]]
 
 +++ Yue Ying
 * **Lv. 11 Weapon:** Nether Realm
