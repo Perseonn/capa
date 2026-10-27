@@ -616,7 +616,7 @@ Defense: 16
 EXP: 276
 Gil: 300
 Weak: —
-Resist: [[i|ff1 fire]][[i|ff1 ice.png]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[image mind]]
+Resist: [[i|ff1 fire]][[i|ff1 ice]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[image mind]]
 Drop: None
 While not exactly a boss this enemy is flagged as unrunable so you will have to defeat it to get the Crown, it will appear in as little as a group of 2 to as much as a group of 4. Despite the name WIZARD on the NES they have no magic attacks and can hit really hard with its physical attack. They are resistance to Fire & Ice so use LIT2 / Thundara while spreading out your attacks to bring them down.
 
@@ -955,7 +955,7 @@ Defense: 40
 EXP: 2,200
 Gil: 3,000
 Weak: [[i|ff1 fire]][[i|ff1 holy]]
-Resist: [[i|ff1 ice.png]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
+Resist: [[i|ff1 ice]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
 Drop: Dry Ether (Rare)
 This can be a hard fight and is advised to try and get AICE / NulFrost up as quick as possible hopefully before his first attack as it can be quite devastating to your party. Lichs spell cycle goes ICE2 / Blizzara > SLP2 / Sleepra > FAST / Haste > LIT2 / Thundara > HOLD / Hold > FIR2 / Fira > SLOW / Slow > SLEP / Sleep, he will occasionally do a physical attack which has a chance to Stun / Paralyze you though he will often use a spell in the order listed above. If you have FIR2 / Fira or FIR3 / Firaga you will want to use those as often as possible if you can, otherwise cast FAST / Haste on your strongest attackers.
 
@@ -1016,7 +1016,7 @@ The difficulty of Gurgu Volcano / Mount Gulg depends more so on when you get to 
 || CEREBUS / Hellhound || #063 || 192 || 30-60 / 30 || 8 || 1,182 || 600 || [[i|ff1 ice]] || || ||
 || AGAMA / Fire Lizard || #064 || 296 || 31-62 / 31 || 18 || 2,472 || 1,200 || [[i|ff1 ice]] || || ||
 || R.GIANT / Fire Gigas || #065 || 300 || 73-146 / 73 || 20 || 1,506 || 1,506 || [[i|ff1 ice]] || || ||
-|| Red D / Red Dragon || #066 || 248 || 75-150 / 75 || 30 || 2,904 || 4,000 || [[i|ff1 ice.png]][[i|ff1 stone]][[image poison]] || || ||
+|| Red D / Red Dragon || #066 || 248 || 75-150 / 75 || 30 || 2,904 || 4,000 || [[i|ff1 ice]][[i|ff1 stone]][[image poison]] || || ||
 **R.GOYLE / Horned Devil** - The difficulty lies in what version you are playing, if NES you really don't want to see it as they will often use FIR2 which can be deadly for your party. From Origins onward they no longer are as threatening since they don't have Fira and will mostly stick to physical attacks which can paralyze as well as the spell Hold and Fire on a single member.
 **PERILISK / Pyrolisk** - Is more dangerous than its cousin COCTRICE / Cockatrice, but not in the same sense the Pyrolisk won't petrify with its physical attack instead it has a Gaze that will do that, in addition it has SQUINT / Gaze which can instantly kill a member.
 **FIRE / Fire Elemental** - Like its cousin EARTH / Earth Elemental has a strong physical attack and it also flagged as unrunable so keep your HP up incase you run into him when he's not guarding a chest.
@@ -1081,8 +1081,8 @@ Attack: 40-80 (NES) / 40 (PS+)
 Defense: 50
 EXP: 2,475
 Gil: 3,000
-Weak: [[i|ff1 paralysis.png]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[image mind]]
-Resist: [[i|ff1 fire]][[i|ff1 lightning.png]][[i|ff1 stone]][[image poison]]
+Weak: [[i|ff1 paralysis]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[image mind]]
+Resist: [[i|ff1 fire]][[i|ff1 lightning]][[i|ff1 stone]][[image poison]]
 Drop: Golden Apple (Rare)
 She has a pretty strong physical attack (6 arms = 6 hits) which is what she will often do, she does have a spell cycle which goes
 FIR2 / Fira > DARK / Dark > FIR2 / Fira > DARK / Dark > FIR2 / Fira > HOLD / Hold > FIR2 / Fira > HOLD / Hold
@@ -1467,7 +1467,7 @@ The EYE / Evil Eye gives a large amount of EXP for minimal effort due to its sma
 || SeaSNAKE / Sea Snake || #096 || 224 || 35-70 / 35 || 12 || 957 || 600 || [[i|ff1 lightning]] || || ||
 || LOBSTER / Sea Scorpion || #097 || 148 || 35-70 / 35 || 18 || 639 || 300 || [[i|ff1 lightning]] || || Attack can Poison ||
 || SeaTROLL / Sea Troll || #098 || 216 || 40-80 / 40 || 20 || 852 || 852 || [[i|ff1 lightning]] || || 10 HP Regen per turn (not on NES) ||
-|| GHOST / Ghost || #099 || 180 || 93-186 / 93 || 10 || 990 || 990 || [[i|ff1 fire.png]][[i|ff1 holy]] || || ||
+|| GHOST / Ghost || #099 || 180 || 93-186 / 93 || 10 || 990 || 990 || [[i|ff1 fire]][[i|ff1 holy]] || || ||
 || WATER / Water Elemental || #100 || 300 || 69-138 / 69 || 20 || 1,962 || 800 || [[i|ff1 ice]] || || ||
 || NAGA / Water Naga || #101 || 356 || 9-18 / 9 || 8 || 84 || 20 || [[i|ff1 lightning]] || || ||
 **WzSAHAG / Sahagin Prince** - They will always appear with 8 R.SAHAG / Sahagin Chiefs (7 if 2 happen to show), they have more attack than R.SAHAG / Sahagin Chief, but will likely be your main target for physical fighters while your Zeus Gauntlet / Gauntlets will wipe out the others.
@@ -1544,7 +1544,7 @@ Lufien / Lufenia area
 || FrWOLF / Winter Wolf || #069 || 92 || 25-50 / 25 || 0 || 402 || 200 || [[i|ff1 fire]] || Ice Shield || ||
 || WYVERN / Wyvern || #078 || 212 || 30-60 / 30 || 12 || 1,173 || 20 || || || Attack may Poison ||
 || TYRO / Allosaurus || #083 || 480 || 65-130 / 65 || 10 || 3,387 || 502 || || Strength Tonic || ||
-|| ZomBULL / Minotaur Zombie || #086 || 224 || 40-80 / 40 || 14 || 1,050 || 1,050 || [[i|ff1 fire.png]][[i|ff1 holy]] || Great Axe || ||
+|| ZomBULL / Minotaur Zombie || #086 || 224 || 40-80 / 40 || 14 || 1,050 || 1,050 || [[i|ff1 fire]][[i|ff1 holy]] || Great Axe || ||
 **TYRO / Allosaurus** - A pretty strong enemy with a lot of HP, in later remakes it has a lot of magic defense making physical the better option.
 
 These enemies you would face on the Peninsula of Power near the start of the game so they should be no problem by now, follow the path East and South to eventually reach the town of Lufien / Lufenia.
@@ -1581,16 +1581,16 @@ Outside
 
 Inside
 ||~ Name ||~ Bestiary ||~ HP (NES / PS+) ||~ Attack ||~ Defense (NES / PS+) ||~ EXP ||~ Gil ||~ Weak ||~ Drop ||~ Notes ||
-|| MUMMY / Mummy || #034 || 80 || 30-60 / 30 || 20 || 300 || 300 || [[i|ff1 fire.png]][[i|ff1 holy]] || || Attack may Sleep ||
+|| MUMMY / Mummy || #034 || 80 || 30-60 / 30 || 20 || 300 || 300 || [[i|ff1 fire]][[i|ff1 holy]] || || Attack may Sleep ||
 || COCTRICE / Cockatrice || #045 || 50 || 1-2 / 1 || 4 || 186 || 200 || || Gold Needle || Attack may Petrify ||
-|| VAMPIRE / Vampire || #046 || 156  / 280 || 76-152 / 76 || 10  / 26 || 1,200 || 2,000 || [[i|ff1 fire.png]][[i|ff1 holy]] || || Gaze may Stun / Paralyze ||
+|| VAMPIRE / Vampire || #046 || 156  / 280 || 76-152 / 76 || 10  / 26 || 1,200 || 2,000 || [[i|ff1 fire]][[i|ff1 holy]] || || Gaze may Stun / Paralyze ||
 || PERILISK / Pyrolisk || #059 || 44 || 20-40 / 20 || 4 || 432 || 500 || [[i|ff1 ice]] || Gold Needle || Gaze can petrify or instantly kill ||
 || CEREBUS / Hellhound || #063 || 192 || 30-60 / 30 || 8 || 1,182 || 600 || [[i|ff1 ice]] || || ||
 || Saber T / Sabertooth || #077 || 200 || 24-48 / 24 || 8 || 843 || 500 || || || ||
 || WYVERN / Wyvern || #078 || 212 || 30-60 / 30 || 12 || 1,173 || 20 || || || Attack may Poison ||
 || WYRM / Wyrm || #079 || 260 || 40-80 / 40 || 22 || 1,218 || 502 || || || ||
 || CATMAN / Weretiger || #084 || 160 || 30-60 / 30 || 16 || 780 || 780 || || Sleeping Bag || 8 HP Regen per turn (not on NES), attack may Poison ||
-|| WzMUMMY / King Mummy || #087 || 188 || 43-86 / 43 || 24 || 984 || 1,000 || [[i|ff1 fire.png]][[i|ff1 holy]] || || Attack may Sleep ||
+|| WzMUMMY / King Mummy || #087 || 188 || 43-86 / 43 || 24 || 984 || 1,000 || [[i|ff1 fire]][[i|ff1 holy]] || || Attack may Sleep ||
 || MEDUSA / Medusa || #088 || 68 || 20-40 / 20 || 12 / 10 || 699 || 699 || || || Attack may Poison, Gaze may Stone ||
 || NITEMARE / Nightmare || #091 || 200 || 30-60 / 30 || 24 || 1,272 || 700 || [[i|ff1 ice]] || || Snort can cause Darkness ||
 || BADMAN / Black Knight || #104 || 260 || 44-88 / 44 || 38 || 1,263 || 1,800 || || Deathbringer || ||
@@ -1659,7 +1659,7 @@ An extremely small room head into the room to fight the forced battle against Bl
 || GrMEDUSA / Earth Medusa || #113 || 96 || 11-22 / 11 || 12 || 1,218 || 1,218 || || || Glance can Petrify ||
 || SLIME / Black Flan || #114 || 156 || 49-98 / 49 || 255 || 900 || 1,101 || [[i|ff1 fire]] || || ||
 || SENTRY / Soldier || #115 || 400 || 102-204 / 102 || 48 || 4,000 || 2,000 || [[i|ff1 lightning]] || || ||
-|| WzVAMP / Vampire Lord || #116 || 300 || 90-180 / 90 || 28 || 2,385 || 3,000 || [[i|ff1 fire.png]][[i|ff1 holy]] || Hermes' Shoes || ||
+|| WzVAMP / Vampire Lord || #116 || 300 || 90-180 / 90 || 28 || 2,385 || 3,000 || [[i|ff1 fire]][[i|ff1 holy]] || Hermes' Shoes || ||
 || FIGHTER / Dark Fighter || #117 || 200 || 40-80 / 40 || 38 || 3,420 || 3,420 || || || ||
 **RockGOL / Stone Golem** - Not as threatening as MudGOL / Clay Golem since they have SLOW / Slow as their spell instead of FAST / Haste, like its cousin it is resistant to all elements making physical the better choice.
 **AIR / Air Elemental** - Weaker than the WATER / Water Elemental from Sea Shrine / Sunken Shrine so it shouldn't pose too much of a threat.
@@ -1728,7 +1728,7 @@ Defense: 80
 EXP: 32,000
 Gil: 32,000
 Weak: —
-Resist: [[i|ff1 earth]][[i|ff1 fire.png]][[i|ff1 lightning.png]][[i|ff1 ice.png]][[i|ff1 stone.png]][[i|ff1 paralysis.png]][[i|ff1 poison.png]][[i|ff1 blind.png]][[i|ff1 sleep.png]][[i|ff1 silence.png]][[i|ff1 confusion.png]][[i|ff1 mind.png]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 fire]][[i|ff1 lightning]][[i|ff1 ice]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
 Drop: Genji Armor (Rare)
 This can be a tough battle, moreso if it ambushes you and uses NUCLEAR / Nuke / Atomize which will deal around 300+ damage to your party. Depending on your party and level a White Wizard should stick exclusively to HEL3 / Healaga to keep everyone alive while you FAST / Haste your damage dealers and use White Robe if not on White Wizard for INV2 / Invisira to reduce hits taken. The NES version was meant to recover 2 HP per round, but doesn't due to a bug, from Origins onward it recovers 100 HP per turn it is alive. Most don't know that you can run (since unrunable battles don't tend to have a chance of preemptive or ambush) if you feel your party can't handle it. The encounter rate on NES is higher (3 / 64) compared to remakes (1 / 64).
 
@@ -1739,8 +1739,8 @@ Attack: 49-98 (NES)  / 49 (PS+)
 Defense: 10 (NES)  / 80 (PS+)
 EXP: 5,496
 Gil: 6,000
-Weak: [[i|ff1 poison.png]][[i|ff1 stone]]
-Resist: [[i|ff1 fire.png]][[i|ff1 ice.png]][[i|ff1 lightning.png]][[i|ff1 earth]]
+Weak: [[i|ff1 poison]][[i|ff1 stone]]
+Resist: [[i|ff1 fire]][[i|ff1 ice]][[i|ff1 lightning]][[i|ff1 earth]]
 Drop: None
 She will usually choose between her physical attack or her skill cycle which is THUNDER / Thunderbolt > POISON / Poison Gas > BLIZZARD / Icestorm > BLAZE / Blaze. Despite being a boss she is vulnerable to instant death attacks like BANE / Scourge from the Bane Sword / Razer and BRAK / Break, she is otherwise not too tough.
 
@@ -1759,8 +1759,8 @@ Our journey is coming to a close and it starts where our journey began, those on
 || GREY W / Lava Worm || #062 || 280 || 50-100 / 50 || 31 || 1,671 || 400 || [[i|ff1 ice]] || || ||
 || AGAMA / Fire Lizard || #064 || 296 || 31-62 / 31 || 18 || 2,472 || 1,200 || [[i|ff1 ice]] || || ||
 || R.GIANT / Fire Gigas || #065 || 300 || 73-146 / 73 || 20 || 1,506 || 1,506 || [[i|ff1 ice]] || || ||
-|| Red D / Red Dragon || #066 || 248 || 75-150 / 75 || 30 || 2,904 || 4,000 || [[i|ff1 ice.png]][[i|ff1 stone.png]][[i|ff1 poison]] || || ||
-|| FROST D / White Dragon || #068 || 200 || 53-106 / 53 || 8 || 1,701 || 2,000 || [[i|ff1 fire.png]][[i|ff1 lightning]] || || ||
+|| Red D / Red Dragon || #066 || 248 || 75-150 / 75 || 30 || 2,904 || 4,000 || [[i|ff1 ice]][[i|ff1 stone]][[i|ff1 poison]] || || ||
+|| FROST D / White Dragon || #068 || 200 || 53-106 / 53 || 8 || 1,701 || 2,000 || [[i|ff1 fire]][[i|ff1 lightning]] || || ||
 || FrWOLF / Winter Wolf || #069 || 92 || 25-50 / 25 || 0 || 402 || 200 || [[i|ff1 fire]] || Ice Shield || ||
 || SORCERER / Mindflayer || #070 || 112 || 1-2 / 1 || 12 || 822 || 999 || || Phoenix Down || Attack may instantly kill ||
 || FrGIANT / Ice Gigas || #071 || 336 || 60-120 / 60 || 16 || 1,752 || 1,752 || [[i|ff1 fire]] || || ||
@@ -1768,7 +1768,7 @@ Our journey is coming to a close and it starts where our journey began, those on
 || SAURIA / Basilisk || #082 || 196 || 30-60 / 30 || 20 || 1,977 || 658 || || Gold Needle || Gaze may Stone ||
 || MudGOL / Clay Golem || #090 || 176 || 64-128 / 64 || 7 || 1,257 || 800 || || Potion || Attack may Poison ||
 || NITEMARE / Nightmare || #091 || 200 || 30-60 / 30 || 24 || 1,272 || 700 || [[i|ff1 ice]] || || Snort can cause Darkness ||
-|| ZombieD / Dragon Zombie || #092 || 268 || 56-112 / 56 || 30 || 2,331 || 999 || [[i|ff1 fire.png]][[i|ff1 holy]] || Megalixir || Attack may Stun / Paralyze ||
+|| ZombieD / Dragon Zombie || #092 || 268 || 56-112 / 56 || 30 || 2,331 || 999 || [[i|ff1 fire]][[i|ff1 holy]] || Megalixir || Attack may Stun / Paralyze ||
 || WzSAHAG / Sahagin Prince || #093 || 204 || 47-94 / 47 || 20 || 882 || 882 || [[i|ff1 lightning]] || || ||
 || GrSHARK / White Shark || #094 || 344 || 50-100 / 50 || 8 || 2,361 || 600 || [[i|ff1 lightning]] || Wyrmkiller || ||
 || BigEYE / Deepeyes || #095 || 304 || 30-60 / 30 || 16 || 3,591 || 3,591 || [[i|ff1 lightning]] || || Gaze may Stun / Paralyze, Flash may cause Darkness ||
@@ -1784,7 +1784,7 @@ Our journey is coming to a close and it starts where our journey began, those on
 || EVILMAN / Death Knight || #112 || 190 || 55-110 / 55 || 32 || 2,700 || 3,000 || || || ||
 || GrMEDUSA / Earth Medusa || #113 || 96 || 11-22 / 11 || 12 || 1,218 || 1,218 || || || Glance can Petrify ||
 || SLIME / Black Flan || #114 || 156 || 49-98 / 49 || 255 || 900 || 1,101 || [[i|ff1 fire]] || || ||
-|| WzVAMP / Vampire Lord || #116 || 300 || 90-180 / 90 || 28 || 2,385 || 3,000 || [[i|ff1 fire.png]][[i|ff1 holy]] || Hermes' Shoes || ||
+|| WzVAMP / Vampire Lord || #116 || 300 || 90-180 / 90 || 28 || 2,385 || 3,000 || [[i|ff1 fire]][[i|ff1 holy]] || Hermes' Shoes || ||
 || FIGHTER / Dark Fighter || #117 || 200 || 40-80 / 40 || 38 || 3,420 || 3,420 || || || ||
 || JIMERA / Rhyos || #120 || 350 || 40-80 / 40 || 18 || 4,584 || 5,000 || [[i|ff1 ice]] || Power Staff || Stone Gas can petrify ||
 || WORM / Purple Worm || #122 || 488 || 65-130 / 65 || 10 || 4,344 || 1,000 ||  || Emergency Exit || ||
@@ -1849,8 +1849,8 @@ Attack: 120-240 (NES) / 120 (PS+)
 Defense: 60
 EXP: 1
 Gil: 1
-Weak: [[i|ff1 fire.png]][[i|ff1 holy]]
-Resist: [[i|ff1 earth]][[i|ff1 ice.png]][[i|ff1 stone.png]][[i|ff1 paralysis.png]][[i|ff1 poison.png]][[i|ff1 blind.png]][[i|ff1 sleep.png]][[i|ff1 silence.png]][[i|ff1 confusion.png]][[i|ff1 mind.png]][[i|ff1 death]]
+Weak: [[i|ff1 fire]][[i|ff1 holy]]
+Resist: [[i|ff1 earth]][[i|ff1 ice]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
 Drop: Elixir (Rare)
 If you remember the EYE / Evil Eye this is basically the same thing, but slightly stronger. Like that enemy it has access to a lot of spells which it will use in order of STOP / Stop > ZAP! / Warp > XFER / Dispell > BRAK / Break > RUB / Death > HOLD / Hold > MUTE / Silence > SLOW / Slow. This is the 3rd and last enemy in the main game that will try to silence you, but it's far down the list to worry about. Its Gaze attack can instant kill, but everyone should be protected from it. In the off chance you don't kill it in one turn it will recover 18 HP (not on NES).
 
@@ -1874,7 +1874,7 @@ Defense: 80
 EXP: 2,000
 Gil: 1
 Weak: [[i|ff1 holy]]
-Resist: [[i|ff1 ice.png]][[i|ff1 stone.png]][[i|ff1 paralysis.png]][[i|ff1 poison.png]][[i|ff1 blind.png]][[i|ff1 sleep.png]][[i|ff1 silence.png]][[i|ff1 confusion.png]][[i|ff1 mind.png]][[i|ff1 death]]
+Resist: [[i|ff1 ice]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
 Drop: None
 Lich has had a major update to his spell list only using Level 8 spell this time around with the cycle being NUKE / Flare > STOP / Stop > ZAP! / Warp > XXXX / Kill and losing the Fire Weakness he previously had. NUKE / Flare if he uses it on the first turn will deal hefty damage around 375 at the least. Go all out and hopefully kill him before your weaker mages drop.
 
@@ -1891,7 +1891,7 @@ Defense: 60
 EXP: 2,000
 Gil: 1
 Weak: —
-Resist: [[i|ff1 fire.png]][[i|ff1 lightning.png]][[i|ff1 ice.png]][[i|ff1 stone.png]][[i|ff1 poison]]
+Resist: [[i|ff1 fire]][[i|ff1 lightning]][[i|ff1 ice]][[i|ff1 stone]][[i|ff1 poison]]
 Drop: None
 Her spell cycle has been updated to have FIR3 / Firaga replace FIR2 / Fira, BLND / Blind replace DARK / Dark & STUN / Stun replace HOLD / Hold, same strategy as last time will still work.
 
@@ -1925,7 +1925,7 @@ Defense: 90
 EXP: 2,000
 Gil: 1
 Weak: —
-Resist: [[i|ff1 earth]][[i|ff1 fire.png]][[i|ff1 ice.png]][[i|ff1 lightning]]
+Resist: [[i|ff1 earth]][[i|ff1 fire]][[i|ff1 ice]][[i|ff1 lightning]]
 Drop: Rune Staff (Rare)
 It hasn't been too long since we fought Tiamat, this time however she has a spell cycle which she will use more over her skills her spells cycle between BANE / Scourge > ICE2 / Blizzara > LIT2 / Thundara > FIR2 / Fira. Other than her higher defense the old strategy will still work.
 
@@ -1942,7 +1942,7 @@ Defense: 100
 EXP: 0
 Gil: 0
 Weak: —
-Resist: [[i|ff1 earth]][[i|ff1 fire.png]][[i|ff1 lightning.png]][[i|ff1 ice.png]][[i|ff1 time.png]][[i|ff1 stone.png]][[i|ff1 paralysis.png]][[i|ff1 poison.png]][[i|ff1 blind.png]][[i|ff1 sleep.png]][[i|ff1 silence.png]][[i|ff1 confusion.png]][[i|ff1 mind.png]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 fire]][[i|ff1 lightning]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 paralysis]][[i|ff1 poison]][[i|ff1 blind]][[i|ff1 sleep]][[i|ff1 silence]][[i|ff1 confusion]][[i|ff1 mind]][[i|ff1 death]]
 Drop: None
 In all versions this fight is basically a damage race to hopefully defeat him before he uses CUR4 / Curaja in his spell cycle to fully heal himself. His physical attack has a chance to Stun / Paralyze the member he hits.
 
@@ -2305,7 +2305,7 @@ HP: 4,000/7,046
 Attack: 19/46
 Defense: 10/20
 Weak: —/[[i|ff1 fire]][[i|ff1 holy]]
-Resist: [[i|ff1 earth]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[image death.png]]/[[image earth.png]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[i|ff1 death]]
+Resist: [[i|ff1 earth]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[i|ff1 death]]/[[i|ff1 earth]][[i|ff1 ice]][[i|ff1 time]][[i|ff1 stone]][[i|ff1 poison]][[i|ff1 death]]
 Drop: None/Lunar Curtain (Always)
 I would not recommend fighting Scarmiglione unless you have a Ribbon on your White Wizard because of the second portion of the battle.
 
@@ -2368,7 +2368,7 @@ Home of the Final Fantasy 5 bosses Gilgamesh & Atomos as well as the first real 
 
 **Enemies**
 ||~ Name ||~ Bestiary # ||~ HP ||~ Attack ||~ Defense ||~ EXP  ||~ Gil ||~ Weak ||~ Drop ||~ Notes ||
-|| Red Dragon || #066 || 248 || 75 || 30 || 2,904 || 4,000 || [[i|ff1 ice.png]][[i|ff1 stone]][[image poison]] || || ||
+|| Red Dragon || #066 || 248 || 75 || 30 || 2,904 || 4,000 || [[i|ff1 ice]][[i|ff1 stone]][[image poison]] || || ||
 || White Dragon || #068 || 200 || 53 || 8 || 1,701 || 2,000 || [[i|ff1 fire]][[i|ff1 lightning]] || || ||
 || Dragon Zombie || #092 || 268 ||56 || 30 || 2,331 || 999 || [[i|ff1 fire]][[i|ff1 holy]] || Megalixir || Attack may Stun/Paralyze ||
 || Blue Dragon || #107 || 454 || 92 || 20 || 3,274 || 2,000 || [[i|ff1 fire]] || || ||
