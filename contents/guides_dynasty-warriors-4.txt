@@ -13,7 +13,7 @@ This will detail how to unlock all 42 characters for use in Free Mode, while als
 * If using 2 players as long as one player meets the requirements the message will appear.
 * Be careful if using the Lightning Orb for elemental attacks as it can take your kill which won't count for weapons.
 * I never mention what Harness to use, but it will always be Shadow Harness due to not being knocked off when struck.
-* If using mixjoy with Xtreme Legends these become harder due to the improved AI, [[[guide:dw4xl-lv10-weapons | so decide between the two methods]]].
+* If using mixjoy with Xtreme Legends these become harder due to the improved AI, [[link /guides/dw4xl-lv10-weapons | so decide between the two methods]].
 
 ++ Shu
 +++ Zhao Yun
