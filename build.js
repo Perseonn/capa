@@ -388,6 +388,33 @@ ${urls.map(item => `    <url>
 
 /*
  * ============================================================
+ * Plain-text Sitemap
+ * ============================================================
+ */
+
+function buildSitemapTxt(pages) {
+    const urls = pages.map(page =>
+        page.type
+            ? page.slug
+                ? `${SITE_URL}/${page.type}/${page.slug}/`
+                : `${SITE_URL}/${page.type}/`
+            : `${SITE_URL}/`
+    );
+
+    const sitemap = urls.join("\n") + "\n";
+
+    const outputPath = path.join(DIST_DIR, "sitemap.txt");
+
+    fs.writeFileSync(
+        outputPath,
+        sitemap
+    );
+
+    console.log(`Built: ${outputPath}`);
+}
+
+/*
+ * ============================================================
  * HTML document
  * ============================================================
  */
@@ -475,6 +502,7 @@ function build() {
     }
 
     buildSitemap(pages);
+    buildSitemapTxt(pages);
 }
 
 build();
