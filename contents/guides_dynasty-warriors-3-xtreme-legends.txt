@@ -2,7 +2,7 @@
 @author: Buster Wolf
 @updated: 2025-04-06
 
-Dynasty Warriors 3: Xtreme Legends is the first ever expansion to a Warriors title, as with all Xtreme Legends expansions it has its own content to separate itself from the [[link /guide:dynasty-warriors-3 | vanilla game]], but to have all the content from the vanilla game Mixjoy is needed.
+Dynasty Warriors 3: Xtreme Legends is the first ever expansion to a Warriors title, as with all Xtreme Legends expansions it has its own content to separate itself from the [[link /guides/dynasty-warriors-3 | vanilla game]], but to have all the content from the vanilla game Mixjoy is needed.
 
 Three words of warning before beginning
 * First if you used Cheat Codes with the vanilla game your save cannot be transferred to Xtreme Legends due to anti cheating measures.
