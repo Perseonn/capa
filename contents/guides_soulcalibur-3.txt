@@ -119,8 +119,8 @@ The result will be Fu-ma Ninja.
 The result will be Shiun.
 
 +++ Character Modifier Digits
-||~ ||~ Costume ||
-||~ Hex ||~ 00 ||~ 01 ||~ 02 ||~ 03 ||~ 04 ||~ 05 ||~ 06 ||~ 07 ||
+||~ Hex ||||||||||||||||~ Costume ||
+||~  ||~ 00 ||~ 01 ||~ 02 ||~ 03 ||~ 04 ||~ 05 ||~ 06 ||~ 07 ||
 || 01 || Mitsurugi ||  ||  ||  ||  ||  ||  ||  ||
 || 02 || Seong Mi-na ||  ||  ||  ||  ||  ||  ||  ||
 || 03 || Taki ||  ||  ||  ||  ||  ||  ||  ||

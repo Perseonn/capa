@@ -384,42 +384,73 @@ function isTableLine(line) {
            line.trim().endsWith("||");
 }
 
-
-function parseTable(lines, startIndex, customInlineParsers, sourceName) {
+function parseTable(lines, startIndex, customInlineParsers) {
     const rows = [];
     let index = startIndex;
 
     while (index < lines.length && isTableLine(lines[index])) {
         const line = lines[index].trim();
-
         const inner = line.slice(2, -2);
-        const rawCells = inner.split("||");
 
         const cells = [];
+        let pos = 0;
         let colspan = 1;
 
-        for (const rawCell of rawCells) {
-            const trimmed = rawCell.trim();
+        while (pos <= inner.length) {
+            // Find the next cell separator.
+            const nextPipe = inner.indexOf("||", pos);
 
-            // An empty segment represents an additional colspan.
-            if (trimmed === "") {
-                colspan++;
-                continue;
+            if (nextPipe === -1) {
+                const content = inner.slice(pos).trim();
+                const isHeader = content.startsWith("~");
+
+                cells.push({
+                    isHeader,
+                    colspan,
+                    content: content
+                        ? parseInline(
+                            isHeader ? content.slice(1).trim() : content,
+                            customInlineParsers
+                        )
+                        : ""
+                });
+
+                break;
             }
 
-            const isHeader = trimmed.startsWith("~");
-            const content = isHeader
-                ? trimmed.slice(1).trim()
-                : trimmed;
+            const content = inner.slice(pos, nextPipe).trim();
 
-            cells.push({
-                isHeader,
-                colspan,
-                content: parseInline(content, customInlineParsers, sourceName)
-            });
+            if (content !== "") {
+                const isHeader = content.startsWith("~");
 
-            // Reset for the next cell.
-            colspan = 1;
+                cells.push({
+                    isHeader,
+                    colspan,
+                    content: parseInline(
+                        isHeader ? content.slice(1).trim() : content,
+                        customInlineParsers
+                    )
+                });
+
+                colspan = 1;
+            } else {
+                // An empty cell segment contributes to the pending colspan.
+                colspan++;
+            }
+
+            // Consume the separator.
+            pos = nextPipe + 2;
+
+            // Preserve empty cells at the end of the row.
+            if (pos === inner.length) {
+                cells.push({
+                    isHeader: false,
+                    colspan,
+                    content: ""
+                });
+
+                break;
+            }
         }
 
         rows.push(cells);
