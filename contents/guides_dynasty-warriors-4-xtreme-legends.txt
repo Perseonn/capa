@@ -355,32 +355,33 @@ This will list the requirements to get the characters Lv. 11 weapon as well as s
 All Lv. 11 weapons have Power +60 and will come with 4 items attached to them, the items can combine with your equipped ones, some may hit the cap and some may pass it [[link guide:dw4xl-items |refer to this section for more info]]. The images below will have the Dim Sum and Musou Wine locations, as well as the location of Item Boxes in the characters respective stage.
 + Shu Weapons
 +++ Zhao Yun
-* **Lv. 11 Weapon:** Raging Dragon
+[[image w11-zhaoyun.avif | Zhao Yun's Raging Dragon]]
 * **Restrictions:** No bodyguards.
 * **Requirement:** Find Liu Chan in under 2 minutes, defeat all officers, get 200 KOs and reach the retreat point with Liu Bei within 13 minutes & 30 seconds.
 * **Suggested Items:** Orb: Ice, Tiger Amulet, Wind Scroll, Tortoise Amulet + your choices.
 
 +++ Guan Yu
+[[image w11-guanyu.avif | Guan Yu's Divine Dragon]]
 * **Lv. 11 Weapon:** Divine Dragon
 * **Restrictions:** No items.
 * **Requirement:** Get 200 KOs and defeat Yue Jin, Yu Jin & Li Dian while having the Carriage in danger less than 4 times.
  * If the Carriage driver (not the soldier) calls for help the weapon is lost. Additionally it doesn't matter if you defeat the officers when they first appear or when they are ambush units. It is possible to get the weapon with more KOs and not all officers defeated as I got it with 350 KOs and only 2 of the 3 officers defeated when the Carriage left the castle.
 
 +++ Zhang Fei
-* **Lv. 11 Weapon:** Venom
+[[image w11-zhangfei.avif | Zhang Fei's Venom]]
 * **Requirement:** Defeat Cao Cao with no more than 1 unit clearing Chang Ban Bridge before he appears.
 * **Restrictions:** No bodyguards.
  * To get Cao Cao to appear you need to defeat the playable officers (Xiahou Dun, Xiahou Yuan, Zhang He, Cao Ren, Xu Huang & Xu Zhu). While making this guide I had 1 unit clear the bridge before Cao Cao arrived and 2 after he arrived and got the weapon.
 
 +++ Zhuge Liang
-* **Lv. 11 Weapon:** Divine Feather
+[[image w11-zhugeliang.avif | Zhuge Liang's Divine Feather]]
 * **Restrictions:** No bodyguards.
 * **Requirement:** Defeat Yue Ying 6 times, each time quickly enough to get a "won by a wide margin!" message, also defeat 2 of the other officers.
 * **Suggested Items:** Orb: Vorpal, Master of Musou, Way of Musou, Tiger Amulet, Wind Scroll, Tortoise Amulet & Elixir.
  * A "won by a wide margin!" message will happen if you take less than 2 minutes to defeat Yue Ying in each appearance. This setup allows for Zhuge Liang's musou to deal Vorpal damage which speeds up the process of defeating Yue Ying, if lucky you can defeat her with one musou.
 
 +++ Liu Bei
-* **Lv. 11 Weapon:** King of Shu
+[[image w11-liubei.avif | Liu Bei's King of Shu]]
 * **Restrictions:** None.
 * **Requirement:** Within 10 minutes defeat all enemy officers with less than 4 retreat and returns while killing less than 15 peasants.
 * **Suggested Items:** Orb: Ice, Power Rune, Tiger Amulet, Tortoise Amulet, Peacock Urn & Bodyguard Manual.
@@ -789,7 +790,24 @@ Normal items are ones that boost your characters stats, these will max at Lv 20.
 * Seven Star Sash (+Luck)
 * Elixir (+Musou Fill)
 * Herbal Remedy (+Charge Attack Power)
+The following items will add up with Lv 11 weapons, but will hit the cap of 20.
 
+* Peacock Urn (+Life)
+* Dragon Amulet (+Musou)
+* Tiger Amulet (+Attack)
+* Tortoise Amulet (+Defense)
+* Speed Scroll (+Speed)
+* Elixir (+Musou Fill)
+The following can exceed the Lv 20 limit
+
+* Wing Boots (+Jump)
+* Huang's Bow (+Bow Attack)
+* Nanman Armor (+Bow Defense)
+* Horned Helm (+Mount Attack)
+* Cavalry Armor (+Mount Defense)
+* Seven Star Sash (+Luck)
+* Herbal Remedy (+Charge Attack Power)
+Bow Defense & Mount Defense if too high can potentially overflow which will cause you to be killed in 1 hit. While Luck is hard to notice while testing on a fresh 4:XL file a character with Seven Star Sash on their Lv. 11 weapon and Seven Star Sash as an item they had noticeably higher items levels compared to one with only the item.
 + Unique Items (Old)
 These are items with specific effects that only need to be obtained once. The items are listed in order of how they appear when selecting items to use for battle. These are the items from the vanilla game
 
