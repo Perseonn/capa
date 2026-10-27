@@ -1,6 +1,7 @@
 @title: Wild Arms Alter Code F
 @author: Perseonn Balthasaar
 @updated: 2025-03-10
+@wip
 
 Wild Arms Alter Code F (ACF, from now on) is a wild west fantasy JRPG and a remake of the 1996 classic, Wild Arms. It was developed by Media Vision and released on 2003 (Japan release). The  NA version was released much later on 2005 by Agetec, and to anyone surprise, contains an unpolished translation, despite severe delays.
 
