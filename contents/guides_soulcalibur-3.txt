@@ -1,10 +1,835 @@
 @title: Soulcalibur III
-@author: Perseonn Balthasaar
-@updated: 2014-12-15
+@author: Buster Wolf and Perseonn Balthasaar
+@updated: 2026-10-22
 
 The fourth installment of the //Soul// series, Soulcalibur III is, to the release of Soulcalibur V, the installment with most content. It was unknown why the later series have less content, probably because Daishi is involved in the production.
 
-If you're interested in showcasing your character, you can visit [[link http://asoh.wikidot.com | Another Stage of History]].
+Part of this guide was previously published on Another Stage of History. Honor Collection and Tower of Lost Souls sections are written by Buster Wolf.
+
+[!-- ==== ==== ==== ==== ==== ==== ==== ==== Normal Unlockables Part ==== ==== ==== ==== ==== ==== ==== ==== --]
+
++ Normal Unlockables
+Listed here is the normal way to unlock these rather than getting them via [[a href="#battle-count"]]Battle count[[/a]]. This section  was made by Buster Wolf.
+
+++ Soul Arena missions
+* **Dancing Statue (Easy):** Score Clear or higher in Soul Smash (Easy)
+* **Sudden Death Rally (Easy):** Score Clear or higher in Turntable (Easy)
+* **Wisp Shoot (Easy):** Score Clear or higher in Coin Collector (Easy)
+* **Hard Workers (Easy):** Spend 250,000 Gold at the Item Shop
+* **Beloved (Easy):** Beat Amy in Tales of Souls
+* **Final Battle (Easy):** Beat Night Terror in Tales of Souls
+
+++ Stages
+* **Chaos - Spiritual Realm:** Beat Night Terror in Tales of Souls
+* **Egyptian Temple (Minimum):** Score Clear or Higher in Sudden Death Rally (Easy)
+* **Egyptian Temple, Egyptian Temple (Minimum & Cage), Eurydice Shrine, Grand Labyrinth, Grand Labyrinth (Corridor), Grand Labyrinth (Darkness), Lakeside Coliseum, Lakeside Coliseum (No Cage), Lost Cathedral - Ruin, Pirate Raid, Sacred Mt. Fuji & Silk Road Ruin:** Clear episode of Tales of Souls featuring corresponding stage
+
+++ Items
+* **Character Illustrations:** Beat Tales of Souls with the corresponding character
+* **Hi-Res art:** Buy Zasalamel(3), Tira(2), Setsuka(2), Mitsurugi(1), Taki(1), Ivy(1), Cassandra(1), Astaroth(1), Voldo(1), Siegfried(1) & Nightmare's(2) Illustrations after beating Tales of Souls with them
+* **Abyss' Art:** Beat Abyss in Tales of Souls
+* **Night Terror's Art:** Beat Night Terror in Tales of Souls
+* **CotS Character Art (Abelia, Aurelia, Chester, Demuth, Girardot, Luna & Strife):** Beat the Chronicle it takes to unlock the character while also fulfilling bonus requirements (Abelia 18, Aurelia 12, Chester 19, Demuth 10, Girardot 15, Luna 11, Strife 20)
+
+++ Group Illustrations
+* **Illustration 02:** Beat Chronicle 2 while also fulfilling bonus requirements
+* **Illustration 03:** Beat Chronicle 4 while also fulfilling bonus requirements
+* **Illustration 04:** Beat Chronicle 6 while also fulfilling bonus requirements
+* **Illustration 05:** Beat Chronicle 8 while also fulfilling bonus requirements
+
+++ Specialty Art
+* **Publicity Art 1:** Win 1 Tournament in World Competition
+* **Publicity Art 2:** Win 1 League Tournament in World Competition
+* **Publicity Art 3:** Win Tournament 3 times in a row in World Competition
+* **Special Art - V's Mansion:** Clear Chronicle 17 while fulfilling bonus requirements
+* **Special Art - Group:** Clear Chronicles of the Sword
+* **Special Art - Special Group:** Clear all missions in Soul Arena with a score of Great
+
+++ Jobs
+* **Assassin:** Reach Lv.20 with Ninja
+* **Gladiator:** Reach Lv.20 with Barbarian
+* **Pirate:** Reach Lv.20 with Thief
+* **Sage:** Reach Lv.20 with Saint
+* **Knight:** Reach Lv. 20 with Gladiator
+* **Samurai:** Reach Lv.20 with Assassin
+* **Sword Master:** Buy every class, leave shop, then return
+
+++ Easy way to get all Disciplines
+* Create 1 character of a certain class (example Monk)
+* Go to Vs. Battles & have rounds set to 1
+* Have the Character fight them self (Monk vs. Monk) with health set to 10%
+* Another way to get the Disciplines is to play through Survival (Hard) once, Survival (Normal) twice or Survival (Easy) 3 times and 10 battles on the next run through (Brought to you by Jukain)
+* Battles must be finished to count
+
+++++ Number of Battles To Do
+* 13: Discipline 2
+* 25: Discipline 3
+* 38: Soul of Discipline 1
+* 50: Soul of Discipline 2
+
+++++ Can I do that with 2 characters at once?
+* Yes, same procedure except it's create 2 characters of differing jobs that don't have all disciplines & the count is 25, 50, 75, 100
+
+++++ What if I don't have a second controller?
+* Quick play set to 1 round, though the number of fights you have to do is equal to doing the above (25, 50, 75 ,100)
+
+++++ For Chronicles of the Sword the levels to unlock disciplines are
+* Lv.10 Discipline 2
+* Lv.20 Discipline 3
+* Lv.30 Soul of Disciplines
+
++++ CaS Discipline List
+++++ Barbarian
+* Iron Sword
+* Grieve Edge
+* Wave Sword
+* Soul of Nightmare
+* Soul of Astaroth
+
+++++ Monk
+* Nunchaku
+* Staff
+* Grieve Edge
+* Soul of Maxi
+* Soul of Kilik
+
+++++ Thief
+* Dagger
+* Wave Sword
+* Sickle
+* Soul of Yun-Seong
+* Soul of Tira
+
+++++ Dancer
+* Tambourine
+* Steel Fan
+* Grieve Edge
+* Soul of Xianghua
+* Soul of Voldo
+
+++++ Saint
+* Staff
+* Dagger
+* Steel Fan
+* Soul of Zasalamel
+* Soul of Talim
+
+++++ Ninja
+* Kunai
+* Katana & Shuriken
+* Sickle
+* Soul of Taki
+* Soul of Setsuka
+
+++++ Gladiator
+* Sword & Shield
+* Wave Sword
+* Grieve Edge
+* Soul of Rock
+* Soul of Seong Mi-Na
+
+++++ Pirate
+* Chinese Sword
+* Rapier
+* Iron Sword
+* Soul of Cervantes
+* Soul of Ivy
+
+++++ Sage
+* Chinese Blade
+* Sword and Shield
+* Staff
+* Soul of Sophitia
+* Soul of Cassandra
+
+++++ Assassin
+* Wave Sword
+* Kunai
+* Chinese Sword
+* Soul of Lizardman
+* Soul of Tira
+
+++++ Knight
+* Lance
+* Iron Sword
+* Rapier
+* Soul of Siegfried
+* Soul of Raphael
+
+++++ Samurai
+* Katana
+* Katana & Shuriken
+* Sickle
+* Soul of Mitsurugi
+* Soul of Yoshimitsu
+
+++++ Sword Master
+* Katana & Shuriken
+* Kunai
+* Katana
+* Chinese Sword
+* Chinese Blade
+* Grieve Edge
+* Staff
+* Lance
+* Steel Fan
+* Sickle
+* Dagger
+* Iron Sword
+* Sword & Shield
+* Tambourine
+* Nunchaku
+* Wave Sword
+* Rapier
+
+++ Additional Custom Character Slots
+* **1st of 7:** Beat Chronicle 3 while fulfilling bonus requirements
+* **2nd of 7:** Beat Chronicle 5 while fulfilling bonus requirements
+* **3rd of 7:** Beat Chronicle 9 while fulfilling bonus requirements
+* **4th of 7:** Beat Chronicle 13 while fulfilling bonus requirements
+* **5th of 7:** Beat Chronicle 16 while fulfilling bonus requirements
+* **6th of 7:** Beat Chronicle 19 while fulfilling bonus requirements
+* **7th of 7:** Beat Chronicle 20 while fulfilling bonus requirements
+
+++ Joke Weapons
+There are a total of 24 Joke weapons in the game, you can unlock them by beating a certain mission in Soul Arena with a certain grade
+
+++++ Soul Smash
+* **Normal (Great):** Siegfried Galley Oar
+* **Hard (Clear):** Asatroth Stone Slab
+
+++++  Coin Collector
+* **Normal (Great):** Ivy Prototype Ivy Blade
+* **Hard (Clear):** Voldo Tambourines
+
+++++ Turntable
+* **Normal (Great):** Xianghua Calligraphy Brush
+* **Hard (Clear):** Taki Tobacco Pipes
+
+++++ Blast Chase
+* **Normal (Great):** Yun-seong Child's Sword
+* **Hard (Clear):** Seong Mi-na Feather Broom
+
+++++ Dancing Statue
+* **Normal (Great):** Cassandra Broken Sword
+* **Hard (Clear):** Sophitia Memento
+
+++++ Wisp Shoot
+* **Normal (Great):** Zasalamel Beak
+* **Hard (Great):** Rock Iron Fists
+
+++++ Sudden Death Rally
+* **Normal (Great):** Maxi Termite Snack
+* **Hard (Clear):** Lizardman Boned Meat
+
+++++ Survival
+* **Normal (Great):** Setsuka Broken Bamboo Sword
+* **Hard (Clear):** Yoshimitsu Shepard's Crook
+
+++++ Scorer
+* **Normal (Great):** Mitsurugi Souvenir Gift
+* **Hard (Clear):** Olcadan The Tease
+
+++++ Hard Workers
+* **Normal (Great):** Tira Cogwheel
+* **Hard (Clear):** Talim Weight
+
+++++ Beloved
+* **Normal (Great):** Raphael Cane
+* **Hard (Clear):** Kilik Bamboo Staff
+
+++++ Final Battle
+* **Normal (Great):** Cervantes Imitation Sword
+* **Hard (Clear):** Nightmare Giant Squid
+
+
+[!-- ==== ==== ==== ==== ==== ==== ==== ==== Battle Count Unlockables Part ==== ==== ==== ==== ==== ==== ==== ==== --]
+
+[[#battle-count]]
++ Battle Count Unlockables
+The count here is 100% accurate I assure you, as I did all of these battles in Versus Mode to make sure the count was right without playing Tales of Souls or Chronicles of the Sword. I've been reading this way too often so I might as well ease some peoples suffering by saying this: **the numbers of rounds it takes to win a match DOES NOT count towards your battle count**. What does that mean you may ask? Simple, **if you fight more than one round it will be tallied as ONE BATTLE** not however many you fought. Note this does not take into account unlocking characters earlier than they are meant to be. — Buster Wolf
+
+++ Up to 500 Battles
+++++ 200
+**Available in Valeria's Shop**
+Custom Character +1 (1st of 7)
+
+++++ 250
+**Available in Valeria's Shop**
+Hard Workers (Easy) Soul Arena Mission
+
+++++ 275
+**Available in Valeria's Shop**
+Custom Character +1 (2nd of 7)
+
+++++ 300
+**Available in Hualin's Shop**
+Mitsurugi - Masamune
+Seong Mi-na - Hyup Do
+Katana & Shuriken - Suigetsutou & Ukifune
+Katana - Monohoshizao
+Chinese Sword - Falchon
+Taki - Kagekiri
+Kunai - Kazekirimaru
+Maxi - Chained Kozuka
+Voldo - Tonfana Scissors
+
+**Available in Valeria's Shop**
+Illustrations: Group 02 & 03
+
+++++ 325
+**Available in Hualin's Shop**
+Chinese Blade - Jiaotu Juan
+Siegfried - Glam
+Lance - Bourdanasse
+Kilik - Amud
+Grieve Edge - Senjinsoku
+Staff - Iron Staff
+Ivy - Dream Blade
+
+++++ 350
+**Available in Hualin's Shop**
+Xianghua - Northern Star
+Dagger - Kris
+Nightmare - Soul Edge (Larvae)
+Astaroth - Great Maul
+Iron Sword - Demon Knife
+Sickle - Mizuchi
+Steel Fan - Fujin Fan
+
+**Available in Valeria's Shop**
+Custom Character +1 (3rd of 7)
+
+++++ 375
+**Available in Hualin's Shop**
+Raphael - Holy Antler
+Cassandra - Spine Blade
+Yun-seong - Cheng Ying
+Sword & Shield - Katzbalger
+Wave Sword - Double Fang
+Rapier - Fallen Antler
+Talim - Side Harpe
+Nunchaku - Zhongkui
+Tambourine - Tarantella
+
+++++ 400
+**Available in Hualin's Shop**
+Katana & Shuriken - Genma & Kokuken
+Katana - Shiranui
+Chinese Sword - Lei Yan
+Kunai - Nakinue
+Zasalamel - Balor
+Setsuka - Shiranamigasumi
+Tira - Ixion
+
+**Available in Valeria's Shop**
+Illustrations: Group 04 & 05
+
+++++ 410
+**Available in Valeria's Shop**
+Job: Gladiator
+Job: Pirate
+Job: Sage
+Job: Assassin
+
+++++ 418
+**Available in Valeria's Shop**
+Vs. Special
+
+++++ 425
+Yoshimitsu Unlocked
+Sacred Mt. Fuji - Lava Bed stage
+Yoshimitsu 1P/2P Weapon
+Yoshimitsus Profile viewable in Museum
+
+Another way to unlock him is to beat him in Tales of Souls
+
+[[link #tales-of-souls | Tales of Souls possible opponent for]] Astaroth, Cassandra, Cervantes, Ivy, Kilik, Lizardman, Maxi, Mitsurugi, Nightmare, Olcadan, Raphael, Rock, Seong Mi-na, Setsuka, Siegfried, Sophitia, Taki, Talim, Tira, Voldo, Xianghua, Yun-seong, Zasalamel
+
+**Available in Hualin's Shop**
+Mitsurugi - Damascus Sword
+Seong Mi-na - Halberd
+Yoshimitsu - Kastane, Pakayun & Kagekiyo
+Chinese Blade - Rune Blade
+Taki - Fumakugi
+Lance - Ahlspiess
+Maxi - Raimei
+Voldo - Iron Ram
+Grieve Edge - Cailleach Bhuer
+Staff - Duel Rod
+
+**Available in Valeria's Shop**
+Weapon Demo: Yoshimitsu
+Custom Characters +1 (4th of 7)
+
+++++ 450
+Miser
+Katana & Shuriken - Red Crow & Rusty Wing
+Twisted Headband, Medium Straight, Thief's Belt, Bandit's Robe, War Braces, Guardian Belt, Ring Pants, Tight Skirt, Leather Sandals & Face 09 available in CaS
+
+Another way to unlock her is to beat her in Tales of Souls
+
+[[link #tales-of-souls | Tales of Souls possible opponent for]] Astaroth, Cervantes, Kilik, Lizardman, Maxi, Mitsurugi, Nightmare, Olcadan, Raphael, Rock, Siegfried, Voldo, Yoshimitsu, Yun-seong, Zasalamel
+
+**Available in Hualin's Shop**
+Dagger - Misericorde
+Siegfried - Faust
+Iron Sword - Hercules Sword
+Kilik - Jingu Staff
+Sickle - Yaesumuji
+Ivy - Alraune
+Steel Fan - Zephyrus
+
+++++ 475
+Rock
+Lakeside Coliseum stage
+Onslaught 1P/2P
+Rocks Profile viewable in Museum
+
+Another way to unlock him is to beat him in Tales of Souls
+
+[[link #tales-of-souls | Tales of Souls possible opponent for]] Astaroth, Cassandra, Cervantes, Ivy, Kilik, Lizardman, Maxi, Mitsurugi, Nightmare, Olcadan, Raphael, Seong Mi-na, Setsuka, Siegfried, Sophitia, Taki, Talim, Tira, Xianghua, Yoshimitsu, Yun-seong , Zasalamel
+
+**Available in Hualin's Shop**
+Xianghua - Kopis
+Sword & Shield - Excalibur
+Wave Sword - Aya & Hongya
+Rapier - Tuck
+Rock - Giant Mace, Ropalon & Juggernaut
+Nightmare - Soul Edge (Cocoon)
+Astaroth - Nanbanfu
+Nunchaku - Huoshen
+Tambourine - Menard
+
+**Available in Valeria's Shop**
+Weapon Demo: Rock
+
+++++ 500
+Greed
+Kunai - Austere & Void
+Styled Back, Monocle (Left Eye), Hermit's Beard, Cloth Vest, Dragon Gauntlets, Heko-Obi, Imperial Pants, Cloth Shoes & Face 15 available in CaS
+
+Another way to unlock him is to beat him in Tales of Souls
+
+[[link #tales-of-souls | Tales of Souls possible opponent for]] Cassandra, Ivy, Seong Mi-na, Setsuka, Sophitia, Taki, Talim, Xianghua
+
+**Available in Hualin's Shop**
+Raphael - Estoc
+Cassandra - Dark Blade
+Yun-seong - Ramdao
+Katana & Shuriken - Totsuka & Yatsugashira
+Katana - Murasame
+Chinese Sword - Bonebreaker Sword
+Talim - Double Crescent Blade
+Kunai - Shutensou
+
+**Available in Valeria's Shop**
+Illustrations Girardot, Luna, Aurelia & Demuth
+Custom Characters +1 (5th of 7)
+
+
+++ 500 to 1000 Battles
+++++ 510
+Mitsurugi-  Soul Edge
+Seong Mi-na - Hraesvelgr
+
+++++ 525
+Sophitia
+Eurydice Shrine stage
+Background Art: Eurydice Shrine viewable in Museum
+Ω Sword & Elk Shield 1P/2P
+
+Another way to unlock her is to beat her in Tales of Souls
+
+[[link #tales-of-souls | Tales of Souls possible opponent for]] Astaroth, Cassandra, Cervantes, Ivy, Kilik, Lizardman, Maxi, Mitsurugi, Nightmare, Olcadan, Raphael, Rock, Seong Mi-na, Setsuka, Siegfried, Taki, Talim, Tira, Voldo, Xianghua, Yoshimitsu, Yun-seong, Zasalamel
+
+**Available in Hualin's Shop**
+Sophitia - Fire Blade, Blue Crystal Rod & Orichalcum
+Chinese Blade - Dujiao Gui
+Zasalamel - Mrtyu
+Lance - Dreadnought
+Grieve Edge - Svadifari
+Staff - Kunlun Bamboo
+Setsuka - Moonlight
+Tira - Vimana
+
+**Available in Valeria's Shop**
+Weapon Demo: Sophitia
+
+++++ 550
+Arthur
+Katana - Gassan
+Japanese Eye Patch, Warrior's Beard & Face 05 available in CaS
+
+Another way to unlock him is to beat him in Tales of Souls
+
+[[link #tales-of-souls | Tales of Souls possible opponent for]] Astaroth, Kilik, Nightmare, Rock, Siegfried, Sophitia, Talim, Tira
+
+**Available in Hualin's Shop**
+Dagger - Tongue of Tonatiuh
+Iron Sword - Alondite
+Sickle - Chain of Hades
+Steel Fan - Basho Fan
+
+++++ 560
+Taki - Kris Naga
+Maxi - Vajra
+
+++++ 575
+Olcadan
+Grand Labyrinth stage
+
+Another way to unlock him is to beat him in Tales of Souls
+
+[[link #tales-of-souls | Tales of Souls possible opponent for]] Astaroth, Cassandra, Cervantes, Ivy, Kilik, Lizardman, Maxi, Mitsurugi, Nightmare, Raphael, Rock, Seong Mi-na, Setsuka, Siegfried, Sophitia, Taki, Talim, Tira, Voldo, Xianghua, Yoshimitsu, Yun-seong, Zasalamel
+
+**Available in Hualin's Shop**
+Olcadan - The Silent, The Mute, The Perceptive, The Fierce, & The Savage
+Sword & Shield - Valkyrie
+Wave Sword - Atropos
+Rapier - Unicorn
+Nunchaku - Shuang Lei
+Tambourine - Terpsichore
+
+**Available in Valeria's Shop**
+Weapon Demo: Olcadan
+Custom Character +1 (6th of 7)
+
+++++ 590
+Kunai - Galeforce
+
+++++ 600
+Hwang
+Chinese Sword - Blue Thunder
+Coast Guard Band, Spiky Hair, Dragon Tunic, Shogun's Gauntlets, Kaku-Obi & Face 02 available in CaS
+
+Another way to unlock him is to beat him in Tales of Souls
+
+[[link #tales-of-souls | Tales of Souls possible opponent for]] Cervantes, Ivy, Maxi, Rock, Seong Mi-na, Sophitia, Taki, Voldo, Zasalamel
+
+**Available in Valeria's Shop**
+Illustrations Abelia, Strife & Chester
+Special Art V's Mansion
+
+++++ 610
+Voldo - Guillotine
+Sophitia - Soul Calibur
+
+**Available in Valeria's Shop**
+Job: Knight
+Job: Samurai
+
+++++ 625
+Cervantes
+Pirate Raid stage
+Soul Edge & Nirvana 1P/2P
+
+Another way to unlock him is to beat him in Tales of Souls
+
+[[link #tales-of-souls | Tales of Souls possible opponent for]] Astaroth, Cassandra, Ivy, Kilik, Lizardman, Maxi, Mitsurugi, Nightmare, Olcadan, Raphael, Rock, Seong Mi-na, Setsuka, Siegfried, Sophitia, Taki, Talim, Tira, Voldo, Xianghua, Yoshimitsu, Yun-seong, Zasalamel
+
+**Available in Hualin's Shop**
+Cervantes - Styx, Erlang's Blade & Phlegthon
+
+**Available in Valeria's Shop**
+Weapon Demo: Cervantes
+
+++++ 650
+Luna
+Chinese Blade - Dystopia & Soul Calibur
+Low Pigtails, Leather Corset, Pirate's Jacket, Enchanted Choker, Ring Pants, Crossed Belt & Noble's Boots available in CaS
+
+Another way to unlock her is to clear Chronicle 11
+
+**Available in Valeria's Shop**
+Custom Character +1( 7th of 7)
+
+++++ 660
+Siegfried - Soul Calibur
+Rock - Wayakin
+
+++++ 675
+Lizardman
+Silk Road Ruin stage
+Grudge Ax & Aya Shield 1P/2P
+
+Another way to unlock him is to beat him in Tales of Souls
+
+[[link #tales-of-souls | Tales of Souls possible opponent for]] Astaroth, Cassandra, Cervantes, Ivy, Kilik, Maxi, Mitsurugi, Nightmare, Olcadan, Raphael, Rock, Seong Mi-na, Setsuka, Siegfried, Sophitia, Taki, Talim, Tira, Voldo, Xianghua, Yoshimitsu, Yun-seong, Zasalamel
+
+**Available in Hualin's Shop**
+Lizardman - Tabarzin, Lunatic & Kora
+
+**Available in Valeria's Shop**
+Weapon Demo: Lizardman
+
+++++ 690
+Chinese Sword -  Dragon Sword
+
+Another way to unlock this is to beat Dragon in Tales of Souls
+
+[[link #tales-of-souls | Tales of Souls possible opponent for]] Astaroth, Mitsurugi, Nightmare, Olcadan, Rock, Setsuka, Tira, Zasalamel
+
+++++ 700
+Valeria
+Grieve Edge - Cepheus Seal
+Semi-Long (Straight), Alchemist's Dress, Apron, Slit Pants, Frill Skirt & Saint Boots available in CaS
+
+Another way to unlock her is to beat her, Hualin & Lynette in Tales of Souls without losing to any of them (Scroll down to Lynette for ToS paths)
+
+**Available in Valeria's Shop**
+Special Art: Group
+
+++++ 710
+Ivy - Kaleidoscope
+Kilik - Soul Calibur
+
+++++ 725
+Abyss
+Lost Cathedral - Ruin stage
+Abyss - Irkalla 1P/2P
+
+Another way to unlock him is to beat Tales of Souls after unlocking every standard character
+
+**Available in Valeria's Shop**
+Weapon Demo: Abyss
+
+++++ 740
+Chinese Blade - Midnight available
+
+++++ 750
+Hualin
+Staff - Cepheus Seal
+Sage Glasses available in CaS
+
+Another way to unlock her is to beat her, Lynette & Valeria in Tales of Souls without losing to any of them (Scroll down to Lynette for ToS paths)
+
+++++ 760
+Xianghua - Soul Calibur
+Lizardman - Soul Edge
+
+++++ 775
+Chaos - Spiritual Realm stage
+
+++++ 790
+Grieve Edge - Hell's Design
+
+++++ 800
+Girardot
+Lance - Absolution
+Balding, Shogun's Beard, Breast Plate, Viking Shoulders, Magician Cape & Unholy Leg Armor available in CaS
+
+Another way to unlock him is to clear Chronicle 15, though his items are already yours after beating Chronicle 7
+
+**Available in Valeria's Shop**
+Special Art: Special Group
+
+++++ 810
+Yoshimitsu - Hihiirokane
+Nightmare - Soul Edge
+
+**Available in Valeria's Shop**
+Job: Sword Master
+
+++++ 825
+Egyptian Temple (Minimum & Cage) stage
+
+++++ 840
+Lance - Blazecleaver
+
+++++ 850
+Demuth
+Steel Fan - Baindigart
+Short Untidy Hair, Bandit's Shoulders, Duel Belt, Stealth Pants & Face 14 available in CaS
+
+Another way to unlock him is to clear Chronicle 10
+
+++++ 860
+Astaroth - Soul Edge
+Cervantes - Soul Edge
+
+++++ 875
+Lakeside Coliseum (No Cage) stage
+
+++++ 890
+Lance - Sacrifice
+
+++++ 900
+Aurelia
+Sickle - Black Widow
+Queen Coronet, Noblewoman, Decorative Brassiere, Grand Dame, Leather Gloves, Jeweled Belt, Fishnet Tights, Long Boots & Face 12 available in CaS
+
+Another way to unlock her is to clear Chronicle 12
+
+++++ 910
+Raphael - Queen's Guard
+Talim - Soul Calibur
+
+++++ 925
+Grand Labyrinth (Corridor) stage
+
+++++ 940
+Iron Sword - Brutal Terra
+
+++++ 950
+Chester
+Dagger - Kingslayer
+Gelled Back, Scar, Pirate's Jacket, Dark Knight's Cape, Pirate Belt & Cursed Boots available in CaS
+
+Another way to unlock him is to clear Chronicle 19
+
+++++ 960
+Cassandra - Valkyrie
+Yun-seong - Han Guang
+
+++++ 975
+Grand Labyrinth (Darkness) stage
+
+++++ 990
+Sword & Shield - Lilia
+
+++++ 1000
+Strife
+Iron Sword - Ambition & Soul Edge
+Noble's Wig, Cotton Shirt, Light Armor, Lord's Shoulders, Crusader Cape, Gladiator's Belt & Armor Boots available in CaS
+
+Another way to unlock him is to clear Chronicle 20
+
+
+++ 1000 to 2000 Battles
+++++ 1010
+Setsuka - Ugetsu Shinuchi
+Zasalamel - Irkalla
+
+++++ 1025
+Egyptian Temple (Minimum) stage
+
+++++ 1040
+Wave Sword - Leviathan
+
+++++ 1050
+Abelia
+Sword & Shield - Eternal Rest
+Chain Mail, Coquettish Outfit, Breast Armor, Iron Gauntlets, Barbarian Pads, Wizard's Cape, Leather Tasset, Chain Hose, Metal Short Boots & Face 04 available in CaS
+
+Another way to unlock her is to clear Chronicle 18, though her 1P items are already yours after beating Chronicle 5 & her 2P items are yours after Chronicle 13
+
+++++ 1060
+Tira - Soul Edge
+Olcadan - The Hidden
+
+++++ 1100
+Lynette
+Tambourine - Cepheus Seal
+Maid Head Gear, Shirt with Frill, Ribbon Scarf, Miniskirt, Knee Socks, Leather Shoes & Face 03 available in CaS
+
+Another way to unlock her is to beat her, Valeria & Hualin in Tales of Souls without losing to any of them
+
+[[link #tales-of-souls | Tales of Souls possible opponent for]] Astaroth, Cassandra, Cervantes, Ivy, Kilik, Maxi, Mitsurugi, Nightmare, Olcadan, Raphael, Seong Mi-na, Setsuka, Tira, Xianghua, Yoshimitsu, Zasalamel
+
+++++ 1110
+Mitsurugi - Souvenir Gift
+Seong Mi-na - Feather Broom
+
+++++ 1150
+Li-Long
+Nunchaku - Falcon
+Sedge Shade, Topknot Wig (Simple), Warlord's Tunic, Leather Braces & Face 11
+
+Another way to unlock him is to beat him in Tales of Souls
+
+[[link #tales-of-souls | Tales of Souls possible opponent for]] Cassandra, Cervantes, Kilik, Lizardman, Maxi, Rock, Siegfried, Talim, Voldo
+
+++++ 1160
+Taki - Tobacco Pipes
+Maxi - Termite Snack
+
+++++ 1200
+Revenant
+Wave Sword - Gatekeeper
+Viking Tunic, Lord's Armor, Clown Collar, Leather Belt, Leggings, Fighter's Shorts & Fish Skin Boots available in CaS
+
+Another way to unlock him is to beat him in Tales of Souls
+
+[[link #tales-of-souls | Tales of Souls possible opponent for]] Astaroth, Cassandra, Cervantes, Ivy, Kilik, Lizardman, Nightmare, Raphael, Rock, Seong Mi-na, Siegfried, Taki, Xianghua, Voldo, Yun-seong, Zasalamel
+
+++++ 1210
+Voldo - Tambourines
+Sophitia - Memento
+
+++++ 1250
+Amy
+Rapier - Albion
+Special Art: Amy 1 & Amy 2 Viewable in Museum
+Beloved (Easy) Soul Arena mission
+
+Another way to unlock her is to beat her in Tales of Souls, then get Clear or higher in Beloved (Easy)
+
+[[link #tales-of-souls | Tales of Souls possible opponent for]] Lizardman, Olcadan, Yoshimitsu, Yun-seong, Zasalamel
+
+++++ 1260
+Siegfried - Galley Oar
+Rock - Iron Fists
+
+++++ 1310
+Ivy - Prototype Ivy Blade
+Kilik - Bamboo Staff
+
+++++ 1360
+Xianghua - Calligraphy Brush
+Lizardman - Boned Meat
+
+++++ 1410
+Yoshimitsu - Shepherd's Crook
+Nightmare - Giant Squid
+
+++++ 1460
+Astaroth - Stone Slab
+Cervantes - Imitation Sword
+
+++++ 1500
+Wisp Shoot, Dancing Statue & Sudden Death Rally (Easy) along with all Normal & Hard missions unlocked in Soul Arena
+All Publicity Art viewable in Museum
+5th movie viewable in Museum
+
+++++ 1510
+Raphael - Cane
+Talim - Weight
+
+++++ 1560
+Cassandra - Broken Sword
+Yun-seong - Child's Sword
+
+++++ 1610
+Setsuka - Broken Bamboo Sword
+Zasalamel - Beak
+
+++++ 1660
+Tira - Cogwheel
+Olcadans - The Tease
+
+++++ 2000
+Katana - Kokuenra
+*Special Art: Lynette,Valeria & Phaulin (that's how they spelled it) viewable in Museum
+
+*Another way to unlock these are buy every item in the girls shop
+
+**Female parts**
+Goddess Helm, Kitty Cap, Type X Visor, Double Pigtails, Geisha, Long Hair (Type X), Type X Body Suit, Blessed Armor, Goddess Armor, Type X Gloves, Type X Choker, Blessed Belt, Type X Belt, Heavenly Dress, Type X Socks & Type X Boots available in CaS
+
+**Male parts**
+Slayer's Helm, Hyper Helmet, Jaguar Mask, Demonic Mask, Regent, Demonic Armor, Demonic Shoulders, Slayer's Tasset & Demonic Tasset available in CaS
+
+There is a catch though to get these parts for free they must not be in Lynette's shop list, I did test this on a 2nd file where I had the female parts in the shop, but not the males & I only got the male parts for free.
+
+[!-- ==== ==== ==== ==== ==== ==== ==== ==== Chronicles of the Sword Unlockables Part ==== ==== ==== ==== ==== ==== ==== ==== --]
++ Chronicles of the Sword Unlockables
+
+[!-- ==== ==== ==== ==== ==== ==== ==== ==== Tales of Souls Part ==== ==== ==== ==== ==== ==== ==== ==== --]
+[[#tales-of-souls]]
++ Tales of Souls
+
+[!-- ==== ==== ==== ==== ==== ==== ==== ==== Modification Code Part ==== ==== ==== ==== ==== ==== ==== ==== --]
 
 + Modification Code
 ++ Cheat Engine Table
@@ -478,7 +1303,7 @@ Allows you to play in a certain stage or an arena that's otherwise impossible to
 || 29 || Lakeside Coliseum (Ending) <Crash!> ||
 || 30 || Character selection background ||
 || 31 || Main menu background ||
-|| 32 || Soul Calibur III logo ||
+|| 32 || Soulcalibur III logo ||
 || 33 || Character creation background ||
 
 [[include comp:alert
@@ -792,12 +1617,12 @@ Swapping out standard characters in endings and swapping them with CaS is possib
 
 [[youtube -JtIC3r4QuQ]]
 
-++ Before you start attempting
++++ Before you start attempting
 * Use only the Character Modifier (Play As) codes. Using other modifiers such as moveset and/or weapon will guarantee to mess up the ending sequence.
 * All CaS in the ending sequence only speak nonsensical one liners like a broken record, so you may want to turn voice off and disable subtitles in options.
 * Since this is excruciatingly difficult to pull off, you might wish to prepare some aspirin and an extra controller.
 
-First, you will need to understand the basic mechanism of how Soul Calibur III assigns characters in the event viewer. The system assigns immediate appearing character when the black wipe starts to disappear. Some late appearing characters can be assigned after the ending sequence has started.
+First, you will need to understand the basic mechanism of how Soulcalibur III assigns characters in the event viewer. The system assigns immediate appearing character when the black wipe starts to disappear. Some late appearing characters can be assigned after the ending sequence has started.
 
 Second, you must be familiar with the swap technique in CaS Profile and Weapon Exhibition Guide. You must activate the joker code as the black wipe starts to leave the left part of the screen. This needs to be a very precise timing; as if you're too early, the character won't swap and if you're too late, the game freezes, or your character is lying down somewhere.
 
@@ -817,7 +1642,7 @@ Third, you must use 2P character modifier to make appearance for another charact
 
 Fourth, you can only swap CaS in digit 60 and 61 into the endings. Swapping in CotS characters have been tried but it does not appear to be working. Also, all non-ending sequence 2P are not swappable. Example: if you try to swap the Tira who jump to your raft, the game will crash.
 
-Fifth, the memory limit for CaS in Soul Calibur III is only 2, and there is no way to increase it, as it's just how the game works. This makes the Kilik ending require post video editing if you want to make a 3rd CaS appearance there. In the example posted, there were 2 videos: one with Sauron and Spica, the other one with Spica and Perseonn. The two footage was then spliced.
+Fifth, the memory limit for CaS in Soulcalibur III is only 2, and there is no way to increase it, as it's just how the game works. This makes the Kilik ending require post video editing if you want to make a 3rd CaS appearance there. In the example posted, there were 2 videos: one with Sauron and Spica, the other one with Spica and Perseonn. The two footage was then spliced.
 
 ++++ Example 1, Mitsurugi's ending setup
 1P: Mitsurugi

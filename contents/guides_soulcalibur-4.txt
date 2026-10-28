@@ -1,19 +1,20 @@
 @title: Soulcalibur IV
-@author: Perseonn Balthasaar
+@author: Buster Wolf and Perseonn Balthasaar
 @updated: 2014-05-29
 
-The fifth main installment of the Soul series comes with the worst battle system addition imaginable. The combat is mostly the same as in Soul Calibur III, except for the removal of Soul Charge and the addition of the Soul Gauge. You can perform a Critical Finish when your opponent's Soul Gauge is emptied, but during a match, this is nearly impossible to achieve. My personal record in 30 battles against an Edgemaster difficulty opponent, with two rounds per battle, resulted in just one Critical Finish. One.
+The fifth main installment of the Soul series comes with the worst battle system addition imaginable. The combat is mostly the same as in Soul Calibur III, except for the removal of Soul Charge and the addition of the Soul Gauge. You can perform a Critical Finish when your opponent's Soul Gauge is emptied, but during a match, this is nearly impossible to achieve. My personal record in 30 battles against an Edgemaster difficulty opponent, with two rounds per battle, resulted in just one Critical Finish. One. — Perseonn Balthasaar
 
-Part of this guide was previously published on Another Stage of History. Honor Collection and Tower of Lost Souls sections are written by Buster Wolf.
+Part of this guide was previously published on Another Stage of History. Honor Collection and Tower of Lost Souls sections are written by Buster Wolf. Save editing are written by Perseonn Balthasaar.
 
 + Honor Collection
+As you may have heard by now you need 30 honors to unlock all parts for CaS, there are a total of 50 honors with 6 forcing you to play online, you pretty much only need 30, but if you want bragging rights with your friends then go head and get more. Also you have to be playing Story, Arcade, Tower of Lost Soul or Online for these to count, Training and Versus won't add anything. — Buster Wolf
+
 First and foremost to check how many you have go to Museum >> Battle Records
 
-As you may have heard by now you need 30 honors to unlock all parts for CaS, there are a total of 50 honors with 6 forcing you to play online, you pretty much only need 30, but if you want bragging rights with your friends then go head and get more. Also you have to be playing Story, Arcade, Tower of Lost Soul or Online for these to count, Training and Versus won’t add anything
 
 ++++ 1. Start of a New Era (5 points)
 * Welcome to the new world of Soulcalibur!
-* This is the easiest yet there are those who don’t have this one and wonder why, simple watch the opening do not press until the announcer says "Soulcalibur 4".
+* This is the easiest yet there are those who don't have this one and wonder why, simple watch the opening do not press until the announcer says "Soulcalibur 4".
 
 ++++ 2. Encounter with the Unknown (10 points)
 * Fight against Vader/Yoda.
@@ -137,7 +138,7 @@ As you may have heard by now you need 30 honors to unlock all parts for CaS, the
 
 ++++ 30. World Class Fighter (30 points)
 * Fight against 20 different fighting styles (Online).
-* You’ll have to find someone willing to use the styles you haven’t fought against (write it down on a paper to remember).
+* You'll have to find someone willing to use the styles you haven't fought against (write it down on a paper to remember).
 
 ++++ 31. World Traveler (30 points)
 * Fight on all stages (Online).
@@ -211,7 +212,7 @@ As you may have heard by now you need 30 honors to unlock all parts for CaS, the
 [!-- ==== ==== ==== ==== ==== ==== ==== ==== Tower of Lost Souls Part ==== ==== ==== ==== ==== ==== ==== ==== --]
 
 + Tower of Lost Souls
-Floors will be split up into sections that you must go through, the fight at the end acts like a save point to save your progress so you can continue on, this mode can be either frustrating or challenging looking at how you see it...so let's begin. I will do Ascend first then Descend. For Descend I'll only list required skills to live long in the mode since there are no requirements for getting items other than passing a floor. Note characters that have it naturally means the untouchable 1P & 2P costume the game has set to it doesn't mean the character will always have it.
+Floors will be split up into sections that you must go through, the fight at the end acts like a save point to save your progress so you can continue on, this mode can be either frustrating or challenging looking at how you see it...so let's begin. I will do Ascend first then Descend. For Descend I'll only list required skills to live long in the mode since there are no requirements for getting items other than passing a floor. Note characters that have it naturally means the untouchable 1P & 2P costume the game has set to it doesn't mean the character will always have it. — Buster Wolf
 
 ++ Ascend
 +++ Law of the Earth
@@ -1036,7 +1037,7 @@ Items you get are:
 [!-- ==== ==== ==== ==== ==== ==== ==== ==== Save Data Editing Part ==== ==== ==== ==== ==== ==== ==== ==== --]
 
 + Save Data Editing
-As this is a save data hack, you need to understand how to encrypt and decrypt your save data and manipulate it using a hex editor (XVI32 is preferred).
+As this is a save data hack, you need to understand how to encrypt and decrypt your save data and manipulate it using a hex editor (XVI32 is preferred). — Perseonn Balthasaar
 
 If you're interested in showcasing your character, you can visit [http://asoh.wikidot.com Another Stage of History].
 
