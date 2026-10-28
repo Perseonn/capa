@@ -73,115 +73,6 @@ Listed here is the normal way to unlock these rather than getting them via [[a h
 ++++ What if I don't have a second controller?
 * Quick play set to 1 round, though the number of fights you have to do is equal to doing the above (25, 50, 75 ,100)
 
-++++ For Chronicles of the Sword the levels to unlock disciplines are
-* Lv.10 Discipline 2
-* Lv.20 Discipline 3
-* Lv.30 Soul of Disciplines
-
-+++ CaS Discipline List
-++++ Barbarian
-* Iron Sword
-* Grieve Edge
-* Wave Sword
-* Soul of Nightmare
-* Soul of Astaroth
-
-++++ Monk
-* Nunchaku
-* Staff
-* Grieve Edge
-* Soul of Maxi
-* Soul of Kilik
-
-++++ Thief
-* Dagger
-* Wave Sword
-* Sickle
-* Soul of Yun-Seong
-* Soul of Tira
-
-++++ Dancer
-* Tambourine
-* Steel Fan
-* Grieve Edge
-* Soul of Xianghua
-* Soul of Voldo
-
-++++ Saint
-* Staff
-* Dagger
-* Steel Fan
-* Soul of Zasalamel
-* Soul of Talim
-
-++++ Ninja
-* Kunai
-* Katana & Shuriken
-* Sickle
-* Soul of Taki
-* Soul of Setsuka
-
-++++ Gladiator
-* Sword & Shield
-* Wave Sword
-* Grieve Edge
-* Soul of Rock
-* Soul of Seong Mi-Na
-
-++++ Pirate
-* Chinese Sword
-* Rapier
-* Iron Sword
-* Soul of Cervantes
-* Soul of Ivy
-
-++++ Sage
-* Chinese Blade
-* Sword and Shield
-* Staff
-* Soul of Sophitia
-* Soul of Cassandra
-
-++++ Assassin
-* Wave Sword
-* Kunai
-* Chinese Sword
-* Soul of Lizardman
-* Soul of Tira
-
-++++ Knight
-* Lance
-* Iron Sword
-* Rapier
-* Soul of Siegfried
-* Soul of Raphael
-
-++++ Samurai
-* Katana
-* Katana & Shuriken
-* Sickle
-* Soul of Mitsurugi
-* Soul of Yoshimitsu
-
-++++ Sword Master
-* Katana & Shuriken
-* Kunai
-* Katana
-* Chinese Sword
-* Chinese Blade
-* Grieve Edge
-* Staff
-* Lance
-* Steel Fan
-* Sickle
-* Dagger
-* Iron Sword
-* Sword & Shield
-* Tambourine
-* Nunchaku
-* Wave Sword
-* Rapier
-
 ++ Additional Custom Character Slots
 * **1st of 7:** Beat Chronicle 3 while fulfilling bonus requirements
 * **2nd of 7:** Beat Chronicle 5 while fulfilling bonus requirements
@@ -822,12 +713,817 @@ Slayer's Helm, Hyper Helmet, Jaguar Mask, Demonic Mask, Regent, Demonic Armor, D
 
 There is a catch though to get these parts for free they must not be in Lynette's shop list, I did test this on a 2nd file where I had the female parts in the shop, but not the males & I only got the male parts for free.
 
-[!-- ==== ==== ==== ==== ==== ==== ==== ==== Chronicles of the Sword Unlockables Part ==== ==== ==== ==== ==== ==== ==== ==== --]
-+ Chronicles of the Sword Unlockables
-
 [!-- ==== ==== ==== ==== ==== ==== ==== ==== Tales of Souls Part ==== ==== ==== ==== ==== ==== ==== ==== --]
 [[#tales-of-souls]]
 + Tales of Souls
+This will have ways to get all events for event viewer with the character & possible ways to unlock characters that aren't yours at the beginning of the game, any fights against characters you don't unlock such as Will-o'-the-Wisp (red & blue flamed version), Keres, Charade, Colossus, Doppelganger, 20 Lizard Men (Lizard Men not Lizardman) & Shadow Master will not be on the listings of routes to take (only exception is Dragon cause you unlock Chinese Sword Dragon Sword that way), but will be listed below the character with the paths needed to take to get to them, also characters with a star (★) beside their name may not appear if you are using the 6th weapon (4 effects), though after recent incidents of losing more than once it seems you can get them to appear as long as you've used a continue. Special thanks to Frogger for confirmation on meeting Greed with Tira. — Buster Wolf
+
+++ About Path to Night Terror
+* You are not allowed to lose any match except special battles (feel like you're being watched, though you do not need to do these battles as you can go ahead & pick choice two for these).
+* You cannot ring out whoevers name is in ##0000ff|Blue##, if you're fighting two people you can ring out the first, but not the second so make sure you know who you have to not ring out.
+* You can use any weapon you want.
+
+++ About Netherworld 2 / Event 11
+* To get Netherworld 2 (event 11) for every character except Zasalamel (because he doesn't have it) you have to do the path to Night Terror and either:
+* Lose to anyone except Zasalamel when he throws the cog & //Prepare to Defend Yourself!!// battles (losing these hold no penalty)
+* Leave the Labyrinth
+* Lose to Olcadan (losing this will not get you event 6)
+* Siegfried & Nightmare go against the above
+
+++ Astaroth
+++++ Night Terror Path
+* 2, Revenant, Zasalamel event win match, 1, 2, 1/2, Cervantes, ##0000ff|Maxi##, 2, Unknown Soul [A], 2, Rock, 2
+++++ Path 2
+* 1, Tira event, 1, Dragon, 1, The shop girls, Zasalamel event win match, win against Taki with less than 60% health left, Yoshimitsu,★1, Arthur, Rock, Siegfried loses
+++++ Path 3
+* 2, Revenant, Zasalamel event win match, 2, 2, Raphael event, 2, win against Xianghua with more than 40 seconds left, 1, Miser, Rock, Siegfried loses
+++++ Cursed/Extra Paths
+* 1, Tira event, 1, Dragon, 1, The shop girls, Zasalamel event lose match, 1, Rock, 1, Sophitia, Siegfried wins
+* 1, Tira event, 2, 2, Zasalamel event win match, 1, Lizardman, win against Taki with less than 60% health left, Yoshimitsu, 1, Arthur, Rock, Siegfried loses
+++++ Unique Opponents
+★ Starred opponent may not appear if you're using Soul Edge
+* Dragon
+* The shop girls
+* 20 Lizard Men 1, 1, 1, win against Taki with more than 60% health left, 1 or 2, 2, 2, 2, win against Xianghua with less than 40 seconds left, 1
+* Doppelganger (shadowy) 1, 2, 1
+* Miser
+* Revenant
+* Charade, Charade (torso & legs), Charade (torso) 2, 1, 2, 1
+* Will-o'-the-Wisp (blue) 2, 2, 1
+* ★Arthur
+
+
+++ Cassandra
+++++ Night Terror Path
+* Revenant, 2, Zasalamel event win match, 1, 2, 1/2, Astaroth event, ##0000ff|Seong Mi-na##, 2, 2, Unknown Soul [L], 2
+++++ Path 2
+* Revenant, 1, Tira event, 2, Sophitia, 1, Li Long, Zasalamel event win match, 1, Lizardman, win against Lizardman with more than 60% health left, 1, Greed, caught by cage, Siegfried
+++++ Path 3
+* Revenant, 2, Zasalamel event win match, 1, 1, 2, Cervantes event, 2, Lizardman, win with less than 60% health against Lizardman,★2, not caught by cage, Siegfried loses
+++++ Cursed/Extra Paths
+* Revenant, 1, Tira event, 1, 2, Zasalamel event lose match, 2, Yoshimitsu, 1, your choice, Nightmare/Siegfried
+* Revenant, 1, Tira event, 1, 2, Zasalamel event win match, win with less than 40 seconds left against Xianghua, Rock, 1, The shop girls, your choice, Nightmare/Siegfried
+++++ Unique Opponents
+★ Starred opponent may not appear if you're using Valkyrie
+* Revenant
+* Doppelganger (shadowy) 1, 1, 1
+* ★20 Lizard Men 2, 1, 1, 2, 2, win with less than 60% health against Lizardman, 1
+* Li Long
+* Greed
+* Shadow Master 2, 1, 2, 1
+* Keres 2, 1, 1, 1
+* The shop girls
+
+
+++ Cervantes
+++++ Night Terror Path
+* 1, Zasalamel event win match, 1, 2, Sophitia, 1/2, Astaroth event, ##0000ff|Talim##, 2, Unknown Soul [L], 2, 2
+++++ Path 2
+* 1, Zasalamel event win match, 2, Rock, 1, The shop girls, Raphael event, 2, Yoshimitsu, win against Yoshimitsu with more than 40 seconds left, 1, Miser, not caught by cage, Siegfried wins
+++++ Path 3
+* 2, Tira event, 2, Revenant, 1, Li Long, Zasalamel event win match, Lizardman, win against Mitsurugi with less than 60% health left, 1, Hwang, caught by cage, Nightmare
+++++ Cursed/Extra Paths
+* None
+++++ Unique Opponents
+* Colossus 1 ,1 ,2 ,1
+* Miser
+* The shop girls
+* Shadow Master 1, 2, 2, 2, win against Yoshimitsu with less than 40 seconds left, 1 or 2, 2, 2, win against Mitsurugi with more than 60% health left, 1
+* Will-o'-the-Wisp (blue)(Voldo's Stage) 2, 1, 1
+* Revenant
+* Li Long
+* Hwang
+
+
+++ Ivy
+++++ Night Terror Path
+* 1, Revenant, Zasalamel event win match, 2, 1, 1/2, Astaroth event, ##0000ff|Kilik##, 2, Cervantes, 2, Unknown Soul [A], 2
+++++ Path 2
+* 1, Revenant, Zasalamel event win match, 1, Sophitia, 2, Raphael event, 2, win against Xianghua with more than 60% health left,★1, Greed, Cervantes, not caught by cage, Siegfried wins
+++++ Path 3
+* 2, Tira event, 2, Rock, 1, The shop girls, Zasalamel event win match, 1, Yoshimitsu, win against Taki with less than 40 seconds left, 1, Hwang, Cervantes, caught by cage, Nightmare
+++++ Cursed/Extra Paths
+* 2, Tira event, 1, 2, Zasalamel event lose match, Lizardman, 2, Cervantes, 2, Siegfried wins
+++++ Unique Opponents
+★ Starred opponent may not appear if you're using Kaleidoscope
+* Revenant
+* Colossus 1, 1, 1
+* 20 Lizard Men 1, 1, 2, 1, win against Taki with more than 40 seconds left, 1 or 2, 2, 2, 1, win against Taki with more than 40 seconds left, 1
+* Keres 1, 2, 1 ,1
+* ★Greed
+* Doppelganger (shadowy) 2, 1, 1
+* The shop girls
+* Hwang
+
+
+++ Kilik
+++++ Night Terror Path
+* 1, Zasalamel event win match, 2, 1, 1/2, Cervantes event, ##0000ff|Rock##, 2, Unknown Soul [H], 2, 2
+++++ Path 2
+* 1, Zasalamel event win match, 1, Sophitia, 2, Astaroth event, 2, Lizardman, Yoshimitsu, win against Yoshimitsu with more than 40 seconds left, ★1, Miser, Siegfried wins
+++++ Path 3
+* 2, Tira event, 1, Revenant, 1, Li Long, Zasalamel event win match, win against Mitsurugi with less than 60% health left, 1, Arthur
+++++ Cursed/Extra Paths
+* 2, Tira event, 1, Revenant, 1, Li Long, Zasalamel event lose match, 2, 2, Siegfried loses
+
+* 2, Tira event, 2, 1, The shop girls, Zasalamel event win match ,1, Lizardman, Yoshimitsu, win against Yoshimitsu with more than 40 seconds left, ★1, Miser
+++++ Unique Opponents
+★ Starred opponent may not appear if you're using Soul Calibur
+* Colossus 1, 1, 1
+* Will-o'-the-Wisp (red)(Taki's Stage) 1, 1, 2, 2, win against Yoshimitsu with less than 40 seconds left, 1 or 2, 1, 2, win against Mitsurugi with more than 60% health left, 1
+* Keres 1, 2, 1, 1
+* ★Miser
+* Revenant
+* Li Long
+* The shop girls
+* Arthur
+* Doppelganger 2, 1, 2, lose to Zasalamel ,2 ,2
+
+
+++ Lizardman
+++++ Night Terror Path
+* 2, Zasalamel event win match, 1, 1, 1/2, Raphael event, ##0000ff|Rock##, 2, Sophitia, 2, Unknown Soul [A], 2
+++++ Path 2
+* 1, Tira event, 2, 2, Zasalamel event win match, 2, win against Seong Mi-na with more than 60% health left, 1, Miser, Sophitia, Siegfried loses
+++++ Path 3
+* 2, Zasalamel event win match, 2, 1, Amy, Cervantes event, 2, win against Kilik with more/less than 40 seconds left, 2, Sophitia, Siegfried loses
+++++ Cursed/Extra Paths
+* 1, Tira event, 1, Revenant, 1, Li Long, Zasalamel event lose match, Yoshimitsu, 2, Sophitia, 1, Siegfried wins
+++++ Unique Opponents
+* Revenant
+* Li Long
+* 20 Lizard Men 1, 2, 2, 2, win against Seong Mi-na with less than 60% health, 1 or 2, 2, 2, 2, win against Kilik with more than 40 seconds left, 1
+* Doppelganger (shadowy) 1, 2, 1
+* Miser
+* Will-o'-the-Wisp (blue)(Taki's stage) 2, 2, 2, 2, win against Kilik with less than 40 seconds left, 1
+* Amy
+* Will-o'-the-Wisp (red) 2, 1, 1, 1
+
+
+++ Maxi
+++++ Night Terror Path
+* 1, Zasalamel event win match, 2, 1, 1/2, Raphael event, ##0000ff|Kilik & Xianghua##, 2, Unknown Soul [L], 2, 2
+++++ Path 2
+* 1, Zasalamel event win match, 1, Rock, 1, The shop girls, Cervantes event, 2, Lizardman, win against Mitsurugi with more than 60% health left, Yoshimitsu, 1, Miser, caught by cage, Nightmare
+++++ Path 3
+* 2, Sophitia, Tira event, 2, 2, Zasalamel event lose match, 2, 2, Siegfried wins
+++++ Cursed/Extra Paths
+* 1, Zasalamel event win match, 1, Rock, 2, Cervantes event, 1, win against Xianghua with less than 40 seconds left, ★1, Li Long, your choice, Siegfried/Nightmare
+* 1, Zasalamel, 1, Rock, 2, Cervantes, 2, Lizardman, win against Mitsurugi with less than 60% health left, 1, Hwang
+++++ Unique Opponents
+★ Starred opponent may not appear if you're using Vajra
+* The shop girls
+* Hwang
+* Doppelganger (shadowy) 1, 2, 1, 1
+* Miser
+* Will-o'-the-Wisp (blue)(Voldo's Stage) 2, 1, 1
+* Keres 2, 2, 1
+* Doppelganger 1, 1, 2, 1, win against Xianghua with less than 40 seconds left
+* ★Li Long
+
+
+++ Mitsurugi
+++++ Night Terror Path
+* 2, Zasalamel event win match, 2, 2, Dragon, 1, The shop girls, Raphael event, ##0000ff|Voldo##, 2, Unknown Soul [L], 2, 2
+++++ Path 2
+* 1, Rock, Tira event, 2, 2, Zasalamel event win match, 1, Cervantes, win against Xianghua with more than 40 seconds left, 2, Siegfried wins
+++++ Path 3
+* 2, Zasalamel event win match, 1, Sophitia, 2, Astaroth event, 2, Lizardman, win against Kilik with less than 60% health left,★1, Miser, Siegfried wins
+++++ Cursed/Extra Paths
+* 1, Tira event, 1, 2, Zasalamel event lose match, 2, Yoshimitsu, 2, Siegfried loses
+++++ Unique Opponents
+★ Starred opponent may not appear if you're using Soul Edge
+* Charade, Charade (torso & legs), Charade (torso) 1, 1, 1
+* 20 Lizard Men 1, 2, 2, 1, win against Xianghua with more than 40 seconds left, 1 or 2, 1, 2, 2, win against Kilik with less than 60% health left, 1
+* Doppelganger (shadowy) 1, 2, 1
+* ★Miser
+* Colossus 2, 1, 1
+* The shop girls
+* Will-o'-the-Wisp (red)(Taki's Stage) 1, 2, 2, 1, win against Xianghua with less than 40 seconds left, 1
+
+
+++ Nightmare
+++++ Night Terror Path
+* 2, Sophitia, Zasalamel event win match, 1, 2, 1/2, Cervantes event, ##0000ff|Setsuka##, 2, 2, Unknown Soul [A], 2
+++++ Path 2
+* 1, Tira event, 1, 2, Zasalamel event win match, Lizardman, win against Xianghua with less than 40 seconds left, ★1, Arthur, caught by cage, Zasalamel
+++++ Path 3
+* 2, Sophitia, Zasalamel event win match, 2, 2, Astaroth event, 2, Yoshimitsu, win against Yoshimitsu with more than 60% health left, 1, Miser, your choice, Siegfried/Zasalamel
+++++ Cursed/Extra Paths
+* 1, Tira event, 1, 2, Zasalamel event lose match, 2, Revenant, 1, Dragon, Siegfried
+* 1, Tira event, 2, Rock, 1, The shop girls, Zasalamel event win match, 2, Yoshimitsu, win against Yoshimitsu with more than 40 seconds left, ★1, Miser, your choice, Siegfried/Zasalamel
+
+++++ Unique Opponents
+* Nightmare doesn't have event 7
+★ Starred opponent may not appear if you're using Soul Edge
+* Doppelganger (shadowy) 1, 1, 1
+* Will-o'-the-Wisp (red)(Taki's Stage) 1, 1, 1, 1 or 1, 2, 2, 2, win against Yoshimitsu with less than 60% health, 1
+* The shop girls
+* ★Miser
+* Will-o'-the-Wisp (blue)(Voldo's Stage) 2, 1, 2, 1
+* 20 Lizard Men 2, 2, 1
+* ★Arthur
+* Dragon
+
+++ Olcadan
+++++ Night Terror Path
+* 1, Dragon, Zasalamel event win match, 1, 1, 1/2, Raphael event, ##0000ff|Seong Mi-na##, 2, 2, Unknown Soul [A], 2
+++++ Path 2
+* 1, Dragon, Zasalamel event win match, 2, 2, Cervantes event, 2, win against Mitsurugi with more/less than 40 seconds left, 2, not caught by cage, Siegfried loses
+++++ Path 3
+* 2, Sophitia, Tira event, 1, Rock, 1, The shop girls, Zasalamel event win match, 1, Lizardman, win against Lizardman with more than 60% health left, 1, Miser, caught by cage, Siegfried
+++++ Cursed/Extra Paths
+* 2, Sophitia, Tira event, 2, 1, Amy, Zasalamel event lose match, 2, 1, Yoshimitsu, Siegfried loses
+++++ Unique Opponents
+* Dragon
+* Will-o'-the-Wisp (blue)(Voldo's Stage) 1, 1, 1, 1
+* Miser
+* Doppelganger (shadowy) 1, 2, 1
+* 20 Lizard Men 1, 2, 2, 2, win against Mitsurugi with more than 40 seconds left, 1 or 2, 1, 2, 1, win against Lizardman with less than 60% health left, 1
+* The shop girls
+* Amy
+* Will-o'-the-Wisp (red)(Taki's Stage) 1, 2, 2, 2, win against Mitsurugi with less than 40 seconds left, 1
+
+
+++ Raphael
+++++ Night Terror Path
+* 1, Zasalamel event win match, 1, 1, 1/2, Astaroth Event, ##0000ff|Kilik##, 2, Unknown Soul [H], 2, 2
+++++ Path 2
+* 1, Zasalamel event win match, 2, Rock, 1, The shop girls, Cervantes event, 2, Yoshimitsu, win against Yoshimitsu with more than 60% health left, 1, Miser, Siegfried loses
+++++ Path 3
+* 2, Tira event, 2, 2, Zasalamel event win match, 1, win against Mitsurugi with more/less than 40 seconds left, 2, Siegfried loses
+++++ Cursed/Extra Paths
+* 2, Tira event, 1, Sophitia, 2, Zasalamel event lose match, 1, Lizardman, 1, Revenant, Siegfried wins
+++++ Unique Opponents
+* 20 Lizard Men 1, 1, 1, 1
+* Miser
+* The shop girls
+* Keres 1, 2, 2, 2, win against Yoshimitsu with less than 60% health left, 1 or 2, 2, 2, 1, win against Mitsurugi with more than 40 seconds left, 1
+* Colossus 2, 1, 1
+* Charade, Charade (torso & legs), Charade (torso) 2, 2, 1
+* Will-o'-the-Wisp (red)(Taki's Stage) 2, 2, 2, 1, win against Mitsurugi with less than 40 seconds left, 1
+* Revenant
+
+
+++ Rock
+++++ Night Terror Path
+* 1, Dragon, Zasalamel event win match, 1, 2, Sophitia, 1/2, Raphael event, ##0000ff|Kilik##, 2, 2, Unknown Soul [H], 2
+++++ Path 2
+* 1, Dragon, Zasalamel event win match, 2, 2, Cervantes event, 2, win against Maxi with more than 40 seconds left,★1, Miser, Siegfried wins
+++++ Path 3
+* 2, Tira Event, 1, Revenant, 1, Li Long, Zasalamel event win match, 1, Lizardman, win against Setsuka with more than 60% health left,★1, Hwang, Siegfried wins
+++++ Cursed/Extra Paths
+* 2, Tira event, 2, 2, Zasalamel event lose match, Yoshimitsu, 1, 1, Siegfried loses
+* 2, Tira Event, 1, Revenant, 1, Li Long, Zasalamel event win match, 1, Lizardman, win against Setsuka with less than 60% health left,★1, Arthur, Siegfried wins
+++++ Unique Opponents
+★ Starred opponent may not appear if you're using Wayakin
+* Dragon 1
+* Colossus 1, 1, 2, 1
+* ★Miser
+* Keres 1, 2, 1
+* ★Hwang
+* Revenant
+* Li Long
+* Charade, Charade (torso & legs), Charade (torso) 2, 2, 1
+* ★Arthur
+
+
+++ Seong Mi-na
+++++ Night Terror Path
+* 2, Zasalamel event win match, 1, 1, 1/2, Cervantes event, ##0000ff|Kilik & Xianghua##, 2, 2, Unknown Soul [H], 2
+++++ Path 2
+* 1, Tira event, 1, Rock, 1, The shop girls, Zasalamel event win match, win against 2nd Sentry with less than 60% health, Lizardman, 1, Hwang, caught by cage, Nightmare
+++++ Path 3
+* 2, Zasalamel event win match, 2, Sophitia, 2, Raphael event, 1, Yoshimitsu, win against Yoshimitsu with more than 40 seconds left, ★1, Greed, not caught by cage, Siegfried wins
+++++ Cursed/Extra Paths
+* 1, Tira event, 1, Rock, 2, Zasalamel event lose match, 2, 2, Revenant, Siegfried wins
+++++ Unique Opponents
+★ Starred opponent may not appear if you're using Hraesvelgr
+* The shop girls
+* Will-o'-the-Wisp (red)(Taki's stage) 1, 1, 1, win against 2nd Sentry with more than 60% health, 1
+* Doppelganger (shadowy) 1, 2, 1
+* ★Greed
+* Will-o'-the-Wisp (blue)(Voldo's stage) 2, 1, 1, 1
+* Colossus 2, 2, 1
+* Hwang
+* Revenant
+
+
+++ Setsuka
+++++ Night Terror Path
+* 1, Lizardman, Zasalamel event win match, 2, 2, 1/2, Raphael event, ##0000ff|Seong Mi-na##, 2, 2, Unknown Soul [A], 2
+++++ Path 2
+* 1, Lizardman, Zasalamel event win match, 1, Dragon, 1, The shop girls, Cervantes event, 2, win against Astaroth with more than 40 seconds left, 1, Greed, Siegfried loses
+++++ Path 3
+* 2, Tira event, 1, 2, Zasalamel event lose match, 1, Yoshimitsu, 2, Rock, Siegfried wins
+++++ Cursed/Extra Paths
+* 2, Tira event, 2, Sophitia, 2, Zasalamel event win match, 2, win against Kilik with more/less than 60% health left, 2, Siegfried loses
+++++ Unique Opponents
+* Dragon
+* The shop girls
+* 20 Lizard Men 1, 1, 2, 2, win against Astaroth with less than 40 seconds left, 1 or 2, 2, 2, 2, win against Kilik with more than 60% health left, 1
+* Will-o'-the-Wisp (blue)(Voldo's Stage) 1, 2, 2, 1
+* Greed
+* Doppelganger (shadowy) 2, 1, 1
+* Colossus 2, 2, 1
+* Charade, Charade (torso & legs), Charade (torso) 2, 2, 2, 2, win against Kilik with less than 60% health left, 1
+
+
+++ Siegfried
+++++ Night Terror Path
+* 2, Rock, Zasalamel event win match, 2, 1, 1/2, Astaroth event, ##0000ff|Maxi##, 2, 2, Unknown Soul [A], 2
+++++ Path 2
+* 1, Tira event, 2, Revenant, 1, Li Long, Zasalamel event win match, 1, Lizardman, win against Lizardman with more than 40 seconds left, ★1, Miser, caught by cage, Zasalamel
+++++ Path 3
+* 2, Rock, Zasalamel event win match, 2, 2, Sophitia, 2, Cervantes event, 2, win against Mitsurugi with less than 60% health Yoshimitsu, 2, not caught by cage, Nightmare
+++++ Cursed/Extra Paths
+* 1, Tira event, 1, 1, Zasalamel event win match, win against Mitsurugi with less than 60% health, Yoshimitsu, 1, Arthur, your choice, Nightmare/Zasalamel
+++++ Unique Opponents
+* Siegfried doesn't have event 8
+★ Starred opponent may not appear if you're using Soul Calibur
+* Will-o'-the-Wisp (blue)(Voldo's stage) 1, 1, 1
+* Will-o'-the-Wisp (red)(Taki's stage) 1, 1, 1, win against Mitsurugi with more than 60% health, 1
+* Revenant
+* Li Long
+* ★Miser
+* Colossus 2, 2, 2, 1
+* Shadow Master 2, 2, 1, 1
+* Arthur
+
+
+++ Sophitia
+++++ Night Terror Path
+* 2, Rock, Zasalamel event win match, 1, 2, 1/2, Astaroth event, ##0000ff|Lizardman##, 2, Unknown Soul [L], 2, Cervantes, 2
+++++ Path 2
+* 1, Tira event, 2, 2, Zasalamel event win match, 2, win against Maxi with less than 40 seconds left, 1, Hwang, Cervantes, not caught by cage, Siegfried loses
+++++ Path 3
+* 2, Rock, Zasalamel event win match, 2, 2, Raphael event, 2, win against Setsuka with less than 60% health left, 1, Arthur, caught by cage, Siegfried
+++++ Cursed/Extra Paths
+* 1, Tira event, 1, 2, Zasalamel event lose match, Yoshimitsu, 2, Cervantes, 2, Siegfried loses
+* 1, Tira event, 2, 2, Zasalamel event win match, 2, win against Maxi with more than 40 seconds left, 1, Greed, your choice, Nightmare/Siegfried
+++++ Unique Opponents
+* Charade, Charade (torso & legs), Charade (torso) 1, 1, 1
+* Hwang
+* Will-o'-the-Wisp (blue)(Voldo's Stage) 1, 2, 1
+* Greed
+* 20 Lizard Men 2, 1, 2, 1
+* Keres 2, 2, 1
+* Arthur
+
+
+++ Taki
+++++ Night Terror Path
+* 2, Rock, Zasalamel event win match, 2, 2, 1/2, Astaroth event, ##0000ff|Kilik##, 2, Unknown Soul [L], 2, Cervantes, 2
+++++ Path 2
+* 1, Lizardman, Tira event, 1, 2, Zasalamel event win match, win against Berserker with less than 40 seconds left, 1, Hwang, Cervantes, not caught by cage, Siegfried wins
+++++ Path 3
+* 2, Rock, Zasalamel event win match, 1, Sophitia, 2, Raphael event, 2, win against Berserker with more than 60% health left,★1, Greed, Cervantes, caught by cage, Nightmare
+++++ Cursed/Extra Paths
+* 1, Lizardman, Tira event, 1, 2, Zasalamel event lose match, 1, Yoshimitsu, Cervantes, 1, Revenant, Siegfried wins
+++++ Unique Opponents
+* ★This choice may no appear if you're using Kris Naga
+* Will-o'-the-Wisp (blue) 1, 1, 1
+* 20 Lizard Men 1, 1, 2, win against Berserker with more than 40 seconds left, 1 or 2, 1, 2, 2, win against Berserker with less than 60% health, 1
+* Doppelganger (shadowy)
+* ★Greed
+* Colossus 2, 1, 1
+* Keres 2, 2, 2, 1
+* Hwang
+* Revenant
+
+
+++ Talim
+++++ Night Terror Path
+* Rock, 1, Sophitia, Zasalamel event win match, 1, 1, 1/2, Cervantes event, ##0000ff|Xianghua##, 2, Unknown Soul [A], 2, 2
+++++ Path 2
+* Rock, 1, Sophitia, Zasalamel event win match, 2, 1, Li Long, Astaroth event, 2, 1, Greed, Siegfried wins
+++++ Path 3
+* Rock, 2, Tira event, 1, 1, Zasalamel event win match, 1, Siegfried wins
+++++ Cursed/Extra Paths
+* Rock, 2, Tira event, 1, 2, Zasalamel event lose match, 2, 2, Siegfried loses
+* Rock, 2, Tira event, 2, 2, Zasalamel event win match, 2, Lizardman, win against Mitsurugi with less than 40 seconds left, Yoshimitsu, 1, Arthur, Siegfried wins
+++++ Unique Opponents
+* Charade, Charade (torso & legs), Charade (torso) 1, 1, 1
+* Greed
+* Li Long
+* Will-o'-the-Wisp (red)(Taki's stage) 1, 2, 2, 1, 1
+* Will-o'-the-Wisp (blue)(Voldo's stage) 2, 1, 1
+* 20 Lizard Men 2, 2, 1
+* Arthur
+
+
+++ Tira
+++++ Night Terror Path
+* Sophitia, 1, Zasalamel event win match, 2, 1, 1/2, Astaroth event, ##0000ff|Xianghua##, 2, Yoshimitsu, 2, Unknown Soul [L], 2
+++++ Path 2
+* Sophitia, 1, Zasalamel event win match, 1, Rock, 1, The shop girls, Raphael event, 1, Cervantes, win against Setsuka with more than 40 seconds left, 1, Arthur, Yoshimitsu
+++++ Path 3
+* Sophitia, 2, Dragon, Tira event, 2, 2, Zasalamel event win match, 2, win against Maxi with more than 60% health left, ★1, Greed, Yoshimitsu
+++++ Cursed/Extra Paths
+* Sophitia, 2, Dragon, Tira event, 2, 2, Zasalamel event win match, 1, Lizardman, win against Setsuka with more than 40 seconds left, 2, Yoshimitsu
+++++ Unique Opponents
+* Tira doesn't have event 7
+★ Starred opponent may not appear if you're using Soul Edge
+* The shop girls
+* Arthur
+* Doppelganger (shadowy) 1, 2, 1, 1
+* ★Greed
+* Dragon
+* Will-o'-the-Wisp (blue)(Voldo's stage) 2, 1, 1
+* Charade, Charade (torso & legs), Charade (torso) 2, 2, 1
+* Keres 2, 2, 2, 1, win against Setsuka with less than 40 seconds left, 1
+
+
+++ Voldo
+++++ Night Terror Path
+* 2, Sophitia, Zasalamel event win match, 1, 1, 1/2, Cervantes event, ##0000ff|Lizardman##, 2, Unknown Soul [H], 2, Yoshimitsu, 2
+++++ Path 2
+* 1, Tira event, 2, 2, Zasalamel event win match, 1, Lizardman, win against Xianghua with more than 40 seconds left,★1, Miser, Yoshimitsu, not caught by cage, Siegfried wins
+++++ Path 3
+* 2, Sophitia, Zasalamel event win match, 2, 2, Astaroth event, 1, Lizardman, win against Lizardman with less than 60% health left, 1, Hwang, Yoshimitsu, caught by cage, Nightmare
+++++ Cursed/Extra Paths
+* 1, Tira event, 1, Revenant, 1, Li Long, Zasalamel event lose match, Lizardman, 2, Yoshimitsu, 1, Siegfried wins
+++++ Unique Opponents
+★ Starred opponent may not appear if you're using Guillotine
+* Revenant
+* Li Long
+* Will-o'-the-Wisp (red) 1, 2, 2, 1, win against Xianghua with less than 40 seconds left, 1 or 2, 2, 2, 1, win against Lizardman with more than 60% health, 1
+* Doppelganger (shadowy) 1, 2, 1
+* ★Miser
+* Charade, Charade (torso & legs), Charade (torso) 2, 1, 1, 1
+* Keres 2, 2, 1
+* Hwang
+
+
+++ Xianghua
+++++ Night Terror Path
+* 2, Sophitia, Zasalamel event win match, 1, 1, Revenant, 1/2, Raphael event, ##0000ff|Seong Mi-na##, 2, Cervantes, 2, Unknown Soul [L], 2
+++++ Path 2
+* 1, Revenant, Tira event, 1, 2, Zasalamel event win match, 2, Lizardman, win against Thief with more than 60% health left, ★1, Greed, Cervantes, caught by cage, Siegfried
+
+++++ Path 3
+* 2, Sophitia, Zasalamel event win match, 2, 1, The shop girls, Astaroth event, 1, win against Setsuka with more than 40 seconds left, 2, Cervantes, not caught by cage, Siegfried loses
+++++ Cursed/Extra Paths
+* 1, Revenant, Tira event, 2, 2, Zasalamel event lose match, Yoshimitsu, 2, Cervantes, 1, Siegfried loses
+* 1, Revenant, Tira event, 1, 2, Zasalamel event win match, 1, Rock, win against Setsuka with more than 40 seconds left, 2, Cervantes, your choice, Nightmare/Siegfried
+++++ Unique Opponents
+★ Starred opponent may not appear if you're using Soul Calibur
+* Revenant
+* Doppelganger (shadowy) 2, 1, 1, 1 or 1, 1, 1
+* ★Greed
+* Will-o'-the-Wisp (blue)(Voldo's Stage) 1, 2, 1
+* 20 Lizard Men 2, 2, 1, 1, win against Setsuka with more than 40 seconds left, 1
+* The shop girls
+* Will-o'-the-Wisp (red)(Taki's Stage) 1, 1, 2, 2, win against Thief with less than 60% health left, 1 or 2, 2, 1, 1, win against Setsuka with less than 40 seconds left, 1
+
+
+++ Yoshimitsu
+++++ Night Terror Path
+* 2, Zasalamel event win match, 1, 1, Sophitia, 1/2, Astaroth event, ##0000ff|Kilik##, 2, Unknown Soul [H], 2, 2
+++++ Path 2
+* 1, Tira event, 2, 2, Zasalamel event win match, 2, win against 2nd Bandit with more than 40 seconds left, 1, Miser, not caught by cage, Siegfried loses
+++++ Path 3
+* 2, Zasalamel event win match, 2, Rock, 1, The shop girls, Raphael event, 2, Cervantes, win against Setsuka with more/less than 60% health left, 2, caught by cage, Siegfried
+++++ Cursed/Extra Paths
+* 1, Tira event, 1, 1, Amy, Zasalamel event lose match, Lizardman, 1, 2, Siegfried loses
+++++ Unique Opponents
+* Amy
+* Will-o'-the-Wisp (red)(Taki's Stage) 1, 2, 2, 2, win against 2nd Bandit with less than 40 seconds left, 1 or 2, 2, 2, 2, win against Setsuka with more than 60% health left, 1
+* Charade, Charade (torso & legs), Charade (torso) 1, 2, 1
+* Miser
+* Colossus 2 ,1 ,1 ,1
+* The shop girls
+* 20 Lizard Men 2, 2, 2, 2, win against Setsuka with less than 60% health left, 1
+
+
+++ Yun-Seong
+++++ Night Terror Path
+* Rock, 1, Revenant, Zasalamel event win match, 2, 2, 1/2, Astaroth event, ##0000ff|Lizardman##, 2, 2, Unknown Soul [H], 2
+++++ Path 2
+* Rock, 1, Revenant, Zasalamel event win match, 1, 2, Cervantes event, 2, Yoshimitsu, win against Yoshimitsu with more than 40 seconds left,★1, Miser, Siegfried wins
+++++ Path 3
+* Rock, 2, Sophitia, Tira, 1, 1, Amy, Zasalamel event lose match, 2, 1, Siegfried loses
+++++ Cursed/Extra Paths
+* None
+++++ Unique Opponents
+★ Starred opponent may not appear if you're using Han Guang
+* Revenant
+* Doppelganger (shadowy) 1, 1, 1
+* Shadow Master 1, 1, 2, 2, win against Yoshimitsu with less than 40 seconds left or 2, 2, 2, 1, win against Xianghua with more than 60% health left, 1
+* 20 Lizard Men 1, 2, 2, 1
+* ★Miser
+* Amy
+* Will-o'-the-Wisp (blue)(Voldo's Stage) 2, 2, 1
+* Will-o'-the-Wisp (red)(Taki's Stage) 2, 2, 2, 1, win against Xianghua with less than 60% health, 1
+
+
+++ Zasalamel
+++++ Night Terror Path
+* 1, Rock, Zasalamel event win match, 2, 2, 1/2, Astaroth event, ##0000ff|Xianghua##, 2, 2, Unknown Soul [H], 2
+++++ Path 2
+* 1, Rock, Zasalamel event win match, 1, Sophitia, 2, Cervantes event, 1, Lizardman, Siegfried wins
+++++ Path 3
+* 2, Tira event, 1, Dragon, 1, The shop girls, Zasalamel event lose match, Yoshimitsu, 2, 1, Revenant, Siegfried loses
+++++ Cursed/Extra Paths
+* 2, Tira event, 2, 1, Amy, Zasalamel event win match, 2, Win with less than 60% health against Taki, ★1, Hwang, Siegfried wins
+* 1, Rock, Zasalamel event win match, 2, 2, 2, Astaroth event, 1, 1, Miser, Siegfried wins
+++++ Unique Opponents
+★ Starred opponent may not appear if you're using Irkalla
+* Colossus 1, 1, 1
+* Keres 2, 2, 1, 2, win with more than 60% health against Taki, 1
+* Will-o'-the-Wisp (blue)(Voldo's Stage) 1, 2, 2, 1
+* Miser
+* Dragon
+* The shop girls
+* Amy
+* ★Hwang
+* Revenant
+
+[!-- ==== ==== ==== ==== ==== ==== ==== ==== Chronicles of The Sword Job and Discipline Part ==== ==== ==== ==== ==== ==== ==== ==== --]
++ Chronicles of The Sword Job and Discipline
+This is a list of Class stat and their style, which is pivotal if you want to plan your characters to use in Chronicles of the Sword. This section  was made by Buster Wolf.
+
+The stats are as followed:
+* HP = How long and stacked your health bar is
+* STR = How much damage your attack will do (percent based)
+* VIT = How much damage will be reduced (percent based)
+* AGI = How fast you can move in battle (doesn't effect crouch walking)
+
+++ Unlocking Disciplines
+In Chronicles of the Sword mode the levels to unlock disciplines are:
+* Lv.1: Discipline 1. For Sword Master, all non-souls discipline are usable immediately.
+* Lv.10: Discipline 2
+* Lv.20: Discipline 3
+* Lv.30: Both Soul of Disciplines
+
+++ Barbarian
+A pretty balanced class between the starting 6 with powerful style choices.
+
+||~ Level ||~ HP ||~ STR ||~ VIT ||~ AGI ||
+|| 1 || 245 || 106 || 75 || 75 ||
+|| 50 || 417 || 169 || 100 || 99 ||
+|| 99 || 589 || 198 || 153 || 118 ||
+
+Style choices:
+* Iron Sword
+* Grieve Edge
+* Wave Sword
+* Soul of Nightmare
+* Soul of Astaroth
+
+
+++ Monk
+Highest HP among the starting 6 classes however VIT is lacking and around Level 60 the usual 4 or 5 HP gains drop to 2 or 3.
+
+||~ Level ||~ HP ||~ STR ||~ VIT ||~ AGI ||
+|| 1 || 250 || 101 || 65 || 85 ||
+|| 50 || 472 || 174 || 91 || 108 ||
+|| 99 || 615 || 201 || 117 || 131 ||
+
+Style choices:
+* Nunchaku
+* Staff
+* Grieve Edge
+* Soul of Maxi
+* Soul of Kilik
+
+
+++ Thief
+Very flimsy yet fast moving class with rather hard style choices to get used to, statistically the 2nd worst class in the game.
+
+||~ Level ||~ HP ||~ STR ||~ VIT ||~ AGI ||
+|| 1 || 241 || 75 || 71 || 106 ||
+|| 50 || 363 || 103 || 96 || 132 ||
+|| 99 || 483 || 129 || 123 || 159 ||
+
+Style choices:
+* Dagger
+* Wave Sword
+* Sickle
+* Soul of Yun-seong
+* Soul of Tira
+
+
+++ Dancer
+Statistically the worst class in the game flimsier than Thief yet able to do more damage than it, however it has good style choices to somewhat make up for its statistical aspect.
+
+||~ Level ||~ HP ||~ STR ||~ VIT ||~ AGI ||
+|| 1 || 245 || 95 || 96 || 106 ||
+|| 50 || 360 || 121 || 90 || 128 ||
+|| 99 || 445 || 165 || 118 || 152 ||
+
+Style choices:
+* Tambourine
+* Steel Fan
+* Grieve Edge
+* Soul of Xianghua
+* Soul of Voldo
+
+
+++ Saint
+Very VIT focused class among the starting 6, has rather awkward style choices to use.
+
+||~ Level ||~ HP ||~ STR ||~ VIT ||~ AGI ||
+|| 1 || 241 || 105 || 90 || 95 ||
+|| 50 || 410 || 128 || 155 || 119||
+|| 99 || 525 || 153 || 181 || 141 ||
+
+Style choices:
+* Staff
+* Dagger
+* Steel Fan
+* Soul of Zasalamel
+* Soul of Talim
+
+
+++ Ninja
+Pretty balanced and quick of the starting 6 classes however HP is pretty lacking, strong and fast style choices make this a very deadly class, recommendable for first time players.
+
+||~ Level ||~ HP ||~ STR ||~ VIT ||~ AGI ||
+|| 1 || 240 || 105 || 86 || 115||
+|| 50 || 363 || 158 || 121 || 139 ||
+|| 99 || 485 || 180 || 141 || 165 ||
+
+Style choices:
+* Kunai
+* Katana & Shuriken
+* Sickle
+* Soul of Taki
+* Soul of Setsuka
+
+
+++ Gladiator
+Upgrade to the Barbarian. One of few classes to go beyond 255 STR.
+
+||~ Level ||~ HP ||~ STR ||~ VIT ||~ AGI ||
+|| 1 || 245 || 110 || 76 || 86 ||
+|| 50 || 470 || 183 || 99 || 112 ||
+|| 99 || 676 || 258 || 160 || 131 ||
+
+Style choices:
+* Sword & Shield
+* Wave Sword
+* Grieve Edge
+* Soul of Rock
+* Soul of Seong Mi-na
+
+
+++ Pirate
+Heavy towards attack early to mid levels, very balanced more towards defense late levels.
+
+||~ Level ||~ HP ||~ STR ||~ VIT ||~ AGI ||
+|| 1 || 245 || 101 || 81 || 81 ||
+|| 50 || 468 || 169 || 137 || 107 ||
+|| 99 || 673 || 203 || 210 || 128 ||
+
+Style choices:
+* Chinese Sword
+* Rapier
+* Iron Sword
+* Soul of Cervantes
+* Soul of Ivy
+
+
+++ Sage
+Upgrade to the Saint. Weak STR early levels though it boasts very good VIT with style choices that have either a high defense or recovery effect weapon with them.
+
+||~ Level ||~ HP ||~ STR ||~ VIT ||~ AGI ||
+|| 1 || 241 || 75 || 101 || 101 ||
+|| 50 || 462 || 142 || 129 || 126 ||
+|| 99 || 663 || 185 || 211 || 149 ||
+
+Style choices:
+* Chinese Blade
+* Sword and Shield
+* Staff
+* Soul of Sophitia
+* Soul of Cassandra
+
+
+++ Assassin
+Upgrade to the Ninja. Highest AGI class in the game pretty balanced STR and VIT growth.
+
+||~ Level ||~ HP ||~ STR ||~ VIT ||~ AGI ||
+|| 1 || 245 || 105 || 91 || 111 ||
+|| 50 || 364 || 166 || 137 || 159 ||
+|| 99 || 535 || 193 || 165 || 186 ||
+
+Style choices:
+* Wave Sword
+* Kunai
+* Chinese Sword
+* Soul of Lizardman
+* Soul of Tira
+
+
+++ Knight
+Heavy towards VIT and HP with not a lot of STR to deal with enemies quickly, made solely to take hits more than it can dish out.
+
+||~ Level ||~ HP ||~ STR ||~ VIT ||~ AGI ||
+|| 1 || 260 || 81 || 120 || 91 ||
+|| 50 || 478 || 145 || 193 || 111 ||
+|| 99 || 696 || 188 || 267 || 136 ||
+
+Style choices:
+* Lance
+* Iron Sword
+* Rapier
+* Soul of Siegfried
+* Soul of Raphael
+
+
+++ Samurai
+Heavy hitting class early to mid levels, very powerful class usually thrown in at the late game chronicles (16++).
+
+||~ Level ||~ HP ||~ STR ||~ VIT ||~ AGI ||
+|| 1 || 245 || 120 || 95 || 81 ||
+|| 50 || 391 || 245 || 143 || 106 ||
+|| 99 || 563 || 267 || 204 || 132 ||
+
+Style choices:
+* Katana
+* Katana & Shuriken
+* Sickle
+* Soul of Mitsurugi
+* Soul of Yoshimitsu
+
+
+++ Sword Master
+Jack of all trade class. Very balanced growth to keep STR and VIT relatively even, can't use Soul of styles, but with its stats it doesn't need them.
+
+||~ Level ||~ HP ||~ STR ||~ VIT ||~ AGI ||
+|| 1 || 280 || 121 || 121 || 111 ||
+|| 50 || 498 || 193 || 194 || 133 ||
+|| 99 || 720 || 300 || 300 || 180 ||
+
+Style choices:
+All 17 CaS styles from Level 1.
+
+[!-- ==== ==== ==== ==== ==== ==== ==== ==== Chronicles of the Sword Unlockable Items Part ==== ==== ==== ==== ==== ==== ==== ==== --]
++ Chronicles of the Sword Unlockable Items
+++ Automatic
+All items listed are given to you for free after beating said Chronicle if you don't already have the item(s), this will have only allies, no unlockable characters (unless they were an ally in a Chronicle)
+[[div class="table-layout-auto"]]
+||~ Chronicle ||~ Joins ||~ Items ||
+|| Tutorial Chronicle ||**Aeneas** ||Gelled Back, Chain Mail, Farmer's Shirt, Cursed Gear, Dragon Gauntlets, Lord's Shoulders, Large Tasset, Hunter's Pants, Protective Greaves & Face 02 ||
+|| Chronicle 1 ||**Riese** ||Unruly Short Hair, Decorative Shirt, Chain Hose, Tight Skirt & Pirate's Boots ||
+|| Chronicle 3 ||**Meiga** ||Ponytail, Scar, Magician's Coat & Pirate's Belt ||
+|| Chronicle 5 ||**Abelia** ||Chain Mail, Coquettish Outfit, Breast Armor, Iron Gauntlets, Barbarian Pads, Wizard's Cape, Leather Tasset, Chain Hose, Metal Short Boots & Face 04 ||
+|| Chronicle 5 ||**Eurydice** ||Short Hair, Short Top, Breastplate, Copper Braces, Iron Pads, Wizard's Belt, Heavy Boots & Face 03 ||
+|| Chronicle 6 || — ||Female Faces 11 & 13, Male Faces 08 & 10 ||
+|| Chronicle 7 ||**Girardot** ||Balding, Shogun's Beard, Breast Plate, Viking Shoulders, Magician Cape, & Unholy Leg Armor ||
+|| Chronicle 8 || Save **Leraje** ||Medium Hard, Oval Glasses, Sleeveless Shirt, Dodge Braces, Lord's Tasset & Face 04 ||
+|| Chronicle 8 || Save **Ailian** ||Straight Short, Leather Corset, Priest's Robe, Full Body Armor, Fencer Braces, Ogre Shoulders, Ragged Cape, Leather Body Band, Tied Pants & Metal Boots ||
+|| Chronicle 8 || Save **Kanon** ||Semi-Long (Straight), Sarashi (Lower Torso), Maiden's Robe, Quiver, Enchanted Choker, Ribbon Belt, Sarashi (Lower Legs), Miniskirt, Cloth Leggings & Leather Shoes ||
+|| Chronicle 9 ||**Jinkai**  || (If you beat him before Xiaoxin in Chronicle 2) Japanese Eye Patch, Samurai Mustache, Shogun's Vest, Lord's Gloves, Samurai Shoulders, Samurai Waist Band & Face 09 ||
+|| Chronicle 9 || **Xiaoxin** ||  (If you beat him before Jinkai in Chronicle 2) Dragon Tunic, Warlord's Armor, Warlord's Bracelets, Warlord's Shoulders, Warlord's Tasset, Warlord's Greaves & Face 05 ||
+|| Chronicle 13 ||**Abelia** ||Pirate's Shirt, Noble's Shoulders, Ribbon Scarf, Demonic Belt, Slit Pants & Stealth Leggings ||
+|| Chronicle 13 || **Tina** ||Priest Wig, Scale Mail, Tight Shirt, Spy Pads, Priest Necklace, Scale Tasset, Cloth Bikini & Face 05  ||
+|| Chronicle 13 || **Yuilan** ||Long Hair (Tied), Shishou Hakkei, China Dress, Protect Armor, Bangles, Iron Shoulders, Armored Belt, Short Socks, Prayer Shoes, & Face 10 ||
+|| Chronicle 13 || **Luca** ||Styled Back, Sleeveless Robe, Lord's Armor, Iron Braces & Shoulder Armor ||
+|| Chronicle 16 ||**Rudiger**  || (If you beat him before Feofan in Chronicle 15) Evil Helm, Bandit's Gear, Dark Knight's Cape & Lord's Tasset ||
+|| Chronicle 16 || **Feofan**  || (If you beat him before Feofan in Chronicle 15) Medium Hard, Shirt with Ribbons, Rubber Armor, Dodge Braces, Light Shoulder Pads, Large Tasset, Clown Shorts, Buckled Boots & Face 01 ||
+|| Chronicle 20 || —  || Female Face 01, Male Faces 01 & 05 ||
+[[/div]]
+
+++ Shop
+There are 4 instances where completing a Chronicle will get you clothing sold in Lynette's Shop, these are the only way to get these you will never unlock them no matter how many battles you fight so if you're Chronicles of the Sword data becomes corrupt or you get scarred of it after it happens once you're pretty much screwed.
+[[div class="table-layout-auto"]]
+||~ Chronicle ||~ Gender ||~ Items ||
+|| Chronicle 6 ||Female Parts ||Serpent Gloves, Dragon Plate, Hawk Talon, Bronze Brassiere, Duel Rod, Decorative Blouse, Chieftain Pads, Iron Leggings, Tiger Loincloth, Mohawk, Large Bun, Warrior Princess, Witch's Hat & Enchanted Cape ||
+|| Chronicle 6 || Male Parts||Warlord's Gauntlets, Clown Shirt, Mage's Garb, Tiger Waist Band, Mustache, Ninja Wig & Viking Helmet ||
+|| Chronicle 12 ||Female Parts ||Shadow Gauntlets, Shadow Armor, Edge Braces, Scorpion Suit, Prayer Robe, Battle Robe, Shadow Pads, Shadow Leg Armor, Punisher's Leg Armor, Shadow Tasset, Skull Mask, Round Glasses, Semi-Long (Topknot), Ponytail (Long), Low Ponytail, Lioness Helmet & Bell Choker ||
+|| Chronicle 12 || Male Parts||Unholy Gloves, Unholy Armor, Shirt with Frills, Lord's Leg Armor, Unholy Tasset, Baron's Beard, Topknot Wig & Unholy Helm ||
+|| Chronicle 15 ||Female Parts ||Heavy Gauntlets, Metal Gloves, Heavy Armor, Scale Bustier, Ribbon Dress, Clown Shirt, Heavy Pads, Metal Leg Armor, Gladiator's Boots, Heavy Belt, Swirly Cheeks, Oval Glasses, Pigtails, Braided Pigtails, Ponytail (Loop), Shadow Helm & Protect Cape ||
+|| Chronicle 15 || Male Parts||Evil Gloves, Evil Armor, Demonic Garb, Evil Leg Armor, Evil Tasset, Nobleman's Mustache, Shaved Head & Specter Hood ||
+|| Chronicle 20 ||Female Parts ||Burglar's Gloves, Leather Bustier, Stringed Bustier, Leather Body Suit, Fighter's Robe, Noble's Jacket, Battle Dress, Hunter's Pads, Crimson Sash, Sage's Belt, Prayer Pants, Common Skirt & High Short Pigtails ||
+|| Chronicle 20 || Male Parts||Warlord's Armor, Rubber Armor, Warlord's Bracelets, Shirt with Ribbons, Dragon Tunic, Light Shoulder Pads, Warlord's Shoulders, Clown Shorts, Warlords Greaves & Warlord's Tasset. ||
+[[/div]]
+
+++ Weapons
+During Chronicles of the Sword weapons are unlocked in the shop every chronicle, with the exception of 4 & 14. Weapons written in ALL CAPS are yours free of charge after beating the chronicle... but you have to beat the chronicle to get the weapon(s).
+[[div class="table-layout-auto"]]
+||~ Chronicle ||~ Weapons ||
+|| Chronicle 1  ||[[span class="cell-item"]]Ishtar - Demon Knife (Iron Sword)[[/span]][[span class="cell-item"]]Abelia - Katzbalger (Sword & Shield)[[/span]] ||
+|| Chronicle 2  ||[[span class="cell-item"]]Jinkai - Suigetsutou & Ukifune (Katana & Shuriken)[[/span]][[span class="cell-item"]]Xiaoxin - Falchon (Chinese Sword)[[/span]][[span class="cell-item"]]Edith - Double Fang (Wave Sword)[[/span]][[span class="cell-item"]]Girardot - Bourdanasse (Lance)[[/span]] ||
+|| Chronicle 3  ||[[span class="cell-item"]]Loki - Kris (Dagger)[[/span]] ||
+|| Chronicle 5  ||[[span class="cell-item"]]Iblis - Tarentella (Tambourine)[[/span]][[span class="cell-item"]]Amirta - Fujin Fan (Steel Fan)[[/span]] ||
+|| Chronicle 6  ||[[span class="cell-item"]]Lupi - Ahlspiess (Lance)[[/span]][[span class="cell-item"]]Luna - Jiaotu Juan (Chinese Blade)[[/span]] ||
+|| Chronicle 7  ||[[span class="cell-item"]]Kureha - Iron Staff (Staff)[[/span]][[span class="cell-item"]]Shiina - Monohoshizao (Katana)[[/span]][[span class="cell-item"]]Yufeng - Zhongkui (Nunchaku)[[/span]][[span class="cell-item"]]Halphas - Aya & Hongya (Wave Sword)[[/span]][[span class="cell-item"]]Juno - Hercules Sword (Iron Sword)[[/span]] ||
+|| Chronicle 8  ||[[span class="cell-item"]]Shiun - Genma & Kokuken (Katana & Shuriken)[[/span]][[span class="cell-item"]]Kanade - Mizuchi (Sickle)[[/span]][[span class="cell-item"]]Mooncalf - MIDNIGHT & Rune Blade (Chinese Blade)[[/span]] ||
+|| Chronicle 9  ||[[span class="cell-item"]]Marid - Yaesumiji (Sickle)[[/span]][[span class="cell-item"]]Elua - Kazekirimaru (Kunai)[[/span]][[span class="cell-item"]]Wenli - Menard (Tambourine)[[/span]] ||
+|| Chronicle 10 ||[[span class="cell-item"]]Demuth - BAINDIGART (Steel Fan)[[/span]][[span class="cell-item"]]Hyle - LILIA (Sword & Shield)[[/span]][[span class="cell-item"]]Azumi - Shirnaui (Katana)[[/span]][[span class="cell-item"]]Asrafil - Zephyrus (Steel Fan)*[[/span]][[span class="cell-item"]]Azrael - Senjinsoku (Grieve Edge)*[[/span]][[span class="cell-item"]]Fengli - Duel Rod (Staff)*[[/span]][[span class="cell-item"]]* These three I'm assuming are the ones that give you the items as they are the more sensible to give the item based on their discipline. The fights were Asrafil (Steel Fan) & Veles (Chinese Blade), Ambrose (Sickle) & Azrael (Grieve Edge) and Chikage (Katana & Shuriken) & Fengli (Staff).[[/span]] ||
+|| Chronicle 11 ||[[span class="cell-item"]]Lupi - BLAZECLEAVER (Lance)[[/span]][[span class="cell-item"]]Heal-Do - LEVIATHAN (Wave Sword)[[/span]][[span class="cell-item"]]Elua - GALEFORCE (Kunai)[[/span]][[span class="cell-item"]]Aege - BRUTAL TERRA (Iron Sword)[[/span]][[span class="cell-item"]]Luna - DYSTOPIA (Chinese Blade)[[/span]] ||
+|| Chronicle 12 ||[[span class="cell-item"]]Celestis - Misericorde (Dagger)[[/span]][[span class="cell-item"]]Aether - Dujiao Gui (Chinese Blade)[[/span]][[span class="cell-item"]]Kierkess - HELL'S DESIGN (Grieve Edge)[[/span]][[span class="cell-item"]]Jyuri - Lei Yan (Chinese Sword)[[/span]][[span class="cell-item"]]Minlian - Kunlun Bamboo (Staff)[[/span]][[span class="cell-item"]]Roin - SACRIFICE (Lance)[[/span]][[span class="cell-item"]]Aurelia - BLACK WIDOW (Sickle)[[/span]] ||
+|| Chronicle 13 ||[[span class="cell-item"]]Sizuku - Fallen Antler (Rapier)[[/span]][[span class="cell-item"]]Kimika - Nakinue (Kunai)[[/span]][[span class="cell-item"]]Brunhild - Dreadnought (Lance)[[/span]] ||
+|| Chronicle 15 ||[[span class="cell-item"]]Katina - Tuck (Rapier)[[/span]][[span class="cell-item"]]Mayura - Huoshen (Nunchaku)[[/span]][[span class="cell-item"]]Girardot - ABSOLUTION (Lance)[[/span]] ||
+|| Chronicle 16 ||[[span class="cell-item"]]Meilan - Shuang Lei (Nunchaku)[[/span]][[span class="cell-item"]]Irene - Terpsichore (Tambourine)[[/span]][[span class="cell-item"]]Konomi - Murasame (Katana)[[/span]][[span class="cell-item"]]Kagami - Totsuka & Yatugashira (Katana & Shuriken)[[/span]] ||
+|| Chronicle 17 ||[[span class="cell-item"]]Riese - Atropos (Wave Sword)[[/span]][[span class="cell-item"]]Aeolos - Basho Fan (Steel Fan)[[/span]] ||
+|| Chronicle 18 ||[[span class="cell-item"]]Ouka - Cailleach Bheur (Grieve Edge)[[/span]][[span class="cell-item"]]Balduin - Alondite (Iron Sword)[[/span]][[span class="cell-item"]]Mingyue - Bonebreaker Sword (Chinese Sword)[[/span]][[span class="cell-item"]]Abelia - ETERNAL REST (Sword & Shield)[[/span]] ||
+|| Chronicle 19 ||[[span class="cell-item"]]Tomoe - Shutensou (Kunai)[[/span]][[span class="cell-item"]]Shizuma - Svadifari (Grieve Edge)[[/span]][[span class="cell-item"]]Abigail - Tongue of Tonatiuh (Dagger)[[/span]][[span class="cell-item"]]Hilda - Excalibur (Sword & Shield)[[/span]][[span class="cell-item"]]Ende - KOKUENRA (Katana)[[/span]][[span class="cell-item"]]Chester - KINGSLAYER (Dagger)[[/span]] ||
+|| Chronicle 20 ||[[span class="cell-item"]]Haystir - Unicorn (Rapier)[[/span]][[span class="cell-item"]]Domenthi - Chain of Hades (Sickle)[[/span]][[span class="cell-item"]]Acacia - Valkyrie (Sword & Shield)[[/span]][[span class="cell-item"]]Strife - AMBITION & SOUL EDGE (Iron Sword)[[/span]][[span class="cell-item"]]SOUL CALIBUR (Chinese Blade)[[/span]] ||
+[[/div]]
+
 
 [!-- ==== ==== ==== ==== ==== ==== ==== ==== Modification Code Part ==== ==== ==== ==== ==== ==== ==== ==== --]
 
@@ -1122,7 +1818,7 @@ Activate character modifier code while in battle to get the desired swipe color.
 || ##1ab500|Green## || Maxi (04) ||
 || ##00FF80|Light Green## || Voldo (05), Lizardman (0E), Yoshimitsu (0F), and Olcadan (25) ||
 || ##00FFFF|Cyan## || Taki (03), Kilik (0C), Siegfried (07), and Setsuka (22) ||
-|| ##0080FF|Light Blue## || Talim (16) ||
+|| ##0000ff|Light Blue## || Talim (16) ||
 || ##6000ff|Purple## || Tira (23) ||
 || ##FF60FF|Light Purple## || Ivy (0B), Zasalamel (24), and Abyss (26) ||
 || ##A080FF|Light Royal Purple## || Nightmare (11), and Night Terror (27) ||
