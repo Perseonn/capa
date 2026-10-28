@@ -1,0 +1,5 @@
+[[[include comp:alert
+|type=danger
+|icon=fa fa-skull
+|text={$text}
+]]]

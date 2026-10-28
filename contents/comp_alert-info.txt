@@ -1,0 +1,5 @@
+[[[include comp:alert
+|type=info
+|icon=fa fa-info-circle
+|text={$text}
+]]]

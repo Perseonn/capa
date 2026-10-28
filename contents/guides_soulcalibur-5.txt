@@ -4,16 +4,50 @@
 
 The sixth main installment of the Soul series, which came with a rather good battle system, but poor movelist pool. The character creation aspect, which is the main reason I bought this game, is lacking in item variation. I can go on and on, but that's not the point of this page.
 
-As this is a save data hack, you're required to understand how to encrypt/decrypt your save data and manipulate it using hex editor (XVI32 preferred as hex editor).
+Part of this guide was previously published on Another Stage of History.
 
-If you're interested in showcasing your character, you can visit [http://asoh.wikidot.com Another Stage of History].
++ Legendary Souls Mode
+The Legendary Souls mode is the only mode in this game which has no purpose whatsoever except bragging rights. All of the stuff you can unlock in this mode can be unlocked much easier by using player points. The AI in this mode reads your button input and dish out the fastest attack they can give, including abuse of just inputs and quickest inputs, to form a long combo in which there's almost no escape. There's no fun in it, no prize, nothing. Needless to say, **it is highly recommended not to play this mode. Nothing will be gained except a remorse of having hours of life wasted.**
 
-+ Custom Character Data
-So far I have found moveset, voice, weapon, and character strength. For less --drama-- issue in online battle, the strength digit will not be disclosed. It's easy to find anyway.
+++ Recommendation
+Recommended character is Soul of Natsu; mainly because of her speed and strength. Try practice with her Main Move tutorial in Training mode to get a grip on how Natsu works. **You will not need to be extremely good with Natsu, you only need to know her basic moves.** If you are a range player who like to hit enemy using Nightmare's sword tip (like me), you can learn the ranges easier.
 
-[[div class="alert alert-danger"]]
-[[span class="fa fa-warning"]]@<&nbsp;>@[[/span]] Before changing the moveset/style, **ensure the character are using FIRST weapon.** The game may crash after editing if you have assigned them a weapon they don't have, most likely happen with Dampierre and Ezio. If you messed up, **the weapon digit is located on +2 address after Moveset 2**.
-[[/div]]
++++ Using Natsu
+Your main attack will be 6B+K BBB. Use this move from afar as doing this in close combat will most likely result in failure. The hypothetical optimal range is: 6B+K BBB after the third hit been blocked. During battle, taking a step back is a good move as opponent tend to run forward, shortening the distance. **Only do this attack when opponent is standing and watch out for self-ringouts.**
+* Don't bother with fancy moves. Human reaction speed is no match for the AI's reaction to pull a counter.
+* Her AA outspeeds most opponents in close combat except Edgemaster, which is the hardest problem in the mode, take note that only go to AAB if the first attack lands on a counter.
+* An alternative attack to use when close is throw. While hard, try to go with 66B+K or a+gA+B+K. This is the only Brave Edge safe to use. When the opponent break throw, there's a big chance that throwing them again will work.
+* While rising AAA seems to work well to get up after being downed.
+* Do not give up, especially against Cervantes and Edgemaster. Remember that this game has a chance that AI go braindead, thus can be exploited.
+
+++ The Opponents
+Normally, the roster is a lineup of 7 opponents. I cannot confirm if Harada (Devil Jin) can appear in this mode; To be on the safe side, always defeat him first in Quick Battle Mode. He's a Rank A opponent. The regulars are:
+* **Kilik:** He will always use Xiba's style. This makes him gain access to his personal 22AAA attack.
+* **Siegfried:** He appears in his SC4 attire with SC4 Soul Calibur Complete. There's nothing special about the weapon, except appearance.
+* **Nightmare:** He appears in his SC4 attire with SC4 Soul Edge Complete. There's nothing special about the weapon, except appearance.
+* **Cervantes:** He appears in his SC5 2P outfit combined with flaming skull, similar to SC Inferno / SE Soul Edge. He tend to abuse his quickest input move, thus performing long, impossible combos. He is the second hardest opponent.
+* **Edge Master:** He will always use Alpha Patroklos' style. He tend to abuse his just input move, thus performing long, impossible counter attacks. He is the hardest opponent.
+* **Elysium:** She will always use Pyrrha Omega's style. This makes her have unique Critical edge, unique 236B, and unique taunt move. She tend to use her Critical Edge in combo or for downed/aerial combo, which makes it weaker.
+* **Algol:** His special power is to positioning himself so well that the 6B+K BBB can result in self ring out if not careful. It seems that he will not do his Critical Edge unless he has 2 full bars.
+
+++ Legendary Souls Gallery
+[[image legendsiegfried1.avif | Legendary Souls: Siegfried with SC4 attire]]
+[[image legendsiegfried2.avif | Legendary Souls: Siegfried with SC4 attire]]
+[[image legendnightmare1.avif | Legendary Souls: Nightmare with SC4 attire]]
+[[image legendnightmare2.avif | Legendary Souls: Nightmare with SC4 attire]]
+[[image legendcervantescard.avif | Legendary Souls: Cervantes Card]]
+[[image legendcervantes1.avif | Legendary Souls: Cervantes with Soul Edge callback]]
+[[image legendcervantes2.avif | Legendary Souls: Cervantes with Soul Edge callback]]
+
++ Save Data Editing
+As this is a save data editing, you're required to understand how to encrypt/decrypt your save data and manipulate it using hex editor (XVI32 preferred as hex editor).
+
+++ Custom Character Data
+So far I have found moveset, voice, weapon, and character strength. For less --drama-- issue in online battle, the strength digit will not be disclosed. It's easy to find, and will cause disconnection after 1 online battle.
+
+[[include comp:alert-warning
+|text=Before changing the moveset/style, **ensure the character are using FIRST weapon.** The game may crash after editing if you have assigned them a weapon they don't have, most likely happen with Dampierre and Ezio. If you messed up, **the weapon digit is located on +2 address after Moveset 2**.
+]]
 
 Each slot has two name address, the second address is not listed here due to their adjacent location. You can utilize the name address to break the limit of 12 letter. **For safety, use same name for both address**. The longest name I've tried is "Cliche Incarnate Richter" which is 24 characters and he is editable, usable in all modes, without breaking the name. The name will be truncated to 12 if I re-input his name during creation.
 
@@ -72,65 +106,71 @@ Voice data is pretty-self explanatory.
 || Slot 50 || 16D3B5 || 16A002 || 16A008 || 16B059 || 16B05B ||
 
 Each slot has two moveset address, each using same digit. They have different function:
-: Moveset 1 : Character's pose during creation (including photo), menu weapon name, sometimes entry pose, sometimes win pose, and character's identity. This also governs the mimic character behavior. If you set this to mimic character's identity, they will ignore the second moveset data and weapon.
-: Moveset 2 : Character's moveset, weapon set, and roster slot (standard edit). This affects taunt if used with either Kilik with Xiba's move or Elysium with Pyrrha Omega's move, but neither will gain special moveset nor special Critical Edge.
-: Example : If you make a Siegfried custom, set Move 1 to "01" and Move 2 to "02, the game will recognize the character as Maxi, will call "Maxi" upon selection, will have maxi's weapon name on creation mode, but will appear under Voldo's roster slot, have Voldo's moveset and weapon, while have Maxi's pose during creation.
+* **Moveset 1:** Character's pose during creation (including photo), menu weapon name, sometimes entry pose, sometimes win pose, and character's identity. This also governs the mimic character behavior. If you set this to mimic character's identity, they will ignore the second moveset data and weapon.
+* **Moveset 2:** Character's moveset, weapon set, and roster slot (Standard Edit). This affects taunt if used with either Kilik with Xiba's move or Elysium with Pyrrha Omega's move, but neither will gain special moveset nor special Critical Edge.
+* **Example:** If you make a Siegfried custom, set Move 1 to {{01}} and Move 2 to {{02}}, the game will recognize the character as Maxi, will call "Maxi" upon selection, will have maxi's weapon name on creation mode, but will appear under Voldo's roster slot, have Voldo's moveset and weapon, while have Maxi's pose during creation.
 
-[[xinclude :fiction:common:alert |text=Using Ezio style, apart from missing announcer voice, has no problem in all modes.]]
+[[include comp:alert-info
+|text=Using Ezio style, apart from missing announcer voice, has no problem in all modes.
+]]
 
-[[xinclude :fiction:common:alert |text=Voice digit is different from moveset digit, but somehow follows old numbering.]]
+[[include comp:alert-info
+|text=Voice digit is different from moveset digit, but somehow follows old numbering.
+]]
 
-[[xinclude :fiction:common:alert |text=With weapon code, it is possible to assign 9th weapon for all characters. They are either SoulCalibur (female characters, Siegfried), or a more detailed version of their default weapon.]]
+[[include comp:alert-info
+|text=With weapon code, it is possible to assign 9th weapon for all characters. They are either SoulCalibur (female characters, Siegfried), or a more detailed version of their default weapon.
+]]
 
 ||~ Move 1 ||~ Move 2 ||~ Voice ||~ Character ||~ English VA||~ Japanese VA||
-|| 00 || 00 || 01 || Mitsurugi || Ed Cunningham || Toshiyuki Morikawa || 
-|| 01 || 01 || 04 || Maxi || Steve Van Wormer || Shigeo Kiyama || 
-|| 02 || 02 || 05 || Voldo ||  ||  || 
-|| 03 || 03 || 07 || Siegfried || Roger Craig Smith || Nobuyuki Hiyama || 
-|| 04 || 04 || 0B || Ivy || Lani Minella || Miyuki Sawashiro || 
-|| 05 || 08 || 10 || Edge Master || TJ Storm || Koji Ishii || 
-|| 06 || 06 || 11 || Nightmare || Charles Klausmeyer || Yasunori Masutani || 
-|| 07 || 07 || 12 || Astaroth || Michael McConnohie || Ryuzaburo Otomo || 
-|| 08 || 08 || 14 || Cervantes || Patrick Seitz || Jin Urayama || 
-|| 09 || 09 || 15 || Raphael || Charles Klausmeyer || Yasunori Masutani || 
-|| 0A || 0A || 23 || Tira ||  || Masumi Asano || 
-|| 0B || 0B || 28 || Hilde || Julie Ann Taylor || Yuko Kaida || 
-|| 0C || 0C || 29 || Algol || Jamieson Price || Joji Nakata || 
-|| 0D || 0D || 2F || Dampierre || Anthony Jenkins || Shigeru Chiba || 
-|| 0E || 0E || 31 || Z.W.E.I || Matthew Mercer || Kenta Miyake || 
-|| 0F || 0F || 32 || Viola || Heather Hogan || Hitomi Nabatame || 
-|| 10 || 10 || 33 || Pyrrha || Laura Bailey || Nozomi Sasaki || 
-|| 11 || 11 || 34 || Pyrrha-Z || Laura Bailey || Nozomi Sasaki || 
-|| 12 || 12 || 35 || Patroklos || Yuri Lowenthal || Kenn || 
-|| 13 || 13 || 36 || A-Patroklos || Yuri Lowenthal || Kenn || 
-|| 14 || 14 || 37 || Natsu || Kate Higgins || Fuyuka Oura || 
-|| 15 || 15 || 38 || Xiba || Johnny Yong Bosch || Toshiyuki Toyonaga || 
-|| 16 || 16 || 39 || Leixia || Lauren Landa || Yoshino Nanjo || 
-|| 17 || 17 || 3A || Aeon ||  ||  || 
-|| 18 || 18 || 3B || Yoshimitsu || Mitch Urban || Norio Wakamoto || 
-|| 19 || 04 || 3C || Elysium ||  || Chie Nakamura || 
-|| 1A || 01 || 3D || Kilik || Grant George || Soichiro Hoshi || 
-|| 1E || 1E ||  || Devil Jin ||  ||  || 
-|| 1F || 1F || 42 || Ezio Auditore || Roger Craig Smith || Tomokazu Seki || 
-||  ||  || 60 || Young Villager ||  ||  || 
-||  ||  || 61 || Young Knight ||  ||  || 
-||  ||  || 62 || Scroundrel ||  ||  || 
-||  ||  || 63 || Cold Assassin ||  ||  || 
-||  ||  || 64 || Reliable Leader ||  ||  || 
-||  ||  || 65 || Main Bad Guy ||  ||  || 
-||  ||  || 66 || Super Human ||  || Takehito Koyasu || 
-||  ||  || 67 || Veteran Knight ||  ||  || 
-||  ||  || 68 || Upbeat Girl ||  ||  || 
-||  ||  || 69 || Young Lady ||  ||  || 
-||  ||  || 6A || Cynical ||  ||  || 
-||  ||  || 6B || Serious ||  ||  || 
-||  ||  || 6C || Reliable Leader ||  ||  || 
-||  ||  || 6D || Veteran Knight ||  ||  || 
-||  ||  || 6E || Femme Fatale ||  ||  || 
-||  ||  || 6F || Super Human ||  ||  || 
+|| 00 || 00 || 01 || Mitsurugi || Ed Cunningham || Toshiyuki Morikawa ||
+|| 01 || 01 || 04 || Maxi || Steve Van Wormer || Shigeo Kiyama ||
+|| 02 || 02 || 05 || Voldo ||  ||  ||
+|| 03 || 03 || 07 || Siegfried || Roger Craig Smith || Nobuyuki Hiyama ||
+|| 04 || 04 || 0B || Ivy || Lani Minella || Miyuki Sawashiro ||
+|| 05 || 08 || 10 || Edge Master || TJ Storm || Koji Ishii ||
+|| 06 || 06 || 11 || Nightmare || Charles Klausmeyer || Yasunori Masutani ||
+|| 07 || 07 || 12 || Astaroth || Michael McConnohie || Ryuzaburo Otomo ||
+|| 08 || 08 || 14 || Cervantes || Patrick Seitz || Jin Urayama ||
+|| 09 || 09 || 15 || Raphael || Charles Klausmeyer || Yasunori Masutani ||
+|| 0A || 0A || 23 || Tira ||  || Masumi Asano ||
+|| 0B || 0B || 28 || Hilde || Julie Ann Taylor || Yuko Kaida ||
+|| 0C || 0C || 29 || Algol || Jamieson Price || Joji Nakata ||
+|| 0D || 0D || 2F || Dampierre || Anthony Jenkins || Shigeru Chiba ||
+|| 0E || 0E || 31 || Z.W.E.I || Matthew Mercer || Kenta Miyake ||
+|| 0F || 0F || 32 || Viola || Heather Hogan || Hitomi Nabatame ||
+|| 10 || 10 || 33 || Pyrrha || Laura Bailey || Nozomi Sasaki ||
+|| 11 || 11 || 34 || Pyrrha-Z || Laura Bailey || Nozomi Sasaki ||
+|| 12 || 12 || 35 || Patroklos || Yuri Lowenthal || Kenn ||
+|| 13 || 13 || 36 || A-Patroklos || Yuri Lowenthal || Kenn ||
+|| 14 || 14 || 37 || Natsu || Kate Higgins || Fuyuka Oura ||
+|| 15 || 15 || 38 || Xiba || Johnny Yong Bosch || Toshiyuki Toyonaga ||
+|| 16 || 16 || 39 || Leixia || Lauren Landa || Yoshino Nanjo ||
+|| 17 || 17 || 3A || Aeon ||  ||  ||
+|| 18 || 18 || 3B || Yoshimitsu || Mitch Urban || Norio Wakamoto ||
+|| 19 || 04 || 3C || Elysium ||  || Chie Nakamura ||
+|| 1A || 01 || 3D || Kilik || Grant George || Soichiro Hoshi ||
+|| 1E || 1E || — || Devil Jin ||  ||  ||
+|| 1F || 1F || 42 || Ezio Auditore || Roger Craig Smith || Tomokazu Seki ||
+|| — || — || 60 || Young Villager ||  ||  ||
+|| — || — || 61 || Young Knight ||  ||  ||
+|| — || — || 62 || Scroundrel ||  ||  ||
+|| — || — || 63 || Cold Assassin ||  ||  ||
+|| — || — || 64 || Reliable Leader ||  ||  ||
+|| — || — || 65 || Main Bad Guy ||  ||  ||
+|| — || — || 66 || Super Human ||  || Takehito Koyasu ||
+|| — || — || 67 || Veteran Knight ||  ||  ||
+|| — || — || 68 || Upbeat Girl ||  ||  ||
+|| — || — || 69 || Young Lady ||  ||  ||
+|| — || — || 6A || Cynical ||  ||  ||
+|| — || — || 6B || Serious ||  ||  ||
+|| — || — || 6C || Reliable Leader ||  ||  ||
+|| — || — || 6D || Veteran Knight ||  ||  ||
+|| — || — || 6E || Femme Fatale ||  ||  ||
+|| — || — || 6F || Super Human ||  ||  ||
 
 
-+ Finding the Custom Character Moveset Data
++++ Finding the Custom Character Moveset Data
 I found the data myself using an algorithm I built in Microsoft Office Excel. First I created 7 custom characters named Bohb1, Bohb2, Bohb3, Bohb4, Bohb5, Alice4, and Alice5. They are all just a copy of each other, no parameter changed, and their card blanked i.e. black background, maximum frame zoom, corner image). Blanking the card is essential to make the image as similar as possible, thus will not pollute the algorithm.
 
 The moveset was configured as follows:
@@ -153,16 +193,527 @@ This pattern allows the logic of **Bohb1 to Bohb5 always have different digit, b
 From my previous attempted search for the digit (which failed), each character slot have 29832 address. Trying to cover that without any help is suicide. On this search, I also open to **the chance that the character slot address does not begin at name address.** I have to think of the **possibility that part of Bohb2's address will be on the 29832 address that I designate as Bohb1's address.** Thus I also list 29832  address before Bohb1, even though the slot was empty. Let's state this as {{Logic 2}}.
 
 Using only half of {{Logic 1}}, I put the following code on Excel:
-[[code]]
-=IF(OR([@Bohb1]=[@Bohb2],[@Bohb2]=[@Bohb3],[@Bohb3]=[@Bohb4]),"Same Value!","")
-[[/code]]
+{{=IF(OR([@Bohb1]=[@Bohb2],[@Bohb2]=[@Bohb3],[@Bohb3]=[@Bohb4]),"Same Value!","")}}
 
 Notice that Bohb 5 is not used on the algorithm because of {{Logic 2}}, thus Bohb5's moveset address //could be// in Bohb4's. This code compares Bohb1 to Bohb2, Bohb2 to Bohb3 and Bohb3 to Bohb4. If either of them are same, then the address are considered same, since by first moveset logic, neither Bohb can have save address.
 
 From the initial 29832, the algorithm allowed me to filter the table to a much manageable 63 addresses. After just a bit of looking, I found that address 16603 and 20780 possibly contain the character digit since they correspond to {{Logic 1}}. But here's the catch. The digit for Mitsurugi (00) appears on the blank slot before Bohb1.
 
-[[image hackprocess.png | Note the vertical arrangement due to the limitation of Excel's horizontal cells. Apparently on Soulcalibur V, Cervantes (08) comes before Yoshimitsu (18).]]
+[[image hack-process.png | Note the vertical arrangement due to the limitation of Excel's horizontal cells. Apparently on Soulcalibur V, Cervantes (08) comes before Yoshimitsu (18).]]
 
 Which means my speculation of {{Logic 2}} is proven. After editing both number, I succeeded in making my first Ezio Custom Character.
 
-[[image sleipial-c3special.avif | Sleipial with Ezio's moveset.]]
+[[image hack-sleipial-ezio.avif | Sleipial with Ezio's moveset.]]
+
+
++ 9th Weapon
+You can only assign 9th weapon to a character using save game editor. The address is listed above. Female character's 9th weapon are all Soul Calibur. Siegfried and Nightmare both have their default SC4 weapon, no doubt for Legendary Souls mode. Other male characters are mostly a shinier version of their 1st weapon, most probably for cut scene prop. All of them cannot be colored, except the aura on Ein.
+
+[[include comp:alert-info
+|text=9th weapon is assigned to the digit "08", since 1st weapon is assigned to digit "00"
+]]
+
+[[include comp:alert-danger
+|text=Ezio, Dampierre and (probably) Algol do not have 9th weapon. Assigning 9th weapon to them will crash the game.
+]]
+
+++ 9th Weapon Gallery
+[[image 9th-aeon.avif | Aeon's 9th (right) is similar to his 1st weapon with different shine.]]
+[[image 9th-astaroth.avif | Astaroth's 9th (right) is a differently textured version of his 1st weapon. A low-res texture too.]]
+[[image 9th-cervantes.avif | Cervantes's 9th (right) is a corrupt version of Acheron. Interestingly, Cervantes's 1st weapon icon is the corrupted Acheron, but is actually a clean Acheron.]]
+[[image 9th-hilde1.avif | Hilde's Soul Calibur.]]
+[[image 9th-hilde2.avif | Hilde's Soul Calibur.]]
+[[image 9th-ivy.avif | Ivy's Soul Calibur.]]
+[[image 9th-kilik.avif | --Xiba-- Kilik's 9th (right) is a smaller, less shiny version of his 1st.]]
+[[image 9th-leixia.avif | Leixia's Soul Calibur.]]
+[[image 9th-maxi.avif | Maxi's 9th (right) is a shinier version of his 1st.]]
+[[image 9th-mitsurugi.avif | Mitsurugi's 9th is Patroklos' Soul Calibur, albeit with a different texture. This weapon comes with no sheath.]]
+[[image 9th-natsu.avif | Natsu's Soul Calibur.]]
+[[image 9th-nightmare.avif | Nightmare's SC4 Soul Edge.]]
+[[image 9th-patroklos.avif | Patroklos's 9th is Soul Calibur and Arcadia Shield, which can only be used during story mode.]]
+[[image 9th-apatroklos.avif | Alpha Patroklos's 9th (right) is a high-res textured version of his 1st weapon with a reversed sheath.]]
+[[image 9th-pyrrha.avif | Pyrrha's Soul Calibur.]]
+[[image 9th-pyrrhaz.avif | Pyrrha Omega's Soul Calibur.]]
+[[image 9th-raphael.avif | Raphael's 9th (right) is his 1st with slightly bigger hilt and slightly sharper texture.]]
+[[image 9th-siegfried.avif | Siegfried's SC4 Soul Calibur, albeit with lower resolution texture, that looks like crap up-close.]]
+[[image 9th-tira.avif | Tira's Soul Calibur.]]
+[[image 9th-viola.avif | Viola's Soul Calibur.]]
+[[image 9th-voldo.avif | Voldo's 9th (right) is a shinier version of his 1st, with different blade texture.]]
+[[image 9th-yoshimitsu.avif | Yoshimitsu's 9th (right) is his 1st weapon with an embossed flag.]]
+[[image 9th-zwei1.avif | Zwei's 9th sword, light blue blade, light purple hilt.]]
+[[image 9th-zwei2.avif | Zwei's 9th Ein, light purple, light blue, with orange aura.]]
+
+
++ Costume DLC Buyer's Guide
+There are numerous DLC Packs available for SC5, but unless you are a collector you are probably wondering which packs are worth it and which packs are not. This guide will cover all available DLC, focusing on equipment only.
+
+The review and verdict are biased toward creation of original characters and the part's compatibility with other parts. Verdict legend is as follows:
+* **##090|WORTH IT##** - definitely worth spending the money
+* **##4040FF|OPTIONAL##** - the pack contain item(s) that can be useful
+* **##ee4a2d|SKIP##** - only get it if you have extra money.
+
+Even though you're not planning to obtain any Cepheus Set items, I recommend you to **at least download the free compatibility pack.** This would make you able to see your opponent's complete outfit at online battles.
+
+++ Dark Knight & White Knight
+This pack is available via the Collector's Edition or the PSN Soulcalibur V Legendary Edition. Unlike SC4's Limited Edition DLC, you cannot obtain this from other region DLC (SC4 LE pack is obtainable from regular EU PSN Store). The Dark Knight set is mainly single-colored, save for a few additional spots such as the tiny round crystal and glove color. Unless you want to make a knock-off Sauron from Lord of the Rings, you will find few use of the Dark Knight Set. On the other hand, the White Knight set is dual-colored (base and lining) and the set itself looks great, especially the Arms and Greaves.
+**VERDICT: ##090|WORTH IT##**
+
+This pack contains equipments:
+* **Head:** Dark Knight Helm, White Knight Helm
+* **Upper Body Covering:** Dark Knight Plate, White Knight Plate
+* **Hip:** Dark Knight Fauld, White Knight Fauld
+* **Arm:** Dark Knight Arms, White Knight Arms
+* **Shoulder:** Dark Knight Pauldrons, White Knight Pauldrons
+* **Feet:** Dark Knight Greaves, White Knight Greaves
+
+
+[[image dlc-darkwhite.avif | Dark Knight set and White Knight set.]]
+
+
+++ Customization Equipment
+The Customization Equipment is the first DLC set available. You will need these to complete all pattern and stickers.
+
++++ Female Pack - $1.99, 160MSP
+This packs adds more decent female undergarment which SC5 lacks. The Amazon Undergarments is a decent metal underwear. The wings are hard to use, but they are amazingly detailed and with proper imagination, can look beautiful. This pack comes with additional face paints.
+**VERDICT: ##090|WORTH IT##**
+
+This pack contains female equipments:
+* **Undergarments:** Amazon Undergarments, Bikini with Pareo, Halter Top Bikini
+* **Neck and Back:** Butterfly Wings, Dragonfly Wings
+
+[[image dlc-female1.avif  | A few decent collection of underwear for female.]]
+
+[[image dlc-female2.avif  | The wings are detailed. Shame it takes the slot for neck item.]]
+
+
++++ Beast Pack - $1.99, 160MSP
+Both of the Isis equipment will make a good Egyptian theme, although Isis' Breastplate will decrease bust size. The Oiran kimono is also a nice addition to otherwise generic kimono design. The beast heads are detailed, but looks dead, and by dead I mean taxidermy-dead. This pack comes with additional face paints.
+**VERDICT: ##4040FF|OPTIONAL##**
+
+This pack contains equipments:
+* **Head:** Dragon's Head, Goat Head, Tiger Head, Tiger Hood
+* **Undergarments:** Isis' Breastplate [Female]
+* **Upper Body:** Oiran Kimono [Female]
+* **Lower Body:** Isis' Wrap [Female]
+
+[[image dlc-beast1.avif | Isis' Breastplate offers bust reduction, while the Oiran Kimono lives up to its name]]
+
+[[image dlc-beast2.avif | I'm sure you like taxidermy heads for your character.]]
+
+
++++ Trendy Pack - $1.99, 160MSP
+Other than the big skull sticker you can get, the equipment provided is not worth it. The Thigh High (Ripped) is not even an ankle item. This pack comes with additional face paints, patterns and a sticker.
+**VERDICT: ##4040FF|OPTIONAL##**
+
+This pack contains equipments:
+* **Face:** Muzzle, Skull Mask
+* **Undergarments:** Thigh Highs (Ripped) [Female]
+
+[[image dlc-trendy.avif | Weird, deformed mask and faux stocking. If only the stocking was an ankle item...]]
+
+
+
+++ Cepheus Set 1
+
++++ Classic Headgear 1 - $1.99, 160MSP
+Nothing really worth the price, unless you want to recreate SC2 Nightmare.
+**VERDICT: ##ee4a2d|SKIP##**
+
+This pack contains equipments:
+* **Head:** Devil's Mask, Iron Mask, Nightmare: Misery, Nightmare: Torment, Clown Mask [Voldo]
+
+[[image dlc-classichead1.avif | Only good for recreating Nightmare. No, I'm not posting nekkid Voldo wearing Clown Mask.]]
+
+
++++ SCV Character Equipment 1 - $1.99, 160MSP
+The Ruffian Trousers comes with shoes, thus you cannot use any Feet item with it. The Absolution Body Togi cannot be used with any undergarments, also it will increase bust size like a push-up bra. Oathbearer's Raiment will conflict with many neck item and cannot be used with any Upper Body Covering. The Soothsayer Hose comes with stocking and garter belt, and cannot be used with any Ankle item.
+**VERDICT: ##090|WORTH IT##**
+
+This pack contains equipments:
+* **Face:** Absolution Mask [Female]
+* **Upper Body:** Absolution Body Togi [Female], Justice Surcoat [Male], Oathbearer's Raiment [Male], Outlaw Wear [Male], Soothsayer's Dress [Female], Sorrowful Aketon [Female], Woeful Aketon [Female]
+* **Upper Covering (Male):** Ruffian Coat [Male]
+* **Lower Body:** Absolution Hip Togi [Female], Justice Trousers [Male], Outlaw Trousers [Male], Ruffian Trousers [Male], Sorrowful Skirt [Female], Woeful Skirt [Female]
+* **Hip:** Oathbearer's Sash [Male]
+* **Neck and Back:** Absolution Choker [Female], Soothsayer's Hood [Female]
+* **Arm:** Absolution Arm Gear [Female], Outlaw Gloves [Male], Ruffian Gloves [Male], Soothsayer's Sleeves [Female], Sorrowful Gloves [Female]
+* **Shoulder:** Oathbearer's Epaulet [Male]
+* **Feet:** Absolution Solea [Female], Justice Boots [Male], Oathbearer's Greaves [Male], Ruffian Boots [Male], Soothsayer's Hose [Female], Sorrowful Boots [Female]
+
+[[image dlc-sc511.avif | Justice, Oathbearer, Absolution. Oathbearer has no special pants.]]
+
+[[image dlc-sc512.avif | Ruffian, Outlaw, Soothsayer.]]
+
+[[image dlc-sc513.avif | Sorrowful, Woeful. Woeful has no special boots.]]
+
+
++++ Maid Costumes 1 - $2.99, 240MSP
+The maid items provided are quality items. This set is more expensive than normal, but you can use them with other equipment, except armors. The French Maid Dress comes with choker and will greatly increase bust size. The Lace Knee-highs comes with stocking.
+**VERDICT: ##090|WORTH IT##**
+
+This pack contains female equipments:
+* **Upper Equipment:** French Maid Dress, Merveilleuse Dress
+* **Neck and Back:** Lace Choker
+* **Arm:** Cuffs, Merveilleuse Gloves
+* **Feet:** Lace Knee-highs, Over-the-Knee
+
+[[image dlc-maid1.avif | Totally worth it maid outfit.]]
+
+
++++ Active Wear 1 - $2.99, 240MSP
+The items look too modern, although you might have some use out of the swimsuit. The Gym Shorts conflict with some skirt item. The Gym Shirt can have polygon glitch if the character have big bust.
+**VERDICT: ##ee4a2d|SKIP##**
+
+This pack contains female equipments:
+* **Undergarments:** Gym Shorts, One-piece Swimsuit
+* **Upper Body:** Gym Shirt
+
+[[image dlc-active1.avif | The amusement level depends on how you like bloomers and schoolgirl in swimsuit.]]
+
+
+
+++ Cepheus Set 2
+
++++ Ancient Armor 1 - $1.99, 160MSP
+These items do not behave like what you expect from an armor set. The Plate is an Upper Body item, making you unable to use Upper body covering item. The Greaves are a Lower Body item and comes with the fauld. The Gauntlets comes with the pauldrons. To mix these parts with other armor is hard, but the design is nice.
+**VERDICT: ##4040FF|OPTIONAL##**
+
+This pack contains equipments:
+* **Head:** Steel Helmet
+* **Upper Body:** Steel Plate
+* **Lower Body:** Steel Greaves
+* **Arm:** Steel Gauntlets
+
+[[image dlc-ancient1.avif | There's no difference between male and female set. Female set even flattens the bust.]]
+
+
++++ Modern Costumes 1 - $2.99, 240MSP
+The ribbon scarf looks good, but it is actually too big and needlessly floats. Both Upper Body items are single piece. The Cadet Blouse comes with a dog tag.
+**VERDICT: ##ee4a2d|SKIP##**
+
+This pack contains female equipments:
+* **Head:** Cadet Cap, Stewardess Cap
+* **Upper Body:** Cadet Blouse, Stewardess Uniform
+* **Neck and Back:** Stewardess Scarf
+
+[[image dlc-modern1.avif || Flight attendant and WW2 cadet uniform already exist in 1607. Awesome.]]
+
+
++++ Tekken Costumes 1 - $2.99, 240MSP
+These outfits are meant to be equipped as a set, thus they conflict a lot with other items. King and Jin's Lower Body items cannot be equipped with any feet item. Jin's Gauntlet come with the tattoo. Xiaoyu's set is probably the worthwhile part of all, but its black lining and the lotus image cannot be recolored. Panda Head looks dead.
+**VERDICT: ##4040FF|OPTIONAL##**
+
+This pack contains equipments:
+* **Head:** Panda Head, Mask (KING) [Male]
+* **Upper Body:** China Dress (XIAOYU) [Female],
+* **Lower Body:** Short Trunks (KING) [Male], Shorts (XIAOYU) [Female], Uniform Bottom (JIN) [Male]
+* **Arm:** Accessories (XIAOYU) [Female], Gauntlets (JIN) [Male], Gloves (KING) [Male]
+* **Feet:** Shoes (XIAOYU) [Female]
+
+[[image dlc-tekken1.avif | Jin, Xiaoyu, King. Eurystheus doesn't feel good inside that mask...]]
+
+
+
+++ Cepheus Set 3
+
++++ Miscellaneous Equipment 1 - $0.99, 80MSP
+This pack contains special items, but they are far from being worthwhile. The Klonoa and Pac-Man "key chain" are actually as big as bag packs and cannot be recolored. The Shoulder Kitty is cute, but looks dead. Only the Strange Ward is interesting, but even that has no animation, so it is like a steel sheet. Almost all items can only be equipped at Special 1 slot.
+**VERDICT: ##ee4a2d|SKIP##**
+
+This pack contains equipments:
+* **Special 1:** Klonoa Keychain, Pac-Man Keychain, Shoulder Kitty
+* **Special:** Strange Ward
+
+[[image dlc-misc11.avif | When you have keychain as big as backpack, you know something is wrong.]]
+
+[[image dlc-misc12.avif | Stuffed kitten and steel sheet.]]
+
+
++++ Headgears 1 - $1.99, 160MSP
+The headgears provided have limited use. You might want it for Aeon's Head, which does not animate and looks dead.
+**VERDICT: ##4040FF|OPTIONAL##**
+
+This pack contains equipments:
+* **Head:** Aeon's Head, Lucha Libre Mask, Racing Helmet, Terror Mask.
+* **Face:** Gas Mask
+
+[[image dlc-headgear11.avif | Aeon, Lucha, Racing, Terror. I think you know Psycho Mantis' Gas Mask when you see it...]]
+
+[[image dlc-headgear12.avif | You like Castlevania, don't you?]]
+
+
++++ Boy's Day Festival 1 - $1.99, 160MSP
+These items behave exactly like the Ancient Armor 1. You can make a generic Samurai with it, and nothing else.
+**VERDICT: ##ee4a2d|SKIP##**
+
+This pack contains equipments:
+* **Head:** Samurai Helmet
+* **Face:** Samurai Half-Mask
+* **Upper Body:** Kintaro's Apron [Male], Samurai Body Armor
+* **Lower Body:** Samurai Greaves
+* **Special 1:** Hoe-shaped Helmet Crest
+
+[[image dlc-bdfest1.avif | Kintaro's Apron and Samurai Set. Both tops are Upper Body items. Go figure.]]
+
+
++++ Modern Costumes 2 - $1.99, 160MSP
+I have no idea how to utilize this one. The overalls aren't even sexy and cannot be used with many undergarments. The firefighter gear is for lulz.
+**VERDICT: ##ee4a2d|SKIP##**
+
+This pack contains equipments:
+* **Head:** Firefighter's Helmet
+* **Upper Body:** Firefighter's Suit
+* **Lower Body:** Firefighter's Pants, Overalls
+
+[[image dlc-modern2.avif | I like firefighters, but not in Soulcalibur. Overalls need to me more flexible than that.]]
+
+
+
+++ Cepheus Set 4
+
++++ Hairstyles 1 - $1.99, 160MSP
+For a three item pack, this one is surely expensive. However, it could be useful if you like the hairstyle.
+**VERDICT: ##4040FF|OPTIONAL##**
+
+This pack contains equipments:
+* **Hair:** Crew Cut [Male], Mullet [Male], Ponytail [Female]
+
+[[image dlc-hair1.avif | Crew Cut, Mullet, Ponytail. Crew Cut is more like Afro Cut.]]
+
+
++++ Skeleton Costumes 1 - $0.99, 80MSP
+The Skeleton Costume can conflict with some Lower Body item, but is nothing major. You can utilize this sinister-looking skeleton in almost any way you like it. And yes, this equipment is available to both male and female.
+**VERDICT: ##090|WORTH IT##**
+
+This pack contains equipments:
+* **Undergarments:** Skeleton Costume
+
+[[image dlc-skeleton1.avif | I swear, by my sword and capote, that I will once again prove victorious!!]]
+
+
++++ SCV Character Equipment 2 - $1.99, 160MSP
+All items in this set behaves normally, which was a relief considering the 2 previous abnormal armor set. Note that all the special items can only be equipped at Special 1 slot. Most of the items here have no major problem, except Aristocrat Catsuit and Seeker's Suit, which can only be equipped as-is.
+**VERDICT: ##090|WORTH IT##**
+
+This pack contains equipments:
+* **Hair:** Flower Hairpins [Female], Warrior's Ponytail [Female]
+* **Head:** Sea King Helm [Male], Storm Pirate Hat [Male]
+* **Undergarments:** Aristocrat Catsuit [Female], Sea King Gambeson [Male], Seeker's Suit [Female]
+* **Upper Body:** Elegant Vest [Female], Ninja Chestpiece [Female], Storm Pirate Frock [Male], Wildling Shirt [Male]
+* **Upper Body Covering:** Sea King Mail [Male]
+* **Lower Body:** Elegant Breeches [Female], Ninja Hakama [Female], Storm Pirate Slops [Male], Wildling Trousers [Male]
+* **Hip:** Sea King Faulds [Male],
+* **Neck and Back:** Aristocrat Choker [Female], Wildling Pendant [Male]
+* **Arm:** Aristocrat Gloves [Female], Elegant Sleeves [Female], Ninja Gloves [Female], Sea King Gauntlets [Male], Seeker's Gloves [Female], Wildling Armbands [Male]
+* **Shoulder:** Sea King Epaulets [Male], Seeker's Epaulet [Female]
+* **Ankle:**
+* **Feet:** Aristocrat Heels [Female], Elegant Sandals [Female], Ninja Tabi [Female], Sea King Greaves [Male], Storm Pirate Boots [Male],
+* **Special 1:** Aristocrat Earrings [Female], Seeker's Earrings [Female], Wildling Anklet [Male]
+
+[[image dlc-sc521.avif | Elegant, Ninja, Wildling.]]
+
+[[image dlc-sc522.avif | Storm Pirate, Sea King.]]
+
+[[image dlc-sc523.avif | Seeker, Aristocrat.]]
+
+
++++ Active Wear 2 - $1.99, 160MSP
+This pack has the same deal as the previous Active Wear. They look fun to use, but quite worthless for the price. The Swimsuit (Name Tag) is the same Swimsuit, only with a chest name tag you cannot utilize. The big Championship Belt might be something you want if you going to make a [[link http://lmgtfy.com/?q=Shocker+Sentouin | Shocker Sentouin (LMGTFY Link)]].
+**VERDICT: ##ee4a2d|SKIP##**
+
+This pack contains equipments:
+* **Head:** Padded Headgear
+* **Undergarments:** Swimsuit (Name Tag) [Female]
+* **Upper Body:** Tracksuit Jacket
+* **Lower Body:** Boxing Trunks, Tracksuit Pants
+* **Hip:** Championship Belt
+* **Arm:** Boxing Gloves
+* **Feet:** Boxing Shoes
+
+[[image dlc-active2.avif | Padded Headgear is for weaklings... You don't mess with boxer horse.]]
+
+
+
+++ Cepheus Set 5
+
++++ Valkyrie Armor 1 - $2.99, 240MSP
+This outfit would be great if it did not come with some ridiculous bits. The Cuirass is an Upper Body item, comes with a choker, and has uncolorable small white wings. The Fauld conflicts with almost all neck item, and have uncolorable white part. The Greaves have some uncolorable linings. The Helm clips with most hairstyle, which is weird since Siren Helm does not.
+**VERDICT: ##4040FF|OPTIONAL##**
+
+This pack contains female equipments:
+* **Head:** Valkyrie Helm
+* **Upper Body:** Valkyrie Cuirass
+* **Hip:** Valkyrie Faulds
+* **Arm:** Valkyrie Gauntlets
+* **Feet:** Valkyrie Greaves
+
+[[image dlc-valk1.avif | See that dangling white parts on her tasset? They're uncolorable.]]
+
+
++++ Sexy Costumes 1 - $2.99, 240MSP
+I personally like this set because the Nurse's Boots have thick wedges and the Cowgirl Skirt is the only short tight skirt available, otherwise both Upper Body items are another conflict fest. The Nurse Boots comes with stocking and conflicts with ankle item. It would be nice if the Cowgirl Vest have a separate undergarment too.
+**VERDICT: ##090|WORTH IT##**
+
+This pack contains female equipments:
+* **Head:** Nurse's Cap, Ten Gallon Hat
+* **Upper Body:** Cowgirl Vest, Nurse's Uniform
+* **Lower Body:** Cowgirl Skirt
+* **Arm:** Wrist Cuffs
+* **Feet:** Cowgirl Boots, Nurse's Boots
+
+[[image dlc-sexy1.avif | Ever feel guilty ogling video game characters?]]
+
+
++++ Headgears 2 - $1.99, 160MSP
+These headgears have even more limited use. The Fundoshi provided seems like something that is left out from Boy's Day Festival 1.
+**VERDICT: ##ee4a2d|SKIP##**
+
+This pack contains equipments:
+* **Head:** Fighter Pilot Helmet, Rhinoceros Head
+* **Face:** Noh Mask
+* **Undergarments:** Fundoshi
+* **Special:**Ornament Helmet Crest
+
+[[image dlc-headgear21.avif | Can anyone think of using Pilot Helm?]]
+
+[[image dlc-headgear22.avif | Putting the Crest on top of Samurai Helm still not making sense.]]
+
+
+
+++ Cepheus Set 6
+
++++ Music Festival 1 - $0.99, 80MSP
+The Powdered Wig is unusually a head item, well considering it is a wig that Gregorian/Victorian use, I think that makes sense. The Swallowtail Suit looks great at first glance, but it has weird bits. First of all it can make your character's hip look big. Second, it reduces bust size. Third, if you adjust your character's Chest size, rather than the bust that get bigger, your character's lower ribs get bigger instead, creating a deformed look. The suit can still work for male characters, though, but I think you want a unisex item to work for both gender.
+**VERDICT: ##ee4a2d|SKIP##**
+
+This pack contains equipments:
+* **Head:** Powdered Wig
+* **Upper Body:** Swallowtail Suit
+
+[[image dlc-musicfest1.avif | Swallow tail suit and the chest size problem]]
+
+
++++ Bridal Costumes 1 - $2.99, 240MSP
+I personally consider this set worthy because of the Bridal Short, which is the only panties available to female character. The Tuxedo Jacket and Pants is nothing special. Tuxedo Shoes adds a decent shoe to male character. The Bridal Dress is beautiful, but it does not look good for character with big bust. The Tiara is another Special 1 item only.
+**VERDICT: ##090|WORTH IT##**
+
+This pack contains equipments:
+* **Undergarments:** Bridal Shorts [Female]
+* **Upper Body:** Bridal Dress [Female], Tuxedo Jacket [Male]
+* **Lower Body:** Tuxedo Pants [Male]
+* **Feet:** Bridal Shoes [Female], Tuxedo Shoes [Male]
+* **Special 1:** Tiara [Female]
+
+[[image dlc-bridal1.avif | Bridal sets, displaying 4 possible colors. The cloth on Groom's pocket cannot be colored.]]
+
+
+
+++ Cepheus Set 7
+
++++ Tekken Costumes 2 - $1.99, 160MSP
+Contains Jun and Asuka's outfit. It is unfortunate that Asuka's Top is a fixed short top, outer jacket and hotpants. Jun's Top somehow has a property that makes breasts of any size look inflamed. Jun's Cape somehow conflicts with most of Upper Body item. There's not much use to these items.
+**VERDICT: ##ee4a2d|SKIP##**
+
+This pack contains female equipments:
+* **Upper Body:** Top (ASUKA), Top (JUN)
+* **Lower Body:** Pants (JUN)
+* **Neck and Back:** Cape (JUN)
+* **Arm:** Gloves (ASUKA)
+* **Feet:** Boots (ASUKA), Sandals (JUN)
+
+[[image dlc-tekken2.avif | Asuka, Jun.]]
+
+
++++ Sexy Costumes 2 - $2.99, 240MSP
+This set is not as worthy as the Sexy Costumes 1. The Police Miniskirt is actually a top item and comes with the blazer and badge. The male Latex set is, without doubt, a tribute costume to [[link http://en.wikipedia.org/wiki/Masaki_Sumitani | Razor Ramon Hard Gay🔗]].
+**VERDICT: ##ee4a2d|SKIP##**
+
+This pack contains equipments:
+* **Head:** Police Cap [Female]
+* **Undergarments:** Latex Hot Pants [Male]
+* **Upper Body:** Latex Vest [Male], Police Miniskirt [Female]
+* **Neck and Back:** Studded Collar [Male]
+* **Arm:** Studded Armband [Male]
+* **Feet:** Latex Short Boots [Male]
+
+[[image dlc-sexy2.avif | Definitely Razor Ramon Hard Gay. I wish that police miniskirt was a separate item.]]
+
+
++++ Classic Outfits 1 - $2.99, 240MSP
+Expensive set, but I think is worthwhile because of the Bong-seon Underwear, Boots, as well as Kitty Sash and Choker. The only problem is the Kitty Sash is bulky compared to the SC4 counterpart, and Kitty Tunic is an underwear item.
+**VERDICT: ##090|WORTH IT##**
+
+This pack contains female equipments:
+* **Undergarments:** Bong-seon Underwear, Kitty Tunic
+* **Upper Body:** Bong-seon Coat
+* **Lower Body:** Kitty Sash
+* **Neck and Back:** Kitty Choker
+* **Arm:** Kitty Mittens
+* **Shoulder:** Bong-seon Spaulder
+* **Feet:** Bong-seon Boots, Kitty Sandals
+
+[[image dlc-classic1.avif | The items have great details and not a low-resolution like its SC4 version.]]
+
+
+
+++ Cepheus Set 8
+
++++ Modern Costumes 3 - $1.99, 160MSP
+Another Modern Costume "wonder". At least they are far better than the previous one. Denim set has detailed patterns, which is nice. Denim Jacket will make your character appear bigger in all dimension, which means, character with big bust would look really ridiculous. The Jeans clips with many feet item. The male version of Tennis Cap and Shoes are Mega man-sized. Worst of all, no Tennis Miniskirt, so these parts would add another T-Shirt and shorts primitive to your library.
+**VERDICT: ##ee4a2d|SKIP##**
+
+This pack contains equipments:
+* **Head:** Tennis Cap
+* **Upper Body:** Denim Jacket, Denim Vest, Tennis Jacket
+* **Lower Body:** Jeans, Tennis Pants
+* **Feet:** Tennis Shoes
+
+[[image dlc-modern31.avif | The denim set would make you look like mechanics at best.]]
+
+[[image dlc-modern32.avif | Male set have Mega man-sized Cap and Shoes. Female ones are normal, somehow.]]
+
+
++++ Ancient Armor 2 - $1.99, 160MSP
+These items look plain at best. The Corinthian helm will make you BALD. The Bronze Armor is an Upper Body item, which means a conflict fest with every Waist item. The Bronze Armbands are actually bandage and looks pretty badass. The Plume is another Special 1 only item. It's big and I personally use it to make horse hair for my Trojans.
+**VERDICT: ##ee4a2d|SKIP##**
+
+This pack contains equipments:
+* **Head:** Corinthian Helm
+* **Upper Body:** Bronze Armor
+* **Arm:** Bronze Armbands
+* **Feet:** Bronze Leg Armor
+* **Special 1:** Legionnaire's Plume
+
+[[image dlc-ancient2.avif | Yeah, plain.]]
+
+
++++ School Uniforms 1 - $1.99, 160MSP
+For such a relatively low price, this set contains several outfits that you can use to make Japanese-style school outfits. Male exclusive items are Banchou outfit, while female items are Sailor outfit. The Student slacks comes with a textured belt which lacks details. The Sailor Shirt is superior than its SC4 counterpart - it is fluid and behave like a garment. The only minor problem it has is that it clips with non-standard underwear such as the Bikinis. The Blazer looks good too, but Girl's blazer somehow lowers the breast line. The Duffel Bag is almost pointless, unless you want to make a hiker or something.
+**VERDICT: ##4040FF|OPTIONAL##**
+
+This pack contains equipments:
+* **Head:** Student's Cap [Male]
+* **Upper Body:** Boy's Blazer [Male], Girl's Blazer [Female], Sailor Shirt [Female], Student's Coat [Male]
+* **Lower Body:** Student's Slacks [Male]
+* **Feet:** Leather Loafers [Female]
+* **Special:** Duffel Bag
+
+[[image dlc-school11.avif | The Banchou and Sailor uniform. Note that Banchou set does not come with shoes.]]
+
+[[image dlc-school12.avif | Blazers look good on male characters. On female characters, not so good.]]
+
+[[image dlc-school13.avif | Fight your enemy and camp afterward with the brand-new Duffel Bag!!]]
+
+
++++ Dark Warrior Armor 1 - $2.99, 240MSP
+I think this set is intended to be a counterpart for female-only Valkyrie Armor. However, this set has major problems. First of all, the Cuirass is an Upper Body item, so you know the drill: conflict fest. The Gauntlets cannot be used with any shoulder item. Furthermore, the Faulds conflicts with EVERY, yes, EVERY Upper Body Covering items. This means you can only use this set as a whole. On the plus side, the set looks great and is heavily detailed. Get if you like the whole design. Otherwise, don't bother.
+**VERDICT: ##ee4a2d|SKIP##**
+
+This pack contains male equipments:
+* **Head:** Dark Warrior Helm
+* **Upper Body:** Dark Warrior Cuirass
+* **Hip:** Dark Warrior Faulds
+* **Arm:** Dark Warrior Gauntlets
+* **Feet:** Dark Warrior Greaves
+
+[[image dlc-darkwarrior1.avif | Great as a whole, crap as single items.]]

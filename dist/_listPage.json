@@ -261,6 +261,36 @@
     },
     {
         "category": "comp",
+        "slug": "alert-danger",
+        "sourceName": "comp_alert-danger",
+        "url": "/comp/alert-danger/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "comp",
+        "slug": "alert-info",
+        "sourceName": "comp_alert-info",
+        "url": "/comp/alert-info/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "comp",
+        "slug": "alert-warning",
+        "sourceName": "comp_alert-warning",
+        "url": "/comp/alert-warning/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "comp",
         "slug": "alert",
         "sourceName": "comp_alert",
         "url": "/comp/alert/",

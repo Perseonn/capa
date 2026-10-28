@@ -25,6 +25,9 @@ https://capa.asoh.xyz/articles/video-portfolio/
 https://capa.asoh.xyz/articles/yakuza-0/
 https://capa.asoh.xyz/articles/zombiereverse/
 https://capa.asoh.xyz/articles/
+https://capa.asoh.xyz/comp/alert-danger/
+https://capa.asoh.xyz/comp/alert-info/
+https://capa.asoh.xyz/comp/alert-warning/
 https://capa.asoh.xyz/comp/alert/
 https://capa.asoh.xyz/comp/button/
 https://capa.asoh.xyz/comp/list-page-item/

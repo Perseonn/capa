@@ -1,0 +1,5 @@
+[[[include comp:alert
+|type=warning
+|icon=fa fa-warning
+|text={$text}
+]]]
