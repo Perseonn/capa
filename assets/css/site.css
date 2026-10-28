@@ -59,6 +59,11 @@ Base CSS
 	transition-duration: 0.2s;
 }
 
+::-webkit-scrollbar {width: 0.5rem;}
+::-webkit-scrollbar-track {background: var(--color-capa-1); border-radius:8px;}
+::-webkit-scrollbar-thumb {background: var(--color-dark-50); border-radius:8px; min-height:4rem;}
+::-webkit-scrollbar-thumb:hover {background: var(--color-dark-25);}
+
 body{
 	font-family: var(--sans-font);
 	font-size: var(--base-font-size);
@@ -532,11 +537,6 @@ nav .stroke.site-title a:hover{
 .capa-nav-overlay {
     display: none;
 }
-
-#capa-nav-content::-webkit-scrollbar {width: 0.5rem;}
-#capa-nav-content::-webkit-scrollbar-track {background: none; border-radius:8px;}
-#capa-nav-content::-webkit-scrollbar-thumb {background: var(--color-capa-1); border-radius:8px;}
-#capa-nav-content::-webkit-scrollbar-thumb:hover {background: var(--color-capa-2);}
 
 /* Mobile Drawer */
 
