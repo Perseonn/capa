@@ -39,34 +39,15 @@ const wikidotInlineParsers = [
         render: () => "-->"
     },
     /*
-     * Anchor Open [[a href="" class="" style=""]]
-    */
+     * Anchor Open [[a]]
+     */
     {
         name: "anchor-open",
-        regex: /^\[\[a\s+([^\]]+)\]\]/,
+        regex: /^\[\[a(?:\s+([^\]]*))?\]\]/,
 
-        render: (match) => {
-            const attributes = {};
-            const attributeRegex = /(\w+)\s*=\s*"([^"]*)"/g;
-            let attributeMatch;
-
-            while ((attributeMatch = attributeRegex.exec(match[1])) !== null) {
-                const [, name, value] = attributeMatch;
-
-                if (["href", "class", "style"].includes(name)) {
-                    attributes[name] = value;
-                }
-            }
-
-            if (!attributes.href) {
-                return match[0];
-            }
-
-            const renderedAttributes = Object.entries(attributes)
-                .map(([name, value]) => `${name}="${value}"`)
-                .join(" ");
-
-            return `<a ${renderedAttributes}>`;
+        render: (match, { escapeHtml }) => {
+            const attributes = renderAttributes(match[1] ?? "", escapeHtml);
+            return `<a${attributes ? ` ${attributes}` : ""}>`;
         }
     },
     /*
@@ -83,43 +64,42 @@ const wikidotInlineParsers = [
      */
     {
         name: "span-open",
-        regex: /^\[\[span(?:\s+(?:class|style)="[^"]*")*\s*\]\]/,
+        regex: /^\[\[span(?:\s+([^\]]*))?\]\]/,
 
         render: (match, { escapeHtml }) => {
-            const attributes = {};
-            const attributeRegex = /(?:^|\s)(class|style)="([^"]*)"/g;
-
-            let attributeMatch;
-
-            while (
-                (attributeMatch = attributeRegex.exec(
-                    match[0].slice(6, -2)
-                )) !== null
-            ) {
-                attributes[attributeMatch[1]] = attributeMatch[2];
-            }
-
-            const classAttribute =
-                attributes.class !== undefined
-                    ? ` class="${escapeHtml(attributes.class)}"`
-                    : "";
-
-            const styleAttribute =
-                attributes.style !== undefined
-                    ? ` style="${escapeHtml(attributes.style)}"`
-                    : "";
-
-            return `<span${classAttribute}${styleAttribute}>`;
+            const attributes = renderAttributes(match[1] ?? "", escapeHtml);
+            return `<span${attributes ? ` ${attributes}` : ""}>`;
         }
     },
     /*
-    * Span Close [[/span]]
-    */
+     * Span Close [[/span]]
+     */
     {
         name: "span-close",
         regex: /^\[\[\/span\]\]/,
 
         render: () => "</span>"
+    },
+    /*
+     * Button Open [[button]]
+     */
+    {
+        name: "button-open",
+        regex: /^\[\[button(?:\s+([^\]]*))?\]\]/,
+
+        render: (match, { escapeHtml }) => {
+            const attributes = renderAttributes(match[1] ?? "", escapeHtml);
+            return `<button${attributes ? ` ${attributes}` : ""}>`;
+        }
+    },
+    /*
+     * Button Close [[/button]]
+     */
+    {
+        name: "button-close",
+        regex: /^\[\[\/button\]\]/,
+
+        render: () => "</button>"
     },
     /*
     * Inline Image [[image]] when followed by any characters
@@ -232,6 +212,38 @@ const wikidotInlineParsers = [
         }
     }
 ];
+
+//Helper to enable any value between opening span/a/button/etc ([[span) and its nearest double bracket (]])
+function renderAttributes(attributeString, escapeHtml) {
+    const attributes = [];
+    const attributeRegex =
+        /([^\s=/>]+)(?:\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s"'=<>`]+)))?/g;
+
+    let attributeMatch;
+
+    while ((attributeMatch = attributeRegex.exec(attributeString)) !== null) {
+        const name = attributeMatch[1];
+
+        // Only accept valid attribute names.
+        if (!/^[a-zA-Z_:][a-zA-Z0-9:._-]*$/.test(name)) {
+            continue;
+        }
+
+        // Support double-quoted, single-quoted, unquoted, and boolean attributes.
+        const value =
+            attributeMatch[2] ??
+            attributeMatch[3] ??
+            attributeMatch[4];
+
+        if (value === undefined) {
+            attributes.push(name);
+        } else {
+            attributes.push(`${name}="${escapeHtml(value)}"`);
+        }
+    }
+
+    return attributes.join(" ");
+}
 
 
 export function parseInline(text, customParsers = customInlineParsers, sourceName="") {
@@ -629,7 +641,7 @@ function parseImage(line, sourceName, inline = false) {
  */
 function parseDivStart(line) {
     const match = line.trim().match(
-        /^\[\[div(_)?(?:\s+class="([^"]*)")?(?:\s+style="([^"]*)")?\]\]$/
+        /^\[\[div(_)?(?:\s+([^\]]*))?\]\]$/
     );
 
     if (!match) {
@@ -637,19 +649,11 @@ function parseDivStart(line) {
     }
 
     const isInline = match[1] === "_";
-    const className = match[2] ?? "";
-    const style = match[3] ?? "";
-
-    const classAttribute = className
-        ? ` class="${escapeHtml(className)}"`
-        : "";
-
-    const styleAttribute = match[3] !== undefined
-        ? ` style="${escapeHtml(style)}"`
-        : "";
+    const attributeString = match[2] ?? "";
+    const attributes = renderAttributes(attributeString, escapeHtml);
 
     return {
-        html: `<div${classAttribute}${styleAttribute}>`,
+        html: `<div${attributes ? ` ${attributes}` : ""}>`,
         isInline
     };
 }

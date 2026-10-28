@@ -23,7 +23,8 @@ Visit https://capa.asoh.xyz for the conversion result. It's hosted on Github Pag
 * **Page metadata:** Wikidot backups do not preserve all page metadata, so page titles and last-updated dates must be reassigned using `@title` and `@updated`. See **Custom Meta** below for details.
 * **Image syntax:** The basic [[image image-name.png]] syntax is supported, but more complex implementations differ from Wikidot. For example, `[[image link=""]]` is not supported. See **Custom Syntax #2 (Images)** below for details.
 * **Link syntax:** CAPA Engine uses its own `[[link /some-page]]` syntax. Wikidot's standard link syntaxes, including `[/page Link Text]`, `[[/page Link Text]]`, and `[[[/page | Link Text]]]`, are not supported. This was a deliberate simplification of the parsing algorithm and my limited experience with parser design.
-* **Collapsible syntax:** not supported. You can implement collapsible elements using Bootstrap's built-in components.
+* **Collapsible syntax (`[[collapsible]]`):** not supported. You can implement collapsible elements using Bootstrap's built-in components.
+* **HTML syntax (`[[html]]`):** not supported.
 * **Data Forms:** not supported.
 
 ## Documentation
@@ -54,7 +55,7 @@ The workflow uses 4 active javascript files:
 
 ### Available Syntax
 1. General in-line syntax: `**bold**`, `//italic//`, `__underline__`, `--strikethrough--`, `{{monospaced}}`, `^^superscript^^`, `,,subscript,,`, `##f0f0f0 | hex-only colors##`.
-2. HTML syntax: `[[div]] [[/div]]`, `[[div_]] [[/div]]` (disables `<p>` wrappers), `[[a]] [[/a]]`, `[[span]] [[/span]]`. Currently only accepts `class=""` parameter.
+2. HTML syntax: `[[div]] [[/div]]`, `[[div_]] [[/div]]` (disables `<p>` wrappers), `[[a]] [[/a]]`, `[[span]] [[/span]]`. Any valid attributes and custom attributes are allowed.
 3. Headings from + to ++++
 4. Tables, using `|| ||` for table data and and `||~ ||` for Table Heading.
 5. Unnumbered and Ordered List, starting line with `*` and `#`.
@@ -99,7 +100,7 @@ The workflow uses 4 active javascript files:
 3. Youtube `[[youtube id]]`, customizable via `contents/_youtube.html`
 4. Anchor Target `[[#go-to-here]]` that generates empty `<span id="go-to-here"></span>` that can be followed to using `[[a href="#go-to-here"]][[/a]]`, to reduce dependency to the ToC.
 5. Icon `[[i | class]]` that generates `<i class="class"></i>`. Use with CSS `i{font-style: normal;}` to prevent italics.
-
+6. Button `[[button]]` and `[[/button]]` that generates `<button>` and `</button>`. Any valid attributes and custom attributes are allowed.
 
 ### Custom Meta
 Source files can have custom metas. If no metas are assigned, default meta will be given from `config.js`. See **Customizable Files #9** below.
