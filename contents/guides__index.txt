@@ -16,7 +16,7 @@
 [[module ListPages category="guides" order="title"]]
 [[include comp:list-page-item
 |container-class=col-12 col-xs-6 col-md-4
-|image-container-class=bg-white-50 p-1
+|image-container-class=bg-white-50 rounded p-1 
 |image-class=fit-cover aspect-16x9
 |image=%%fullname%%/%%name%%.avif
 |link=%%fullname%%

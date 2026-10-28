@@ -40,7 +40,7 @@ Guides
 [[module ListPages category="guides" order="updated_at desc" limit="4"]]
 [[include comp:list-page-item
 |container-class=col-6 col-lg-6 small-cards
-|image-container-class=bg-white-50 p-1 h-100
+|image-container-class=bg-white-50 rounded p-1 h-100
 |image-class=fit-contain position-logo-front-page h-100
 |image=%%fullname%%/%%name%%.avif
 |link=%%fullname%%
