@@ -19,6 +19,13 @@ Visit https://capa.asoh.xyz for the conversion result. It's hosted on Github Pag
 * You may download and use these files for testing. However, redistribution must comply with the license terms. See the License section for details.
 * CAPA Engine can be used with your own Wikidot backup files. The licensing restrictions above apply to the included CAPA source content, not automatically to content you supply yourself.
 
+### Compatibility Limitations
+* **Page metadata:** Wikidot backups do not preserve all page metadata, so page titles and last-updated dates must be reassigned using `@title` and `@updated`. See **Custom Meta** below for details.
+* **Image syntax:** The basic [[image image-name.png]] syntax is supported, but more complex implementations differ from Wikidot. For example, `[[image link=""]]` is not supported. See **Custom Syntax #2 (Images)** below for details.
+* **Link syntax:** CAPA Engine uses its own `[[link /some-page]]` syntax. Wikidot's standard link syntaxes, including `[/page Link Text]`, `[[/page Link Text]]`, and `[[[/page | Link Text]]]`, are not supported. This was a deliberate simplification of the parsing algorithm and my limited experience with parser design.
+* **Collapsible syntax:** not supported. You can implement collapsible elements using Bootstrap's built-in components.
+* **Data Forms:** not supported.
+
 ## Documentation
 ### Engine Workflow
 1. All pages must be sourced from `contents/` folder.
@@ -35,7 +42,7 @@ Visit https://capa.asoh.xyz for the conversion result. It's hosted on Github Pag
 6. `assets/` contains the files that should be **manually structured** like the `dist/`
   * For example: `category_page-name.txt` will be generated into `category/page-name/index.html`, and by default will take assets from `assets/category/page-name/`.
 7. Run `npm run build` on the root folder to start building the pages. Pages not found in `contents/` folder will be purged from `/dist`.
-8. `dist/sitemap.xml` will be generated automatically from the pages found in `contents/`.
+8. `dist/sitemap.xml` and `dist/sitemap.txt` will be generated automatically from the pages found in `contents/`. Google Search Console seems to prefer the `.txt` version.
 9. `dist/_listPage.json`  will be generated automatically and will be used as a reference for ListPages.
 
 ### Engine Files
