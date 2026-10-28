@@ -718,7 +718,7 @@ TABLE OF CONTENTS BACKGROUND CUSTOMIZE
 	background-repeat: no-repeat;
 	opacity: 0.1;
 	height: 100%;
-	max-height: 100vh;
+	max-height: 200vh;
 	z-index:-1;
 }
 
