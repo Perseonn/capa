@@ -4,22 +4,1054 @@
 
 The fifth main installment of the Soul series comes with the worst battle system addition imaginable. The combat is mostly the same as in Soul Calibur III, except for the removal of Soul Charge and the addition of the Soul Gauge. You can perform a Critical Finish when your opponent's Soul Gauge is emptied, but during a match, this is nearly impossible to achieve. My personal record in 30 battles against an Edgemaster difficulty opponent, with two rounds per battle, resulted in just one Critical Finish. One.
 
+Part of this guide was previously published on Another Stage of History. Honor Collection and Tower of Lost Souls sections are written by Buster Wolf.
+
++ Honor Collection
+First and foremost to check how many you have go to Museum >> Battle Records
+
+As you may have heard by now you need 30 honors to unlock all parts for CaS, there are a total of 50 honors with 6 forcing you to play online, you pretty much only need 30, but if you want bragging rights with your friends then go head and get more. Also you have to be playing Story, Arcade, Tower of Lost Soul or Online for these to count, Training and Versus won’t add anything
+
+++++ 1. Start of a New Era (5 points)
+* Welcome to the new world of Soulcalibur!
+* This is the easiest yet there are those who don’t have this one and wonder why, simple watch the opening do not press until the announcer says "Soulcalibur 4".
+
+++++ 2. Encounter with the Unknown (10 points)
+* Fight against Vader/Yoda.
+* The Apprentice is the only one that fights them in Arcade mode based on your console, or you can battle a friend online using them.
+
+++++ 3. Pursuer of the Secret (10 points)
+* Clear Story mode on difficulty: Normal.
+
+++++ 4. Mystery of the Swords (20 points)
+* Clear Story mode on difficulty: Hard.
+
+++++ 5. May the Force be with You (20 points)
+* Clear Story mode with Vader/Yoda.
+
+++++ 6. War Veteran (10 points)
+* Clear Arcade mode.
+
+++++ 7. Hero on the Battlefield (20 points)
+* Clear Arcade mode with over 450,000 points.
+* Get lots of perfects, you should have over 450,000 by the time you face Algol.
+
+++++ 8. Legendary Hidden Treasures (20 points)
+* Acquire over 30 treasures in Tower of Lost Souls.
+
+++++ 9. Never Ending Advance (20 points)
+* Descend 20 floors in Tower of Lost Souls.
+* Sadly to be able to Descend you need to Ascend 20 floors...stupid I know.
+
+++++ 10. Tower's New Guardian (30 points)
+* Clear all upper floors of Tower of Lost Souls.
+
+++++ 11. Scorpion's Sting (10 points)
+* Win a battle with Critical Finish.
+
+++++ 12. Smasher (10 points)
+* Destroy all of the opponent's equipment.
+* If you don't have an online buddy to play with do the 45th floor of the Tower, using 2 Yun-seongs & an Astaroth.
+
+* For Upper crush use Yun-seong's Diving Viper (66A)
+* For Mid crush use Yun-seong's Avenging Claw (6BB)
+* For Low crush use Astaroth's Double Discus (1**A**A)
+
+* Make sure to have Soul Gauge Damage A.
+
+++++ 13. Iron Hammer (10 points)
+* Land an attack on a taunting opponent.
+
+++++ 14. Death on the Battlefield (30 points)
+* Perform 100 Critical Finishes.
+* Floor 11 is perfect for this as its requirement is to Critical Finish each opponent.
+
+++++ 15. Like a Flowing Stream (20 points)
+* Perform 200 Impacts.
+* Auto Impact A helps.
+
+++++ 16. Lost in the Moment (30 points)
+* Perform 20 Just Impacts.
+
+++++ 17. Quick Strike (10 points)
+* Perform 5 First Attacks in a row in Arcade.
+
+++++ 18. Swift Strike (20 points)
+* Perform 100 First Attacks.
+
+++++ 19. Mad Destroyer (20 points)
+* Perform 100 Soul Crushes.
+
+++++ 20. Violent Storm (20 points)
+* Perform 50 Wall Hits.
+
+++++ 21. 10,000 Strikes of Proof (30 points)
+* Land 10,000 attacks.
+* If you want to get this quickly do the following.
+
+* Maxi: Wavering Light -> Wavering Dream ~ Right Outer (2A+K,B+K ~ BBA)
+
+* This does 5 hits and low damage using it throughout Maxi's Story mode will net a lot of hits on the counter.
+
+++++ 22. Endure 1,000 (30 points)
+* Guard 1,000 times against attacks.
+
+++++ 23. Water Moon (20 points)
+* Perform 30 grapple breaks.
+* Auto Grapple Break A helps.
+
+++++ 24. Distance will not Betray (20 points)
+* Reach over 10,000 meters in total movement distance in battle.
+
+++++ 25. First Step as an Artist (5 points)
+* Customize a regular character.
+
+++++ 26. Chosen by History (5 points)
+* Create a custom character.
+
+++++ 27. Sharpened Teeth (20 points)
+* Maximize a style's level.
+
+++++ 28. Equal Skill and Power (20 points)
+* Use all skill points and set up 4 skills.
+
+* Style: Cassandra
+* Weapon: Digamma & Nemea Shield
+
+* Skills:
+* Auto Counter C
+* Nullify Counter C
+* Hysterical Strength
+* Soul Gauge Damage C
+
+* Equipment:
+* Sobek Vizard
+* Pauldrons
+* Kunoichi Tights
+* Parlor Blouse
+* Leather Gloves
+
+* This isn't one you can try right away sadly.
+*  
+++++ 29. Engraved into History (30 points)
+* Fight 100 times (Online).
+
+++++ 30. World Class Fighter (30 points)
+* Fight against 20 different fighting styles (Online).
+* You’ll have to find someone willing to use the styles you haven’t fought against (write it down on a paper to remember).
+
+++++ 31. World Traveler (30 points)
+* Fight on all stages (Online).
+
+++++ 32. Gladiator (20 points)
+* Win consecutive Ranked Matches (Online).
+
+++++ 33. Unknown Swordsman (20 points)
+* Win 10 times (Online).
+
+++++ 34. Hero King (30 points)
+* Level up to 20 (Online).
+
+++++ 35. Divine Punishment (20 points)
+* K.O. with an Unblockable Attack.
+* You can do this in an early stage in Story mode.
+
+++++ 36. Reversal Wizard (20 points)
+* Win 20 times with low HP.
+
+++++ 37. Phoenix (10 points)
+* Win with all equipment destroyed.
+* Have a character with HP Burst and use it early, your Soul Gauge will deplete quickly to the point that any blocked attack will cause Soul Crush do this in the first stage in Story Mode.
+
+++++ 38. Wandering Assassin (10 points)
+* K.O. opponent with over 20 types of weapons.
+
+++++ 39. Repel All Blades (30 points)
+* Win perfect 30 times.
+* Ring outs do not count towards this.
+
+++++ 40. Numeric God (20 points)
+* Measure the two passages of time and win.
+* This is a tough one. The amount of seconds left on the round clock must equal the seconds of your playtime clock. A digital stopwatch might help in determining the playtime clock.
+
+++++ 41. Two Cannot Exist Together (20 points)
+* Get a double K.O.
+* Yoshimitsu: Turning Suicide (66**A+K**).
+
+++++ 42. Gathering of the Best (20 points)
+* Complete Chain Of Souls.
+* Unlock all characters.
+
+++++ 43. Observer of Souls (30 points)
+* Collect all illustrations in Art Gallery.
+
+++++ 44. Sword Hunter (15 points)
+* Collect all weapons for 5 characters.
+
+++++ 45. The Controller (20 points)
+* Get Soul Calibur (Final Form).
+* Clear Siegfried's Story mode and buy it.
+
+++++ 46. Wild Run to Tragedy (20 points)
+* Get Soul Edge (Final Form).
+* Clear Nightmare's Story mode and buy it.
+
+++++ 47. Looter of the Battlefield (20 points)
+* Collect all accessories.
+* Buy all Special Equipment.
+
+++++ 48. Wandering Weapon Merchant (20 points)
+* Collect 350 pieces of equipment.
+
+++++ 49. Tower of Gold (20 points)
+* Acquire over 1,000,000 gold.
+
+++++ 50. Transcend History and the World (50 points)
+* Acquire all weapons and equipment.
+
+[!-- ==== ==== ==== ==== ==== ==== ==== ==== Tower of Lost Souls Part ==== ==== ==== ==== ==== ==== ==== ==== --]
+
++ Tower of Lost Souls
+Floors will be split up into sections that you must go through, the fight at the end acts like a save point to save your progress so you can continue on, this mode can be either frustrating or challenging looking at how you see it...so let's begin. I will do Ascend first then Descend. For Descend I'll only list required skills to live long in the mode since there are no requirements for getting items other than passing a floor. Note characters that have it naturally means the untouchable 1P & 2P costume the game has set to it doesn't mean the character will always have it.
+
+++ Ascend
++++ Law of the Earth
+* **Number of chars:** 2
+
+++++ Floor #1
+* **Item:** Soldier's Hat (Male, Head) / 1000 Gold
+* **2 Fights:** Helerdes (Astaroth) & Rock
+* **Helerdes' Skill:** Slow Feet
+* **Rock's Skills:** Knock Down & Slow Feet
+* **Stage:** Tower of Remembrance - Ancient Gate
+* **Requirement:** Clear floor with no damage taken
+
+
+++++ Floor #2
+* **Item:** Warrior Trousers (Male, Lower Body) / 1000 Gold
+* **3 Fights:** Reyvolk (Zasalamel), Curtana (Rock) & Astaroth
+* **Reyvolk's Skills:** Shave Damage C & Slow Feet
+* **Curtana's Skill:** Shave Damage C
+* **Astaroth's Skills:** Shave Damage C, Auto Counter C & Knock Down
+* **Stage:** Tower of Remembrance - Encounter
+* **Requirement:** Clear floor with no Ring Outs from either side
+
+
++++ Blade Piercing Wall
+* **Number of chars:** 2
+
+++++ Floor #3
+* **Item:** Pauldrons (Male, Shoulders) / 1000 Gold
+* **3 Fights:** Laldenna (Raphael), Farvole (Siegfried) & Vhajli (Cervantes)
+* **Laldenna's Skill:** Nullify Ring Out C
+* **Farvole's Skill:** Nullify Counter C
+* **Vhajli's Skills:** Nullify Counter B, Nullify Ring Out B & Will Power
+* **Stage:** Ostrheinsburg Castle Throne Room
+* **Requirement:** Switch with ally more than 2 times
+* **Tip:** For those not aware to switch press R1 or whatever button SWT is set to
+
+
+++++ Floor #4
+* **Item:** Warlord's Belt (Male, Lower Body) / 1000 Gold
+* **2 Fights:** Alhadot (Nightmare) & Hilde
+* **Alhadot's Skills:** Nullify Counter B & Nullify Ring Our B
+* **Hilde's Skills:** Soul Repel, Soul Gauge Boost C, Nullify Ring Out A & Will Power
+* **Stage:** Ostrheinsburg Castle Throne Room
+* **Requirement:** Perform 3 attack throws
+* **Tip:** Check your characters movelist and look for moves with AT label, these are Attacks Throws
+
+
++++ Predator's Feast
+* **Number of chars:** 3
+
+++++ Floor #5
+* **Item:** Clergy Clothes (Female, Upper Body) / 1000 Gold
+* **2 Fights:** Lizardman x2
+* **Skill:** Magnet
+* **Stage:** Kunpaetku Shrine - Dream Remnants
+* **Requirement:** Defeat an enemy with a Ring Out
+
+
+++++ Floor #6
+* **Item:** Wonder Jacket (Female, Upper Body) / 1500 Gold
+* **2 Fights:** Lizardman x2
+* **1st Lizardman Skills:** Venom Fang C & Step Speed Up
+* **2nd Lizardman Skill:** Step Speed Up
+* **Stage:** Kunpaetku Shrine - Dream Remnants
+* **Requirement:** Throw an opponent
+
+
+++++ Floor #7
+* **Item:** Warrior Trousers (Female, Lower Body) / 1500 Gold
+* **1 Fight:** Lizardman
+* **Skills:** Step Speed Up, Run Speed Up & Nullify Ring Out A
+* **Stage:** Kunpaetku Shrine - Dream Remnants
+* **Requirement:** Cleared floor without missing any attacks
+
+
++++ Awakening Disaster
+* **Number of chars:** 2
+
+++++ Floor #8
+* **Item:** Armor Ring: Ice Mirror (Non-customizable characters, special equipment) / 1500 Gold
+* **3 Fights:** Dirk (Yun-seong), Elise (Xianghua) & Marej (Raphael)
+* **Dirk's Skill:** Will Power
+* **Elise's Skill:** Will Power
+* **Marej's Skills:** Will Power & Hyper Mode
+* **Stage:** Sailor's Rest
+* **Requirement:** Switch characters twice
+
+
+++++ Floor #9
+* **Item:** Scarlett Blossoms (Female, Upper Body) / 1500 Gold
+* **2 Fights:** Zain (Nightmare) & Kudi (Seong Mi-na)
+* **Zain's Skills:** Hysterical Strength & Appeal
+* **Kudi's Skills:** Will Power & Appeal
+* **Stage:** The Coffin of the Sleeping Ancient
+* **Requirement:** Guard 3 attacks in a row
+
+
+++++ Floor #10
+* **Item:** Silver Boots (Female, Legs) / 1500 Gold
+* **1 Fight:** Cervantes
+* **Skills:** Hysterical Strength, Will Power, Hyper Mode & Nullify Ring out A
+* **Stage:** The Coffin of the Sleeping Ancient
+* **Requirement:** Guard 10 attacks in a row
+
+
++++ Threatening Mirror
+* **Number of chars:** 1
+
+++++ Floor #11
+* **Item:** Grim Horn (Female, Head) / 2000 Gold
+* **4 Fights:** Ayala (Seong Mi-na), Certis (Cervantes), Rapelle (Tira) & Angol Fear
+* **Ayala's Skills:** Knock Down, Auto Grapple Break B & Shave Damage B
+* **Certis' Skills:** Knock Down, Auto Grapple Break B & Auto Counter B
+* **Rapelle's Skills:** Knock Down, Auto Grapple Break B & Venom Fang B
+* **Angol Fear's Skills:** Knock Down, Nullify Ring Out A, Auto Grapple Break B & Soul Gauge Damage B
+* **Stage:** Tower of Redemption - Degradation
+* **Requirement:** Defeat all enemies with a Critical Finish
+* **Tip:** Use Yun-seong's Avenging Claw (6BB) over and over again keep your eye on your opponents Soul Gauge if it breaks and you can't react to it (or continue to attack after it broke) you'll have to re-drain it, this is the ideal floor for the 100 Critical Finish honor.
+
+
++++ Life on Sand
+* **Number of chars:** 2
+
+++++ Floor #12
+* **Item:** Magus Cloth (Male, Upper Body) / 2000 Gold
+* **2 Fights:** Claire (Talim) & Lydia (Voldo)
+* **Claire's Skill:** Soul Gauge Damage B
+* **Lydia's Skills:** Soul Gauge Damage A & Soul Gauge Rate Up C
+* **Stage:** Phantom Pavilion
+* **Requirement:** Defeat all enemies with a Ring Out
+* **Tip:** Smack one of them into the large gates it'll fall down opening a new area where you can freely ring them out, Siegfried's Thrust Throw (1B) is perfect for knocking the gate down
+
+
+++++ Floor #13
+* **Item:** Pegasus Sallet (Male, Head) / 2000 Gold
+* **2 Fights:** Jiland (Maxi) & Enna (Setsuka)
+* **Jiland's Skills:** Soul Gauge Damage A & Soul Gauge Vamp
+* **Enna's Skills:** Soul Gauge Damage A & Soul Gauge Rate Up B
+* **Stage:** Phantom Pavilion
+* **Requirement:** Destroy all walls
+* **Tip:** You only need to knock down the two large gates. Will also count if you get knocked into the gate.
+
+
+++++ Floor #14
+* **Item:** * **Stage:** Phantom Pavilion - Seesaw**
+* **3 Fights:** Hearetta (Ivy), Rusa (Taki) & Tira
+* **Hearetta's Skills:** Soul Gauge Damage A, Soul Gauge Recovery C & Nullify Ring Out B
+* **Rusa's Skills:** Soul Gauge Damage S, Soul Gauge Rate Up A & Nullify Ring out A
+* **Tira's Skills:** Soul Gauge Damage S, Soul Gauge Boost C, Soul Gauge Recovery A & Nullify Ring out S
+* **Stage:** Phantom Pavilion - Seesaw
+* **Requirement:** Performed Guard Impact more than 3 times
+* **Tip:** If you have a hard time Guard Impacting then the Auto Impact (x) skill is helpful, but you need to be blocking, to add the skill you need
+
+* **C:** Style Lv. 2, 60 Impact
+* **B:** Style Lv. 4, 90 Impact
+* **A:** Style Lv. 8, 120 Impact
+
+Weapons that have it naturally are
+
+* **Maxi:** Tetsuryu, Lv. C
+
+Characters that have it naturally are
+
+* **The Apprentice:** Lv. B
+* **Ivy:** Lv. A
+
+
++++ Life to Entertain
+* **Number of chars:** 2
+
+++++ Floor #15
+* **Item:** Submission Belt (Voldo, Face) / 2000 Gold
+* **1 Fight:** Alastor (Zasalamel)
+* **Skills:** HP Drain S & Nullify Ring Out A
+* **Stage:** Grand Labyrinth - Corridor of Suspended Time
+* **Requirement:** Clear floor using only the A and G buttons
+* **Tip:** Since you're only allowed to use A attacks you should get the skill Strengthen Horizontal, you need
+
+Style Lv. 4, 70 Boost
+
+No weapon has it naturally
+
+Characters that have it naturally
+
+Xianghua
+
+++++ Floor #16
+* **Item:** Warlord's Pauldrons (Male, Shoulder) / 2500 Gold
+* **3 Fights:** Skeleton x3 (Lizardman, Sophitia & Hilde)
+* **Lizardman & Sophitia version Skill:** HP Drain A
+* **Hilde version Skills:** HP Drain A & Shave Damage C
+* **Stage:** Grand Labyrinth - Corridor of Suspended Time
+* **Requirement:** Clear floor with 0 seconds remaining
+* **Tip:** You have to beat the last opponent when the timer is at 0 not by Time Over
+
+
+++++ Floor #17
+* **Item:** Arm Bandages (Female, Arm) / 2500 Gold
+* **3 Fights:** Curia (Seong Mi-na), Ducks (Astaroth) & Armaroth (Zasalamel)
+* **Curia's Skill:** HP Drain A
+* **Ducks' Skills:** HP Drain A & HP Recovery C
+* **Armaroth's Skills:** HP Drain S, Shave Damage C & HP Recovery B
+* **Stage:** Egyptian Temple - Sacred Flame
+* **Requirement:** Execute a 5++ hit combo
+
+* **Amy/Scheherazade:** 4B++KB
+* **The Apprentice:** Force Lightning (44A++B), Any combo from Star Divide ~ Force Levitation (check Special Moves) &  Kashyyyk Raid (B++KBBBB) must be near a wall or you'll only do 4 hits
+* **Astaroth/Ashlotte:** Poseidon Tide Rush 214AAAAAA
+* **Cassandra:** Angel Gust~Guardian Wings 236**B**~2B8BAA
+* **Cervantes/Shura:** While crouching A++B
+* **Darth Vader:** Dark Vortex (Hold) (236**A++B**) Minimum 7 hits with a full Force Bar, 13 if by a wall and very close
+* **Ivy (Whip):**  Dashing Wings (6bA++B), Dancing Gnome (Hold) (6**A++B**), Spiral Punishment (4A++BB)
+* **Kilik:** Bo Smack Down (A++B), Circular Strike~Tip Shock~Asura Dance (236A~46B~B++K6B41236B)
+* **Maxi:** Dandy Surprise ~ Behind Lower (236A), Fury ~ Right Outer (B++KBBBA)
+* **Sophitia:** Impaling Strike (B2BBB236B) You need to do it twice for it to count as 5 hits
+* **Talim:** Ice Wind Combo (A++B, 236A, 236B) each input is three hits
+* **Tira (Jolly):** Shredding Vibrato (4A++B), Chattering Cantable ~ Updraft ~ Diving Talon Thrust/Claw Dive (While Rising B++K~B/K)
+* **Tira (Gloomy):** Shriek Noise (6AA press repeatedly) the full string counts as 5 hits any lower and means you didn't hit A enough, Shredding Vibrato (4A++B), Chattering Cantable ~ Updraft ~ Diving Talon Thrust/Claw Dive (While Rising B++K~B/K)
+* **Yoshimitsu:** Kamikaze ~ Flea Walk ~ Flea (3**A++B**)
+
+
++++ No Man's Land
+* **Number of chars:** 3
+
+++++ Floor #18
+* **Item:** Kouchu Kabuto (Male, Head) / 2500 Gold
+* **2 Fights:** Tomoe (Yoshimitsu) & Ryuki (Mitsurugi)
+* **Tomoe's Skills:** Auto Impact B & Auto Grapple Break B
+* **Ryuki's Skills:** Auto Impact B, Impact Edge & Auto Grapple Break B
+* **Stage:** Jyurakudai Villa - Virgin Snow
+* **Requirement:** Stand on all corners of the stage
+
+
+++++ Floor #19
+* **Item:** Demonic Kabuto (Male,Head) / 2500 Gold
+* **2 Fights:** Ryouga (Mitsurugi) & Setsuka
+* **Ryouga's Skills:** Auto Impact A & Auto Grapple Break B
+* **Setsuka's Skills:** Auto Impact A, Impact Heal & Auto Grapple Break A
+* **Stage:** Jyurakudai Villa - Virgin Snow
+* **Requirement:** Switch with ally more than 5 times
+
+
+++++ Floor #20
+* **Item:** Life Gem: Sun (Non-customizable characters, special equipment) / 2500 Gold
+* **2 Fights:** Sizuku (Taki) & Yoshimitsu
+* **Sizuku's Skills:** Auto Impact S, Impact Heal, Auto Grapple Break S & Impact Edge
+* **Yoshimitsu's Skills:** Auto Impact S, Impact Edge & Auto Grapple Break A
+* **Stage:** Distant Marsh
+* **Requirement:** Clear floor with a critical finish
+
+
++++ Über Airhead
+* **Number of chars:** 2
+
+++++ Floor #21
+* **Item:** Longhua Qipao (Female, Upper Body) / 3000 Gold
+* **3 Fights:** Seong Mi-na, Uyall (Rock) & Veles (Maxi)
+* **Seong Mi-na's Skills:** Evil Sword Berserk, Double-Edged Sword & Hyper Mode
+* **Uyall's Skill:** Auto Counter B
+* **Veles' Skill:** Auto Unblockable Attack B
+* **Stage:** Sailor's Rest
+* **Requirement:** Voluntarily perform a Ring Out
+* **Tip:** You must ring yourself out by jumping back near the edge (G7) if you are hit as you jump it won't count, it also won't count during the waiting period for the next fighter to run it.
+
+
+++++ Floor #22
+* **Item:** Honor Boots (Female, Legs) / 3000 Gold
+* **3 Fights:** Xianghua, Yufeng (Zasalamel) & Xunyu (Astaroth)
+* **Xianghua's Skills:**  Evil Sword Berserk, Double-Edged Sword & Hyper Mode
+* **Yufeng's Skills:** Nullify Counter B & Auto Counter C
+* **Xunyu's Skills:** Nullify Counter A & Auto Counter B
+* **Stage:** Hall of the Warrior God
+* **Requirement:** Perform more than 4 Counter Hits
+* **Tip:** If you have trouble scoring Counter Hits the skill Auto Counter (x) is what you'll need
+
+* **C:** Style Lv. 2, 60 Power
+* **B:** Style Lv. 4, 90 Power
+* **A:** Style Lv. 8, 130 Power
+
+Weapons that have it naturally are
+
+* **Hilde:** Eighteenth Hole, Lv. A
+* **Kilik:** Haneman, Lv. A
+* **Nightmare:** Claymore, Lv. B
+* **Voldo:** Pasticcere, Lv. B
+* **Ashlotte:** Krnielk Earth, Lv. A
+* **Kamikirimushi:** Danryu Bakuha Cedar, Lv. B
+* **Yoda:** Lightsaber 7th, Lv. A
+
+Characters that have it naturally are
+
+* **Mitsurugi:** Lv. C
+* **Voldo:** Lv. C
+
+
+++++ Floor #23
+* **Item:** Frilled Skirt (Female, Lower Body) / 3000 Gold
+* **3 Fights:** Cassandra, Helios (Yoshimitsu) & Beleth (Yun-seong)
+* **Cassandra's Skills:** Evil Sword Berserk, Double-Edged Sword, Hyper mode & Shave Damage S
+* **Helios' Skills:** Shave Damage C & Impact Edge
+* **Beleth's Skills:** Shave Damage B & Impact Edge
+* **Stage:** Thesmophoros' Imperial Garden
+* **Requirement:** Guard 3 attacks in a row
+
+
++++ Iron Sword
+* **Number of chars:** 1
+
+++++ Floor #24
+* **Item:** Protect Gem: Cardinal Directions (Non-customizable characters, special equipment) / 3000 Gold
+* **3 Fights:** Gorus (Kilik), Marid (Cervantes) & Jean (Raphael)
+* **Gorus' Skills:** Start Dash C & Will Power
+* **Marid's Skill:** Start Dash B
+* **Jean's Skills:** Nullify Aerial Control, Charge Cancel, & Soul Gauge Boost C
+* **Stage:** Hall of the Warrior God
+* **Requirement:** Perform a combo with more than 240 damage
+* **Tip:** Ashlotte with the following
+
+* **Special Equipment:** Blade Ring: Night Blade
+* **Weapon:** Krnielk East
+* **Skills:** Start Dash A, Auto Counter B
+
+Use Discus Breaker (1**A**B )
+
+Marid will be the one that will give the treasure (happened for me)
+
+
+++++ Floor #25
+* **Item:** Zhuque Changpao (Male, Upper Body) / 3000 Gold
+* **3 Fights:** Astraia (Maxi), Juno (Siegfried) & Thetis (Mitsurugi)
+* **Astraia's Skills:** Soul Gauge Boost C, Soul Gauge Damage A & Charge Cancel
+* **Juno's Skills:** Soul Gauge Boost C & Charge Cancel
+* **Thetis' Skills:** Nullify Aerial Control , Soul Gauge Boost C & Charge Cancel
+* **Stage:** Ostrheinsburg Castle Throne Room
+* **Requirement:** Throw more than 5 times
+
+
+++++ Floor #26
+* **Item:** Warthog Cuirass (Male, Upper Body) / 3500 Gold
+* **3 Fights:** Oruks (Nightmare), Castor (Yoshimitsu) & Normen (Xianghua)
+* **Oruks' Skills:** Nullify Aerial Control, Charge Cancel, Nullify Ring Out A & Soul Gauge Boost C
+* **Castor's Skills:** Nullify Aerial Control, Soul Gauge Boost C & Charge Cancel
+* **Normen's Skills:** Nullify Aerial Control, Soul Gauge Boost C, Charge Cancel & Double-Edged Sword
+* **Stage:** Ostrheinsburg Castle - Twilight
+* **Requirement:** Execute a 10++ combo
+* **Tip:** Amy/Scheherazade Falling Prayer -> Stocatte Rampage Crescendo (6B++K, 4B++KB)
+
+
++++ Unbinding Wave
+* **Number of chars:** 3
+
+++++ Floor #27
+* **Item:** Iron Gauntlets (Female, Arms) / 3500 Gold
+* **2 Fights:** Shura & Taki
+* **Shura's Skills:** Switch Speed Up, Knock Down & Strengthen Vertical
+* **Taki's Skills:** Switch Speed up, Magnet & Strengthen Horizontal
+* **Stage:** Jyuradukai Villa - Virgin Snow
+* **Requirement:** Cleared floor with no damage taken
+
+
+++++ Floor #28
+* **Item:** Aculeus Suit (Male, Undergarments) / 3500 Gold
+* **2 Fights:** Scheherazade & Raphael
+* **Scheherazade‘s Skills:** Switch Speed up, Appeal & HP Drain S
+* **Raphael's Skills:** Switch Speed up, Appeal, Shave Damage S & Nullify Ring Out A
+* **Stage:** Thesmophros' Imperial Garden
+* **Requirement:** Opponent guarded a Guard Break attack at least twice
+* **Tip:** Check your characters movelist ahead of time and look for move with a GB label, these are Guard Breaks
+
+
+++++ Floor #29
+* **Item:** Menghu Boots (Female, Legs) / 3500 Gold
+* **2 Fights:** Kamikirimushi & Ashlotte
+* **Kamikirimushi's Skills:** Switch Speed Up, Will Power, Auto Impact A & Impact Edge
+* **Ashlotte's Skills:** Switch Speed Up, Hysterical Strength, Auto Impact A & Impact Heal
+* **Stage:** Wolfkrone Monument
+* **Requirement:** Switch with ally more than 5 times
+
+
++++ Unfailing Tower
+* **Number of chars:** 1
+
+++++ Floor #30
+* **Item:** Spirit Gem: Nonuple Heads (Non-customizable characters, special equipment) / 3500 Gold
+* **3 Fights:** Ivy, Talim & Cassandra
+* **Ivy's Skills:** HP Recovery C & Auto Grapple Break C
+* **Talim's Skills:** HP Recovery B, Auto Grapple Break C & Nullify Ring Out B
+* **Cassandra's Skills:** Soul Gauge Boost C, HP Recovery C, Auto Impact C & Nullify Ring Out S
+* **Stage:** Tower of Remembrance - Ancient Gate
+* **Requirement:** Clear Floor without guarding
+* **Tip:** Attempting to throw will count as guarding.
+
+
+++++ Floor #31
+* **Item:** Longming Qipao (Female, Upper Body) / 4000 Gold
+* **4 Fights:** Siegfried, Yun-seong, Rock & Setsuka
+* **Siegfried's Skills:** HP Recovery C & Auto Grapple Break C
+* **Yun-seong's Skills:** HP Recovery B & Auto Grapple Break B
+* **Rock's Skills:** HP Recovery B & Auto Grapple Break S
+* **Setsuka's Skills:** Soul Gauge Boost B, HP Recovery B & Auto Impact B
+* **Stage:** Tower of Remembrance - Encounter
+* **Requirement:** Perform more than 5 Just Inputs
+* **Tip:** I like Cassandra's Shield Buster (4BBA) it's an easy move to practice with the Just Input, Mitsurugi's Tear Step (aB) is another you could do and after some training I found Setsuka's Sakura Air Combo (1AA(during hit)A (Just)) to be easier to pull off than in SC3 (for the fact that I could actually do it)
+
+
+++++ Floor #32
+* **Item:** Vane Mask (Male, Head) 4000
+* **4 Fights:** Sophitia, Tira, Voldo & Zasalamel
+* **Sophtia's Skills:** HP Recovery B & Nullify Ring Out A
+* **Tira's Skills:** HP Recovery A & Auto Grapple Break S
+* **Voldo's Skills:** HP Recovery A, Auto Grapple Break S & Nullify Ring out
+* **Zasalamel's Skills:** Soul Gauge Boost S, Nullify Ring Out S & Auto Impact S
+* **Stage:** Tower of Remembrance - Degradation
+* **Requirement:** Perform a Low Throw
+* **Tip:** Astaroth/Ashlotte, Cassandra, Rock & Xianghua are the only ones who can fulfill this requirement as they are the only ones with Low Throws.
+
+Astaroth/Ashlotte = Hades Crush ~ Bludgeoning Crush/Drop of Lava (2B++K, 2A++G/2B++G)
+Cassandra = Angelic Gust ~ Guardian's Knee/Seraphim Cyclone (236B, 2A++G/B++G)
+* **Xianghua (The following moves can lead into her crouching throw):** Lian Hua Twist Left (aB), Mei Guei Hue Feint (While Crouching 3bB) must be near the edge may count as a back throw, Fluttering Lan Se Ren (While Rising B), Reverse Chicken Kick (Facing Away B++K), Yann Divide ~ Blind Stance (2a++bG) to face away
+
+
++++ Mind-Reading Shield
+* **Number of chars:** 2
+
+++++ Floor #33
+* **Item:** Battle Dress (Female, Upper Body) / 4000 Gold
+* **3 Fights:** Freya (Hilde), Hestia (Taki) & Sallos (Maxi)
+* **Freya's Skills:** Impact Heal & Auto Impact A
+* **Hestia's Skills:** Impact Heal & Master Impact
+* **Sallos' Skills:** Impact Heal & Master Impact
+* **Stage:** Tower of Remembrance - Spiral of Time
+* **Requirement:** Perform 3 attack throws
+
+
+++++ Floor #34
+* **Item:** Power Gem: Warrior Princess (Non-customizable characters, special equipment) / 4000 Gold
+* **3 Fights:** Asrafil (Mitsurugi), Moris (Amy) & Seong Mi-na
+* **Asrafil's Skills:** Impact Edge & Strong Impact
+* **Moris' Skills:** Impact Edge & Master Impact
+* **Seong Mi-na's Skills:** Impact Edge & Auto Impact A
+* **Stage:** Sailor's Rest
+* **Requirement:** Perform Guard Impact more than 3 times
+
+
+++++ Floor #35
+* **Item:** Warthog Pauldrons (Male, Shoulders) / 4000 Gold
+* **3 Fights:** Azalea (Seong Mi-na), Camilla (Cassandra) & Xianghua
+* **Azalea's Skills:** Master Impact, Auto Impact A & Impact Edge
+* **Camillia's Skills:** Auto Impact A, Impact Edge& Impact Heal
+* **Xianghua's Skills:** Impact Edge, Impact Heal, Strong Impact & Auto Impact S
+* **Stage:** Egyptian Temple - Sacred Flame
+* **Requirement:** Clear floor without switching
+* **Tip:** This (as well as any other with the same requirement) means manual switching, if you are forcefully switched (the character is defeated) it doesn't count against you
+
+
++++ Time to Trifle
+* **Number of chars:** 2
+
+++++ Floor #36
+* **Item:** Parlor Blouse (Female, Upper Body) / 4500 Gold
+* **3 Fights:** Fenvl (Maxi), Jarvis (Kilik) & Aeolos (Yun-seong)
+* **Fenvl's Skills:** Auto Grapple Break S & Soul Gauge Recovery A
+* **Jarvis' Skills:** Nullify Ring Out S & HP Recovery S
+* **Aeolos' Skills:** Soul Gauge Boost S & HP Drain S
+* **Stage:** Hall of the Warrior God
+* **Requirement:** Clear floor with 0 seconds remaining
+
+
+++++ Floor #37
+* **Item:** Siren's Helm (Female, Head) / 4500 Gold
+* **3 Fights:** Iblis (Yoshimitsu), Abigail (Ivy) & Carne (Talim)
+* **Iblis' Skills:** Auto Grapple Break A, HP Recovery A & Soul Gauge Recovery A
+* **Abigail's Skills:** Nullify Ring out A, HP Recovery A & Soul Gauge Boost A
+* **Carne's Skills:** Auto Grapple Break A, HP Drain A & Soul Gauge Boost A
+* **Stage:** Jyurakudai Villa - Virgin Snow
+* **Requirement:** Defeat all enemies with critical finish
+
+
+++++ Floor #38
+* **Item:** Gorgon Fauld (Female, Lower Body) / 4500 Gold
+* **3 Fights:** Eriel (Hilde), Hernes (Rock) & Siegfried
+* **Eriel's Skills:** Auto Grapple Break S, HP Recovery S, Soul Gauge Recovery S & Nullify Ring Out A
+* **Hernes' Skills:** Nullify Ring Out A, HP Recovery S, Soul Gauge Boost S & HP Drain S
+* **Siegfried's Skills:** Auto Grapple Break S, HP Drain S, Soul Gauge Boost S & Nullify Ring Out A
+* **Stage:** Wolfkrone Monument
+* **Requirement:** Defeat all enemies with ring out
+
+
++++ Irritation to Ruin
+* **Number of chars:** 1
+
+++++ Floor #39
+* **Item:** Kingfisher Greaves (Female, Legs) / 4500 Gold
+* **3 Fights:** Camo (Voldo), Kalad (Mitsurugi) & Guson (Cervantes)
+* **Camo's Skills:** Venom Fang B & Auto Unblockable Attack C
+* **Kalad's Skills:** Venom Fang B & Shave Damage C
+* **Guson's Skills:** Venom Fang B & Impact Edge
+* **Stage:** Phantom Pavilion - Seesaw
+* **Requirement:** Clear floor without changing position
+This one is a vaguely explained treasure condition, but the way to get this is not press a directional movement only press A, B, K or G no movement buttons.
+
+
+++++ Floor #40
+* **Item:** Deer Head (Male, Head) / 4500 Gold
+* **3 Fights:** Aiysel (Tira), Eris (Taki) & Callist (Amy)
+* **Aiysel's Skills:** Venom Fang A & Shave Damage B
+* **Eris' Skills:** Venom Fang A & Auto Unblockable B
+* **Callist's Skills:** Venom Fang A & Impact Edge
+* **Stage:** Phantom Pavilion
+* **Requirement:** Execute a 5++ hit combo
+
+
+++++ Floor #41
+* **Item:** Minotaur (Male, Head) / 5000 Gold
+* **3 Fights:** 3 Skeletons (Lizardman, Ivy & Raphael)
+* **Lizardman version Skills:** Venom Fang S, Shave Damage A & Impact Edge
+* **Ivy version Skills:** Venom Fang S, Auto Unblockable Attack A & Impact Edge
+* **Raphael version Skills:** Venom Fang S, Guard Breaker & Impact Edge
+* **Stage:** Phantom Pavilion
+* **Requirement:** Perform more than 5 Just Inputs
+
+
++++ Avaricious Life
+* **Number of chars:** 2
+
+++++ Floor #42
+* **Item:** Demonic Gloves (Male, Arms) / 5000 Gold
+* **3 Fights:** Cytherea (Tira), Asphodel (Setsuka) & Zasalamel
+* **Cytherea's Skills:** HP Drain B & HP Recovery C
+* **Asphodel's Skills:** HP Drain B, HP Recovery B & Nullify Ring out C
+* **Zasalamel's Skills:** HP Burst S, Nullify Ring out A & Soul Gauge Boost C
+* **Stage:** Grand Labyrinth - Corridor of Suspended Time
+* **Requirement:** Clear floor without letting opponents invoke a skill
+* **Tip:** Zasalamel is the only with an invokable skill namely HP Burst S defeat him quickly before he uses it
+
+
+++++ Floor #43
+* **Item:** Repel Gem: Iron Shell (Non-customizable characters, special equipment) / 5000 Gold
+* **3 Fights:** Haystir (Yun-seong), Annaretta (Cassandra) & Talim
+* **Haystir's Skills:** HP Drain A, HP Recovery A & Nullify Ring Out C
+* **Annaretta's Skills:** HP Burst, Nullify Ring Out B & Soul Gauge Boost C
+* **Talim's Skills:** HP Burst S, Nullify Ring out A & Soul Gauge Boost C
+* **Stage:** Distant Marsh
+* **Requirement:** Perform an over the back throw
+* **Tip:** This is a tricky one to fulfill as only Talim will occasionally turn her back to you or jump over you giving you the chance to back throw her. An alternative is to use attacks that cause the opponent to turn around and throw as quickly as you can afterward which is harder to do.
+
+
+++++ Floor #44
+* **Item:** War Cloak (Female, Neck) / 5000 Gold
+* **2 Fights:** Eurania (Xianghua) & Kilik
+* **Eurania's Skills:** HP Burst S, Nullify Ring out A & Soul Gauge Boost C
+* **Kilik's Skills:** HP Burst S, Nullify Ring out A & Soul Gauge Boost C
+* **Stage:** Tower of Remembrance - Encounter
+* **Requirement:** Clear floor with no ring outs from either side
+
+
++++ King of the Physical Realm
+* **Number of chars:** 3
+
+Note these opponents have 200% Defense you'll do pitiful damage against them
+
+++++ Floor #45
+* **Item:** Tiger Lily Kabuto (Female, Head) / 5000 Gold
+* **1 Fight:** Amrita (Taki)
+* **Skills:** Auto Grapple Break S, Nullify Ring Out S & Start Dash B
+* **Stage:** Thesmophoros' Imperial Garden
+* **Requirement:** Defeat enemies without using any skills
+* **Tip:** Like it says no skills...sadly you'll have to go through this requirement back to back, Critical Finish is the way to go
+
+
+++++ Floor #46
+* **Item:** Butterfly Sallet (Female, Head) / 6000 Gold
+* **2 Fights:** Malphas (Zasalamel) & Raguel (Astaroth)
+* **Malphas' Skills:** Auto Grapple Break S, Nullify Ring Out S & Auto Impact B
+* **Raquel's Skills:** Auto Grapple Break S, Nullify Ring Out S & Hysterical Strength
+* **Stage:** Ostrheinsburg Castle Throne Room
+* **Requirement:** Defeat enemies without using any skills
+
+
++++ Unseen Sickle
+* **Number of chars:** 2
+
+++++ Floor #47
+* **Item:** Succubus Boots (Female, Legs) / 6000 Gold
+* **3 Fights:** Althea (Yun-seong), Luph (Rock) & Kilik
+* **Althena's Skills:** Invisible, Soul Gauge Boost C & Nullify Ring Out B
+* **Luph's Skills:** Invisible, Soul Gauge Boost C & Nullify Ring out A
+* **Kilik's Skills:** Invisible S, Soul Gauge Boost C, Nullify Ring out S & Knock Down
+* **Stage:** Distant Marsh
+* **Requirement:** Throw 5 times
+
+
+++++ Floor #48
+* **Item:** Life Gem: Jade (Non-customizable characters, special equipment) / 6000 Gold
+* **3 Fights:** Loki (Cervantes), Elza (Nightmare) & Astaroth
+* **Loki's Skills:** Invisible, Soul Gauge Boost C & Soul Gauge Recovery A
+* **Elza's Skills:** Invisible, Soul Gauge Boost C & Soul Gauge Rate Up A
+* **Astaroth's Skills:** Invisible S, Soul Gauge Boost C, Soul Gauge Rate Up A & Knock Down
+* **Stage:** Egyptian Temple - Sacred Flame
+* **Requirement:** Clear floor with a character equipped with the "Invisible" skill
+* **Tip:** You simply need the skill Invisible as a skill, for it you need
+
+Style Lv. 7, 130 Special
+
+Weapons that have it naturally are
+
+* **The Apprentice:** Lightsaber 8th
+* **Taki:** Kris Naga
+* **Yoshimitsu:** Soul Calibur
+
+Characters that have it naturally are
+
+The Apprentice
+Cervantes/Shura
+Kilik
+Taki
+
+Note you need to have the skill on the person who deals the final blow or you won't get the treasure
+
+
+++++ Floor #49
+* **Item:** Horns of Calamity (Male,Head) / 6000 Gold
+* **3 Fights:** Hilde, Setsuka & Zasalamel
+* **Hilde's Skills:** Invisible S, Soul Gauge Boost C & Nullify Ring Out A
+* **Setsuka's Skills:** Invisible S, Soul Gauge Boost C & Nullify Ring out A
+* **Zasalamel's Skills:** Invisible S, Soul Gauge Boost C, Nullify Ring Out S & Knock Down
+* **Stage:** Wolfkrone Monument
+* **Requirement:** Clear floor with no attacks missing
+* **Tip:** This can be quite tough given that they all have Invisible, Zasalamel will be toughest since he's more durable than the girls.
+
+
++++ Solitary Princess
+* **Number of chars:** 1
+
+++++ Floor #50
+* **Item:** Tiger Lily Breastplates (Female, Upper Body) / 6000 Gold
+* **3 Fights:** Flora (Seong Mi-na), Alberic (Maxi) & Balduin (Siegfried)
+* **Flora's Skill:** Double-Edged Sword
+* **Alberic's Skills:** Start Dash B, Step Speed Up & Auto Grapple Break
+* **Balduin's Skills:** Will Power & Nullify Ring Out A
+* **Stage:** Sailor's Rest
+* **Requirement:** Execute a 10++ hit combo
+
+
+++++ Floor #51
+* **Item:** Tiger Lily Fauld (Female, Lower Body) / 7650 Gold
+* **3 Fights:** Iris (Raphael), Jeanne (Cassandra) & Apheta (Sophitia)
+* **Iris' Skill:** HP Recovery A
+* **Jeanne's Skills:** HP Drain B & Nullify Ring Out B
+* **Apheta's Skills:** HP Drain A & Nullify Ring Out A
+* **Stage:** Thesmophros' Imperial Garden
+* **Requirement:** Perform more than 4 Counter Hits
+
+
+++++ Floor #52
+* **Item:** Feathered Wings (Female, Neck) / 7650 Gold
+* **4 Fights:** Amy, Elnathan (Raphael), Dean (Raphael) & Raphael
+* **Amy's Skills:** Appeal, Venom Fang A & Nullify Ring out S
+* **Elnathan's Skills:** Appeal & Nullify Counter B
+* **Dean's Skills:** Appeal & Nullify Counter A
+* **Raphael's Skills:** Appeal, Auto Impact A & Impact Heal
+* **Stage:** Wolfkrone Monument
+* **Requirement:** Clear floor with a Critical Finish
+
+
++++ Worshipped Sacrifice
+* **Number of chars:** 1
+
+++++ Floor #53
+* **Item:** Blade Ring: Demon Lord (Non-customizable characters, special equipment) / 7650 Gold
+* **3 Fights:** Deanna (Voldo), Edith (Voldo) & Voldo
+* **Deanna's Skills:** Shave Damage A & HP Recovery C
+* **Edith's Skills:** Shave Damage B & HP Recovery B
+* **Voldo's Skills:** Shave Damage C & HP Recovery A
+* **Stage:** Ostrheinsburg Castle Throne Room
+* **Requirement:** Defeat all enemies with a Ring Out
+
+
+++++ Floor #54
+* **Item:** Leviathan Pauldrons (Male, Shoulders) / 7650 Gold
+* **3 Fights:** Shiun (Yoshimitsu), Mayura (Yoshimitsu) & Yoshimitsu
+* **Shiun's Skills:** Auto Impact B & Impact Heal
+* **Mayura's Skills:** Auto Impact B & Impact Heal
+* **Yoshimitsu's Skills:** Auto Impact B & Impact Heal
+* **Stage:** Phantom Pavilion
+* **Requirement:** Destroy all walls
+
+
+++++ Floor #55
+* **Item:** Priestess Kimono (Female, Upper Body) / 7650 Gold
+* **4 Fights:** Grma (Astaroth), Herman (Astaroth), Judas (Astaroth) & Astaroth
+* **Grma's Skills:** Nullify Ring Out C & HP Drain B
+* **Herman's Skills:** Nullify Ring Out B & HP Drain A
+* **Judas' Skills:** Nullify Ring Out B & HP Drain A
+* **Astaroth's Skills:** Nullify Ring Out A & HP Drain S
+* **Stage:** Grand Labyrinth - Corridor of Suspended Time
+* **Requirement:** Perform 3 attack throws
+
+
+++++ Floor #56
+* **Item:** Leviathan Burgonet (Male, Head) / 10000 Gold
+* **4 Fights:** Lizardman x4
+* **1st Lizardman Skills:** Nullify Ring Out S & Venom Fang S
+* **2nd Lizardman Skills:** Nullify Ring Out C & Venom Fang C
+* **3rd Lizardman Skills:** Nullify Ring Out B & Venom Fang B
+* **4th Lizardman Skills:** Nullify Ring Out A & Venom Fang A
+* **Stage:** Egyptian Temple - Sacred Flame
+* **Requirement:** Perform a combo with more than 240 damage
+
+
++++ Envoy of Destruction
+* **Number of chars:** 2
+
+++++ Floor #57
+* **Item:** Voodoo Armlets (Female, Arms) / 10000 Gold
+* **3 Fights:** Cassandra, Sophitia & Talim
+* **Cassandra's Skills:** Soul Gauge Damage A & Shave Damage B
+* **Sophitia's Skills:** Shave Damage A, Soul Gauge Boost B & Nullify Ring Out B
+* **Talim's Skills:** Soul Gauge Damage B, Soul Gauge Boost A & Nullify Ring Out A
+* **Stage:** Tower of Remembrance - Ancient Gate
+* **Requirement:** Voluntarily perform a Ring Out
+
+
+++++ Floor #58
+* **Item:** Tiger Pauldrons (Female, Shoulders) / 10000 Gold
+* **3 Fights:** Mitsurugi, Setsuka & Cervantes
+* **Mitsurugi's Skills:** Soul Gauge Damage A, Shave Damage A & Soul Gauge Recovery A
+* **Setsuka's Skills:** Auto Unblockable Attack A, Shave Damage A & Soul Gauge Boost A
+* **Cervantes' Skills:** Soul Gauge Damage A, Guard Breaker & Soul Gauge Boost A
+* **Stage:** Tower of Remembrance - Spiral of Time
+* **Requirement:** Defeat all enemies without any skills equipped
+
+
+++++ Floor #59
+* **Item:** Voodoo Greaves (Female, Legs) / 10000 Gold
+* **3 Fights:** Tira, Astaroth & Nightmare
+* **Tira's Skills:** Soul Gauge Damage A,Shave Damage A, Soul Gauge Boost A & Nullify Ring Out A
+* **Astaroth's Skills:** Soul Gauge Damage A, Shave Damage A, Soul Gauge Boost A & Nullify Ring out A
+* **Nightmare's Skills:** Soul Gauge Damage S, Shave Damage S, Soul Gauge Boost S & Nullify Ring Out S
+* **Stage:** Tower of Remembrance - Encounter
+* **Requirement:** Guard 10 attacks in a row
+
+
++++ Last Judgement
+* **Number of chars:** 3
+
+++++ Floor #60
+* **Item:** Voodoo Breastplate (Female, Upper Body) / 50000 Gold
+* **1 Fight:** Algol
+* **Skills:** Auto Unblockable Attack S, HP Drain S, Soul Gauge Boost S & Nullify Ring Out S
+* **Stage:** Tower of Redemption - Degradation
+* **Requirement:** Clear the stage without switching characters
+
+
+++ Descend
+The items are easier to get here as you have no specific conditions needed, just pass the floor and the equipment will be yours
+
+Required skills for living longer are:
+* HP Drain C, B or A (hits restore life)
+* Impact Heal if you are good at impacting
+
+For HP Drain you need:
+* C: Style Lv. 1, 60 Gauge
+* B: Style Lv. 3, 90 Gauge
+* A: Style Lv. 8, 120 Gauge
+
+Weapons that have it naturally are:
+* Tira: Hula Hoop, Lv. A
+
+For Impact Heal you need:
+* Style Lv. 3, 50 Impact ++ 30 Gauge
+
+Weapons that have it naturally are:
+* Seong Mi-na: Hyup Do
+* Angol Fear: Lucifer Spear Black Nulla
+
+To have the best possible would require 50 Impact ++ 150 Gauge, minimal requirement is 50 Impact ++ 90 Gauge.
+
+There is a combo of skills you can combine that will help with living longer albeit you will have to switch the immediately to not suffer the backlash. The skill combo is:
+* HP Burst
+* Soul Gauge Boost
+
+With this combination you can recover your life in later floors and switch out that character so they don't suffer the Soul Gauge dropping which would be dangerous as you will get Soul Crushed and are likely to get Critical Finished. HP Burst is a manual activation skill that will only work when your life gauge is glowing white.
+
+For HP Burst you need:
+* Style Lv. 6, 130 Boost
+
+Weapons that have it naturally:
+* Cervantes: Gurgitator
+* Ivy: Soul Calibur
+* Lizardman: Meat on the Bone
+* Talim: Soul Edge & Soul Calibur
+
+Soul Gauge Boost starts you with a glowing white Soul Gauge at the start of the battle, higher versions decrease the rate at which it drops.
+
+For Soul Gauge Boost you need:
+* C: Style Lv. 1, 70 Gauge ++ 40 Boost
+* B: Style Lv. 3, 80 Gauge ++ 50 Boost
+* A: Style Lv. 5, 100 Gauge ++ 50 Boost
+
+Weapons that have it naturally are:
+* Amy: Rapier Lv. C
+* Sophitia: Soul Edge Lv. A
+* Zasalamel: Death Scythe Lv. C
+
+To have the best possible would require 50 Boost ++ 230 Gauge, minimal requirement is 40 Boost ++ 200 Gauge
+
++++ Items
+Items you get are:
+* 5: Dark Knight's Cloak (Male, Neck) / 1000 Gold
+* 10: Blade Ring: Raging Thunder (Non-customizable characters, special equipment) / 2000 Gold
+* 15: Lapin Chapeau (Female, Head) / 3000 Gold
+* 20: Repel Gem: Fox Demon (Non-customizable characters, special equipment) / 4000 Gold
+* 25: Succubus Gauntlets (Female, Arms) / 5000 Gold
+* 30: Demonic Armor (Male Upper Body) / 6000 Gold
+* 35: Demonic Pauldrons (Male, Shoulders) / 7650 Gold
+* 40: Voodoo Crown (Female, Head) / 10000 Gold
+
+
+
+[!-- ==== ==== ==== ==== ==== ==== ==== ==== Save Data Editing Part ==== ==== ==== ==== ==== ==== ==== ==== --]
+
++ Save Data Editing
 As this is a save data hack, you need to understand how to encrypt and decrypt your save data and manipulate it using a hex editor (XVI32 is preferred).
 
 If you're interested in showcasing your character, you can visit [http://asoh.wikidot.com Another Stage of History].
 
-+ Custom Character Moveset Data
-[[xinclude :fiction:common:alert |type=warning |icon=warning |text=You can play your modified custom character just fine, but **you can no longer edit any of your characters if you want to keep modified characters around**. If you try to select the modified character slot in the character editor, they will disappear. If you make any changes to a character in Character Creation mode, they will disappear. **Always make a clone of your character to experiment.**  ]]
+++ Custom Character Moveset Data
+[[include comp:alert-danger
+|text=You can play your modified custom character just fine, but **you can no longer edit any of your characters if you want to keep modified characters around**. If you try to select the modified character slot in the character editor, they will disappear. If you make any changes to a character in Character Creation mode, they will disappear. **Always make a clone of your character to experiment.**
+]]
 
 Due to how the save data is structured, the easiest way is to use XVI32. Find your character's name and take note of the address. Example:  
 
 [[image xvi32search1.png| In this case, the address is **2B8C0**.]]
 
 Referring to the above image, the character name starts at **2B8C0**. The character digit address is 3872 addresses before this. To find it easily, open the XVI Script Editor and enter the following:  
-[[code]]
-ADR $2B8C0
-ADR- 3872
-[[/code]]
+{{ADR $2B8C0
+ADR - 3872}}
 
 You'll land on the character digit address. Take note of the three addresses before it, as they represent the slot digit. If your character has multiple costumes and you arrange them sequentially, this can help you identify them. 
 
@@ -39,10 +1071,10 @@ The following is the digit for the guest and bonus characters:
 || 1F || Shura||
 
 
-+ Finding the Custom Character Moveset Data
-The method of finding the data is similar to [[[game:soulcalibur5 | Soulcalibur V]]], but is simpler.
+++ Finding the Custom Character Moveset Data
+The method of finding the data is similar to [[link guides/soulcalibur-5 | Soulcalibur V]], but is simpler.
 
-The save data is oddly structured, with more recent characters appearing closer to the beginning of the file and older characters closer to the end. If your slots are crowded, it can get messy. Each character block also assigns its designated slot, so it is impossible to list the address per slot like [[[game:soulcalibur5 | Soulcalibur V]]].  
+The save data is oddly structured, with more recent characters appearing closer to the beginning of the file and older characters closer to the end. If your slots are crowded, it can get messy. Each character block also assigns its designated slot, so it is impossible to list the address per slot like Soulcalibur V  
 
 In order to circumvent this, I created a new save and sequentially created Bohb1, Bohb2, Bohb3, Bohb4, Bohb5, Alice4, and Alice5, then made one custom Apprentice for reference. When I examined the structure, Bohb1 appeared near the end of the file, while The Apprentice appeared near the beginning.
 
@@ -54,8 +1086,8 @@ Hacked custom characters can be played, but they cannot be edited.
 [[image sauronspc1.avif| Sauron (Renn) with The Apprentice moveset]]
 
 
-+ Algol's Alphecca I'klil Nath
-Algol's only unblockable move comes with a highly campy pose, which reminds me of a much older campy pose.
++ Is This a JoJo reference!?
+Algol's only unblockable move, Algol's Alphecca I'klil Nath, comes with a highly campy pose, which reminds me of a much older campy pose.
 
 [[image algol.avif| Algol]]
 [[image stroheim.avif| Rudol von Stroheim (Jojo's Bizarre Adventure)]]

@@ -88,7 +88,7 @@ blockquote p{
 	margin-bottom: 0rem;
 }
 
-code
+code,
 .code{
 	background: var(--color-capa-1);
 	border: 1px solid var(--color-capa-4);
