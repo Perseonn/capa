@@ -102,7 +102,7 @@ If you are brave enough to explore the 7 shells of Septerra Core, prepare for gi
  * Use Supply Cache on Layla
  * Exit to Mourn Graveyard
 * Go to Helgak Port
- Talk to the Clerk about Passport
+ * Talk to the Clerk about Passport
 * Go to South Farm
  * Talk to Maxon (Weapon Shop) using Corgan
  * Go through the tunnel
@@ -263,7 +263,7 @@ If you are brave enough to explore the 7 shells of Septerra Core, prepare for gi
 + Intermission Part 1
 ++ Shell 2
 * Go to ??? on the island the west of Grubb's Workshop
- * Quicksave before proceeding firther
+ * Quicksave before proceeding further
  * See event where Maya says "..."
  * Walk by hugging the fence to the right of the map, then all the way down until the bottom corner.
  * Run upward between the well and bench
