@@ -721,6 +721,16 @@
     },
     {
         "category": "guides",
+        "slug": "septerra-core",
+        "sourceName": "guides_septerra-core",
+        "url": "/guides/septerra-core/",
+        "title": "Septerra Core",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-02-08",
+        "wip": false
+    },
+    {
+        "category": "guides",
         "slug": "soul-edge",
         "sourceName": "guides_soul-edge",
         "url": "/guides/soul-edge/",
