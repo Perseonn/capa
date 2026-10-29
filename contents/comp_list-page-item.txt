@@ -1,5 +1,5 @@
 [[div_ class="list-page-container d-grid {$container-class}"]]
-[[div_ class="list-page-image-container {$image-container-class}"]]
+[[div_ class="list-page-image-container {$image-container-class}" style="{$image-container-style}"]]
 [[a href="/{$link}"]][[image /{$image} | | {$image-class}]][[/a]]
 [[/div]]
 [[div_ class="list-page-text-container text-center {$text-container-class}"]]

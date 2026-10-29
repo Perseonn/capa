@@ -15,9 +15,10 @@
 
 [[module ListPages category="guides" order="title"]]
 [[include comp:list-page-item
-|container-class=col-12 col-xs-6 col-md-4
-|image-container-class=bg-white-50 rounded p-1 
-|image-class=fit-cover aspect-16x9
+|container-class=col-6 col-md-4 guide-cards
+|image-container-class=bg-white-50 rounded p-1 aspect-1x1 aspect-sm-4x3 aspect-xl-16x9
+|image-container-style=background-image: linear-gradient(0deg, var(--color-splash-overlay), var(--color-splash-overlay)), url('/assets/%%fullname%%/%%name%%-splash.avif');
+|image-class=fit-contain
 |image=%%fullname%%/%%name%%.avif
 |link=%%fullname%%
 |title=%%title%%

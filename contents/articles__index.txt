@@ -15,8 +15,8 @@
 
 [[module ListPages category="articles" order="updated_at desc" perPage="40"]]
 [[include comp:list-page-item
-|container-class=col-12 col-xs-6 col-md-4
-|image-container-class=h-100
+|container-class=col-6 col-md-4
+|image-container-class=h-100 aspect-1x1 aspect-sm-4x3 aspect-xl-16x9
 |image-class=fit-cover h-100
 |image=%%fullname%%/%%name%%-splash.avif
 |link=%%fullname%%
