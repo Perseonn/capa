@@ -1,0 +1,8 @@
+[[div_ class="credit d-flex flex-dir-row flex-align-center flex-g-2 rounded p-3 {$author-slug}"]]
+[[div_ class="credit-img"]]
+[[image /img/avatar/{$author-slug}.avif | |rounded-circle]]
+[[/div]]
+[[div_ class="credit-text-container"]]
+This section was written by {$author}
+[[/div]]
+[[/div]]

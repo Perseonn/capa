@@ -1,4 +1,4 @@
-[[div_ class="alert alert-{$type} d-flex"]]
+[[div_ class="alert alert-{$type} d-flex flex-dir-row flex-align-center flex-g-2"]]
 [[div_ class="alert-icon"]]
 [[i|{$icon}]]
 [[/div]]

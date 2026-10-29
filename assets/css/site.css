@@ -21,7 +21,11 @@ CAPA Skin     #b49797	(180,151,151,1)
 	--color-capa-4: #F6DCBE; /* Reverie */
 	--color-capa-5: #F3A7C6; /* Dream Stuff*/
 	--color-perseonn-balthasaar:#da60da;
+	--color-perseonn-balthasaar-light:#ff98ff;
+	--color-perseonn-balthasaar-dark:#a024a1;
 	--color-buster-wolf:#00c469;
+	--color-buster-wolf-light:#61ffb8;
+	--color-buster-wolf-dark:#008a4c;
 	--color-shiki:#db1f48;
 	--color-text: #333333;
 	--color-bg: #FFFFFF;
@@ -295,6 +299,10 @@ Utility Classes
 
 .flex    {display: flex;}
 .flex li {display: inline-block; width: 100%;}
+.flex-dir-row{flex-direction: row;}
+.flex-align-center{align-items: center;}
+.flex-g-1{gap: 0.5rem;}
+.flex-g-2{gap:   1rem;}
 
 .no-p-margin p{
 	margin-bottom: 0rem;
@@ -447,16 +455,35 @@ CAPA COMMON LAYOUT
 }
 
 /* Alert Box */
-.alert.d-flex{
-	flex-direction: row;
-    align-items: center;
-	gap: 1rem;
-}
-
 .alert.d-flex .alert-icon{
 	font-size: calc(var(--base-font-size) * 4);
 }
 
+/* Credit Avatar Box */
+.credit{
+	border: 1px solid;
+}
+
+.credit.buster-wolf{
+	color:var(--color-buster-wolf-dark);
+	border-color: var(--color-buster-wolf-dark);
+	background-color: var(--color-buster-wolf-light);
+}
+
+.credit.perseonn-balthasaar{
+	color:var(--color-perseonn-balthasaar-dark);
+	border-color: var(--color-perseonn-balthasaar-dark);
+	background-color: var(--color-perseonn-balthasaar-light);
+}
+
+
+.credit .credit-img img{
+	height: 4rem;
+}
+
+.credit .credit-text-container{
+	font-size: calc(var(--base-font-size) * 2);
+}
 
 /*
 ==============================================================================
@@ -1013,6 +1040,27 @@ PSO2 Navigation
 	border-radius: var(--bs-border-radius);
 }
 
+/*
+==============================================================================
+ Soulcalibur Guide
+==============================================================================
+*/
+
+.weapon-description-container{
+	display: table-row;
+	font-size: calc(var(--base-font-size) * 0.9);
+}
+.ability-icon-container,
+.weapon-description {
+	display: table-cell;
+	vertical-align: middle;
+	padding: 4px;
+}
+
+.ability-icon{
+	width:24px;
+	height:24px;
+}
 
 
 /*

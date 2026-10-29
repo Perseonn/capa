@@ -1,0 +1,4 @@
+[[include comp:credit
+|author=Buster Wolf
+|author-slug=buster-wolf
+]]

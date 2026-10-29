@@ -311,6 +311,36 @@
     },
     {
         "category": "comp",
+        "slug": "credit-buster-wolf",
+        "sourceName": "comp_credit-buster-wolf",
+        "url": "/comp/credit-buster-wolf/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "comp",
+        "slug": "credit-perseonn-balthasaar",
+        "sourceName": "comp_credit-perseonn-balthasaar",
+        "url": "/comp/credit-perseonn-balthasaar/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "comp",
+        "slug": "credit",
+        "sourceName": "comp_credit",
+        "url": "/comp/credit/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "comp",
         "slug": "list-page-item",
         "sourceName": "comp_list-page-item",
         "url": "/comp/list-page-item/",
