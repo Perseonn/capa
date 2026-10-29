@@ -470,41 +470,41 @@ All Lv. 11 weapons have Power +60 and will come with 4 items attached to them, t
 [[image w11-caocao.avif | Cao Cao's King of Wei]]
 
 +++ Xiahou Yuan
-* **Lv. 11 Weapon:** Ogre Rod
 * **Restrictions:** No bodyguards.
 * **Requirement:** Do not get the "The main camp defense force is dwindling in numbers!" message before Xiahou Dun arrives.
 * **Suggested Items:** Saddle: Elephant, Orb: Lightning, Power Rune, Tiger Amulet, Wind Scroll & Art of War.
  * It is okay to left a few enemy teams pass by, but if too many go through Zhang He will comment about his formation losing the weapon, it is best to aim for non Private type troops as teams that passed can come back up to fight.
+[[image w11-xiahouyuan.avif | Xiahou Yuan's Ogre Rod]]
 
 +++ Zhang Liao
-* **Lv. 11 Weapon:** Celestial Wyvern
 * **Restrictions:** None.
 * **Requirement:** Keep all Guard Captains alive until Zhou Tai appears and get 300 KOs.
 * **Suggested Items:** Orb: Vorpal, Tiger Amulet, Wind Scroll, Tortoise Amulet, Elixir & War Drum.
  * May need to get more KOs if Li Dian dies which he tends to never do for me.
+[[image w11-zhangliao.avif | Zhang Liao's Celestial Wyvern]]
 
 +++ Sima Yi
-* **Lv. 11 Weapon:** Abyssal Feather
 * **Restrictions:** No bodyguards.
 * **Requirement:** Trigger the rain manually and defeat 9 of the 10 officers.
 * **Suggested Items:** Orb: Vorpal, Master of Musou, Way of Musou, Tiger Amulet, Wind Scroll, Tortoise Amulet & Elixir.
  * I don't mention a KO count which would be 26 due to the fact that if you use your musou there is the chance that some enemies will get knocked into each other which will result in a kill that isn't added to your counter, rain will automatically happen if 5 minutes pass. This setup allows for Sima Yi's musou to deal Vorpal damage which speeds up the process of officer killing. At most only 3 officers will be on the map at once.
+[[image w11-simayi.avif | Sima Yi's Abyssal Feather]]
 
 +++ Xu Huang
-* **Lv. 11 Weapon:** Annihilator
 * **Restrictions:** None.
 * **Requirements:** 
 * Destroy all siege weapon in under 2 minutes.
 * Defeat all officers except Guan Yu and get 200 KOs within 10 minutes.
  * Vorpal Orb is good as it can potentially one shot siege weapons.
+[[image w11-xuhuang.avif | Xu Huang's Annihilator]]
 
 +++ Zhang He
-* **Lv. 11 Weapon:** Infernal Talon
 * **Restrictions:** No items & No bodyguards.
 * **Requirement:**
 * Method 1: Before Wei Yan stops retreating defeat him.
 * Method 2: After Wei Yan stops retreating defeat Guan Xing and Zhang Bao then get 100 KOs afterward.
  * Method 1 is very hard to do given you have no items, if he reaches the gate that closes before you can defeat him you won't get the weapon from this method. For Method 2 you need to get the KOs after defeating Guan Xing & Zhang Bao, getting it before them will not give you the weapon.
+[[image w11-zhanghe.avif | Zhang He's Infernal Talon]]
 
 +++ Zhen Ji
 * **Lv. 11 Weapon:** Twilight Flute
