@@ -2,7 +2,7 @@
 @author: Perseonn Balthasaar
 @updated: 2026-09-09
 
-After the rather icky Mouryou no Hako, I continued reading the third book of Natsuhiko Kyougoku's Hyakki Yakkou / Kyougokudou series, Kyoukotsu no Yume. I read the manga version of which is the version I recommend. Main reason is that, after reading a review of the novel by Seven Nights Translations, apparently Chuuzenzi Monologue™ goes for allegedly //three hundred pages.// [((bibcite 1))].
+After the rather icky Mouryou no Hako, I continued reading the third book of Natsuhiko Kyougoku's Hyakki Yakkou / Kyougokudou series, Kyoukotsu no Yume. I read the manga version of which is the version I recommend. Main reason is that, after reading a review of the novel by Seven Nights Translations, apparently Chuuzenzi Monologue™ goes for allegedly //three hundred pages.//^^1^^
 
 Anyway, incoming spoilers!
 
@@ -125,6 +125,4 @@ Natsuhiko Kyougoku's youkai theme seems to be tacked-on this time, which is unfo
 On the writing of this review, the manga translation of Jorougumo no Kotowari is not yet available. I'll get to it when it's available, but in the meantime, I'll have my reward of watching "The Mononoke Lecture Logs of Chuzenji-sensei".
 
 ++ References
-[[bibliography title=""]]
-: 1 : https://7nightstranslations.wordpress.com/2024/05/22/kyoukotsu-no-yume/
-[[/bibliography]]
+^^1^^ [[link https://7nightstranslations.wordpress.com/2024/05/22/kyoukotsu-no-yume/ | Kyoukotsu no Yume, Seven Night Translations🔗]]. Excerpt: "And then in the final volume Kyougokudou makes his entrance and everything is explained. And by this I mean that close to the whole volume is just Kyougokudou’s exposition. The author is getting stronger with each installment. In Ubume no Natsu the explanation was about 100 pages, and in Mouryou no Hako it took up about 200. This time, it goes on for a good 300 pages." 
