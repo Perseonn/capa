@@ -2108,6 +2108,38 @@ Soul Calibur follows the formula of //A.Att * D.Def//, where A is the attacker, 
 [[/div]]
 
 [!-- ==== ==== ==== ==== ==== ==== ==== ==== Modification Code Part ==== ==== ==== ==== ==== ==== ==== ==== --]
++ Class Quotes
+[[include comp:credit-buster-wolf]]
+
+This guide will be all about the class specific quotes all CaSes have when you hold down an action button (A, B, K & G; defaults to Square, Triangle, Circle & X respectively) during the replay at the end of the round (or after you win in Chronicles of the Sword).
+
+|| Class || Girl 1 / Young Man 1  || Girl 2 / Young Man 2 || Woman / Man || Old Woman / Old Man||
+|| Barbarian (Female) || Strength is everything! || Those who have forgotten their instincts...are no match for me! || Muuunhaaaaah! || This is what happens when you ignore your animal roots.||
+|| Barbarian (Male) || Strength is everything! || Those who have forgotten their instincts...are no match for me! || Muuunhaaaaah! || This is what happens when you forget your instincts. ||
+|| Monk (Female) || The power of kung-fu made all the difference! || Weapons are for fools! || You lack training! || You really thought you could win?||
+|| Monk (Male) || The art of Kung-fu made all the difference! || Weapons are nothing but trinkets! || You lack training! || You really thought you could win? ||
+|| Thief/Pirate (Female) || The treasure is mine! || Remember, the treasure is mine! || I’ve never missed a mark that I’ve gone after. || Hmm, you don’t seem to have much.||
+|| Monk (Male) || That treasure is mine! || Remember, the treasure is mine! || I’ve never missed prey that I’ve marked! || Hmm, you don’t seem to have much loot. ||
+|| Dancer (Female) || Did you enjoy...my dance? || Were you entranced by my graceful moves? || You lack grace of any kind. || I still have the moves...don’t you think?||
+|| Dancer (Male) || How did you enjoy that dance? || Your footwork is pathetic. This is a joke. || You lack grace of any kind. || I still have the moves...don’t you think? ||
+|| Saint (Female) || Consider this...divine punishment. || This is reality, you must learn to accept it. || Take this opportunity to purify your soul. || Power without faith...is weak indeed.||
+|| Saint (Male) || Consider this...divine punishment. || Learn to accept the limits of your strength. || Take this opportunity to purify your soul. || Power without faith...is weak indeed. ||
+|| Ninja (Female) || Mission complete! || No one can stand against my ninjitsu! || This is the way of the shinobi. || I’m getting old...I’m not as fast as I used to be.||
+|| Ninja (Male) || Mission complete! || No one can defeat my ninjitsu! || This is the way of the shinobi. || I guess I’m getting old...My moves don’t have the oomph they used to. ||
+|| Gladiator/Knight (Female) || I shall offer this victory...to the heavens. || I vowed to be victorious...I cannot lose! || Do not underestimate...the honor of a knight! || I shall offer this victory to the heavens.||
+|| Gladiator/Knight (Male) || I shall offer this victory...unto the heavens. || I vowed to achieve victory...I cannot lose! || Do not underestimate...the honor of a knight! || I shall offer this victory to the heavens. ||
+|| Sage (Female) || How did you enjoy the taste of ancient powers? || Fool, you cannot rely on strength alone. || You cannot expect to win...if all you do is swing your weapon around. || How did you enjoy...the taste of true power?||
+|| Sage (Male) || How did you enjoy the taste of ancient powers? || Fool, you cannot rely on strength alone. || You cannot expect to win just by swinging a stick. || Do you understand...the meaning of true power? ||
+|| Samurai (Female) || Victory is mine! || And you call yourself a warrior?! || Only one is worthy of claiming the heavens. || I haven’t lived this long for nothing!||
+|| Samurai (Male) || Victory is mine! || And you call yourself a warrior?! || Only one is worthy of claiming the heavens. || I haven’t lived this long for nothing! ||
+|| Sword Master (Female) || It will be a long time...before my sword is complete. || Did you really expect...to get the better of my blade? || My blade cannot be defeated so easily! || This sword is my life!||
+|| Sword Master (Male) || It will be a long time...before my sword is complete. || Did you expect to stand up to my sword skills? || My blade cannot be defeated so easily! || This sword is my life! ||
+
+++ Miscellaneous
+* Assassin & Soul of Voldo (for Dancer) don't speak
+* Rapier will speak the lines of whichever class they're in.
+
+[!-- ==== ==== ==== ==== ==== ==== ==== ==== Modification Code Part ==== ==== ==== ==== ==== ==== ==== ==== --]
 
 + Modification Code
 [[include comp:credit-perseonn-balthasaar]]
