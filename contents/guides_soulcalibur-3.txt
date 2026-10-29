@@ -2113,7 +2113,7 @@ Soul Calibur follows the formula of //A.Att * D.Def//, where A is the attacker, 
 
 This guide will be all about the class specific quotes all CaSes have when you hold down an action button (A, B, K & G; defaults to Square, Triangle, Circle & X respectively) during the replay at the end of the round (or after you win in Chronicles of the Sword).
 
-|| Class || Girl 1 / Young Man 1  || Girl 2 / Young Man 2 || Woman / Man || Old Woman / Old Man||
+||~ Class ||~ Girl 1 / Young Man 1  ||~ Girl 2 / Young Man 2 ||~ Woman / Man ||~ Old Woman / Old Man||
 || Barbarian (Female) || Strength is everything! || Those who have forgotten their instincts...are no match for me! || Muuunhaaaaah! || This is what happens when you ignore your animal roots.||
 || Barbarian (Male) || Strength is everything! || Those who have forgotten their instincts...are no match for me! || Muuunhaaaaah! || This is what happens when you forget your instincts. ||
 || Monk (Female) || The power of kung-fu made all the difference! || Weapons are for fools! || You lack training! || You really thought you could win?||
