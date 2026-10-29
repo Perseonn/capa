@@ -352,7 +352,7 @@ This will list the requirements to get the characters Lv. 11 weapon as well as s
 * If using 2 players as long as one player meets the requirements the weapon will appear.
 * I never mention what Harness to use, but it will always be Shadow Harness due to not being knocked off when struck.
 
-All Lv. 11 weapons have Power +60 and will come with 4 items attached to them, the items can combine with your equipped ones, some may hit the cap and some may pass it [[link guide:dw4xl-items |refer to this section for more info]]. The images below will have the Dim Sum and Musou Wine locations, as well as the location of Item Boxes in the characters respective stage.
+All Lv. 11 weapons have Power +60 and will come with 4 items attached to them, the items can combine with your equipped ones, some may hit the cap and some may pass it refer to the Item section for more info. The images below will have the Dim Sum and Musou Wine locations, as well as the location of Item Boxes in the characters respective stage.
 + Shu Weapons
 +++ Zhao Yun
 * **Restrictions:** No bodyguards.
@@ -428,29 +428,28 @@ All Lv. 11 weapons have Power +60 and will come with 4 items attached to them, t
 [[image w11-pangtong.avif | Pang Tong's Great Phoenix]]
 
 +++ Yue Ying
-* **Lv. 11 Weapon:** Nether Realm
 * **Restrictions:** No bodyguards.
 * **Requirement:** Defeat all officers with less than 2 Juggernauts destroyed.
  * Do not go too far ahead or an enemy task force will spawn, this can be really bad if you happen to be locked away from the Juggernauts. If you have trouble keeping count you start with 3 Juggernauts and gain 1 for every officer defeated, also it is okay if a Juggernaut happens to steal your kill on an officer.
+[[image w11-yueying.avif | Yue Ying's Nether Realm]]
 
 + Wei Weapons
 +++ Xiahou Dun
-* **Lv. 11 Weapon:** Kirin Blaze
 * **Restrictions:** No items & No bodyguards. Start with 1/3 Life.
 * **Requirements:**
 * Defeat Cao Xing before he retreats.
 * Make your way to the top right through the river.
 * Meet with Cao Xing before Yuan Shu arrives and get 100 KOs.
  * You do not need to defeat Cao Xing the second time to get the weapon though you are welcome to defeat him again if you can. If you ever go to the top left before the weapon message you will not get the weapon.
+[[image w11-xiahoudun.avif | Xiahou Dun's Kirin Blaze]]
 
 +++ Dian Wei
-* **Lv. 11 Weapon:** Bull Rampage
 * **Restrictions:** No items & No bodyguards. Start with 1/3 Life, enemies only drop Attack x2, Defense x2 & Full Musou.
 * **Requirement:** Defeat Hu Che Er & Jia Xu and get 200 KOs.
  * It doesn't matter how many pursuit units stall Cao Cao as long as you meet the requirement.
+[[image w11-dianwei.avif | Dian Wei's Bull Rampage]]
 
 +++ Xu Zhu
-* **Lv. 11 Weapon:** Earth Shaker
 * **Restrictions:** No bodyguards.
 * **Requirements:** 
 * Defeat Yu Jin then his Supply Captain.
@@ -461,13 +460,14 @@ All Lv. 11 weapons have Power +60 and will come with 4 items attached to them, t
 * Encounter Dian Wei for the 3rd time.
 * Defeat Man Chong.
  * You will want to use the easing the AI trick for this unless you are really good with Xu Zhu and follow the requirements in order. You must make sure that no Supply Captain makes their delivery, though the 3 that come with Dian Wei's 3rd appearance are okay to let go, but no more than these 3.
+[[image w11-xuzhu.avif | Xu Zhu's Earth Shaker]]
 
 +++ Cao Cao
-* **Lv. 11 Weapon:** King of Wei
 * **Restrictions:** No bodyguards. Start with 1/3 Life.
 * **Requirement:** Within 10 minutes defeat all Shu officers and get 200 KOs before ally reinforcements appear.
 * **Suggested Items:** Orb: Vorpal, Tiger Amulet, Wind Scroll, Tortoise Amulet, Peacock Urn & Charge Bracer.
  * Ride up to the left enemy Gate Captain defeat it so you have less troops to worry about. Afterward make you way to Guan Ping and defeat him hopefully before Zhao Yun follows you to help, then defeat Zhang Fei & Zhou Cang to have Guan Yu letting Cao Cao go event happen. Then take you time getting 200 KOs from remaining soldiers. Cao Ren will appear as reinforcements if you take too long to defeat Zhang Fei to secure the first Escape Point when you make your way North.
+[[image w11-caocao.avif | Cao Cao's King of Wei]]
 
 +++ Xiahou Yuan
 * **Lv. 11 Weapon:** Ogre Rod
