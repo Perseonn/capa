@@ -37,23 +37,29 @@ Psst—for those who missed the free Epic Games version, Daemon X Machina is oft
 [[image vierge-stat.avif | You can challenge me to a spar, but I wouldn't recommend it.]]
 
 + Summary
+++ Pros
+* Customisable pilot.
+* Several veteran voice actors.
+* You can dual-wield any weapon or shield.
+* Fully rebindable controls—even modifier buttons!
+* Very beginner-friendly, apart from a few tough missions (like Moonfall).
+* Raids are soloable with NPC allies.
+* Fun, experimental weapons (though not always practical).
+* Full-mecha skins available!
+* You can explore and fight on foot.
+* You can pilot other players' mechs!
+* High-speed combat.
+* Melee weapons home in on enemies.
 
-[[div class="review hippo"]]
+++ Cons
+* Customisation does not include body size.
+* Needs more cutscenes for character development.
+* No weapon arms.
+* Blink command cannot be rebound.
+* Exploration mode lacks variety.
+* Exploration relies on RNG drops. These are needed to stand a chance in raids.
+* Machine guns are generally weak—but at least usable as sub-weapons.
+* Most full-mecha skins are paid DLC.
+* Mecha legs lack variety.
 
-||~ Pros ||~ Cons ||
-|| Customisable pilot. || Customisation does not include body size. ||
-|| Several veteran voice actors. || Needs more cutscenes for character development. ||
-|| You can dual-wield any weapon or shield. || No weapon arms. ||
-|| Fully rebindable controls—even modifier buttons! || Blink command cannot be rebound. ||
-|| Very beginner-friendly, apart from a few tough missions (like Moonfall). || Exploration mode lacks variety. ||
-|| Raids are soloable with NPC allies. || Exploration relies on RNG drops. These are needed to stand a chance in raids. ||
-|| Fun, experimental weapons (though not always practical). || Machine guns are generally weak—but at least usable as sub-weapons. ||
-|| Full-mecha skins available! || Most full-mecha skins are paid DLC. ||
-|| You can explore and fight on foot. || Mecha legs lack variety. ||
-|| You can pilot other players' mechs! || ||
-|| High-speed combat. || ||
-|| Melee weapons home in on enemies. || ||
-
-[[/div]]
-
-This article has been or will be posted on my workplace's Instagram, @@@p**********e.@@
+An Indonesian version of this article, also written by me, has been published on my workplace's Instagram account.

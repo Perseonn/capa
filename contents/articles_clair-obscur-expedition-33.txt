@@ -113,11 +113,17 @@ The game also throws a bunch of terms at you without explaining them. There's no
 [[image jazz-hands.avif | Or why does the Paintress doing jazz hands.]]
 
 + Summary
-[[div class="review hippo"]]
-||~ Pros | |~ Cons | |
-|| Unique gameplay styles among party members. | | Unlikable main cast. | |
-|| Music is good. | | Music is not particularly memorable. | |
-|| World exploration has some charm. | | No map or minimap makes field exploration frustrating. | |
-|| Character builds can be hilariously broken. | | Challenge is low, tied too much to parry/dodge mechanics. | |
-|| Weird and unique landscapes, especially Visage. | | Story is mediocre at best — and worse than Forspoken. | |
-[[/div]]
+
+++ Pros
+* Unique gameplay styles among party members.
+* Music is good.
+* World exploration has some charm.
+* Character builds can be hilariously broken.
+* Weird and unique landscapes, especially Visage.
+
+++ Cons
+* Unlikable main cast.
+* Music is not particularly memorable.
+* No map or minimap makes field exploration frustrating.
+* Challenge is low, tied too much to parry/dodge mechanics.
+* Story is mediocre at best — and worse than Forspoken.

@@ -130,7 +130,7 @@ Nocturne provides you bonus demons that can be recruited as your allies. These d
 + Closing
 The story of Nocturne and its library of demons is more than enough to make story writers want to keep playing in order to explore the world further. If you are looking for a different RPG with high difficulty level and chellenging boss, this game is for you.
 
-++ Pros:
+++ Pros
 * Music is the win.
 * Savepoints are plentiful.
 * Tactical turn-based battle.
@@ -139,7 +139,7 @@ The story of Nocturne and its library of demons is more than enough to make stor
 * Runs perfectly on PS2 emulator (see emulation below for more details).
 * Demons are taken from various mythology and rendered by Kazuma Kaneko, with near-accurate symbolism.
 
-++ Cons:
+++ Cons
 * High random encounter.
 * Money management is hard.
 * You are no longer able to find the game on shelves.
@@ -147,7 +147,7 @@ The story of Nocturne and its library of demons is more than enough to make stor
 * Random encounter can easily wipe you out. You can even die at tutorial battle.
 * Dante is not very practical considering the point you get him and what is coming next.
 
-Emulation
++ Emulation
 This game is very rare so a way to play it easily today is by using emulation or a modded PS2. I will cover the minimum option needed to run the game smoothly from beginning to end.
 * Emulator: PCSX2 0.9.8 or above.
 * Emulation Settings: EE/IOP Round Mode: **Nearest**

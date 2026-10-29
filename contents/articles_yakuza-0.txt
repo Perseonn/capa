@@ -32,16 +32,18 @@ If you see Yakuza 0 on sale (which happens often), I highly recommend picking it
 [[image gandhara-inside.avif | I'm pretty sure those adult video covers are legit.]]
 
 + Summary
+++ Pros
+* Cabaret club minigame.
+* Bicycle Disaster!
+* The bubble era setting is unique and provides insight into this infamous period.
+* Serious Gandhara mod 😏
+* The diabolus ex machina is pretty tame compared to other entries.
 
-[[div class="review hippo"]]
+++ Cons
+* Other minigames aren't great, especially Pocket Circuit, which is too RNG-heavy.
+* Primitive combat design. The developers should take notes from Devil May Cry 4 for smoother, more satisfying combat.
+* Cutscenes are really long.
+* Levelling up Dragon/Mad Dog style takes forever.
+* Substories aren't as engaging as those in Yakuza: Like a Dragon.
 
-||~ Pros ||~ Cons ||
-|| Cabaret club minigame. || Other minigames aren't great, especially Pocket Circuit, which is too RNG-heavy. ||
-|| Bicycle Disaster! || Primitive combat design. The developers should take notes from Devil May Cry 4 for smoother, more satisfying combat. ||
-|| The bubble era setting is unique and provides insight into this infamous period. || Cutscenes are really long. ||
-|| Serious Gandhara mod 😏 || Levelling up Dragon/Mad Dog style takes forever. ||
-|| The diabolus ex machina is pretty tame compared to other entries. || Substories aren't as engaging as those in Yakuza: Like a Dragon. ||
-
-[[/div]]
-
-This article has been or will be posted on my workplace's Instagram, @@@p**********e.@@
+An Indonesian version of this article, also written by me, has been published on my workplace's Instagram account.
