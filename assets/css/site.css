@@ -946,8 +946,8 @@ ListPages Layout
 	align-items: end;
 }
 
-.list-page-container:hover {
-	transform: scale(1.02);
+.list-page-container:hover{
+	transform: scale(1.05);
 }
 
 .list-page-image-container{
