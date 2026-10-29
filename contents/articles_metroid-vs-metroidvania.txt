@@ -25,7 +25,7 @@ Both Metroid-like and Metroidvania share several common traits:
 || Exploration progression || Can be non-linear, backtracking may be optional or restricted || Nonlinear; backtracking is an integral part of progression ||
 || Character progression || By only acquiring power-up || By both acquiring power-up and leveling up ||
 || Character progression gate || Power-up gated by exploration || Leveling up is not gated. Tedious, but not gated ||
-|| Progression against hard enemy || Dexterity required because characters have soft power ceiling limited by exploration || Can overcome hard enemies by overleveling IFF overleveling can meaningfully substitute for dexterity ||
+|| Progression against hard enemy || Dexterity required because characters have soft power ceiling limited by exploration || Leveling up will  substantially reduce the executional difficulty of otherwise challenging encounters ||
 
 +++ About Overleveling
 One trait of Metroidvania is: Players can overcome hard enemies by overleveling IFF overleveling can meaningfully substitute for dexterity. The IFF condition means "if and only if", i.e. if and only if character progression permits sufficiently large, repeatable increases in combat effectiveness such that an otherwise hard enemy can be overcome primarily by increasing character level/statistical power.
