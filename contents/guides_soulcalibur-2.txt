@@ -1,0 +1,299 @@
+@title: Soulcalibur II
+@author: Buster Wolf
+@updated: 2017-06-05
+
+Welcome one and all to this Weapon Stat Guide! As many of you know the effects in SC2 are ambiguous as hell and don't fully tell the story (effects) right, some even lie about what effect it has and others don't even tell you anything (Legendary Weapons) . I have taken the liberty to deeply uncover the mysteries of each weapon so before I start with the weapons here are effects you will be seeing, be careful as it may get confusing later on down the line so check these often.
+
+This guide was previously published on Another Stage of History.
+
++ Legend and Notes
+* Console specific characters are excluded from the list.
+* Throws and Unblockable damage is dependent on your weapons attack, unlike SC3 and SC4.
+* As with all Soul series, higher attack number means higher damage dealt and higher defense number means higher damage taken. Example: Attacker with 100% damage weapon versus defender with 70% defense will mean that the attacker will generally do 100%*70% = 70% damage against the defender.
+* Defense Written as 100/(**XXX**) 100: Weak defense against single strikes. The first strike of an attack will do what is in the parenthesis any other hits resulting in a combo will do damage based on the outside, single hits do more damage than a comboed hit. Example: Xianghua's AAB with the No Name will do 84%,70%,70% against a Talim holding Wind Guide.
+* Attack Written as (**1XX**) 100/100: Strong single strikes. First hit will do more damage than the rest of a combo
+* Attack written as (**SC1XX**) 100/100: Meaning: Soul Charged single strikes do more damage. This is really only here cause it is said on the weapon for whatever reason...
+[[div class="table-layout-auto"]]
+||||~ Icon ||~ Name ||~ Explanation ||
+|| [[image /img/sc/wdata-regen.png | Life restores over time | icon-24]] || Regen ||  Life restores over time. ||  I don't think I need to explain... ||
+|| [[image /img/sc/wdata-sap.png | Life drains over time | icon-24]] || Sap ||  Life drains over time. ||  I don't think I need to explain... ||
+|| [[image /img/sc/wdata-shavea.png | Does XX% shave damage | icon-24]] || XX% Shave Damage ||  Penetrates opponents defense. ||  XX% of the damage your attack would do will still go through against a defending opponent, this is useless against enemies wielding a weapon with Deblock on it (read below) . ||
+|| [[image /img/sc/wdata-shaved.png | Takes XX% shave damage | icon-24]] || Takes XX% Shave Damage ||  Guard is vulnerable. ||  XX% of your opponents attack will go through if you were blocking their attack, this does collective damage with XX% Shave Damage. ||
+|| [[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]] || Drain Strike ||  Lose life with any form of strikes. ||  Attacking wildly and missing will have you losing life, since the game bases everything on percentages there is no accurate way to measure this. ||
+|| [[image /img/sc/wdata-leachs.png | Gain life from any form of strikes | icon-24]] || Leach Strike ||  Gain life from any form of strikes. ||  Attacking wildly and missing will have you gain life, since the game bases everything on percentages there is no accurate way to measure this. ||
+|| [[image /img/sc/wdata-drainh.png | Dealing damage to an opponent also deals damage to you | icon-24]] || Drain Hit ||  Dealing damage to an opponent also deals damage to you. ||  Attacks that are blocked will not have you losing life. ||
+|| [[image /img/sc/wdata-leachh.png | Dealing damage to an opponent makes you gain life back | icon-24]] || Leach Hit ||  Dealing damage to an opponent makes you gain life back. ||  Attacks that are blocked will not have you gaining life. ||
+|| [[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]] || Longer Reach ||  Your weapon is longer... ||  Weapons are truly longer, unlike SCIII where weapon models are enlarged. ||
+|| [[image /img/sc/wdata-short.png | Your weapon is shorter | icon-24]] || Shorter Reach ||  Your weapon is shorter... ||  Weapons are truly shorter, unlike SCIII where weapon models are shrunken. ||
+|| [[image /img/sc/wdata-deblock.png | Unable to block attacks. Blocking defense become XX% | icon-24]] || Deblock ||  Unable to block attacks. Blocking defense become XX%. ||  You will see that you can still execute the guard animation, but when struck the attack will go through as if you weren't blocking, if you happen to be blocking when hit you will be given a small defense boost to lighten the damage. ||
+|| [[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]] || CSCd ||  **C**onstant **S**oul **C**harge **d**amage. ||  Soul Charge lasts longer and will continue to deal more damage till either you block, get hit, or it runs out. Your attacks are slower in execution unless noted about it. ||
+|| [[image /img/sc/wdata-aspdnone.png | Soul Charge Attack Speed Normal | icon-24]] || Soul Charge Attack Speed Normal ||  During Soul Charge, your attack speed becomes normal. ||  This cancels the slow attack speed caused by Constant Soul Charge Damage. ||
+|| [[image /img/sc/wdata-aspd.png | Soul Charge Attack Speed Up | icon-24]] || Soul Charge Attack Speed Up ||  During Soul Charge, your attack speed increased. ||  Exactly as it says on the tin. ||
+|| [[image /img/sc/wdata-scd.png | Soul Charge defense up | icon-24]] || Soul Charge defense up ||  Soul Charge increases defense. ||  Usually when hit while Soul Charging/having Soul Charge in effect you would be dealt counter damage. With this effect, you will take less damage over the course of Soul Charge's lasting effect (how long it last if you didn't get hit) than you would from a regular hit. The Soul Charge animation must finish or you will be dealt counter damage. ||
+|| [[image /img/sc/wdata-scnd.png | Soul Charge null counter | icon-24]] || Soul Charge Null Counter ||  Soul Charge nulls forced counter damage ||  Usually when hit while Soul Charging/having Soul Charge in effect you would be dealt counter damage. With this effect, you will take as much damage as you would from a regular hit. Even if you are struck during Soul Charge, you will take minimal damage. ||
+|| [[image /img/sc/wdata-scregen.png | Soul Charge Life Regain | icon-24]] || Soul Charge Life Regain ||  Regains life during charge animation ||  The amount of time you go through during the Soul Charge animation will have you gain life for as long as you did it. ||
+|| [[image /img/sc/wdata-scsap.png | Soul Charge Life Drain | icon-24]] || Soul Charge Life Drain ||  Loses life during charge animation ||  The amount of time you go through during the Soul Charge animation will have you lose life for as long as you did it, if you do a Soul Charge with low health you can lose the round. ||
+|| [[image /img/sc/wdata-chgspdup.png | Speed Up Soul Charge | icon-24]] || Speed up Soul Charge ||  Speeds up charge animation. ||  Soul Charge animation finishes a lot quicker. ||
+|| [[image /img/sc/wdata-funny.png | Funny sound | icon-24]] || Funny Sound ||  Weapon produces funny sound ||  Each hit produces an irregular sound. ||
+|| [[image /img/sc/wdata-note.png | E.g. Longer reach only for the right hand | icon-24]] || Notes ||  Weapon have a noteworthy stat. ||  Will be explained as needed. ||
+[[/div]]
+
++ Assassin / Berserker / Lizardman
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Wielder ||
+||Assassin Blade|| 100|| 100|| Assassin || 
+||Great Ax      || 100|| 100|| Berserker ||
+||Gyulkus Weapon|| 100|| 100|| Lizardman ||
+
+[[div class="table-layout-auto table-sc2-weapon"]]
++ Astaroth
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||Kulutues||100||100|| ||
+||War Hammer||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]]||
+||Terror Moon||100||130|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 20% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 20% shave damage[[/span]][[/span]]||
+||Battle Ax||70||70|| ||
+||Great Maul||120||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-short.png | Your weapon is shorter | icon-24]][[/span]][[span class="cell-td"]]Your weapon is shorter[[/span]][[/span]]||
+||Tarbar||(120) 100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shaved.png | Takes 20% shave damage | icon-24]][[/span]][[span class="cell-td"]]Takes 20% shave damage[[/span]][[/span]]||
+||Nanbanfu||130||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shaved.png | Takes 20% shave damage | icon-24]][[/span]][[span class="cell-td"]]Takes 20% shave damage[[/span]][[/span]]||
+||Bulova||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Lose life with any form of strikes[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scregen.png | Soul Charge Life Regain | icon-24]][[/span]][[span class="cell-td"]]Soul Charge Life Regain[[/span]][[/span]]||
+||Soul Edge (Complete) ||(SC168) 120||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-sap.png | Life drains over time | icon-24]][[/span]][[span class="cell-td"]]Life drains over time[[/span]][[/span]]||
+||Thanatos||100||60|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-leachh.png | Dealing damage to an opponent makes you gain life back | icon-24]][[/span]][[span class="cell-td"]]Dealing damage to an opponent makes you gain life back[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-deblock.png | Unable to block attacks. Blocking defense become 54% | icon-24]][[/span]][[span class="cell-td"]]Unable to block attacks. Blocking defense become 54%[[/span]][[/span]]||
+||Rock||80||120|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+
++ Cassandra
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||Ω Sword & Nemea Shield||100||100|| ||
+||Spiked Shield||130||100|| ||
+||Dark Blade||100||140|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 20% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 20% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]]||
+||Metasashi||75||70|| ||
+||Spine Blade||130||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 40% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 40% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-short.png | Your weapon is shorter | icon-24]][[/span]][[span class="cell-td"]]Your weapon is shorter[[/span]][[/span]]||
+||Katzbalger||100||130|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scsap.png | Soul Charge Life Drain | icon-24]][[/span]][[span class="cell-td"]]Soul Charge Life Drain[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-aspdnone.png | Soul Charge Attack Speed Normal | icon-24]][[/span]][[span class="cell-td"]]Soul Charge Attack Speed Normal[[/span]][[/span]]||
+||Red Crystal Shield||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-regen.png | Life restores over time | icon-24]][[/span]][[span class="cell-td"]]Life restores over time[[/span]][[/span]]||
+||Ivan the Terrible||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drainh.png | Dealing damage to an opponent also deals damage to you | icon-24]][[/span]][[span class="cell-td"]]Dealing damage to an opponent also deals damage to you[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]]||
+||Soul Edge (Complete) ||(162) 135||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Lose life with any form of strikes[[/span]][[/span]]||
+||Valkyrie||135||70|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-regen.png | Life restores over time | icon-24]][[/span]][[span class="cell-td"]]Life restores over time[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shaved.png | Takes 40% shave damage | icon-24]][[/span]][[span class="cell-td"]]Takes 40% shave damage[[/span]][[/span]]||
+||Keepsake||50||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+
++ Cervantes
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||Soul Edge and Nirvana||100||100|| ||
+||Falchion||120||70|| ||
+||Firangi||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-regen.png | Life restores over time | icon-24]][[/span]][[span class="cell-td"]]Life restores over time[[/span]][[/span]]||
+||Erlang's Blade||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]]||
+||Acheron||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shaved.png | Takes 20% shave damage | icon-24]][[/span]][[span class="cell-td"]]Takes 20% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]]||
+||Phlegethon||(SC140) 100||100|| ||
+||Cocytus||130||100|| ||
+||Styx||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-aspd.png | Soul Charge Attack Speed Up | icon-24]][[/span]][[span class="cell-td"]]Soul Charge Attack Speed Up[[/span]][[/span]]||
+||Soul Edge (Complete) ||140||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-sap.png | Life drains over time | icon-24]][[/span]][[span class="cell-td"]]Life drains over time[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-leachh.png | Dealing damage to an opponent makes you gain life back | icon-24]][[/span]][[span class="cell-td"]]Dealing damage to an opponent makes you gain life back[[/span]][[/span]]||
+||Lethe||150||80|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Lose life with any form of strikes[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-note.png | Both blades are longer | icon-24]][[/span]][[span class="cell-td"]]Both blades are longer[[/span]][[/span]]||
+||Imitation Sword||80||120|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+
++ Ivy
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||Valentine||100||100|| ||
+||Mirage Blade||(SC84) 60||100|| ||
+||Wiseman Mace||100||145|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-leachs.png | Gain life from any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Gain life from any form of strikes[[/span]][[/span]]||
+||Dream Blade||100||100|| ||
+||Chained Flail||135||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Lose life with any form of strikes[[/span]][[/span]]||
+||Viper Edge||130||100|| ||
+||Alraune||120||75|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shaved.png | Takes 30% shave damage | icon-24]][[/span]][[span class="cell-td"]]Takes 30% shave damage[[/span]][[/span]]||
+||Demon Tail||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]]||
+||Soul Edge (Complete) ||120||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-sap.png | Life drains over time | icon-24]][[/span]][[span class="cell-td"]]Life drains over time[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scd.png | Soul Charge defense up | icon-24]][[/span]][[span class="cell-td"]]Soul Charge defense up[[/span]][[/span]]||
+||Kaleidoscope||130||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 60% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 60% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Lose life with any form of strikes[[/span]][[/span]]||
+||Prototype Ivy Blade||80||120|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+
++ Kilik
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||Kali-Yuga||100||100|| ||
+||Quarterstaff||100||70|| ||
+||Ling-Sheng Su Bo||100||100|| ||
+||Iron Staff||130||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Lose life with any form of strikes[[/span]][[/span]]||
+||Kunlun Bamboo||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-leachs.png | Gain life from any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Gain life from any form of strikes[[/span]][[/span]]||
+||Rokushakuboh||100||(120) 100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scnd.png | Soul Charge null counter | icon-24]][[/span]][[span class="cell-td"]]Soul Charge null counter[[/span]][[/span]]||
+||Amud||135||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 20% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 20% shave damage[[/span]][[/span]]||
+||Duel Rod||100||130|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Lose life with any form of strikes[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]]||
+||Soul Edge (Complete) ||140||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-sap.png | Life drains over time | icon-24]][[/span]][[span class="cell-td"]]Life drains over time[[/span]][[/span]]||
+||Jingu Staff||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shaved.png | Takes 10% shave damage | icon-24]][[/span]][[span class="cell-td"]]Takes 10% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]]||
+||Bamboo Staff||80||120|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+
++ Maxi
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||Soryuju||100||100|| ||
+||Tetsuryu||85||100|| ||
+||Chained Kozuka||100||130|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]]||
+||Fatibal||130||130|| ||
+||Raimei||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drainh.png | Dealing damage to an opponent also deals damage to you | icon-24]][[/span]][[span class="cell-td"]]Dealing damage to an opponent also deals damage to you[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]]||
+||Fuzori||120||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-note.png | The stick that he attacks with is longer. The one he hold onto is regular size. | icon-24]][[/span]][[span class="cell-td"]]The stick that he attacks with is longer. The one he hold onto is regular size.[[/span]][[/span]]||
+||Modified Flail||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 20% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 20% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-aspd.png | Soul Charge Attack Speed Up | icon-24]][[/span]][[span class="cell-td"]]Soul Charge Attack Speed Up[[/span]][[/span]]||
+||Falcon||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Lose life with any form of strikes[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]]||
+||Soul Edge (Complete) ||130||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-sap.png | Life drains over time | icon-24]][[/span]][[span class="cell-td"]]Life drains over time[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 40% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 40% shave damage[[/span]][[/span]]||
+||Vajra||(180) 150||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-deblock.png | Unable to block attacks. Blocking defense become 90% | icon-24]][[/span]][[span class="cell-td"]]Unable to block attacks. Blocking defense become 90%[[/span]][[/span]]||
+||Termite Snack||80||120|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+
++ Mitsurugi
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||Shishi-Oh||100||100|| ||
+||Korefuji||130||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-short.png | Your weapon is shorter | icon-24]][[/span]][[span class="cell-td"]]Your weapon is shorter[[/span]][[/span]]||
+||Two-Handed Sword||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]]||
+||Shamshir||100||(120) 100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scnd.png | Soul Charge null counter | icon-24]][[/span]][[span class="cell-td"]]Soul Charge null counter[[/span]][[/span]]||
+||Basilard||100||70|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-short.png | Your weapon is shorter | icon-24]][[/span]][[span class="cell-td"]]Your weapon is shorter[[/span]][[/span]]||
+||Gassan||(120) 100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Lose life with any form of strikes[[/span]][[/span]]||
+||Tulwar||100||135|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 20% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 20% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]]||
+||Masamune||130||80|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-aspd.png | Soul Charge Attack Speed Up | icon-24]][[/span]][[span class="cell-td"]]Soul Charge Attack Speed Up[[/span]][[/span]]||
+||Soul Edge (Complete) ||150||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-sap.png | Life drains over time | icon-24]][[/span]][[span class="cell-td"]]Life drains over time[[/span]][[/span]]||
+||Damascus Sword||175||50|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-deblock.png | Unable to block attacks. Blocking defense become 45% | icon-24]][[/span]][[span class="cell-td"]]Unable to block attacks. Blocking defense become 45%[[/span]][[/span]]||
+||Souvenir Gift||80||120|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+
++ Necrid
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||Maleficus||100||100|| ||
+||Lemures||(SC98) 70||100|| ||
+||Morphos||120||(120) 100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scnd.png | Soul Charge null counter | icon-24]][[/span]][[span class="cell-td"]]Soul Charge null counter[[/span]][[/span]]||
+||Orcus Claw||100||130|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shaved.png | Takes 20% shave damage | icon-24]][[/span]][[span class="cell-td"]]Takes 20% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scd.png | Soul Charge defense up | icon-24]][[/span]][[span class="cell-td"]]Soul Charge defense up[[/span]][[/span]]||
+||Ignis Fatuus||70||85|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-leachs.png | Gain life from any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Gain life from any form of strikes[[/span]][[/span]]||
+||Lumbert Viper||(120) 100||130|| ||
+||Hex Luminae||10||(180) 150|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does true damage to blocking enemies | icon-24]][[/span]][[span class="cell-td"]]Does true damage to blocking enemies[[/span]][[/span]]||
+||Infernal Edge||120||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Lose life with any form of strikes[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-aspd.png | Soul Charge Attack Speed Up | icon-24]][[/span]][[span class="cell-td"]]Soul Charge Attack Speed Up[[/span]][[/span]]||
+||Soul Edge (Complete) ||130||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-sap.png | Life drains over time | icon-24]][[/span]][[span class="cell-td"]]Life drains over time[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-leachh.png | Dealing damage to an opponent makes you gain life back | icon-24]][[/span]][[span class="cell-td"]]Dealing damage to an opponent makes you gain life back[[/span]][[/span]]||
+||Chaos||???||???|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-note.png | Opponents weapon stats = yours. Necrid vs Necrid with this is treated as Maleficus | icon-24]][[/span]][[span class="cell-td"]]Opponents weapon stats = yours. Necrid vs Necrid with this is treated as Maleficus[[/span]][[/span]]||
+||Ethereal Edge||80||120|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+
++ Nightmare
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||Soul Edge||100||100|| ||
+||Flamberge||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 30% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 30% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shaved.png | Takes 30% shave damage | icon-24]][[/span]][[span class="cell-td"]]Takes 30% shave damage[[/span]][[/span]]||
+||Great Blade||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Lose life with any form of strikes[[/span]][[/span]]||
+||Steel Paddle||100||70|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 20% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 20% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drainh.png | Dealing damage to an opponent also deals damage to you | icon-24]][[/span]][[span class="cell-td"]]Dealing damage to an opponent also deals damage to you[[/span]][[/span]]||
+||Glam||130||(120) 100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 15% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 15% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scnd.png | Soul Charge null counter | icon-24]][[/span]][[span class="cell-td"]]Soul Charge null counter[[/span]][[/span]]||
+||Requiem||100||70|| ||
+||Faust||100||70|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Lose life with any form of strikes[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]]||
+||Soul Edge (Growth) ||120||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-regen.png | Life restores over time | icon-24]][[/span]][[span class="cell-td"]]Life restores over time[[/span]][[/span]]||
+||Soul Edge (Complete) ||140||60|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-sap.png | Life drains over time | icon-24]][[/span]][[span class="cell-td"]]Life drains over time[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scsap.png | Soul Charge Life Drain | icon-24]][[/span]][[span class="cell-td"]]Soul Charge Life Drain[[/span]][[/span]]||
+||Soul Calibur||100||75|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-regen.png | Life restores over time | icon-24]][[/span]][[span class="cell-td"]]Life restores over time[[/span]][[/span]]||
+||Galley Oar||80||120|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+
++ Raphael
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||Flambert||100||100|| ||
+||Epee||100||70|| ||
+||Stiletto||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 50% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 50% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]]||
+||Reiterpallasch||130||(120) 100|| ||
+||Wo Dao||(SC189) 135||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-short.png | Your weapon is shorter | icon-24]][[/span]][[span class="cell-td"]]Your weapon is shorter[[/span]][[/span]]||
+||Schweizer||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]]||
+||Holy Antler||(120) 100||130|| ||
+||Estoc||100||150|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]]||
+||Soul Edge (Complete) ||140||70|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-sap.png | Life drains over time | icon-24]][[/span]][[span class="cell-td"]]Life drains over time[[/span]][[/span]]||
+||Queen's Guard||130||60|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drainh.png | Dealing damage to an opponent also deals damage to you | icon-24]][[/span]][[span class="cell-td"]]Dealing damage to an opponent also deals damage to you[[/span]][[/span]]||
+||Cane||70||140|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+
++ Seong Mi-na
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||Scarlet Thunder||100||100|| ||
+||Defender||60||55|| ||
+||Hyup Do||120||(80) 100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scd.png | Soul Charge defense up | icon-24]][[/span]][[span class="cell-td"]]Soul Charge defense up[[/span]][[/span]]||
+||Naginata||(SC98) 70||100|| ||
+||Couse||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 30% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 30% shave damage[[/span]][[/span]]||
+||Bardiche||130||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shaved.png | Takes 30% shave damage | icon-24]][[/span]][[span class="cell-td"]]Takes 30% shave damage[[/span]][[/span]]||
+||Halberd||110||135|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-regen.png | Life restores over time | icon-24]][[/span]][[span class="cell-td"]]Life restores over time[[/span]][[/span]]||
+||Ambassador||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]]||
+||Soul Edge (Complete) ||125||(120) 100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-sap.png | Life drains over time | icon-24]][[/span]][[span class="cell-td"]]Life drains over time[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-leachh.png | Dealing damage to an opponent makes you gain life back | icon-24]][[/span]][[span class="cell-td"]]Dealing damage to an opponent makes you gain life back[[/span]][[/span]]||
+||Hraesvelgr||110||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-sap.png | Life drains over time | icon-24]][[/span]][[span class="cell-td"]]Life drains over time[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-leachs.png | Gain life from any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Gain life from any form of strikes[[/span]][[/span]]||
+||Feather Broom||80||120|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+
++ Sophitia
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||Ω Sword & Elk Shield||100||100|| ||
+||Swordbreaker||70||100|| ||
+||Xi Sword||100||100|| ||
+||Owl Shield||60||75|| ||
+||Blue Crystal Rod||70||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-leachs.png | Gain life from any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Gain life from any form of strikes[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scd.png | Soul Charge defense up | icon-24]][[/span]][[span class="cell-td"]]Soul Charge defense up[[/span]][[/span]]||
+||Fire Blade||120||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drainh.png | Dealing damage to an opponent also deals damage to you | icon-24]][[/span]][[span class="cell-td"]]Dealing damage to an opponent also deals damage to you[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]]||
+||Gladius||120||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]]||
+||Synval||(120) 100||135|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]]||
+||Soul Edge (Complete) ||135||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Lose life with any form of strikes[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-leachh.png | Dealing damage to an opponent makes you gain life back | icon-24]][[/span]][[span class="cell-td"]]Dealing damage to an opponent makes you gain life back[[/span]][[/span]]||
+||Orichalcum||120||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-chgspdup.png | Speed Up Soul Charge | icon-24]][[/span]][[span class="cell-td"]]Speed Up Soul Charge[[/span]][[/span]]||
+||Memento||100||150|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+
++ Taki
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||Rekki-Maru & Mekki-Maru||100||100|| ||
+||Kunai||120||70|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-short.png | Your weapon is shorter | icon-24]][[/span]][[span class="cell-td"]]Your weapon is shorter[[/span]][[/span]]||
+||Slicer||100||(120) 100|| ||
+||Kagekiri||100||135|| ||
+||Yoroitoshi||(SC140) 100||130|| ||
+||Fumakugi||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shaved.png | Takes 20% shave damage | icon-24]][[/span]][[span class="cell-td"]]Takes 20% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-leachs.png | Gain life from any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Gain life from any form of strikes[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-short.png | Your weapon is shorter | icon-24]][[/span]][[span class="cell-td"]]Your weapon is shorter[[/span]][[/span]]||
+||Silent Edge||80||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]]||
+||Kamizoroe||80||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-aspd.png | Soul Charge Attack Speed Up | icon-24]][[/span]][[span class="cell-td"]]Soul Charge Attack Speed Up[[/span]][[/span]]||
+||Soul Edge (Complete) ||140||60|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Lose life with any form of strikes[[/span]][[/span]]||
+||Kris Naga||140||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scregen.png | Soul Charge Life Regain | icon-24]][[/span]][[span class="cell-td"]]Soul Charge Life Regain[[/span]][[/span]]||
+||Tabacco Pipes||80||120|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+
++ Talim
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||Syi Sarika & Loka Luha||100||100|| ||
+||Wind Guide||100||(84) 70|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 40% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 40% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scnd.png | Soul Charge null counter | icon-24]][[/span]][[span class="cell-td"]]Soul Charge null counter[[/span]][[/span]]||
+||Tonfa||85||80|| ||
+||Side Harpe||(SC84) 60||100|| ||
+||Double Crescent Blade||130||130|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]]||
+||Chapu||130||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shaved.png | Takes 20% shave damage | icon-24]][[/span]][[span class="cell-td"]]Takes 20% shave damage[[/span]][[/span]]||
+||Cao Ankana||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-sap.png | Life drains over time | icon-24]][[/span]][[span class="cell-td"]]Life drains over time[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 30% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 30% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-note.png | Longer reach only for the right hand | icon-24]][[/span]][[span class="cell-td"]]Longer reach only for the right hand[[/span]][[/span]]||
+||Malia Kari||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drainh.png | Dealing damage to an opponent also deals damage to you | icon-24]][[/span]][[span class="cell-td"]]Dealing damage to an opponent also deals damage to you[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-note.png | Longer reach only for the left hand | icon-24]][[/span]][[span class="cell-td"]]Longer reach only for the left hand[[/span]][[/span]]||
+||Soul Edge (Complete) ||140||130|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-sap.png | Life drains over time | icon-24]][[/span]][[span class="cell-td"]]Life drains over time[[/span]][[/span]]||
+||Soul Calibur||100||(120) 100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-leachs.png | Gain life from any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Gain life from any form of strikes[[/span]][[/span]]||
+||Weight||80||120|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+
++ Voldo
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||Manas & Ayus||100||100|| ||
+||Cat Claws||130||(120) 100|| ||
+||Tofana Scissors||130||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-sap.png | Life drains over time | icon-24]][[/span]][[span class="cell-td"]]Life drains over time[[/span]][[/span]]||
+||Shame & Blame||80||80|| ||
+||Iron Ram||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]]||
+||Heavy Jar||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]]||
+||Karma & Mara||100||70|| ||
+||Full Moon||70||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]]||
+||Soul Edge (Complete) ||135||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 30% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 30% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Lose life with any form of strikes[[/span]][[/span]]||
+||Guillotine||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-chgspdup.png | Speed Up Soul Charge | icon-24]][[/span]][[span class="cell-td"]]Speed Up Soul Charge[[/span]][[/span]]||
+||Tambourines||80||120|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+
++ Xianghua
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||No Name||100||100|| ||
+||Kard||(SC98) 70||100|| ||
+||Northern Star||(120) 100||(120) 100|| ||
+||Soul Calibur (Evil) ||(120) 100||130|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scsap.png | Soul Charge Life Drain | icon-24]][[/span]][[span class="cell-td"]]Soul Charge Life Drain[[/span]][[/span]]||
+||Kopis||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 40% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 40% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-short.png | Your weapon is shorter | icon-24]][[/span]][[span class="cell-td"]]Your weapon is shorter[[/span]][[/span]]||
+||Qi Xing Sword||80||120|| ||
+||Krita-Yuga||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scregen.png | Soul Charge Life Regain | icon-24]][[/span]][[span class="cell-td"]]Soul Charge Life Regain[[/span]][[/span]]||
+||Blue Storm||120||120|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]]||
+||Soul Edge (Complete) ||(SC168) 120||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Lose life with any form of strikes[[/span]][[/span]]||
+||Soul Calibur||120||(120) 100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-leachs.png | Gain life from any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Gain life from any form of strikes[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scnd.png | Soul Charge null counter | icon-24]][[/span]][[span class="cell-td"]]Soul Charge null counter[[/span]][[/span]]||
+||Calligraphy Brush||80||120|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+
++ Yoshimitsu
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||Yoshimitsu||100||100|| ||
+||Shiranui||(SC168) 120||135|| ||
+||Kastane||130||(120) 100|| ||
+||Zantetsuken||130||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 30% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 30% shave damage[[/span]][[/span]]||
+||Dha||(84) 70||100|| ||
+||Kagekiyo||(SC140) 100||130|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-sap.png | Life drains over time | icon-24]][[/span]][[span class="cell-td"]]Life drains over time[[/span]][[/span]]||
+||Pakayun||100||130|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-aspd.png | Soul Charge Attack Speed Up | icon-24]][[/span]][[span class="cell-td"]]Soul Charge Attack Speed Up[[/span]][[/span]]||
+||Monohoshizao||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drains.png | Lose life with any form of strikes | icon-24]][[/span]][[span class="cell-td"]]Lose life with any form of strikes[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]]||
+||Soul Edge (Complete) ||140||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-leachh.png | Dealing damage to an opponent makes you gain life back | icon-24]][[/span]][[span class="cell-td"]]Dealing damage to an opponent makes you gain life back[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-deblock.png | Unable to block attacks. Blocking defense become 110% | icon-24]][[/span]][[span class="cell-td"]]Unable to block attacks. Blocking defense become 110%[[/span]][[/span]]||
+||Hihiirokane||130||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scd.png | Soul Charge defense up | icon-24]][[/span]][[span class="cell-td"]]Soul Charge defense up[[/span]][[/span]]||
+||Shephard Crook||80||120|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+
++ Yun-seong
+||~ Weapon Name ||~ Attack ||~ Defense ||~ Extra Effects ||
+||White Storm||100||100|| ||
+||Machete||100||140|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 20% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 20% shave damage[[/span]][[/span]]||
+||Khanjar||100||80|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-short.png | Your weapon is shorter | icon-24]][[/span]][[span class="cell-td"]]Your weapon is shorter[[/span]][[/span]]||
+||Xiao Lian||100||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-drainh.png | Dealing damage to an opponent also deals damage to you | icon-24]][[/span]][[span class="cell-td"]]Dealing damage to an opponent also deals damage to you[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]]||
+||Giant Butcher Knife||130||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-short.png | Your weapon is shorter | icon-24]][[/span]][[span class="cell-td"]]Your weapon is shorter[[/span]][[/span]]||
+||Cheng Ying||80||120|| ||
+||Ramdao||100||(120) 100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shavea.png | Does 20% shave damage | icon-24]][[/span]][[span class="cell-td"]]Does 20% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-leachh.png | Dealing damage to an opponent makes you gain life back | icon-24]][[/span]][[span class="cell-td"]]Dealing damage to an opponent makes you gain life back[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scnd.png | Soul Charge null counter | icon-24]][[/span]][[span class="cell-td"]]Soul Charge null counter[[/span]][[/span]]||
+||Blue Thunder||(102) 85||100|| ||
+||Soul Edge (Complete) ||135||100|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shaved.png | Takes 50% shave damage | icon-24]][[/span]][[span class="cell-td"]]Takes 50% shave damage[[/span]][[/span]]||
+||Han Guang||100||110|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-shaved.png | Takes 10% shave damage | icon-24]][[/span]][[span class="cell-td"]]Takes 10% shave damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-long.png | Your weapon is longer | icon-24]][[/span]][[span class="cell-td"]]Your weapon is longer[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-cscd.png | Constant Soul Charge damage | icon-24]][[/span]][[span class="cell-td"]]Constant Soul Charge damage[[/span]][[/span]] [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-scsap.png | Soul Charge Life Drain | icon-24]][[/span]][[span class="cell-td"]]Soul Charge Life Drain[[/span]][[/span]]||
+||Child's Sword||80||120|| [[span class="cell-tr"]][[span class="cell-td"]][[image /img/sc/wdata-funny.png | Funny sound | icon-24]][[/span]][[span class="cell-td"]]Funny sound[[/span]][[/span]]||
+[[/div]]

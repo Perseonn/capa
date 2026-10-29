@@ -331,10 +331,7 @@ Utility Classes
 
 .text-smaller{font-size: calc(var(--base-font-size) * 0.8);}
 
-
-.table-neutral table.wiki-content-table{
-	margin-bottom: 0;
-}
+.table-neutral table.wiki-content-table{margin-bottom: 0;}
 
 .table-layout-auto table.wiki-content-table,
 .table-neutral table.wiki-content-table,
@@ -348,13 +345,14 @@ Utility Classes
 }
 
 .table-neutral table.wiki-content-table tr,
-.table-neutral table.wiki-content-table tr:last-of-type {
-	border-bottom: 1px solid var(--color-capa-1);
-}
+.table-neutral table.wiki-content-table tr:last-of-type {border-bottom: 1px solid var(--color-capa-1);}
 
-.table-footnote table.wiki-content-table tr:last-of-type{
-	border-bottom: 0px;
-}
+.table-footnote table.wiki-content-table tr:last-of-type{border-bottom: 0px;}
+
+.table-layout-auto.table-sc2-weapon th:nth-child(1){width:20%;}
+.table-layout-auto.table-sc2-weapon th:nth-child(2){width:10%;}
+.table-layout-auto.table-sc2-weapon th:nth-child(3){width:10%;}
+.table-layout-auto.table-sc2-weapon th:nth-child(4){width:60%;}
 
 /*
 ==============================================================================
@@ -1046,20 +1044,23 @@ PSO2 Navigation
 ==============================================================================
 */
 
-.weapon-description-container{
+.weapon-description-container,
+.cell-tr{
 	display: table-row;
-	font-size: calc(var(--base-font-size) * 0.9);
 }
+
 .ability-icon-container,
-.weapon-description {
+.weapon-description,
+.cell-td {
 	display: table-cell;
 	vertical-align: middle;
 	padding: 4px;
 }
 
-.ability-icon{
-	width:24px;
-	height:24px;
+.ability-icon,
+.icon-24{
+	min-width:24px;
+	min-height:24px;
 }
 
 

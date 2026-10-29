@@ -731,6 +731,16 @@
     },
     {
         "category": "guides",
+        "slug": "soulcalibur-2",
+        "sourceName": "guides_soulcalibur-2",
+        "url": "/guides/soulcalibur-2/",
+        "title": "Soulcalibur II",
+        "author": "Buster Wolf",
+        "updated": "2017-06-05",
+        "wip": false
+    },
+    {
+        "category": "guides",
         "slug": "soulcalibur-3",
         "sourceName": "guides_soulcalibur-3",
         "url": "/guides/soulcalibur-3/",
