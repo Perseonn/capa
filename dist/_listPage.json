@@ -81,6 +81,16 @@
     },
     {
         "category": "articles",
+        "slug": "metroid-vs-metroidvania",
+        "sourceName": "articles_metroid-vs-metroidvania",
+        "url": "/articles/metroid-vs-metroidvania/",
+        "title": "Metroid-like vs Metroidvania",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-10-29",
+        "wip": false
+    },
+    {
+        "category": "articles",
         "slug": "mouryou-no-hako",
         "sourceName": "articles_mouryou-no-hako",
         "url": "/articles/mouryou-no-hako/",

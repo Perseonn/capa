@@ -1,0 +1,88 @@
+@title: Metroid-like vs Metroidvania
+@author: Perseonn Balthasaar
+@updated: 2026-10-29
+
+I've been wondering for a while about this, but there's no universally accepted checklist that defines whether a game is Metroid-like or Metroidvania. In common usage, a 2D side-scrolling game with an interconnected maps rather than discrete stages is often classified as a Metroidvania.
+
+However, I think these two genres can be distinctly defined, and I think this is a good definition.
+
++ The Broadest Interpretation
+A broad interpretation would be using the origin of the genre name:
+* **Metroid-like** is a game with similar design principles established by Metroid.
+* **Metroidvania** is a game with similar design principles established by Castlevania: Symphony of the Night. In software engineering terms, Metroidvania extends Metroid-like.
+
+That distinction alone is insufficient to create a detailed distinction, but I realize that the key difference is **progression**. With that knowledge in hand, let's draw a common trait and distinct trait between Metroid-like and Metroidvania,
+
++ The Traits
+Both Metroid-like and Metroidvania share several common traits:
+* 2D side-scrolling: Reaching zone in higher heights is a staple to both
+* Interconnected maps: A large, usually themed area that is connected to another large themed area
+* Exploration gated by acquiring something: a path to a certain area is blocked until player has acquired power-up somewhere in the explorable areas
+* Save room: Save room replenishes player health, devoid of danger, and saves the game's progress proper, not a temporary save
+
+++ The Distinction: Progression
+||~ Trait ||~ Metroid-like ||~ Metroidvania ||
+|| Exploration progression || Can be non-linear, backtracking may be optional or restricted || Nonlinear; backtracking is an integral part of progression ||
+|| Character progression || By only acquiring power-up || By both acquiring power-up and leveling up ||
+|| Character progression gate || Power-up gated by exploration || Leveling up is not gated. Tedious, but not gated ||
+|| Progression against hard enemy || Dexterity required because characters have soft power ceiling limited by exploration || Can overcome hard enemies by overleveling IFF overleveling can meaningfully substitute for dexterity ||
+
++++ About Overleveling
+One trait of Metroidvania is: Players can overcome hard enemies by overleveling IFF overleveling can meaningfully substitute for dexterity. The IFF condition means "if and only if", i.e. if and only if character progression permits sufficiently large, repeatable increases in combat effectiveness such that an otherwise hard enemy can be overcome primarily by increasing character level/statistical power.
+
+This criterion excludes games where leveling provides numerical growth but cannot meaningfully substitute for player skill, as is often the case with Souls-like progression. The distinction is between:
+> Player skill + finite character progression.
+And not:
+> Character progression can substitute for player skill.
+
+A Metroidvania has to provide a statistical escape route around the skill gate.
+
+++ Full Definition
+So the full definition list can be constructed as follows:
++++ Metroid-like
+# 2D side-scrolling
+# Interconnected world
+# Exploration gated by acquiring something
+# Save rooms
+# Character progression primarily through finite, exploration-dependent power-ups
+# Power-ups themselves are gated by exploration
+# Character power has a soft ceiling determined by exploration
+# Dexterity remains necessary for sufficiently difficult encounters
+
+In short, Metroid-like is:
+> Exploration ➡️ power ➡️ new exploration
+
+++ Metroidvania
+# 2D side-scrolling
+# Interconnected world
+# Exploration gated by acquiring something
+# Save rooms
+# Character progression includes repeatable/accumulative numerical progression
+# Numerical progression can be increased independently of discovering new traversal abilities
+# Overleveling can **meaningfully** compensate for player skill
+# Sufficiently difficult enemies can be defeated through character power rather than exclusively improved execution
+
+In short, Metroidvania is:
+> Exploration ➡️ resources ➡️ character power
+
++ Apply Traits to Games
+Now with the definition out, we can apply to existing games:
+||~ Game ||~ Progression model ||~ Genre ||
+|| Metroid Prime || Find power-ups through exploration only, but is a first-person shooter || Not Metroid-like ||
+|| Super Metroid || Find power-ups through exploration only || Metroid-like ||
+|| Metroid Dread || Find power-ups through exploration only || Metroid-like ||
+|| Hollow Knight || Find power-ups through exploration only. Despite nail upgrades, charms, masks, no conventional leveling is present. ||	Metroid-like ||
+|| Castlevania: Lament of Innocence || Has whip power ups, equipments, but no leveling and, is a 3rd person 3D action || Not Metroid or Metroidvania ||
+|| Castlevania: Aria of Sorrow || Leveling is a meaningful upgrade method. || Metroidvania ||
+|| Castlevania: Symphony of the Night || Leveling is a meaningful upgrade method. || Metroidvania ||
+|| Castlevania: Symphony of the Night, Richter Mode || No leveling, power-ups through exploration only || Metroid-like ||
+|| Bloodstained: Ritual of the Night || Leveling is a meaningful upgrade method. || Metroidvania ||
+
+Voila! Two distinct genre that has clear definition!
+
++ The Case of Carrion
+The indie game Carrion is a unique specimen (ha!). Carrion lacks power to become a statistical abomination, thus disqualifies it as Metroidvania; and while backtrack are limited and requires power up to explore further, each power up requires player to detach biomass and control the detached biomass, thus becomes much weaker. Otherwise, it fully match the traits of Metroid-like.
+
+But seriously? A game where progression is a downgrade? Is this the Anti-Metroid? Imagine Samus finding the Varia Suit, then its description is:
+> Congratulations! You can now survive extreme temperatures. Unfortunately, your arm cannon is unusable because it has gaps that can compromise the suit.
+Wait, isn't that pretty close to Metroid Dread... Ugh. I am not replaying that game.

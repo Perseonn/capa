@@ -2,7 +2,7 @@
 
 [[include comp:splash
 |splash-class=full-height
-|splash-style=background-image:url('/assets/%%category%%/%%name%%/%%name%%-splash.avif');
+|splash-style=background-image:linear-gradient(0deg, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0) 25%),url('/assets/%%category%%/%%name%%/%%name%%-splash.avif');
 |text-title=%%title%%
 |text-sub-title=Written by %%created_by%%
 |text-extra=Published on %%updated_at%%

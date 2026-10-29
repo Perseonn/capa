@@ -4,7 +4,7 @@
 [[div_ class="splash-container gradient-line line-bottom-4 {$splash-class}" style="{$splash-style}"]]
 [[div_ class="title-container p-4"]]
 
-[[div_ class="page-extra stroke {$text-extra-class}"]]
+[[div_ class="page-extra strong stroke {$text-extra-class}"]]
 [[span class="visible {$text-extra-icon}"]] [[/span]] {$text-extra}
 [[/div]]
 

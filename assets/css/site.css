@@ -807,22 +807,28 @@ PAGE SPLASH, GRADIENT
 	color: var(--color-capa);
 }
 
-.splash-container .title-container .page-title{
-	font-family: var(--serif-font);
-	font-size: calc(var(--base-font-size) * 2 + 3.5vw);
-	line-height: calc(var(--base-font-size) * 2 + 3.5vw);
-}
 
 .splash-container .title-container .page-title.capa-title {
 	font-size: calc(var(--base-font-size)* 8 + 2vw);
 	line-height: calc(var(--base-font-size)* 8);
 }
 
+.splash-container .title-container .page-title{
+	font-family: var(--serif-font);
+	font-size: calc(var(--base-font-size) * 2 + 3.5vw);
+	line-height: calc(var(--base-font-size) * 2 + 3.5vw);
+}
+
 .splash-container .title-container .breadcrumb,
 .splash-container .title-container .page-sub-title,
 .splash-container .title-container .page-sub-title .printuser,
 .splash-container .title-container .page-sub-title .odate{
-	font-size: calc(var(--base-font-size) * 2);
+	font-size: calc(var(--base-font-size) * 1.8);
+}
+
+.splash-container .title-container .page-extra{
+	font-size: calc(var(--base-font-size) * 1.2);
+	padding-top:0.5rem;
 }
 
 .splash-container{
