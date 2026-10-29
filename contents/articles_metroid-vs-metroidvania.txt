@@ -52,7 +52,7 @@ So the full definition list can be constructed as follows:
 In short, Metroid-like is:
 > Exploration ➡️ power ➡️ new exploration
 
-++ Metroidvania
++++ Metroidvania
 # 2D side-scrolling
 # Interconnected world
 # Exploration gated by acquiring something
