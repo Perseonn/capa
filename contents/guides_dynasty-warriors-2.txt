@@ -1,6 +1,6 @@
 @title: Dynasty Warriors 2
 @author: Buster Wolf
-@updated: 2025-31-01
+@updated: 2025-01-31
 
 Unlike [[link /guides/dynasty-warriors | Dynasty Warriors]] which was a fighting game Dynasty Warriors 2 was the start of the 1 vs 100 Musou style of game play you are familiar with nowadays. There is not much to unlock or cover with Dynasty Warriors 2 so this guide encompasses all you can do in it.
 
