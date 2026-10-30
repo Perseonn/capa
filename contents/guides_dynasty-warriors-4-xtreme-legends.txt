@@ -507,40 +507,40 @@ All Lv. 11 weapons have Power +60 and will come with 4 items attached to them, t
 [[image w11-zhanghe.avif | Zhang He's Infernal Talon]]
 
 +++ Zhen Ji
-* **Lv. 11 Weapon:** Twilight Flute
 * **Restrictions:** No bodyguards.
 * **Requirement:** Choose your side, defeat all officers and sub-officers & get 150 KOs.
 * **Suggested Items:** Orb: Vorpal, Master of Musou, Way of Musou, Wind Scroll, Elixir & Tortoise Amulet.
  * Yuan Xi's side is harder due to him charging in recklessly whereas Cao Pi's side will mostly be you by yourself unless another officer (usually Man Chong) is in with you. If you defeat an officer without defeating the sub-officer(s) add 50 KOs to your total per sub-officer missed. This setup allows for Zhen Ji's musou to deal Vorpal damage which speeds up the process of officer killing and getting troop KOs quicker.
+[[image w11-zhenji.avif | Zhen Ji's Twilight Flute]]
 
 +++ Cao Ren
-* **Lv. 11 Weapon:** Kai
 * **Restrictions:** No bodyguards.
 * **Requirements:**
 Within 10 minutes
 * Get Niu Jin's morale to 8 stars & defeat the 2 Gate Captains.
 * Defeat all officers.
  * Niu Jin's morale goes up for every 15 KOs you get, it also goes up when you defeat a Gate Captain.
+[[image w11-caoren.avif | Cao Ren's Kai]]
 
 + Wu Weapons
 +++ Zhou Yu
-* **Lv. 11 Weapon:** Scion Sword
 * **Restrictions:** No items.
 * **Requirement:** Defeat all officers except Zhuge Liang and get 50 KOs.
  * Zhang Fei, Guan Yu & Zhao Yun can challenge you to a duel, but only two of the three will do it.
+[[image w11-zhouyu.avif | Zhou Yu's Scion Sword]]
 
 +++ Lu Xun
-* **Lv. 11 Weapon:** Raptor
 * **Restrictions:** None.
 * **Requirement:** Defeat Guan Xing & Zhao Yun in under 11 minutes without getting lost in the maze.
+[[image w11-luxun.avif | Lu Xun's Raptor]]
 
 +++ Taishi Ci
-* **Lv. 11 Weapon:** Demon Slayer
 * **Restrictions:** No bodyguards.
 * **Requirements:**
 * Encounter Hua Xin with 9 or more units and save him.
 * Gather 12 units and get 450 KOs.
  * There are 15 total units you can obtain, if you lose more than 4 you will not get the weapon.
+[[image w11-taishici.avif | Taishi Ci's Demon Slayer]]
 
 +++ Sun Shang Xiang
 * **Lv. 11 Weapon:** Astral Chakram
