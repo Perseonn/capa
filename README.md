@@ -20,7 +20,7 @@ Visit https://capa.asoh.xyz for the conversion result. It's hosted on Github Pag
 * CAPA Engine can be used with your own Wikidot backup files. The licensing restrictions above apply to the included CAPA source content, not automatically to content you supply yourself.
 
 ### Compatibility Limitations
-* Using `/dist` folder, or any folder that isn't the root folder can pose navigation problem during live testing, but not a problem when using a custom domain.
+* Using `/dist` folder, or any folder that isn't the root folder (`./`) can pose navigation problem during live server testing locally or on Github, but not a problem when using a custom domain.
 * **Page metadata:** Wikidot backups do not preserve all page metadata, so page titles and last-updated dates must be reassigned using `@title` and `@updated`. See **Custom Meta** below for details.
 * **Image syntax:** The basic [[image image-name.png]] syntax is supported, but more complex implementations differ from Wikidot. For example, `[[image link=""]]` is not supported. See **Custom Syntax #2 (Images)** below for details.
 * **Link syntax:** CAPA Engine uses its own `[[link /some-page]]` syntax. Wikidot's standard link syntaxes, including `[/page Link Text]`, `[[/page Link Text]]`, and `[[[/page | Link Text]]]`, are not supported. This was a deliberate simplification of the parsing algorithm and my limited experience with parser design.
