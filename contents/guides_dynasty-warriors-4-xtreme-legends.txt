@@ -549,18 +549,21 @@ Within 10 minutes
 * Unite with the 4 women soldiers within 3 minutes of their discovery and have 200 KOs before defeating Xu Sheng & Ding Feng.
 * Do not let Zhou Tai seal the retreat point and cross the bridge with Liu Bei.
  * Despite what sounds like a time limit you can take as long as you want. The women soldiers spotted message only pops up if you are within a range of them and the first one always joins as the stage starts. If you have less than 200 KOs after defeating Xu Sheng & Ding Feng the weapon is lost if Zhao Yun appears as reinforcements which happens if you have less than 200. Zhou Tai will retreat to the South after having half his health depleted or Jiang Qin is defeated before him. If doing this in 2 Player both players have to get 200 KOs for Zhao Yun to not appear as reinforcements.
+[[image w11-sunshangxiang.avif | Sun Shang Xiang's Astral Chakram]]
 
 +++ Sun Jian
 * **Lv. 11 Weapon:** King of Wu
 * **Restrictions:** None.
 * **Requirement:** Defeat Hua Xiong, Hu Zhen & Lu Bu as well as defeat all Gate Captains and encounter Dong Zhuo in under 6 minutes.
 * **Suggested Items:** Power Rune, Tiger Amulet, Wind Scroll + your choices.
+[[image w11-sunjian.avif | Sun Jian's King of Wu]]
 
 +++ Sun Quan
 * **Lv. 11 Weapon:** Legacy
 * **Restrictions:** No items.
 * **Requirement:** Defeat Zhang Liao 3 times and get 500 KOs with no ally defeated.
  * It is best to force Zhang Liao out early and get your KOs before you defeat him the first time to help your allies survive longer since his morale will always go back up to 8 when he returns. Also you need to finish the stage by stealing a horse which Zhang Liao conveniently always comes with to get the weapon, it is okay if one ally dies.
+[[image w11-sunquan.avif | Sun Quan's Legacy]]
 
 +++ Lu Meng
 * **Lv. 11 Weapon:** Mystic Hunter
@@ -571,6 +574,7 @@ Within 10 minutes
 * Guan Yu enraged, no ally officer defeated and get 50 KOs.
 * **Suggested Items:** Orb: Ice, Tiger Amulet, Wind Scroll, Tortoise Amulet, Elixir + your choice.
  * You have to get 50 KO's after defeating Guan Ping. Also if allies defeat Zhou Cang or Liao Hua you will still get the weapon.
+[[image w11-lumeng.avif | Lu Meng's Mystic Hunter]]
 
 +++ Gan Ning
 * **Lv. 11 Weapon:** Leviathan
@@ -580,6 +584,7 @@ Within 10 minutes
 * Defeat Cao Xiu or Zhang Liao.
 * "Damage to the Wei Army is spreading!" message happens three times.
  * The confusion gets quelled at around 8:10 left in the stage. The amount of troops to defeat to spread damage isn't consistent due to variance so you need to see the message 3 times.
+[[image w11-ganning.avif | Gan Ning's Leviathan]]
 
 +++ Huang Gai
 * **Lv. 11 Weapon:** Shade
