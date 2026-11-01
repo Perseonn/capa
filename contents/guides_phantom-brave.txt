@@ -20,8 +20,8 @@ Before starting the game has a variety of units available, you will want to keep
 These are units that have an external benefit for being on the island, while some are recommend to not be used for battle their services have better payoffs the higher their level so Confine them in safety so they can get EXP for showing up.
 
 * Merchant - You can buy weapons from her that are around her level. After battle she has a chance to bring some Bordeaux. Her wares also increase in rank and title quality as her levels increase as follows.
-| | Item Rank | | 1-3 | | 4 (Lv3) | | 5 (Lv8) | | 6 (Lv15) | | 7 (Lv24) | | 8 (Lv35) | | 9 (Lv48) | | 10 (Lv63) ||
-| | Title Quality | | 1 | | 2 (Lv7) | | 3 (Lv17) | | 4 (Lv31) | | 5 (Lv71) | | 6 (Lv127) | | | | ||
+|| Item Rank || 1-3 || 4 (Lv3) || 5 (Lv8) || 6 (Lv15) || 7 (Lv24) || 8 (Lv35) || 9 (Lv48) || 10 (Lv63) ||
+|| Title Quality || 1 || 2 (Lv7) || 3 (Lv17) || 4 (Lv31) || 5 (Lv71) || 6 (Lv127) || || ||
 * Healer/Owl Sage - They heal and revive characters similar to the Hospital feature in other games.
 * Witch - She can arrange your specials and delete ones you don't want, her level doesn't matter.
 * Dungeon Monk - He can make random dungeons which are useful for endgame leveling, he can get you out of dungeons he made with his Return special. It can be transferred to others, but will cost much much more if not used by him.
@@ -84,12 +84,12 @@ Items: Stone (HP Heal 30% & Reinforce 30%), Weed, Old Tree, Tree, Rock
 **1-2 Barren Earth**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Slime | | | | EXP X2 (U) ||
-| | Slime | | | | DEF x2 (U) ||
-| | Slime | | | | Reinforce x2 (U) ||
-| | Slime | | | | ATK x2 (U) ||
-| | Slime x2 | | | | ||
-| | Blacksmith | | | | ||
+|| Slime || || EXP X2 (U) ||
+|| Slime || || DEF x2 (U) ||
+|| Slime || || Reinforce x2 (U) ||
+|| Slime || || ATK x2 (U) ||
+|| Slime x2 || || ||
+|| Blacksmith || || ||
 Items: Flower, Rock, Old Tree, Tree, Weed, Seed, Starfish, Cactus
 
 **1-3 Primitive Altar**
@@ -97,8 +97,8 @@ Enemy: !Raphael?, Slime x9
 ! Removed on repeated version
 First time repeated neutrals
 ||~ Unit ||~ Items ||~ Protection ||
-| | Owl Knight | | | | SPD +50% (U) ||
-| | Owl Sentry | | | | SPD +50% (U) ||
+|| Owl Knight || || SPD +50% (U) ||
+|| Owl Sentry || || SPD +50% (U) ||
 Items: Flower, Weed, Rock, Old Tree, Seed, Starfish
 
 +++ Episode 2 Walnut
@@ -106,8 +106,8 @@ Items: Flower, Weed, Rock, Old Tree, Seed, Starfish
 **2-1 Sylph's Melody**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Fusionist | | | | Money & EXP +50% (U) ||
-| | Summon x4 | | | | ||
+|| Fusionist || || Money & EXP +50% (U) ||
+|| Summon x4 || || ||
 Items: Weed, Mushroom, Dead Tree, Driftwood, Bomb
 
 **2-2 Life's Cradle**
