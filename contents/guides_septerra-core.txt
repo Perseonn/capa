@@ -2,7 +2,9 @@
 @author: Perseonn Balthasaar
 @updated: 2026-02-08
 
-Septerra Core is an ATB-based RPG and can be considered the western equal of Final Fantasy VII. However, once you moved shell, the game become "Where the heck do I go next" kind of game that pits you against nearly moon-logic on how to trigger the next story event. There's a part that you need to makeshift a boat to cross a lake while you have a ship, or needing laser and not use Runner, your member whose entire repertoire of attacks are laser-based.
+Septerra Core is an ATB-based RPG and could be considered the Western counterpart to Final Fantasy VII. However, once you start moving between shells, the game quickly becomes a "Where the heck do I go next?" kind of game, often pitting you against some seriously moon-logic progression requirements.
+
+For instance, there are situations where you need to makeshift a boat to cross a lake despite already having an airship, or where you need a laser to progress but can't use Runner, whose signature attacks are laser-based. Instead, you'll need another party member whose signature attacks are bullet-based.
 
 If you are brave enough to explore the 7 shells of Septerra Core, prepare for giant amount of tedium.
 
@@ -44,7 +46,7 @@ If you are brave enough to explore the 7 shells of Septerra Core, prepare for gi
 ]]
 
 [[include comp:alert-info
-|text=The game has a distinction between talk about certain item and use certain item on people. This guide specifically note each distinct thing to do with certain item in order to progress. If something was missed, I apologize.
+|text=The game distinguishes between talking to someone about a particular item and actually using that item on them. This guide explicitly documents both interactions whenever they are required for progression. If I happen to miss something, my apologies!
 ]]
 
 + The Beginning
@@ -148,7 +150,7 @@ If you are brave enough to explore the 7 shells of Septerra Core, prepare for gi
 * Go to Shipping Transport
  * Talk to Captain with Maya, then about Bounty Hunters
 * Go to Bounty Hunter District {{LB412}}
- * Bird #4: Give Bird Seed to a light purple bird inside room furthesrt from the entrance.
+ * Bird #4: Give Bird Seed to a light purple bird inside room furthest from the entrance.
  * Use the BH Hideout Key on the machinery (one that has a valve handle) next to a closed large sewer pipe on the lower level
 * Go to Bounty Hunter Hideout
  * Talk to Araym in Area 2
@@ -166,7 +168,7 @@ If you are brave enough to explore the 7 shells of Septerra Core, prepare for gi
  * Exit to World Map
  * The passage you need to take is on rightmost of the screen.
 * Go to East Mountain Caverns
- * If you have Earplugs, you can kill the boss on the bottom-left exit of the area. Ctrl + F3 cheat is recomended due to the duration of the fight.
+ * If you have Earplugs, you can kill the boss on the bottom-left exit of the area. Ctrl + F3 cheat is recommended due to the duration of the fight.
 * Go to Mining Ruins
  * Get Biolum Lantern
  * Get Explosives
@@ -191,7 +193,7 @@ If you are brave enough to explore the 7 shells of Septerra Core, prepare for gi
   * Why do the plant open up from hearing Helgak mating calls? Was it an obscure book from the library?
 * Use Biolum Lantern on the red plant.
 * Get Biolum Lantern Full
-* Reminder: Kill the boss at East Mountain Caverns! (Earplugs required, Ctrl + F3 cheat is recomended due to the duration of the fight.)
+* Reminder: Kill the boss at East Mountain Caverns! (Earplugs required, Ctrl + F3 cheat is recommended due to the duration of the fight.)
 * Go to Bone Village
  * Use the Biolum Lantern Full on the pillars
   * You cannot use the Biolum Lantern Full unless the boss at  East Mountain Caverns is dead.
@@ -293,7 +295,7 @@ If you are brave enough to explore the 7 shells of Septerra Core, prepare for gi
 * Go to ???, a forest in the right-most area of the map
  * Find a tree with 5 stones in front of it.
  * Check each stone from leftmost to the rightmost.
-  * Caution, the 3rd enemy is L46, 4th L50
+  * Caution, the 3rd enemy is L46, 4th is L50
   * Get Soulstone x2, Quick Gem, Earth Prism, and Spirit Guard
    * Apart from 2x Soulstone, the rest is a pretty lousy reward for the rather tough battle.
 
@@ -349,7 +351,7 @@ If you are brave enough to explore the 7 shells of Septerra Core, prepare for gi
  * Use the Yellow Palace Key on the pedestal with yellow orb
 * Go to B1 {{LA103}}
  * There are 4 switches: one in left path, one in right path, and the rest is on the opened door.
- * The boss puts up barrier. Defeat the tspheres first.
+ * The boss puts up barrier. Defeat the spheres first.
  * Get Green Palace Key
 * Go to Main Hall {{LA104}}
  * Use the Green Palace Key on the pedestal with green orb
@@ -357,7 +359,7 @@ If you are brave enough to explore the 7 shells of Septerra Core, prepare for gi
  * The bosses somehow hurt each other.
   * Start by using 1 gauge attack on red to kill Green, then 1 gauge attack on yellow to kill red, then kill yellow.
 
-+ Intermission 2
++ Intermission Part 2
 ++ Shell 6
 * Take Selina
  * Go to Barter Mall in Scumm Town
@@ -392,7 +394,7 @@ If you are brave enough to explore the 7 shells of Septerra Core, prepare for gi
  * Go to the right exit, this is the Right Wing
   * Get BreatherMask #2
  * Go Lab Main Hall
- * Go to the right exit to a differnt part of the Right Wing
+ * Go to the right exit to a different part of the Right Wing
   * Check the hazmat suit for MyomrMuscle and Core Relic (I think it was core relic, oops)
   * There are two Switches you need to use
    * Get BreatherMask #3
@@ -424,7 +426,7 @@ If you are brave enough to explore the 7 shells of Septerra Core, prepare for gi
  * Exit to top-left {{LG303}}
   * Go to top-right to talk to Yrkoon and Gabriel using Maya
    * Corgan is somehow extremely unhelpful here.
-  * SANITY WARNING, LOBO IS VERY KNOWN FOR HIS BEAM WEAPONRIES
+  * SANITY WARNING, AH YES, LOBO IS VERY KNOWN FOR HIS BEAM
    * If you didn't take Lobo, you need to go to the top-left exit {{LG302}} and flip 2 switches to go to World Map.
   * Back in {{LG303}}, take the top-right exit {{LG320}}
    * Use the Corite Lens on the Cable
@@ -432,12 +434,12 @@ If you are brave enough to explore the 7 shells of Septerra Core, prepare for gi
  * Talk to Layla about Wind City
 * Go to Library via South Farm's Tunnel
 * Arrive in Capitol Building {{LC311}}
- * This is a pretty stragihtforward dungeon
+ * This is a pretty straight forward dungeon
  * Go to Chosen Ship {{LA320}}
   * Get Affect All Fate Card and Achilles Heel Fate Card from Boss
 * Arrive at World Map
 * Go to Wind City
- * Get Spray Paint near the grafitty on the side of item shop (where they sell wrenches)
+ * Get Spray Paint near the graffiti on the side of item shop (where they sell wrenches)
 
 
 + The Core Confrontation
@@ -683,7 +685,7 @@ If you are brave enough to explore the 7 shells of Septerra Core, prepare for gi
  * Get Temple Key
 * Go to Earth Temple {{LH421}}
  * Switch 1 is near top-left lower-ground
- * Switch 2 is near middle-top, on the biggert higher-ground
+ * Switch 2 is near middle-top, on the bigger higher-ground
  * Switch 3 is on the bottom-right
  * Switch 4 and 5 is on the left and right of the double doors, lower-ground
  * Get Temple Key
@@ -738,7 +740,7 @@ If you are brave enough to explore the 7 shells of Septerra Core, prepare for gi
  * Maya's Path {{LA212}}
   * Save a different save, and go to the end of the hall.
   * Penultimate Boss can summon an undead minion with exactly 1000 HP. Use 2x Cornucopia to kill them
-  * Penultimate Boss can summonn a barrier. A Summmon Marduk on the Barrier will kill it. Remember, target the barrier.
+  * Penultimate Boss can summon a barrier. A Summon Marduk on the Barrier will kill it. Remember, target the barrier.
   * Last Boss requires Barrier-AffectAll at least. Speed-All and Cloak-All will also help
-  * Last Boss can clone himself. Use any attack-all attack to remove them, but he will immediately cast an attack that can do 300+ damage even when barriered. Cloak can make this attack miss almost all the time.
+  * Last Boss can clone himself. Use any attack-all attack to remove them, but he will immediately cast an attack that can do 300+ damage with Barrier on. Cloak can make this attack miss almost all the time.
 * The End
