@@ -621,36 +621,36 @@ Within 10 minutes
 
 + Others Weapons
 +++ Diao Chan
-* **Lv. 11 Weapon:** Muse
 * **Restrictions:** No items & No bodyguards.
 * **Requirement:** Defeat Hua Xiong in under 10 minutes.
  * It doesn't matter if you get detected, it just makes it harder as you have to face Lu Bu. Make sure to wait for the message as you can leave before it pops up meaning you have to do the stage again.
+[[image w11-diaochan.avif | Diao Chan's Muse]]
 
 +++ Lu Bu
-* **Lv. 11 Weapon:** Maelstrom
 * **Restrictions:** No bodyguards.
 * **Requirement:** Get 2000 KOs.
 * **Suggested Items:** Orb: Vorpal, Master of Musou, Way of Musou, Tortoise Amulet & Peacock Amulet.
  * The suggested items may seem weird to have a defensive build rather than an offensive one, this is due to the last hit of the True Musou having elemental properties of the Orb you have equipped. This is also so that you can kill troops away from officers so that you don't kill them by accident. If you feel safe being in Red health you can switch Way of Musou for Elixir. Also apparently you need 800 KOs before Liu Bei, Guan Yu & Zhang Fei show up, though that should be no problem to do if you keep away from killing officers to raise your KO count as Sun Jian & Cao Cao will retreat after enough troops have been defeated with them around.
+[[image w11-lubu.avif | Lu Bu's Maelstrom]]
 
 +++ Dong Zhuo
-* **Lv. 11 Weapon:** Pandemonium
 * **Restrictions:** None.
 * **Requirement:** Defeat all of the Eunuchs and get 100 KOs.
  * Yuan Shao being alive doesn't matter for the weapon, Wen Chou and Yan Liang don't need to be defeated either.
+[[image w11-dongzhuo.avif | Dong Zhuo's Pandemonium]]
 
 +++ Yuan Shao
-* **Lv. 11 Weapon:** Majesty
 * **Restrictions:** No bodyguards.
 * **Requirement:** Defeat all enemy generals except Gongsun Zan and get 100 KOs without prestige diminishing or dissatisfaction from Zhang He or Tian Feng.
  * If prestige diminishes once KO count becomes 200, if it diminishes a second time the weapon is lost. If Zhang He or Tian Feng are dissatisfied the weapon is lost. With the Bai Ma Calvary you simply need to knock them off of their horses to prevent their provoke to lower prestige.
+[[image w11-yuanshao.avif | Yuan Shao's Majesty]]
 
 +++ Zhang Jiao
-* **Lv. 11 Weapon:** Staff of Peace
 * **Restrictions:** None.
 * **Suggested Items:** Orb: Vorpal, Master of Musou, Way of Musou, Wind Scroll, Elixir & Tortoise Amulet.
 * **Requirement:** By 8 minutes into the stage only 1 enemy Gate Captain left while having over 100 KOs.
  * If you finish the stage in under 8 minutes while having over 100 KOs you will still get the weapon. This setup allows for Zhang Jiao's musou to deal Vorpal damage which speeds up the process of officer killing and getting troop KOs quicker, C4 is good for troop KOs while anyone hit by the musou will basically be dead if you aim slightly to the left of them from your view.
+[[image w11-zhangjiao.avif | Zhang Jiao's Staff of Peace]]
 
 +++ Meng Huo
 * **Lv. 11 Weapon:** King of Nanman
