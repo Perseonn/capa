@@ -124,7 +124,7 @@ Items: SpiriTree (Reinforce 20% & HP Heal 20%), Weed (HP Heal 10% & EXP x3), Wee
 
 Repeated version Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Fighter | | Dirk ||
+|| Fighter || Dirk ||
 He replaces Walnut.
 
 +++ Episode 3 Meeting Putty
