@@ -543,7 +543,6 @@ Within 10 minutes
 [[image w11-taishici.avif | Taishi Ci's Demon Slayer]]
 
 +++ Sun Shang Xiang
-* **Lv. 11 Weapon:** Astral Chakram
 * **Restrictions:** No bodyguards.
 * **Requirements:**
 * Unite with the 4 women soldiers within 3 minutes of their discovery and have 200 KOs before defeating Xu Sheng & Ding Feng.
@@ -552,21 +551,18 @@ Within 10 minutes
 [[image w11-sunshangxiang.avif | Sun Shang Xiang's Astral Chakram]]
 
 +++ Sun Jian
-* **Lv. 11 Weapon:** King of Wu
 * **Restrictions:** None.
 * **Requirement:** Defeat Hua Xiong, Hu Zhen & Lu Bu as well as defeat all Gate Captains and encounter Dong Zhuo in under 6 minutes.
 * **Suggested Items:** Power Rune, Tiger Amulet, Wind Scroll + your choices.
 [[image w11-sunjian.avif | Sun Jian's King of Wu]]
 
 +++ Sun Quan
-* **Lv. 11 Weapon:** Legacy
 * **Restrictions:** No items.
 * **Requirement:** Defeat Zhang Liao 3 times and get 500 KOs with no ally defeated.
  * It is best to force Zhang Liao out early and get your KOs before you defeat him the first time to help your allies survive longer since his morale will always go back up to 8 when he returns. Also you need to finish the stage by stealing a horse which Zhang Liao conveniently always comes with to get the weapon, it is okay if one ally dies.
 [[image w11-sunquan.avif | Sun Quan's Legacy]]
 
 +++ Lu Meng
-* **Lv. 11 Weapon:** Mystic Hunter
 * **Restrictions:** None.
 * **Requirements:**
 * Defeat Zhou Cang then Liao Hua quickly after.
@@ -577,7 +573,6 @@ Within 10 minutes
 [[image w11-lumeng.avif | Lu Meng's Mystic Hunter]]
 
 +++ Gan Ning
-* **Lv. 11 Weapon:** Leviathan
 *  **Restrictions:** No bodyguards.
 * **Requirements:**
 * Defeat Yue Jin & Li Dian before they quell the confusion.
@@ -587,42 +582,42 @@ Within 10 minutes
 [[image w11-ganning.avif | Gan Ning's Leviathan]]
 
 +++ Huang Gai
-* **Lv. 11 Weapon:** Shade
 * **Restrictions:** No items & No bodyguards. Start with 1/3 Life.
 * **Requirement:** Reach the Wei Ship without being discovered in under 3 minutes & 30 seconds.
  * Make your way to the center of the map while hugging the upper wall and approach the center gate from the South, when the defense force gets alerted drop a bomb and run to the right side wall while keeping them out of your sight. If you can make it past the gate before Ling Tong starts going South you can go to the Gate Captain that he started by and should move to the top left of the area and hide for a bit. Ling Tong & Lu Meng will eventually meetup and you will want to wait for Lu Meng to head back near the top right Gate Captain. When Lu Meng patrols again make a beeline for the Wei Ship after he has moved back down hopefully getting there before Gan Ning notices you and finishes his dialogue. You will want to stay near Lu Meng in bow view to keep him moving, but not too close that he comes after you.
+[[image w11-huanggai.avif | Huang Gai's Shade]]
 
 +++ Sun Ce
-* **Lv. 11 Weapon:** Hierophant
 * **Restrictions:** No bodyguards.
 * **Requirement:** After defeating Yu Ji's real body complete the stage within 1 minute and 50 seconds, also this must be done in under 5 minutes.
 * **Suggested Items:** Power Rune, Tiger Amulet, Wind Scroll & Art of War.
  * It doesn't matter how many times illusions appear.
+[[image w11-sunce.avif | Sun Ce's Hierophant]]
 
 +++ Da Qiao
-* **Lv. 11 Weapon:** Mortal Beauty
 * **Restrictions:** No items & No bodyguards.
 * **Requirements:**
 * Defeat the 3 Loyalists' prior to the rockslide trap in under 1 minute of their appearance, this must be done in under 6 minutes.
 * Get 300 KOs in under 15 minutes.
  * If Sun Ce kills a Loyalists it will not count. It is recommended to save after each Loyalists incase you don't kill the next one fast enough or Sun Ce takes your kill. On the last 2 Loyalists don't take the Speed Boots in the box on the right ridge of the rockslide trap as you will need it to run to the Loyalists that is further away from you.
+[[image w11-daqiao.avif | Da Qiao's Mortal Beauty]]
 
 +++ Xiao Qiao
-* **Lv. 11 Weapon:** Fatal Grace
 * **Restrictions:** No items & No bodyguards.
 * **Requirements:**
 * Get Xiahou Yuan to appear with more than 15 minutes left and meet up with Da Qiao.
 * Defeat Xiahou Yuan & get 100 KOs.
  * Xiahou Dun, Xu Zhu, Dian Wei & Cao Ren will re-appear if you defeat them before Cao Cao's 4th appearance which eats up time, so damage them enough so you can kill them at the end. Xiahou Yuan appears after all other officers have been defeated after Cao Cao's 4th withdrawal.
+[[image w11-xiaoqiao.avif | Xiao Qiao's Fatal Grace]]
 
 +++ Zhou Tai
-* **Lv. 11 Weapon:** Setsuna
 * **Restrictions:** None.
 * **Requirements:**
 * Rescue Sun Quan in under 1 minute and 30 seconds
 * Rescue all 4 of his sub officers
 * Defeat both Taishi Ci and Liu Yong & get 250 KOs
  * If you reach Sun Quan after a minute and half has passed or if one of his sub officers is defeated, get 500 KOs instead.
+[[image w11-zhoutai.avif | Zhou Tai's Setsuna]]
 
 + Others Weapons
 +++ Diao Chan
