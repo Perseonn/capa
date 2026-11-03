@@ -653,53 +653,52 @@ Within 10 minutes
 [[image w11-zhangjiao.avif | Zhang Jiao's Staff of Peace]]
 
 +++ Meng Huo
-* **Lv. 11 Weapon:** King of Nanman
 * **Restrictions:** No bodyguards.
 * **Requirement:** Defeat all enemy officers (except Sima Zhao) while saving all allies (except Zhu Rong).
 * **Suggested Items:** Orb: Vorpal, Master of Musou, Way of Musou, Wind Scroll & Elixir.
  * You can get an early start on Xiahou He before Yang Feng shows up, if you defeat Xiahou He before he arrives it will count as saving him. Deng Ai & Zhong Hui should not be approached until the Xiahou's have been dealt with. You don't have to keep your allies alive after saving them. This setup allows for Meng Huo's musou to deal Vorpal damage which speeds up the process of defeating the officers.
+[[image w11-menghuo.avif | Meng Huo's King of Nanman]]
 
 +++ Zhu Rong
-* **Lv. 11 Weapon:** Fire Goddess
 * **Restrictions:** No items & No bodyguards.
 * **Requirement:** Encounter Zhuge Liang in under 4 minutes without being discovered.
  * The first messenger by Wang Ping is unavoidable so defeat him and his messenger. You can practice the level to get a feel for the layout of the Guard Troops to not be spotted by them.
+[[image w11-zhurong.avif | Zhu Rong's Fire Goddess]]
 
 + Edit Character Weapons
 +++ Greatsword
-* **Lv. 11 Weapon:** Fengshen Sword
 * **Legend Stage:** Battle of Niu Zhu (Zhou Tai)
 * **Restrictions:** None.
 * **Requirements:**
 * Rescue Sun Quan then his 4 sub-officers.
 * Defeat Taishi Ci & Liu Yong and get 500 KO's while defeating all Gate Captains
  * If a sub-officer dies after they are all saved you will still get the weapon if you get 500 KO's and defeat all Gate Captains, Gan Ning can potentially defeat Liu Yong which doesn't disqualify you from the weapon.
+[[image w11-greatsword.avif | Greatsword Fengshen Sword]]
 
 +++ Rapier
-* **Lv. 11 Weapon:** Fengshen Rapier
 * **Legend Stage:** Encounter at Yi Province (Zhen Ji)
 * **Restrictions:** No bodyguards.
 * **Requirement:** Choose your side, defeat all officers and sub-officers get 150 KOs and defeat all Gate Captains.
 This is the same as Zhen Ji except you have to defeat all Gate Captains, you have to get the KOs before defeating all of the Gate Captains or you won't get the message. If you defeat an officer without defeating the sub-officer(s) add 50 KOs to your total per sub-officer missed.
+[[image w11-rapier.avif | Rapier Fengshen Rapier]]
 
 +++ Sword
-* **Lv. 11 Weapon:** Phoenix Wing
 * **Legend Stage:** Dong Zhuo and the Alliance (Sun Jian)
 * **Restrictions:** None.
 * **Requirement:** Defeat Hua Xiong, Hu Zhen & Lu Bu as well as defeat all Gate Captains and encounter Dong Zhuo in under 6 minutes.
 * **Suggested Items:** Power Rune, Tiger Amulet, Wind Scroll + your choices. Secret of Orbs if using Vorpal Orb.
  * This is exactly the same as Sun Jian's weapon.
+[[image w11-sword.avif | Edit Sword Phoenix Wing]]
 
 +++ Spear
-* **Lv. 11 Weapon:** Cyclone
 * **Legend Stage:** The Chang Ban Run (Zhao Yun)
 * **Restrictions:** No bodyguards.
 * **Requirement:** Find Liu Chan in under 2 minutes, defeat all officers, get 200 KOs and reach the retreat point with Liu Bei within 14 minutes & 30 seconds.
 * **Suggested Items:** (Spear 1 & 3) Orb: Ice, Tiger Amulet, Wind Scroll, Tortoise Amulet + your choices. (Spear 2) Power Rune, Horned Helm, Tiger Amulet, Cavalry Armor & Elixir.
 This is exactly the same as Zhao Yun's weapon with an extra minute added. Sub-officers not required for this weapon.
+[[image w11-spear.avif | Spear Cyclone]]
 
 +++ Pike
-* **Lv. 11 Weapon:** Obliteration
 * **Legend Stage:** Siege of Mai Castle (Lu Meng)
 * **Restrictions:** None.
 * **Requirements:**
@@ -708,6 +707,7 @@ This is exactly the same as Zhao Yun's weapon with an extra minute added. Sub-of
  * Guan Yu enraged, no ally officer defeated, get 50 KOs and defeat the other Gate Captain.
 * **Suggested Items:** Orb: Ice, Tiger Amulet, Wind Scroll, Tortoise Amulet & Elixir.
  * This is exactly the same as Lu Meng except you have to get the KOs before defeating the second Gate Captain.
+[[image w11-pike.avif | Pike Obliteration]]
 
 + Items
 This will list all items in the game you can potentially equip to your characters. Note that some items can only be obtained during Musou Mode.
@@ -947,3 +947,6 @@ Defense Stat: Zhang Fei on Normal difficulty with duels.
 Finding weapon hard to get due to the AI being too aggressive? Here's a way to make them less aggressive making these be easier.
 
 Start the stage on Expert and make a save immediately, go to the options and change the difficulty to Beginner and start a different stage with any character. After the stage has loaded in battle soft reset (Start+Select) and go back and continue to your original save, enemies will now be more passive.
+
++ Level 11 Weapons Showcase
+[[youtube E0SoQ0NNlTE]]
