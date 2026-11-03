@@ -452,7 +452,7 @@ If Li Jue is the only officer left he will try to flee, as long as he's not alon
  * Doesn't have to be in a duel.
 
 + Dim Sum, Musou Wine & Item Box locations
-Stages might have a Dim Sum which increases max Health by 10 or a Musou Wine which increases max Musou by 10, they are found in pots, on certain occasions an extra warrior may join the battle for the enemy which will usually yield an extra Dim Sum. If you are looking for a particular stage Ctrl+F and then type in the name. For stages that require certain battles to be played outside of the final act they can only be done after finishing the main 3 kingdoms Musou mode once, if using mixjoy they can be done on the first playthrough.
+Stages might have a Dim Sum which increases max Health by 10 or a Musou Wine which increases max Musou by 10, they are found in pots, on certain occasions an extra warrior may join the battle for the enemy which will usually yield an extra Dim Sum. If you are looking for a particular stage Ctrl+F and then type in the name.
 ++ Yi Ling
 +++ Battle of Yi Ling
 **Unlock:** Wu or Shu Act 5/Final Act.
