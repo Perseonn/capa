@@ -1045,7 +1045,7 @@ Mounts have been given a separate slot this time instead of taking one of your m
 * **Requirement:** Don't defeat any officers before Guan Yu meets Red Hare then defeat only him after the event.
 [[image h1-redharemap.avif| Red Hare Harness Location]]
 
-++ Hex Mark Harness
++++ Hex Mark Harness
 * **Effect:** Begin stage mounted on Hex Mark (Luck up)
 * **Stage:** Campaign against Liu Bei (Yellow Turban Musou Mode)
 * **Prerequisite:** Clear The Yellow Turban Fortress.
@@ -1054,7 +1054,7 @@ Mounts have been given a separate slot this time instead of taking one of your m
  * You must not defeat anyone else after Liu Bei's army charges to get the item message to appear.
 [[image h2-hexmarkmap.avif| Hex Mark Harness Location]]
 
-++ Storm Harness
++++ Storm Harness
 * **Effect:** Begin stage mounted on Storm Runner (Mount Attack Lv.6)
 * **Territory - Stage:** Guan Du - Campaign against Cao Cao (Lu Bu Forces)
 * **Location:** By Cao Cao's starting point.
@@ -1064,7 +1064,7 @@ Mounts have been given a separate slot this time instead of taking one of your m
 * Make Xiahou Dun appear then defeat him.
 [[image h3-stormmap.avif| Storm Harness Location]]
 
-++ Shadow Harness
++++ Shadow Harness
 **Effect:** Begin stage mounted on Shadow Runner (Can't be knocked off)
 **Territory - Stage:** Luo Yang - Battle of Tong Gate (Liu Bei's Forces)
 **Location:** Right from the upper rock in the lower right section.
@@ -1079,14 +1079,14 @@ Mounts have been given a separate slot this time instead of taking one of your m
  * This is the most irritating item to get in the game, here's how I was able to get this. Defeat the officers in order of Xiahou Yuan, Cao Ren, Dian Wei & Cao Hong, steal a horse from whoever doesn't duel you unless you brought your own horse. Enter the Ice Castle while you are mounted and seal the enemy Gate Captain in the upper left section. Wait for Han Sui & Cao Cao to meet, if Cao Cao is by the bridgelayer unit pass by and move toward Han Sui to get him to follow. Then defeat Yu Jin & Xu Huang, lower Cao Cao's morale to 1 star by defeating troops and his sub officers. Xiahou Dun appeared at the 10 minute mark whom I defeated and waited for Han Sui to stay on Ma Chao's side then the horse event happened. Cao Cao had no morale when the horse event happened, if you meet the requirements, but don't get the horse event to happen nudge Ma Chao inside the Ice Castle which should get the event to happen.
 [[image h4-shadowmap.avif| Shadow Harness Location]]
 
-++ Elephant Harness
++++ Elephant Harness
 * **Effect:** Begin stage mounted on Elephant
 * **Territory - Stage:** Nan Zhong - The Nanman Campaign (Nanman Forces)
 * **Location:** Nanman main camp in front of the middle Southern wall.
 * **Requirement:** Ride an Elephant into the enemy main camp.
 [[image h5-elephantmap.avif| Elephant Harness Location]]
 
-+ Orbs
+++ Orbs
 These augment your charge attacks to have elemental power and add an extra effect based on the element when you have full musou with weapons that are Lv 1-9. Lv 10 weapons will be able to use these without a full musou bar. These max at Lv 4 and increase in strength/duration/chance the higher the level.
 
 ||~ Orb ||~ Effect ||
@@ -1107,7 +1107,7 @@ Cao Ren, Lu Bu & Dong Zhuo can also get an elemental hit from their True Musou, 
 
 [[youtube YW8iW6exI_k]]
 
-+ Normal
+++ Normal
 Normal items are ones that boost your characters stats, these will max at Lv 20.
 
 * Peacock Urn (+Life)
@@ -1124,10 +1124,10 @@ Normal items are ones that boost your characters stats, these will max at Lv 20.
 * Elixir (+Musou Fill)
 * Herbal Remedy (+Charge Attack Power)
 
-+ Unique
+++ Unique
 These are items with specific effects that only need to be obtained once. The items are listed in order of how they appear when selecting items to use for battle.
 
-++ Art of War
++++ Art of War
 * **Effect:** Ability boost items have longer effect (Attack/Defense/Speed x2 will be 60 seconds, Musou Full for 20 seconds)
 * **Territory - Stage:** He Fei - Campaign against Sun Jian (Dong Zhuo's Forces)
 * **Supply Unit:** Gate Captain behind Lu Meng that makes its way to the Gate Captain near the ally main camp that appears when Sun Jian moves from the castle.
@@ -1135,14 +1135,14 @@ These are items with specific effects that only need to be obtained once. The it
  * Lu Meng & Zhou Tai being defeated before entering the castle will count.
 [[image u1-aowmap.avif| Art of War Location]]
 
-++ Survival Guide
++++ Survival Guide
 * **Effect:** Attack x2 when near death (standing up when health bar is red gives Attack x2 for 30 seconds)
 * **Territory - Stage:** He Fei - The Two Qiaos (Sun Jian's Forces)
 * **Location:** Southwest of the center bridge.
 * **Requirement:** Rescue both Qiao's personally.
 [[image u2-sgmap.avif| Survival Guide Location]]
 
-++ Bodyguard Manual
++++ Bodyguard Manual
 * **Effect:** Bodyguards become stronger (makes them more aggressive)
 * **Territory - Stage:** Xu Chang - Guan Yu's Escape (Liu Bei's Forces)
 * **Location:** South of the 5th gate before the stage ends.
@@ -1150,35 +1150,35 @@ These are items with specific effects that only need to be obtained once. The it
  * This is better done playing as Guan Yu, you will want to wait for the carriage to catch up to you after defeating Bian Xi and clearing the 3rd gate to give ample time for it to null the potential ambush and for when you clear the 4th gate before Xiahou Dun catches up.
 [[image u3-bmmap.avif| Bodyguard Manual Location]]
 
-++ Way of Musou
++++ Way of Musou
 * **Effect:** Can use True Musou Attack regardless of health (Musou will deal fire damage with an extended finisher)
 * **Territory - Stage:** Xu Chang - Guan Yu's Escape (Cao Cao's Forces)
 * **Supply Unit:** Top right corner of the area right of the double bridge from the 4th gate that makes its way East to the Southern notch between Gates 2 & 3.
 * **Requirement:** Pass the 5th gate.
 [[image u4-wommap.avif| Way of Musou Location]]
 
-++ Power Scroll
++++ Power Scroll
 * **Effect:** Never lose weapon deadlocks (loss changes to draw)
 * **Stage:** The Yellow Turban Fortress (Yellow Turbans Forces)
 * **Supply Unit:** In the small pass in the top left that makes its way to the right Gate Captain in the upper area.
 * **Requirement:** Defeat Guan Yu & Zhao Yun
 [[image u5-psmap.avif| Power Scroll Location]]
 
-++ Wind Scroll
++++ Wind Scroll
 * **Effect:** Attack range increase
 * **Territory - Stage:** Xu Chang - Battle of Xu Chang (Shu Forces)
 * **Location:** West of the left Gate Captain outside of Xu Chang's West side.
 * **Requirement:** When asked to choose to defend the Siege Ramp or the Supply Depot succeed in both.
 [[image u6-wsmap.avif| Wind Scroll Location]]
 
-++ Fire Arrows
++++ Fire Arrows
 * **Effect:** Can shoot fire arrows (burn targets dealing slightly more damage)
 * **Territory - Stage:** Yi Ling - Unification of Jing (Sun Jian's Forces)
 * **Supply Unit:** Eastern exit of the top left castle that makes its way to the top right.
 * **Requirement:** Defeat Zhou Xin before the enemy does a joint attack.
 [[image u7-famap.avif| Fire Arrows Location]]
 
-++ Charge Bracer
++++ Charge Bracer
 * **Effect:** Withstand attacks while performing Charge (as long as it doesn't make your character jump)
 * **Territory - Stage:** He Fei - Campaign against Sun Jian (Yuan Shao's Forces)
 * **Supply Unit:** Northwest corner outside the South entry that makes its way to the Gate Captain near the ally main camp that appears when Sun Jian moves from the castle.
