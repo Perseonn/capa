@@ -164,8 +164,8 @@ This map is done twice back to back.
 4-1 Bloody Fortress
 Enemy
 ||~ Unit ||~ Protection ||
-| | Ghost | | ATK -40% (U) ||
-| | Summon x5 | | ||
+|| Ghost || ATK -40% (U) ||
+|| Summon x5 || ||
 Items: Vase
 
 4-2 Devil's Cry
