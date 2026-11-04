@@ -570,7 +570,7 @@ This stage has nothing to pick up.
 +++ Battle of Mt. Ding Jun
 **Unlock:** Wei or Shu Act 5/Final Act.
 **Dim Sum 1:** Near the center of the top path.
-**Dim Sum 2: Xiahou Dun (extra warrior, can join after 10 minutes as Shu Forces.)
+**Dim Sum 2:** Xiahou Dun (extra warrior, can join after 10 minutes as Shu Forces.)
 **Musou Wine:** Bottom left fort in the top left corner.
 **Wei Forces:** Fa Zheng, Chen Shi, Huang Zhong, Guan Yu.
 **Shu Forces:** Xiahou Shang, Zhang He, Xiahou De, Cao Zhang.
