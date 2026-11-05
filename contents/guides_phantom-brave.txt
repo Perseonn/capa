@@ -188,8 +188,8 @@ Items: Old Tree (DEF +40%), Sapling (ATK +40%), Weed (HP Heal 10%), Flower (SPD 
 5-1 Nature's Bounty
 Enemy
 ||~ Unit ||~ Protection ||
-| | Saber Kitty | | EXP +30%, Money +30% & Mana +30% (U) ||
-| | Saber Kitty x6 | | ||
+|| Saber Kitty || EXP +30%, Money +30% & Mana +30% (U) ||
+|| Saber Kitty x6 || ||
 Items: Old Tree, Flower, Weed
 
 5-2 Bed of Flowers
