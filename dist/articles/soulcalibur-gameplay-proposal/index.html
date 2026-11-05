@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4RLPHH6XEY"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-4RLPHH6XEY');
+    </script>
+
+    <title>Soulcalibur: A Weapon-Centric Gameplay Proposal - CAPA</title>
+    <meta name="description" content="I feel weird about how Soulcalibur series seemingly went backwards in game design regarding turtl...">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/assets/css/favicon.png">
+    
+    <!-- Canonical Link -->
+    <link rel="canonical" href="https://capa.asoh.xyz">
+    
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Faculty+Glyphic&family=Stardos+Stencil:wght@400;700&display=swap">
+
+    <!-- OG Card -->
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://capa.asoh.xyz/assets/articles/soulcalibur-gameplay-proposal/soulcalibur-gameplay-proposal-splash.jpg">
+    <meta property="og:title" content="Soulcalibur: A Weapon-Centric Gameplay Proposal - CAPA">
+    <meta property="og:description" content="I feel weird about how Soulcalibur series seemingly went backwards in game design regarding turtl...">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://capa.asoh.xyz/assets/articles/soulcalibur-gameplay-proposal/soulcalibur-gameplay-proposal-splash.jpg">
+    <meta name="twitter:title" content="Soulcalibur: A Weapon-Centric Gameplay Proposal - CAPA">
+    <meta name="twitter:description" content="I feel weird about how Soulcalibur series seemingly went backwards in game design regarding turtl...">
+    
+    <!-- Bootstrap, or whichever framework you prefer, then the CSS -->
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor.css">
+    <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="/assets/css/capa-controller.css">
+    <link rel="stylesheet" href="/assets/css/site.css">
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <header class="capa-nav col-12 col-lg-2 p-0">
+                <nav class="capa-navbar" aria-label="Main navigation">
+
+    <!-- Mobile-only Expand Button -->
+    <button
+        class="capa-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="capa-nav-content"
+        aria-label="Open navigation"
+    >
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    
+    <!-- Mobile-only Close Button -->
+    <button
+        class="capa-nav-overlay"
+        type="button"
+        aria-label="Close navigation"
+        tabindex="-1"
+        aria-hidden="true"
+    ></button>
+
+    <!-- Shared navigation and TOC -->
+    <div id="capa-nav-content">
+        <div class="nav-item nav-container gradient-line line-top-4 line-bottom-4">
+            <div class="nav-image-container main-splash-overlaid">
+                <a href="/" class="d-block"><img src="/assets/img/16x9.png" class="img-fluid aspect-16x9 img-site-title" title="Go to Home" alt="Go to Home"></a>
+            </div>
+            <div class="nav-text-container site-title strong stroke text-center">
+                <a href="/" class="d-block">CAPA</a>
+            </div>
+        </div>
+        <div class="nav-item nav-container gradient-line line-bottom-4">
+            <div class="nav-image-container guide-splash-overlaid">
+                <a href="/guides/" class="d-block"><img src="/assets/img/16x9.png" class="img-fluid aspect-4x1" title="Go to Guides" alt="Go to Guides"></a>
+            </div>
+            <div class="nav-text-container stroke ps-2">
+                <a href="/guides/" class="d-block"><i class="fa-solid fa-compass" aria-hidden="true"></i>Guides</a>
+            </div>
+        </div>
+        <div class="nav-item nav-container gradient-line line-bottom-4">
+            <div class="nav-image-container article-splash-overlaid">
+                <a href="/articles/" class="d-block"><img src="/assets/img/16x9.png" class="img-fluid aspect-4x1" title="Go to Articles" alt="Go to Articles"></a>
+            </div>
+            <div class="nav-text-container stroke ps-2">
+                <a href="/articles/" class="d-block"><i class="fa-solid fa-newspaper" aria-hidden="true"></i>Articles</a>
+            </div>
+        </div>
+        <!-- TOC will be moved here by move-toc-to-nav.js -->
+    </div>
+
+</nav>
+            </header>
+            <div class="col-12 col-lg-10 p-0">
+                <main class="capa-main">
+                    <div class="row m-0 p-0">
+<div class="splash-container gradient-line line-bottom-4 full-height" style="background-image:linear-gradient(0deg, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0) 25%),url(&#39;/assets/articles/soulcalibur-gameplay-proposal/soulcalibur-gameplay-proposal-splash.avif&#39;);">
+<div class="title-container p-4">
+<div class="page-extra strong stroke ">
+<span class="visible fa fa-clock"> </span> Published on 2026-11-2
+</div>
+<div class="page-sub-title strong stroke ">
+Written by Perseonn Balthasaar
+</div>
+<div class="page-title strong stroke ">
+Soulcalibur: A Weapon-Centric Gameplay Proposal
+</div>
+</div>
+</div>
+<div id="toc" class="toc-container gradient-line line-bottom-4 d-grid ">
+<div class="toc-bg"></div>
+<div class="toc-navigation ps-2 pe-2 pb-2">
+<a href="#heading-1" class="toc-h1">The Gameplay Philosophy of Soul Edge</a>
+<a href="#heading-2" class="toc-h1">The Problem with Modern Soulcalibur</a>
+<a href="#heading-3" class="toc-h2">Guard Break</a>
+<a href="#heading-4" class="toc-h2">Guard Crush in Soulcalibur VI</a>
+<a href="#heading-5" class="toc-h2">Reversal Edge</a>
+<a href="#heading-6" class="toc-h2">Character Gimmick</a>
+<a href="#heading-7" class="toc-h2">Weapon as Skins</a>
+<a href="#heading-8" class="toc-h1">The Proposed Gameplay</a>
+<a href="#heading-9" class="toc-h2">Implement Weapon Durability Gauge</a>
+<a href="#heading-10" class="toc-h2">Weapon Break</a>
+<a href="#heading-11" class="toc-h2">Replace Guard Impact with Clash</a>
+<a href="#heading-12" class="toc-h2">Weapon Personality</a>
+<a href="#heading-13" class="toc-h2">Character Gimmicks, Revisited</a>
+<a href="#heading-14" class="toc-h2">Proposal vs Current Soulcalibur VI</a>
+<a href="#heading-15" class="toc-h1">Emergent Design vs. Bespoke Design</a>
+<a href="#heading-16" class="toc-h1">Conclusion</a>
+</div>
+</div>
+<div class="container drop-caps p-4 soulcalibur-gameplay-proposal">
+<p>I feel weird about how Soulcalibur series seemingly went backwards in game design regarding turtling. Soul Edge, the prequel, has this solved with Weapon Durability Gauge. Too much guarding and boom, weapon breaks, then the character has to spend the rest of round unarmed. Weapon is restored in next round, but only ~33% of the durability remains.</p>
+<p>Soulcalibur then dropped Weapon Durability that make Soul Edge distinctive, while keeping the Guard Impact (there&#39;s Guard Impact on Soul Edge, yeah), a mechanic that benefits the CPU much more than player due to its timing requirement and cannot be cancelled into. They also introduced guard break attack that increases recoil of receiving character from guarding, but in guard breaks itself have a big the recoil, making it completely useless. Somehow, Soulcalibur series also insist on this move type!</p>
+<p>On Soulcalibur V, Guard Impact now costs 25% Super Gauge (On VI, it consumes the Guard Stamina, but there&#39;s new Resist Impact that Costs 50% Super Gauge), which still benefits the CPU due to same limitation as II and III; additionally guarding for long (like really long) now can result in guard crush, which add small stun to the receiver. It&#39;s helpful, but are still way too fast for a player to start changing routine for countering.</p>
+<p>At least Soulcalibur VI&#39;s Reversal Edge helps against turtling, but on itself it&#39;s a vertical attack, which can be avoided by sidestepping. Should they just implement Weapon Durability Gauge and weapon clash like Soul Edge, it&#39;ll be a much aggressive playstyle. Also they need to remove those just inputs as they are utterly stupid thing to do in a fighting game.</p>
+<p>There Vodkalibur mod for Soulcalibur VI, which has an expansion that can also alter gameplay, and from which I&#39;ve only read, can introduce second Critical Edge and remove Reversal Edge. Personally, I havent tested this, but by this description alone, I question this decision. Reversal Edge is a helper for new players to catchup to veteran players, especially one that&#39;s playing since Soul Edge.</p>
+<h1 id="heading-1">The Gameplay Philosophy of Soul Edge</h1>
+<p>Let&#39;s go back to Soul Edge. Since it&#39;s released in 1995 for Japan and 1996 for the rest of the world as Soul Blade, allow me to explain a bit about it&#39;s <strong>Weapon Durability</strong> mechanism.</p>
+<ul>
+    <li>In Soul Edge, weapons have durability.</li>
+    <li>Each character have 8 weapons and each weapon have different durability.
+<ul>
+    <li>Taki&#39;s Tanto? Brittle.</li>
+    <li>Siegfried&#39;s Claymore? Standard.</li>
+    <li>Rock&#39;s Great Ax? Durable.</li>
+    <li>Cervantes&#39; Serpent Tongue? Unbreakable!</li>
+</ul>
+    </li>
+    <li>Guarding an attack decreases durability on the defender&#39;s side; turtle too much and the weapon breaks, and the fighter has to resort to bare hand!</li>
+    <li>Critical Edge, which is a combo attack in this game, always cost 33% of the weapon gauge of the attacker; guarding critical edge takes a lot of durability.</li>
+</ul>
+
+<p>Your weapon is taking the beating. They have limits. This creates interesting decisions such as:</p>
+<ul>
+    <li>Should I block?</li>
+    <li>Should I sidestep?</li>
+    <li>Should I take the hit instead of risking my weapon?</li>
+    <li>Should I pressure the opponent because their weapon is nearly broken?</li>
+</ul>
+
+<p>That one bar has the potential to change the tempo of the match.</p>
+<h1 id="heading-2">The Problem with Modern Soulcalibur</h1>
+<p>Starting with Soulcalibur, Project Soul clearly wanted a cleaner competitive game. Instead of durability they added emphasis on:</p>
+<ul>
+    <li>Guard Impact</li>
+    <li>Just Impact (I don&#39;t know if this originates on III or available earlier)</li>
+    <li>Guard Break</li>
+    <li>Guard Crush</li>
+    <li>Soul Gauge &amp; Soul Crush (Soulcalibur IV)</li>
+    <li>Critical Gauge (Soulcalibur V&#39;s Super Gauge)</li>
+    <li>Soul Gauge (Soulcalibur VI&#39;s Super Gauge)</li>
+    <li>Reversal Edge</li>
+</ul>
+
+<p>These mechanics reward mechanical execution instead of strategic resource management. For tournament players, that&#39;s attractive. For everyone else...<br>
+...the CPU suddenly becomes much stronger. The AI doesn&#39;t have human reaction time, it doesn&#39;t panic, it can &quot;see&quot; (read!) timings in ways humans can&#39;t. So mechanics like Guard Impact naturally become AI-favored unless the AI is deliberately handicapped. The game promoting Guard Impact as &quot;beautiful because you can keep Guard Impacting each other&quot; is baffling.</p>
+<h2 id="heading-3">Guard Break</h2>
+<blockquote>
+    <p>What&#39;s so great about Guard Break? It doesn&#39;t create opportunity to attack — Gatkowski, a Hungarian Soulcalibur friend</p>
+</blockquote>
+<p>Many guard break moves in older Soulcalibur titles are indeed odd. They usually:<br>
+1. Push opponent back<br>
+2. Leave attacker pushed back too<br>
+3. Reset neutral<br>
+So instead of rewarding offense, they often end offense. They function more like:</p>
+<blockquote>
+    <p>Here&#39;s a nice lightning effect. Both of you are now standing three meters apart.</p>
+</blockquote>
+<p>Which feels counterproductive if the goal was discouraging blocking.</p>
+<h2 id="heading-4">Guard Crush in Soulcalibur VI</h2>
+<p>I think Guard Crush was Project Soul quietly admitting that unlimited blocking was a problem. However this solution has its own problem.</p>
+<ul>
+    <li>The visual warning is subtle, just flashing HP bar.</li>
+    <li>The flashing goes from Yellow to Red, but no indicator how far you need to keep applying pressure to make Guard Crush happen</li>
+    <li>Player notices it when it&#39;s already too late. Experienced players might be able to track Guard Stamina mentally. Casual players don&#39;t.</li>
+    <li>In short: the player receives insufficiently precise feedback about how close they are to Guard Crush.</li>
+</ul>
+
+<h2 id="heading-5">Reversal Edge</h2>
+<p>Reversal Edge is fascinating because it tries to solve multiple problems at once:</p>
+<ul>
+    <li>It punishes predictable offense</li>
+    <li>It gives newcomers a defensive tool</li>
+    <li>It creates cinematic clashes</li>
+</ul>
+
+<p>But because it&#39;s a vertical attack, sidestepping often invalidates it. High-level players frequently treat it as a risky gimmick rather than a universal anti-turtling solution. But to be fair, it&#39;s a good way to push the match forward, albeit quirky, since the clash boils down to sorta-rock-paper-scissor solution.</p>
+<h2 id="heading-6">Character Gimmick</h2>
+<p>Soulcalibur VI clearly shifted toward giving characters unique gauges or stances:</p>
+<ul>
+    <li>Groh has his dual-blade transformation.</li>
+    <li>Azwel conjures different weapons.</li>
+    <li>Amy builds roses, which I don&#39;t mind, but her moveset is a lot different from Soulcalibur IV and Broken Destiny (oh yeah, i forgot that game exist!), so annoyingly, re-learning is required. I finally understand how Talim players felt, having to re-learn her between Soulcalibur II and III.</li>
+    <li>Cassandra gains Divine Force.</li>
+    <li>Hilde charges attacks.</li>
+    <li>Hwang manages talismans.</li>
+</ul>
+
+<p>Those are engaging mechanics, but they&#39;re character-specific resource systems, and it adds another personal meter on top of few meters we already have. Additionally this turns ready-to-pick characters into homework character. It&#39;s not quite fun to have the movelist help screenshot open in a separate screen to keep learning about the characters.</p>
+<h2 id="heading-7">Weapon as Skins</h2>
+<p>Let me rant a bit about this one: I dislike how Soulcalibur V makes different weapon as skins, and how Soulcalibur VI follows suit. The weapon became an extension of the character, rather than its own gameplay object.</p>
+<p>In Soul Edge, the relationship almost felt like this:</p>
+<blockquote>
+    <p>Character + Weapon = Fighter</p>
+</blockquote>
+<p>The weapon had its own &quot;HP,&quot; could break, affected your moveset, and few even had lore (well mostly Soul Edge in Soul Edge). Losing it fundamentally changed the match. Soul Calibur II, and III still kept the Weapon as separate, albeit weaker since it never leaves your character.</p>
+<p>However, by Soulcalibur V+, it&#39;s closer to:</p>
+<blockquote>
+    <p>Character = Fighter</p>
+</blockquote>
+<p>The weapon is visually important, but mechanically it&#39;s mostly the animation source for hitboxes. Whether Nightmare is holding his Soul Edge or another slap of steel, the gameplay differences are almost entirely cosmetic. I hate it when this changes how I perceive iconic weapons.</p>
+<p>Take Nightmare. In earlier games, Soul Edge felt like a terrifying entity possessing Siegfried. The sword was almost another character. Nowadays, Nightmare&#39;s mechanics revolve around things like Grim Stride, More Grim Stride, and maybe Terror Charge. They&#39;re fun systems, but they&#39;re Nightmare&#39;s systems, not Soul Edge&#39;s. You no longer feel the urgency to finishing the match because Soul Edge already claimed 25% of your HP without your opponent landing a hit.</p>
+<h1 id="heading-8">The Proposed Gameplay</h1>
+<h2 id="heading-9">Implement Weapon Durability Gauge</h2>
+<p>The only other gauge than player HP should be <strong>Weapon Durability</strong> gauge. Almost every combat mechanic should center around this a single resource: the character&#39;s weapon. The following proposal assume Soulcalibur VI as base mechanics, unless stated otherwise:</p>
+<ul>
+    <li>Like in Soul Edge, performing Critical Edge cost 33% of Max Weapon Durability, whether it lands or not.</li>
+    <li>Critical Edge damage is linearly proportional to the amount of Weapon Durability left, meaning strongest the weapon bar is at 100%, weakest when it&#39;s at 34%. Critical Edge cannot be used when the bar is 33% or below.
+<ul>
+    <li>Obviously strength calculated before the gauge is consumed.</li>
+</ul>
+    </li>
+    <li>Other Gauge attack costs Weapon Durability.</li>
+    <li>Blocking Critical Edge causes 16% damage. Thus blocking risks weakening your own Critical Edge</li>
+    <li>Blocking reduces Weapon Durability</li>
+    <li>Next round restores 33% of Max Weapon Durability</li>
+</ul>
+
+<p>Now this gives player the choice of:</p>
+<blockquote>
+    <p>Do I finish the round with a powerful move, or save my weapon for the next round?</p>
+</blockquote>
+<p>I think this is much more interesting than &quot;I have one stock of super.&quot;</p>
+<p>Additionally, it also creates desperation moments. Imagine, your weapon is nearly broken. You can:</p>
+<ul>
+    <li>Save it</li>
+    <li>or burn the last third on one huge hail mary attack</li>
+</ul>
+
+<h2 id="heading-10">Weapon Break</h2>
+<p>When durability goes to 0, weapon breaks for that round and the character moveset gets compromised. I don&#39;t quite like how all characters get global unarmed moveset in Soul Edge, so let&#39;s refine it a bit:</p>
+<ul>
+    <li>On Weapon Broken stance, the movelist is mostly intact, but obviously, attacks that uses the gauge isn&#39;t available.
+<ul>
+    <li>Weapon attacks have much reduced power and range. Should be only as strong as kicks.</li>
+    <li>Kick attacks should work as if not broken</li>
+    <li>Taki can have lower weapon (her weapon is smaller after all) durability, but still have her fast priority kicks and kick combos on break.</li>
+    <li>Nightmare can have higher durability, but once broken, all his weapon attack range is reduced to arm-length. His punches is unaffected. Oh, his Soul Edge can become phantom-like so it&#39;s shape is intact.</li>
+    <li>Voldo would not lose much of his range and functions nearly the same, just without Gauge attacks.</li>
+    <li>Cervantes should have two gauge bars, each for his swords. His wear should be dependent on guarding vertical or horizontal attacks. Lose his shorter sword, his horizontal attacks lost range and power. Lose his longer sword, his vertical attacks. Lose both, his A+B attacks becomes unavailable. Critical Edge drains each gauge by 33% of Max Durability.</li>
+    <li>Sophitia can also have two gauge bars, one for sword, one for shield. Critical Edge will only use the sword&#39;s gauge by 33% of Max Durability. The shield drains faster and the sword drains much slower, thus the shield is more likely to break first, after that the sword drains faster. If shield broke first, she&#39;ll start taking chip damage (maybe ~10% of incoming damage)  during guard since she isn&#39;t accustomed to guard with her sword. If she lost her sword first, such as by using Critical Edge too ofen, she&#39;ll lost her sword, but can still guard proper until her shield also breaks.</li>
+</ul>
+    </li>
+    <li>Guarding maintains defensive posture, but treats incoming damage as unguarded; so you can properly defend against combos and not stunlocked, but you take full damage of that attack.</li>
+    <li>Throws that uses weapon will whiff, such as Mitsurugi&#39;s default throw. Hwang&#39;s famous kick throw is unaffected.</li>
+    <li>Clashes no longer available</li>
+    <li>Other weapon parameters are negated, such as Defense, Strength, and Weight. So a character with low Defense weapon can actually take less damage during Weapon Break.</li>
+    <li>Same as before, next round restores the weapon with 33% of Max Weapon Durability.</li>
+</ul>
+
+<h2 id="heading-11">Replace Guard Impact with Clash</h2>
+<ul>
+    <li>Guard Impact, which benefits AI the most, should be removed and replaced with weapon clash that comes naturally when weapon attacks from both side physically collides.</li>
+    <li>Kicks cannot trigger Weapon Clash</li>
+    <li>During clash, both sides loses Weapon Durability based on Strength of the opponent weapons.</li>
+    <li>First attack immediately after clash will be faster and if lands, treated as counter. No clash is possible during this.</li>
+</ul>
+
+<h2 id="heading-12">Weapon Personality</h2>
+<p>This is a game about legendary weapon, so let&#39;s make the weapon more colorful. Each weapon have a clear base stat similar to Soul Edge, but more transparent on how much, say, attack power it has. We can start from the classic stat of:</p>
+<ul>
+    <li>Attack: How much damage dealt</li>
+    <li>Defense: How much damage taken</li>
+    <li>Strength: How much weapon damage dealt to a guarding opponent</li>
+    <li>Durability: How much weapon damage taken from guarding. Durability has no effect on Gauge attack costs.</li>
+    <li>Weight: Modifies the startup speed of weapon-based attacks relative to the character&#39;s default speed. Kicks and other non-weapon attacks are unaffected.</li>
+    <li>Special Stats: Special attribute to the weapon like Soulcalibur II and III, such as regain HP periodically, leech HP, drain HP periodically, piercing attacks, etc. So we can once more have Soul Edge that has 154% power, but drains HP over time and each swing costs HP.</li>
+</ul>
+
+<h2 id="heading-13">Character Gimmicks, Revisited</h2>
+<p>This is just on top of my head, but character gimmick runs on either HP or durability, for example:</p>
+<ul>
+    <li>Hwang forcing powerful Yin move? Takes his durability. Yang move? This is tricky, but either make it a weak attack that restores Weapon Durability or strong attack that takes his HP.</li>
+    <li>Tira&#39;s personality flip should be 100% predictable. Each personality flip can be put at the end of powerful move and takes durability when changing to the Dark Personality. During Dark, attacks are draining HP already.
+<ul>
+    <li>Or, She&#39;s on Light Personality if she hold weapon, and on break, shifts to Dark personality and starts clawing with entirely different moveset. Come on, her costume features reinforced claws!</li>
+</ul>
+    </li>
+    <li>Amy&#39;s Roses should not activate only with certain attacks. Make that if she lands horizontal attack strings or knocks downs, she gets red rose and the same with vertical attacks and white rose. The rose buff should be visible on her character model, not a numerical counter under her HP gauge.</li>
+    <li>Raphael could be solidified as the counter character, since he&#39;s a rapier user. Make the counter have lenient timing, but instead of making it an absolute system of the counter connect or not connect, make the counter take a portion of the would-be received damage:
+<ul>
+    <li>Perfect timing: Elegant parry, full counter, riposte, rose petals rain somewhere.</li>
+    <li>Good timing: Deflects most of the attack, takes perhaps 20-30% chip damage, still gets advantageous positioning</li>
+    <li>Poor timing: Barely catches the attack, takes 60-70% damage, maybe only pushes the opponent away.</li>
+    <li>Completely mistimed: Eats the full attack, a baguette drops somewhere.</li>
+    <li>Come on, his sword is thin. It should redirect attacks, not take the brunt of the force.</li>
+</ul>
+    </li>
+    <li>Other character can run around other things such as number of clashes, remaining Weapon Durability, remaining HP, etc.</li>
+</ul>
+
+<h2 id="heading-14">Proposal vs Current Soulcalibur VI</h2>
+<p>Think about it, in SoulCalibur IV you are juggling:<br>
+1. HP<br>
+2. Super Gauge<br>
+3. Super Gauge Level<br>
+4. Invisible Soul meter<br>
+5. Character personal gauge: Roses, Yin-yang, Personality, Force Meter, anything that a Character gimmick sends your way</p>
+<p>My proposed system simply ask:</p>
+<blockquote>
+    <p>How much durability does my weapon have left?</p>
+</blockquote>
+<p>It&#39;s a resource system that determines which options remain available to the player:</p>
+<ul>
+    <li>Spend it on Critical Edge, sacrifice future weapon longevity for burst damage</li>
+    <li>Lose it through guarding, sacrifice future defensive capabilities.</li>
+    <li>Clash with an opponent, and both players pay for the opportunity to continue attacking.</li>
+    <li>Break the weapon, and your character&#39;s remaining moveset and defensive options become more important.</li>
+</ul>
+
+<h1 id="heading-15">Emergent Design vs. Bespoke Design</h1>
+<p>In a way, Soul Edge was closer to what people now call emergent design. One mechanic, Weapon Durability, created a surprising number of situations. Modern Soulcalibur tends toward bespoke design, where each character has a handcrafted subsystem layered on top of the universal mechanics.</p>
+<p>To be fair, neither philosophy is inherently better, Tekken is successful with its bespoke system. However, for a series literally named after a legendary sword, there&#39;s something charming about the idea that the weapon itself should have as much personality in gameplay as the person wielding it.</p>
+<p>It makes every duel feel less like:</p>
+<blockquote>
+    <p>Two move lists colliding</p>
+</blockquote>
+<p>And more like:</p>
+<blockquote>
+    <p>Two warriors testing the limits of their arms until steel finally gives way.</p>
+</blockquote>
+<h1 id="heading-16">Conclusion</h1>
+<p>In the effort of making new direction after Soul Edge, Project Soul fall in the trap of making the same bespoke system as other fighting game without taking its unique weapon system along with it. They aren&#39;t mutually exclusive, so they could have had both!</p>
+</div>
+</div>
+                </main>
+                <footer class="capa-footer footer-wrap gradient-line line-top-4 ps-4 pe-4" role="contentinfo">
+                    <div class="footer">
+                        <div class="footer-title serif-font strong stroke pt-2 pe-3">
+                            <a href="/">CAPA</a>
+                        </div>
+                        <div class="footer-links strong">
+                            <div class="nav-area">
+                                <a href="/guides/">Guides</a> · 
+                                <a href="/articles/">Articles</a>
+                        </div>
+                            <div class="powered-area"><a href="https://github.com/Perseonn/capa">Converted by CAPA Engine</a></div>
+                            <div class="license-area">2026 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC BY-NC-ND 4.0)</a> fiction Works</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/scripts/bootstrap.bundle.min.js"></script>
+    <!-- CAPA's optional Custom Script -->
+    <script src="/assets/scripts/capa-move-toc-to-nav.js"></script>
+    <script src="/assets/scripts/capa-nav-drawer.js"></script>
+    <script src="/assets/scripts/capa-toc-customizer.js"></script>
+</body>
+</html>

@@ -377,11 +377,10 @@ ${urls.map(item => `    <url>
 `;
 
     const outputPath = path.join(DIST_DIR, "sitemap.xml");
+    const outputPathAlternate = path.join(DIST_DIR, "sitemap-alternate.xml");
 
-    fs.writeFileSync(
-        outputPath,
-        sitemap
-    );
+    fs.writeFileSync(outputPath,sitemap);
+    fs.writeFileSync(outputPathAlternate,sitemap);
 
     console.log(`Built: ${outputPath}`);
 }
