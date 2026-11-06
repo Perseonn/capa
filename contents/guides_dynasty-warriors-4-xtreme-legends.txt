@@ -1,6 +1,6 @@
 @title: Dynasty Warriors 4: Xtreme Legends
 @author: Buster Wolf
-@updated: 2026-09-25
+@updated: 2026-12-01
 @wip
 
 Dynasty Warriors 4: Xtreme Legends is the first expansion for Dynasty Warriors 4, as with all Xtreme Legends expansions it has its own content to separate itself from the vanilla game, but to have all the content from the vanilla game Mixjoy is needed. Unlike [[link /guides/dynasty-warriors-3-xtreme-legends | the previous Xtreme Legends title]] they had better foresight and this time you can get all the content without needing the vanilla game, however mixjoying with the vanilla game will have harder AI in the original content.
@@ -750,7 +750,7 @@ Yuan Shao will appear once all the Eunuchs are dealt with or retreat, you will w
 **Stage:** Rescue of Meng Huo (Zhu Rong)
 **Restrictions:** No items & No bodyguards
 **Requirement:** Defeat all 6 Guard Patrols without being discovered in 2 minutes.
-Location: North of where Zhao Yun starts.
+**Location:** North of where Zhao Yun starts.
 While the stage itself is very short this is very hard to get with 1 player as you only have 2 choices, those being Huang Zhong & Xiahou Yuan due to their C1 bow attacks which go far enough that you can hit a patrol before they notice you. You will want to save after killing each one (except the one you start by at the beginning) as messing up is quite costly.
 
 + Orbs
