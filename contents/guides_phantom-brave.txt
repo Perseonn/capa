@@ -1674,7 +1674,7 @@ Enemy
 || Knight || Treasure || ||
 || Knight x2 || Steel Swd || DEF+10% (U) ||
 || Knight x2 || Silver Axe || DEF+10% (U) ||
-|  Knight x2 || Silver Spr || ||
+|| Knight x2 || Silver Spr || ||
 ! Unique item
 Neutral
 ||~ Unit ||~ Protection ||
