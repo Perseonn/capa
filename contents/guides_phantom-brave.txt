@@ -215,37 +215,37 @@ Items: Treasure (EXP x2, Mana x2, Money x2, Reinforce 20%), Mushroom, Flower, We
 6-2 Mischief Garden
 Enemy
 ||~ Unit ||~ Protection ||
-| | Werewolf | | Stay Back 15dm (U) ||
-| | Manticore x3 | | ||
-| | Werewolf x2 | | ||
+|| Werewolf || Stay Back 15dm (U) ||
+|| Manticore x3 || ||
+|| Werewolf x2 || ||
 Neutral: Granny
 Items: Flower (DEF x2), PoisonRck (DEF x2), Rock (DEF x2), Mushroom (DEF x2), Anthill, Rock, Stump, Mushroom, Seed, Weed, Flower, SacredRck, PoisonRck
 
 6-3 Hidden Hall
 Enemy
 ||~ Unit ||~ Protection ||
-| | Fenrir | | ||
-| | Fenrir | | SPD +20% (U) ||
-| | Werewolf | | DEF +20% (U) ||
-| | Fenrir | | Money x2 (U) ||
-| | Fenrir | | SPD +20% (U) ||
-| | Fenrir | | DEF +20% (U) ||
-| | Manticore | | Mana x2 (U) ||
-| | Werewolf | | ATK+20% (U) ||
-| | Fenrir | | DEF +20% (U) ||
-| | Manticore | | EXP x2 (U) ||
+|| Fenrir || ||
+|| Fenrir || SPD +20% (U) ||
+|| Werewolf || DEF +20% (U) ||
+|| Fenrir || Money x2 (U) ||
+|| Fenrir || SPD +20% (U) ||
+|| Fenrir || DEF +20% (U) ||
+|| Manticore || Mana x2 (U) ||
+|| Werewolf || ATK+20% (U) ||
+|| Fenrir || DEF +20% (U) ||
+|| Manticore || EXP x2 (U) ||
 Items: Vase, Mushroom, PoisonRck, Weed, Sign, Sunflower, Crate, Flower, SacredRck, Stump
 
 6-4 Green Paradise
 Enemy
 ||~ Unit ||~ Items ||
-| | Dragon | | ||
-| | Werewolf | | ||
-| | Behemoth x2 | | ||
-| | Fenrir | | Weed ||
-| | Fenrir | | Mushroom ||
-| | Manticore | | Driftwood ||
-| | Manticore | | Mushroom ||
+|| Dragon || ||
+|| Werewolf || ||
+|| Behemoth x2 || ||
+|| Fenrir || Weed ||
+|| Fenrir || Mushroom ||
+|| Manticore || Driftwood ||
+|| Manticore || Mushroom ||
 Items: Seed (DEF +50%), Bone (ATK +50%), Rock (Reinforce 50%), Rock (Reinforce 50%), Weed (ATK +10%), Brick (DEF +10%), Skull, Weed, Vase, Crate, Brick, Stump, Sunflower, Pumpkin, Flower, SacredRck
 
 +++ Episode 7 The Rainbow Bird
