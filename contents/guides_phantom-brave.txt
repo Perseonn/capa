@@ -290,7 +290,7 @@ Items: @Rock (ATK -10%), @Fish (DEF -10%), Brick, Dead Tree, Rotten Tr, Rock, Va
 7-4 Hall of Death
 First time enemy
 ||~ Unit ||~ Items ||
-|| Lierre |  Silver Spr ||
+|| Lierre ||  Silver Spr ||
 || Owl Sage || Cane ||
 || Owl Ninja || Used Book ||
 || Owl Sentry || Dirk ||
@@ -1652,16 +1652,16 @@ Items: !Egg, Brick, Pillar, Sapling, Old Tree
 **Windmill Promontory - Cursed Cradle**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Lierre | | DarkSpear | | Reinforce (U) ||
-| | Owl Ninja | | Spell Book | | SPD+10% (U) ||
-| | Owl Sentry x4 | | SnowSpear | | ||
-| | Owl Knight | | Snow Axe | | Reinforce 10% (U) ||
-| | Owl Mage | | Snow Staff | | SPD+10% (U) ||
-| | Owl Knight x2 | | Silver Spr | | ||
-| | Owl Knight | | Gold Spr | | ||
+|| Lierre || DarkSpear || Reinforce (U) ||
+|| Owl Ninja || Spell Book || SPD+10% (U) ||
+|| Owl Sentry x4 || SnowSpear || ||
+|| Owl Knight || Snow Axe || Reinforce 10% (U) ||
+|| Owl Mage || Snow Staff || SPD+10% (U) ||
+|| Owl Knight x2 || Silver Spr || ||
+|| Owl Knight || Gold Spr || ||
 Neutral
 ||~ Unit ||~ Protection ||
-| | Saber Kitty | | Unarmed (U) ||
+|| Saber Kitty || Unarmed (U) ||
 Items: !Egg, Fish, Wight Tree, Rotten Tr, Weed, Deadwood, Flower, Anthill, CurseTree, Mushroom, EvlRockWd
 ! Unique item, used for reincarnation.
 
@@ -1669,16 +1669,16 @@ Items: !Egg, Fish, Wight Tree, Rotten Tr, Weed, Deadwood, Flower, Anthill, Curse
 **Mt. Kazan - Land of Fire**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Raphael | | !Heliotrope | | SPD+30% (U) ||
-| | Knight x2 | | Silver Ktna | | Def+10% (U) ||
-| | Knight | | Treasure | | ||
-| | Knight x2 | | Steel Swd | | DEF+10% (U) ||
-| | Knight x2 | | Silver Axe | | DEF+10% (U) ||
-| | Knight x2 | | Silver Spr | | ||
+|| Raphael || !Heliotrope || SPD+30% (U) ||
+|| Knight x2 || Silver Ktna || Def+10% (U) ||
+|| Knight || Treasure || ||
+|| Knight x2 || Steel Swd || DEF+10% (U) ||
+|| Knight x2 || Silver Axe || DEF+10% (U) ||
+|  Knight x2 || Silver Spr || ||
 ! Unique item
 Neutral
 ||~ Unit ||~ Protection ||
-| | Saber Kitty | | EXP+10%, Money+10%, Mana+10% (U) ||
+|| Saber Kitty || EXP+10%, Money+10%, Mana+10% (U) ||
 Items: @Egg, Deadwood, Rock, Vase, Brick, Barrel, Wither Tr, Bone, Crystal, Anthill, Stone, Crate, Rotten Tr
 @ Unique item, used for reincarnation.
 
@@ -1698,17 +1698,17 @@ Items: Driftwood, Starfish, PoisonRck, Crate, Wither Tr, Deadwood, Anthill, Bone
 Reward: Hero Prinny Phantom
 Enemy
 ||~ Unit ||~ Item ||
-| | Hero Prinny | | Dagger ||
-| | Prinny | | DevilSpear ||
-| | Prinny | | Giant Axe ||
-| | Prinny | | !Cert. ||
+|| Hero Prinny || Dagger ||
+|| Prinny || DevilSpear ||
+|| Prinny || Giant Axe ||
+|| Prinny || !Cert. ||
 ! Rank 11 Book
 Items: Rock (ATK +10%), Bone (SPD +10%), Skull (DEF +10%), Cactus (DEF -30%), Anthill (DEF -10%), Flower (Warp), Bone (Stay Back 10dm), Rock, Bomb, Anthill
 
 Repeated version
 ||~ Unit ||~ Item ||
-| | Lizardman x3 | | Funguy ||
-| | Scrabbit | | ||
+|| Lizardman x3 || Funguy ||
+|| Scrabbit || ||
 Items: Rock (ATK +10%), Bone (SPD +10%), Skull (DEF +10%), Flower (Warp), Bone (Stay Back 10dm), !Cert., Giant Axe, DevilSpear, Dagger, Rock, Bomb 
 ! Rank 11 Book
 
@@ -1716,11 +1716,11 @@ Items: Rock (ATK +10%), Bone (SPD +10%), Skull (DEF +10%), Flower (Warp), Bone (
 Reward: Asagi Phantom
 Enemy
 ||~ Unit ||~ Item ||
-| | Asagi | | Dark Wpn ||
-| | Witch | | Must-read ||
-| | Witch | | Wisdom Stf ||
-| | Valkyrie | | Gilded Swd ||
-| | Archer x2 | | Dark Wpn ||
+|| Asagi || Dark Wpn ||
+|| Witch || Must-read ||
+|| Witch || Wisdom Stf ||
+|| Valkyrie || Gilded Swd ||
+|| Archer x2 || Dark Wpn ||
 Items: SacredRck (Reinforce x2, Warp), Treasure (Rooted), Dagger (No O.B.), BronzeSwd (No O.B.), Rock, Weed, Skull, Stone, Bone, Seed, SacredRck
 
 Repeated version
@@ -1731,31 +1731,31 @@ Items: SacredRck (Reinforce x2, Warp), Treasure (Rooted), Dagger (No O.B.), Bron
 Reward: Castile Phantom
 Enemy
 ||~ Unit ||~ Item ||
-| | Castile | | !Snow Ktna ||
-| | Saber Kitty | | Pot ||
-| | Putty Mage | | Water Can ||
-| | Putty Smith | | Candle ||
-| | Scrabbit | | ||
-| | Putty Monk | | Bomb ||
-| | Putty Shaman | | Starfish ||
-| | Putty | | Seed ||
+|| Castile || !Snow Ktna ||
+|| Saber Kitty || Pot ||
+|| Putty Mage || Water Can ||
+|| Putty Smith || Candle ||
+|| Scrabbit || ||
+|| Putty Monk || Bomb ||
+|| Putty Shaman || Starfish ||
+|| Putty || Seed ||
 ! Rank 13 Dagger
 Items: Treasure (ATK +40%), Spell Book (ATK +20%), Bomb x2 (ATK +10%), SacredRck x2 (DEF +10%), SacredRck, Rock, Bomb, Flower, BlasphTr, Weed, Wight Tree, CurseTree, Dead Tree, Wither Tr, Rotten Tr
 
 Repeated version
 Enemy
 ||~ Unit ||~ Item ||
-| | Dragon | |  ||
-| | Fenrir x3 | | ||
+|| Dragon ||  ||
+|| Fenrir x3 || ||
 Items: Driftwood (Reinforce 30%, EXP +60%, Mana +60%, Money +60%), Treasure (ATK +40%), Spell Book (ATK +20%), Bomb x2 (ATK +10%), SacredRck x2 (DEF +10%), SacredRck, Rock, Bomb, Flower, BlasphTr, Weed, Wight Tree, CurseTree, Dead Tree, Wither Tr, Rotten Tr
 
 **Omninomicon** (Dimension Hero 5)
 Reward: Zetta Phantom
 Enemy
 ||~ Unit ||~ Item ||
-| | Zetta | | ||
-| | Ghost | | !BlackStaff ||
-| | Ghost x4 | | @Wisdom Stf ||
+|| Zetta || ||
+|| Ghost || !BlackStaff ||
+|| Ghost x4 || @Wisdom Stf ||
 ! Rank 11 Staff
 @ Rank 12 Staff
 Items: PoisonRck (Damage 10%), Bone (ATK-10%), Deadwood (DEF-10%), PoisonRck x2 (ATK-30%), Weed (DEF-30%), Wither Tr (DEF-30%), Skull (ATK-30%), Flower (DEF-30%), Rotten Tr (DEF-30%), Wither Tr (ATK-30%), Rock (ATK-30%), CurseTree (DEF-30%), Brick (ATK-30%), CurseTree, Skull, Bone, Bomb, Trolly, PoisonRck
