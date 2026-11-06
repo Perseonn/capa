@@ -253,9 +253,9 @@ Items: Seed (DEF +50%), Bone (ATK +50%), Rock (Reinforce 50%), Rock (Reinforce 5
 7-1 Sick Unto Death
 First time enemy
 ||~ Unit ||~ Items ||
-| | Blacksmith | | Big Axe ||
-| | Fighter | | Long Swd ||
-| | Fighter | | Iron Ktna ||
+|| Blacksmith || Big Axe ||
+|| Fighter || Long Swd ||
+|| Fighter || Iron Ktna ||
 Repeated version enemy: Manticore, Fenrir
 Items: !Barrel (EXP x2), Driftwood, Starfish, Rock, Crate, Wither Tr, Deadwood, Anthill, Bone
 ! Added on repeated version
@@ -263,27 +263,27 @@ Items: !Barrel (EXP x2), Driftwood, Starfish, Rock, Crate, Wither Tr, Deadwood, 
 7-2 Road of the Lost
 First time enemy
 ||~ Unit ||~ Items ||
-| | Flame | | SilverAxe ||
-| | Amazon x3 | | Dagger ||
-| | Amazon x3 | | ||
+|| Flame || SilverAxe ||
+|| Amazon x3 || Dagger ||
+|| Amazon x3 || ||
 
 Repeated version enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Scrabbit | | | | HP Heal 10% (U) ||
-| | Lizardman x3 | | Funguy | | ||
+|| Scrabbit || || HP Heal 10% (U) ||
+|| Lizardman x3 || Funguy || ||
 Items: !Cactus (DEF -30%), Bone (SPD +10%), Skull (DEF +10%), Rock (ATK +10%), !Anthill (DEF -10%), Flower (Warp), Bone (Stay Back 10dm), Rock, Bomb, Flower, Anthill
 ! Removed on repeated version
 
 7-3 Life and Death
 Enemy
 ||~ Unit ||~ Item ||~ Protection ||
-| | Fox | | Silver Stf | | DEF +10% (U) ||
-| | Zombie x7 | | | | ||
+|| Fox || Silver Stf || DEF +10% (U) ||
+|| Zombie x7 || || ||
 Repeated version enemies
 ||~ Unit ||~ Items ||
-| | !Lady Zombie | | ||
-| | Zombie 4 | | ||
-| | Lady Zombie x3 | | ||
+|| !Lady Zombie || ||
+|| Zombie 4 || ||
+|| Lady Zombie x3 || ||
 ! Replaces Fox
 Items: @Rock (ATK -10%), @Fish (DEF -10%), Brick, Dead Tree, Rotten Tr, Rock, Vase, Weed, Skull, Driftwood, Bone
 @ Protection effect removed on repeated version
@@ -291,17 +291,17 @@ Items: @Rock (ATK -10%), @Fish (DEF -10%), Brick, Dead Tree, Rotten Tr, Rock, Va
 7-4 Hall of Death
 First time enemy
 ||~ Unit ||~ Items ||
-| | Lierre | | Silver Spr ||
-| | Owl Sage | | Cane ||
-| | Owl Ninja | | Used Book ||
-| | Owl Sentry | | Dirk ||
-| | Owl Sentry x3 | | ||
+|| Lierre |  Silver Spr ||
+|| Owl Sage || Cane ||
+|| Owl Ninja || Used Book ||
+|| Owl Sentry || Dirk ||
+|| Owl Sentry x3 || ||
 Repeated version enemy
 ||~ Unit ||~ Items ||
-| | Fenrir x2 | | ||
-| | Saber Kitty x2 | | ||
-| | Funguy x2 | | ||
-| | Scrabbit x2 | | ||
+|| Fenrir x2 || ||
+|| Saber Kitty x2 || ||
+|| Funguy x2 || ||
+|| Scrabbit x2 || ||
 Items: !Skull Tree (SPD -30%), SacredRck (Reinforce x2 & Warp), Treasure (Rooted), Dagger (No O.B.), BronzeSwd (No O.B.), Bone, Seed, Stone, Flower, Rock, Weed, Skull, SacredRck, PoisonRck
 ! Removed on repeated version
 Repeated version added items: Silver Spr, Cane, Used Book
@@ -309,26 +309,26 @@ Repeated version added items: Silver Spr, Cane, Used Book
 7-5 No Man's Land
 First time enemy
 ||~ Unit ||~ Items ||
-| | Raphael | | !Heliotrope ||
+|| Raphael || !Heliotrope ||
 ! Unique item
 Repeated version enemy
 ||~ Unit ||~ Items ||
-| | Dragon | | ||
-| | Fenrir x3 | | ||
+|| Dragon || ||
+|| Fenrir x3 || ||
 Items: Bomb (ATK +10%), Treasure (ATK +40%), Spell Book (ATK +20%), Bomb (ATK +10%), SacredRck (DEF +10%), SacredRck (DEF +10%), @Driftwood (Reinforce 30%, EXP +60%, Mana +60% & Money + 60%), SacredRck, Rock, Bomb, Flower, BlasphTr, Weed, Wight Tree, Rotten Tr, Wither Tr
 @ Added on repeated version
 
 7-6 Mortality's End
 First time enemy
 ||~ Unit ||~ Items ||
-| | Walnut | | ||
+|| Walnut || ||
 First time neutral
 ||~ Unit ||~ Items ||
-| | Mimic | | ||
+|| Mimic || ||
 Repeated version enemies
 ||~ Unit ||~ Items ||
-| | Ghost | | ||
-| | Cerberus x4 | | ||
+|| Ghost || ||
+|| Cerberus x4 || ||
 Items: @PoisonRck (Damage 10%), @Bone (ATK -10%), @Deadwood (DEF -10%), @Flower (DEF -30%), @Skull (ATK -30%), @Wither Tr (DEF -30%), @Weed (DEF -30%), @PoisonRck (ATK -30%), @Brick (ATK -30%), @CurseTree (DEF -30%), @PoisonRck (ATK -30%), @Rock (ATK -30%), @Wither Tr (ATK -30%), @Rotten Tr (DEF -30%), @Flower (DEF -30%), CurseTree, Skull, Bone, PoisonRck, Bomb, !Egg
 ! Unique item, used for reincarnation. Removed on repeated version.
 @ Protection effect removed on repeated version
@@ -1402,7 +1402,7 @@ Find yourself stuck in a particular spot and need a grinding spot? I WOULD recom
 * Go to the Dungeon Monk and Create a Dungeon, look for Size: Small, Number of Enemies: Few and Ground: Normal with the highest level possible.
 * Go to the Titlist and change the Dungeon to have Failure as it's title, this will massively weaken enemies allowing you to take on powerful enemies with a weak team.
 * Go to the Dungeon and complete it.
-The highest level dungeon you can make is based on your Dungeon Monk who will gain exp as you complete dungeons they make, also items are not affected by the title so you can get great items that can replace what you are using and also helpful to get items with large amounts mana on them for fusion. 
+The highest level dungeon you can make is based on your Dungeon Monk who will gain exp as you complete dungeons they make, also items are not affected by the title so you can get great items that can replace what you are using and also helpful to get items with large amounts mana on them for fusion. This setting is mainly for getting higher level items to use for fusion below.
 
 For failure fusion having 2 of the same item is recommended, you will get a smaller boost using a good title compared to using the Failure title on the one you want to boost. The process goes
 * Go to the Titlist and give the item you want to fuse the Failure title.
@@ -1410,6 +1410,8 @@ For failure fusion having 2 of the same item is recommended, you will get a smal
 * Pick the parameters and specials you want to pass on and confirm, should you not have enough Mana fuse other unused items until you have enough.
 * After the desired fusion go back to the Titlist and give the original title back.
 The item should be loads more powerful than it would've been had you done a regular fusion, leveling Fusionist will lower the mana cost.
+
+After making your powerful weapon with failure fusion if you want to get levels for your units simply go for Size: Small and Number of Enemies: Many, the enemy type doesn't really matter though if the dungeon level doesn't cap at 9999 Giant type enemies give the most EXP per kill, this is also good to do with titles if you want them to have higher percentages. If you just want the base stats the random dungeon needs to be at least level 900 where if you want to include Guard, Steal & Move you will want to make that dungeon level 5929. Giving dungeons titles at the Titlist will slowly increase the number of floors if it wasn't 99 and also slowly increase the level as well, to mass obtain titles just buy out all the weapons your merchant has to offer and give them to Marona similar to getting the Failure title.
 
 ++ Increasing Equip%
 You may notice that all items have a percentage after to their stats which determine how much you are getting while holding them. Some may even have detrimental %'s which cause you to lose stats, though you will never go below 1. Increasing the Equip% can give you a big edge giving more benefits to items that have initial large drawbacks, Confine% also works the same when confining Phantoms to your items. Certain items are best used in fusion to increase Equip% which if yours is naturally under it will continue to rise until you reach it's current %.
