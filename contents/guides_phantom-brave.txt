@@ -45,14 +45,14 @@ Should you accidentally (or incidentally) defeat an ally you will gain Dark Poin
 
 + Marona Story
 ++ Chapter 1 A Jill of All Trades
-I will skip the tutorial battle with Ash since you can't lose it (they don't attack on their turn) so you will start on Phantom Isle, before you begin the story there are 5 spots on the isle where if you jump by pressing Circle you'll be given 100 Bordeaux. These being
+I will skip the tutorial battle with Ash since you can't lose it (they don't attack on their turn) so you will start on Phantom Isle, before you begin the story there are 5 spots on the isle where if you jump by pressing [[span class="controller"]]D[[/span]] you'll be given 100 Bordeaux. These being
 [[image wonder1.avif | The lower edge of the circle of stones next to the house.]]
 [[image wonder2.avif | Corner of the beach West from the house.]]
 [[image wonder3.avif | Top of the hill behind the house]]
 [[image wonder4.avif | The water below the cliff behind the house]]
 [[image wonder5.avif | On top of the house]]
 
-For a Changebook lift units with the Square button and throw them at the top of the house, jump on top of them as they're stacked and then jump to the big tree next to the house to get the Changebook. An extra feature of the Changebook is that you can control a different unit if you don't want to control Ash, simply lift the book and stand in front of the unit you wish to control and press R2. Should you want to switch again take it back with the same button to lift and repeat the process to the next unit.
+For a Changebook lift units with [[span class="controller"]]A[[/span]] and throw them at the top of the house, jump on top of them as they're stacked and then jump to the big tree next to the house to get the Changebook. An extra feature of the Changebook is that you can control a different unit if you don't want to control Ash, simply lift the book and stand in front of the unit you wish to control and press R2. Should you want to switch again take it back with the same button to lift and repeat the process to the next unit.
 [[image wonder6.avif | Jump on the big tree next to the house.]]
 
 For an extra ally, a Bottlemail, throw all 3 recruited characters on the big tree and bring Marona along. Stack all of them and jump to get your prize. If you can't get this now then come back after getting trees which are easier to stack and don't take damage.
