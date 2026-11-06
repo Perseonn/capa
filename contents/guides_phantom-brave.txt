@@ -1,7 +1,6 @@
 @title: Phantom Brave
 @author: Buster Wolf
-@updated: 2026-09-25
-@wip
+@updated: 2026-11-06
 
 Phantom Brave is a separate Strategy RPG IP from Nippon Ichi Software, if you are used to their quirky and zany humor you won't find as much here as this has a darker tone than they are known for. This was released on the PS2 in 2004, then it was later ported to the Wii (We Meet Again) in 2009 and then again on PSP (The Hermuda Triangle) both of which added Another Marona story and extra characters. The version this guide is based on is the Steam port Phantom Brave PC though most of it should still be doable other versions.
 
@@ -1531,6 +1530,18 @@ Items: Remote (Invincible), Stone, SpiriTree, Blossom, Skull, Misc Weed
 +++ Higher Place
 **New Challenger! Cont.** (Extra Map 11)
 Requirement: Clear New Challenger! (Extra Map 10)
+Enemy: Pringer XX
+Items: Remote (Invincible), PoisonRck (HP Heal 50%), EvlRockWd (DEF +50%), SUnflower, EvlRockWd, Sacred Tr, Stone, Sign, Misc Weed, Rotten Tr, Brick, Vase, Bomb, Phonogrph, Hourglass, Bread, Skull, Pot, Wight Tree, Pumpkin, Fish, Barrel, Candle
+
++++ Top of the World
+**New Challenger! More** (Extra Map 12)
+Requirement: Clear New Challenger! Cont. (Extra Map 11)
+Enemy
+||~ Unit ||~ Protection ||
+|| Pringer XXX || ||
+|| Pringer XX || HP Heal 100% (U) ||
+|| Pringer X || HP Heal 50% (U) ||
+Items: Remote (Invincible), Pillar (Damage 30% & DEF +30%), Pillar (ATK +30% & SPD -30%), Pillar (HP Heal 30% & DEF -30%), Pillar (ATK -30% & SPD+30%), DivineTree, 
 
 ++ Stamp Rally
 This is unlocked in the post game for any version that isn't the original Playstation 2 game, these are maps with more available methods for reincarnation. These are accessed by reading the final letter added after you reach post game which will ask if you want to participate in a Stamp Rally and tell you specific map to visit to complete, afterward any subsequent map must be read from the next letter to continue after completing the previous map.
@@ -1549,7 +1560,7 @@ Enemy
 | | Fighter x2 | | | | ||
 Neutral
 ||~ Unit ||~ Protection ||
-| | Saber Kitty | | EXP +10% (U) ||
+|| Saber Kitty || EXP +10% (U) ||
 Items: !Egg, Trolly, CurseTree, Skull Tree, Sign, Crate, Rotten Tr, Brick, Rock, Bone, Stump, Crystal, Vase
 ! Unique item, used for reincarnation.
 
