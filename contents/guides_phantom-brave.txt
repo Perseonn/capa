@@ -357,8 +357,8 @@ Enemy
 || Fenrir || || DEF+10% (U) ||
 || Fenrir || || ATK +10% (U) ||
 || Funguy || Flower || @Reinforce 20% (U) ||
-|| Funguy || || || @Reinforce 20% (U) ||
-|| Funguy || || || @Reinforce 20% (U) ||
+|| Funguy || || @Reinforce 20% (U) ||
+|| Funguy || || @Reinforce 20% (U) ||
 || Granny || || ||
 || Merman x2 || || ||
 || Mermaid || || ||
@@ -1410,7 +1410,7 @@ For failure fusion having 2 of the same item is recommended, you will get a smal
 * After the desired fusion go back to the Titlist and give the original title back.
 The item should be loads more powerful than it would've been had you done a regular fusion, leveling Fusionist will lower the mana cost.
 
-After making your powerful weapon with failure fusion if you want to get levels for your units simply go for Size: Small and Number of Enemies: Many, the enemy type doesn't really matter though if the dungeon level doesn't cap at 9999 Giant type enemies give the most EXP per kill, this is also good to do with titles if you want them to have higher percentages. If you just want the base stats the random dungeon needs to be at least level 900 where if you want to include Guard, Steal & Move you will want to make that dungeon level 5929. Giving dungeons titles at the Titlist will slowly increase the number of floors if it wasn't 99 and also slowly increase the level as well, to mass obtain titles just buy out all the weapons your merchant has to offer and give them to Marona similar to getting the Failure title.
+After making your powerful weapon with failure fusion if you want to get levels for your units simply go for Size: Small and Number of Enemies: Many, the enemy type doesn't really matter though if the dungeon level is as close as possible to 9,000 Giant type enemies give the most EXP per kill, this is also good to do with titles if you want them to have higher percentages. If you just want the base stats the random dungeon needs to be at least level 900 where if you want to include Guard, Steal & Move you will want to make that dungeon level 5,929. Giving dungeons titles at the Titlist will slowly increase the number of floors if it wasn't 99 and also slowly increase the level as well, to mass obtain titles just buy out all the weapons your merchant has to offer and give them to Marona similar to getting the Failure title.
 
 ++ Increasing Equip%
 You may notice that all items have a percentage after to their stats which determine how much you are getting while holding them. Some may even have detrimental %'s which cause you to lose stats, though you will never go below 1. Increasing the Equip% can give you a big edge giving more benefits to items that have initial large drawbacks, Confine% also works the same when confining Phantoms to your items. Certain items are best used in fusion to increase Equip% which if yours is naturally under it will continue to rise until you reach it's current %.
