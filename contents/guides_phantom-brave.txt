@@ -338,10 +338,10 @@ Items: @PoisonRck (Damage 10%), @Bone (ATK -10%), @Deadwood (DEF -10%), @Flower 
 8-1 Forsaken Glacier
 Enemy
 ||~ Unit ||~ Items ||
-| | Merman | | Cane ||
-| | Funguy x4 | | ||
-| | Blob | | ||
-| | Mermaid x2 | | ||
+|| Merman || Cane ||
+|| Funguy x4 || ||
+|| Blob || ||
+|| Mermaid x2 || ||
 First time neutral: Soldier
 Items: Crate (No O.B.), Crate (Sticky), Crate (No O.B.), Crate, Crystal, Weed
 
@@ -353,16 +353,16 @@ Items: Fish (KeepOut: Yellow), Crystal (No O.B.), PoisonRck (No O.B.), Crystal (
 8-3 Demon's Grudge
 Enemy
 ||~ Unit ||~ Item ||~ Protection ||
-| | Fenrir | | | | SPD +10% (U) ||
-| | Fenrir | | | | DEF+10% (U) ||
-| | Fenrir | | | | ATK +10% (U) ||
-| | Funguy | | Flower | | @Reinforce 20% (U) ||
-| | Funguy | | | | @Reinforce 20% (U) ||
-| | Funguy | | | | @Reinforce 20% (U) ||
-| | Granny | | | | ||
-| | Merman x2 | | | | ||
-| | Mermaid | | | | ||
-| | Saber Kitty x3 | | | | ||
+|| Fenrir || || SPD +10% (U) ||
+|| Fenrir || || DEF+10% (U) ||
+|| Fenrir || || ATK +10% (U) ||
+|| Funguy || Flower | | @Reinforce 20% (U) ||
+|| Funguy || || @Reinforce 20% (U) ||
+|| Funguy || || @Reinforce 20% (U) ||
+|| Granny || || ||
+|| Merman x2 || || ||
+|| Mermaid || || ||
+|| Saber Kitty x3 || || ||
 @ Protection effect removed on repeated version
 First time neutral: Witch, Soldier
 Items: Rock (No O.B.), Anthill (ATK +10%), Rock (DEF +10%), Crystal (No O.B. & Sticky), Crystal (No O.B. & Sticky), Crystal (No O.B. & Sticky), Rock (No O.B.), Crystal (No O.B.), Rock (Sticky), Misc Weed, Anthill, Crystal, Rock, Flower
@@ -371,11 +371,11 @@ Items: Rock (No O.B.), Anthill (ATK +10%), Rock (DEF +10%), Crystal (No O.B. & S
 First time enemy: Golem
 Repeated version enemy
 ||~ Unit ||~ Item ||~ Protection ||
-| | Mermaid | | Flower | | DEF +20% (I) ||
-| | Mermaid | | Flower | | ATK +10% (I) ||
-| | Merman | | Misc Weed | | HP Heal 10% & Sticky (I) ||
-| | Mermaid | | Flower | | HP Heal 10% & Sticky (I) ||
-| | Merman | | Gold Spr | | Reinforce 10% (I) ||
+|| Mermaid || Flower || DEF +20% (I) ||
+|| Mermaid || Flower || ATK +10% (I) ||
+|| Merman || Misc Weed || HP Heal 10% & Sticky (I) ||
+|| Mermaid || Flower || HP Heal 10% & Sticky (I) ||
+|| Merman || Gold Spr || Reinforce 10% (I) ||
 First time neutral: Soldier x5, Witch x2
 Items: !Sacred Tr (Reinforce 30%), !Sacred Tr (DEF +50%), !Sacred Tr (DEF +50%), !Sacred Tr (Warp), Crystal (SPD +10%), Crystal (ATK +10%), Flower (DEF +10%), Crystal (DEF +10%), Crystal (SPD +10%), Crystal (ATK +10%), Sacred Tr, Treasure, Crystal, @Sacred Tr (No O.B.)
 ! Removed on repeated version
@@ -1636,15 +1636,15 @@ Items: !Egg, SacredRck x3 (Sticky & SPD-40%), Misc Weed, Wither Tr, Rotten Tr, S
 **Isle of Healing Waters - Tragedy's Stage**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Fox | | Dead Staff | | Damage 30% (U) ||
-| | Lady Zombie x5 | | | | Damage 50% (U) ||
-| | Zombie x3 | | | | Damage 50% (U) ||
-| | Lady Zombie | | | | No O.B. (U) ||
-| | Zombie x2 | | | | ||
-| | Lady Zombie | | | | ||
+|| Fox || Dead Staff || Damage 30% (U) ||
+|| Lady Zombie x5 || || Damage 50% (U) ||
+|| Zombie x3 || || Damage 50% (U) ||
+|| Lady Zombie || || No O.B. (U) ||
+|| Zombie x2 || || ||
+|| Lady Zombie || || ||
 Neutral
 ||~ Unit ||~ Protection ||
-| | Saber Kitty | | HP Heal 30% (U) ||
+|| Saber Kitty || HP Heal 30% (U) ||
 Items: !Egg, Brick, Pillar, Sapling, Old Tree
 ! Unique item, used for reincarnation.
 
