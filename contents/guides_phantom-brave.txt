@@ -357,8 +357,8 @@ Enemy
 || Fenrir || || DEF+10% (U) ||
 || Fenrir || || ATK +10% (U) ||
 || Funguy || Flower || @Reinforce 20% (U) ||
-|| Funguy || || @Reinforce 20% (U) ||
-|| Funguy || || @Reinforce 20% (U) ||
+|| Funguy || || || @Reinforce 20% (U) ||
+|| Funguy || || || @Reinforce 20% (U) ||
 || Granny || || ||
 || Merman x2 || || ||
 || Mermaid || || ||
