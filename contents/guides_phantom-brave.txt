@@ -353,16 +353,16 @@ Items: Fish (KeepOut: Yellow), Crystal (No O.B.), PoisonRck (No O.B.), Crystal (
 8-3 Demon's Grudge
 Enemy
 ||~ Unit ||~ Item ||~ Protection ||
-|| Fenrir || || SPD +10% (U) ||
-|| Fenrir || || DEF+10% (U) ||
-|| Fenrir || || ATK +10% (U) ||
+|| Fenrir ||  || SPD +10% (U) ||
+|| Fenrir ||  || DEF+10% (U) ||
+|| Fenrir ||  || ATK +10% (U) ||
 || Funguy || Flower || @Reinforce 20% (U) ||
-|| Funguy || || @Reinforce 20% (U) ||
-|| Funguy || || @Reinforce 20% (U) ||
-|| Granny || || ||
-|| Merman x2 || || ||
-|| Mermaid || || ||
-|| Saber Kitty x3 || || ||
+|| Funguy ||  || @Reinforce 20% (U) ||
+|| Funguy ||  || @Reinforce 20% (U) ||
+|| Granny ||  ||  ||
+|| Merman x2 ||  ||  ||
+|| Mermaid ||  ||  ||
+|| Saber Kitty x3 ||  ||  ||
 @ Protection effect removed on repeated version
 First time neutral: Witch, Soldier
 Items: Rock (No O.B.), Anthill (ATK +10%), Rock (DEF +10%), Crystal (No O.B. & Sticky), Crystal (No O.B. & Sticky), Crystal (No O.B. & Sticky), Rock (No O.B.), Crystal (No O.B.), Rock (Sticky), Misc Weed, Anthill, Crystal, Rock, Flower
