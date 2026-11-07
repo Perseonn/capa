@@ -148,7 +148,7 @@ Enemy
 || Scrabbit x7 || || ||
 || Shade || x || SPD-20% (U) ||
 || Shade || x || ATK-20% (U) ||
-|| Shade ||  || DEF-20% (U) ||
+|| Shade || x || DEF-20% (U) ||
 || Manticore || || ||
 Neutral: Titlist
 Items: Pot, Water Can, Brick, Flower, Giant Tree, Weed, Sunflower, Seed, Vase, Rock
@@ -268,7 +268,7 @@ First time enemy
 
 Repeated version enemy
 ||~ Unit ||~ Items ||~ Protection ||
-|| Scrabbit || || HP Heal 10% (U) ||
+|| Scrabbit || x || HP Heal 10% (U) ||
 || Lizardman x3 || Funguy || ||
 Items: !Cactus (DEF -30%), Bone (SPD +10%), Skull (DEF +10%), Rock (ATK +10%), !Anthill (DEF -10%), Flower (Warp), Bone (Stay Back 10dm), Rock, Bomb, Flower, Anthill
 ! Removed on repeated version
@@ -353,12 +353,12 @@ Items: Fish (KeepOut: Yellow), Crystal (No O.B.), PoisonRck (No O.B.), Crystal (
 8-3 Demon's Grudge
 Enemy
 ||~ Unit ||~ Item ||~ Protection ||
-|| Fenrir ||  || SPD +10% (U) ||
-|| Fenrir ||  || DEF+10% (U) ||
-|| Fenrir ||  || ATK +10% (U) ||
+|| Fenrir || x || SPD +10% (U) ||
+|| Fenrir || x || DEF+10% (U) ||
+|| Fenrir || x || ATK +10% (U) ||
 || Funguy || Flower || @Reinforce 20% (U) ||
-|| Funguy ||  || @Reinforce 20% (U) ||
-|| Funguy ||  || @Reinforce 20% (U) ||
+|| Funguy || x || @Reinforce 20% (U) ||
+|| Funguy || x || @Reinforce 20% (U) ||
 || Granny ||  ||  ||
 || Merman x2 ||  ||  ||
 || Mermaid ||  ||  ||
@@ -1637,9 +1637,9 @@ Items: !Egg, SacredRck x3 (Sticky & SPD-40%), Misc Weed, Wither Tr, Rotten Tr, S
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
 || Fox || Dead Staff || Damage 30% (U) ||
-|| Lady Zombie x5 || || Damage 50% (U) ||
-|| Zombie x3 || || Damage 50% (U) ||
-|| Lady Zombie || || No O.B. (U) ||
+|| Lady Zombie x5 || x || Damage 50% (U) ||
+|| Zombie x3 || x || Damage 50% (U) ||
+|| Lady Zombie || x || No O.B. (U) ||
 || Zombie x2 || || ||
 || Lady Zombie || || ||
 Neutral
