@@ -268,7 +268,7 @@ First time enemy
 
 Repeated version enemy
 ||~ Unit ||~ Items ||~ Protection ||
-|| Scrabbit || x || HP Heal 10% (U) ||
+|| Scrabbit || - || HP Heal 10% (U) ||
 || Lizardman x3 || Funguy || ||
 Items: !Cactus (DEF -30%), Bone (SPD +10%), Skull (DEF +10%), Rock (ATK +10%), !Anthill (DEF -10%), Flower (Warp), Bone (Stay Back 10dm), Rock, Bomb, Flower, Anthill
 ! Removed on repeated version
@@ -423,39 +423,39 @@ Items: SacredRck (EXP +10%, Money +10% & Mana +10%), PoisonRck, Trolly, Rock, Ba
 10-2 Fierce Tyrant
 Enemy
 ||~ Unit ||~ Protection ||
-| | Lizardman | | Mana x2 (U) ||
-| | Lizardman | | ||
-| | Manticore | | EXP x2 (U) ||
-| | Manticore | | ||
-| | Cerberus | | Money x2 (U) ||
-| | Cerberus | | ||
-| | Golem | | ||
+|| Lizardman || Mana x2 (U) ||
+|| Lizardman || ||
+|| Manticore || EXP x2 (U) ||
+|| Manticore || ||
+|| Cerberus || Money x2 (U) ||
+|| Cerberus || ||
+|| Golem || ||
 Items: Sign, Rock, Trolly, Brick, Rotten Tr, Bomb, Crate, SacredRck, Skull, Bone, PoisonRck, Wither Tr, Deadwood
 
 10-3 Hill of Death
 Enemy
 ||~ Unit ||~ Protection ||
-| | Ghost | | EXP x2 (U) ||
-| | Ghost | | Mana x2 (U) ||
-| | Cerberus | | EXP x2 (U) ||
-| | Cerberus | | Mana x2 (U) ||
-| | Fenrir | | EXP x2 (U) ||
-| | Fenrir | | Mana x2 (U) ||
-| | Dragon | | ||
+|| Ghost || EXP x2 (U) ||
+|| Ghost || Mana x2 (U) ||
+|| Cerberus || EXP x2 (U) ||
+|| Cerberus || Mana x2 (U) ||
+|| Fenrir || EXP x2 (U) ||
+|| Fenrir || Mana x2 (U) ||
+|| Dragon || ||
 Items: PoisonRck (Reinforce x2), Crate (Reinforce 2), Wither Tr, PoisonRck, Stone, Misc Weed, Rock, Anthill, Skull, Bone, Wight Tree
 
 10-4 Land of Fire
 Enemy
 ||~ Unit ||~ Protection ||
-| | Dragon | | HP Heal 20% (U) ||
-| | Ghost | | DEF +20% (U) ||
-| | Ghost | | ATK +20% (U) ||
-| | Fenrir | | HP Heal 20% (U) ||
-| | Ghost | | DEF +20% (U) ||
-| | Ghost | | ATK +20% (U) ||
-| | Hell Corgi | | HP Heal 20% (U) ||
-| | Ghost | | DEF +20% (U) ||
-| | Ghost | | ATK +20% (U) ||
+|| Dragon || HP Heal 20% (U) ||
+|| Ghost || DEF +20% (U) ||
+|| Ghost || ATK +20% (U) ||
+|| Fenrir || HP Heal 20% (U) ||
+|| Ghost || DEF +20% (U) ||
+|| Ghost || ATK +20% (U) ||
+|| Hell Corgi || HP Heal 20% (U) ||
+|| Ghost || DEF +20% (U) ||
+|| Ghost || ATK +20% (U) ||
 Items: PoisonRck (Def+50%), Blossom, Rock, Vase, Bread, PoisonRck, Deadwood, SacredRck, Bone, Skull, Dead Tree, Wight Tree, Crystal, Barrel
 
 +++ Episode 11 Paradise Saved?
@@ -1600,16 +1600,16 @@ Items: !Egg, Rock, Stone, Rock Weed, Devil Rock, SacredRck, PoisonRck, Crystal
 **Desert Island - A Test of Will**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Flame | | Gold Axe | | ||
-| | Amazon | | Dagger | | KeepOut: Green (U) ||
-| | Amazon x2 | | Dagger | |  ||
-| | Amazon x2 | | Iron Sword | | KeepOut: Blue (U) ||
-| | Amazon | | Steel Spr | | KeepOut: Green (U) ||
-| | Amazon x2 | | Steel Spr | | ||
-| | Amazon | | Silver Spr | | ||
+|| Flame || Gold Axe || ||
+|| Amazon || Dagger || KeepOut: Green (U) ||
+|| Amazon x2 || Dagger ||  ||
+|| Amazon x2 || Iron Sword || KeepOut: Blue (U) ||
+|| Amazon || Steel Spr || KeepOut: Green (U) ||
+|| Amazon x2 || Steel Spr || ||
+|| Amazon || Silver Spr || ||
 Neutral
 ||~ Unit ||~ Protection ||
-| | Saber Kitty | | Warp (U) ||
+|| Saber Kitty || Warp (U) ||
 Items: !Egg (KeepOut: Red), Treasure (SPD +20%), Cactus
 ! Unique item, used for reincarnation.
 
