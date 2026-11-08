@@ -83,10 +83,10 @@ Items: Stone (HP Heal 30% & Reinforce 30%), Weed, Old Tree, Tree, Rock
 **1-2 Barren Earth**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-|| Slime || x || EXP X2 (U) ||
-|| Slime || x || DEF x2 (U) ||
-|| Slime || x || Reinforce x2 (U) ||
-|| Slime || x || ATK x2 (U) ||
+|| Slime || - || EXP X2 (U) ||
+|| Slime || - || DEF x2 (U) ||
+|| Slime || - || Reinforce x2 (U) ||
+|| Slime || - || ATK x2 (U) ||
 || Slime x2 || || ||
 || Blacksmith || || ||
 Items: Flower, Rock, Old Tree, Tree, Weed, Seed, Starfish, Cactus
@@ -96,8 +96,8 @@ Enemy: !Raphael?, Slime x9
 ! Removed on repeated version
 First time repeated neutrals
 ||~ Unit ||~ Items ||~ Protection ||
-|| Owl Knight || x || SPD +50% (U) ||
-|| Owl Sentry || x || SPD +50% (U) ||
+|| Owl Knight || - || SPD +50% (U) ||
+|| Owl Sentry || - || SPD +50% (U) ||
 Items: Flower, Weed, Rock, Old Tree, Seed, Starfish
 
 +++ Episode 2 Walnut
@@ -105,7 +105,7 @@ Items: Flower, Weed, Rock, Old Tree, Seed, Starfish
 **2-1 Sylph's Melody**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-|| Fusionist || x || Money & EXP +50% (U) ||
+|| Fusionist || - || Money & EXP +50% (U) ||
 || Summon x4 || || ||
 Items: Weed, Mushroom, Dead Tree, Driftwood, Bomb
 
@@ -130,7 +130,7 @@ He replaces Walnut.
 **Monetopia**
 **3-1 Gentle Brook**
 ||~ Unit ||~ Items ||~ Protection ||
-|| Shade || x || KeepOut: Red (U) ||
+|| Shade || - || KeepOut: Red (U) ||
 || Scrabbit x8 || || ||
 First time repeated neutral: Owl Ninja
 Items: Crystal (Mana +50%, EXP +50% & Weaken 20%), Pot, Brick, Weed, Flower, Mushroom
@@ -146,9 +146,9 @@ Items: Crystal (Money +50% & EXP +50%), Pot, Flower, Weed, Rock, Sunflower, Bric
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
 || Scrabbit x7 || || ||
-|| Shade || x || SPD-20% (U) ||
-|| Shade || x || ATK-20% (U) ||
-|| Shade || x || DEF-20% (U) ||
+|| Shade || - || SPD-20% (U) ||
+|| Shade || - || ATK-20% (U) ||
+|| Shade || - || DEF-20% (U) ||
 || Manticore || || ||
 Neutral: Titlist
 Items: Pot, Water Can, Brick, Flower, Giant Tree, Weed, Sunflower, Seed, Vase, Rock
@@ -353,12 +353,12 @@ Items: Fish (KeepOut: Yellow), Crystal (No O.B.), PoisonRck (No O.B.), Crystal (
 8-3 Demon's Grudge
 Enemy
 ||~ Unit ||~ Item ||~ Protection ||
-|| Fenrir || x || SPD +10% (U) ||
-|| Fenrir || x || DEF+10% (U) ||
-|| Fenrir || x || ATK +10% (U) ||
+|| Fenrir || - || SPD +10% (U) ||
+|| Fenrir || - || DEF+10% (U) ||
+|| Fenrir || - || ATK +10% (U) ||
 || Funguy || Flower || @Reinforce 20% (U) ||
-|| Funguy || x || @Reinforce 20% (U) ||
-|| Funguy || x || @Reinforce 20% (U) ||
+|| Funguy || - || @Reinforce 20% (U) ||
+|| Funguy || - || @Reinforce 20% (U) ||
 || Granny ||  ||  ||
 || Merman x2 ||  ||  ||
 || Mermaid ||  ||  ||
@@ -395,18 +395,18 @@ Items: Rock (EXP x2 & Reinforce 10%), Cactus, Weed, PoisonRck, Rock
 (Part 1)
 Enemy
 ||~ Unit ||~ Protection ||
-| | Raphael? | | ||
-| | Slime | | ATK +10% (U) ||
-| | Slime | | DEF +10% (U) ||
-| | Slime | | SPD +10% (U) ||
-| | Shade x4 | | ||
+|| Raphael? || ||
+|| Slime || ATK +10% (U) ||
+|| Slime || DEF +10% (U) ||
+|| Slime || SPD +10% (U) ||
+|| Shade x4 || ||
 Items: Pillar (Resistant), Pillar (Permanent), Cactus, Weed, PoisonRck, Flower, Vase, Stone, Treasure
 
 (Part 2)
 Enemy: Raphael?
 Neutral
 ||~ Unit ||~ Item ||
-| | Raphael | | !Heliotrope ||
+|| Raphael || !Heliotrope ||
 ! Unique item
 Items: Cactus (Invincible), Cactus (Invincible), Cactus (Invincible), Pillar (Resistant), Pillar (Permanent), Cactus, Weed, PoisonRck, Flower, Vase, Stone, Treasure
 
@@ -1617,18 +1617,18 @@ Items: !Egg (KeepOut: Red), Treasure (SPD +20%), Cactus
 **Icicle Island - Lupine on Ice**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Putty Monk x2 | | | | Permanent, SPD-50%, No O.B. (U) ||
-| | Putty | | | | Permanent, SPD-50%, No O.B. (U) ||
-| | Putty | | | | Permanent, SPD-30%, No O.B. (U) ||
-| | Putty Mage | | Dead Staff | | Permanent, SPD-40%, No O.B. (U) ||
-| | Putty Mage | | Dead Staff | | Permanent, SPD-30%, No O.B. (U) ||
-| | Putty Shaman | | StoneCane | | Permanent, SPD-40%, No O.B. (U) ||
-| | Putty Shaman | | StoneCane | | Permanent, SPD-30%, No O.B. (U) ||
-| | Putty Smith | | Hammer | | Permanent, SPD-40%, No O.B. (U) ||
-| | Putty Smith | | Hammer | | Permanent, SPD-30%, No O.B. (U) ||
+|| Putty Monk x2 || - || Permanent, SPD-50%, No O.B. (U) ||
+|| Putty || - || Permanent, SPD-50%, No O.B. (U) ||
+|| Putty || - || Permanent, SPD-30%, No O.B. (U) ||
+|| Putty Mage || Dead Staff || Permanent, SPD-40%, No O.B. (U) ||
+|| Putty Mage || Dead Staff || Permanent, SPD-30%, No O.B. (U) ||
+|| Putty Shaman || StoneCane || Permanent, SPD-40%, No O.B. (U) ||
+|| Putty Shaman || StoneCane || Permanent, SPD-30%, No O.B. (U) ||
+|| Putty Smith || Hammer || Permanent, SPD-40%, No O.B. (U) ||
+|| Putty Smith || Hammer || Permanent, SPD-30%, No O.B. (U) ||
 Neutral
 ||~ Unit ||~ Protection ||
-| | Saber Kitty | | Sticky (U) ||
+|| Saber Kitty || Sticky (U) ||
 Items: !Egg, SacredRck x3 (Sticky & SPD-40%), Misc Weed, Wither Tr, Rotten Tr, Stone, Anthill, Blossom, Weed, Wight Tree
 ! Unique item, used for reincarnation.
 
@@ -1637,9 +1637,9 @@ Items: !Egg, SacredRck x3 (Sticky & SPD-40%), Misc Weed, Wither Tr, Rotten Tr, S
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
 || Fox || Dead Staff || Damage 30% (U) ||
-|| Lady Zombie x5 || x || Damage 50% (U) ||
-|| Zombie x3 || x || Damage 50% (U) ||
-|| Lady Zombie || x || No O.B. (U) ||
+|| Lady Zombie x5 || - || Damage 50% (U) ||
+|| Zombie x3 || - || Damage 50% (U) ||
+|| Lady Zombie || - || No O.B. (U) ||
 || Zombie x2 || || ||
 || Lady Zombie || || ||
 Neutral
