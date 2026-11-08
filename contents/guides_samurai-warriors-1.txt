@@ -7,7 +7,7 @@ Samurai Warriors is the first mainline Samurai Warriors game being the sister se
 
 + Stats
 While not all stats have been shown in the Dynasty Warriors games Samurai Warriors has it all visible, even the ones that would be internally kept like Range and Horse stats. Life & Musou cap at 300 while the rest all cap at 200, once a character hits Level 20 they can't gain anymore stats or Skill Points for learning skills. Unless you are on Xtreme Legends with the Character Level perk unlocked you can go past the characters normal limits listed below and can eventually reach every stat cap and hit the 99,999 Skill Points cap after Level 20. Everyone's initial stat will be on the left and their cap on the right, the stats are as followed.
-[[image sw1-stats.avif]]
+[[image sw1-stats.avif | Viewing all of the stats]]
 * Life - Your characters vitality, when it reach 0 you lose.
 * Musou - Unlike Dynasty Warriors, Musou slows down the action around you and can be done with your normal attacks as well instead of just holding the Musou Attack button, this determines the length of time Musou is active.
 * Attack - Damage dealt from the weapon in your hand.
