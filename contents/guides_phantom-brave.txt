@@ -1,7 +1,6 @@
 @title: Phantom Brave
 @author: Buster Wolf
-@updated: 2026-09-25
-@wip
+@updated: 2026-11-06
 
 Phantom Brave is a separate Strategy RPG IP from Nippon Ichi Software, if you are used to their quirky and zany humor you won't find as much here as this has a darker tone than they are known for. This was released on the PS2 in 2004, then it was later ported to the Wii (We Meet Again) in 2009 and then again on PSP (The Hermuda Triangle) both of which added Another Marona story and extra characters. The version this guide is based on is the Steam port Phantom Brave PC though most of it should still be doable other versions.
 
@@ -10,7 +9,7 @@ Those following along (specially Steam players) the suggested order is Marona's 
 + Suggested starting party
 Before starting the game has a variety of units available, you will want to keep your main party low as you progress.
 
-* Marona - You have no choice as she's always available and doesn't leave the field after a certain number of turns. Unlike other units she'll gain a percentage of EXP whenever a stage is cleared regardless how early or late in the game it is. The item you will want for heFr is a Vase though a Cane will suffice until they are available to specialize in her Healing special SP.
+* Marona - You have no choice as she's always available and doesn't leave the field after a certain number of turns. Unlike other units she'll gain a percentage of EXP whenever a stage is cleared regardless how early or late in the game it is. The item you will want for her is a Vase though a Cane will suffice until they are available to specialize in her Healing special SP.
 * Ash - He will stay in battle for a long time and has a unique power boost on his last turn for massively increased damage. He is good as a warrior type character though you may want to focus more on Energy attack specials, due to his unique special he'll gain from leveling up.
 * A secondary physical fighter - Fighter, Valkyrie, Owl Knight & Owl Sentry are all good choices for a generic physical unit, they all have a remove stat of 5 so they will last long on the field, unlike Ash these you'll want to focus on Physical attack specials.
 * 2 casters - You have a variable choice of magic units between Witch, Owl Mage and Putty Mage. Of the three, Witch is the most powerful having higher Int, while Owl & Putty mages are even in Int; Owl Mage is the fastest while Putty Mage is the slowest. The Fusionist is also good if you want to use Nature based specials, though look for ones that go off INT from Weeds, Flowers & Sunflowers.
@@ -46,14 +45,14 @@ Should you accidentally (or incidentally) defeat an ally you will gain Dark Poin
 
 + Marona Story
 ++ Chapter 1 A Jill of All Trades
-I will skip the tutorial battle with Ash since you can't lose it (they don't attack on their turn) so you will start on Phantom Isle, before you begin the story there are 5 spots on the isle where if you jump by pressing Circle you'll be given 100 Bordeaux. These being
+I will skip the tutorial battle with Ash since you can't lose it (they don't attack on their turn) so you will start on Phantom Isle, before you begin the story there are 5 spots on the isle where if you jump by pressing [[span class="controller"]]D[[/span]] you'll be given 100 Bordeaux. These being
 [[image wonder1.avif | The lower edge of the circle of stones next to the house.]]
 [[image wonder2.avif | Corner of the beach West from the house.]]
 [[image wonder3.avif | Top of the hill behind the house]]
 [[image wonder4.avif | The water below the cliff behind the house]]
 [[image wonder5.avif | On top of the house]]
 
-For a Changebook lift units with the Square button and throw them at the top of the house, jump on top of them as they're stacked and then jump to the big tree next to the house to get the Changebook. An extra feature of the Changebook is that you can control a different unit if you don't want to control Ash, simply lift the book and stand in front of the unit you wish to control and press R2. Should you want to switch again take it back with the same button to lift and repeat the process to the next unit.
+For a Changebook lift units with [[span class="controller"]]A[[/span]] and throw them at the top of the house, jump on top of them as they're stacked and then jump to the big tree next to the house to get the Changebook. An extra feature of the Changebook is that you can control a different unit if you don't want to control Ash, simply lift the book and stand in front of the unit you wish to control and press R2. Should you want to switch again take it back with the same button to lift and repeat the process to the next unit.
 [[image wonder6.avif | Jump on the big tree next to the house.]]
 
 For an extra ally, a Bottlemail, throw all 3 recruited characters on the big tree and bring Marona along. Stack all of them and jump to get your prize. If you can't get this now then come back after getting trees which are easier to stack and don't take damage.
@@ -84,10 +83,10 @@ Items: Stone (HP Heal 30% & Reinforce 30%), Weed, Old Tree, Tree, Rock
 **1-2 Barren Earth**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-|| Slime || || EXP X2 (U) ||
-|| Slime || || DEF x2 (U) ||
-|| Slime || || Reinforce x2 (U) ||
-|| Slime || || ATK x2 (U) ||
+|| Slime || - || EXP X2 (U) ||
+|| Slime || - || DEF x2 (U) ||
+|| Slime || - || Reinforce x2 (U) ||
+|| Slime || - || ATK x2 (U) ||
 || Slime x2 || || ||
 || Blacksmith || || ||
 Items: Flower, Rock, Old Tree, Tree, Weed, Seed, Starfish, Cactus
@@ -97,8 +96,8 @@ Enemy: !Raphael?, Slime x9
 ! Removed on repeated version
 First time repeated neutrals
 ||~ Unit ||~ Items ||~ Protection ||
-|| Owl Knight || || SPD +50% (U) ||
-|| Owl Sentry || || SPD +50% (U) ||
+|| Owl Knight || - || SPD +50% (U) ||
+|| Owl Sentry || - || SPD +50% (U) ||
 Items: Flower, Weed, Rock, Old Tree, Seed, Starfish
 
 +++ Episode 2 Walnut
@@ -106,7 +105,7 @@ Items: Flower, Weed, Rock, Old Tree, Seed, Starfish
 **2-1 Sylph's Melody**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-|| Fusionist || || Money & EXP +50% (U) ||
+|| Fusionist || - || Money & EXP +50% (U) ||
 || Summon x4 || || ||
 Items: Weed, Mushroom, Dead Tree, Driftwood, Bomb
 
@@ -131,7 +130,7 @@ He replaces Walnut.
 **Monetopia**
 **3-1 Gentle Brook**
 ||~ Unit ||~ Items ||~ Protection ||
-|| Shade || || KeepOut: Red (U) ||
+|| Shade || - || KeepOut: Red (U) ||
 || Scrabbit x8 || || ||
 First time repeated neutral: Owl Ninja
 Items: Crystal (Mana +50%, EXP +50% & Weaken 20%), Pot, Brick, Weed, Flower, Mushroom
@@ -147,9 +146,9 @@ Items: Crystal (Money +50% & EXP +50%), Pot, Flower, Weed, Rock, Sunflower, Bric
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
 || Scrabbit x7 || || ||
-|| Shade || || SPD-20% (U) ||
-|| Shade || || ATK-20% (U) ||
-|| Shade || || DEF-20% (U) ||
+|| Shade || - || SPD-20% (U) ||
+|| Shade || - || ATK-20% (U) ||
+|| Shade || - || DEF-20% (U) ||
 || Manticore || || ||
 Neutral: Titlist
 Items: Pot, Water Can, Brick, Flower, Giant Tree, Weed, Sunflower, Seed, Vase, Rock
@@ -188,8 +187,8 @@ Items: Old Tree (DEF +40%), Sapling (ATK +40%), Weed (HP Heal 10%), Flower (SPD 
 5-1 Nature's Bounty
 Enemy
 ||~ Unit ||~ Protection ||
-| | Saber Kitty | | EXP +30%, Money +30% & Mana +30% (U) ||
-| | Saber Kitty x6 | | ||
+|| Saber Kitty || EXP +30%, Money +30% & Mana +30% (U) ||
+|| Saber Kitty x6 || ||
 Items: Old Tree, Flower, Weed
 
 5-2 Bed of Flowers
@@ -215,37 +214,37 @@ Items: Treasure (EXP x2, Mana x2, Money x2, Reinforce 20%), Mushroom, Flower, We
 6-2 Mischief Garden
 Enemy
 ||~ Unit ||~ Protection ||
-| | Werewolf | | Stay Back 15dm (U) ||
-| | Manticore x3 | | ||
-| | Werewolf x2 | | ||
+|| Werewolf || Stay Back 15dm (U) ||
+|| Manticore x3 || ||
+|| Werewolf x2 || ||
 Neutral: Granny
 Items: Flower (DEF x2), PoisonRck (DEF x2), Rock (DEF x2), Mushroom (DEF x2), Anthill, Rock, Stump, Mushroom, Seed, Weed, Flower, SacredRck, PoisonRck
 
 6-3 Hidden Hall
 Enemy
 ||~ Unit ||~ Protection ||
-| | Fenrir | | ||
-| | Fenrir | | SPD +20% (U) ||
-| | Werewolf | | DEF +20% (U) ||
-| | Fenrir | | Money x2 (U) ||
-| | Fenrir | | SPD +20% (U) ||
-| | Fenrir | | DEF +20% (U) ||
-| | Manticore | | Mana x2 (U) ||
-| | Werewolf | | ATK+20% (U) ||
-| | Fenrir | | DEF +20% (U) ||
-| | Manticore | | EXP x2 (U) ||
+|| Fenrir || ||
+|| Fenrir || SPD +20% (U) ||
+|| Werewolf || DEF +20% (U) ||
+|| Fenrir || Money x2 (U) ||
+|| Fenrir || SPD +20% (U) ||
+|| Fenrir || DEF +20% (U) ||
+|| Manticore || Mana x2 (U) ||
+|| Werewolf || ATK+20% (U) ||
+|| Fenrir || DEF +20% (U) ||
+|| Manticore || EXP x2 (U) ||
 Items: Vase, Mushroom, PoisonRck, Weed, Sign, Sunflower, Crate, Flower, SacredRck, Stump
 
 6-4 Green Paradise
 Enemy
 ||~ Unit ||~ Items ||
-| | Dragon | | ||
-| | Werewolf | | ||
-| | Behemoth x2 | | ||
-| | Fenrir | | Weed ||
-| | Fenrir | | Mushroom ||
-| | Manticore | | Driftwood ||
-| | Manticore | | Mushroom ||
+|| Dragon || ||
+|| Werewolf || ||
+|| Behemoth x2 || ||
+|| Fenrir || Weed ||
+|| Fenrir || Mushroom ||
+|| Manticore || Driftwood ||
+|| Manticore || Mushroom ||
 Items: Seed (DEF +50%), Bone (ATK +50%), Rock (Reinforce 50%), Rock (Reinforce 50%), Weed (ATK +10%), Brick (DEF +10%), Skull, Weed, Vase, Crate, Brick, Stump, Sunflower, Pumpkin, Flower, SacredRck
 
 +++ Episode 7 The Rainbow Bird
@@ -253,9 +252,9 @@ Items: Seed (DEF +50%), Bone (ATK +50%), Rock (Reinforce 50%), Rock (Reinforce 5
 7-1 Sick Unto Death
 First time enemy
 ||~ Unit ||~ Items ||
-| | Blacksmith | | Big Axe ||
-| | Fighter | | Long Swd ||
-| | Fighter | | Iron Ktna ||
+|| Blacksmith || Big Axe ||
+|| Fighter || Long Swd ||
+|| Fighter || Iron Ktna ||
 Repeated version enemy: Manticore, Fenrir
 Items: !Barrel (EXP x2), Driftwood, Starfish, Rock, Crate, Wither Tr, Deadwood, Anthill, Bone
 ! Added on repeated version
@@ -263,27 +262,27 @@ Items: !Barrel (EXP x2), Driftwood, Starfish, Rock, Crate, Wither Tr, Deadwood, 
 7-2 Road of the Lost
 First time enemy
 ||~ Unit ||~ Items ||
-| | Flame | | SilverAxe ||
-| | Amazon x3 | | Dagger ||
-| | Amazon x3 | | ||
+|| Flame || SilverAxe ||
+|| Amazon x3 || Dagger ||
+|| Amazon x3 || ||
 
 Repeated version enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Scrabbit | | | | HP Heal 10% (U) ||
-| | Lizardman x3 | | Funguy | | ||
+|| Scrabbit || x || HP Heal 10% (U) ||
+|| Lizardman x3 || Funguy || ||
 Items: !Cactus (DEF -30%), Bone (SPD +10%), Skull (DEF +10%), Rock (ATK +10%), !Anthill (DEF -10%), Flower (Warp), Bone (Stay Back 10dm), Rock, Bomb, Flower, Anthill
 ! Removed on repeated version
 
 7-3 Life and Death
 Enemy
 ||~ Unit ||~ Item ||~ Protection ||
-| | Fox | | Silver Stf | | DEF +10% (U) ||
-| | Zombie x7 | | | | ||
+|| Fox || Silver Stf || DEF +10% (U) ||
+|| Zombie x7 || || ||
 Repeated version enemies
 ||~ Unit ||~ Items ||
-| | !Lady Zombie | | ||
-| | Zombie 4 | | ||
-| | Lady Zombie x3 | | ||
+|| !Lady Zombie || ||
+|| Zombie 4 || ||
+|| Lady Zombie x3 || ||
 ! Replaces Fox
 Items: @Rock (ATK -10%), @Fish (DEF -10%), Brick, Dead Tree, Rotten Tr, Rock, Vase, Weed, Skull, Driftwood, Bone
 @ Protection effect removed on repeated version
@@ -291,17 +290,17 @@ Items: @Rock (ATK -10%), @Fish (DEF -10%), Brick, Dead Tree, Rotten Tr, Rock, Va
 7-4 Hall of Death
 First time enemy
 ||~ Unit ||~ Items ||
-| | Lierre | | Silver Spr ||
-| | Owl Sage | | Cane ||
-| | Owl Ninja | | Used Book ||
-| | Owl Sentry | | Dirk ||
-| | Owl Sentry x3 | | ||
+|| Lierre ||  Silver Spr ||
+|| Owl Sage || Cane ||
+|| Owl Ninja || Used Book ||
+|| Owl Sentry || Dirk ||
+|| Owl Sentry x3 || ||
 Repeated version enemy
 ||~ Unit ||~ Items ||
-| | Fenrir x2 | | ||
-| | Saber Kitty x2 | | ||
-| | Funguy x2 | | ||
-| | Scrabbit x2 | | ||
+|| Fenrir x2 || ||
+|| Saber Kitty x2 || ||
+|| Funguy x2 || ||
+|| Scrabbit x2 || ||
 Items: !Skull Tree (SPD -30%), SacredRck (Reinforce x2 & Warp), Treasure (Rooted), Dagger (No O.B.), BronzeSwd (No O.B.), Bone, Seed, Stone, Flower, Rock, Weed, Skull, SacredRck, PoisonRck
 ! Removed on repeated version
 Repeated version added items: Silver Spr, Cane, Used Book
@@ -309,26 +308,26 @@ Repeated version added items: Silver Spr, Cane, Used Book
 7-5 No Man's Land
 First time enemy
 ||~ Unit ||~ Items ||
-| | Raphael | | !Heliotrope ||
+|| Raphael || !Heliotrope ||
 ! Unique item
 Repeated version enemy
 ||~ Unit ||~ Items ||
-| | Dragon | | ||
-| | Fenrir x3 | | ||
+|| Dragon || ||
+|| Fenrir x3 || ||
 Items: Bomb (ATK +10%), Treasure (ATK +40%), Spell Book (ATK +20%), Bomb (ATK +10%), SacredRck (DEF +10%), SacredRck (DEF +10%), @Driftwood (Reinforce 30%, EXP +60%, Mana +60% & Money + 60%), SacredRck, Rock, Bomb, Flower, BlasphTr, Weed, Wight Tree, Rotten Tr, Wither Tr
 @ Added on repeated version
 
 7-6 Mortality's End
 First time enemy
 ||~ Unit ||~ Items ||
-| | Walnut | | ||
+|| Walnut || ||
 First time neutral
 ||~ Unit ||~ Items ||
-| | Mimic | | ||
+|| Mimic || ||
 Repeated version enemies
 ||~ Unit ||~ Items ||
-| | Ghost | | ||
-| | Cerberus x4 | | ||
+|| Ghost || ||
+|| Cerberus x4 || ||
 Items: @PoisonRck (Damage 10%), @Bone (ATK -10%), @Deadwood (DEF -10%), @Flower (DEF -30%), @Skull (ATK -30%), @Wither Tr (DEF -30%), @Weed (DEF -30%), @PoisonRck (ATK -30%), @Brick (ATK -30%), @CurseTree (DEF -30%), @PoisonRck (ATK -30%), @Rock (ATK -30%), @Wither Tr (ATK -30%), @Rotten Tr (DEF -30%), @Flower (DEF -30%), CurseTree, Skull, Bone, PoisonRck, Bomb, !Egg
 ! Unique item, used for reincarnation. Removed on repeated version.
 @ Protection effect removed on repeated version
@@ -339,10 +338,10 @@ Items: @PoisonRck (Damage 10%), @Bone (ATK -10%), @Deadwood (DEF -10%), @Flower 
 8-1 Forsaken Glacier
 Enemy
 ||~ Unit ||~ Items ||
-| | Merman | | Cane ||
-| | Funguy x4 | | ||
-| | Blob | | ||
-| | Mermaid x2 | | ||
+|| Merman || Cane ||
+|| Funguy x4 || ||
+|| Blob || ||
+|| Mermaid x2 || ||
 First time neutral: Soldier
 Items: Crate (No O.B.), Crate (Sticky), Crate (No O.B.), Crate, Crystal, Weed
 
@@ -354,16 +353,16 @@ Items: Fish (KeepOut: Yellow), Crystal (No O.B.), PoisonRck (No O.B.), Crystal (
 8-3 Demon's Grudge
 Enemy
 ||~ Unit ||~ Item ||~ Protection ||
-| | Fenrir | | | | SPD +10% (U) ||
-| | Fenrir | | | | DEF+10% (U) ||
-| | Fenrir | | | | ATK +10% (U) ||
-| | Funguy | | Flower | | @Reinforce 20% (U) ||
-| | Funguy | | | | @Reinforce 20% (U) ||
-| | Funguy | | | | @Reinforce 20% (U) ||
-| | Granny | | | | ||
-| | Merman x2 | | | | ||
-| | Mermaid | | | | ||
-| | Saber Kitty x3 | | | | ||
+|| Fenrir || - || SPD +10% (U) ||
+|| Fenrir || - || DEF+10% (U) ||
+|| Fenrir || - || ATK +10% (U) ||
+|| Funguy || Flower || @Reinforce 20% (U) ||
+|| Funguy || - || @Reinforce 20% (U) ||
+|| Funguy || - || @Reinforce 20% (U) ||
+|| Granny ||  ||  ||
+|| Merman x2 ||  ||  ||
+|| Mermaid ||  ||  ||
+|| Saber Kitty x3 ||  ||  ||
 @ Protection effect removed on repeated version
 First time neutral: Witch, Soldier
 Items: Rock (No O.B.), Anthill (ATK +10%), Rock (DEF +10%), Crystal (No O.B. & Sticky), Crystal (No O.B. & Sticky), Crystal (No O.B. & Sticky), Rock (No O.B.), Crystal (No O.B.), Rock (Sticky), Misc Weed, Anthill, Crystal, Rock, Flower
@@ -372,11 +371,11 @@ Items: Rock (No O.B.), Anthill (ATK +10%), Rock (DEF +10%), Crystal (No O.B. & S
 First time enemy: Golem
 Repeated version enemy
 ||~ Unit ||~ Item ||~ Protection ||
-| | Mermaid | | Flower | | DEF +20% (I) ||
-| | Mermaid | | Flower | | ATK +10% (I) ||
-| | Merman | | Misc Weed | | HP Heal 10% & Sticky (I) ||
-| | Mermaid | | Flower | | HP Heal 10% & Sticky (I) ||
-| | Merman | | Gold Spr | | Reinforce 10% (I) ||
+|| Mermaid || Flower || DEF +20% (I) ||
+|| Mermaid || Flower || ATK +10% (I) ||
+|| Merman || Misc Weed || HP Heal 10% & Sticky (I) ||
+|| Mermaid || Flower || HP Heal 10% & Sticky (I) ||
+|| Merman || Gold Spr || Reinforce 10% (I) ||
 First time neutral: Soldier x5, Witch x2
 Items: !Sacred Tr (Reinforce 30%), !Sacred Tr (DEF +50%), !Sacred Tr (DEF +50%), !Sacred Tr (Warp), Crystal (SPD +10%), Crystal (ATK +10%), Flower (DEF +10%), Crystal (DEF +10%), Crystal (SPD +10%), Crystal (ATK +10%), Sacred Tr, Treasure, Crystal, @Sacred Tr (No O.B.)
 ! Removed on repeated version
@@ -396,18 +395,18 @@ Items: Rock (EXP x2 & Reinforce 10%), Cactus, Weed, PoisonRck, Rock
 (Part 1)
 Enemy
 ||~ Unit ||~ Protection ||
-| | Raphael? | | ||
-| | Slime | | ATK +10% (U) ||
-| | Slime | | DEF +10% (U) ||
-| | Slime | | SPD +10% (U) ||
-| | Shade x4 | | ||
+|| Raphael? || ||
+|| Slime || ATK +10% (U) ||
+|| Slime || DEF +10% (U) ||
+|| Slime || SPD +10% (U) ||
+|| Shade x4 || ||
 Items: Pillar (Resistant), Pillar (Permanent), Cactus, Weed, PoisonRck, Flower, Vase, Stone, Treasure
 
 (Part 2)
 Enemy: Raphael?
 Neutral
 ||~ Unit ||~ Item ||
-| | Raphael | | !Heliotrope ||
+|| Raphael || !Heliotrope ||
 ! Unique item
 Items: Cactus (Invincible), Cactus (Invincible), Cactus (Invincible), Pillar (Resistant), Pillar (Permanent), Cactus, Weed, PoisonRck, Flower, Vase, Stone, Treasure
 
@@ -1402,7 +1401,7 @@ Find yourself stuck in a particular spot and need a grinding spot? I WOULD recom
 * Go to the Dungeon Monk and Create a Dungeon, look for Size: Small, Number of Enemies: Few and Ground: Normal with the highest level possible.
 * Go to the Titlist and change the Dungeon to have Failure as it's title, this will massively weaken enemies allowing you to take on powerful enemies with a weak team.
 * Go to the Dungeon and complete it.
-The highest level dungeon you can make is based on your Dungeon Monk who will gain exp as you complete dungeons they make, also items are not affected by the title so you can get great items that can replace what you are using and also helpful to get items with large amounts mana on them for fusion. 
+The highest level dungeon you can make is based on your Dungeon Monk who will gain exp as you complete dungeons they make, also items are not affected by the title so you can get great items that can replace what you are using and also helpful to get items with large amounts mana on them for fusion. This setting is mainly for getting higher level items to use for fusion below.
 
 For failure fusion having 2 of the same item is recommended, you will get a smaller boost using a good title compared to using the Failure title on the one you want to boost. The process goes
 * Go to the Titlist and give the item you want to fuse the Failure title.
@@ -1410,6 +1409,8 @@ For failure fusion having 2 of the same item is recommended, you will get a smal
 * Pick the parameters and specials you want to pass on and confirm, should you not have enough Mana fuse other unused items until you have enough.
 * After the desired fusion go back to the Titlist and give the original title back.
 The item should be loads more powerful than it would've been had you done a regular fusion, leveling Fusionist will lower the mana cost.
+
+After making your powerful weapon with failure fusion if you want to get levels for your units simply go for Size: Small and Number of Enemies: Many, the enemy type doesn't really matter though if the dungeon level is as close as possible to 9,000 Giant type enemies give the most EXP per kill, this is also good to do with titles if you want them to have higher percentages. If you just want the base stats the random dungeon needs to be at least level 900 where if you want to include Guard, Steal & Move you will want to make that dungeon level 5,929. Giving dungeons titles at the Titlist will slowly increase the number of floors if it wasn't 99 and also slowly increase the level as well, to mass obtain titles just buy out all the weapons your merchant has to offer and give them to Marona similar to getting the Failure title.
 
 ++ Increasing Equip%
 You may notice that all items have a percentage after to their stats which determine how much you are getting while holding them. Some may even have detrimental %'s which cause you to lose stats, though you will never go below 1. Increasing the Equip% can give you a big edge giving more benefits to items that have initial large drawbacks, Confine% also works the same when confining Phantoms to your items. Certain items are best used in fusion to increase Equip% which if yours is naturally under it will continue to rise until you reach it's current %.
@@ -1529,6 +1530,18 @@ Items: Remote (Invincible), Stone, SpiriTree, Blossom, Skull, Misc Weed
 +++ Higher Place
 **New Challenger! Cont.** (Extra Map 11)
 Requirement: Clear New Challenger! (Extra Map 10)
+Enemy: Pringer XX
+Items: Remote (Invincible), PoisonRck (HP Heal 50%), EvlRockWd (DEF +50%), SUnflower, EvlRockWd, Sacred Tr, Stone, Sign, Misc Weed, Rotten Tr, Brick, Vase, Bomb, Phonogrph, Hourglass, Bread, Skull, Pot, Wight Tree, Pumpkin, Fish, Barrel, Candle
+
++++ Top of the World
+**New Challenger! More** (Extra Map 12)
+Requirement: Clear New Challenger! Cont. (Extra Map 11)
+Enemy
+||~ Unit ||~ Protection ||
+|| Pringer XXX || ||
+|| Pringer XX || HP Heal 100% (U) ||
+|| Pringer X || HP Heal 50% (U) ||
+Items: Remote (Invincible), Pillar (Damage 30% & DEF +30%), Pillar (ATK +30% & SPD -30%), Pillar (HP Heal 30% & DEF -30%), Pillar (ATK -30% & SPD+30%), DivineTree, 
 
 ++ Stamp Rally
 This is unlocked in the post game for any version that isn't the original Playstation 2 game, these are maps with more available methods for reincarnation. These are accessed by reading the final letter added after you reach post game which will ask if you want to participate in a Stamp Rally and tell you specific map to visit to complete, afterward any subsequent map must be read from the next letter to continue after completing the previous map.
@@ -1547,7 +1560,7 @@ Enemy
 | | Fighter x2 | | | | ||
 Neutral
 ||~ Unit ||~ Protection ||
-| | Saber Kitty | | EXP +10% (U) ||
+|| Saber Kitty || EXP +10% (U) ||
 Items: !Egg, Trolly, CurseTree, Skull Tree, Sign, Crate, Rotten Tr, Brick, Rock, Bone, Stump, Crystal, Vase
 ! Unique item, used for reincarnation.
 
@@ -1604,18 +1617,18 @@ Items: !Egg (KeepOut: Red), Treasure (SPD +20%), Cactus
 **Icicle Island - Lupine on Ice**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Putty Monk x2 | | | | Permanent, SPD-50%, No O.B. (U) ||
-| | Putty | | | | Permanent, SPD-50%, No O.B. (U) ||
-| | Putty | | | | Permanent, SPD-30%, No O.B. (U) ||
-| | Putty Mage | | Dead Staff | | Permanent, SPD-40%, No O.B. (U) ||
-| | Putty Mage | | Dead Staff | | Permanent, SPD-30%, No O.B. (U) ||
-| | Putty Shaman | | StoneCane | | Permanent, SPD-40%, No O.B. (U) ||
-| | Putty Shaman | | StoneCane | | Permanent, SPD-30%, No O.B. (U) ||
-| | Putty Smith | | Hammer | | Permanent, SPD-40%, No O.B. (U) ||
-| | Putty Smith | | Hammer | | Permanent, SPD-30%, No O.B. (U) ||
+|| Putty Monk x2 || - || Permanent, SPD-50%, No O.B. (U) ||
+|| Putty || - || Permanent, SPD-50%, No O.B. (U) ||
+|| Putty || - || Permanent, SPD-30%, No O.B. (U) ||
+|| Putty Mage || Dead Staff || Permanent, SPD-40%, No O.B. (U) ||
+|| Putty Mage || Dead Staff || Permanent, SPD-30%, No O.B. (U) ||
+|| Putty Shaman || StoneCane || Permanent, SPD-40%, No O.B. (U) ||
+|| Putty Shaman || StoneCane || Permanent, SPD-30%, No O.B. (U) ||
+|| Putty Smith || Hammer || Permanent, SPD-40%, No O.B. (U) ||
+|| Putty Smith || Hammer || Permanent, SPD-30%, No O.B. (U) ||
 Neutral
 ||~ Unit ||~ Protection ||
-| | Saber Kitty | | Sticky (U) ||
+|| Saber Kitty || Sticky (U) ||
 Items: !Egg, SacredRck x3 (Sticky & SPD-40%), Misc Weed, Wither Tr, Rotten Tr, Stone, Anthill, Blossom, Weed, Wight Tree
 ! Unique item, used for reincarnation.
 
@@ -1623,15 +1636,15 @@ Items: !Egg, SacredRck x3 (Sticky & SPD-40%), Misc Weed, Wither Tr, Rotten Tr, S
 **Isle of Healing Waters - Tragedy's Stage**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Fox | | Dead Staff | | Damage 30% (U) ||
-| | Lady Zombie x5 | | | | Damage 50% (U) ||
-| | Zombie x3 | | | | Damage 50% (U) ||
-| | Lady Zombie | | | | No O.B. (U) ||
-| | Zombie x2 | | | | ||
-| | Lady Zombie | | | | ||
+|| Fox || Dead Staff || Damage 30% (U) ||
+|| Lady Zombie x5 || - || Damage 50% (U) ||
+|| Zombie x3 || - || Damage 50% (U) ||
+|| Lady Zombie || - || No O.B. (U) ||
+|| Zombie x2 || || ||
+|| Lady Zombie || || ||
 Neutral
 ||~ Unit ||~ Protection ||
-| | Saber Kitty | | HP Heal 30% (U) ||
+|| Saber Kitty || HP Heal 30% (U) ||
 Items: !Egg, Brick, Pillar, Sapling, Old Tree
 ! Unique item, used for reincarnation.
 
@@ -1639,16 +1652,16 @@ Items: !Egg, Brick, Pillar, Sapling, Old Tree
 **Windmill Promontory - Cursed Cradle**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Lierre | | DarkSpear | | Reinforce (U) ||
-| | Owl Ninja | | Spell Book | | SPD+10% (U) ||
-| | Owl Sentry x4 | | SnowSpear | | ||
-| | Owl Knight | | Snow Axe | | Reinforce 10% (U) ||
-| | Owl Mage | | Snow Staff | | SPD+10% (U) ||
-| | Owl Knight x2 | | Silver Spr | | ||
-| | Owl Knight | | Gold Spr | | ||
+|| Lierre || DarkSpear || Reinforce (U) ||
+|| Owl Ninja || Spell Book || SPD+10% (U) ||
+|| Owl Sentry x4 || SnowSpear || ||
+|| Owl Knight || Snow Axe || Reinforce 10% (U) ||
+|| Owl Mage || Snow Staff || SPD+10% (U) ||
+|| Owl Knight x2 || Silver Spr || ||
+|| Owl Knight || Gold Spr || ||
 Neutral
 ||~ Unit ||~ Protection ||
-| | Saber Kitty | | Unarmed (U) ||
+|| Saber Kitty || Unarmed (U) ||
 Items: !Egg, Fish, Wight Tree, Rotten Tr, Weed, Deadwood, Flower, Anthill, CurseTree, Mushroom, EvlRockWd
 ! Unique item, used for reincarnation.
 
@@ -1656,16 +1669,16 @@ Items: !Egg, Fish, Wight Tree, Rotten Tr, Weed, Deadwood, Flower, Anthill, Curse
 **Mt. Kazan - Land of Fire**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Raphael | | !Heliotrope | | SPD+30% (U) ||
-| | Knight x2 | | Silver Ktna | | Def+10% (U) ||
-| | Knight | | Treasure | | ||
-| | Knight x2 | | Steel Swd | | DEF+10% (U) ||
-| | Knight x2 | | Silver Axe | | DEF+10% (U) ||
-| | Knight x2 | | Silver Spr | | ||
+|| Raphael || !Heliotrope || SPD+30% (U) ||
+|| Knight x2 || Silver Ktna || Def+10% (U) ||
+|| Knight || Treasure || ||
+|| Knight x2 || Steel Swd || DEF+10% (U) ||
+|| Knight x2 || Silver Axe || DEF+10% (U) ||
+|| Knight x2 || Silver Spr || ||
 ! Unique item
 Neutral
 ||~ Unit ||~ Protection ||
-| | Saber Kitty | | EXP+10%, Money+10%, Mana+10% (U) ||
+|| Saber Kitty || EXP+10%, Money+10%, Mana+10% (U) ||
 Items: @Egg, Deadwood, Rock, Vase, Brick, Barrel, Wither Tr, Bone, Crystal, Anthill, Stone, Crate, Rotten Tr
 @ Unique item, used for reincarnation.
 
@@ -1685,17 +1698,17 @@ Items: Driftwood, Starfish, PoisonRck, Crate, Wither Tr, Deadwood, Anthill, Bone
 Reward: Hero Prinny Phantom
 Enemy
 ||~ Unit ||~ Item ||
-| | Hero Prinny | | Dagger ||
-| | Prinny | | DevilSpear ||
-| | Prinny | | Giant Axe ||
-| | Prinny | | !Cert. ||
+|| Hero Prinny || Dagger ||
+|| Prinny || DevilSpear ||
+|| Prinny || Giant Axe ||
+|| Prinny || !Cert. ||
 ! Rank 11 Book
 Items: Rock (ATK +10%), Bone (SPD +10%), Skull (DEF +10%), Cactus (DEF -30%), Anthill (DEF -10%), Flower (Warp), Bone (Stay Back 10dm), Rock, Bomb, Anthill
 
 Repeated version
 ||~ Unit ||~ Item ||
-| | Lizardman x3 | | Funguy ||
-| | Scrabbit | | ||
+|| Lizardman x3 || Funguy ||
+|| Scrabbit || ||
 Items: Rock (ATK +10%), Bone (SPD +10%), Skull (DEF +10%), Flower (Warp), Bone (Stay Back 10dm), !Cert., Giant Axe, DevilSpear, Dagger, Rock, Bomb 
 ! Rank 11 Book
 
@@ -1703,11 +1716,11 @@ Items: Rock (ATK +10%), Bone (SPD +10%), Skull (DEF +10%), Flower (Warp), Bone (
 Reward: Asagi Phantom
 Enemy
 ||~ Unit ||~ Item ||
-| | Asagi | | Dark Wpn ||
-| | Witch | | Must-read ||
-| | Witch | | Wisdom Stf ||
-| | Valkyrie | | Gilded Swd ||
-| | Archer x2 | | Dark Wpn ||
+|| Asagi || Dark Wpn ||
+|| Witch || Must-read ||
+|| Witch || Wisdom Stf ||
+|| Valkyrie || Gilded Swd ||
+|| Archer x2 || Dark Wpn ||
 Items: SacredRck (Reinforce x2, Warp), Treasure (Rooted), Dagger (No O.B.), BronzeSwd (No O.B.), Rock, Weed, Skull, Stone, Bone, Seed, SacredRck
 
 Repeated version
@@ -1718,31 +1731,31 @@ Items: SacredRck (Reinforce x2, Warp), Treasure (Rooted), Dagger (No O.B.), Bron
 Reward: Castile Phantom
 Enemy
 ||~ Unit ||~ Item ||
-| | Castile | | !Snow Ktna ||
-| | Saber Kitty | | Pot ||
-| | Putty Mage | | Water Can ||
-| | Putty Smith | | Candle ||
-| | Scrabbit | | ||
-| | Putty Monk | | Bomb ||
-| | Putty Shaman | | Starfish ||
-| | Putty | | Seed ||
+|| Castile || !Snow Ktna ||
+|| Saber Kitty || Pot ||
+|| Putty Mage || Water Can ||
+|| Putty Smith || Candle ||
+|| Scrabbit || ||
+|| Putty Monk || Bomb ||
+|| Putty Shaman || Starfish ||
+|| Putty || Seed ||
 ! Rank 13 Dagger
 Items: Treasure (ATK +40%), Spell Book (ATK +20%), Bomb x2 (ATK +10%), SacredRck x2 (DEF +10%), SacredRck, Rock, Bomb, Flower, BlasphTr, Weed, Wight Tree, CurseTree, Dead Tree, Wither Tr, Rotten Tr
 
 Repeated version
 Enemy
 ||~ Unit ||~ Item ||
-| | Dragon | |  ||
-| | Fenrir x3 | | ||
+|| Dragon ||  ||
+|| Fenrir x3 || ||
 Items: Driftwood (Reinforce 30%, EXP +60%, Mana +60%, Money +60%), Treasure (ATK +40%), Spell Book (ATK +20%), Bomb x2 (ATK +10%), SacredRck x2 (DEF +10%), SacredRck, Rock, Bomb, Flower, BlasphTr, Weed, Wight Tree, CurseTree, Dead Tree, Wither Tr, Rotten Tr
 
 **Omninomicon** (Dimension Hero 5)
 Reward: Zetta Phantom
 Enemy
 ||~ Unit ||~ Item ||
-| | Zetta | | ||
-| | Ghost | | !BlackStaff ||
-| | Ghost x4 | | @Wisdom Stf ||
+|| Zetta || ||
+|| Ghost || !BlackStaff ||
+|| Ghost x4 || @Wisdom Stf ||
 ! Rank 11 Staff
 @ Rank 12 Staff
 Items: PoisonRck (Damage 10%), Bone (ATK-10%), Deadwood (DEF-10%), PoisonRck x2 (ATK-30%), Weed (DEF-30%), Wither Tr (DEF-30%), Skull (ATK-30%), Flower (DEF-30%), Rotten Tr (DEF-30%), Wither Tr (ATK-30%), Rock (ATK-30%), CurseTree (DEF-30%), Brick (ATK-30%), CurseTree, Skull, Bone, Bomb, Trolly, PoisonRck
