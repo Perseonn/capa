@@ -198,7 +198,7 @@ Items: Phonogrph (Mana +30% & EXP +50%), Old Tree, Flower, Sapling, Weed, Mushro
 5-3 Green Cradle
 Enemy: Saber Kitty x11
 Neutral: Behemoth
-Items: SacredRck (DEF x7, EXP x7, Mana x7), Weed, Giant Tree, Mushroom, PoisonRck, Flower, Tree, Sapilng, Rock
+Items: SacredRck (DEF x7, EXP x7 & Mana x7), Weed, Giant Tree, Mushroom, PoisonRck, Flower, Tree, Sapling, Rock
 
 5-4 Yggdrasil Sleep
 Enemy: !Milon (Zombie), Lady Zombie, Zombie x7
@@ -209,7 +209,7 @@ Items: SpiriTree, Tree, EvRockWd, Weed, Flower, Mushroom
 **Verdant Guardiana**
 6-1 Innocent Entry
 Enemy: Manticore x5
-Items: Treasure (EXP x2, Mana x2, Money x2, Reinforce 20%), Mushroom, Flower, Weed, PoisonRck, Stump, Rock, SacredRck, Trolly, Vase, Crate, Brick
+Items: Treasure (EXP x2, Mana x2, Money x2 & Reinforce 20%), Mushroom, Flower, Weed, PoisonRck, Stump, Rock, SacredRck, Trolly, Vase, Crate, Brick
 
 6-2 Mischief Garden
 Enemy
@@ -471,51 +471,51 @@ Items: Treasure @(Unarmed), !Spear (No O.B.), !Spear (No O.B.), !Spear (No O.B.)
 11-2 Mischief Garden
 First time enemy
 ||~ Unit ||~ Item ||
-| | Blacksmith | | Silver Axe ||
-| | Fighter | | Iron Knta ||
-| | Fighter x3 | | BronzeDag ||
-| | Fighter x3 | | LongSpear ||
-| | Fighter x2 | | ||
+|| Blacksmith || Silver Axe ||
+|| Fighter || Iron Knta ||
+|| Fighter x3 || BronzeDag ||
+|| Fighter x3 || LongSpear ||
+|| Fighter x2 || ||
 Repeated version enemy
 ||~ Unit ||~ Protection ||
-| | Fenrir | | ||
-| | Saber Kitty x4 | | EXP +10% (U) ||
-| | Hell Corgi | | ||
-| | Funguy x3 | | ||
-| | Giga Beast | | ||
+|| Fenrir || ||
+|| Saber Kitty x4 || EXP +10% (U) ||
+|| Hell Corgi || ||
+|| Funguy x3 || ||
+|| Giga Beast || ||
 Items: Flower (SPD +50%), Flower (SPD +50%), Rock (SPD +50%), PoisonRck (SPD +50%), Anthill, Rock, Brick, Weed, Mushroom, Stump, Seed, Crate, Book, Flower, SacredRck, PoisonRck
 
 11-3 Hidden Hall
 First time enemy
 ||~ Unit ||~ Item ||
-| | Blacksmith | | Iron Axe ||
-| | Fighter | | Sword ||
-| | Fighter x6 ||
+|| Blacksmith || Iron Axe ||
+|| Fighter || Sword ||
+|| Fighter x6 || ||
 Repeated version enemy: Giga Beast, Manticore x3, Fenrir
 First time neutral
 ||~ Unit ||~ Protection ||
-| | Putty x2 | | EXP x2 (U) ||
+|| Putty x2 || EXP x2 (U) ||
 Items: PoisonRck, Brick, Vase, Crate, Mushroom, !Knife, Flower, Weed, Stump, !Spear, Sunflower
 ! Removed on repeated version
 
 11-4 Green Paradise
 First time enemy
 ||~ Unit ||~ Item ||
-| | Drab | | Steel Axe ||
-| | Blacksmith | | Katana ||
-| | Fighter | | Katana ||
-| | Fighter x2 | | Axe ||
-| | Fighter x2 | | Spear ||
-| | Fighter x2 | | ||
-| | Blacksmith x2 | | ||
+|| Drab || Steel Axe ||
+|| Blacksmith || Katana ||
+|| Fighter || Katana ||
+|| Fighter x2 || Axe ||
+|| Fighter x2 || Spear ||
+|| Fighter x2 || ||
+|| Blacksmith x2 || ||
 Repeated version enemy: Giga Beast, Hell Corgi x2, Manticore, Behemoth
 Repeated version neutral
 ||~ Unit ||~ Protection ||
-| | Putty Monk | | EXP x2 & Mana x2 (U) ||
-| | PuttyShaman | | EXP x2 & Mana x2 (U) ||
-| | Putty | | EXP x2 & Mana x2 (U) ||
-| | Putty Mage | | EXP x2 & Mana x2 (U) ||
-| | Putty Smith | | EXP x2 & Mana x2 (U) ||
+|| Putty Monk || EXP x2 & Mana x2 (U) ||
+|| PuttyShaman || EXP x2 & Mana x2 (U) ||
+|| Putty || EXP x2 & Mana x2 (U) ||
+|| Putty Mage || EXP x2 & Mana x2 (U) ||
+|| Putty Smith || EXP x2 & Mana x2 (U) ||
 Items: Seed (DEF +50%), Bone (ATK +50%), Skull, Weed, Vase, Crate, Brick, Flower, Stump, Sunflower, SacredRck, !Pumpkin
 ! Removed on repeated version
 
@@ -1541,7 +1541,7 @@ Enemy
 || Pringer XXX || ||
 || Pringer XX || HP Heal 100% (U) ||
 || Pringer X || HP Heal 50% (U) ||
-Items: Remote (Invincible), Pillar (Damage 30% & DEF +30%), Pillar (ATK +30% & SPD -30%), Pillar (HP Heal 30% & DEF -30%), Pillar (ATK -30% & SPD+30%), DivineTree, 
+Items: Remote (Invincible), Pillar (Damage 30% & DEF +30%), Pillar (ATK +30% & SPD -30%), Pillar (HP Heal 30% & DEF -30%), Pillar (ATK -30% & SPD+30%), DivineTree
 
 ++ Stamp Rally
 This is unlocked in the post game for any version that isn't the original Playstation 2 game, these are maps with more available methods for reincarnation. These are accessed by reading the final letter added after you reach post game which will ask if you want to participate in a Stamp Rally and tell you specific map to visit to complete, afterward any subsequent map must be read from the next letter to continue after completing the previous map.
@@ -1583,16 +1583,16 @@ Items: !Egg, Old Tree, Cactus, Stone, Sapling, Sunflower, Blossom
 **Frigidia - Brave's Seal**
 Enemy
 ||~ Unit ||~ Protection ||
-| | Funguy x2 | | Sticky, SPD x2 (U) ||
-| | Funguy | | Reinforce 20%, SPD x3, Sticky (U) ||
-| | Funguy x2 | | Sticky, SPD +60% (U) ||
-| | Funguy x2 | | Sticky, SPD +70% (U) ||
-| | Funguy | | Sticky, SPD x3 (U) ||
-| | Funguy x2 | | ATK +30%, SPD x3, Sticky (U) ||
-| | Funguy x2 | | DEF +30%, SPD x3, Sticky (U) ||
+|| Funguy x2 || Sticky & SPD x2 (U) ||
+|| Funguy || Reinforce 20%, SPD x3 & Sticky (U) ||
+|| Funguy x2 || Sticky & SPD +60% (U) ||
+|| Funguy x2 || Sticky & SPD +70% (U) ||
+|| Funguy || Sticky & SPD x3 (U) ||
+|| Funguy x2 || ATK +30%, SPD x3 & Sticky (U) ||
+|| Funguy x2 || DEF +30%, SPD x3 & Sticky (U) ||
 Neutral
 ||~ Unit ||~ Protection ||
-| | Saber Kitty | | Sticky (U) ||
+|| Saber Kitty || Sticky (U) ||
 Items: !Egg, Rock, Stone, Rock Weed, Devil Rock, SacredRck, PoisonRck, Crystal
 ! Unique item, used for reincarnation.
 
@@ -1617,15 +1617,15 @@ Items: !Egg (KeepOut: Red), Treasure (SPD +20%), Cactus
 **Icicle Island - Lupine on Ice**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-|| Putty Monk x2 || - || Permanent, SPD-50%, No O.B. (U) ||
-|| Putty || - || Permanent, SPD-50%, No O.B. (U) ||
-|| Putty || - || Permanent, SPD-30%, No O.B. (U) ||
-|| Putty Mage || Dead Staff || Permanent, SPD-40%, No O.B. (U) ||
-|| Putty Mage || Dead Staff || Permanent, SPD-30%, No O.B. (U) ||
-|| Putty Shaman || StoneCane || Permanent, SPD-40%, No O.B. (U) ||
-|| Putty Shaman || StoneCane || Permanent, SPD-30%, No O.B. (U) ||
-|| Putty Smith || Hammer || Permanent, SPD-40%, No O.B. (U) ||
-|| Putty Smith || Hammer || Permanent, SPD-30%, No O.B. (U) ||
+|| Putty Monk x2 || - || Permanent, SPD-50% & No O.B. (U) ||
+|| Putty || - || Permanent, SPD-50% & No O.B. (U) ||
+|| Putty || - || Permanent, SPD-30% & No O.B. (U) ||
+|| Putty Mage || Dead Staff || Permanent, SPD-40% & No O.B. (U) ||
+|| Putty Mage || Dead Staff || Permanent, SPD-30% & No O.B. (U) ||
+|| Putty Shaman || StoneCane || Permanent, SPD-40% & No O.B. (U) ||
+|| Putty Shaman || StoneCane || Permanent, SPD-30% & No O.B. (U) ||
+|| Putty Smith || Hammer || Permanent, SPD-40% & No O.B. (U) ||
+|| Putty Smith || Hammer || Permanent, SPD-30% & No O.B. (U) ||
 Neutral
 ||~ Unit ||~ Protection ||
 || Saber Kitty || Sticky (U) ||
@@ -1678,7 +1678,7 @@ Enemy
 ! Unique item
 Neutral
 ||~ Unit ||~ Protection ||
-|| Saber Kitty || EXP+10%, Money+10%, Mana+10% (U) ||
+|| Saber Kitty || EXP+10%, Money+10% & Mana+10% (U) ||
 Items: @Egg, Deadwood, Rock, Vase, Brick, Barrel, Wither Tr, Bone, Crystal, Anthill, Stone, Crate, Rotten Tr
 @ Unique item, used for reincarnation.
 
@@ -1721,11 +1721,11 @@ Enemy
 || Witch || Wisdom Stf ||
 || Valkyrie || Gilded Swd ||
 || Archer x2 || Dark Wpn ||
-Items: SacredRck (Reinforce x2, Warp), Treasure (Rooted), Dagger (No O.B.), BronzeSwd (No O.B.), Rock, Weed, Skull, Stone, Bone, Seed, SacredRck
+Items: SacredRck (Reinforce x2 & Warp), Treasure (Rooted), Dagger (No O.B.), BronzeSwd (No O.B.), Rock, Weed, Skull, Stone, Bone, Seed, SacredRck
 
 Repeated version
 Enemy: Fenrir x2, Saber Kitty x2, Scrabbit x2, Funguy
-Items: SacredRck (Reinforce x2, Warp), Treasure (Rooted), Dagger (No O.B.), BronzeSwd (No O.B.), Rock, Weed, Skull, Stone, Bone, Seed, SacredRck, Gilded Swd, Used Book, Dark Wpn, Must-read, Wisdom Stf, Silver Spr, Cane
+Items: SacredRck (Reinforce x2 & Warp), Treasure (Rooted), Dagger (No O.B.), BronzeSwd (No O.B.), Rock, Weed, Skull, Stone, Bone, Seed, SacredRck, Gilded Swd, Used Book, Dark Wpn, Must-read, Wisdom Stf, Silver Spr, Cane
 
 **Future Friend** (Dimension Hero 4)
 Reward: Castile Phantom
@@ -1747,7 +1747,7 @@ Enemy
 ||~ Unit ||~ Item ||
 || Dragon ||  ||
 || Fenrir x3 || ||
-Items: Driftwood (Reinforce 30%, EXP +60%, Mana +60%, Money +60%), Treasure (ATK +40%), Spell Book (ATK +20%), Bomb x2 (ATK +10%), SacredRck x2 (DEF +10%), SacredRck, Rock, Bomb, Flower, BlasphTr, Weed, Wight Tree, CurseTree, Dead Tree, Wither Tr, Rotten Tr
+Items: Driftwood (Reinforce 30%, EXP +60%, Mana +60% & Money +60%), Treasure (ATK +40%), Spell Book (ATK +20%), Bomb x2 (ATK +10%), SacredRck x2 (DEF +10%), SacredRck, Rock, Bomb, Flower, BlasphTr, Weed, Wight Tree, CurseTree, Dead Tree, Wither Tr, Rotten Tr
 
 **Omninomicon** (Dimension Hero 5)
 Reward: Zetta Phantom
