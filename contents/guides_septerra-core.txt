@@ -6,7 +6,7 @@ Septerra Core is an ATB-based RPG and could be considered the Western counterpar
 
 For instance, there are situations where you need to makeshift a boat to cross a lake despite already having an airship, or where you need a laser to progress but can't use Runner, whose signature attacks are laser-based. Instead, you'll need another party member whose signature attacks are bullet-based.
 
-If you are brave enough to explore the 7 shells of Septerra Core, prepare for giant amount of tedium.
+If you are brave enough to explore the 7 shells of Septerra Core, prepare for a giant amount of tedium.
 
 + Patches
 * An unofficial patch by M-HT will make the game run better and allow windowed mode
@@ -537,7 +537,7 @@ If you are brave enough to explore the 7 shells of Septerra Core, prepare for gi
    * Get Terrarium with Leaf
   * Get Healing Plant
   * Back to World Map
-+ Shell 6
+++ Shell 6
 * Go to Chosen Ruins {{LH617}}
  * Use the Optic Vine on the control panel
  * Bird #9 : Give Bird Seed to the golden bird, to the right after you climb the stairs.
