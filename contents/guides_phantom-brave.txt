@@ -525,20 +525,20 @@ These will replace the maps from Episode 4
 12-1 Bloody Fortress
 Enemy
 ||~ Unit ||~ Item ||
-| | Cerberus | | ||
-| | Behemoth | | ||
-| | Summon | | Brick ||
-| | Summon | | Pot ||
-| | Summon x4 | | ||
+|| Cerberus || ||
+|| Behemoth || ||
+|| Summon || Brick ||
+|| Summon || Pot ||
+|| Summon x4 || ||
 Items: Vase, Pot, Brick
 
 12-2 Devil's Cry
 Enemy
 ||~ Unit ||~ Protection ||
-| | Behemoth | | ||
-| | Cerberus | | ||
-| | Summon | | ||
-| | Summon x6 | | Invincible (U) ||
+|| Behemoth || ||
+|| Cerberus || ||
+|| Summon || ||
+|| Summon x6 || Invincible (U) ||
 Items: Pillar (KeepOut: Blue), Pillar (KeepOut: Green), Pillar, Flower, Vase, PoisonRck, Brick, Weed, Tree, Old Tree
 
 12-3 Cruel Verdict
@@ -549,10 +549,10 @@ Items: Pillar (EXP +10% & ATK - 10%), Pillar (EXP +10% & DEF - 10%), Silver Spr 
 12-4 Tragedy's Stage
 Enemy
 ||~ Unit ||~ Protection ||
-| | !Dark Avatar | | ||
-| | Summon x5 | | No O.B. (U) ||
-| | Summon x5 | | Sticky (U) ||
-| | Cerberus | | ||
+|| !Dark Avatar || ||
+|| Summon x5 || No O.B. (U) ||
+|| Summon x5 || Sticky (U) ||
+|| Cerberus || ||
 ! Removed on repeated version, replaced with a Giga Beast
 Items: Old Tree (DEF +40%), Sapling (ATK + 40%), Weed (HP Heal 10%), Flower (SPD +20%), SacredRck, PoisonRck, Weed, Crystal, Pillar, SpiriTree, Bone
 
@@ -1568,14 +1568,14 @@ Items: !Egg, Trolly, CurseTree, Skull Tree, Sign, Crate, Rotten Tr, Brick, Rock,
 **Terra Firma - Barren Earth**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Prinny x2 | | | | Invincible (U) ||
-| | Prinny x9 | | | | ||
-| | Prinny x2 | | Bomb | | ||
-| | Prinny x2 | | Starfish | | ||
-| | Prinny x2 | | Water Can | | ||
+|| Prinny x2 || - || Invincible (U) ||
+|| Prinny x9 || || ||
+|| Prinny x2 || Bomb || ||
+|| Prinny x2 || Starfish || ||
+|| Prinny x2 || Water Can || ||
 Neutral
 ||~ Unit ||~ Protection ||
-| | Saber Kitty | | EXP +10% (U) ||
+|| Saber Kitty || EXP +10% (U) ||
 Items: !Egg, Old Tree, Cactus, Stone, Sapling, Sunflower, Blossom
 ! Unique item, used for reincarnation.
 
