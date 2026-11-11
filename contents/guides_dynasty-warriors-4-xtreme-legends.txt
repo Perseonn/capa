@@ -954,4 +954,4 @@ Finding weapon hard to get due to the AI being too aggressive? Here's a way to m
 Start the stage on Expert and make a save immediately, go to the options and change the difficulty to Beginner and start a different stage with any character. After the stage has loaded in battle soft reset (Start+Select) and go back and continue to your original save, enemies will now be more passive.
 
 + Level 11 Weapons Showcase
-[[youtube E0SoQ0NNlTE]]
+[[youtube F2A671L1UNA]]
