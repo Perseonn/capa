@@ -563,21 +563,21 @@ These will replace the maps from Episode 2
 13-1 Broken Harmony
 First time enemy
 ||~ Unit ||~ Protection ||
-| | Lizardman | | Weaken 30% & Mana x2 (U) ||
-| | Werewolf | | Weaken 30% & EXP x2 (U) ||
-| | Werewolf | | Weaken 30% & Money x2 (U) ||
+|| Lizardman || Weaken 30% & Mana x2 (U) ||
+|| Werewolf || Weaken 30% & EXP x2 (U) ||
+|| Werewolf || Weaken 30% & Money x2 (U) ||
 Repeated version enemies
 ||~ Unit ||~ Protection ||
-| | Lizardman | | Mana +10% (U) ||
-| | Werewolf | | Money +10% (U) ||
-| | Werewolf | | EXP +10% (U) ||
+|| Lizardman || Mana +10% (U) ||
+|| Werewolf || Money +10% (U) ||
+|| Werewolf || EXP +10% (U) ||
 Items: Weed, Fish, Rotten Tr, Crate, Driftwood, Mushroom, Deadwood
 
 13-2 Cursed Cradle
 Enemy
 ||~ Unit ||~ Protection ||
-| | Blob  | | KeepOut: Red (U) ||
-| | Summon x12 | | ||
+|| Blob  || KeepOut: Red (U) ||
+|| Summon x12 || ||
 Items: CurseTree (Damage 40%), Weed, Mushroom, Rock, Flower
 
 +++ Episode 14 Operation Desert Rescue
@@ -1509,7 +1509,7 @@ Requirement: Clear ???? (Extra Map 6), also complete a Random Dungeon with 50+ f
 Reward: Myao Phantom
 Enemy
 ||~ Unit ||~ Items ||
-| | Myao | | !Catnip Cane ||
+|| Myao || !Catnip Cane ||
 ! Unique item
 Neutral: Funguy x2
 Items: Weed, Old Tree, Mushroom
@@ -1550,14 +1550,14 @@ This is unlocked in the post game for any version that isn't the original Playst
 **Mt. Kazan - Hill of Death**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Drab | | Silver Axe | | ATK +20% (U) ||
-| | Mimic x2 | | | | SPD +50% (U) ||
-| | Fighter x2 | | Blade | | ||
-| | Blacksmith | | Iron Ktna | | DEF +20% (U), ATK +20% (I) ||
-| | Blob x2 | | | | SPD +50% (U) ||
-| | Fighter | | Iron Ktna | | DEF +20% (U), ATK +20% (I) ||
-| | Blacksmith | | | | ||
-| | Fighter x2 | | | | ||
+|| Drab || Silver Axe | | ATK +20% (U) ||
+|| Mimic x2 || - || SPD +50% (U) ||
+|| Fighter x2 || Blade || ||
+|| Blacksmith || Iron Ktna || DEF +20% (U), ATK +20% (I) ||
+|| Blob x2 || - || SPD +50% (U) ||
+|| Fighter || Iron Ktna || DEF +20% (U), ATK +20% (I) ||
+|| Blacksmith || || ||
+|| Fighter x2 || || ||
 Neutral
 ||~ Unit ||~ Protection ||
 || Saber Kitty || EXP +10% (U) ||
