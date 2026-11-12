@@ -585,25 +585,25 @@ Items: CurseTree (Damage 40%), Weed, Mushroom, Rock, Flower
 14-1 Swelterland
 Enemy
 ||~ Unit ||~ Item ||~ Protection ||
-| | Summon | | | | Reinforce 20% (U) ||
-| | Healer x2 | | StoneCane | | HP Heal 10% (U) ||
-| | Manticore x3 | | | | ||
-| | Fenrir x2 | | | | ||
+|| Summon || - || Reinforce 20% (U) ||
+|| Healer x2 || StoneCane || HP Heal 10% (U) ||
+|| Manticore x3 || || ||
+|| Fenrir x2 || || ||
 Items: Weed, Dead Tree, PoisonRck, Rock, SacredRck, Cactus, Skull, Bone, Skull Tree, Wight Tree, Driftwood
 
 14-2 Unforgiving Sun
 Enemy
 ||~ Unit ||~ Protection ||
-| | Fenrir | | KeepOut: Green (U) ||
-| | Manticore | | KeepOut: Green (U) ||
-| | Summon x5 | | ||
+|| Fenrir || KeepOut: Green (U) ||
+|| Manticore || KeepOut: Green (U) ||
+|| Summon x5 || ||
 Items: Wither Tr, Rotten Tr, Weed, Driftwood, Bone, Wight Tree, Skull, Dead Tree, Curse Tree, PoisonRck, Deadwood, SacredRck, Rock, Flower
 
 14-3 Famished Earth
 Enemy
 ||~ Unit ||~ Protection ||
-| | Zombie x4 | | Invincible (U) ||
-| | Fenrir x3 | | ||
+|| Zombie x4 || Invincible (U) ||
+|| Fenrir x3 || ||
 Items: Cactus (DEF +50% & Grounded), Cactus (EXP x2), Rock, Weed, PoisonRck, Wither Tr, SacredRck, Flower, Bone, Rotten Tr
 
 14-4 Bone-dry Death
@@ -1493,7 +1493,7 @@ Requirement: Clear Throne Room (Extra Map 5), also complete a Random Dungeon wit
 Reward: Soul Saber
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Sienna | | !Soul Saber | | Damage 30% (U) ||
+|| Sienna || !Soul Saber || Damage 30% (U) ||
 ! Unique item
 Items: Rock, Crate, Stone, CurseTree, Crystal, BlasphTr, Rotten Tr, Driftwood, Deadwood, SacredRck, Skull, Bone, Dead Tree, Wither Tr, Wight Tree
 
