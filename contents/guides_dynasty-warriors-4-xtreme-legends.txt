@@ -822,6 +822,7 @@ These are items with specific effects that only need to be obtained once. The it
 **Restrictions:** None
 **Requirement:** Defeat Lu Bu in 2 minutes after he appears.
 **Location:** Top left corner of the center fort.
+[[image u1-aowmap.avif | Art of War Location]]
 
 ++ Survival Guide
 **Effect:** Attack x2 when near death (standing up when health bar is red gives Attack x2 for 30 seconds)
@@ -829,6 +830,7 @@ These are items with specific effects that only need to be obtained once. The it
 **Restrictions:** None
 **Requirement:** Get 150 KOs in under 5 minutes.
 **Location:** Top right corner of Jian Ge.
+[[image u2-sgmap.avif | Survival Guide Location]]
 
 ++ Bodyguard Manual
 **Effect:** Bodyguards become stronger (makes them more aggressive)
@@ -836,6 +838,7 @@ These are items with specific effects that only need to be obtained once. The it
 **Restrictions:** No bodyguards
 **Requirement:** Join with Niu Jin quickly.
 **Location:** Along the Western wall above the Western Gate Captain.
+[[image u3-bmmap.avif | Bodyguard Manual Location]]
 
 ++ Way of Musou
 **Effect:** Can use True Musou Attack regardless of health (Musou will deal fire damage with an extended finisher)
@@ -843,6 +846,7 @@ These are items with specific effects that only need to be obtained once. The it
 **Restrictions:** None
 **Requirement:** Defeat all 4 Gate Captains and get 200 KOs.
 **Location:** Along the Eastern wall around where Li Dian starts.
+[[image u4-wommap.avif | Way of Musou Location]]
 
 ++ Power Scroll
 **Effect:** Never lose weapon deadlocks (loss changes to draw)
@@ -850,6 +854,7 @@ These are items with specific effects that only need to be obtained once. The it
 **Restrictions:** None
 **Requirement:** Defeat all 4 Gate Captains.
 **Location:** Top right corner of Guan Yu's fort.
+[[image u5-psmap.avif | Power Scroll Location]]
 
 ++ Wind Scroll
 **Effect:** Attack range increase
