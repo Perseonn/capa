@@ -714,44 +714,49 @@ This will list all items in the game you can potentially equip to your character
 ++ Saddles
 Mounts have been given a separate slot this time instead of taking one of your main slots.
 
-+++ Red Hare Saddle
-**Effect:** Begin stage mounted on Red Hare (fastest horse)
-**Stage:** Defense of Xu (Guan Yu)
-**Restrictions:** No items
-**Requirement:** Defeat Yu Jin before he retreats from battle.
-**Location:** Bottom right island.
-Yu Jin appears 3 minutes into the stage and will retreat after he has been up for 2 minutes which is after Guan Ping shows up.
++++ Red Hare Harness
+* **Effect:** Begin stage mounted on Red Hare (fastest horse)
+* **Stage:** Defense of Xu (Guan Yu)
+* **Restrictions:** No items
+* **Requirement:** Defeat Yu Jin before he retreats from battle.
+* **Location:** Bottom right island.
+ * Yu Jin appears 3 minutes into the stage and will retreat after he has been up for 2 minutes which is after Guan Ping shows up.
+[[image h1-redharemap.avif | Red Hare Harness Location]]
 
-+++ Hex Mark Saddle
-**Effect:** Begin stage mounted on Hex Mark (Luck up)
-**Stage:** Skirmish at Cheng Du (Liu Bei)
-**Restrictions:** None
-**Requirement:** Defeat 3 officers while avoiding the Liu Bei killing peasants cutscene.
-**Location:** Left center of the map.
-You will have to do your best to not kill more than 10 peasants. In a 2 Player game Player 1 can just stand around while Player 2 goes wild. The Liu Bei killing peasants cutscene happens if Player 1 kills 10 peasants and killing 50 means instant defeat, you will want to lure officers so that peasants aren't in the way of your attacks. Kills from Bodyguards do not count so you can use them to kill peasants for you.
++++ Hex Mark Harness
+* **Effect:** Begin stage mounted on Hex Mark (Luck up)
+* **Stage:** Skirmish at Cheng Du (Liu Bei)
+* **Restrictions:** None
+* **Requirement:** Defeat 3 officers while avoiding the Liu Bei killing peasants cutscene.
+* **Location:** Left center of the map.
+ * You will have to do your best to not kill more than 10 peasants. In a 2 Player game Player 1 can just stand around while Player 2 goes wild. The Liu Bei killing peasants cutscene happens if Player 1 kills 10 peasants and killing 50 means instant defeat, you will want to lure officers so that peasants aren't in the way of your attacks. Kills from Bodyguards do not count so you can use them to kill peasants for you.
+[[image h2-hexmarkmap.avif | Hex Mark Harness Location]]
 
 +++ Storm Harness
-**Effect:** Begin stage mounted on Storm Runner (Mount Attack Lv.6)
-**Stage:** The Ten Eunuchs (Dong Zhuo)
-**Restrictions:** None
-**Requirement:** Defeat Yuan Shao before Zhang Rang escapes with the Emperor.
-**Location:** Top left corner outside of the Castle.
-Yuan Shao will appear once all the Eunuchs are dealt with or retreat, you will want to defeat Yuan Shao before the Emperor's carriage starts to retreat after Yuan Shao appears, if Yuan Shao isn't defeated before Zhang Rang speaks you won't get the item. Wen Chou & Yan Liang are not required to be defeated for the item to appear.
+* **Effect:** Begin stage mounted on Storm Runner (Mount Attack Lv.6)
+* **Stage:** The Ten Eunuchs (Dong Zhuo)
+* **Restrictions:** None
+* **Requirement:** Defeat Yuan Shao before Zhang Rang escapes with the Emperor.
+* **Location:** Top left corner outside of the Castle.
+ * Yuan Shao will appear once all the Eunuchs are dealt with or retreat, you will want to defeat Yuan Shao before the Emperor's carriage starts to retreat after Yuan Shao appears, if Yuan Shao isn't defeated before Zhang Rang speaks you won't get the item. Wen Chou & Yan Liang are not required to be defeated for the item to appear.
+[[image h3-stormmap.avif | Storm Harness Location]]
 
 +++ Shadow Harness
-**Effect:** Begin stage mounted on Shadow Runner (Can't be knocked off)
-**Stage:** Escape from Chi Bi (Cao Cao)
-**Restrictions:** No bodyguards
-**Requirement:** Defeat Gan Ning, Lu Meng, Huang Gai & Ling Tong.
-**Location:** Bottom right corner of the lower path in the top right section.
+* **Effect:** Begin stage mounted on Shadow Runner (Can't be knocked off)
+* **Stage:** Escape from Chi Bi (Cao Cao)
+* **Restrictions:** No bodyguards
+* **Requirement:** Defeat Gan Ning, Lu Meng, Huang Gai & Ling Tong.
+* **Location:** Bottom right corner of the lower path in the top right section.
+[[image h4-shadowmap.avif | Shadow Harness Location]]
 
 +++ Elephant Harness
-**Effect:** Begin stage mounted on Elephant
-**Stage:** Rescue of Meng Huo (Zhu Rong)
-**Restrictions:** No items & No bodyguards
-**Requirement:** Defeat all 6 Guard Patrols without being discovered in 2 minutes.
-**Location:** North of where Zhao Yun starts.
-While the stage itself is very short this is very hard to get with 1 player as you only have 2 choices, those being Huang Zhong & Xiahou Yuan due to their C1 bow attacks which go far enough that you can hit a patrol before they notice you. You will want to save after killing each one (except the one you start by at the beginning) as messing up is quite costly.
+* **Effect:** Begin stage mounted on Elephant
+* **Stage:** Rescue of Meng Huo (Zhu Rong)
+* **Restrictions:** No items & No bodyguards
+* **Requirement:** Defeat all 6 Guard Patrols without being discovered in 2 minutes.
+* **Location:** North of where Zhao Yun starts.
+ * While the stage itself is very short this is very hard to get. You will want to save after killing each one (except the one you start by at the beginning) as messing up is quite costly and the timing is pretty tight.
+[[image h5-elephantmap.avif | Elephant Harness Location]]
 
 + Orbs
 These augment your charge attacks to have elemental power and add an extra effect based on the element when you have full musou with weapons that are Lv 1-9. Lv 10 & 11 weapons will be able to use these without a full musou bar. These max at Lv 4 and increase in strength/duration/chance the higher the level.
@@ -817,6 +822,7 @@ These are items with specific effects that only need to be obtained once. The it
 **Restrictions:** None
 **Requirement:** Defeat Lu Bu in 2 minutes after he appears.
 **Location:** Top left corner of the center fort.
+[[image u1-aowmap.avif | Art of War Location]]
 
 ++ Survival Guide
 **Effect:** Attack x2 when near death (standing up when health bar is red gives Attack x2 for 30 seconds)
@@ -824,6 +830,7 @@ These are items with specific effects that only need to be obtained once. The it
 **Restrictions:** None
 **Requirement:** Get 150 KOs in under 5 minutes.
 **Location:** Top right corner of Jian Ge.
+[[image u2-sgmap.avif | Survival Guide Location]]
 
 ++ Bodyguard Manual
 **Effect:** Bodyguards become stronger (makes them more aggressive)
@@ -831,6 +838,7 @@ These are items with specific effects that only need to be obtained once. The it
 **Restrictions:** No bodyguards
 **Requirement:** Join with Niu Jin quickly.
 **Location:** Along the Western wall above the Western Gate Captain.
+[[image u3-bmmap.avif | Bodyguard Manual Location]]
 
 ++ Way of Musou
 **Effect:** Can use True Musou Attack regardless of health (Musou will deal fire damage with an extended finisher)
@@ -838,6 +846,7 @@ These are items with specific effects that only need to be obtained once. The it
 **Restrictions:** None
 **Requirement:** Defeat all 4 Gate Captains and get 200 KOs.
 **Location:** Along the Eastern wall around where Li Dian starts.
+[[image u4-wommap.avif | Way of Musou Location]]
 
 ++ Power Scroll
 **Effect:** Never lose weapon deadlocks (loss changes to draw)
@@ -845,6 +854,7 @@ These are items with specific effects that only need to be obtained once. The it
 **Restrictions:** None
 **Requirement:** Defeat all 4 Gate Captains.
 **Location:** Top right corner of Guan Yu's fort.
+[[image u5-psmap.avif | Power Scroll Location]]
 
 ++ Wind Scroll
 **Effect:** Attack range increase
@@ -949,4 +959,4 @@ Finding weapon hard to get due to the AI being too aggressive? Here's a way to m
 Start the stage on Expert and make a save immediately, go to the options and change the difficulty to Beginner and start a different stage with any character. After the stage has loaded in battle soft reset (Start+Select) and go back and continue to your original save, enemies will now be more passive.
 
 + Level 11 Weapons Showcase
-[[youtube E0SoQ0NNlTE]]
+[[youtube F2A671L1UNA]]
