@@ -862,6 +862,7 @@ These are items with specific effects that only need to be obtained once. The it
 **Restrictions:** No bodyguards
 **Requirement:** Choose Cao Pi's army & get 200 KOs in under 5 minutes.
 **Location:** West of Cao Pi.
+[[image u6-wsmap.avif | Wind Scroll Location]]
 
 ++ Fire Arrows
 **Effect:** Can shoot fire arrows (burn targets dealing slightly more damage)
@@ -869,6 +870,7 @@ These are items with specific effects that only need to be obtained once. The it
 **Restrictions:** No items
 **Requirement:** Defeat Zhou Cang & Guan Ping.
 **Location:** Top left corner near the furthest left enemy Gate Captain.
+[[image u7-famap.avif | Fire Arrows Location]]
 
 ++ Charge Bracer
 **Effect:** Withstand attacks while performing Charge (as long as it doesn't make your character jump)
@@ -876,6 +878,7 @@ These are items with specific effects that only need to be obtained once. The it
 **Restrictions:** No bodyguards
 **Requirement:** Defeat Li Dian and Yue Jin in under 2 minutes.
 **Location:** East of the middle left Gate Captain.
+[[image u8-cbmap.avif | Charge Bracer Location]]
 
 + Unique Items (new)
 These are the items unique to Xtreme Legends.
@@ -885,6 +888,7 @@ These are the items unique to Xtreme Legends.
 **Restrictions:** No bodyguards
 **Requirement:** Defeat Yue Ying 6 times, each time quickly enough to get a "won by a wide margin!" message.
 **Location:** Near Yue Ying's final appearance.
+[[image u9-prmap.avif | Power Rune Location]]
 
 ++ Code of Chivalry
 **Effect:** No time limit for duels
@@ -900,6 +904,7 @@ Your stats and weapon level are taken into account when doing Arena (thus a fres
 **Requirements:** Defeat Yu Jin before defeating his Supply Captain, Defeat Dian Wei's 3 Supply Captains then Dian Wei himself, Defeat Li Dian before defeating his Supply Captain. Defeat Dian Wei for the 2nd time, it's acceptable to ignore his 3 Supply Captains this time. Encounter Dian Wei for the 3rd time. Defeat Yue Jin after he appears (4 minutes into the stage in the East), before defeating his Supply Captain. Defeat Man Chong after he appears (6 minutes into the stage or after Yue Jin is defeated in the Southwest), before defeating his Supply Captain.
 All before enemy plundering causes heavy damage & before 5 enemy Supply Captains successfully deliver their supplies.
 **Location:** Upper right corner from the South of the upper right fort.
+[[image u11-mbsmap.avif | Meat Bun Sack Location]]
 
 ++ Musou Armor
 **Effect:** Wearer not stunned by bow attacks
@@ -945,6 +950,12 @@ Stay by the bridge the entire time basically. In a 2 Player game Player 1 has to
 **Location:** In between the inner rampart walls of the center fort.
 
 + Item Farming
+As this version of the game has no officers that drop item boxes naturally your best bet for high level items is to get them from crates, the best stage to do this on for the least amount of time spent is Meng Huo's Legend stage. This can only be done with the characters that can exploit elemental True Musous using Vorpal as their orb if you want quick clears that are under 5 minutes. The locations for the boxes are
+# Lower path on the right along the beginning of the path.
+# Upper path on the right around the middle.
+# Southwest nearest Sima Zhao's starting location
+# Southeast second box near a tent by Sima Zhao's location
+Video here
 
 + Best Legend Stages for Stats
 Wondering which stage are the best for farming stats or experience points? Here's a quick breakdown on the best stages to do.
