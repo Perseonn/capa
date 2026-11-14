@@ -663,11 +663,11 @@ Items: Water Can (Mana x2), Crate, Flower, Weed, Pot
 16-2 Bamboo Co. 8F
 Enemy
 ||~ Unit ||~ Item ||
-| | Scrabbit | | Mushroom ||
-| | Summon | | Skull ||
-| | Scrabbit x2 | | ||
-| | Summon x2 | | ||
-| | Ghost x3 | | ||
+|| Scrabbit || Mushroom ||
+|| Summon || Skull ||
+|| Scrabbit x2 || ||
+|| Summon x2 || ||
+|| Ghost x3 || ||
 Items: Phonogrph (ATK +30%, DEF -10% & EXP x2), Treasure (Money +70%), Barrel, Vase, Flower, Pillar, Crate, Pot, Brick
 
 16-3 Bamboo Co. 12F
@@ -677,16 +677,16 @@ Items: Skull (KeepOut: Blue), Skull (KeepOut: Red), Skull (KeepOut: Green), Sign
 16-4 Bamboo Co. 19F
 Enemy
 ||~ Unit ||~ Protection ||
-| | Hell Corgi | | ||
-| | Mimic (Blue) x3 | | Mana +30% (U) ||
-| | Mimic (Red) x3 | | Money +40% (U) ||
+|| Hell Corgi || ||
+|| Mimic (Blue) x3 || Mana +30% (U) ||
+|| Mimic (Red) x3 || Money +40% (U) ||
 Items: Blossom (ATK -20%), Flower (ATK -20%), Weed (ATK -20%), Rock (DEF -20%), Crystal (DEF -20%), PoisonRck (DEF -20%), Pot, Water Can, Vase
 
 16-5 Bamboo Co. 24F
 Enemy
 ||~ Unit ||~ Item ||
-| | Summon | | Crate ||
-| | Summon x5 | | ||
+|| Summon || Crate ||
+|| Summon x5 || ||
 Items: Seed, Crate
 
 16-6 Bamboo CEO Room
@@ -1470,12 +1470,12 @@ Requirement: Clear Throne Room (Extra Map 3)
 Reward: Laharl Phantom
 Enemy
 ||~ Unit ||~ Item ||
-| | Laharl | | Blade ||
-| | Prinny x3 | | Crystal ||
+|| Laharl || Blade ||
+|| Prinny x3 || Crystal ||
 Items: Misc Weed, Crystal, Pillar
 Repeated version replaces Laharl with
 ||~ Unit ||~ Items ||~ Protection ||
-| | Prinny x3 | | Dark Wpn | | EXP+40% ||
+|| Prinny x3 || Dark Wpn || EXP+40% ||
 
 +++ Monetopia
 **Throne Room** (Extra Map 5)
