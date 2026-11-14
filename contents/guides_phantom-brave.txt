@@ -617,40 +617,40 @@ All Unconscious enemy & neutral units are removed on repeated version.
 15-1 Desperation
 Enemy
 ||~ Unit ||~ Item ||~ Protection ||
-| | Merman | | Crystal | | No O.B., EXP +10% & Mana +20% (I) ||
-| | Merman x2 | | | | ||
-| | Manticore x2 | | | | ||
-| | !Summon | | | | ||
+|| Merman || Crystal || No O.B., EXP +10% & Mana +20% (I) ||
+|| Merman x2 || || ||
+|| Manticore x2 || || ||
+|| !Summon || || ||
 ! Removed on repeated version, replaced with a Mermaid
 Items: SacredRck, Old Tree, Rotten Tr, Crystal, Weed, Sapling, Cactus, Skull, Bone, Wither Tr, Tree, Rock
 
 15-2 Lupine on Ice
 Enemy
 ||~ Unit ||~ Item ||~ Protection ||
-| | Merman | | Crystal | | No O.B. (I) ||
-| | Merman x2 | | Spear | | ||
-| | Mermaid | | Cane | | ||
-| | Fenrir | | | | ||
-| | Summon x2 | | | | ||
+|| Merman || Crystal || No O.B. (I) ||
+|| Merman x2 || Spear || ||
+|| Mermaid || Cane || ||
+|| Fenrir || || ||
+|| Summon x2 || || ||
 Items: Rock, Sapling, Crystal, Dead Tree, Weed, Old Tree, Cactus, Crystal, PoisonRck, SacredRck
 
 15-3 Frozen Lance
 Enemy
 ||~ Unit ||~ Item ||~ Protection ||
-| | Manticore | | Crystal | | Sticky (I) ||
-| | Merman x3 | | BronzeSpr | | ||
-| | Merman x2 | | | | ||
-| | Mermaid | | | | ||
-| | Summon | | | | ||
+|| Manticore || Crystal || Sticky (I) ||
+|| Merman x3 || BronzeSpr || ||
+|| Merman x2 || || ||
+|| Mermaid  || || ||
+|| Summon || || ||
 Items: Crystal (ATK -50% & DEF x2), Crystal (Sticky), Crystal (Sticky), Crystal (Sticky), Sapling, Rock, Crystal, Rotten Tr, Old Tree, Weed, PoisonRck, Deadwood
 
 15-4 Iced Shadow
 Enemy
 ||~ Unit ||~ Item ||~ Protection ||
-| | !Summon | | | | Damage 10% (U) ||
-| | Summon | | Crystal | | DEF +20% (U), No. O.B. (I) ||
-| | Summon | | | | DEF +20% (U) ||
-| | Summon x7 | | | | ||
+|| !Summon || - || Damage 10% (U) ||
+|| Summon || Crystal || DEF +20% (U), No. O.B. (I) ||
+|| Summon || - || DEF +20% (U) ||
+|| Summon x7 || || ||
 ! Removed on repeated version, replaced with a Manticore with no Protection effect
 Items: Cactus (No O.B.), Bone (No O.B.), Treasure (DEF +50%), SacredRck (Sticky), PoisonRck, Sapling, Skull, Bone, CurseTree, Crystal, Weed, Deadwood, 
 
@@ -663,11 +663,11 @@ Items: Water Can (Mana x2), Crate, Flower, Weed, Pot
 16-2 Bamboo Co. 8F
 Enemy
 ||~ Unit ||~ Item ||
-| | Scrabbit | | Mushroom ||
-| | Summon | | Skull ||
-| | Scrabbit x2 | | ||
-| | Summon x2 | | ||
-| | Ghost x3 | | ||
+|| Scrabbit || Mushroom ||
+|| Summon || Skull ||
+|| Scrabbit x2 || ||
+|| Summon x2 || ||
+|| Ghost x3 || ||
 Items: Phonogrph (ATK +30%, DEF -10% & EXP x2), Treasure (Money +70%), Barrel, Vase, Flower, Pillar, Crate, Pot, Brick
 
 16-3 Bamboo Co. 12F
@@ -677,16 +677,16 @@ Items: Skull (KeepOut: Blue), Skull (KeepOut: Red), Skull (KeepOut: Green), Sign
 16-4 Bamboo Co. 19F
 Enemy
 ||~ Unit ||~ Protection ||
-| | Hell Corgi | | ||
-| | Mimic (Blue) x3 | | Mana +30% (U) ||
-| | Mimic (Red) x3 | | Money +40% (U) ||
+|| Hell Corgi || ||
+|| Mimic (Blue) x3 || Mana +30% (U) ||
+|| Mimic (Red) x3 || Money +40% (U) ||
 Items: Blossom (ATK -20%), Flower (ATK -20%), Weed (ATK -20%), Rock (DEF -20%), Crystal (DEF -20%), PoisonRck (DEF -20%), Pot, Water Can, Vase
 
 16-5 Bamboo Co. 24F
 Enemy
 ||~ Unit ||~ Item ||
-| | Summon | | Crate ||
-| | Summon x5 | | ||
+|| Summon || Crate ||
+|| Summon x5 || ||
 Items: Seed, Crate
 
 16-6 Bamboo CEO Room
@@ -1470,12 +1470,12 @@ Requirement: Clear Throne Room (Extra Map 3)
 Reward: Laharl Phantom
 Enemy
 ||~ Unit ||~ Item ||
-| | Laharl | | Blade ||
-| | Prinny x3 | | Crystal ||
+|| Laharl || Blade ||
+|| Prinny x3 || Crystal ||
 Items: Misc Weed, Crystal, Pillar
 Repeated version replaces Laharl with
 ||~ Unit ||~ Items ||~ Protection ||
-| | Prinny x3 | | Dark Wpn | | EXP+40% ||
+|| Prinny x3 || Dark Wpn || EXP+40% ||
 
 +++ Monetopia
 **Throne Room** (Extra Map 5)
@@ -1483,8 +1483,8 @@ Requirement: Clear Throne Room (Extra Map 4)
 Reward: Mid-Boss Phantom
 Enemy
 ||~ Unit ||~ Items ||
-| | Mid-Boss | | Big Axe ||
-| | Prinny x3 | | Mushroom ||
+|| Mid-Boss || Big Axe ||
+|| Prinny x3 || Mushroom ||
 Items: Pillar x2 (SPD+10%), Pillar x2 (DEF+40%), Pillar x2 (ATK+40%), Pillar, Blossom, SacredRck
 
 +++ Island of Evil
