@@ -912,6 +912,7 @@ All before enemy plundering causes heavy damage & before 5 enemy Supply Captains
 **Restrictions:** No items
 **Requirement:** Defeat Zhang Liao 3 times.
 **Supply Unit:** From the middle left Gate Captain up to the upper right Gate Captain.
+[[image u12-mamap.avif | Musou Armor Location]]
 
 ++ Master of Musou
 **Effect:** Musou Attack deflects enemy blocks (Musou breaks guard, but drains faster)
@@ -919,6 +920,7 @@ All before enemy plundering causes heavy damage & before 5 enemy Supply Captains
 **Restrictions:** No bodyguards
 **Requirement:** Get 1,300 KOs before Liu Bei, Guan Yu & Zhang Fei appear.
 **Supply Unit:** From the bottom Gate Captain to the upper Gate Captain.
+[[image u13-mommap.avif | Master of Musou Location]]
 
 ++ War Drum
 **Effect:** Allied Morale goes up easier (allies can live longer)
@@ -926,6 +928,7 @@ All before enemy plundering causes heavy damage & before 5 enemy Supply Captains
 **Restrictions:** No bodyguards
 **Requirement:** Defeat all Gate Captains while keeping yours alive.
 **Location:** Center of the bottom portion of the fort.
+[[image u14-wdmap.avif | War Drum Location]]
 
 ++ Secret of the Orbs
 **Effect:** Orb items have greater effect (Orb Lv +1)
@@ -933,6 +936,7 @@ All before enemy plundering causes heavy damage & before 5 enemy Supply Captains
 **Restrictions:** None
 **Requirement:** Rescue all 4 of Sun Quan's sub generals and defeat all 6 Gate Captains before entering the castle to join with Sun Quan.
 **Location:** Below the lower left Gate Captain.
+[[image u15-somap.avif | Secret of the Orbs Location]]
 
 ++ Helm of Might
 **Effect:** Peons can't attack during "Announce Yourself." (Press down the right analogue stick)
@@ -941,6 +945,7 @@ All before enemy plundering causes heavy damage & before 5 enemy Supply Captains
 **Requirement:** Defeat Xiahou Dun, Xiahou Yuan, Zhang He, Cao Ren, Xu Huang & Xu Zhu in front of the Chang Ban Bridge while getting 300 KOs without letting a unit pass or leaving the bridge.
 **Supply Unit:** Lower left corner that makes its ways to the right Gate Captain.
 Stay by the bridge the entire time basically. In a 2 Player game Player 1 has to stay by the bridge while Player 2 can venture out.
+[[image u16-hommap.avif | Helm of Might Location]]
 
 ++ Horseshoes
 **Effect:** Enemies receive more damage when hit by horse
@@ -948,6 +953,7 @@ Stay by the bridge the entire time basically. In a 2 Player game Player 1 has to
 **Restrictions:** No items & No bodyguards
 **Requirement:** Defeat Yang Huai & Gao Peo as well as defeat 3 Gate Captains within 5 minutes.
 **Location:** In between the inner rampart walls of the center fort.
+[[image u17-hsmap.avif | Horseshoes Location]]
 
 + Item Farming
 As this version of the game has no officers that drop item boxes naturally your best bet for high level items is to get them from crates, the best stage to do this on for the least amount of time spent is Meng Huo's Legend stage. This can only be done with the characters that can exploit elemental True Musous using Vorpal as their orb if you want quick clears that are under 5 minutes. The locations for the boxes are
@@ -955,6 +961,8 @@ As this version of the game has no officers that drop item boxes naturally your 
 # Upper path on the right around the middle.
 # Southwest nearest Sima Zhao's starting location
 # Southeast second box near a tent by Sima Zhao's location
+
+Quit and save **before** you start picking up items as bags picked up before saving will already have the contents determined when you beat the stage. If you don't get an upgrade to your items press Start+Select, reload the save and try again, this will require patience specially for Elemental Orbs as they are pretty rare.
 Video here
 
 + Best Legend Stages for Stats
