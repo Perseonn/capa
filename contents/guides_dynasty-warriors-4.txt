@@ -547,7 +547,7 @@ This stage has nothing to pick up.
 
 +++ Campaign against Sun Jian
 **Dim Sum 1:** Above the river in the bottom left corner.
-**Dim Sum 2:** Zhou Yu (extra warrior, can join after 13 minutes.)
+**Dim Sum 2:** Zhou Yu or Lu Xun (extra warrior, can join after 13 minutes.)
 **Musou Wine:** Top right corner under the enemy Gate Captain.
 **Items:** Zhu Huan, Lu Meng, Zhu Zhi.
 [[image casjmap.avif| Campaign against Sun Jian Map]]
