@@ -10,7 +10,7 @@ On Soulcalibur V, Guard Impact now costs 25% Super Gauge (On VI, it consumes the
 
 At least Soulcalibur VI's Reversal Edge helps against turtling, but on itself it's a vertical attack, which can be avoided by sidestepping. Should they just implement Weapon Durability Gauge and weapon clash like Soul Edge, it'll be a much aggressive playstyle. Also they need to remove those just inputs as they are utterly stupid thing to do in a fighting game.
 
-There Vodkalibur mod for Soulcalibur VI, which has an expansion that can also alter gameplay, and from which I've only read, can introduce second Critical Edge and remove Reversal Edge. Personally, I havent tested this, but by this description alone, I question this decision. Reversal Edge is a helper for new players to catchup to veteran players, especially one that's playing since Soul Edge.
+There Vodkalibur mod for Soulcalibur VI, which has an expansion that can also alter gameplay, and from which I've only read, can introduce second Critical Edge and remove Reversal Edge. Personally, I haven't tested this, but by this description alone, I question this decision. Reversal Edge is a helper for new players to catchup to veteran players, especially one that's playing since Soul Edge.
 
 + The Gameplay Philosophy of Soul Edge
 Let's go back to Soul Edge. Since it's released in 1995 for Japan and 1996 for the rest of the world as Soul Blade, allow me to explain a bit about it's **Weapon Durability** mechanism.
@@ -175,7 +175,7 @@ It's a resource system that determines which options remain available to the pla
 * Break the weapon, and your character's remaining moveset and defensive options become more important.
 
 
-+ Emergent Design vs. Bespoke Design
++ Conclusion: Emergent Design vs. Bespoke Design
 In a way, Soul Edge was closer to what people now call emergent design. One mechanic, Weapon Durability, created a surprising number of situations. Modern Soulcalibur tends toward bespoke design, where each character has a handcrafted subsystem layered on top of the universal mechanics.
 
 To be fair, neither philosophy is inherently better, Tekken is successful with its bespoke system. However, for a series literally named after a legendary sword, there's something charming about the idea that the weapon itself should have as much personality in gameplay as the person wielding it. 
@@ -185,5 +185,4 @@ It makes every duel feel less like:
 And more like:
 > Two warriors testing the limits of their arms until steel finally gives way.
 
-+ Conclusion
 In the effort of making new direction after Soul Edge, Project Soul fall in the trap of making the same bespoke system as other fighting game without taking its unique weapon system along with it. They aren't mutually exclusive, so they could have had both!
