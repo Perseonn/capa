@@ -166,8 +166,8 @@
         "url": "/articles/soulcalibur-gameplay-proposal/",
         "title": "Soulcalibur: A Weapon-Centric Gameplay Proposal",
         "author": "Perseonn Balthasaar",
-        "updated": "2026-11-2",
-        "wip": true
+        "updated": "2026-11-15",
+        "wip": false
     },
     {
         "category": "articles",
@@ -566,7 +566,7 @@
         "url": "/guides/dynasty-warriors-4-xtreme-legends/",
         "title": "Dynasty Warriors 4: Xtreme Legends",
         "author": "Buster Wolf",
-        "updated": "2026-12-01",
+        "updated": "2026-11-28",
         "wip": true
     },
     {
