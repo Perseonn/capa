@@ -11,13 +11,13 @@
 |text-extra-class=hidden
 ]]
 
-[[div class="row p-4 m-0 capa-tile"]]
+[[div class="row p-4 m-0"]]
 
-[[module ListPages category="articles" order="updated_at desc" perPage="40"]]
+[[module ListPages category="articles" order="updated_at desc"]]
 [[include comp:list-page-item
 |container-class=col-6 col-md-4
-|image-container-class=h-100 aspect-1x1 aspect-sm-4x3 aspect-xl-16x9
-|image-class=fit-cover h-100 aspect-16x9
+|image-container-class=aspect-1x1 aspect-sm-4x3 aspect-xl-16x9
+|image-class=fit-cover
 |image=%%fullname%%/%%name%%-splash.avif
 |link=%%fullname%%
 |title=%%title%%

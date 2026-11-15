@@ -46,6 +46,7 @@ CAPA Skin     #b49797	(180,151,151,1)
 	--image-desktop-margin: calc(1/12*100%);
 	--border-radius: 0.5rem;
 	--border-radius-circle: 50%;
+	--bs-border-radius: var(--border-radius);
 }
 
 /*
@@ -86,6 +87,7 @@ body{
 	line-height: var(--base-line-height);
 	letter-spacing: 0.05rem;
 	color: var(--color-text);
+	transition-duration: 0.0s;
 }
 
 a {
@@ -1045,21 +1047,33 @@ ListPages Layout
 	grid-row-start: 1;
 }
 
-.list-page-image-container img{
+.list-page-image-container{
 	border-top-left-radius: var(--border-radius);
 	border-top-right-radius: var(--border-radius);
-	border-bottom-left-radius: calc(var(--border-radius) + 3px);
-	border-bottom-right-radius: calc(var(--border-radius) + 3px);
+	border-bottom-left-radius: calc(var(--border-radius) + 1px);
+	border-bottom-right-radius: calc(var(--border-radius) + 1px);
+}
+
+.list-page-image-container img{
+	border-top-left-radius: calc(var(--border-radius) - 1px);
+	border-top-right-radius:calc(var(--border-radius) - 1px);
+	border-bottom-left-radius: calc(var(--border-radius) + 1px);
+	border-bottom-right-radius: calc(var(--border-radius) + 1px);
+}
+
+.list-page-image-container,
+.list-page-text-container{
+	border: 1px solid var(--color-capa)
 }
 
 .list-page-text-container{
 	grid-row-start: 1;
 	grid-column-start: 1;
-	background: var(--color-text-overlay);
 	padding-left: 1rem;
 	padding-right: 1rem;
-	border-bottom-left-radius: 0.5rem;
-	border-bottom-right-radius: 0.5rem;
+	border-bottom-left-radius: calc(var(--border-radius));
+	border-bottom-right-radius: calc(var(--border-radius));
+	background: var(--color-capa-s20);
 }
 
 .list-page-text-container {
@@ -1103,7 +1117,7 @@ CAPA WATERCOLOR
 	background-repeat:no-repeat;
 }
 
-.alert, .btn, .container h1, .container h2, .credit, footer{
+.alert, .btn, .container h1, .container h2, .credit, footer, .list-page-text-container{
 	background-size: cover;
 	background-position: center;
 	background-blend-mode: soft-light;
@@ -1112,7 +1126,6 @@ CAPA WATERCOLOR
 
 .btn{
 	background-image: url('/assets/img/capa-brush-20.avif');
-
 }
 
 .container h1{
@@ -1130,8 +1143,13 @@ CAPA WATERCOLOR
 .credit{
 	background-image: url('/assets/img/capa-brush-17.avif');
 }
+
 footer{
 	background-image: url('/assets/img/capa-brush-05.avif');
+}
+
+.list-page-text-container{
+	background-image: url('/assets/img/capa-brush-01.avif');
 }
 
 /*
