@@ -1,0 +1,45 @@
+@title: Grace Ashcroft Is Not A Good FBI Agent
+@author: Perseonn Balthasaar
+@updated: 2026-11-16
+@wip
+
+Grace Ashcroft from Resident Evil Requiem is one of the most questionable portrayals of an FBI employee I've encountered in video games. I understand that the narrative establishes her as an intelligence analyst rather than a Special Agent, explaining her lack of operational experience and combat proficiency, but this explanation actually opens another can of worms, if not veers into Voodoo Shark territory.
+
++ The Common Defense Around Grace
+* Grace is a "desk jockey" by design. Grace works strictly in data and intelligence analysis, meaning she was never issued a standard service weapon or trained for frontline combat. The handgun she carries into the Wrenwood Hotel is a personal firearm she bought herself, modeled after the one her late mother, Alyssa Ashcroft, used.
+* Grace is set up to fail. Sending an inexperienced, traumatized analyst into a dangerous location alone without backup wasn't just a writing oversight. I heard that her solo assignment to the site of her mother's murder was orchestrated as part of antagonist Victor Gideon's plan.
+* The entire thing was a gameplay intent: Capcom intentionally made her vulnerable—giving her shaky aim and clumsy gun handling—to restore genuine survival-horror tension rather than turning her into another superheroic action lead like Leon or Goris (Goris, the Gorilla-Chris,  has an official merchandise. Look it up!).
+
+[[include comp:button
+|link=/assets/articles/grace-ashcroft/goris-mercari.avif
+|icon-class=fa-solid fa-image
+|label=I don't wanna hear your argument, I wanna see Goris instead!
+]]
+
+
++ My Counter Arguments
+With my limited military training, Grace's behavior comes off as unnatural. Panic under extreme circumstances is understandable, but there's a distinction between experiencing fear and being unable to apply any of your professional training. Constant hyperventilating, stuttering, and panic attacks make me question how much of her training she can actually put to use.
+
+++ Desk Jockey
+The "Desk Jockey" angle clashes with how IRL security enforcers like army and police works: **Why would the FBI assign an inexperienced intelligence analyst to investigate a potentially dangerous crime scene, ALONE, when that location is directly connected to her mother's murder?** This is an important point that few people, if not nobody raises for some reason.
+
+In the real world—and even within the grounded rules of a procedural thriller—sending a solo, inexperienced intelligence analyst into an active crime scene with zero tactical support doesn't happen, especially when considering these extra points:
+* Operational limitations of Intelligence Analysts: FBI Intelligence Analysts are not Special Agents. Their primary responsibilities revolve around intelligence collection, analysis, and investigative support rather than arresting suspects or conducting armed law-enforcement operations. While they may participate in field-related investigative activities, sending an inexperienced analyst alone into a potentially dangerous crime scene without Special Agent support is difficult to justify.
+* Conflict of interest: Even if Grace were a field agent, assigning her to investigate a location tied directly to her own mother's unsolved murder is a textbook conflict of interest that would get an agent pulled from a case immediately.
+* "Idiot Plot": By having the FBI bypass basic protocol just to put a terrified amateur in a haunted hotel alone, the script forces the entire agency to act illogically so the horror game can happen.
+
+++ Villain Omnipotence
+The "Set up to fail by Gideon", is going for villain omnipotence angle that in itself has a lot of problems. When the story reveals that Victor Gideon orchestrated the assignment to lure her there, it patches one plot hole by digging another:
+* Too many moving parts: For this scheme to work, Gideon and his associates needed to manipulate FBI leadership, bypass standard assignment procedures, ensure no local police or backup were dispatched, and bet the entire operation on a panicked intelligence analyst surviving long enough to reach the exact right rooms.
+* Retroactive excuse-making: In storytelling, revealing that "the villain planned this all along" often feels like adding an additional attribute so the villain doesn't look shallow. Instead of writing an ingenious villain, it makes the supporting cast and institutions look like puppets faced with multiple layers of contrivances.
+
++ Conclusion: Gameplay Vs. Logic
+Resident Evil 1's premise of S.T.A.R.S. personnel being trapped in a mansion is much easier to accept. They're trained operatives who are forced into an unfamiliar environment following an ambush, with their superior officer secretly manipulating events. The narrative doesn't immediately explain the full extent of Wesker's involvement, but the eventual Wesker's Report fits the original premise rather than having to retroactively justify it.
+
+Capcom seemingly wants the vulnerability of Resident Evil 7's Ethan Winters while giving the protagonist a prestigious federal badge to tie her to the larger bio-terror lore. The two concepts clash at a fundamental level, and the narrative has to bend reality—both procedurally and through Gideon's omnipotence—just to get Grace through the front door.
+
+Not saying that Ethan Winters is good, that guy has another set of voodoo shark—breaking human self-preservation and domestic awareness—like:
+* Tracking his wife to a dilapidated house that's clearly screams WE SERVE MURDER? Ethan Winters, going alone!
+* Wife has been replaced for 6 months? Nah, she's fine. Perhaps sex is far too good?
+
+But that's for another time!

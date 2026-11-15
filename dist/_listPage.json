@@ -71,6 +71,16 @@
     },
     {
         "category": "articles",
+        "slug": "grace-ashcroft",
+        "sourceName": "articles_grace-ashcroft",
+        "url": "/articles/grace-ashcroft/",
+        "title": "Grace Ashcroft Is Not A Good FBI Agent",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-11-16",
+        "wip": true
+    },
+    {
+        "category": "articles",
         "slug": "kyoukotsu-no-yume",
         "sourceName": "articles_kyoukotsu-no-yume",
         "url": "/articles/kyoukotsu-no-yume/",
