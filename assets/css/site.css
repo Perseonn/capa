@@ -14,7 +14,10 @@ CAPA Skin     #b49797	(180,151,151,1)
 */
 
 :root {
-	--color-capa: #3399ff; /* Lullaby Saturated*/
+	--color-capa: #3399ff; /* Lullaby Saturated 80*/
+	--color-capa-s60: #66b3ff; /* Lullaby Saturated 60*/
+	--color-capa-s40: #99ccff; /* Lullaby Saturated 40*/
+	--color-capa-s20: #cce5ff; /* Lullaby Saturated 20*/
 	--color-capa-1: #E6E9EC; /* Lullaby */
 	--color-capa-2: #CFE5D0; /* Lullaby Green*/
 	--color-capa-3: #7DB7BB; /* Lullaby Blue*/
