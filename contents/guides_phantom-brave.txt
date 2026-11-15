@@ -700,28 +700,28 @@ These will replace the maps from Episode 7
 17-1 Sick Unto Death
 Enemy
 ||~ Unit ||~ Item ||~ Protection ||
-| | Summon | | Axe | | Unarmed (U) ||
-| | Summon | | Dagger | | Unarmed (U) ||
-| | Summon | | Used Book | | Unarmed (U) ||
+|| Summon || Axe || Unarmed (U) ||
+|| Summon || Dagger || Unarmed (U) ||
+|| Summon || Used Book || Unarmed (U) ||
 Items: Starfish, Stone, Driftwood, Dead Tree, Wight Tree, BronzeSpr
 
 17-2 Road of the Lost
 Enemy
 ||~ Unit ||~ Protection ||
-| | Summon x2 | | Reinforce +20% (U) ||
-| | Dragon | | Mana +20% (U) ||
-| | Lizardman | | Mana +20% (U) ||
-| | Behemoth | | Mana +20% (U) ||
-| | Cerberus | | Mana +20% (U) ||
+|| Summon x2 || Reinforce +20% (U) ||
+|| Dragon || Mana +20% (U) ||
+|| Lizardman || Mana +20% (U) ||
+|| Behemoth || Mana +20% (U) ||
+|| Cerberus || Mana +20% (U) ||
 Items: Barrel, Rock, Fish, Seed, Skull, Bone, Stone, Bomb, Rotten Tr, Misc Weed, Crate, Wight Tree, Deadwood, Wither Tr
 
 17-3 Life and Death
 Enemy
 ||~ Unit ||~ Item ||~ Protection ||
-| | Summon x2 | | Bone | | DEF +10% (I) ||
-| | Summon | | Skull | | ATK +30% (I) ||
-| | Summon x5 | | | | ||
-| | Ghost | | | | ||
+|| Summon x2 || Bone || DEF +10% (I) ||
+|| Summon || Skull || ATK +30% (I) ||
+|| Summon x5 || || ||
+|| Ghost || || ||
 Items: Sign (Invincible), Rock, Bomb, Rotten Tr, BlasphTr, Stump, Fish, Driftwood, Bone, Skull, Starfish
 
 17-4 Hall of Death
@@ -731,10 +731,10 @@ Items: Treasure (Grounded), Dagger (No O.B.), StoneKnife (No O.B.), BronzeSwd (N
 17-5 No Man's Land
 Enemy
 ||~ Unit ||~ Protection ||
-| | Summon | | No O.B. & Slippery (U) ||
-| | Summon | | No O.B. (U) ||
-| | Summon | | Slippery (U) ||
-| | Summon x5 | | ||
+|| Summon || No O.B. & Slippery (U) ||
+|| Summon || No O.B. (U) ||
+|| Summon || Slippery (U) ||
+|| Summon x5 || ||
 Items: SacredRck (ATK +10%), PoisonRck (DEF +10%), SacredRck (No O.B.), SacredRck (SPD +10%), Rock, Dead Tree, BlasphTr, Bomb, Crate, Skull, Wight Tree, CurseTree, Rotten Tr, Crate, SacredRck, EvlRockWd, Spell Book
 
 17-6 Mortality's End
@@ -1458,10 +1458,10 @@ Items: Flower, Pot, Pillar
 Requirement: Clear Throne Room (Extra Map 2)
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Laharl | | Blade | | ||
-| | Etna | | Must-read | | Damage 10% (I) ||
-| | Flonne | | Encyc. | | HP Heal 20% (I) ||
-| | Prinny x3 | | Skull | | ||
+|| Laharl || Blade || ||
+|| Etna || Must-read || Damage 10% (I) ||
+|| Flonne || Encyc. || HP Heal 20% (I) ||
+|| Prinny x3 || Skull || ||
 Items: Pot, PoisonRck, Pillar
 
 +++ Overlord's Castle
