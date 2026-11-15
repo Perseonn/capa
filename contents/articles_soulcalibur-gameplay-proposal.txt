@@ -1,7 +1,6 @@
 @title: Soulcalibur: A Weapon-Centric Gameplay Proposal
 @author: Perseonn Balthasaar
-@updated: 2026-11-2
-@wip
+@updated: 2026-11-15
 
 I feel weird about how Soulcalibur series seemingly went backwards in game design regarding turtling. Soul Edge, the prequel, has this solved with Weapon Durability Gauge. Too much guarding and boom, weapon breaks, then the character has to spend the rest of round unarmed. Weapon is restored in next round, but only ~33% of the durability remains.
 
@@ -142,6 +141,9 @@ This is a game about legendary weapon, so let's make the weapon more colorful. E
 * Weight: Modifies the startup speed of weapon-based attacks relative to the character's default speed. Kicks and other non-weapon attacks are unaffected.
 * Special Stats: Special attribute to the weapon like Soulcalibur II and III, such as regain HP periodically, leech HP, drain HP periodically, piercing attacks, etc. So we can once more have Soul Edge that has 154% power, but drains HP over time and each swing costs HP.
 
+++ Reversal Edge, Revisited
+Reversal Edge can be retained as-is, but activating it consumes 16-20% of maximum Weapon Durability, regardless of whether it successfully catches an attack. Naturally, it cannot be used if the weapon has insufficient durability. This preserves its accessibility as a defensive tool for newcomers while preventing excessive use and introducing a meaningful risk consistent with the rest of the mechanics.
+
 ++ Character Gimmicks, Revisited
 This is just on top of my head, but character gimmick runs on either HP or durability, for example:
 * Hwang forcing powerful Yin move? Takes his durability. Yang move? This is tricky, but either make it a weak attack that restores Weapon Durability or strong attack that takes his HP.
@@ -154,7 +156,7 @@ This is just on top of my head, but character gimmick runs on either HP or durab
  * Poor timing: Barely catches the attack, takes 60-70% damage, maybe only pushes the opponent away.
  * Completely mistimed: Eats the full attack, a baguette drops somewhere.
  * Come on, his sword is thin. It should redirect attacks, not take the brunt of the force.
-* Other character can run around other things such as number of clashes, remaining Weapon Durability, remaining HP, etc.
+* Other character can run around other things such as number of clashes, remaining Weapon Durability, remaining HP, Reversal Edge outcome, etc.
 
 ++ Proposal vs Current Soulcalibur VI
 Think about it, in SoulCalibur IV you are juggling:
