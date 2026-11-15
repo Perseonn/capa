@@ -37,6 +37,7 @@ https://capa.asoh.xyz/comp/credit-buster-wolf/
 https://capa.asoh.xyz/comp/credit-perseonn-balthasaar/
 https://capa.asoh.xyz/comp/credit/
 https://capa.asoh.xyz/comp/list-page-item/
+https://capa.asoh.xyz/comp/modal/
 https://capa.asoh.xyz/comp/pso2-damage-evaluation/
 https://capa.asoh.xyz/comp/pso2-manaka/
 https://capa.asoh.xyz/comp/pso2-nav/

@@ -1,0 +1,18 @@
+[[button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modal-{$id}"]][[i|{$icon-class}]] {$label}[[/button]]
+
+[[div class="modal fade" id="modal-{$id}" tabindex="-1" aria-labelledby="modal-{$id}-Label" aria-hidden="true"]]
+[[div class="modal-dialog modal-dialog-centered"]]
+[[div class="modal-content"]]
+
+[[div_ class="modal-header"]]
+[[span class="modal-title fs-5" id="modal-{$id}-Label"]]{$title}[[/span]]
+[[button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"]][[/button]]
+[[/div]]
+
+[[div class="modal-body"]]
+{$content}
+[[/div]]
+
+[[/div]]
+[[/div]]
+[[/div]]

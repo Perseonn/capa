@@ -10,12 +10,13 @@ Grace Ashcroft from Resident Evil Requiem is one of the most questionable portra
 * Grace is set up to fail. Sending an inexperienced, traumatized analyst into a dangerous location alone without backup wasn't just a writing oversight. I heard that her solo assignment to the site of her mother's murder was orchestrated as part of antagonist Victor Gideon's plan.
 * The entire thing was a gameplay intent: Capcom intentionally made her vulnerable—giving her shaky aim and clumsy gun handling—to restore genuine survival-horror tension rather than turning her into another superheroic action lead like Leon or Goris (Goris, the Gorilla-Chris,  has an official merchandise. Look it up!).
 
-[[include comp:button
-|link=/assets/articles/grace-ashcroft/goris-mercari.avif
+[[[include comp:modal
+|id=1
+|content=[[image goris-mercari.avif | | rounded]]
 |icon-class=fa-solid fa-image
 |label=I don't wanna hear your argument, I wanna see Goris instead!
-]]
-
+|title=Behold, Goris!
+]]]
 
 + My Counter Arguments
 With my limited military training, Grace's behavior comes off as unnatural. Panic under extreme circumstances is understandable, but there's a distinction between experiencing fear and being unable to apply any of your professional training. Constant hyperventilating, stuttering, and panic attacks make me question how much of her training she can actually put to use.

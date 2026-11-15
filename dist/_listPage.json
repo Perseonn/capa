@@ -381,6 +381,16 @@
     },
     {
         "category": "comp",
+        "slug": "modal",
+        "sourceName": "comp_modal",
+        "url": "/comp/modal/",
+        "title": "New Page",
+        "author": "Perseonn Balthasaar",
+        "updated": "2026-01-01",
+        "wip": false
+    },
+    {
+        "category": "comp",
         "slug": "pso2-damage-evaluation",
         "sourceName": "comp_pso2-damage-evaluation",
         "url": "/comp/pso2-damage-evaluation/",
