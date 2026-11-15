@@ -1,6 +1,6 @@
 @title: Dynasty Warriors 4: Xtreme Legends
 @author: Buster Wolf
-@updated: 2026-12-01
+@updated: 2026-11-28
 @wip
 
 Dynasty Warriors 4: Xtreme Legends is the first expansion for Dynasty Warriors 4, as with all Xtreme Legends expansions it has its own content to separate itself from the vanilla game, but to have all the content from the vanilla game Mixjoy is needed. Unlike [[link /guides/dynasty-warriors-3-xtreme-legends | the previous Xtreme Legends title]] they had better foresight and this time you can get all the content without needing the vanilla game, however mixjoying with the vanilla game will have harder AI in the original content.
@@ -963,7 +963,7 @@ As this version of the game has no officers that drop item boxes naturally your 
 # Southeast second box near a tent by Sima Zhao's location
 
 Quit and save **before** you start picking up items as bags picked up before saving will already have the contents determined when you beat the stage. If you don't get an upgrade to your items press Start+Select, reload the save and try again, this will require patience specially for Elemental Orbs as they are pretty rare.
-Video here
+[[youtube mGAgZmvPeVM]]
 
 + Best Legend Stages for Stats
 Wondering which stage are the best for farming stats or experience points? Here's a quick breakdown on the best stages to do.
