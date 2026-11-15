@@ -260,6 +260,7 @@ table.wiki-content-table{
 table.wiki-content-table th{
 	background-color: var(--color-capa-s60);
 	color: var(--color-bg);
+	border-bottom: 4px solid var(--color-capa-s60);
 }
 
 table.wiki-content-table th,
@@ -279,6 +280,10 @@ table.wiki-content-table tr:nth-of-type(even) {
 
 table.wiki-content-table tr:last-of-type {
 	border-bottom: 4px solid var(--color-capa-s60);
+}
+
+table.wiki-content-table tr:first-of-type {
+	border-top: 4px solid var(--color-capa-s60);
 }
 
 

@@ -20,7 +20,7 @@ This guide is intended for newbies and returnee alike. If you have questions suc
 [[image crk-global-notification.webp | For your piece of mind, turn this option off!]]
 
 [[#first-thing]]
-+I'm new / I just returned after months, what cookies should I get?
++ I'm new / I just returned after months, what cookies should I get?
 * Most Story Content, at least to Crispia 18, can be cleared with 3 cookies: [[span class="icon cine"]]Cine (Fettuccine)[[/span]], [[span class="icon creme-brulee"]]Creme Brulee[[/span]], and [[span class="icon star-coral"]]Star Coral[[/span]].
  * The other 2 cookies are flexible.
  * Raise only 5 cookies to max level
@@ -192,6 +192,7 @@ If you need further assistance, you can go to contact me on Discord at Perseonn#
 
 ++ Changelog
 [[div class="alert alert-info"]]
+||~
 || 2025/03/15 || Make the guide to be much more general and added obsolete warning.|| 
 || 2024/05/06 || General update on Cookie List and removal of alternatives on Red Velvet Dragon.|| 
 || 2024/03/23 || Streamlined Avatar of Destiny Battle || 
