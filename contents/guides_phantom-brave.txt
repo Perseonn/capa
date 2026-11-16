@@ -750,10 +750,10 @@ These will replace the maps from Episode 17 even going into new episodes.
 18-1 Sick Unto Death
 Enemy
 ||~ Unit ||~ Protection ||
-| | Ghost | | Resistant (U) ||
-| | Ghost x2 | | Invincible (U) ||
-| | Summon | | No O.B. (U) ||
-| | Summon | | ||
+|| Ghost || Resistant (U) ||
+|| Ghost x2 || Invincible (U) ||
+|| Summon || No O.B. (U) ||
+|| Summon || ||
 Items: Fish (Unarmed), Bone, Skull, PoisonRck, BronzeAxe, StoneKnife, Cane, Crate, Starfish, Wither Tr, SacredRck, Dead Tree, Crystal, Deadwood, LongSpear, RottenTr
 
 18-2 Road of the Lost
@@ -766,9 +766,9 @@ Items: Stone (DEF +20%), CurseTree (Reinforce 20%), Rotten Tr (ATK +10%), Wither
 19-3 Life and Death
 Enemy
 ||~ Unit ||~ Protection ||
-| | Manticore x3 | | Mana +50% (U) ||
-| | Manticore x4 | | Money +50% (U) ||
-| | Manticore x5 | | EXP +50% (U) ||
+|| Manticore x3 || Mana +50% (U) ||
+|| Manticore x4 || Money +50% (U) ||
+|| Manticore x5 || EXP +50% (U) ||
 Items: BlasphTr, Rotten Tr, Rock, PoisonRck, Crystal, Weed, Misc Weed, Barrel, Starfish, Driftwood, SacredRck, Bone, Skull, Brick
 
 19-4 Hall of Death
@@ -778,9 +778,9 @@ Items: Crystal (ATK -30% & DEF +30%), Crystal (ATK -30% & DEF +30%), Blossom
 19-5 No Man's Land
 Enemy
 ||~ Unit ||~ Item ||~ Protection ||
-| | Summon | | | | Reinforce 30% (U) ||
-| | Summon | | Cactus | | ||
-| | Summon x8 | | | | ||
+|| Summon || - || Reinforce 30% (U) ||
+|| Summon || Cactus || ||
+|| Summon x8 || || ||
 Items: Weed (Reinforce 20%), Flower (Reinforce 20%), SacredRck (Permanent), CurseTree, Crystal, SacredRck, Seed, Cactus, PoisonRck, WitherTr, Skull, Bone, Rotten Tr, Deadwood
 
 +++ The Final Episode Goodbye
@@ -788,25 +788,25 @@ Items: Weed (Reinforce 20%), Flower (Reinforce 20%), SacredRck (Permanent), Curs
 20-6 Mortality's End
 First time enemy
 ||~ Unit ||~ Item ||
-| | Summon | | ||
-| | Dark Knight x4 | | Knife ||
-| | Dark Knight x3 | | Iron Ktna ||
+|| Summon || ||
+|| Dark Knight x4 || Knife ||
+|| Dark Knight x3 || Iron Ktna ||
 Repeated version enemies: Summon, Werewolf x2, Cerberus, Behemoth, Giga Beast, Lizardman x2
 Items: Rotten Tr (Permanent), Wight Tree (Permanent), Rotten Tr (Permanent), Dead Tree, Rotten Tr, Crystal, PoisonRck, Rock, Cactus, Driftwood, Misc Weed, SacredRck, Skull, Bone
 
 20-7 Hell's Appeal
 Enemy
 ||~ Unit ||~ Item ||
-| | Dark Raphael  | | Heliotrope ||
-| | Dark Knight | | Steel Axe ||
-| | Dark Knight x2 | | BronzeSwd ||
-| | Dark Knight x2 | | Iron Spear ||
+|| Dark Raphael  || Heliotrope ||
+|| Dark Knight || Steel Axe ||
+|| Dark Knight x2 || BronzeSwd ||
+|| Dark Knight x2 || Iron Spear ||
 First time neutral: Knight x2
 Repeated version enemies
 ||~ Unit ||~ Protection ||
-| | Giga Beast | | EXP +80% & Mana +80% (U) ||
-| | Werewolf x4 | | ||
-| | Lizardman | | ||
+|| Giga Beast || EXP +80% & Mana +80% (U) ||
+|| Werewolf x4 || ||
+|| Lizardman || ||
 Items: Rotten Tr (ATK +30%), Wither Tr (DEF +30%), Crystal, Rock, PoisonRck, Rock Weed, Bone, Skull, Vase
 NOTE: While Dark Knight can't be created you will be able to create Knights if you revive the Neutral Unit and kill it again, I recommend doing this specially since they will be removed on the repeated version. Also even if you are unable to take home the Heliotrope from Raphael you will be given one after this battle.
 
@@ -814,7 +814,7 @@ NOTE: While Dark Knight can't be created you will be able to create Knights if y
 Part 1
 Enemy
 ||~ Unit ||~ Item ||
-| | Dark Sprout | | !Shiva ||
+|| Dark Sprout || !Shiva ||
 ! Unique item, only chance for PlayStation players to steal.
 Items: Crystal (ATK +60%), Crystal (DEF +60%), Crystal (SPD +60%), Crystal, Blossom, SacredRck, PoisonRck, Misc Weed, Weed, Flower
 
@@ -1448,9 +1448,9 @@ Requirement: Clear ???? (Extra Map 1)
 Reward: Etna & Flonne Phantoms
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Etna | | Must-read | | Damage 10% (I) ||
-| | Flonne | | Encyc. | | HP Heal 20% (I) ||
-| | Prinny x3 | | Bomb | | ||
+|| Etna || Must-read || Damage 10% (I) ||
+|| Flonne || Encyc. || HP Heal 20% (I) ||
+|| Prinny x3 || Bomb || ||
 Items: Flower, Pot, Pillar
 
 +++ Overlord's Castle
