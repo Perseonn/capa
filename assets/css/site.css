@@ -863,12 +863,6 @@ nav .stroke.site-title a:hover{
             visibility 0.25s ease;
     }
 
-	.capa-nav-bg{
-		/*padding-top: 4rem;*/
-	}
-
-
-
     /* Expanded state */
     .capa-navbar.is-open #capa-nav-content {
         transform: translateX(0);
@@ -955,7 +949,8 @@ TABLE OF CONTENTS
 }
 
 #toc a.toc-h2,
-#toc a.toc-h3{
+#toc a.toc-h3,
+#toc a.toc-h4{
 	margin-top: 0.5rem;
 	margin-bottom: 0.5rem;
 }
@@ -974,17 +969,18 @@ TABLE OF CONTENTS
 	background-color: var(--color-capa-1-50);
 }
 
+#toc a.toc-h1 + a.toc-h2::after,
+#toc a.toc-h2 + a.toc-h2::after,
+#toc a.toc-h2 + a.toc-h3::after,
+#toc a.toc-h3 + a.toc-h2::after{
+	content: '\00a0';
+	border-left: 2px solid var(--color-capa-1);
+	border-right: 2px solid var(--color-capa-1);
+	max-height: 0.5rem;
+	margin-left: auto;
+	margin-right:0rem;
+	transform:translate(0,-0.8rem);
 
-
-#toc a.toc-h4::before {
-	content: '- ';
-	color: var(--color-capa-5);
-}
-
-#toc a.toc-h4{
-	margin-left: 2.6rem;
-	text-indent: -0.8rem;
-	padding: 0.15rem 0rem;
 }
 
 #toc-action-bar{
