@@ -897,7 +897,8 @@ Musou Wine: From the castles lower right entrance go East to find it near a hous
 ++ Xiang Yang
 +++ The Siege of Fan Castle
 **Unlock:** Wei or Wu Act 5/Final Act.
-**Dim Sum:** Near the top left Wei Gate Captain in the castle.
+**Dim Sum 1:** Near the top left Wei Gate Captain in the castle.
+**Dim Sum 2:** Xiahou Dun (extra warrior, can join after 13 minutes as Wu Forces.)
 **Musou Wine:** Near the bottom right Wei Gate Captain in the castle.
 **Wei Forces:** Lu Xun, Zhou Tai.
 **Wu Forces:** Zhen Ji.
