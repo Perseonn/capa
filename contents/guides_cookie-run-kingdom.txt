@@ -55,7 +55,15 @@ Check the quest menu on the bottom of the Kingdom screen.
 * Dedicate at least 1 Mine slot to [[i|crk fossil-emerald]].
 * Never mine for Purple Fossil. You can get beascuits from other sources.
 * Melt agar cubes as often as you can
-* [[i|crk sugar-ore]] Sugar ore acquisition is quite slow. Only use it to make Epic Topping Tarts, and never use it to make Rare Topping Tarts.
+* [[i|crk sugar-ore]] Sugar Ore acquisition is quite slow. Only use it to make Epic Topping Tarts, and never use it to make Rare Topping Tarts.
+* [[i|crk radiant-ovc]] Radiant Ore Vein Crystal acquisition and usage:
+ * On Mine Screen, break down unused Ore Vein Cards using the {{Break Down Ore Vein Cards}} button on the top of the screen.
+  * Break any Rare and Common Cards.
+  * Break any Epic Cards you don't need or nearing expiration.
+ * On Mine Screen, tap the Shop button spend Radiant Ore Vein Crystal.
+  * This shop is refreshed weekly
+  * Prioritize on Battle Cards, but you should be able to purchase every limited cards.
+ 
 
 ++ Arena
 * Do your best at arena to burn all the tickets you have.
@@ -333,6 +341,7 @@ Items are listed alphabetically. Their acquisition methods are ordered by primar
 || [[i|crk lse]] Legendary Soul Essence || [[span class="cell-item strong"]]Master Mode[[/span]][[span class="cell-item"]]Getting Soulstones for maxed Super Epic+[[/span]] ||
 || [[i|crk sc-pur]] Purity Sugar Crystals || [[span class="cell-item strong"]]Master Mode[[/span]][[span class="cell-item"]]Bounty[[/span]][[span class="cell-item"]]Seaside Market[[/span]] ||
 || [[i|crk radiant-dough]] Radiant Beascuit Dough || [[span class="cell-item strong"]]Break Down Beascuits[[/span]][[span class="cell-item"]]Timeline of Fate World Exploration[[/span]] ||
+|| [[i|crk radiant-ovc]] Radiant Ore Vein Crystal || [[span class="cell-item strong"]]Break Down Ore Vein Cards[[/span]] ||
 || [[i|crk radiant-shard]] Radiant Shards || [[span class="cell-item strong"]]Balloon[[/span]][[span class="cell-item"]]Appraise [[i|crk fossil-amber]] Amber Fossils[[/span]][[span class="cell-item"]]Seaside Market[[/span]][[span class="cell-item"]]Arena and Guild Shop[[/span]][[span class="cell-item"]]Sublime Cake Tower[[/span]] ||
 || [[i|crk rainbow-cube]] Rainbow Cube || [[span class="cell-item strong"]][[i|crk mm-chest-item]] Monster Menace Item Chest[[/span]][[span class="cell-item"]]Appraise [[i|crk fossil-emerald]] Emerald Fossils[[/span]] ||
 || [[i|crk rainbow-pearl]] Rainbow Pearls || [[span class="cell-item strong"]]Ship from Touc's Trade Harbor[[/span]] ||
