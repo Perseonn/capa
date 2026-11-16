@@ -42,8 +42,6 @@ Check the quest menu on the bottom of the Kingdom screen.
 |text=Fully collecting 60 Yeast Ores takes 200 days if you use all 3 Beast Yeast Expedition Attempts per day.
 ]]
 
-[[image crk-grandmaster-guild.avif | A guild with golden banner, showing a Grandmaster 2 banner.]]
-
 ++ Bounties
 * Refill your bounties daily
 * [[i|crk skill-powder]] Skill Powders are of the highest priority since this is its primary source.
@@ -84,6 +82,8 @@ Check the quest menu on the bottom of the Kingdom screen.
 Join a guild, never make one.
 
 The amount of resource and time commitment you need to build a guild from scratch is enormous. You better go look for a very casual [[i|crk rank-gm3]]Grandmaster 3 (GM3) or higher guild. A Grandmaster guild is easily distinguishable by visiting the guild and check the golden banner near the Beacon.
+
+[[image crk-grandmaster-guild.avif | A guild with golden banner, showing a Grandmaster 2 banner.]]
 
 + Which Cookies Should I Get?
 [[#first-thing]]
@@ -346,7 +346,7 @@ Items are listed alphabetically. Their acquisition methods are ordered by primar
 
 
 ++ Changelog
-[[div class="alert alert-info"]]
+[[div class="alert alert-info table-margin-0"]]
 || 2026/11/16 || Revival. Updated the guide to have a tip-like structure.||
 || 2025/03/15 || Made the guide to be much more general and added obsolete warning.|| 
 || 2024/05/06 || General update on Cookie List and removal of alternatives on Red Velvet Dragon.|| 

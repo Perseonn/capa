@@ -301,20 +301,8 @@ table.wiki-content-table{
 	margin-bottom: 1rem;
 }
 
-table.wiki-content-table th{
-	background-color: var(--color-capa-s60);
-	color: var(--color-bg);
-	border-bottom: 4px solid var(--color-capa-s60);
-}
 
-table.wiki-content-table th,
-table.wiki-content-table td{
-	line-height: 1.4;
-    padding: 0.5rem;
-	max-width: 40%;
-}
-
-table.wiki-content-table tr:nth-of-type(odd) {
+table.wiki-content-table tr:nth-of-type(odd):not(:has(th)) {
 	background: #cce5ff40;
 }
 
@@ -328,6 +316,19 @@ table.wiki-content-table tr:last-of-type {
 
 table.wiki-content-table tr:first-of-type {
 	border-top: 4px solid var(--color-capa-s60);
+}
+
+table.wiki-content-table tr:has(th){
+	background-color: var(--color-capa-s60);
+	color: var(--color-bg);
+	border-bottom: 4px solid var(--color-capa-s60);
+}
+
+table.wiki-content-table th,
+table.wiki-content-table td{
+	line-height: 1.4;
+    padding: 0.5rem;
+	max-width: 40%;
 }
 
 tt {
@@ -501,14 +502,19 @@ Utility Classes
 
 .text-shadow{text-shadow: var(--text-shadow);}
 
-.table-neutral table.wiki-content-table{margin-bottom: 0;}
-
-.table-layout-auto table.wiki-content-table,
 .table-neutral table.wiki-content-table,
+.table-margin-0 table.wiki-content-table{
+	margin-bottom: 0;
+}
+
+.table-neutral table.wiki-content-table,
+.table-layout-auto table.wiki-content-table,
 .table-footnote table.wiki-content-table{
 	table-layout: auto;
 }
 
+.table-neutral table.wiki-content-table tr:nth-of-type(even),
+.table-footnote table.wiki-content-table tr:nth-of-type(even)
 .table-neutral table.wiki-content-table tr:nth-of-type(odd),
 .table-footnote table.wiki-content-table tr:nth-of-type(odd){
 	background: none;
@@ -516,6 +522,7 @@ Utility Classes
 
 .table-neutral table.wiki-content-table tr,
 .table-neutral table.wiki-content-table tr:last-of-type {border-bottom: 1px solid var(--color-capa-1);}
+.table-neutral table.wiki-content-table tr:first-of-type {border-top: 1px solid var(--color-capa-1);}
 
 .table-footnote table.wiki-content-table tr:last-of-type{border-bottom: 0px;}
 
