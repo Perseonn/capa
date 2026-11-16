@@ -1,13 +1,13 @@
 @title: Cookie Run Kingdom
 @author: Perseonn Balthasaar
-@updated: 2025-04-06
+@updated: 2026-11-16
 
-This guide is intended for newbies and returnee alike. If you have questions such as "What cookie to use", "Please help make my team", "Is this cookie good", "Which is the best legendary", then this is the one stop for all your questions!
+This guide is intended as a tips list for people who are overwhelmed by the game, as both a newbie and a returnee. If you are confused on what to do with the game, read on! Note that long-term progression and resource efficiency will be prioritized here over immediately maximizing your combat power. Several things will get repeated as each section was written as a stand alone.
 
-[[include comp:alert
-|type=danger
-|icon=fa fa-skull
-|text=This guide is no longer maintained after March 2025. Only general information will be kept.
+[[include comp:alert-warning
+|text=Cookie Run Kingdom requires massive amount of time sink. If you're playing to collect cookies, it's fine. If you want to experience the entire game, it's time-consuming. Cookie Castle L15 is 8 months, opening lands are 1.5 years, lab researches are 2 years, guild building is over 3 years and so on.
+
+If you want to be successful in the game, you'll need to pay attention to **resource management**.
 ]]
 
 [[#important]]
@@ -19,80 +19,200 @@ This guide is intended for newbies and returnee alike. If you have questions suc
 
 [[image crk-global-notification.webp | For your piece of mind, turn this option off!]]
 
++ What to Do?
+Check the quest menu on the bottom of the Kingdom screen.
+
+++ Daily Routines in Kingdom
+* Never stop sending balloons
+ * Balloon is free to send, and it brings [[i|crk radiant-shard]] Radiant Shards, [[i|crk topping-piece]] Topping Pieces (Crispia), [[i|crk beascuit-dough]] Beascuit Dough (Beast Yeast)
+* Never stop sending trains
+ * Trains are your main income for [[i|crk aurora-pillar]] Aurora Mats. No Aurora mats = No Kingdom growth.
+ * Aurora mats acquisition are badly randomized. Lopsided distribution among the [[i|crk aurora-soap]] Bricks, [[i|crk aurora-compass]]Compasses, and [[i|crk aurora-pillar]] Pillars are a common occurrence.
+* Never stop sending ships on Touc's Trade Harbor
+ * Ships bring [[i|crk rainbow-pearl]] Rainbow Pearls, which can be used to good stuff in Rainbow Shell Gallery
+* Do your Tree of Wishes daily to obtain all 3 Daily Rewards.
+
++++ On Sending Balloon to Crispia vs Beast Yeast
+* Sending Balloon to Crispia Yields [[i|crk topping-piece]] Topping Pieces (Crispia).
+ * [[i|crk topping-piece]] Topping pieces are well used all the way to late game. Amassing them is important.
+* Sending Balloon to Beast Yeast [[i|crk beascuit-dough]] Beascuit Dough (Beast Yeast) + Yeast Ore
+ * The most important Yeast Ore is [[i|crk yeast-ore-deceit]] Deceit Yeast Ore from Beast Yeast Episode 7 and 8, which increases [[i|crk rainbow-pearl]] Rainbow Pearl yield from Ships on Touc's Trade Harbor.
+
+[[include comp:alert-warning
+|text=Fully collecting 60 Yeast Ores takes 200 days if you use all 3 Beast Yeast Expedition Attempts per day.
+]]
+
+[[image crk-grandmaster-guild.avif | A guild with golden banner, showing a Grandmaster 2 banner.]]
+
+++ Bounties
+* Refill your bounties daily
+* [[i|crk skill-powder]] Skill Powders are of the highest priority since this is its primary source.
+* [[i|crk sc-all]]Sugar Crystals can be considered on days were sugar crystal is boosted, but always prioritize Skill Powders when both are boosted. There are other ways to get [[i|crk sc-all]] Sugar Crystals like Master Mode, or Guild Gacha.
+* [[i|crk cake-piece]] Chaos Cake Pieces can be considered, but I personally think there's no need to get it from bounties as it is never boosted, and can be obtained from Sublime Cake Tower and Rainbow Shell Gallery.
+* EXP and Coins are absolute no-no. Doing this will create bad dependency!
+
+++ Mine
+* Prioritize mining [[i|crk fossil-amber]] Amber Fossil on early game.
+ * It will help with getting [[i|crk butter-amber]] Butter Amber for Topping Tarts, [[i|crk attunement-kits]] Attunement Kits, and [[i|crk radiant-shard]] Radiant Shards.
+* Dedicate at least 1 Mine slot to [[i|crk fossil-emerald]].
+* Never mine for Purple Fossil. You can get beascuits from other sources.
+* Melt agar cubes as often as you can
+* [[i|crk sugar-ore]] Sugar ore acquisition is quite slow. Only use it to make Epic Topping Tarts, and never use it to make Rare Topping Tarts.
+
+++ Arena
+* Do your best at arena to burn all the tickets you have.
+* Don't let defeat deter you. Your main aim is to deplete the ticket stock to gain [[i|crk arena-medal]] Arena Medals.
+
++++ Using Weak Defense to Farm Medals
+* Once you can afford to have Arena meta cookies, you can start using weak Defense to farm [[i|crk arena-medal]] Arena Medals.
+* By using weak defense, you're more likely to encounter weaker teams on your defense record than stronger ones.
+* You don't need to attack anyone, just wait.
+* From my experience, I have ~80% win rate over 1200+ battles each season. Since 1 victory averages at 20 medals, I get ~20 000 medals per season.
+
+++ Nether Exploration
+* Nether Exploration has Healing -65%, so it's a good idea to use standard template comp that consist of: 1 cookie that can tank / take damage, 2 cookies that can do damage, and 2 cookies that heals.
+* Elemental Tanks are rare, so feel free to use Charge Cookies to replace them, such as [[i|crk pyam]][[i|crk mc-pyam]] Purple Yam for Grass team.
+* Healing and Support cookies doesn't need to match element. It's good if they can Elemental Enchant like [[i|crk bartender]][[i|crk mc-bartender]] Sparkling, but not a requirement.
+* If you see [[i|crk mcgonagall]][[i|crk mc-mcgonagall]] Blue Berry Pie on the roster list, be prepared to get stumped with the electric team on your 1st run.
+* Most important thing is: do your best.
+ * Get as much boss nodes as you can on Floor 1-5.
+ * The Hard modem particularly Floor 6+ is aimed for established players on an established guilds.
+ * If you feel your 1st run isn't good, think twice before redoing it, as a run can take 40 minutes!
+
+
++ Should I Make a Guild?
+Join a guild, never make one.
+
+The amount of resource and time commitment you need to build a guild from scratch is enormous. You better go look for a very casual [[i|crk rank-gm3]]Grandmaster 3 (GM3) or higher guild. A Grandmaster guild is easily distinguishable by visiting the guild and check the golden banner near the Beacon.
+
++ Which Cookies Should I Get?
 [[#first-thing]]
-+ I'm new / I just returned after months, what cookies should I get?
-* Most Story Content, at least to Crispia 18, can be cleared with 3 cookies: [[span class="icon cine"]]Cine (Fettuccine)[[/span]], [[span class="icon creme-brulee"]]Creme Brulee[[/span]], and [[span class="icon star-coral"]]Star Coral[[/span]].
+++ General Rule of Team Comp
+* A common team comp is: 1 cookie that can tank / take damage, 2 cookies that can do damage, and 2 cookies that heals.
+ * Most [[i|crk cl-defense]] Defense cookie can take damage, but not all of them tanks or redirect damage taken by allies.
+  * [[i|crk legolas-papa]] Millennial Tree is known for being both a tank and a healer, despite being a [[i|crk cl-support]] Support Cookie
+ * Most [[i|crk cl-healing]] Healing and [[i|crk cl-support]] Support cookies can heal, but few Support cookies cannot heal.
+* This comp is a template for all high difficulty content, such as Hard Mode and Nether Exploration.
+
+++ For Exploration Story Mode
+* Most Story Content, at least to Crispia 18, can be cleared with 3 cookies: [[i|crk cine]] Cine (Fettuccine), [[i|crk creme-brulee]] Creme Brulee, and [[i|crk lantern-girl]] Star Coral.
+ * If you have an unopened Legendary Box, get [[i|crk legolas]] Wind Archer instead of [[i|crk creme-brulee]] Creme Brulee.
  * The other 2 cookies are flexible.
  * Raise only 5 cookies to max level
- * Arena is out of reach for you team as you don't have max leveled cookies, you should use your Story mode team for Arena
-* Treasures are important; use [[span class="icon trsr scroll"]]Scroll[[/span]], [[span class="icon trsr watch"]]Watch[[/span]], [[span class="icon trsr whistle"]]Whistle[[/span]].
- * If you have [[span class="icon creme-brulee"]]Creme Brulee[[/span]] in party, use [[span class="icon trsr robes"]]Robe[[/span]] instead
- * Use [[span class="icon trsr rare-scroll"]]Rare Scroll[[/span]], and [[span class="icon trsr common-watch"]]Common Watch[[/span]] if these treasure's levels are higher.
+ * Use your Story mode team for Arena, and just do your best spending the tickets.
+* Treasures are important; use [[i|crk trsr scroll]] Scroll, [[i|crk trsr watch]] Watch, [[i|crk trsr whistle]] Whistle.
+ * If you have [[i|crk creme-brulee]] Creme Brulee in party, use [[i|crk trsr robes]] Robe instead
+ * Use [[i|crk trsr rare-scroll]] Rare Scroll, and [[i|crk trsr common-watch]] Common Watch if these treasure's levels are higher.
 
 [[image crk-mileage-point.webp | Use your Mileage points to get the Epic cookies you don't have.]]
 
+[[#mota]]
+++ Who Should I Get from Might of the Ancients / Beast?
+* Get one you currently don't have, or wait until you get most of them and then pick one you don't have.
+ * Ancient: Consider [[i|crk white-lily]] White Lily, [[i|crk hollyberry]]Hollyberry, then anyone you don't currently have.
+ * Beast: [[i|crk kuso-piero]] Shadow Milk, [[i|crk mamiko-noto]] Eternal Sugar, [[i|crk kikuko-inoue]] Mystic Flour, then anyone you don't currently have.
+
+[[#best-legendary]]
+++ Who to Pick from the Legendary Box?
+[[i|crk legolas]] Wind Archer. If you already have Wind Archer, wait until you get either [[i|crk legolas-papa]] Millennial Tree or [[i|crk sugar-swan]] Sugar Swan, then pick the one you don't have from the box.
+
+++ Who to Pick from the Pavilion of Promise?
+* Get one of each.
+* After that, focus on [[i|crk squirrel]] Cream Ferret and [[i|crk bunny]] Marshmallow Bunny.
+
 [[#toppings]]
-+ What Toppings?
-* In general, Cookies's topping can be grouped by:
- * [[span class="icon top almond"]]Almonds[[/span]]: Defense
- * [[span class="icon top choco"]]Chocolates[[/span]]: Support, Healer
- * [[span class="icon top rasp"]]Raspberries[[/span]]: Everyone else
++ What Toppings Should I Use?
+* In general, Cookies' toppings can be grouped by:
+ * [[i|crk top almond]] Almonds: Defense
+ * [[i|crk top choco]] Chocolates: Support, Healer
+ * [[i|crk top rasp]] Raspberries: Everyone else
 * **Exceptions exist!** Guild Battle, Arena and certain tough bosses will require more specific setups.
 
+++ Where Do I Get Topping Pieces?
+* [[i|crk topping-piece]] Topping Pieces can be obtained from sending Balloon to Crispia.
+* [[i|crk topping-piece]] Topping Pieces can be obtained from Guild Gacha.
+* [[i|crk topping-piece]] Topping Pieces can be obtained from breaking down Rare and Common Toppings.
+* [[i|crk topping-piece]] Topping Pieces can be obtained from breaking down Epic Toppings with undesirable substat to regain some of the used [[i|crk topping-piece]] Topping Pieces
+
 ++ Topping Grinding Strategy
-* Find Epic (M-sized) toppings (priority on [[span class="icon top almond"]]Almonds[[/span]] and [[span class="icon top choco"]]Chocolates[[/span]]) from Story mode.
+* Find Epic (M-sized) toppings (priority on [[i|crk top almond]] Almonds and [[i|crk top choco]] Chocolates) from Story mode.
 * Upgrade Epic (M-sized) topping to +6 and check the substat you get.
-* [[span class="icon top rasp"]]Raspberries[[/span]] ideally have at least 4% damage resist substat, but you can ignore this if you don't have the resource.
-* [[span class="icon top almond"]]Almonds[[/span]] should have at least 4% damage resist substat.
-* [[span class="icon top choco"]]Chocolates[[/span]] should have at least 1% cooldown substat
+* [[i|crk top rasp]] Raspberries ideally have at least 4% damage resist substat, but you can ignore this if you don't have the resource.
+* [[i|crk top almond]] Almonds should have at least 4% damage resist substat.
+* [[i|crk top choco]] Chocolates should have at least 1% cooldown substat
 * Once you get the good substat, grind the topping to +12.
 * If your first substat is undesired like Amplify Buff, Critical Resist, Debuff Resist, break the topping down for a little refund. Others like HP, Attack, or Def might still be useful for Alliance, or stock toppings should the need arise.
 
++++ Higher Standard for Topping Grinding Strategy
+* ⚠️ Only applies if you have enough toppings for your meta cookies
+* For all toppings: at least 2.5% out of 3%; 1.7% out of 2%; 5% out of 6% for substat. Some exceptions apply if the substat is a golden combination, such as Damage Resist + Attack + Cooldown or something similar.
+* Caramels need to have Attack Speed on +6, else broken.
+* Almonds need to have Damage Resist on +6, else broken.
+* Peanuts need to have HP on +6, else broken.
+* Chocos need to have Cooldown on +6, else broken.
+* Same with Walnut, Kiwi, Candy, and Hazelnut, but only grind this if you have resources to spare.
+
+++ Topping Tarts
+* Mine [[i|crk fossil-amber]] Amber Fossil to obtain [[i|crk butter-amber]] Butter Amber.
+* You can directly mine [[i|crk butter-amber]] Butter Amber in the early game to accelerate your Topping Tart collection.
+* Any Epic or Legendary Topping Tarts without at least green stat gets broken down.
+* Walnut, Kiwi, Candy, and Hazelnut need to have purple stat, else broken down.
+* Peanut, Caramel, and Almond need to have blue stat, else broken down.
+
+[[#resonant]]
+++ What's a Mysterious Topping or Resonant Topping?
+* A Mysterious Topping contains several Resonant Toppings.
+* Resonant Toppings are Epic Toppings with better minimum substat amount and less useless substats. It only has attack, attack speed, critical%, cooldown, damage resist, and critical resist as substats.
+* Resonant Toppings can only be equipped by certain cookies.
+
+
+
 [[#beascuits]]
-+ I keep failing attuning Beascuits!
++ Where Do I Get Beascuits?
+* Daily Monster Menace, regardless of chest.
+* Beast Yeast cost is discounted on weekends, so I usually hunt for Support or other required elemental Beascuits on weekends.
+
+++ Where Do I Get Radiant Beascuit Doughs?
+* Spend Fate Jellies for [[i|crk radiant-dough]] Radiant Beascuit Dough.
+* Break down unused Beascuits for [[i|crk radiant-dough]] Radiant Beascuit Dough.
+* Look for Bell Buff from Town Square that reduces Reset and Single Reset Cost by 20% before tuning beascuits.
+
+++ Attuning Beascuits Strategy
 * Always Attune with moderation.
 * If after 4 attunes, the beascuit doesn't have 2 slots, break it.
 * If after 8 attunes, the beascuit doesn't have 3 slots, break it.
 * If after 12 attunes, the beascuit doesn't have 4 slots, break it.
+* You can use [[i|crk attunement-kits]] Attunement Kits if you want, but keep the above breakpoints.
+* [[i|crk fossil-amber]]Amber Fossil can give you [[i|crk attunement-kits]] Attunement Kits.
 
 
-[[#mota]]
-+ Who should I get from Might of the Ancients?
-* Get one you currently don't have, or wait until you get most of them and then pick one you don't have.
-* Newbies usually have much higher luck, so it won't be long until you have all 5 ancients.
-
-
-[[#best-legendary]]
-+ Who is the best Legendary?
-* Assuming you are asking about the Legendary Cookie Choice Chest.
-* It's always good to pick the newest Legendary from the box (usually the leftmost one).
-* You also can keep the box and see which Legendary becomes much more useful for Guild Battle.
- * Example, as of writing, Frost Queen is used against Living Abyss, and Wind Archer is used on Arena.
 
 [[#coins]]
-+ Where do I get coins?
++ Where Do I Get Coins?
 Tree of Wishes, there's no better way than this, but take these notes:
-* On weekends, there's Burning Time event that increases the coins by 20%; this is the best time to go overboard with the Tree
-* Unless you are swimming in materials, never give out your Smithy items, except axes and pickaxes
-* Unless featured in Golden Wish or give you a generous amount (50k+ coins), don't give out lower tier materials, e.g. don't give cotton candy when you have access to Pom Jelly, and don't give Pom Jelly if you have the Colourful Bowl.
+* On weekends, there's Burning Time event that increases the coins by 20%; this is the best time to go overboard with the Tree.
+* A couple of points on early game Tree:
+ * Unless you are swimming in materials, never give out your Smithy items, except axes and pickaxes.
+ * Unless featured in Golden Wish or give you a generous amount (50k+) of coins, don't give out lower tier materials, e.g. don't give cotton candy when you have access to Pom Jelly, and don't give Pom Jelly if you have the Fluffy Castella.
 * Refresh wishes if you don't have enough materials.
 * Almost every aspect in cookie development requires coins. You gain nothing by skipping the tree!
+* Unless it's the only item left, do not purchase Coins from Event Shops.
 * Please do not use the Coin Bounties as this will create a bad dependency.
- * Bounties should be used only for Powders, Sugar Crystals, and Cake Pieces.
+ * Bounties should be used only for [[i|crk skill-powder]] Powders, [[i|crk sc-all]]Sugar Crystals, and [[i|crk cake-piece]] Chaos Cake Pieces.
 
 [[image crk-tree-of-wishes.webp | Tree of Wishes is your main source of coins. Please don't try to find alternatives.]]
 
 
 [[#moolah]]
-+ What should I spend real money on?
++ What Should I Spend Real Money on?
 * Should you want to spend money, Passes like Kingdom Pass are well worth the price.
 * Event Passes are less worth, but go for it if you like the featured cookie.
 * There could be a newbie Starter Pack that's cheap and also useful.
-* Other than that, is to spend for 4th sugar gnome.
+* Other than that, is to spend for 4th sugar gnome, but this little guy is expensive.
 
 
 [[#get-stronger]]
-+ How do I get stronger?
++ How Do I Get Stronger?
 You can get stronger by maximizing these things:
 * Cookie Level
 * Cookie Skill Level
@@ -107,93 +227,128 @@ You can get stronger by maximizing these things:
 * Guild Relic
 
 [[#exp]]
-++ How do I get more EXP?
-* Cookie Mansion is THE best way to obtain EXP, as well as the most tedious
-* At Castle L12, with 18 Cookie Mansion L10, you get 560714 EXP per day
-* At Castle L13, with 20 Cookie Mansion L11, you get 653240 EXP per day
-* Special Episodes gives 400 EXP per Quill used, or 14400 EXP per day without ads
-* Each fully upgraded landmark from kingdom pass gives 9600 EXP per day
-* Bounties can give over 100K EXP on a 100% boost day per Level 15 run
- * Do note that bounties are not a recommended way to get EXP, due to the much more valuable Skill Powders, Sugar Crystals, and Cake Pieces.
+++ How Do I Get More EXP?
+* Cookie Mansion is THE best way to obtain EXP, as well as the most tedious.
+ * Each house level is minor increase, but the multiplier is too big to ignore, since it's = {{[House EXP] * [Number of Houses] * [Days you are Playing]}}
+* Go on Master Mode, once you are powerful enough, to convert stamina Jellies to EXP, Colored Sugar Crystal, and [[i|crk lse]] Legendary Soul Essence
+* Bounties are not a recommended way to get EXP, due to the much more valuable Skill Powders, Sugar Crystals, and Cake Pieces.
+
+++ How Do I Get Skill Powders and Sugar Crystals?
+* Bounties. Refill your bounties daily.
+* Your early game bounties should be strictly [[i|crk skill-powder]] Skill Powders and [[i|crk sc-all]]Sugar Crystals. 
+* [[i|crk sc-all]]Sugar Crystals can also be obtained from Master Mode and Guild Gacha.
+* Late game where you have steady income of Sugar Crystals, your bounties should be strictly Skill Powders.
 
 [[#treasure]]
-++ Which treasure should I get?
+++ Which Treasure Should I Get?
 * Convert your Mileage Point to Treasure Tickets, focusing on:
- * [[span class="icon trsr scroll"]]Old Pilgrim Scroll[[/span]]
- * [[span class="icon trsr whistle"]]Dream Conductor's Whistle[[/span]]
- * [[span class="icon trsr robes"]]Librarian's Enchanted Robes[[/span]]
-* While waiting there to be maxed, you can use the [[span class="icon trsr rare-scroll"]]Disciple's Magic Scroll (Rare)[[/span]], [[span class="icon trsr common-watch"]]Squishy Jelly Watch (Common)[[/span]], and [[span class="icon trsr scythe"]]Grim Looking Scythe (Rare)[[/span]].
-* [[span class="icon trsr watch"]] Sleepyhead's Jelly Watch[[/span]] at Level 12 only adds 5% Attack over the [[span class="icon trsr common-watch"]]Squishy Jelly Watch (Common)[[/span]], so you can put it on lower priority since Beascuits can easily fill that 5% Attack earlier.
+ * [[i|crk trsr scroll]] Old Pilgrim Scroll
+ * [[i|crk trsr whistle]] Dream Conductor's Whistle
+ * [[i|crk trsr robes]] Librarian's Enchanted Robes
+* Don't use your Crystal on Treasure Gacha!
+* While waiting there to be maxed, you can use the [[i|crk trsr rare-scroll]] Disciple's Magic Scroll (Rare), [[i|crk trsr common-watch]] Squishy Jelly Watch (Common), and [[i|crk trsr scythe]] Grim Looking Scythe (Rare).
+* [[i|crk trsr watch]]  Sleepyhead's Jelly Watch at Level 12 only adds 5% Attack over the [[i|crk trsr common-watch]] Squishy Jelly Watch (Common), so you can put it on lower priority since Beascuits can easily fill that 5% Attack earlier.
 
 [[#landmark]]
-++ Which landmark is the best?
-* Stat-based landmarks needs to be maxed as soon as possible
- * Dreaming Lion Statue (Atk) from Sculpture Park
- * Dark Lord Castle (Damage Resist) from Crimson Badlands
- * Eerie Haunted House (Crit%) from Withces & Ghosts
- * Everwinter Snow Globe (Def) from Kingdom of Snow & Ice
- * Chocolate Altar of the Fallen (Crit DMG) from Kingdom of the Unwavering
- * Morning Dew Garden (HP) from Flower Garden
- * Ominous Cake Tower (HP) from St. Pastry Order
- * Eternal Hero Memorial (HP for Ancients) from Might of the Ancients
-* Supporting landmarks that helps Stamina Jelly regenerations will help you in the long run with progress, EXP, Soulstones, and Soulcores
- * Tick Tock Clock Tower (Production Speed) from Crispy Cookie Town
- * Grand Dessert Tower (Stamina Jellies) from Garden of Delights
- * Skull Island Resort (Stamina Jellies) from Tropical Island
- * Ferris Wheel (Random Soulstones) from Bustling Amusement Park
- * Gumball Arcade Machine (Random Soulstones) from Pew-Pew Arcade
+++ Which Landmarks Should I Get?
+* Stat-based landmarks needs to be maxed as soon as possible.
+ * Dreaming Lion Statue (Atk) from Sculpture Park.
+ * Dark Lord Castle (Damage Resist) from Crimson Badlands.
+ * Eerie Haunted House (Crit%) from Withces & Ghosts.
+ * Everwinter Snow Globe (Def) from Kingdom of Snow & Ice.
+ * Chocolate Altar of the Fallen (Crit DMG) from Kingdom of the Unwavering.
+ * Morning Dew Garden (HP) from Flower Garden.
+ * Ominous Cake Tower (HP) from St. Pastry Order.
+ * (Optional) Eternal Hero Memorial (HP for Ancients) from Might of the Ancients.
+* Supporting landmarks that helps Stamina Jelly regenerations will help you in the long run with progress, EXP, Soulstones, and Soulcores.
+ * Tick Tock Clock Tower (Production Speed) from Crispy Cookie Town.
+ * Grand Dessert Tower (Stamina Jellies) from Garden of Delights.
+ * Skull Island Resort (Stamina Jellies) from Tropical Island.
+ * Ferris Wheel (Random Soulstones) from Bustling Amusement Park.
+ * Gumball Arcade Machine (Random Soulstones) from Pew-Pew Arcade.
 
 [[#research]]
-++ Which Research should I do?
-* Prioritize All Cookies ATK Bonus, All Cookies DEF Bonus, and All Cookies HP Bonus. These should be Level 10
-* After that, you can go for per-type bonus, starting from ATK Bonus I and II, DEF Bonus I and II, then HP Bonus I and 2. These should be at least Level 5.
+++ Which Research Should I Do?
+In order of priority:
+* Cookies Tab: Tastier Star Jellies.
+* Kingdom Tab: Research Efficiency I and Research Efficiency II.
+* Cookies Tab: All Cookies ATK Bonus, All Cookies DEF Bonus, and All Cookies HP Bonus. These should be Level 10.
+* Cookies Tab: Per-type bonus, starting from ATK Bonus I and II, DEF Bonus I and II, then HP Bonus I and II. Everything should be at least Level 5, before going for Level 6+.
 
 [[#statue]]
-++ What is the statue of Statue of Radiance?
+++ What is the Statue of Radiance?
 * Statue of Radiance is an upgradable thing that resides in Hall of Ancient Heroes.
-* You need Radiant Shards to upgrade the statue.
-* You gain small stats per level, but these stats stacks quickly.
-* Try to have L50 statue as soon as possible, you can slow down after, but never forget to gather Radiant Shards.
+* Statue of Radiance increases your House EXP and Coins from Trees, as well as raises Cookies' Attack, Defense and HP.
+* You need [[i|crk radiant-shard]] Radiant Shards to upgrade the statue.
+* You gain small stats per level, but the stats stacks quickly.
+* Try to have L50 statue as soon as possible, you can slow down after, but always remember to gather [[i|crk radiant-shard]] Radiant Shards.
+
++++ Where Do I Get Radiant Shards?
+* Balloon is your main [[i|crk radiant-shard]] Radiant Shards income.
+* [[i|crk mm-chest-item]] Monster Menace Item Chest.
+* Arena Shop and Guild Battle Shop if you have the currencies.
 
 [[#bonds]]
 ++ What are Bonds?
 * Check your bonds by going to the Cookies screen and tap on the bottom-left "Bonds" button! 
 * Getting certain cookies to ⭐5 will maximize your bond level and in turn, increase your stats.
-* Madelaine cookie is notable for having 3 bonds at once, 2 of which is with rare and common cookies.
+* [[i|crk mado-chan]] Madelaine cookie is notable for having 3 bonds at once, 2 of which is with rare and common cookies.
 
 [[#relics]]
 ++ What are Guild Relics?
 * Guild relics are Guild properties that gives certain stat boost to each member.
 * Typically you will want to join Guild with high level relic.
  * However, you need to be strong in the first place to be able to join one.
- * Thus you might want to start by joining casual guild who can reach **at least Master 1** in Guild Battle.
-  * A Grandmaster 3 guild is more preferable.
-* Gathering Guild relic is cumbersome, you cannot do it with just 1-2 friends, especially since people will look for guild with complete relic, so better just join an existing guild. 
+ * Thus you might want to start by joining casual guild who can reach **at least** [[i|crk rank-m1]] **Master 1**  in Guild Battle.
+  * [[i|crk rank-gm3]] Grandmaster 3 or higher guild is more preferable.
+* Gathering Guild relic is cumbersome, it's practically impossible to do it with just 1-2 friends, especially since people will look for guild with complete relic, so better just join an existing guild. 
 
-[[#resonant]]
-+ What's a Mysterious Toppings or Resonant Toppings?
-* A Mysterious Toppings contains several Resonant Toppings
-* Resonant Toppings are Epic Toppings with better minimum substat amount and less useless substats. It only has attack, attack speed, critical%, cooldown, damage resist, and critical resist as substats.
-* Resonant Toppings can only be equipped by certain cookies.
-
+++ Where Do I Get Legendary Soul Essences?
+* [[i|crk lse]] Legendary Soul Essence is a Master Mode drop, but typically only 1-2 per day, assuming you use 400 Stamina Jellies.
+* [[i|crk lse]] Legendary Soul Essence is frequent on Event Shops.
+* [[i|crk lse]] Legendary Soul Essence is a byproduct if you get extra soulstone from maxed Super Epic+ Cookies
+ * Always get [[i|crk mm-chest-soul]] Monster Menace Soulstone Chest
+ * Always exchange Radiant Ore Vein Crystals for Mine Battle cards and melt all agar cubes. Weekends cuts their melting time by 50%, so you can use fewer Express Tickets.
+ * If you are swimming on gems: wait for Legendary aggregate cookie banner and spend Gems on it.
 
 + Where to look for Guild Battles, Arena, and certain stages?
-* For general newbie and problem solving, I recommend [[link https://www.youtube.com/@AEKCookieRunKingdom | AEK CH's channel on YouTube]]
- * AEK CH's Guild Relic is not particularly high, so almost all guides are easily replicated.
-* For Arena insight, there's [[link https://www.youtube.com/@dreaktcrk | Dreakt's channel on YouTube]]
- * Dreakt has a high guild relic, so there's a chance that what works for Dreakt, will not work for you.
-* For Guild Battle: 
- * Google the boss name, e.g. {{crk red velvet dragon}}
- * Use the {{Tools}} button to filter search by past month or so.
- * Look for the most recent Video
+* For general event and problem solving, there's [[link https://www.youtube.com/@AEKCookieRunKingdom | AEK CH's channel on YouTube🔗]]
+* For Guild Battle, there's [[link https://www.youtube.com/@cha_teaw | Chateaw's channel on YouTube🔗]]
+* For Arena insight, there's [[link https://www.youtube.com/@dreaktcrk | Dreakt's channel on YouTube🔗]]
+* Each of this channel, especially Dreakt, has high guild relics and established accounts, so there's a chance that what works for them, will not work for you, namely ones that require DPS race.
 
-+ Closing
-If you need further assistance, you can go to contact me on Discord at Perseonn#7731. Have fun!
++ Where Do I Get This Specific Item?
+Items are listed alphabetically. Their acquisition methods are ordered by primary source first. The primary source is the method that requires the least entry cost, investment, and/or competition with other resource demands. Event Shops are excluded.
+
+||~ Item ||~ Acquisition Method||
+|| [[i|crk attunement-kits]] Attunement Kits || [[span class="cell-item strong"]][[i|crk mm-chest-item]] Monster Menace Item Chest[[/span]][[span class="cell-item"]]Appraise Amber Fossils[[/span]] ||
+|| [[i|crk beascuit-dough]] Beascuit Dough || [[span class="cell-item strong"]]Break Down Beascuits[[/span]] ||
+|| [[i|crk butter-amber]] Butter Amber || [[span class="cell-item strong"]]Appraise [[i|crk fossil-amber]] Amber Fossils[[/span]][[span class="cell-item"]]Mine Ore Vein Butter Amber[[/span]][[span class="cell-item"]]Mine Workshop Shop[[/span]] ||
+|| [[i|crk cake-piece]] Chaos Cake Pieces || [[span class="cell-item strong"]]Sublime Cake Tower[[/span]][[span class="cell-item"]]Rainbow Shell Gallery[[/span]][[span class="cell-item"]]Bounties[[/span]] ||
+|| [[i|crk choco-chalk]] Choco Chalk || [[span class="cell-item strong"]][[i|crk mm-chest-item]] Monster Menace Item Chest[[/span]][[span class="cell-item"]]Lost & Found Event on Town Square[[/span]][[span class="cell-item"]]Mine Ore Vein Choco Chalk[[/span]] ||
+|| [[i|crk coin]] Coins || [[span class="cell-item strong"]]Tree of Wishes[[/span]] ||
+|| [[i|crk sc-all]] Colored Sugar Crystal (Strength, Swiftness, Arcane) || [[span class="cell-item strong"]]Master Mode (1-6 Only)[[/span]][[span class="cell-item"]]Bounty[[/span]] ||
+|| [[i|crk sjf]] Fate Stamina Jellies || [[span class="cell-item strong"]]Idle in Town Square[[/span]] ||
+|| [[i|crk sjj]] Juicy Stamina Jellies || [[span class="cell-item strong"]]Idle in Town Square[[/span]][[span class="cell-item"]]Rainbow Shell Gallery[[/span]] ||
+|| [[i|crk lse]] Legendary Soul Essence || [[span class="cell-item strong"]]Master Mode[[/span]][[span class="cell-item"]]Getting Soulstones for maxed Super Epic+[[/span]] ||
+|| [[i|crk sc-pur]] Purity Sugar Crystals || [[span class="cell-item strong"]]Master Mode[[/span]][[span class="cell-item"]]Bounty[[/span]][[span class="cell-item"]]Seaside Market[[/span]] ||
+|| [[i|crk radiant-dough]] Radiant Beascuit Dough || [[span class="cell-item strong"]]Break Down Beascuits[[/span]][[span class="cell-item"]]Timeline of Fate World Exploration[[/span]] ||
+|| [[i|crk radiant-shard]] Radiant Shards || [[span class="cell-item strong"]]Balloon[[/span]][[span class="cell-item"]]Appraise [[i|crk fossil-amber]] Amber Fossils[[/span]][[span class="cell-item"]]Seaside Market[[/span]][[span class="cell-item"]]Arena and Guild Shop[[/span]][[span class="cell-item"]]Sublime Cake Tower[[/span]] ||
+|| [[i|crk rainbow-cube]] Rainbow Cube || [[span class="cell-item strong"]][[i|crk mm-chest-item]] Monster Menace Item Chest[[/span]][[span class="cell-item"]]Appraise [[i|crk fossil-emerald]] Emerald Fossils[[/span]] ||
+|| [[i|crk rainbow-pearl]] Rainbow Pearls || [[span class="cell-item strong"]]Ship from Touc's Trade Harbor[[/span]] ||
+|| [[i|crk aurora-pillar]] Rarities (Aurora) || [[span class="cell-item strong"]]Trains[[/span]][[span class="cell-item"]]Tree of Wishes[[/span]][[span class="cell-item"]]Seaside Market[[/span]] ||
+|| [[i|crk sea-spyglass]] Rarities (Sea) || [[span class="cell-item strong"]]Tropical Soda Island[[/span]][[span class="cell-item"]]Seaside Market[[/span]][[span class="cell-item"]]Rainbow Shell Gallery[[/span]] ||
+|| [[i|crk skill-powder]] Skill Powders || [[span class="cell-item strong"]]Bounty[[/span]][[span class="cell-item"]]Cookie Alliance[[/span]] ||
+|| [[i|crk sj]] Stamina Jellies || [[span class="cell-item strong"]]Idle in Town Square[[/span]][[span class="cell-item"]]Grand Dessert Tower Landmark[[/span]][[span class="cell-item"]]Skull Island Resort Landmark[[/span]] ||
+|| [[i|crk sugar-ore]] Sugar Ore || [[span class="cell-item strong"]]Mine Venture[[/span]][[span class="cell-item"]]Mine Ore Vein Sugar One[[/span]] ||
+|| [[i|crk topping-piece]] Topping Pieces || [[span class="cell-item strong"]]Balloon[[/span]][[span class="cell-item"]]Guild Gacha[[/span]][[span class="cell-item"]]Break Down Toppings[[/span]] ||
+|| [[i|crk treasure-tix]] Treasure Tickets || [[span class="cell-item strong"]]Mileage Shop[[/span]] ||
+
 
 ++ Changelog
 [[div class="alert alert-info"]]
-||~
-|| 2025/03/15 || Make the guide to be much more general and added obsolete warning.|| 
+|| 2026/11/16 || Revival. Updated the guide to have a tip-like structure.||
+|| 2025/03/15 || Made the guide to be much more general and added obsolete warning.|| 
 || 2024/05/06 || General update on Cookie List and removal of alternatives on Red Velvet Dragon.|| 
 || 2024/03/23 || Streamlined Avatar of Destiny Battle || 
 || 2024/02/27 || Removed Macaron and Rockstar from Avatar of Destiny battle. Collapsed Abyss guide due to inefficiency.|| 

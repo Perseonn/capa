@@ -49,6 +49,7 @@ CAPA Skin     #b49797	(180,151,151,1)
 	--bs-border-radius: var(--border-radius);
 	--scrollbar-color-track: var(--color-capa-s20);
 	--scrollbar-color-thumb: var(--color-capa-s60);
+	--text-shadow: 0 1px var(--color-dark-25);
 }
 
 /*
@@ -424,6 +425,8 @@ Utility Classes
 }
 
 .text-smaller{font-size: calc(var(--base-font-size) * 0.8);}
+
+.text-shadow{text-shadow: var(--text-shadow);}
 
 .table-neutral table.wiki-content-table{margin-bottom: 0;}
 
@@ -1627,125 +1630,196 @@ Cookie Run Kingdom / CRK Image CSS
 	margin-left: calc(var(--base-font-size)*-1);
 	}
 
-.cookie-run-kingdom span.icon::before {
-	width: calc(var(--base-font-size)*1.6);
+.crk::before {
+	content: "\00a0";
+    background-size: var(--base-font-size);
+    width: calc(var(--base-font-size)*1.5);
+    height: auto;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position-y: center,center,center;
+    background-position-x: center;
 	background-size: contain;
+	margin-right: 0.2rem;
 	}
 
-.icon.anubis::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/anubis.png');}
-.icon.black-lemonade::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/black-lemonade.png');}
-.icon.black-pearl::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/black-pearl.png');}
-.icon.black-raisin::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/black-raisin.png');}
-.icon.blackberry::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/blackberry.png');}
-.icon.caviar::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/caviar.png');}
-.icon.cherry-bomb::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/cherry-bomb.png');}
-.icon.cine::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/cine.png');}
-.icon.cotton::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/cotton.png');}
-.icon.cream-puff::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/cream-puff.png');}
-.icon.creme-brulee::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/creme-brulee.png');}
-.icon.crimson-coral::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/crimson-coral.png');}
-.icon.dark-cacao::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/dark-cacao.png');}
-.icon.devil::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/devil.png');}
-.icon.don-carlos::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/don-carlos.png');}
-.icon.donut::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/donut.png');}
-.icon.elder-faerie::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/elder-faerie.png');}
-.icon.financier::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/financier.png');}
-.icon.frilled-jellyfish::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/frilled-jellyfish.png');}
-.icon.frost-queen::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/frost-queen.png');}
-.icon.golden-cheese::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/golden-cheese.png');}
-.icon.hollyberry::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/hollyberry.png');}
-.icon.icicle-yeti::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/icicle-yeti.png');}
-.icon.kouign::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/kouign.png');}
-.icon.macaron::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/macaron.png');}
-.icon.mado-chan::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/mado-chan.png');}
-.icon.magma-shounen::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/magma-shounen.png');}
-.icon.mango::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/mango.png');}
-.icon.mcgonagall::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/mcgonagall.png');}
-.icon.milky-way::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/milky-way.png');}
-.icon.mint-choco::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/mint-choco.png');}
-.icon.moonlight::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/moonlight.png');}
-.icon.mozzarella::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/mozzarella.png');}
-.icon.olive::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/olive.png');}
-.icon.parfait::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/parfait.png');}
-.icon.peppermint::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/peppermint.png');}
-.icon.pinecone::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/pinecone.png');}
-.icon.pitaya-dragon::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/pitaya-dragon.png');}
-.icon.pure-vanilla::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/pure-vanilla.png');}
-.icon.rebel::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/rebel.png');}
-.icon.rockstar::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/rockstar.png');}
-.icon.royal-margarine::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/royal-margarine.png');}
-.icon.sakura::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/sakura.png');}
-.icon.sea-fairy::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/sea-fairy.png');}
-.icon.sherbet::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/sherbet.png');}
-.icon.shining-glitter::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/shining-glitter.png');}
-.icon.snapdragon::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/snapdragon.png');}
-.icon.snape::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/snape.png');}
-.icon.snow-sugar::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/snow-sugar.png');}
-.icon.sorbet-shark::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/sorbet-shark.png');}
-.icon.space-doughnut::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/space-doughnut.png');}
-.icon.squink::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/squink.png');}
-.icon.star-coral::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/star-coral.png');}
-.icon.stardust::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/stardust.png');}
-.icon.stormbringer::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/stormbringer.png');}
-.icon.suzuran::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/suzuran.png');}
-.icon.tarte-tatin::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/tarte-tatin.png');}
-.icon.twizzly::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/twizzly.png');}
-.icon.werewolf::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/werewolf.png');}
-.icon.white-lily::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/white-lily.png');}
-.icon.wildberry::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-cookie-icon/wildberry.png');}
+.crk.anubis::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-anubis.png');}
+.crk.black-lemonade::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-black-lemonade.png');}
+.crk.black-pearl::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-black-pearl.png');}
+.crk.black-raisin::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-black-raisin.png');}
+.crk.blackberry::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-blackberry.png');}
+.crk.caviar::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-caviar.png');}
+.crk.cherry-bomb::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-cherry-bomb.png');}
+.crk.cine::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-cine.png');}
+.crk.cotton::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-cotton.png');}
+.crk.cream-puff::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-cream-puff.png');}
+.crk.creme-brulee::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-creme-brulee.png');}
+.crk.crimson-coral::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-crimson-coral.png');}
+.crk.dark-cacao::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-dark-cacao.png');}
+.crk.devil::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-devil.png');}
+.crk.don-carlos::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-don-carlos.png');}
+.crk.donut::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-donut.png');}
+.crk.elder-faerie::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-elder-faerie.png');}
+.crk.financier::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-financier.png');}
+.crk.frilled-jellyfish::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-frilled-jellyfish.png');}
+.crk.frost-queen::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-frost-queen.png');}
+.crk.golden-cheese::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-golden-cheese.png');}
+.crk.hollyberry::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-hollyberry.png');}
+.crk.icicle-yeti::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-icicle-yeti.png');}
+.crk.kouign::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-kouign.png');}
+.crk.macaron::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-macaron.png');}
+.crk.mado-chan::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-mado-chan.png');}
+.crk.magma-shounen::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-magma-shounen.png');}
+.crk.mango::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-mango.png');}
+.crk.mcgonagall::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-mcgonagall.png');}
+.crk.milky-way::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-milky-way.png');}
+.crk.mint-choco::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-mint-choco.png');}
+.crk.moonlight::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-moonlight.png');}
+.crk.mozzarella::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-mozzarella.png');}
+.crk.olive::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-olive.png');}
+.crk.parfait::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-parfait.png');}
+.crk.peppermint::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-peppermint.png');}
+.crk.pinecone::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-pinecone.png');}
+.crk.pitaya-dragon::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-pitaya-dragon.png');}
+.crk.pure-vanilla::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-pure-vanilla.png');}
+.crk.rebel::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-rebel.png');}
+.crk.rockstar::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-rockstar.png');}
+.crk.royal-margarine::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-royal-margarine.png');}
+.crk.sakura::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-sakura.png');}
+.crk.sea-fairy::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-sea-fairy.png');}
+.crk.sherbet::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-sherbet.png');}
+.crk.shining-glitter::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-shining-glitter.png');}
+.crk.snapdragon::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-snapdragon.png');}
+.crk.snape::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-snape.png');}
+.crk.snow-sugar::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-snow-sugar.png');}
+.crk.sorbet-shark::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-sorbet-shark.png');}
+.crk.space-doughnut::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-space-doughnut.png');}
+.crk.squink::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-squink.png');}
+.crk.lantern-girl::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-lantern-girl.png');}
+.crk.stardust::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-stardust.png');}
+.crk.stormbringer::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-stormbringer.png');}
+.crk.suzuran::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-suzuran.png');}
+.crk.tarte-tatin::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-tarte-tatin.png');}
+.crk.twizzly::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-twizzly.png');}
+.crk.werewolf::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-werewolf.png');}
+.crk.white-lily::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-white-lily.png');}
+.crk.wildberry::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-wildberry.png');}
+.crk.mamiko-noto::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-mamiko-noto.png');}
+.crk.kikuko-inoue::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-kikuko-inoue.png');}
+.crk.kuso-piero::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-kuso-piero.png');}
+.crk.legolas::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-legolas.png');}
+.crk.legolas-papa::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-legolas-papa.png');}
+.crk.sugar-swan::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-sugar-swan.png');}
+.crk.squirrel::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-squirrel.png');}
+.crk.bunny::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-bunny.png');}
+.crk.pyam::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-pyam.png');}
+.crk.bartender::before{background-image: url('/assets/guides/cookie-run-kingdom/cookie-icon-bartender.png');}
 
-
-.cookie-run-kingdom span.icon.top::before{
+.cookie-run-kingdom .crk.top::before{
 	width: calc(var(--base-font-size)*1);
 	}
 
-.cookie-run-kingdom h2 span.icon.top::before {
+.cookie-run-kingdom h2 .crk.top::before {
 	width: calc(var(--base-font-size)*2);
 	height: calc(var(--base-font-size)*2);
 	}
 
-.icon.top.almond::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/almond.png');}
-.icon.top.apple-jelly::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/apple-jelly.png');}
-.icon.top.candy::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/candy.png');}
-.icon.top.caramel::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/caramel.png');}
-.icon.top.choco::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/choco.png');}
-.icon.top.draconic::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/draconic.png');}
-.icon.top.frost::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/frost.png');}
-.icon.top.hazelnut::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/hazelnut.png');}
-.icon.top.kiwi::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/kiwi.png');}
-.icon.top.moon::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/moon.png');}
-.icon.top.mystery::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/mystery.png');}
-.icon.top.peanut::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/peanut.png');}
-.icon.top.radiant-cheese::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/radiant-cheese.png');}
-.icon.top.rasp::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/rasp.png');}
-.icon.top.sea::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/sea.png');}
-.icon.top.soda::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/soda.png');}
-.icon.top.topping-base::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/topping-base.png');}
-.icon.top.tricone::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/tricone.png');}
-.icon.top.walnut::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-topping-icon/walnut.png');}
+.crk.top.almond::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-almond.png');}
+.crk.top.apple-jelly::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-apple-jelly.png');}
+.crk.top.candy::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-candy.png');}
+.crk.top.caramel::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-caramel.png');}
+.crk.top.choco::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-choco.png');}
+.crk.top.draconic::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-draconic.png');}
+.crk.top.frost::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-frost.png');}
+.crk.top.hazelnut::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-hazelnut.png');}
+.crk.top.kiwi::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-kiwi.png');}
+.crk.top.moon::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-moon.png');}
+.crk.top.mystery::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-mystery.png');}
+.crk.top.peanut::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-peanut.png');}
+.crk.top.radiant-cheese::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-radiant-cheese.png');}
+.crk.top.rasp::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-rasp.png');}
+.crk.top.sea::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-sea.png');}
+.crk.top.soda::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-soda.png');}
+.crk.top.topping-base::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-topping-base.png');}
+.crk.top.tricone::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-tricone.png');}
+.crk.top.walnut::before{background-image: url('/assets/guides/cookie-run-kingdom/topping-walnut.png');}
 
-.icon.mc.mc-black-pearl::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-black-pearl.png');}
-.icon.mc.mc-black-raisin::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-black-raisin.png');}
-.icon.mc.mc-cream-puff::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-cream-puff.png');}
-.icon.mc.mc-frost-queen::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-frost-queen.png');}
-.icon.mc.mc-mado-chan::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-mado-chan.png');}
-.icon.mc.mc-parfait::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-parfait.png');}
-.icon.mc.mc-sea-fairy::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-sea-fairy.png');}
-.icon.mc.mc-snow-sugar::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-snow-sugar.png');}
-.icon.mc.mc-squink::after{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-magic-candy/mc-squink.png');}
+.crk.mc-black-pearl::before{background-image: url('/assets/guides/cookie-run-kingdom/mc-black-pearl.png');}
+.crk.mc-black-raisin::before{background-image: url('/assets/guides/cookie-run-kingdom/mc-black-raisin.png');}
+.crk.mc-cream-puff::before{background-image: url('/assets/guides/cookie-run-kingdom/mc-cream-puff.png');}
+.crk.mc-frost-queen::before{background-image: url('/assets/guides/cookie-run-kingdom/mc-frost-queen.png');}
+.crk.mc-mado-chan::before{background-image: url('/assets/guides/cookie-run-kingdom/mc-mado-chan.png');}
+.crk.mc-parfait::before{background-image: url('/assets/guides/cookie-run-kingdom/mc-parfait.png');}
+.crk.mc-sea-fairy::before{background-image: url('/assets/guides/cookie-run-kingdom/mc-sea-fairy.png');}
+.crk.mc-snow-sugar::before{background-image: url('/assets/guides/cookie-run-kingdom/mc-snow-sugar.png');}
+.crk.mc-squink::before{background-image: url('/assets/guides/cookie-run-kingdom/mc-squink.png');}
+.crk.mc-pyam::before{background-image: url('/assets/guides/cookie-run-kingdom/mc-pyam.png');}
+.crk.mc-bartender::before{background-image: url('/assets/guides/cookie-run-kingdom/mc-bartender.png');}
+.crk.mc-mcgonagall::before{background-image: url('/assets/guides/cookie-run-kingdom/mc-mcgonagall.png');}
 
+.crk.common-watch::before{background-image: url('/assets/guides/cookie-run-kingdom/treasure-common-watch.png');}
+.crk.feather::before{background-image: url('/assets/guides/cookie-run-kingdom/treasure-feather.png');}
+.crk.pin-cushion::before{background-image: url('/assets/guides/cookie-run-kingdom/treasure-pin-cushion.png');}
+.crk.rare-scroll::before{background-image: url('/assets/guides/cookie-run-kingdom/treasure-rare-scroll.png');}
+.crk.robes::before{background-image: url('/assets/guides/cookie-run-kingdom/treasure-robes.png');}
+.crk.scroll::before{background-image: url('/assets/guides/cookie-run-kingdom/treasure-scroll.png');}
+.crk.scythe::before{background-image: url('/assets/guides/cookie-run-kingdom/treasure-scythe.png');}
+.crk.tail::before{background-image: url('/assets/guides/cookie-run-kingdom/treasure-tail.png');}
+.crk.vial::before{background-image: url('/assets/guides/cookie-run-kingdom/treasure-vial.png');}
+.crk.watch::before{background-image: url('/assets/guides/cookie-run-kingdom/treasure-watch.png');}
+.crk.whistle::before{background-image: url('/assets/guides/cookie-run-kingdom/treasure-whistle.png');}
 
-.icon.trsr.common-watch::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/common-watch.png');}
-.icon.trsr.feather::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/feather.png');}
-.icon.trsr.pin-cushion::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/pin-cushion.png');}
-.icon.trsr.rare-scroll::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/rare-scroll.png');}
-.icon.trsr.robes::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/robes.png');}
-.icon.trsr.scroll::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/scroll.png');}
-.icon.trsr.scythe::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/scythe.png');}
-.icon.trsr.tail::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/tail.png');}
-.icon.trsr.vial::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/vial.png');}
-.icon.trsr.watch::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/watch.png');}
-.icon.trsr.whistle::before{background-image: url('https://capa.wdfiles.com/local--files/img%3Acrk-treasures/whistle.png');}
+.crk.arena-medal::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-arena-medal.png');}
+.crk.attunement-kits::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-legendary-attunement-kits.png');}
+.crk.aurora-compass::before{background-image: url('/assets/guides/cookie-run-kingdom/rarities-aurora-compass.png');}
+.crk.aurora-pillar::before{background-image: url('/assets/guides/cookie-run-kingdom/rarities-aurora-pillar.png');}
+.crk.aurora-soap::before{background-image: url('/assets/guides/cookie-run-kingdom/rarities-aurora-soap.png');}
+.crk.beascuit-dough::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-beascuit-dough.png');}
+.crk.butter-amber::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-butter-amber.png');}
+.crk.cake-piece::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-chaos-cake-piece.png');}
+.crk.choco-chalk::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-choco-chalk.png');}
+.crk.cl-ambush::before{background-image: url('/assets/guides/cookie-run-kingdom/class-ambush.webp');}
+.crk.cl-bomber::before{background-image: url('/assets/guides/cookie-run-kingdom/class-bomber.webp');}
+.crk.cl-bts::before{background-image: url('/assets/guides/cookie-run-kingdom/class-bts.webp');}
+.crk.cl-charge::before{background-image: url('/assets/guides/cookie-run-kingdom/class-charge.webp');}
+.crk.cl-defense::before{background-image: url('/assets/guides/cookie-run-kingdom/class-defense.webp');}
+.crk.cl-healing::before{background-image: url('/assets/guides/cookie-run-kingdom/class-healing.webp');}
+.crk.cl-magic::before{background-image: url('/assets/guides/cookie-run-kingdom/class-magic.webp');}
+.crk.cl-ranged::before{background-image: url('/assets/guides/cookie-run-kingdom/class-ranged.webp');}
+.crk.cl-support::before{background-image: url('/assets/guides/cookie-run-kingdom/class-support.webp');}
+.crk.coin::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-coin.png');}
+.crk.crystal::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-crystal.png');}
+.crk.flour-stone::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-flour-stone.png');}
+.crk.fossil-amber::before{background-image: url('/assets/guides/cookie-run-kingdom/usables-fossil-amber.png');}
+.crk.fossil-emerald::before{background-image: url('/assets/guides/cookie-run-kingdom/usables-fossil-emerald.png');}
+.crk.lse::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-legendary-soul-essence.png');}
+.crk.mm-chest-beascuit::before{background-image: url('/assets/guides/cookie-run-kingdom/usables-mm-chest-green.png');}
+.crk.mm-chest-item::before{background-image: url('/assets/guides/cookie-run-kingdom/usables-mm-chest-blue.png');}
+.crk.mm-chest-soul::before{background-image: url('/assets/guides/cookie-run-kingdom/usables-mm-chest-red.png');}
+.crk.radiant-dough::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-radiant-beascuit-dough.png');}
+.crk.radiant-shard::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-radiant-shard.png');}
+.crk.rainbow-cube::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-rainbow-cube.png');}
+.crk.rainbow-pearl::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-rainbow-pearl.png');}
+.crk.rank-e1::before{background-image: url('/assets/guides/cookie-run-kingdom/rank-e1.png');}
+.crk.rank-gm2::before{background-image: url('/assets/guides/cookie-run-kingdom/rank-gm2.png');}
+.crk.rank-gm3::before{background-image: url('/assets/guides/cookie-run-kingdom/rank-gm3.png');}
+.crk.rank-m1::before{background-image: url('/assets/guides/cookie-run-kingdom/rank-m1.png');}
+.crk.sc-all::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-sugar-crystals.png');}
+.crk.sc-arc::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-sugar-crystal-arcane.png');}
+.crk.sc-pur::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-sugar-crystal-purity.png');}
+.crk.sc-str::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-sugar-crystal-strength.png');}
+.crk.sc-swi::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-sugar-crystal-swift.png');}
+.crk.sea-map::before{background-image: url('/assets/guides/cookie-run-kingdom/rarities-sea-map.png');}
+.crk.sea-spyglass::before{background-image: url('/assets/guides/cookie-run-kingdom/rarities-sea-spyglass.png');}
+.crk.sj::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-jelly-normal.png');}
+.crk.sjf::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-jelly-fate.webp');}
+.crk.sjj::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-jelly-juicy.png');}
+.crk.skill-powder::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-skill-powder.png');}
+.crk.sugar-ore::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-sugar-ore.png');}
+.crk.topping-piece::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-topping-piece.png');}
+.crk.treasure-tix::before{background-image: url('/assets/guides/cookie-run-kingdom/supplies-treasure-ticket.png');}
+.crk.yeast-ore-deceit::before{background-image: url('/assets/guides/cookie-run-kingdom/misc-yeast-ore-deceit.png');}
+
 
 /*
 ==============================================================================
