@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
             : '<i class="fa-solid fa-bars" aria-hidden="true"></i>';
 
         const isMobile = window.matchMedia(
-            "(max-width: 991px)"
+            "(max-width: 991.9px)"
         ).matches;
 
         document.body.style.overflow =

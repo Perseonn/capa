@@ -1,6 +1,6 @@
 /*
 ==============================================================================
-COLOR
+VARIABLES
 ==============================================================================
 */
 /*Color Scheme 007 Goodnights
@@ -14,7 +14,16 @@ CAPA Skin     #b49797	(180,151,151,1)
 */
 
 :root {
+	--serif-font: 'Stardos Stencil', 'Fluent Emoji Color', '游明朝', '游明朝体', YuMincho, 'Yu Mincho', 'ヒラギノ明朝 ProN', 'Hiragino Mincho ProN', 'ＭＳ 明朝', 'MS Mincho', HiraMinProN-W3, 'TakaoEx明朝', TakaoExMincho, 'MotoyaLCedar', 'Droid Sans Japanese', serif;
+	--sans-font: 'Faculty Glyphic', 'Fluent Emoji Color', '游ゴシック', '游ゴシック体', YuGothic, 'Yu Gothic', 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ ゴシック', 'MS Gothic', HiraKakuProN-W3, 'TakaoExゴシック', TakaoExGothic, 'MotoyaLCedar', 'Droid Sans Japanese', sans-serif;
+	--mono-font: 'Atkinson Hyperlegible Mono', Monaco, Consolas, monospace;
+	--base-font-size: 1.00rem;
+	--base-line-height: calc(var(--base-font-size) * 2);
+
 	--color-capa: #3399ff; /* Lullaby Saturated 80*/
+	--color-capa-b80: #0066cc; /* Lullaby Brightness 80*/
+	--color-capa-b60: #004d99; /* Lullaby Brightness 60*/
+	--color-capa-s: #0080ff; /* Lullaby Saturated 100*/
 	--color-capa-s60: #66b3ff; /* Lullaby Saturated 60*/
 	--color-capa-s40: #99ccff; /* Lullaby Saturated 40*/
 	--color-capa-s20: #cce5ff; /* Lullaby Saturated 20*/
@@ -67,13 +76,7 @@ CAPA Skin     #b49797	(180,151,151,1)
 Base CSS
 ==============================================================================
 */
-:root {
-	--serif-font: 'Stardos Stencil', 'Fluent Emoji Color', '游明朝', '游明朝体', YuMincho, 'Yu Mincho', 'ヒラギノ明朝 ProN', 'Hiragino Mincho ProN', 'ＭＳ 明朝', 'MS Mincho', HiraMinProN-W3, 'TakaoEx明朝', TakaoExMincho, 'MotoyaLCedar', 'Droid Sans Japanese', serif;
-	--sans-font: 'Faculty Glyphic', 'Fluent Emoji Color', '游ゴシック', '游ゴシック体', YuGothic, 'Yu Gothic', 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ ゴシック', 'MS Gothic', HiraKakuProN-W3, 'TakaoExゴシック', TakaoExGothic, 'MotoyaLCedar', 'Droid Sans Japanese', sans-serif;
-	--mono-font: 'Atkinson Hyperlegible Mono', Monaco, Consolas, monospace;
-	--base-font-size: 1.00rem;
-	--base-line-height: calc(var(--base-font-size) * 2);
-}
+
 
 * {
 	transition-duration: 0.2s;
@@ -87,10 +90,10 @@ Base CSS
 */
 
 html{
-	scrollbar-gutter: stable;
-	scrollbar-width: thin;
+	scrollbar-width: none;
+	/*scrollbar-gutter: stable;
 	scrollbar-color: var(--color-capa-s60) var(--scrollbar-color-track);
-	background-color: var(--color-capa-s20);
+	background-color: var(--color-capa-s20);*/
 }
 
 body{
@@ -189,36 +192,67 @@ footer .footer-links {
 	justify-content: center;
 }
 
-h1, h2 {
+#toc a.toc-h1::before, h1::before {content: '🙦';}
+#toc a.toc-h2::before, h2::before {content: '🙛';}
+#toc a.toc-h3::before, h3::before {content: '🙖';}
+
+h1::after {content: '🙥';}
+h2::after {content: '🙘';}
+h3::after {content: '🙕';}
+
+h1::after,
+h2::after,
+h3::after{
+	margin-left: auto;
+    margin-right: 0rem;
+}
+
+
+#toc a.toc-h1, h1,
+#toc a.toc-h2, h2,
+#toc a.toc-h3, h3{
 	display: flex;
-	flex-wrap: wrap;
+	flex-wrap: nowrap;
 	align-content: center;
+	justify-content: flex-start;
+	gap: 0.5rem
+}
+
+h1, h2 {
 	padding: 1rem;
 	font-family: var(--serif-font);
 	border-radius: var(--border-radius);
 }
 
+h1, #toc a.toc-h1{
+	color: var(--color-bg);
+	background-color: var(--color-capa-s60);
+}
 
 h1 {
 	font-size: calc( var(--base-font-size) * 3);
-	color: var(--color-bg);
+	text-shadow: 0px 2px var(--color-capa);
 	margin-top: calc( var(--base-font-size) * 3.5);
 	margin-bottom: calc( var(--base-font-size) * 1);
-	background-color: var(--color-capa-s60);
-	text-shadow: 0px 2px var(--color-capa);
+	
+}
+
+h2, #toc a.toc-h2{
+	color: var(--color-bg);
+	background-color: var(--color-capa-3);
 }
 
 h2 {
 	font-size: calc( var(--base-font-size) * 2);
 	margin-top: calc( var(--base-font-size) * 3);
 	margin-bottom: calc( var(--base-font-size) * 1);
-	background-color: var(--color-capa-2);
 }
 
 h3 {
 	font-size: calc( var(--base-font-size) * 1.5);
+	font-weight: 700;
 	margin-top: calc( var(--base-font-size) * 2);
-	border-bottom: 2px solid var(--color-capa-1);
+	border-bottom: 4px solid var(--color-capa-1);
 }
 
 h4 {
@@ -287,7 +321,6 @@ table.wiki-content-table tr:first-of-type {
 	border-top: 4px solid var(--color-capa-s60);
 }
 
-
 tt {
 	background-color: var(--color-capa-1);
 	border: 1px solid var(--color-capa-2);
@@ -296,6 +329,37 @@ tt {
 	font-family: var(--mono-font);
 	font-size: calc( var(--base-font-size) * 1);
 }
+
+
+ol, ul{
+	padding-left:1rem;
+}
+
+ul{
+	list-style-type: none;
+	padding-left: calc(1rem + 2px);
+}
+
+ul li{
+	padding-left:0.5rem;
+}
+
+ul li::marker{
+	content: '❧';
+	color: var(--color-capa-b60);
+	font-size: 1.25rem;
+}
+
+ul li ul li::marker{
+	content: '𐡸';
+	color: var(--color-capa-3);
+}
+
+ul li ul li ul li::marker{
+	content: '𐫱';
+	color: var(--color-dark-50);
+}
+
 
 
 /*
@@ -457,6 +521,29 @@ CAPA COMMON LAYOUT
 ==============================================================================
 */
 
+.scroll-indicator::before {
+    content:'\f103';
+	font-family: FontAwesome;
+	font-size: 2rem;
+	color: var(--color-capa-s40);
+	position: fixed;
+	bottom: 1rem;
+    right: 1rem;
+    animation: scroll-hint 1.5s ease-in-out infinite;
+    pointer-events: none;
+}
+
+@keyframes scroll-hint {
+    0%, 100% {
+        transform: translate(-50%, 0);
+        opacity: .4;
+    }
+    50% {
+        transform: translate(-50%, 8px);
+        opacity: 1;
+    }
+}
+
 .drop-caps > p:first-of-type::first-letter,
 .drop-caps > p:first-of-type::first-line{
 	font-weight: 700;
@@ -594,7 +681,7 @@ CAPA NAV
 .capa-navbar {
     position: sticky;
     top: 0rem;
-	box-shadow: 2px 0px 4px var(--color-dark-25);
+	box-shadow: 2px 0px 16px var(--color-dark-25);
 }
 
 #capa-nav-content {
@@ -605,10 +692,11 @@ CAPA NAV
 	overflow-x: hidden;
 	overflow-y: auto;
 	overscroll-behavior: contain;
-	scrollbar-gutter: stable;
-	scrollbar-width: thin;
+	scrollbar-width: none;
+	/*scrollbar-gutter: stable;
 	scrollbar-color: var(--color-capa-s60) var(--scrollbar-color-track);
-	background-color: var(--color-capa-s20);
+	background-color: var(--color-capa-s20);*/
+	background-color: var(--color-bg);
 }
 
 .capa-nav-bg{
@@ -636,7 +724,7 @@ nav .site-title {
 	/*line-height: calc(var(--base-font-size) * 4);*/
 }
 
-@media (max-width: 991px){
+@media (max-width: 991.9px){
 	nav .site-title {
 		font-size: calc(var(--base-font-size) * 4);
 	}
@@ -708,7 +796,7 @@ nav .stroke.site-title a:hover{
 
 /* Mobile Drawer */
 
-@media (max-width: 991px) {
+@media (max-width: 991.9px) {
 
     /* The header itself must not occupy a row above the article. */
     .capa-nav {
@@ -740,7 +828,8 @@ nav .stroke.site-title a:hover{
     }
 
 	.is-open .capa-nav-toggle{
-		width: calc(min(280px, 85vw) - 1.5rem);
+		/*left: calc(min(280px, 85vw) - 1.5rem);*/
+		transform: translateX(calc(min(280px, 85vw) - 2rem));
 	}
 
     /* Dimmed page overlay */
@@ -766,7 +855,7 @@ nav .stroke.site-title a:hover{
         z-index: 1001;
         width: min(280px, 85vw);
         box-shadow: 2px 0 12px var(--color-dark-25);
-
+		padding-top: 0rem;
         transform: translateX(-100%);
         visibility: hidden;
         transition:
@@ -775,7 +864,7 @@ nav .stroke.site-title a:hover{
     }
 
 	.capa-nav-bg{
-		padding-top: 4rem;
+		/*padding-top: 4rem;*/
 	}
 
 
@@ -835,38 +924,57 @@ TABLE OF CONTENTS
 	display: none;
 }
 
+#toc a{
+	border: 1px solid var(--color-capa-s60);
+	border-radius: var(--border-radius);
+	padding: 0.25rem 0.5rem;
+	box-shadow: inset 0 0 4px var(--color-bg);
+}
+
 #toc a.toc-h1{
 	font-size: calc(var(--base-font-size)* 1.10);
 	font-variant-caps: small-caps;
 	font-weight: 700;
-}
-
-#toc a.toc-h1{
-	margin-left: 0px;
-	margin-top: 1rem;
-}
-
-#toc a.toc-h2::before {
-	content: '§ ';
-	color: var(--color-1-a-light);
-}
-
-#toc a.toc-h2{
-	margin-left: 1rem;
-	text-indent: -0.8rem;
-	padding: 0.2rem 0rem;
-}
-
-#toc a.toc-h3::before {
-	content: '> ';
-	color: var(--color-capa-4);
+	text-shadow: 0px 1px var(--color-capa);
 }
 
 #toc a.toc-h3{
-	margin-left: 1.8rem;
-	text-indent: -0.9rem;
-	padding: 0.15rem 0rem;
+	font-size: calc(var(--base-font-size)* 0.85);
 }
+
+#toc a.toc-h1,
+#toc a.toc-h2,
+#toc a.toc-h3{
+	gap: 0.25rem
+}
+
+
+#toc a.toc-h1{
+	margin-left: 0px;
+	margin-top: 1.5rem;
+}
+
+#toc a.toc-h2,
+#toc a.toc-h3{
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+
+#toc a.toc-h1:hover {
+	color: var(--color-capa-b80);
+	background-color: var(--color-capa-s20);
+}
+
+#toc a.toc-h2:hover{
+	color: var(--color-capa-b80);
+	background-color: var(--color-capa-2);
+}
+
+#toc a.toc-h3:hover {
+	background-color: var(--color-capa-1-50);
+}
+
+
 
 #toc a.toc-h4::before {
 	content: '- ';
@@ -1159,7 +1267,7 @@ CAPA WATERCOLOR
 	background-repeat:no-repeat;
 }
 
-.alert, .btn, .container h1, .container h2, .credit, footer, .list-page-text-container{
+.alert, .btn, .capa-nav-toggle, #toc a.toc-h1, .container h1, #toc a.toc-h2, .container h2, .credit, footer, .list-page-text-container{
 	background-size: cover;
 	background-position: center;
 	background-blend-mode: soft-light;
@@ -1170,11 +1278,15 @@ CAPA WATERCOLOR
 	background-image: url('/assets/img/capa-brush-20.avif');
 }
 
-.container h1{
+.capa-nav-toggle{
+	background-image: url('/assets/img/capa-brush-17.avif');
+}
+
+#toc a.toc-h1, .container h1{
 	background-image: url('/assets/img/capa-brush-08.avif');
 }
 
-.container h2{
+#toc a.toc-h2, .container h2{
 	background-image: url('/assets/img/capa-brush-04.avif');
 }
 
@@ -1193,6 +1305,8 @@ footer{
 .list-page-text-container{
 	background-image: url('/assets/img/capa-brush-01.avif');
 }
+
+
 
 /*
 ==============================================================================
@@ -1225,7 +1339,7 @@ PSO2 Navigation
 	height:100%;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 991.9px) {
 	.pso2-logo{
 		height: 8rem;
 	}
