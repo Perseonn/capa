@@ -90,13 +90,6 @@ Base CSS
 ::-webkit-scrollbar-thumb:hover {background: var(--scrollbar-color-thumb-hover);}
 
 
-html{
-	/*scrollbar-width: none;
-	scrollbar-gutter: stable;
-	scrollbar-color: var(--color-capa-s60) var(--scrollbar-color-track);
-	background-color: var(--color-capa-s20);*/
-}
-
 body{
 	font-family: var(--sans-font);
 	font-size: var(--base-font-size);
@@ -1404,7 +1397,7 @@ PSO2 Navigation
 
 /*
 ==============================================================================
-PSO2 Guide
+PHANTASY STAR ONLINE 2
 ==============================================================================
 */
 
@@ -1724,7 +1717,7 @@ i.pso2.puso::before {background-image: url('/assets/img/pso2/other/nav-puso.png'
 
 /*
 ==============================================================================
-Cookie Run Kingdom / CRK Image CSS
+COOKIE RUN KINGDOM
 ==============================================================================
 */
 .guide.cookie-run-kingdom ul li {
@@ -1934,9 +1927,10 @@ Cookie Run Kingdom / CRK Image CSS
 
 /*
 ==============================================================================
-Icon: FF1
+FINAL FANTASY
 ==============================================================================
 */
+.ff::before,
 .ff1::before{
 	content: "\00a0";
     background-size: var(--base-font-size);
@@ -1944,8 +1938,7 @@ Icon: FF1
     height: auto;
     display: inline-block;
     background-repeat: no-repeat;
-    background-position-y: center,center,center;
-    background-position-x: center;
+    background-position-y: center;
 	background-size: contain;
 	margin-right: 0.2rem;
 }
@@ -1969,10 +1962,37 @@ Icon: FF1
 .ff1.water::before{background-image: url('/assets/guides/final-fantasy-1/Water.png');}
 .ff1.wind::before{background-image: url('/assets/guides/final-fantasy-1/Wind.png');}
 
+.ff.fire::before{background-image: url('/assets/img/ff/fire.png');}
+.ff.ice::before{background-image: url('/assets/img/ff/ice.png');}
+.ff.lightning::before{background-image: url('/assets/img/ff/electric.png');}
+.ff.earth::before{background-image: url('/assets/img/ff/earth.png');}
+.ff.water::before{background-image: url('/assets/img/ff/water.png');}
+.ff.wind::before{background-image: url('/assets/img/ff/wind.png');}
+.ff.holy::before{background-image: url('/assets/img/ff/holy.png');}
+.ff.dark::before{background-image: url('/assets/img/ff/dark.png');}
+.ff.non-elemental::before{background-image: url('/assets/img/ff/non-elemental.png');}
+.ff.poison-el::before{background-image: url('/assets/img/ff/poison-elemental.png');}
+.ff.revive::before{background-image: url('/assets/img/ff/revive.png');}
+.ff.status::before{background-image: url('/assets/img/ff/status.png');}
+
+.ff.doom::before{background-image: url('/assets/img/ff/doom-custom.png');}
+.ff.stone::before{background-image: url('/assets/img/ff/stone-custom.png');}
+.ff.confusion::before{background-image: url('/assets/img/ff/confusion-custom.png');}
+.ff.poison::before{background-image: url('/assets/img/ff/poison-custom.png');}
+.ff.sleep::before{background-image: url('/assets/img/ff/sleep-custom.png');}
+.ff.blind::before{background-image: url('/assets/img/ff/blind-custom.png');}
+.ff.silence::before{background-image: url('/assets/img/ff/silence-custom.png');}
+.ff.paralysis::before{background-image: url('/assets/img/ff/paralysis-custom.png');}
+.ff.mind::before{background-image: url('/assets/img/ff/mind-custom.png');}
+.ff.death::before{background-image: url('/assets/img/ff/death-custom.png');}
+.ff.time::before{background-image: url('/assets/img/ff/time-custom.png');}
+
+
+
 
 /*
 ==============================================================================
-Icon: Controller CSS
+CONTROLLER
 ==============================================================================
 */
 
