@@ -58,6 +58,7 @@ CAPA Skin     #b49797	(180,151,151,1)
 	--bs-border-radius: var(--border-radius);
 	--scrollbar-color-track: var(--color-capa-s20);
 	--scrollbar-color-thumb: var(--color-capa-s60);
+	--scrollbar-color-thumb-hover: var(--color-capa-b80);
 	--text-shadow: 0 1px var(--color-dark-25);
 }
 
@@ -82,16 +83,16 @@ Base CSS
 	transition-duration: 0.2s;
 }
 
-/*
+
 ::-webkit-scrollbar {width: 0.5rem;}
-::-webkit-scrollbar-track {background: var(--color-capa-s20); border-radius:8px;}
-::-webkit-scrollbar-thumb {background: var(--color-dark-50); border-radius:8px; min-height:4rem;}
-::-webkit-scrollbar-thumb:hover {background: var(--color-dark-25);}
-*/
+::-webkit-scrollbar-track {background: var(--scrollbar-color-track); border-radius:8px;}
+::-webkit-scrollbar-thumb {background: var(--scrollbar-color-thumb); border-radius:8px; min-height:4rem;}
+::-webkit-scrollbar-thumb:hover {background: var(--scrollbar-color-thumb-hover);}
+
 
 html{
-	scrollbar-width: none;
-	/*scrollbar-gutter: stable;
+	/*scrollbar-width: none;
+	scrollbar-gutter: stable;
 	scrollbar-color: var(--color-capa-s60) var(--scrollbar-color-track);
 	background-color: var(--color-capa-s20);*/
 }
@@ -103,7 +104,7 @@ body{
 	letter-spacing: 0.05rem;
 	color: var(--color-text);
 	transition-duration: 0.0s;
-	padding-right: 0px !important; /* Counters Bootstrap modal bug*/
+	/*padding-right: 0px;  Counters Bootstrap modal bug*/
 }
 
 a {

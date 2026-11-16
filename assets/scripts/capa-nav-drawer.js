@@ -25,6 +25,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
         document.body.style.overflow =
             open && isMobile ? "hidden" : "";
+        document.body.style.paddingRight =
+            open && isMobile ? "8px" : "";
     }
 
     toggle.addEventListener("click", () => {
