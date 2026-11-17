@@ -271,6 +271,18 @@ function getSplashImage(page) {
     return `/assets/${page.type}/${page.slug}/${page.slug}.avif`;
 }
 
+function getCanonical(page) {
+    if (page.type && !page.slug) {
+        return `${SITE_URL}/${page.type}/`;
+    }
+
+    if (!page.slug) {
+        return `${SITE_URL}/`;
+    }
+
+    return `${SITE_URL}/${page.type}/${page.slug}/`;
+}
+
 function getSocialImage(page) {
     if (page.type && !page.slug) {
         return `${SITE_URL}/assets/${page.type}/${page.type}-splash.jpg`;
@@ -421,8 +433,9 @@ function buildSitemapTxt(pages) {
 function applyTemplate(template, values) {
     return template
         .replaceAll("{{TITLE}}", escapeHtml(values.TITLE ?? ""))
-        .replaceAll("{{SOCIAL_IMAGE}}", values.SOCIAL_IMAGE ?? "")
         .replaceAll("{{DESCRIPTION}}", escapeHtml(values.DESCRIPTION ?? ""))
+        .replaceAll("{{CANONICAL}}", values.CANONICAL ?? "")
+        .replaceAll("{{SOCIAL_IMAGE}}", values.SOCIAL_IMAGE ?? "")
         .replaceAll("{{SITE_URL}}", values.SITE_URL ?? "")
         .replaceAll("{{NAV}}", values.NAV ?? "")
         .replaceAll("{{BODY}}", values.BODY ?? "");
@@ -433,11 +446,12 @@ const layoutTemplate = fs.readFileSync(layoutPath, "utf8");
 const navPath = path.join(__dirname, "contents", "_nav.html");
 const navTemplate = fs.readFileSync(navPath, "utf8");
 
-function createHtml(title, body, socialImage = "", description = "") {
+function createHtml(title, body, description = "", canonical="", socialImage = "") {
     return applyTemplate(layoutTemplate, {
         TITLE: title,
-        SOCIAL_IMAGE: socialImage,
         DESCRIPTION: description,
+        CANONICAL: canonical,
+        SOCIAL_IMAGE: socialImage,
         SITE_URL,
         NAV: navTemplate,
         BODY: body
@@ -468,9 +482,10 @@ function build() {
             page.sourceName
         );
 
+        const canonical = getCanonical(page);
+        const description = createMetaDescription(content, metadata.description);
         const splashImage = getSplashImage(page);
         const socialImage = getSocialImage(page);
-        const description = createMetaDescription(content, metadata.description);
 
         const pageContent = applyPageTemplate(
             page,
@@ -482,8 +497,9 @@ function build() {
         const html = createHtml(
             metadata.title,
             pageContent,
-            socialImage,
-            description
+            description,
+            canonical,
+            socialImage
         );
 
         const outputDir = path.join(
