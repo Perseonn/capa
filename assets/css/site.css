@@ -1148,6 +1148,13 @@ PAGE SPLASH, GRADIENT
 	background-repeat: no-repeat;
 }
 
+.main-splash-overlaid-nav{
+	background-image: linear-gradient(0deg, var(--color-light-75), var(--color-light-75)), url('/assets/main-splash-nav.avif');
+	background-size: cover;
+	background-position: 80%;
+	background-repeat: no-repeat;
+}
+
 .guide-splash{
 	background-image: url('/assets/guides/guides-splash.avif');
 	background-size: cover;
@@ -1161,6 +1168,13 @@ PAGE SPLASH, GRADIENT
 	background-position: 50% 75%;
 }
 
+.guide-splash-overlaid-nav{
+	background-image: linear-gradient(0deg, var(--color-light-75), var(--color-light-75)), url('/assets/guides/guides-splash-nav.avif');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 75%;
+}
+
 .article-splash{
 	background-image: url('/assets/articles/articles-splash.avif');
 	background-size: cover;
@@ -1169,6 +1183,13 @@ PAGE SPLASH, GRADIENT
 
 .article-splash-overlaid{
 	background-image: linear-gradient(0deg, var(--color-light-75), var(--color-light-75)), url('/assets/articles/articles-splash.avif');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 30%;
+}
+
+.article-splash-overlaid-nav{
+	background-image: linear-gradient(0deg, var(--color-light-75), var(--color-light-75)), url('/assets/articles/articles-splash-nav.avif');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 50% 30%;
