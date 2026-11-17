@@ -4,8 +4,7 @@
 @description: Perseonn's Game reviews and opinion!
 
 [[include comp:splash
-|splash-class=full-height
-|splash-style=background-image:url('/assets/articles/articles-splash.avif');
+|image=articles-splash.avif
 |text-title=Articles
 |text-sub-title=Game reviews and opinion!
 |text-extra-class=hidden

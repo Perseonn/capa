@@ -1,8 +1,5 @@
-[[div class="row m-0 p-0"]]
-
 [[include comp:splash
-|splash-class=full-height
-|splash-style=background-image:var(--gradient-splash),url('/assets/%%category%%/%%name%%/%%name%%-splash.avif');
+|image=%%name%%-splash.avif
 |text-title=%%title%%
 |text-sub-title=Written by %%created_by%%
 |text-extra=Updated at %%updated_at%%
@@ -11,8 +8,6 @@
 
 [[toc]]
 
-[[div class="container drop-caps p-4 %%name%% text-shadow"]]
+[[div class="capa-container drop-caps p-4 %%name%% text-shadow"]]
 %%content%%
-[[/div]]
-
 [[/div]]

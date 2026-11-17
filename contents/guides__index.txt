@@ -4,8 +4,7 @@
 @description: Game walkthroughs, cheat codes, or both!
 
 [[include comp:splash
-|splash-class=full-height
-|splash-style=background-image:url('/assets/guides/guides-splash.avif');
+|image=guides-splash.avif
 |text-title=Guides
 |text-sub-title=Game walkthroughs, cheat codes, or both!
 |text-extra-class=hidden

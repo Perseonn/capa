@@ -4,7 +4,8 @@
 @description: A Website Dedicated to Guides and Codes for Games that We Love!
 
 [[include comp:splash
-|splash-class=main-splash full-height
+|image=/main-splash.avif
+|image-class=splash-image-main
 |text-title-class=capa-title
 |text-title=CAPA
 |text-sub-title=A Website Dedicated to Guides and Codes for Games that We Love!
@@ -12,7 +13,7 @@
 ]]
 
 [[div_ class="splash-container guide-splash-overlaid gradient-line line-bottom-4"]]
-[[div_ class="title-container p-4"]]
+[[div_ class="title-container d-flex p-4"]]
 [[div_ class="page-extra stroke"]]
 [[/div]]
 [[div_ class="page-sub-title strong stroke"]]
@@ -58,7 +59,7 @@ Guides
 
 
 [[div_ class="splash-container article-splash-overlaid gradient-line line-bottom-4"]]
-[[div_ class="title-container p-4"]]
+[[div_ class="title-container d-flex p-4"]]
 [[div_ class="page-extra stroke"]]
 [[/div]]
 [[div_ class="page-sub-title strong stroke"]]

@@ -70,6 +70,7 @@ CAPA Skin     #b49797	(180,151,151,1)
 	--border: 1px solid var(--color-capa-s60);
 	--gradient-main: linear-gradient(90deg, var(--color-capa-s40) 15%, var(--color-capa-5-s40) 85%);
 	--gradient-splash: linear-gradient(0deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0) 25%);
+	--splash-border-width: 4px;
 }
 
 @font-face {
@@ -1087,7 +1088,6 @@ PAGE SPLASH, GRADIENT
 	color: var(--color-capa);
 }
 
-
 .splash-container .title-container .page-title.capa-title {
 	font-size: calc(var(--base-font-size)* 8 + 2vw);
 	line-height: calc(var(--base-font-size)* 8);
@@ -1114,36 +1114,36 @@ PAGE SPLASH, GRADIENT
 .splash-container{
 	background-size: cover;
 	background-position:center;
+	border-bottom: var(--splash-border-width) solid;
 }
 
 .gradient-line {
 	border-image-source: var(--gradient-main);
 	border-image-slice: 1;
+	border-image-repeat: stretch;
 }
 
-.gradient-line.line-top-1{
-	border-top: 1px solid;
-}
+.gradient-line.line-top-1{border-top: 1px solid;}
+.gradient-line.line-top-4{border-top: 4px solid;}
+.gradient-line.line-bottom-1{border-bottom: 1px solid;}
+.gradient-line.line-bottom-4{border-bottom: 4px solid;}
 
-.gradient-line.line-top-4{
-	border-top: 4px solid;
-}
-
-.gradient-line.line-bottom-1{
-	border-bottom: 1px solid;
-}
-
-.gradient-line.line-bottom-4{
-	border-bottom: 4px solid;
-}
-
-.full-height{
-	height: 100vh;
-}
+.full-height{height: 100vh;}
 
 .capa-tile {
 	background-image: url('/assets/img/capa-tile-v2.webp');
 	background-repeat: repeat;
+}
+
+.splash-image{
+	width: 100%;
+	height: calc(100vh - var(--splash-border-width));
+	object-fit: cover;
+	object-position: center;
+}
+
+.splash-image-main{
+	object-position: bottom;
 }
 
 .main-splash{
@@ -1207,10 +1207,15 @@ PAGE SPLASH, GRADIENT
 	background-position: 50% 30%;
 }
 
+.splash-image,
+.splash-container .title-container{
+	grid-column-start: 1;
+	grid-row-start: 1;
+}
+
 .splash-container .title-container{
 	text-align: right;
 	height: 100%;
-	display: flex;
 	flex-direction: column-reverse;
 }
 
@@ -1321,7 +1326,7 @@ CAPA WATERCOLOR
 	background-repeat:repeat-y;
 }
 
-.container{
+.capa-container{
 	background-image: url('/assets/img/bg-4-tl.avif'), url('/assets/img/bg-4-tr.avif'), url('/assets/img/bg-4-bl.avif'), url('/assets/img/bg-4-br.avif');
 	background-size: 33vw;
 	background-position: left top, right top, left bottom, right bottom;
@@ -1329,7 +1334,7 @@ CAPA WATERCOLOR
 	background-repeat:no-repeat;
 }
 
-.alert, .btn, .capa-nav-toggle, #toc a.toc-h1, .container h1, #toc a.toc-h2, .container h2, .credit, .footer-bg, .list-page-text-container{
+.alert, .btn, .capa-nav-toggle, #toc a.toc-h1, .capa-container h1, #toc a.toc-h2, .capa-container h2, .credit, .footer-bg, .list-page-text-container{
 	background-size: cover;
 	background-position: center;
 	background-blend-mode: soft-light;
@@ -1344,11 +1349,11 @@ CAPA WATERCOLOR
 	background-image: url('/assets/img/capa-brush-17.avif');
 }
 
-#toc a.toc-h1, .container h1{
+#toc a.toc-h1, .capa-container h1{
 	background-image: url('/assets/img/capa-brush-08.avif');
 }
 
-#toc a.toc-h2, .container h2{
+#toc a.toc-h2, .capa-container h2{
 	background-image: url('/assets/img/capa-brush-04.avif');
 }
 
