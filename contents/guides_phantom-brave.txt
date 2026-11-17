@@ -834,10 +834,10 @@ You will be given 9 new Phantoms when you start this story, it is your choice on
 AM 1-1 Seaside Treasure
 Enemy
 ||~ Unit ||~ Items ||
-| | Behemoth | | Fishcake ||
-| | Zombie x2 | | Knife ||
-| | Titlist | | Bronze Stf ||
-| | Slime x5 | | ||
+|| Behemoth || Fishcake ||
+|| Zombie x2 || Knife ||
+|| Titlist || Bronze Stf ||
+|| Slime x5 || ||
 Neutral: !Saber Kitty
 Items: PoisonRck (ATK +50%), Mushroom (ATK +50%), Rock (Reinforce 30%), Weed (Reinforce 30%), Flower, Weed, Sunflower, Tree, Starfish, !Fish, Bonfire, Rock, !Dirk, !Mace, @Fishcake (EXP +50% & Money X2)
 ! Removed on repeated version
@@ -846,24 +846,24 @@ Items: PoisonRck (ATK +50%), Mushroom (ATK +50%), Rock (Reinforce 30%), Weed (Re
 **Monetopia**
 AM 1-2 No Man's Land
 ||~ Unit ||~ Items ||~ Protection ||
-| | Fusionist | | Sunflower | | ATK +30% (U) ||
-| | Blacksmith | | Stone Axe | | DEF +30% (U) ||
-| | Werewolf | | Sword | | ATK +30% (U) ||
-| | Witch x2 | | Wood Cane | | ||
-| | Scrabbit | | Weed | | ||
-| | Scrabbit | | Driftwood | | ||
-| | Scrabbit | | | | ||
+|| Fusionist || Sunflower || ATK +30% (U) ||
+|| Blacksmith || Stone Axe || DEF +30% (U) ||
+|| Werewolf || Sword || ATK +30% (U) ||
+|| Witch x2 || Wood Cane || ||
+|| Scrabbit || Weed || ||
+|| Scrabbit || Driftwood || ||
+|| Scrabbit || || ||
 Items: Rainbow Shell (DEF +50%), Water Can, Fishcake, Rock, Pot, Flower, Weed, Sunflower, Seed
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
 Repeated version
 ||~ Unit ||~ Items ||~ Protection ||
-| | Werewolf | | Sword | | Reinforce 50% (U) ||
-| | Boar x2 | | | | ||
-| | Witch x2 | | Wood Cane | | ||
-| | Scrabbit | | Weed | | ||
-| | Scrabbit | | Driftwood | | ||
-| | Scrabbit | | | | ||
+|| Werewolf || Sword || Reinforce 50% (U) ||
+|| Boar x2 || || ||
+|| Witch x2 || Wood Cane || ||
+|| Scrabbit || Weed || ||
+|| Scrabbit || Driftwood || ||
+|| Scrabbit || || ||
 Items: Rainbow Shell (DEF +50%), Brick (EXP +50% & Money X2), Water Can, Mushroom, Rock, Pot, Flower, Weed, Sunflower, Seed
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
@@ -871,11 +871,11 @@ Marona (Rooted, Grounded, No O.B. & Resistant)
 **AM 1-3 To the Old Castle**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | !Granny | | Bronze Stf | | Reinforce 30% (U) ||
-| | !Old Man | | Used Book | | Reinforce 30% (U) ||
-| | !Summon | | | | KeepOut: Red (U) ||
-| | Cerberus | | | | ||
-| | Werewolf | | | | ||
+|| !Granny || Bronze Stf || Reinforce 30% (U) ||
+|| !Old Man || Used Book || Reinforce 30% (U) ||
+|| !Summon || - || KeepOut: Red (U) ||
+|| Cerberus || || ||
+|| Werewolf || || ||
 ! Removed on repeated version
 Items: Rainbow Shell (DEF +50%), Dead Tree, Tree, Watermelon, Flower, Dead Tree, Stump, @PoisonRck (EXP +50% & Mana +50%), @Rotten Tr (EXP +50% & Money +50%) , @Rock (Reinforce 50%)
 Marona (Rooted, Grounded, No O.B. & Resistant)
@@ -884,13 +884,13 @@ Marona (Rooted, Grounded, No O.B. & Resistant)
 **AM 1-4 Another Girl**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | ??? | | !Hell Ansas | | ||
-| | Giga Beast | | Dark Wpn | | DEF +30% & SPD -30% (U) ||
-| | Ghost x3 | | | | ||
-| | Owl Ninja | | Used Book | | ||
-| | Owl Sentry | | BronzeSpr | | ||
-| | Whisp x2 | | Cane | | ||
-| | Lady Zombie x2 | | Bonfire | | ||
+|| ??? || !Hell Ansas || ||
+|| Giga Beast || Dark Wpn || DEF +30% & SPD -30% (U) ||
+|| Ghost x3 || || ||
+|| Owl Ninja || Used Book || ||
+|| Owl Sentry || BronzeSpr || ||
+|| Whisp x2 || Cane || ||
+|| Lady Zombie x2 || Bonfire || ||
 ! Unique item
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Crystal (SPD -50% & ATK +50%), Crystal (DEF X2), Treasure (ATK +50%), Bonfire (Reinforce 30%), Crystal (SPD +50%), Crystal (ATK +50%), Brick, Flower, Barrel, Vase, Pillar, SpiriTree, !Treasure
 Marona (Rooted, Grounded, No O.B. & Resistant)
@@ -898,12 +898,12 @@ Marona (Rooted, Grounded, No O.B. & Resistant)
 Repeated version
 Enemy
 ||~ Unit ||~ Items ||
-| | Giga Beast | | ||
-| | Ghost x3 | | ||
-| | Owl Ninja | | Used Book ||
-| | Owl Sentry | | BronzeSpr ||
-| | Whisp x2 | | Cane ||
-| | Lady Zombie x2 | | Bonfire ||
+|| Giga Beast || ||
+|| Ghost x3 || ||
+|| Owl Ninja || Used Book ||
+|| Owl Sentry || BronzeSpr ||
+|| Whisp x2 || Cane ||
+|| Lady Zombie x2 || Bonfire ||
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Crystal (SPD +40% & ATK +30%), Crystal (EXP +50% & Money X2), Bonfire (Reinforce 30%), Brick, Flower, Barrel, Vase, Pillar, SpiriTree
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
@@ -1398,18 +1398,22 @@ To get titles from units or items pick up the unit or item in question and speak
 
 ++ Failure Dungeon and Fusion
 Find yourself stuck in a particular spot and need a grinding spot? I WOULD recommended Monetopia - Peaceful Hill, but the problem with it is that it takes too long to do and the Bordeux you get is ludicrously high that you'll never run out unless you do so on purpose. Not to mention that it only works on the one character with Big Bang, so what is a better alternative? Random dungeons, more specifically Failure titled dungeons. These are created by a Dungeon Monk and is the best source for high level items. The process goes
+
++++ Failure Dungeon For Powerful Items
 * Go to the Dungeon Monk and Create a Dungeon, look for Size: Small, Number of Enemies: Few and Ground: Normal with the highest level possible.
 * Go to the Titlist and change the Dungeon to have Failure as it's title, this will massively weaken enemies allowing you to take on powerful enemies with a weak team.
 * Go to the Dungeon and complete it.
 The highest level dungeon you can make is based on your Dungeon Monk who will gain exp as you complete dungeons they make, also items are not affected by the title so you can get great items that can replace what you are using and also helpful to get items with large amounts mana on them for fusion. This setting is mainly for getting higher level items to use for fusion below.
 
-For failure fusion having 2 of the same item is recommended, you will get a smaller boost using a good title compared to using the Failure title on the one you want to boost. The process goes
++++ Failure Fusion To Increase Item Stats
+For Failure Fusion having 2 of the same item is recommended, you will get a smaller boost using a good title on both compared to using the Failure title on the one you want to boost. The process goes
 * Go to the Titlist and give the item you want to fuse the Failure title.
 * Go to the Fusionist and pick your wanted item with the Failure title and the recipient item you are wanting to fuse.
 * Pick the parameters and specials you want to pass on and confirm, should you not have enough Mana fuse other unused items until you have enough.
 * After the desired fusion go back to the Titlist and give the original title back.
 The item should be loads more powerful than it would've been had you done a regular fusion, leveling Fusionist will lower the mana cost.
 
++++ High Level Dungeons For Massive Level Increasing
 After making your powerful weapon with failure fusion if you want to get levels for your units simply go for Size: Small and Number of Enemies: Many, the enemy type doesn't really matter though if the dungeon level is as close as possible to 9,000 Giant type enemies give the most EXP per kill, this is also good to do with titles if you want them to have higher percentages. If you just want the base stats the random dungeon needs to be at least level 900 where if you want to include Guard, Steal & Move you will want to make that dungeon level 5,929. Giving dungeons titles at the Titlist will slowly increase the number of floors if it wasn't 99 and also slowly increase the level as well, to mass obtain titles just buy out all the weapons your merchant has to offer and give them to Marona similar to getting the Failure title.
 
 ++ Increasing Equip%
@@ -1417,15 +1421,15 @@ You may notice that all items have a percentage after to their stats which deter
 
 Equip% items to look for
 ||~ Stat ||~ Items (%) ||
-| | HP | | Bread (100%) ||
-| | ATK | | Dark Wpn (100%) ||
-| | DEF | | Rock (85%), Hammer (80%) ||
-| | INT | | Bomb (80%), Skull (80%), Must-read (70%) ||
-| | RES | | Star Staff (60%), Dead Staff (60%), SpiritStaff (60%), Must-read (60%), Lthograph (60%) ||
-| | SPD | | Trolly (90%), Dark Wpn (70%), Weed (70%) ||
+|| HP || Bread (100%) ||
+|| ATK || Dark Wpn (100%) ||
+|| DEF || Rock (85%), Hammer (80%) ||
+|| INT || Bomb (80%), Skull (80%), Must-read (70%) ||
+|| RES || Star Staff (60%), Dead Staff (60%), SpiritStaff (60%), Must-read (60%), Lthograph (60%) ||
+|| SPD || Trolly (90%), Dark Wpn (70%), Weed (70%) ||
 The list doesn't include Another Marona exclusive items that have higher Equip% values
 
-To go further beyond you will need to fuse items with the same Equip% value, so for instance to go from Trolly's 90% SPD you need to fuse with another to get a Trolly with 95% SPD. If you are wanting to go higher you will need to fuse 2 more separate Trolly items before fusing them again for 100% and so on and so forth. You will have to continually chain fuse items until you get to your desired % with your main item, regular items increase by 5% per fusion while if you get a Combo item from Random Dungeons they will increase by 10% if they are used last and aren't surpassed by the item fusing with them. The max Equip% is 200%, for Confine% it's 100%, while the max stats are 9,999,999.
+To go further beyond you will need to fuse items with the same Equip% value, so for instance to go from Trolly's 90% SPD to 95% you need to fuse with another to get a Trolly with 95% SPD. If you are wanting to go higher you will need to fuse 2 more separate Trolly items before fusing them again for 100% and so on and so forth. You will have to continually chain fuse items until you get to your desired % with your main item, regular items increase by 5% per fusion while if you get a Combo item from Random Dungeons they will increase by 10% if they are used last and aren't surpassed by the item fusing with them. The max Equip% is 200%, for Confine% it's 100%, while the max stats are 9,999,999.
 
 ++ Reincarnation
 Those familiar with Disgaea should know how this works, however there's an extra step. I mentioned in Deaths to not use a Changebook or Egg as a sacrifice to bring a unit back to life, that is because using these items will instead have the character reincarnate. Those on the PS2 version have a limited supply of these while other ports have other ways of obtaining these. Marona, for obvious reasons, is unable to reincarnate.
@@ -1439,7 +1443,7 @@ Requirement: Reach Post Game
 **????** (Extra Map 1)
 Enemy
 ||~ Unit ||~ Item ||
-| | Laharl | | Blade ||
+|| Laharl || Blade ||
 Items: Mushroom, Flower, Weed, PoisonRck, Seed, SacredRck, Rock, Trolly, Crate, Vase, Brick
 
 +++ Overlord's Castle
