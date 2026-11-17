@@ -4,7 +4,7 @@
 [[div_ class="splash-container d-grid gradient-line full-height {$splash-class}" style="{$splash-style}"]]
 
 [[image {$image} | |splash-image {$image-class}]]
-[[div_ class="title-container d-flex p-4"]]
+[[div_ class="title-container d-flex p-4 {$text-container-class}"]]
 
 [[div_ class="page-extra strong stroke {$text-extra-class}"]]
 [[span class="visible {$text-extra-icon}"]] [[/span]] {$text-extra}

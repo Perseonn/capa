@@ -5,12 +5,13 @@
 
 [[include comp:splash
 |image=guides-splash.avif
+|text-container-class=splash-gradient
 |text-title=Guides
 |text-sub-title=Game walkthroughs, cheat codes, or both!
 |text-extra-class=hidden
 ]]
 
-[[div class="row p-4 m-0"]]
+[[div class="row p-4 m-0 capa-container"]]
 
 [[module ListPages category="guides" order="title"]]
 [[include comp:list-page-item

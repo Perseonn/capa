@@ -1,5 +1,6 @@
 [[include comp:splash
 |image=%%name%%-splash.avif
+|text-container-class=splash-gradient
 |text-title=%%title%%
 |text-sub-title=Written by %%created_by%%
 |text-extra=Updated at %%updated_at%%

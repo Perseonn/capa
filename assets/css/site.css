@@ -1143,6 +1143,10 @@ PAGE SPLASH, GRADIENT
 	object-position: center;
 }
 
+.splash-gradient{
+	background-image: var(--gradient-splash);
+}
+
 .splash-image-main{
 	object-position: bottom;
 }
