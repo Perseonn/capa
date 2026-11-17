@@ -128,7 +128,7 @@ These files are independent of the CAPA engine and not required outside the CAPA
 2. Font Awesome is provided by `assets/css/fontawesome-all.min.css`, and 4 font files under `assets/webfonts/fa-....woff2`. The CSS is loaded by `contents/_layout.html`.
 3. CAPA's custom move ToC to Nav is provided by `assets/scripts/capa-move-toc-to-nav.js`. Loaded by `contents/_layout.html`.
 4. CAPA's custom drawer navigation is provided by `assets/scripts/capa-nav-drawer.js`. Loaded by `contents/_layout.html`.
-5. CAPA's custom controller CSS is provided by `assets/css/capa-controller.css`, and 2 font files under `assets/webfonts/capa-controller-ps4.otf` and `assets/webfonts/capa-controller.ttf`
+5. CAPA's custom controller CSS has 2 font files under `assets/webfonts/capa-controller-ps4.otf` and `assets/webfonts/capa-controller.ttf`
 6. `dist\google....html` is CAPA's Google Search Console files. Please remove it if you are using your own Google Search method.
 
 ## Default HTML for _layout.html

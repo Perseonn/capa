@@ -72,6 +72,18 @@ CAPA Skin     #b49797	(180,151,151,1)
 	--gradient-splash: linear-gradient(0deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0) 25%);
 }
 
+@font-face {
+    font-family: controller;
+    src: url('../webfonts/capa-controller.ttf') format('truetype');
+    font-display: block;
+}
+
+@font-face {
+    font-family: controller-ps4;
+    src: url('../webfonts/capa-controller-ps4.otf') format('opentype');
+    font-display: block;
+}
+
 /*
 @media (prefers-color-scheme: dark) {
 	:root {
