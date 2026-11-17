@@ -70,7 +70,14 @@ CAPA Skin     #b49797	(180,151,151,1)
 	--border: 1px solid var(--color-capa-s60);
 	--gradient-main: linear-gradient(90deg, var(--color-capa-s40) 15%, var(--color-capa-5-s40) 85%);
 	--gradient-splash: linear-gradient(0deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0) 25%);
+	--gradient-list-page-item: linear-gradient(0deg, var(--color-light-75), var(--color-light-75));
 	--splash-border-width: 4px;
+	--h1-fg: var(--color-bg);
+	--h1-bg: var(--color-capa-s60);
+	--h1-text-shadow: 0px 2px var(--color-capa);
+	--h1-text-shadow-small: 0px 1px var(--color-capa);
+	--h1-fg-hover: var(--color-capa-b80);
+	--h1-bg-hover: var(--color-capa-s20);
 }
 
 @font-face {
@@ -246,17 +253,13 @@ h1, h2 {
 	border-radius: var(--border-radius);
 }
 
-h1, #toc a.toc-h1{
-	color: var(--color-bg);
-	background-color: var(--color-capa-s60);
-}
-
 h1 {
-	font-size: calc( var(--base-font-size) * 3);
-	text-shadow: 0px 2px var(--color-capa);
 	margin-top: calc( var(--base-font-size) * 3.5);
 	margin-bottom: calc( var(--base-font-size) * 1);
-	
+	font-size: calc( var(--base-font-size) * 3);
+	text-shadow: var(--h1-text-shadow);
+	color: var(--h1-fg);
+	background-color: var(--h1-bg);
 }
 
 h2, #toc a.toc-h2{
@@ -265,16 +268,16 @@ h2, #toc a.toc-h2{
 }
 
 h2 {
-	font-size: calc( var(--base-font-size) * 2);
 	margin-top: calc( var(--base-font-size) * 3);
 	margin-bottom: calc( var(--base-font-size) * 1);
+	font-size: calc( var(--base-font-size) * 2);
 }
 
 h3 {
-	font-size: calc( var(--base-font-size) * 1.5);
-	font-weight: 700;
 	margin-top: calc( var(--base-font-size) * 2);
 	border-bottom: 4px solid var(--color-capa-1);
+	font-size: calc( var(--base-font-size) * 1.5);
+	font-weight: 700;
 }
 
 h4 {
@@ -955,10 +958,14 @@ TABLE OF CONTENTS
 }
 
 #toc a.toc-h1{
+	margin-left: 0px;
+	margin-top: 1.5rem;
 	font-size: calc(var(--base-font-size)* 1.10);
 	font-variant-caps: small-caps;
 	font-weight: 700;
-	text-shadow: 0px 1px var(--color-capa);
+	text-shadow: var(--h1-text-shadow-small);
+	color: var(--h1-fg);
+	background-color: var(--h1-bg);
 }
 
 #toc a.toc-h3{
@@ -971,12 +978,6 @@ TABLE OF CONTENTS
 	gap: 0.25rem
 }
 
-
-#toc a.toc-h1{
-	margin-left: 0px;
-	margin-top: 1.5rem;
-}
-
 #toc a.toc-h2,
 #toc a.toc-h3,
 #toc a.toc-h4{
@@ -984,9 +985,9 @@ TABLE OF CONTENTS
 	margin-bottom: 0.5rem;
 }
 
-#toc a.toc-h1:hover {
-	color: var(--color-capa-b80);
-	background-color: var(--color-capa-s20);
+#toc a.toc-h1:hover{
+	color: var(--h1-fg-hover);
+	background-color: var(--h1-bg-hover);
 }
 
 #toc a.toc-h2:hover{
@@ -1290,22 +1291,51 @@ ListPages Layout
 	padding-right: 1rem;
 	border-bottom-left-radius: calc(var(--border-radius));
 	border-bottom-right-radius: calc(var(--border-radius));
-	background: var(--color-capa-s20);
+	flex-direction: column;
+	background-color: var(--h1-bg);
 }
 
-.list-page-text-container {
+.list-page-container:hover .list-page-text-container{
+	background-color: var(--h1-bg-hover);
+}
+
+.list-page-text-container,
+.list-page-title,
+.list-page-sub-title{
+	min-width:0;
+}
+
+.list-page-title,
+.list-page-sub-title{
+	min-width:0;
 	overflow: hidden;
-    text-overflow: ellipsis;
+	text-overflow: ellipsis;
 	white-space: nowrap;
+	line-height: 1;
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
 }
 
-.list-page-time{
-	display: block;
-	margin-top: -0.8rem;
+.list-page-title,
+.list-page-title a{
+	color: var(--h1-fg);
+	text-shadow: var(--h1-text-shadow-small);
 }
 
-.large-cards .list-page-text-container{
-	padding-bottom:1rem;
+.list-page-container:hover .list-page-title,
+.list-page-container:hover .list-page-title a{
+	color: var(--h1-fg-hover);
+}
+
+.list-page-title{
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+}
+
+.list-page-sub-title{
+	padding-top: 0.0rem;
+	padding-bottom: 0.5rem;
+	text-shadow: var(--text-shadow);
 }
 
 .guide-cards img{

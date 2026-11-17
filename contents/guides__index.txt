@@ -21,7 +21,7 @@
 |link=%%fullname%%
 |title=%%title%%
 |sub-title=by %%created_by%%
-|image-container-style=background-image: linear-gradient(0deg, var(--color-light-75), var(--color-light-75)), url('/assets/%%fullname%%/%%name%%-splash.avif');
+|image-container-style=background-image: var(--gradient-list-page-item), url('/assets/%%fullname%%/%%name%%-splash.avif');
 ]]
 [[/module]]
 
