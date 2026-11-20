@@ -1354,7 +1354,7 @@ Enemy
 || Titlist x2 || Dark Cane || ||
 || Giga Beast || Steel Axe || ||
 || Manticore || Cactus || ||
-| Cerberus || Water Can || ||
+|| Cerberus || Water Can || ||
 || Fenrir || Dark Wpn || ||
 ! Unique Item
 @ Removed on repeated version
