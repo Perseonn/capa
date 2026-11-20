@@ -122,7 +122,7 @@ Neutral: Summon x11
 Items: SpiriTree (Reinforce 20% & HP Heal 20%), Weed (HP Heal 10% & EXP x3), Weed (HP Heal 10% & Money x3), Weed, Mushroom, Flower, Cactus, Rock
 
 Repeated version Enemy
-||~ Unit ||~ Items ||~ Protection ||
+||~ Unit ||~ Items ||
 || Fighter || Dirk ||
 He replaces Walnut.
 
