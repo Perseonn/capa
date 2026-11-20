@@ -911,12 +911,12 @@ Marona (Rooted, Grounded, No O.B. & Resistant)
 **Mt. Kazan**
 **AM 2-1 First Training**
 ||~ Unit ||~ Items ||~ Protection ||
-| | !Manticore | | Fish | | Reinforce 50% (U) ||
-| | Manticore | | Crystal | | KeepOut: Red (U) ||
-| | !Manticore | | Crystal | | DEF -30% (U) ||
-| | Cerberus | | | | ||
-| | Witch x2 | | Wood Cane | | ||
-| | Witch x2 | | StoneCane | | ||
+|| !Manticore || Fish || Reinforce 50% (U) ||
+|| Manticore || Crystal || KeepOut: Red (U) ||
+|| !Manticore || Crystal || DEF -30% (U) ||
+|| Cerberus || || ||
+|| Witch x2 || Wood Cane || ||
+|| Witch x2 || StoneCane || ||
 ! Protection effect removed on repeated version
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Crystal, Rotten Tr, Brick, Crate, Rock, PoisonRck, Trolly, Dead Tree, @Barrel (EXP +50% & Money +50%)
 Marona (Rooted, No Toss, No O.B. & Resistant)
@@ -925,52 +925,52 @@ Marona (Rooted, No Toss, No O.B. & Resistant)
 **AM 2-2 Fiery Discipline**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Lizardman | | WideSword | | DEF +40% (U) ||
-| | Lizardman | | WideSword | | Weaken 40% (U) ||
-| | Lizardman | | WideSword | | ATK +40% (U) ||
-| | Cerberus | | Iron Staff | | ATK +40% (U) ||
-| | Cerberus | | Iron Staff | | Weaken 40% (U) ||
-| | Cerberus | | Iron Staff | | DEF +40% (U) ||
-| | Dragon x2 | | Crate | | ||
+|| Lizardman || WideSword || DEF +40% (U) ||
+|| Lizardman || WideSword || Weaken 40% (U) ||
+|| Lizardman || WideSword || ATK +40% (U) ||
+|| Cerberus || Iron Staff || ATK +40% (U) ||
+|| Cerberus || Iron Staff || Weaken 40% (U) ||
+|| Cerberus || Iron Staff || DEF +40% (U) ||
+|| Dragon x2 || Crate || ||
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Crystal (HP Heal 20%), Crystal (HP Heal 20%), Treasure (Mana X10), Vase (Money X10), Sign (SPD -30% & ATK +30%), Crate, Trolly, Bomb, Dead Tree, Barrel
 Marona (Rooted, No Toss, No O.B. & Resistant)
 
 Repeated version
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Dragon x2 | | Crate | | EXP+50% & Damage 10% (U) x2 ||
-| | Lizardman x3 | | WideSword | | ||
-| | Cerberus x3 | | Iron Staff | | ||
+|| Dragon x2 || Crate || EXP+50% & Damage 10% (U) x2 ||
+|| Lizardman x3 || WideSword || ||
+|| Cerberus x3 || Iron Staff || ||
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Rotten Tr (EXP +50%, Money +50% & Weaken 30%), Crystal (HP Heal 20%), Crystal (HP Heal 20%), Deadwood (Reinforce 50), Brick (Reinforce 50%), Crate, Trolly, Bomb, Dead Tree, Barrel
 Marona (Rooted, No Toss, No O.B. & Resistant)
 
 **AM 2-3 Fiery Training**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Knight x2 | | WideSword | | SPD +50% (U) x2 ||
-| | Fusionist | | Sunflower | | SPD +30% (U) ||
-| | Owl Knight | | LongSpear | | SPD +50% (U) ||
-| | Owl Ninja | | Spell Book | | SPD +30% (U) ||
-| | Owl Knight | | LongSpear | | SPD +50% (U) ||
-| | Dragon | | Bell | | ||
-| | Golem x2 | | Mace | | ||
-| | Titlist | | Gold Staff | | ||
-| | Owl Mage | | Iron Staff | | ||
+|| Knight x2 || WideSword || SPD +50% (U) x2 ||
+|| Fusionist || Sunflower || SPD +30% (U) ||
+|| Owl Knight || LongSpear || SPD +50% (U) ||
+|| Owl Ninja || Spell Book || SPD +30% (U) ||
+|| Owl Knight || LongSpear || SPD +50% (U) ||
+|| Dragon || Bell || ||
+|| Golem x2 || Mace || ||
+|| Titlist || Gold Staff || ||
+|| Owl Mage || Iron Staff || ||
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Sign (ATK +30%), Bomb (No O.B.), Pillar (KeepOut: Red), Pillar (KeepOut: Green), Trolly, Weed?, Crate, Wither Tr, Brick, Vase, Crystal, Barrel
 Marona (Rooted, No Toss, No O.B. & Resistant)
 
 Repeated version
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Knight x2 | | WideSword | | SPD +50% (U) x2 ||
-| | Fusionist | | Sunflower | | SPD +30% (U) ||
-| | Owl Knight | | LongSpear | | SPD +50% (U) ||
-| | Owl Ninja | | Spell Book | | SPD +30% (U) ||
-| | Owl Knight | | LongSpear | | SPD +50% (U) ||
-| | Dragon | | Bell | | ||
-| | Golem x2 | | | | ||
-| | Titlist | | Gold Staff | | ||
-| | Owl Mage | | Iron Staff | | ||
+|| Knight x2 || WideSword || SPD +50% (U) x2 ||
+|| Fusionist || Sunflower || SPD +30% (U) ||
+|| Owl Knight || LongSpear || SPD +50% (U) ||
+|| Owl Ninja || Spell Book || SPD +30% (U) ||
+|| Owl Knight || LongSpear || SPD +50% (U) ||
+|| Dragon || Bell || ||
+|| Golem x2 || || ||
+|| Titlist || Gold Staff || ||
+|| Owl Mage || Iron Staff || ||
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Stone (Reinforce x2 & No O.B.), PoisonRck (Reinforce x2 & No O.B.), Pillar (KeepOut: Red), Pillar (KeepOut: Green), Sign (Mana +50% & EXP +50%), Pillar (Mana +50% & EXP +50%), Crate, Wither Tr, Brick, Vase, Crystal, Barrel
 Marona (Rooted, No Toss, No O.B. & Resistant)
 
@@ -978,75 +978,81 @@ Marona (Rooted, No Toss, No O.B. & Resistant)
 **AM 2-4 Icy Revenge**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Mermaid | | Vase | | Sticky (I) ||
-| | Fenrir x4 | | Katana | | Reinforce (U) ||
-| | Merman x4 | | Spell Book, Stone Axe, BronzeSwd, Iron Staff | | ||
+|| Mermaid || Vase || Sticky (I) ||
+|| Fenrir x4 || Katana || Reinforce (U) ||
+|| Merman || Spell Book || ||
+|| Merman || Stone Axe || ||
+|| Merman || BronzeSwd || ||
+|| Merman || Iron Staff || ||
 Items: Rainbow Shell (DEF +70%, HP Heal 10% & Sticky), Crate (No O.B. & Sticky), Crate (No O.B. & Sticky), Crate (No O.B. & Sticky), Crate (No O.B. & Sticky), Old Tree, Rotten Tr
 Marona (Rooted, No Toss, No O.B. & Resistant)
 
 Repeated version
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Mermaid | | Vase | | Sticky (I) ||
-| | Fenrir x4 | | | | ||
-| | Merman x4 | | Spell Book, Stone Axe, BronzeSwd, Iron Staff | | ||
+|| Mermaid || Vase || Sticky (I) ||
+|| Fenrir x4 || || ||
+|| Merman || Spell Book || ||
+|| Merman || Stone Axe || ||
+|| Merman || BronzeSwd || ||
+|| Merman || Iron Staff || ||
 Items: Rainbow Shell (DEF +70%, HP Heal 10% & Sticky), Crate (No O.B. & Sticky), Crate (No O.B. & Sticky), Crate (No O.B. & Sticky), Crate (No O.B. & Sticky), Crystal (EXP +50% & Mana +50%), Fish (ATK X2 & SPD X2), Old Tree, Rotten Tr
 Marona (Rooted, No Toss, No O.B. & Resistant)
 
 **AM 2-5 Cold Situation**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Fusionist | | Flower | | SPD +50% (U) ||
-| | Archer | | Long Swd | | DEF +50 (U) ||
-| | Witch | | Spell Book | | Reinforce 50% (U) ||
-| | Healer | | Silver Stf | | HP Heal 50% (U) ||
-| | Valkyrie | | BronzeSpr | | ATK +50% (U) ||
-| | Funguy | | Seed | | ||
-| | Knight | | Long Swd | | DEF +50% (U) ||
-| | Titlist | | Spell Book | | Reinforce 50% (U) ||
-| | Blacksmith | | Katana | | SPD +50% (U) ||
-| | Mystic | | Silver Stf | | HP Heal 50% (U) ||
-| | Fighter | | BronzeSpr | | ATK +50% (U) ||
+|| Fusionist || Flower || SPD +50% (U) ||
+|| Archer || Long Swd || DEF +50 (U) ||
+|| Witch || Spell Book || Reinforce 50% (U) ||
+|| Healer || Silver Stf || HP Heal 50% (U) ||
+|| Valkyrie || BronzeSpr || ATK +50% (U) ||
+|| Funguy || Seed || ||
+|| Knight || Long Swd || DEF +50% (U) ||
+|| Titlist || Spell Book || Reinforce 50% (U) ||
+|| Blacksmith || Katana || SPD +50% (U) ||
+|| Mystic || Silver Stf || HP Heal 50% (U) ||
+|| Fighter || BronzeSpr || ATK +50% (U) ||
 Items: Rainbow Shell (DEF +70%, HP Heal 10% & Sticky), Starfish (Sticky), Fish (HP Heal 20%), Dead Tree (ATK +30%), Rock (DEF +30%) x2, Old Tree (Reinforce 20%), Crate (ATK +30%), Barrel (KeepOut: Red) x2, Rock (Reinforce 20%), Old Tree (SPD +50%), Stone (ATK +30%), Stump (HP Heal 20%), Bomb (Reinforce 20%), Old Tree (ATK +30%)
 Marona (Rooted, No Toss, No O.B. & Resistant)
 
 Repeated version
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Fusionist | | Flower | | SPD +50% (U) ||
-| | Archer | | Long Swd | | DEF +50 (U) ||
-| | Witch | | Spell Book | | Reinforce 50% (U) ||
-| | Healer | | Silver Stf | | HP Heal 50% (U) ||
-| | Valkyrie | | BronzeSpr | | ATK +50% (U) ||
-| | Knight | | Long Swd | | DEF +50% (U) ||
-| | Titlist | | Spell Book | | Reinforce 50% (U) ||
-| | Blacksmith | | Katana | | SPD +50% (U) ||
-| | Mystic | | Silver Stf | | HP Heal 50% (U) ||
-| | Fighter | | BronzeSpr | | ATK +50% (U) ||
+|| Fusionist || Flower || SPD +50% (U) ||
+|| Archer || Long Swd || DEF +50 (U) ||
+|| Witch || Spell Book || Reinforce 50% (U) ||
+|| Healer || Silver Stf || HP Heal 50% (U) ||
+|| Valkyrie || BronzeSpr || ATK +50% (U) ||
+|| Knight || Long Swd || DEF +50% (U) ||
+|| Titlist || Spell Book || Reinforce 50% (U) ||
+|| Blacksmith || Katana || SPD +50% (U) ||
+|| Mystic || Silver Stf || HP Heal 50% (U) ||
+|| Fighter || BronzeSpr || ATK +50% (U) ||
 Items: Rainbow Shell (DEF +70%, HP Heal 10% & Sticky), Starfish (Sticky), Water Can (Reinforce 50%), Barrel (EXP +70% & Weaken 30%), Fish (HP Heal 20%), Dead Tree (ATK +30%), Rock (DEF +30%) x2, Old Tree (Reinforce 20%), Crate (ATK +30%), Rock (Reinforce 20%), Old Tree (SPD +50%), Stone (ATK +30%), Stump (HP Heal 20%), Bomb (Reinforce 20%), Old Tree (ATK +30%)
 Marona (Rooted, No Toss, No O.B. & Resistant)
 
 **AM 2-6 Icy Trap**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Mermaid x2 | | Crystal | | Reinforce 50% (I) x2 ||
-| | Valkyrie x2 | | BronzeSwd | | ||
-| | Healer x2 | | Silver Stf | | ||
-| | Amazon x2 | | Iron Ktna | | ||
-| | Witch x2 | | Dictionary | | ||
-| | Granny | | Crystal | | Sticky (I) ||
+|| Mermaid x2 || Crystal || Reinforce 50% (I) x2 ||
+|| Valkyrie x2 || BronzeSwd || ||
+|| Healer x2 || Silver Stf || ||
+|| Amazon x2 || Iron Ktna || ||
+|| Witch x2 || Dictionary || ||
+|| Granny || Crystal || Sticky (I) ||
 Items: Rainbow Shell (DEF +70%, HP Heal 10% & Sticky), Vase (Sticky), Fish, Starfish, Fishcake, Trolly, Brick, EvlRockWd, Flower, Skull Tree, Barrel, Driftwood, Bonfire
 Marona (Rooted, No Toss, No O.B. & Resistant)
 
 Repeated version
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Mermaid x2 | | | | ||
-| | Valkyrie x2 | | BronzeSwd | | ||
-| | Healer x2 | | Silver Stf | | ||
-| | Amazon x2 | | Iron Ktna | | ||
-| | Witch x2 | | Dictionary | | ||
-| | Granny | | Crystal | | Sticky (I) ||
+|| Mermaid x2 || || ||
+|| Valkyrie x2 || BronzeSwd || ||
+|| Healer x2 || Silver Stf || ||
+|| Amazon x2 || Iron Ktna || ||
+|| Witch x2 || Dictionary || ||
+|| Granny || Crystal || Sticky (I) ||
 Items: Rainbow Shell (DEF +70%, HP Heal 10% & Sticky), Treasure (EXP +60% & DEF -50%), Vase (Sticky), Fish, Starfish, Fishcake, Trolly, Brick, EvlRockWd, Flower, Skull Tree, Barrel, Driftwood, Bonfire
 Marona (Rooted, No Toss, No O.B. & Resistant)
 
@@ -1054,11 +1060,14 @@ Marona (Rooted, No Toss, No O.B. & Resistant)
 **AM 2-7 Mislead**
 Enemy
 ||~ Unit ||~ Items ||
-| | Slime | | Mimic ||
-| | Blob | | Slime ||
-| | Mimic | | Shade ||
-| | Shade | | Blob ||
-| | !Knight x4 | | Shade, Mimic, Blob, Slime ||
+|| Slime || Mimic ||
+|| Blob || Slime ||
+|| Mimic || Shade ||
+|| Shade || Blob ||
+|| !Knight || Shade ||
+|| !Knight || Mimic ||
+|| !Knight || Blob ||
+|| !Knight || Slime ||
 ! Replaced with Soldiers on repeated version
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Barrel, Cactus, Weed, @Crystal (EXP +70%, Mana +70% & Weaken 30%), @Flower (ATK +50%)
 Marona (Rooted, Grounded, No O.B. & Resistant)
@@ -1067,45 +1076,45 @@ Marona (Rooted, Grounded, No O.B. & Resistant)
 **AM 2-9 Lonely Desert**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Werewolf | | Long Swd | | SPD X2 (U) ||
-| | Saber Kitty x2 | | Cactus | | ||
-| | Mimic x2 | | Steel Alloy | | KeepOut: Red (U) x2 ||
-| | Scrabbit x4 | | | | Reinforce 30% (U) x4 ||
-| | Scrabbit x3 | | Slime | | ||
+|| Werewolf || Long Swd || SPD X2 (U) ||
+|| Saber Kitty x2 || Cactus || ||
+|| Mimic x2 || Steel Alloy || KeepOut: Red (U) x2 ||
+|| Scrabbit x4 || - || Reinforce 30% (U) x4 ||
+|| Scrabbit x3 || Slime || ||
 Neutral
 ||~ Unit ||~ Items ||~ Protection ||
-| | Archer | | Iron Sword | | Weaken 40% (U) ||
+|| Archer || Iron Sword || Weaken 40% (U) ||
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Cactus, Driftwood, Sunflower
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
 Repeated version
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Scrabbit x4 | | | | ||
-| | Saber Kitty x2 | | Cactus | | ||
-| | Saber Kitty | | Fish | | ||
-| | Mimic | | | | KeepOut: Red ||
-| | Scrabbit x3 | | Slime | | ||
+|| Scrabbit x4 || || ||
+|| Saber Kitty x2 || Cactus || ||
+|| Saber Kitty || Fish || ||
+|| Mimic || - || KeepOut: Red ||
+|| Scrabbit x3 || Slime || ||
 Neutral
 ||~ Unit ||~ Items ||~ Protection ||
-| | Archer | | Iron Sword | | Weaken 40% (U) ||
+|| Archer || Iron Sword || Weaken 40% (U) ||
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Cactus (EXP +70%), Cactus, Driftwood, Sunflower
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
 **AM 2-10 Mirage**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Merchant | | Fan | | Slippery (I) ||
-| | Merchant | | Fan | | Grounded (I) ||
-| | Merchant | | Fan | | Damage 100% (I) ||
-| | Merchant | | Fan | | Reinforce x2 (I) ||
-| | !Funguy | |  | | Reinforce 50% (U) ||
-| | Hell Corgi | | Bone | | ||
-| | Boar x3 | | Mace | | ||
-| | Blacksmith | | Trolly | | ||
-| | Blacksmith | | Brick | | ||
-| | Blacksmith | | Barrel | | ||
-| | Blacksmith | | Bomb | | ||
+|| Merchant || Fan || Slippery (I) ||
+|| Merchant || Fan || Grounded (I) ||
+|| Merchant || Fan || Damage 100% (I) ||
+|| Merchant || Fan || Reinforce x2 (I) ||
+|| !Funguy || - || Reinforce 50% (U) ||
+|| Hell Corgi || Bone || ||
+|| Boar x3 || Mace || ||
+|| Blacksmith || Trolly || ||
+|| Blacksmith || Brick || ||
+|| Blacksmith || Barrel || ||
+|| Blacksmith || Bomb || ||
 ! Removed on repeated version
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Sunflower (Invincible & SPD -50%) x4, Driftwood (Reinforce 30%), Weed, Cactus, Anthill, Flower, CurseTree, Cursed Tr, @Vase (Mana X2), @Bomb (EXP X2 & Weaken 50%), @Watermelon (Money X2)
 Marona (Rooted, Grounded, No O.B. & Resistant)
@@ -1115,14 +1124,14 @@ Marona (Rooted, Grounded, No O.B. & Resistant)
 **AM 2-11 Reunion After 8 Years**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Dark Avatar | | Iron Sword | | Resistant (U) ||
-| | Summon | | Skull | | HP Heal 20% (I) ||
-| | Summon | | Skull | | Reinforce 30% (I) ||
-| | Summon | | | | ||
-| | Summon | | Iron Sword | | Resistant (U) ||
-| | Summon x2 | | BronzeDag | | ||
-| | Summon x2 | | Iron Spear | | ||
-| | Summon x3 | | Iron Staff | | ||
+|| Dark Avatar || Iron Sword || Resistant (U) ||
+|| Summon || Skull || HP Heal 20% (I) ||
+|| Summon || Skull || Reinforce 30% (I) ||
+|| Summon || || ||
+|| Summon || Iron Sword || Resistant (U) ||
+|| Summon x2 || BronzeDag || ||
+|| Summon x2 || Iron Spear || ||
+|| Summon x3 || Iron Staff || ||
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Stump (SPD +30%), Brick (SPD +30%), Vase (DEF +30%), Driftwood (DEF +30%), Phonogrph (Reinforce 30%), Crystal
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
@@ -1131,21 +1140,21 @@ Marona (Rooted, Grounded, No O.B. & Resistant)
 **AM 3-1 Spirit and Body**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Walnut | | Bonfire | | ||
-| | Giga Beast x2 | | Steel Alloy | | Def +50% & HP Heal 50% (U) x2 ||
-| | Funguy x2 | | Fish Cake | | SPD +50% (U) x2 ||
-| | Funguy x2 | | Fish Cake | | DEF +50% (U) x2 ||
-| | Slime x2 | | Seed | | HP Heal 50% & SPD +50% (U) x2 ||
-| | Slime x2 | | Seed | | DEF +50% & SPD +50% (U) x2 ||
+|| Walnut || Bonfire || ||
+|| Giga Beast x2 || Steel Alloy || Def +50% & HP Heal 50% (U) x2 ||
+|| Funguy x2 || Fish Cake || SPD +50% (U) x2 ||
+|| Funguy x2 || Fish Cake || DEF +50% (U) x2 ||
+|| Slime x2 || Seed || HP Heal 50% & SPD +50% (U) x2 ||
+|| Slime x2 || Seed || DEF +50% & SPD +50% (U) x2 ||
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Rock Weed, Tree, Flower, EvilRockWd, Weed?
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
 Repeated version
 Enemy
-||~ Unit ||~ Items ||~ Protection ||
-| | Saber Kitty x2 | | Misc Weed | | ||
-| | Funguy x4 | | Cursed Tr | | ||
-| | Slime x4 | | Driftwood | | ||
+||~ Unit ||~ Items ||
+|| Saber Kitty x2 || Misc Weed ||
+|| Funguy x4 || Cursed Tr ||
+|| Slime x4 || Driftwood ||
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Giant Tree (EXP +70% & Mana +70%), Rock Weed, Tree, Flower, EvilRockWd, Weed?
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
@@ -1153,26 +1162,26 @@ Marona (Rooted, Grounded, No O.B. & Resistant)
 **AM 3-2 Reoccuring Regret**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Sprout | | | | ||
-| | Summon x3 | | Starfish | | ||
-| | Summon x3 | | Steel Ktna | | ||
-| | Lizardman | | Fish | | KeepOut: Red (I) ||
-| | Lizardman | | Fish | | KeepOut: Yellow (I) ||
-| | Lizardman | | Fish | | KeepOut: Blue (I) ||
-| | Lizardman | | Fish | | KeepOut: Green (I) ||
+|| Sprout || || ||
+|| Summon x3 || Starfish || ||
+|| Summon x3 || Steel Ktna || ||
+|| Lizardman || Fish || KeepOut: Red (I) ||
+|| Lizardman || Fish || KeepOut: Yellow (I) ||
+|| Lizardman || Fish || KeepOut: Blue (I) ||
+|| Lizardman || Fish || KeepOut: Green (I) ||
 Neutral
 ||~ Unit ||~ Items ||~ Protection ||
-| | Cerberus | | Candle | | No O.B, Resistant & Invincible (U) Reinforce 50%, Invincible & No O.B. (I) ||
+|| Cerberus || Candle || No O.B, Resistant & Invincible (U) Reinforce 50%, Invincible & No O.B. (I) ||
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Pillar (DEF +40% & HP Heal 20%), Flower (SPD +30%), Seed (ATK +30%), Mushroom (DEF +30%), Weed (HP Heal 20%), Sapling (ATK +30%), Flower (SPD +30%), Rock Weed (DEF + 30%), Rock (SPD +30%), Stone (ATK +30%), Shell (Permanent), Treasure (Reinforce 50% & HP Heal 20%), Crystal (HP Heal 20% & Reinforce 50%)
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
 Repeated version
 Enemy
 ||~ Unit ||~ Items ||
-| | Lizardman | | Steel Alloy ||
-| | Ghost x2| | Shell ||
-| | Summon x3 | | Starfish ||
-| | Summon x3 | | Barrel ||
+|| Lizardman || Steel Alloy ||
+|| Ghost x2 ||  Shell ||
+|| Summon x3 || Starfish ||
+|| Summon x3 || Barrel ||
 Neutral: Saber Kitty
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Starfish (EXP +80%), Flower (SPD +30%), Seed (ATK +30%), Mushroom (DEF +30%), Weed (HP Heal 20%), Sapling (ATK +30%), Flower (SPD +30%), Rock Weed (DEF + 30%), Rock (SPD +30%), Stone (ATK +30%), Shell (KeepOut: Red), Bone (ATK +30%), Skull (ATK +30%), Shell
 Marona (Rooted, Grounded, No O.B. & Resistant)
@@ -1181,36 +1190,36 @@ Marona (Rooted, Grounded, No O.B. & Resistant)
 **AM 3-3 Spell and Wound**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Raphael | | | | ||
-| | Golem | | PoisonRck | | HP Heal 20% (U), SPD X2 (I) ||
-| | Golem | | PoisonRck | | DEF +30% (U), SPD X2 (I) ||
-| | Putty | | Fan | | Stay Back 15dm & ATK +30% (U) ||
-| | Putty Shaman | | Gold Staff | | Stay Back 15dm & DEF +30% (U) ||
-| | Putty Mage | | Flower | | Stay Back 15dm & SPD +30% (U) ||
-| | Owl Knight | | Blade | | DEF -30% (U) ||
-| | Owl Sentry | | DarkSpear | | DEF -30% (U) ||
-| | Owl Mage | | Encyc. | | DEF -30% (U) ||
-| | Owl Ninja | | Iron Ktna | | DEF -30% (U) ||
-| | Putty Monk | | Crate | | ||
-| | Putty Smith | | Treasure | | ||
-| | Owl Sage | | Silver Stf | | ||
+|| Raphael || || ||
+|| Golem || PoisonRck || HP Heal 20% (U), SPD X2 (I) ||
+|| Golem || PoisonRck || DEF +30% (U), SPD X2 (I) ||
+|| Putty || Fan || Stay Back 15dm & ATK +30% (U) ||
+|| Putty Shaman || Gold Staff || Stay Back 15dm & DEF +30% (U) ||
+|| Putty Mage || Flower || Stay Back 15dm & SPD +30% (U) ||
+|| Owl Knight || Blade || DEF -30% (U) ||
+|| Owl Sentry || DarkSpear || DEF -30% (U) ||
+|| Owl Mage || Encyc. || DEF -30% (U) ||
+|| Owl Ninja || Iron Ktna || DEF -30% (U) ||
+|| Putty Monk || Crate || ||
+|| Putty Smith || Treasure || ||
+|| Owl Sage || Silver Stf || ||
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Weed, Vase, Anthill, Stump, Seed, Flower, PoisonRck
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
 Repeated version
 Enemy
 ||~ Unit ||~ Items ||
-| | Golem x2 | | Vase ||
-| | Putty | | ||
-| | Putty Shaman | | ||
-| | Putty Mage | | ||
-| | Owl Knight | | Blade ||
-| | Owl Sentry | | DarkSpear ||
-| | Owl Mage | | Encyc. ||
-| | Owl Ninja | | Iron Ktna ||
-| | Putty Monk | | ||
-| | Putty Smith | | ||
-| | Owl Sage | | Silver Stf ||
+|| Golem x2 || Vase ||
+|| Putty || ||
+|| Putty Shaman || ||
+|| Putty Mage || ||
+|| Owl Knight || Blade ||
+|| Owl Sentry || DarkSpear ||
+|| Owl Mage || Encyc. ||
+|| Owl Ninja || Iron Ktna ||
+|| Putty Monk || ||
+|| Putty Smith || ||
+||  Owl Sage || Silver Stf ||
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Seed (EXP X2 & Mana X2), Weed, Vase, Anthill, Stump, Seed, Flower, PoisonRck
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
@@ -1218,24 +1227,24 @@ Marona (Rooted, Grounded, No O.B. & Resistant)
 **AM 3-4 Doubt**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Flame | | Steel Swd | | Resistant (U) ||
-| | Drab | | Gold Axe | | Reinforce 50% (U) ||
-| | Fox | | Must-read | | Reinforce 50% (U) ||
-| | Lierre | | DarkSpear | | Reinforce 50% (U) ||
-| | Bijou | | Steel Ktna | | Reinforce 50% (U) ||
-| | Milon | | Fish | | Reinforce 50% (U) ||
+|| Flame || Steel Swd || Resistant (U) ||
+|| Drab || Gold Axe || Reinforce 50% (U) ||
+|| Fox || Must-read || Reinforce 50% (U) ||
+|| Lierre || DarkSpear || Reinforce 50% (U) ||
+|| Bijou || Steel Ktna || Reinforce 50% (U) ||
+|| Milon || Fish || Reinforce 50% (U) ||
 Items: Rainbow Shell (DEF +70%, HP Heal 10% & Sticky), Pillar (Reinforce 50% & Sticky), Crystal (KeepOut: Red), Crystal (KeepOut: Blue), Crystal (KeepOut: Green), Bonfire (Sticky), Sign (Sticky), Stump, Bread
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
 Repeated version
 Enemy
 ||~ Unit ||~ Items ||
-| | Amazon | | Steel Alloy ||
-| | Boar | | Bell ||
-| | Titlist | | Weed? ||
-| | Owl Knight | | Fan ||
-| | Werewolf | | Fishcake ||
-| | Zombie | | Watermelon ||
+|| Amazon || Steel Alloy ||
+|| Boar || Bell ||
+|| Titlist || Weed? ||
+|| Owl Knight || Fan ||
+|| Werewolf || Fishcake ||
+|| Zombie || Watermelon ||
 Items: Rainbow Shell (DEF +70%, HP Heal 10% & Sticky), Shell (EXP +50% & Money +50%), Bonfire (Sticky), Shell (Reinforce 50% & Sticky), Crystal (KeepOut: Red), Crystal (KeepOut: Blue), Crystal (KeepOut: Green), Stump, Bread, Crate, Blossom, Driftwood, PoisonRck, Barrel
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
@@ -1243,12 +1252,12 @@ Marona (Rooted, Grounded, No O.B. & Resistant)
 **AM 3-5 First Step to Revenge**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Dragon | | Hammer | | Resistant, Invincible & No O.B. (I) ||
-| | Dungeon Monk | | Treasure | | Warp & Invincible (I) ||
-| | Ghost | | Must-read | | SPD +50% (U) ||
-| | Ghost | | Encyc. | | HP Heal 50% (U) ||
-| | Ghost | | HintGuide | | DEF +50% (U) ||
-| | Summon x4 | | Slime | | ||
+|| Dragon || Hammer || Resistant, Invincible & No O.B. (I) ||
+|| Dungeon Monk || Treasure || Warp & Invincible (I) ||
+|| Ghost || Must-read || SPD +50% (U) ||
+|| Ghost || Encyc. || HP Heal 50% (U) ||
+|| Ghost || HintGuide || DEF +50% (U) ||
+|| Summon x4 || Slime || ||
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), !Prize Swd (Resistant, Invincible & No O.B.), Phonogrph (HP Heal 30%), Starfish, Driftwood, Bone, Dead Tree, Wither Tr, PoisonRck, Deadwood
 ! Rank 14 Sword
 Marona (Rooted, Grounded, No O.B. & Resistant)
@@ -1256,79 +1265,79 @@ Marona (Rooted, Grounded, No O.B. & Resistant)
 Repeated version
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Dragon | | Blossom | | Invincible & Resistant (U), Weaken 50% (I) ||
-| | Ghost x3 | | Book | | ||
-| | Summon x4 | | Slime | | ||
+|| Dragon || Blossom || Invincible & Resistant (U), Weaken 50% (I) ||
+|| Ghost x3 || Book || ||
+|| Summon x4 || Slime || ||
 Items: Rainbow Shell (DEF +70% & HP Heal 10%), Cursed Tr (EXP +80% & Mana +80%), Phonogrph (HP Heal 30%), Rotten Tr, Starfish, Driftwood, Bone, Anthill, Dead Tree, Wither Tr, PoisonRck, Deadwood
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
 **AM 3-6 Two Faced**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Summon | | Candle | | Reinforce 50% (U), Warp & HP Heal 20%) (I) ||
-| | Zombie | | Iron Axe | | ||
-| | Lady Zombie | | Iron Axe | | ||
-| | Zombie | | Hammer | | ||
-| | Lady Zombie | | Katana | | ||
-| | Lady Zombie | | Mace | | ||
-| | Zombie | | Mace | | ||
-| | Lady Zombie | | Hammer | | ||
-| | Zombie | | Katana | | ||
+|| Summon || Candle || Reinforce 50% (U), Warp & HP Heal 20%) (I) ||
+|| Zombie || Iron Axe || ||
+|| Lady Zombie || Iron Axe || ||
+|| Zombie || Hammer || ||
+|| Lady Zombie || Katana || ||
+|| Lady Zombie || Mace || ||
+|| Zombie || Mace || ||
+|| Lady Zombie || Hammer || ||
+|| Zombie || Katana || ||
 Items: Rainbow Shell (DEF +70%), Stump, Vase, Bonfire, Crate, Bread, SpiriTree
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
 Repeated version
 Enemy
 ||~ Unit ||~ Items ||
-| | Zombie | | Iron Axe ||
-| | Lady Zombie | | Iron Axe ||
-| | Zombie | | Hammer ||
-| | Lady Zombie | | Katana ||
-| | Lady Zombie | | Mace ||
-| | Zombie | | Mace ||
-| | Lady Zombie | | Hammer ||
-| | Zombie | | Katana ||
+|| Zombie || Iron Axe ||
+|| Lady Zombie || Iron Axe ||
+|| Zombie || Hammer ||
+|| Lady Zombie || Katana ||
+|| Lady Zombie || Mace ||
+|| Zombie || Mace ||
+|| Lady Zombie || Hammer ||
+|| Zombie || Katana ||
 Items: Rainbow Shell (DEF +70%), Sign (EXP +80%), Sacred Tr (Reinforce 50%), Flower, Blossom, Vase, Pot, Bomb, Misc Weed
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
 **AM 3-7 Source of Power**
 Enemy
 ||~ Unit ||~ Items ||
-| | Boar | | Steel Axe ||
-| | Knight | | Blade ||
-| | Fighter | | Gold Axe ||
-| | Archer | | Spirit Spr ||
-| | Valkyrie | | Steel Swd ||
-| | Amazon | | Steel Spr ||
+|| Boar || Steel Axe ||
+|| Knight || Blade ||
+|| Fighter || Gold Axe ||
+|| Archer || Spirit Spr ||
+|| Valkyrie || Steel Swd ||
+|| Amazon || Steel Spr ||
 Neutral
 ||~ Unit ||~ Items ||~ Protection ||
-| | Hell Corgi | | | | Resistant (U) ||
+|| Hell Corgi || - || Resistant (U) ||
 Items: Rainbow Shell (DEF +70%), EvlRockWd (No O.B., Invincible, SPD +40% & Rooted), Vase (Weaken 40%) x6, Misc Weed, PoisonRck, Seed, Rotten Tr, Wither Tr
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
 Repeated version
 Enemy
 ||~ Unit ||~ Items ||
-| | Boar | | Steel Axe ||
-| | Knight | | Blade ||
-| | Fighter | | Gold Axe ||
-| | Archer | | Spirit Spr ||
-| | Valkyrie | | Steel Swd ||
-| | Amazon | | Steel Spr ||
+|| Boar || Steel Axe ||
+|| Knight || Blade ||
+|| Fighter || Gold Axe ||
+|| Archer || Spirit Spr ||
+|| Valkyrie || Steel Swd ||
+|| Amazon || Steel Spr ||
 Items: Rainbow Shell (DEF +70%), Pot (EXP +50% & Mana +50%),Vase (Weaken 40%) x6,  EvlRockWd (Reinforce 50%), Misc Weed, PoisonRck, Rotten Tr, Cursed Tr, Seed, Wither Tr
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
 **AM 3-8 Final Battle**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Sulphur | | | | ||
-| | Dark Avatar x2 | | | | DEF +30% & HP Heal 20% (U) x2 ||
-| | Summon | | Dagger | | ATK +30% (U) ||
-| | Summon | | WideSword | | DEF +30% (U) ||
-| | Summon | | Axe | | HP Heal 30% (U) ||
-| | Summon | | Mace | | HP Heal 30% (U) ||
-| | Summon | | BronzeSpr | | DEF +30% (U) ||
-| | Summon | | Dark Wpn | | ATK +30% (U) ||
+|| Sulphur || || ||
+|| Dark Avatar x2 || - || DEF +30% & HP Heal 20% (U) x2 ||
+|| Summon || Dagger || ATK +30% (U) ||
+|| Summon || WideSword || DEF +30% (U) ||
+|| Summon || Axe || HP Heal 30% (U) ||
+|| Summon || Mace || HP Heal 30% (U) ||
+|| Summon || BronzeSpr || DEF +30% (U) ||
+|| Summon || Dark Wpn || ATK +30% (U) ||
 Items: Rainbow Shell (DEF X2 & HP Heal 20%), Water Can (Invincible & Weaken 90%), Starfish (Permanent), Treasure (SPD X2), Trolly (Warp & HP Heal 100%), Bread (Reinforce 50% & Damage 10%), Fish (HP Heal 50%), Vase (Reinforce 50% & SPD -30%), Crystal (DEF X2), Pot (ATK +50%)
 Marona (Rooted, Grounded, No O.B. & Resistant)
 
@@ -1338,15 +1347,15 @@ The prior stages will be replaced with the following stages
 **AM 4-1 A Girl's Battle**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | @Carona | | !Hell Ansas | | ||
-| | Owl Mage | | Lthograph | | KeepOut: Blue (U) ||
-| | Dragon | | Iron Sword | | KeepOut: Green (U) ||
-| | Witch x2 | | HintGuide | | ||
-| | Titlist x2 | | Dark Cane | | ||
-| | Giga Beast | | Steel Axe | | ||
-| | Manticore | | Cactus | | ||
-| | Cerberus | | Water Can | | ||
-| | Fenrir | | Dark Wpn | | ||
+|| @Carona || !Hell Ansas || ||
+|| Owl Mage || Lthograph || KeepOut: Blue (U) ||
+|| Dragon || Iron Sword || KeepOut: Green (U) ||
+|| Witch x2 || HintGuide || ||
+|| Titlist x2 || Dark Cane || ||
+|| Giga Beast || Steel Axe || ||
+|| Manticore || Cactus || ||
+| Cerberus || Water Can || ||
+|| Fenrir || Dark Wpn || ||
 ! Unique Item
 @ Removed on repeated version
 Items: Rainbow Shell (DEF X2 & HP Heal 20%), Flower (Reinforce 30%), Treasure (KeepOut: Red), Misc Weed (Reinforce 30%), Flower (Reinforce 30%), Deadwood (Reinforce 30%), PoisonRck (Reinforce 30%), SacredRck (Reinforce 30%), Bone (Reinforce 30%), Blossom (Reinforce 30%), Rotten Tr (Reinforce 30%) x2, Sunflower, Flower, Stump, Crystal, $Phonogrph (Reinforce x2), $Phonogrph (EXP X2 & Mana X2)
@@ -1357,7 +1366,7 @@ $ Added on repeated version
 Part 1
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | God Eryngi | | !Magenta Core | | Resistant (U), Invincible & Resistant (I) ||
+|| God Eryngi || !Magenta Core || Resistant (U), Invincible & Resistant (I) ||
 ! Can't be taken home even with a cheat device
 Items: Ebony Egg (Invincible) x3, Pillar (Invincible) x2, Crystal
 Marona (Reinforce 50% & HP Heal 20%)
@@ -1365,12 +1374,12 @@ Marona (Reinforce 50% & HP Heal 20%)
 Part 2
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-| | Sulphur | | | | ||
-| | God Eryngi | | !Magenta Core | | Invincible (U), Invincible & Resistant (I) ||
+|| Sulphur || || ||
+|| God Eryngi || !Magenta Core || Invincible (U), Invincible & Resistant (I) ||
 ! Can't be taken home even with a cheat device
 Neutral
 ||~ Unit ||~ Items ||~ Protection ||
-| | Carona | | @Hell Ansas | | Reinforce 50% & HP Heal 20% (U) ||
+|| Carona || @Hell Ansas || Reinforce 50% & HP Heal 20% (U) ||
 Items: Pillar (Reinforce 50%) x2, Seed, Blossom, SacredRck, Cactus, Sapling, Pumpkin, Sunflower, Misc Weed, Mushroom, Rotten Tr
 Marona (Reinforce 50% & HP Heal 20%)
 @ Unique Item, last chance to steal
@@ -1382,13 +1391,13 @@ If you're used to the Disgaea series or other NIS games at the time you would th
 ++ Passive Specials
 These are beneficial effects given to a unit once it is transferred to them, the more useful ones are listed below and with what unit has it to transfer to others via the Fusionist.
 ||~ Name ||~ Source ||~ Effect ||
-| | Exp. Riser | | Dungeon Monk (20), Amazon (10), Putty (10) | | +1% Exp per level ||
-| | Mana Monger | | Blacksmith (20), Fusionist (20), Putty Smith (10), Putty Shaman (10) | | +1% Mana per level ||
-| | Made of Money | | Merchant (20), Blob (20) | | +1% BOR per level ||
-| | Healing Steps | | Knight (10), Behemoth (10) | | Restore +1% HP per level every turn ||
-| | !Healing Birth | | Mystic (20), Lizardman (10) | | Restore +1% HP per level on Confinement ||
-| | !Swift Attack | | Archer, Fenrir, Werewolf | | Act immediately after Confinement ||
-| | !Energy Saver | | Soldier | | +1 Remove ||
+|| Exp. Riser || Dungeon Monk (20), Amazon (10), Putty (10) || +1% Exp per level ||
+|| Mana Monger || Blacksmith (20), Fusionist (20), Putty Smith (10), Putty Shaman (10) || +1% Mana per level ||
+|| Made of Money || Merchant (20), Blob (20) || +1% BOR per level ||
+|| Healing Steps || Knight (10), Behemoth (10) || Restore +1% HP per level every turn ||
+|| !Healing Birth || Mystic (20), Lizardman (10) || Restore +1% HP per level on Confinement ||
+|| !Swift Attack || Archer, Fenrir, Werewolf || Act immediately after Confinement ||
+|| !Energy Saver || Soldier || +1 Remove ||
 ! Do not give Marona these as they do nothing on her, also don't increase Swift Attack or Energy Saver as they do not have increasing effects.
 
 For passing specials to units it is suggested to use a Slime to pass a fusion to before your target unit if the unit in question has B or lower compatibility.
@@ -1403,7 +1412,7 @@ Find yourself stuck in a particular spot and need a grinding spot? I WOULD recom
 * Go to the Dungeon Monk and Create a Dungeon, look for Size: Small, Number of Enemies: Few and Ground: Normal with the highest level possible.
 * Go to the Titlist and change the Dungeon to have Failure as it's title, this will massively weaken enemies allowing you to take on powerful enemies with a weak team.
 * Go to the Dungeon and complete it.
-The highest level dungeon you can make is based on your Dungeon Monk who will gain exp as you complete dungeons they make, also items are not affected by the title so you can get great items that can replace what you are using and also helpful to get items with large amounts mana on them for fusion. This setting is mainly for getting higher level items to use for fusion below.
+The highest level dungeon you can make is based on your Dungeon Monk who will gain exp as you complete floors in the random dungeons they make, also items are not affected by the title so you can get great items that can replace what you are using and also helpful to get items with large amounts mana on them for fusion. This setting is mainly for getting higher level items to use for fusion below.
 
 +++ Failure Fusion To Increase Item Stats
 For Failure Fusion having 2 of the same item is recommended, you will get a smaller boost using a good title on both compared to using the Failure title on the one you want to boost. The process goes
