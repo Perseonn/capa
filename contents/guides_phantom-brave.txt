@@ -1563,7 +1563,7 @@ This is unlocked in the post game for any version that isn't the original Playst
 **Mt. Kazan - Hill of Death**
 Enemy
 ||~ Unit ||~ Items ||~ Protection ||
-|| Drab || Silver Axe | | ATK +20% (U) ||
+|| Drab || Silver Axe || ATK +20% (U) ||
 || Mimic x2 || - || SPD +50% (U) ||
 || Fighter x2 || Blade || ||
 || Blacksmith || Iron Ktna || DEF +20% (U), ATK +20% (I) ||
